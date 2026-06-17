@@ -11,52 +11,41 @@ require "lua.client.core.ResourceMgr"
 require "lua.client.core.BattleMgr"
 require "lua.client.core.inventory.HeroList"
 
----------------------------------- Hero List -----------------------------------
-local teamA = CsvReaderUtils.ReadAndParseLocalFile("teamA.json", nil, true)
-
-local heroListAttacker = HeroList()
-
-heroListAttacker:InitDatabase(teamA)
-
------------------------------ SummonerBattleInfo -------------------------------
--- SetInfo: (teamId, summonerId[0 = Tiros, 1 = Malefica, 2 = Bellator, 3 = Vesta, 4 = Faber, 5 = Sagittarius], star, level player)
--- SetSkills: (skill 1(Max) = 7, skill 2(Max) = 11)
-
--- Attack Team --
-local summonerAttacker = SummonerBattleInfo()
-
-summonerAttacker:SetInfo(1, 4, 11, 300)
-summonerAttacker:SetSkills(11, 7, 7, 7)
-
--- Defense Team --
-local summonerDefender = SummonerBattleInfo()
-
-summonerDefender:SetInfo(2, 4, 11, 300)
-summonerDefender:SetSkills(11, 7, 7, 7)
-
-------------------------------- HeroBattleInfo ---------------------------------
-
-for _, v in ipairs(heroListAttacker:GetItems()) do
-  local heroInfo = HeroBattleInfo()
-  print(v.heroId)
+--------------------------------------------------------------------------------
+local file = io.open("battle.json", "r")
+if not file then
+  error("Could not open file")
 end
 
-------------------------------- BattleTeamInfo ---------------------------------
--- SetFormationId: csv\battle\formation.csv
+local contents = file:read("*a")
+file:close()
 
--- Attack Team --
-local attackerTeamInfo = BattleTeamInfo()
+local data = json.decode(contents)
 
-attackerTeamInfo:SetFormationId(2)
-attackerTeamInfo:SetSummonerBattleInfo(summonerAttacker)
+--------------------------------------------------------------------------------
+function iniTeam(data)
+  ----------------------------------------
+  local summoner = SummonerBattleInfo()
+  summoner:SetInfo(data.teamId, data.summonerId, 11, 300)
+  summoner:SetSkills(data.summonerSkill)
 
--- Defense Team --
-local defenderTeamInfo = BattleTeamInfo()
+  ----------------------------------------
+  local teamInfo = BattleTeamInfo()
 
-defenderTeamInfo:SetFormationId(2)
-defenderTeamInfo:SetSummonerBattleInfo(summonerDefender)
+  teamInfo:SetFormationId(data.formationId)
+  teamInfo:SetSummonerBattleInfo(summoner)
 
----------------------------------- BattleMgr -----------------------------------
+  return teamInfo
+end
+
+--------------------------------------------------------------------------------
+local attackerTeamInfo = iniTeam(data.attackTeam)
+local defenderTeamInfo = iniTeam(data.defenseTeam)
+
+print(attackerTeamInfo)
+print(defenderTeamInfo)
+
+--------------------------------------------------------------------------------
 -- gameMode: lua\logicbattle\enum\battle\GameMode.lua
 -- runMode: lua\logicbattle\enum\battle\RunMode.lua
 
