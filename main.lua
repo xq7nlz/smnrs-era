@@ -25,15 +25,40 @@ local data = json.decode(contents)
 --------------------------------------------------------------------------------
 function iniTeam(data)
   ----------------------------------------
+  local heroList = HeroList()
+
+  heroList:InitDatabase(data.heroes)
+
+  ----------------------------------------
   local summoner = SummonerBattleInfo()
+
   summoner:SetInfo(data.teamId, data.summonerId, 11, 300)
-  summoner:SetSkills(data.summonerSkill)
+  summoner:SetSkills(table.unpack(data.summonerSkill))
 
   ----------------------------------------
   local teamInfo = BattleTeamInfo()
 
   teamInfo:SetFormationId(data.formationId)
   teamInfo:SetSummonerBattleInfo(summoner)
+
+  ----------------------------------------
+  local formationData = ResourceMgr.GetServiceConfig():GetHeroes():GetFormationData(teamInfo.formation)
+
+  for i, v in ipairs(heroList:GetItems()) do
+    local heroInfo = HeroBattleInfo()
+
+    heroInfo:SetInfo(data.teamId, v.heroId, v.heroStar, v.heroLevel)
+    heroInfo:SetItemsDict(v.heroItem, v.isHideSkin)
+
+    if i <= formationData.frontLine then
+      heroInfo:SetPosition(true, i)
+    else
+      heroInfo:SetPosition(false, i)
+    end
+
+    heroInfo:SetState(1, HeroConstants.DEFAULT_HERO_POWER)
+    teamInfo:AddHero(heroInfo)
+  end
 
   return teamInfo
 end
@@ -42,8 +67,8 @@ end
 local attackerTeamInfo = iniTeam(data.attackTeam)
 local defenderTeamInfo = iniTeam(data.defenseTeam)
 
-print(attackerTeamInfo)
-print(defenderTeamInfo)
+--[[ print(attackerTeamInfo)
+print(defenderTeamInfo) ]]
 
 --------------------------------------------------------------------------------
 -- gameMode: lua\logicbattle\enum\battle\GameMode.lua
@@ -56,4 +81,4 @@ local battleString = nil
 
 local battleMgr = BattleMgr()
 
---[[ battleMgr:RunVirtualBattle(attackerTeamInfo, defenderTeamInfo, gameMode, randomHelper, runMode, battleString) ]]
+battleMgr:RunVirtualBattle(attackerTeamInfo, defenderTeamInfo, gameMode, randomHelper, runMode, battleString)

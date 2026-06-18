@@ -40,6 +40,8 @@ CS = {
   }
 }
 
+IS_CLIENT_RUNNING = true
+
 zg = {
   sceneMgr = {
     gameMode = ''
