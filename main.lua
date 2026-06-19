@@ -67,9 +67,6 @@ end
 local attackerTeamInfo = iniTeam(data.attackTeam)
 local defenderTeamInfo = iniTeam(data.defenseTeam)
 
---[[ print(attackerTeamInfo)
-print(defenderTeamInfo) ]]
-
 --------------------------------------------------------------------------------
 -- gameMode: lua\logicbattle\enum\battle\GameMode.lua
 -- runMode: lua\logicbattle\enum\battle\RunMode.lua
