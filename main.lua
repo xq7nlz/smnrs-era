@@ -23,6 +23,11 @@ file:close()
 local data = json.decode(contents)
 
 --------------------------------------------------------------------------------
+local linkingDict = Dictionary()
+
+linkingDict:Add(24, 3)
+
+--------------------------------------------------------------------------------
 function iniTeam(data)
   ----------------------------------------
   local heroList = HeroList()
@@ -39,6 +44,20 @@ function iniTeam(data)
   local teamInfo = BattleTeamInfo()
 
   teamInfo:SetFormationId(data.formationId)
+
+  local masteries = data.masteries
+
+  if masteries ~= nil then
+    for heroClass, levels in ipairs(masteries) do
+      assert(levels ~= nil and #levels == SkillConstants.SUMMONER_NUMBER_MASTERY)
+      teamInfo:AddMasteriesClass(heroClass, levels[1], levels[2], levels[3], levels[4], levels[5], levels[6])
+    end
+  end
+
+  for i, v in pairs(linkingDict:GetItems()) do
+    teamInfo:AddLinkingGroup(i, v)
+  end
+
   teamInfo:SetSummonerBattleInfo(summoner)
 
   ----------------------------------------
