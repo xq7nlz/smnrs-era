@@ -66,6 +66,8 @@ function iniTeam(data)
   for i, v in ipairs(heroList:GetItems()) do
     local heroInfo = HeroBattleInfo()
 
+    print(v.heroId)
+
     heroInfo:SetInfo(data.teamId, v.heroId, v.heroStar, v.heroLevel)
     heroInfo:SetItemsDict(v.heroItem, v.isHideSkin)
 
