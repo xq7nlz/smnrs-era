@@ -9,7 +9,7 @@ require "lua.client.core.ClientRequire"
 require "lua.logicBattle._gen._LuaRequire"
 require "lua.client.core.ResourceMgr"
 require "lua.client.core.BattleMgr"
-require "lua.client.core.inventory.HeroList"
+require "lua.client.core.inventory.HeroResource"
 
 --------------------------------------------------------------------------------
 local file = io.open("battle.json", "r")
@@ -25,15 +25,14 @@ local data = json.decode(contents)
 --------------------------------------------------------------------------------
 local linkingDict = Dictionary()
 
+linkingDict:Add(7, 3)
+linkingDict:Add(14, 3)
+linkingDict:Add(21, 3)
 linkingDict:Add(24, 3)
+linkingDict:Add(25, 3)
 
 --------------------------------------------------------------------------------
 function iniTeam(data)
-  ----------------------------------------
-  local heroList = HeroList()
-
-  heroList:InitDatabase(data.heroes)
-
   ----------------------------------------
   local summoner = SummonerBattleInfo()
 
@@ -63,13 +62,13 @@ function iniTeam(data)
   ----------------------------------------
   local formationData = ResourceMgr.GetServiceConfig():GetHeroes():GetFormationData(teamInfo.formation)
 
-  for i, v in ipairs(heroList:GetItems()) do
+  for i, jsonHero in ipairs(data.heroes) do
+    local heroResource = HeroResource.CreateInstanceByJson(jsonHero)
+
     local heroInfo = HeroBattleInfo()
 
-    print(v.heroId)
-
-    heroInfo:SetInfo(data.teamId, v.heroId, v.heroStar, v.heroLevel)
-    heroInfo:SetItemsDict(v.heroItem, v.isHideSkin)
+    heroInfo:SetInfo(data.teamId, heroResource.heroId, heroResource.heroStar, heroResource.heroLevel)
+    heroInfo:SetItemsDict(heroResource.heroItem, heroResource.isHideSkin)
 
     if i <= formationData.frontLine then
       heroInfo:SetPosition(true, i)
