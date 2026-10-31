@@ -1,0 +1,4 @@
+name,trigger_chance,buff_stat,buff_amount,buff_duration,max_stack
+Ignatius_Passive3,0.3,2,0.15,3,3
+Ignatius_Passive3,0.4,2,0.2,3,3
+Ignatius_Passive3,0.5,2,0.25,3,3

@@ -1,0 +1,4 @@
+name,target_position,target_number,heal_amount_per_round,heal_amount_increase_per_round
+Ninetales_Passive3,10,5,0.2,0.05
+Ninetales_Passive3,10,5,0.3,0.1
+Ninetales_Passive3,10,5,0.4,0.15

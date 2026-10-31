@@ -1,0 +1,1467 @@
+[
+  {
+    "heroId": 30001,
+    "heroConfig": "csv/hero/abyss/hero_30001_Charon/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30001_Charon/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30001_Charon/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30001_Charon/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30001_Charon/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30002,
+    "heroConfig": "csv/hero/abyss/hero_30002_En/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30002_En/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30002_En/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30002_En/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30002_En/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30003,
+    "heroConfig": "csv/hero/abyss/hero_30003_Nero/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30003_Nero/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30003_Nero/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30003_Nero/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30003_Nero/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30004,
+    "heroConfig": "csv/hero/abyss/hero_30004_Stheno/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30004_Stheno/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30004_Stheno/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30004_Stheno/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30004_Stheno/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30005,
+    "heroConfig": "csv/hero/abyss/hero_30005_Jormungand/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30005_Jormungand/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30005_Jormungand/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30005_Jormungand/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30005_Jormungand/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30006,
+    "heroConfig": "csv/hero/abyss/hero_30006_Thanatos/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30006_Thanatos/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30006_Thanatos/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30006_Thanatos/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30006_Thanatos/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30007,
+    "heroConfig": "csv/hero/abyss/hero_30007_Zygor/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30007_Zygor/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30007_Zygor/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30007_Zygor/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30007_Zygor/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30008,
+    "heroConfig": "csv/hero/abyss/hero_30008_Kozorg/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30008_Kozorg/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30008_Kozorg/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30008_Kozorg/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30008_Kozorg/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30009,
+    "heroConfig": "csv/hero/abyss/hero_30009_Gorzodin/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30009_Gorzodin/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30009_Gorzodin/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30009_Gorzodin/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30009_Gorzodin/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30010,
+    "heroConfig": "csv/hero/abyss/hero_30010_Erde/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30010_Erde/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30010_Erde/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30010_Erde/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30010_Erde/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30011,
+    "heroConfig": "csv/hero/abyss/hero_30011_Skaven/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30011_Skaven/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30011_Skaven/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30011_Skaven/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30011_Skaven/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30012,
+    "heroConfig": "csv/hero/abyss/hero_30012_Dzuteh/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30012_Dzuteh/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30012_Dzuteh/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30012_Dzuteh/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30012_Dzuteh/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30013,
+    "heroConfig": "csv/hero/abyss/hero_30013_Minimanser/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30013_Minimanser/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30013_Minimanser/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30013_Minimanser/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30013_Minimanser/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30014,
+    "heroConfig": "csv/hero/abyss/hero_30014_Kargoth/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30014_Kargoth/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30014_Kargoth/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30014_Kargoth/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30014_Kargoth/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30015,
+    "heroConfig": "csv/hero/abyss/hero_30015_Fang/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30015_Fang/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30015_Fang/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30016,
+    "heroConfig": "csv/hero/abyss/hero_30016_SkeletonBowman/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30016_SkeletonBowman/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 30017,
+    "heroConfig": "csv/hero/abyss/hero_30017_Gloz/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30017_Gloz/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 30018,
+    "heroConfig": "csv/hero/abyss/hero_30018_DeathJester/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30018_DeathJester/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30018_DeathJester/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30018_DeathJester/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 30019,
+    "heroConfig": "csv/hero/abyss/hero_30019_Elne/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30019_Elne/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30019_Elne/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30019_Elne/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30020,
+    "heroConfig": "csv/hero/abyss/hero_30020_Thanatos/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30020_Thanatos/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30020_Thanatos/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30020_Thanatos/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30021,
+    "heroConfig": "csv/hero/abyss/hero_30021_EarthMaster/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30021_EarthMaster/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30021_EarthMaster/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30021_EarthMaster/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30022,
+    "heroConfig": "csv/hero/abyss/hero_30022_Dungan/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30022_Dungan/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30022_Dungan/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30022_Dungan/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30023,
+    "heroConfig": "csv/hero/abyss/hero_30023_DrPlague/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30023_DrPlague/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30023_DrPlague/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30023_DrPlague/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30024,
+    "heroConfig": "csv/hero/abyss/hero_30024_Ozroth/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30024_Ozroth/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30024_Ozroth/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30024_Ozroth/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 30025,
+    "heroConfig": "csv/hero/abyss/hero_30025_Grig/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30025_Grig/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30025_Grig/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 30026,
+    "heroConfig": "csv/hero/abyss/hero_30026_Vlad/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30026_Vlad/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30026_Vlad/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 30027,
+    "heroConfig": "csv/hero/abyss/hero_30027_Kazetsu/hero.csv",
+    "skillConfigs": [
+      "csv/hero/abyss/hero_30027_Kazetsu/hero_skill_1.csv",
+      "csv/hero/abyss/hero_30027_Kazetsu/hero_skill_2.csv",
+      "csv/hero/abyss/hero_30027_Kazetsu/hero_skill_3.csv",
+      "csv/hero/abyss/hero_30027_Kazetsu/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60001,
+    "heroConfig": "csv/hero/dark/hero_60001_BlackArrow/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60001_BlackArrow/hero_skill_1.csv",
+      "csv/hero/dark/hero_60001_BlackArrow/hero_skill_2.csv",
+      "csv/hero/dark/hero_60001_BlackArrow/hero_skill_3.csv",
+      "csv/hero/dark/hero_60001_BlackArrow/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60002,
+    "heroConfig": "csv/hero/dark/hero_60002_Bloodseeker/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60002_Bloodseeker/hero_skill_1.csv",
+      "csv/hero/dark/hero_60002_Bloodseeker/hero_skill_2.csv",
+      "csv/hero/dark/hero_60002_Bloodseeker/hero_skill_3.csv",
+      "csv/hero/dark/hero_60002_Bloodseeker/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60003,
+    "heroConfig": "csv/hero/dark/hero_60003_ShadowBlade/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60003_ShadowBlade/hero_skill_1.csv",
+      "csv/hero/dark/hero_60003_ShadowBlade/hero_skill_2.csv",
+      "csv/hero/dark/hero_60003_ShadowBlade/hero_skill_3.csv",
+      "csv/hero/dark/hero_60003_ShadowBlade/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60004,
+    "heroConfig": "csv/hero/dark/hero_60004_Karos/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60004_Karos/hero_skill_1.csv",
+      "csv/hero/dark/hero_60004_Karos/hero_skill_2.csv",
+      "csv/hero/dark/hero_60004_Karos/hero_skill_3.csv",
+      "csv/hero/dark/hero_60004_Karos/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60005,
+    "heroConfig": "csv/hero/dark/hero_60005_Carnifex/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60005_Carnifex/hero_skill_1.csv",
+      "csv/hero/dark/hero_60005_Carnifex/hero_skill_2.csv",
+      "csv/hero/dark/hero_60005_Carnifex/hero_skill_3.csv",
+      "csv/hero/dark/hero_60005_Carnifex/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60006,
+    "heroConfig": "csv/hero/dark/hero_60006_Hehta/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60006_Hehta/hero_skill_1.csv",
+      "csv/hero/dark/hero_60006_Hehta/hero_skill_2.csv",
+      "csv/hero/dark/hero_60006_Hehta/hero_skill_3.csv",
+      "csv/hero/dark/hero_60006_Hehta/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60007,
+    "heroConfig": "csv/hero/dark/hero_60007_Rannantos/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60007_Rannantos/hero_skill_1.csv",
+      "csv/hero/dark/hero_60007_Rannantos/hero_skill_2.csv",
+      "csv/hero/dark/hero_60007_Rannantos/hero_skill_3.csv",
+      "csv/hero/dark/hero_60007_Rannantos/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60008,
+    "heroConfig": "csv/hero/dark/hero_60008_Renaks/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60008_Renaks/hero_skill_1.csv",
+      "csv/hero/dark/hero_60008_Renaks/hero_skill_2.csv",
+      "csv/hero/dark/hero_60008_Renaks/hero_skill_3.csv",
+      "csv/hero/dark/hero_60008_Renaks/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60009,
+    "heroConfig": "csv/hero/dark/hero_60009_Khann/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60009_Khann/hero_skill_1.csv",
+      "csv/hero/dark/hero_60009_Khann/hero_skill_2.csv",
+      "csv/hero/dark/hero_60009_Khann/hero_skill_3.csv",
+      "csv/hero/dark/hero_60009_Khann/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60010,
+    "heroConfig": "csv/hero/dark/hero_60010_Diadora/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60010_Diadora/hero_skill_1.csv",
+      "csv/hero/dark/hero_60010_Diadora/hero_skill_2.csv",
+      "csv/hero/dark/hero_60010_Diadora/hero_skill_3.csv",
+      "csv/hero/dark/hero_60010_Diadora/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60011,
+    "heroConfig": "csv/hero/dark/hero_60011_Vera/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60011_Vera/hero_skill_1.csv",
+      "csv/hero/dark/hero_60011_Vera/hero_skill_2.csv",
+      "csv/hero/dark/hero_60011_Vera/hero_skill_3.csv",
+      "csv/hero/dark/hero_60011_Vera/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60012,
+    "heroConfig": "csv/hero/dark/hero_60012_Juan/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60012_Juan/hero_skill_1.csv",
+      "csv/hero/dark/hero_60012_Juan/hero_skill_2.csv",
+      "csv/hero/dark/hero_60012_Juan/hero_skill_3.csv",
+      "csv/hero/dark/hero_60012_Juan/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60013,
+    "heroConfig": "csv/hero/dark/hero_60013_DarkKnight/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60013_DarkKnight/hero_skill_1.csv",
+      "csv/hero/dark/hero_60013_DarkKnight/hero_skill_2.csv",
+      "csv/hero/dark/hero_60013_DarkKnight/hero_skill_3.csv",
+      "csv/hero/dark/hero_60013_DarkKnight/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60014,
+    "heroConfig": "csv/hero/dark/hero_60014_Shishil/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60014_Shishil/hero_skill_1.csv",
+      "csv/hero/dark/hero_60014_Shishil/hero_skill_2.csv",
+      "csv/hero/dark/hero_60014_Shishil/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60015,
+    "heroConfig": "csv/hero/dark/hero_60015_Murath/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60015_Murath/hero_skill_1.csv",
+      "csv/hero/dark/hero_60015_Murath/hero_skill_3.csv",
+      "csv/hero/dark/hero_60015_Murath/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60016,
+    "heroConfig": "csv/hero/dark/hero_60016_DarkMage/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60016_DarkMage/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 60017,
+    "heroConfig": "csv/hero/dark/hero_60017_Ninja/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60017_Ninja/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 60018,
+    "heroConfig": "csv/hero/dark/hero_60018_Mace/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60018_Mace/hero_skill_1.csv",
+      "csv/hero/dark/hero_60018_Mace/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60019,
+    "heroConfig": "csv/hero/dark/hero_60019_Spear/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60019_Spear/hero_skill_1.csv",
+      "csv/hero/dark/hero_60019_Spear/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 60020,
+    "heroConfig": "csv/hero/dark/hero_60020_Hammer/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60020_Hammer/hero_skill_1.csv",
+      "csv/hero/dark/hero_60020_Hammer/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60021,
+    "heroConfig": "csv/hero/dark/hero_60021_DarkArcher/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60021_DarkArcher/hero_skill_1.csv",
+      "csv/hero/dark/hero_60021_DarkArcher/hero_skill_2.csv",
+      "csv/hero/dark/hero_60021_DarkArcher/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 60022,
+    "heroConfig": "csv/hero/dark/hero_60022_DeadServant/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60022_DeadServant/hero_skill_1.csv",
+      "csv/hero/dark/hero_60022_DeadServant/hero_skill_3.csv",
+      "csv/hero/dark/hero_60022_DeadServant/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60023,
+    "heroConfig": "csv/hero/dark/hero_60023_Tauren/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60023_Tauren/hero_skill_1.csv",
+      "csv/hero/dark/hero_60023_Tauren/hero_skill_2.csv",
+      "csv/hero/dark/hero_60023_Tauren/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60024,
+    "heroConfig": "csv/hero/dark/hero_60024_DarkPriest/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60024_DarkPriest/hero_skill_1.csv",
+      "csv/hero/dark/hero_60024_DarkPriest/hero_skill_2.csv",
+      "csv/hero/dark/hero_60024_DarkPriest/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 60025,
+    "heroConfig": "csv/hero/dark/hero_60025_Vampire/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60025_Vampire/hero_skill_1.csv",
+      "csv/hero/dark/hero_60025_Vampire/hero_skill_2.csv",
+      "csv/hero/dark/hero_60025_Vampire/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 60026,
+    "heroConfig": "csv/hero/dark/hero_60026_Ghunon/hero.csv",
+    "skillConfigs": [
+      "csv/hero/dark/hero_60026_Ghunon/hero_skill_1.csv",
+      "csv/hero/dark/hero_60026_Ghunon/hero_skill_2.csv",
+      "csv/hero/dark/hero_60026_Ghunon/hero_skill_3.csv",
+      "csv/hero/dark/hero_60026_Ghunon/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20001,
+    "heroConfig": "csv/hero/fire/hero_20001_Icarus/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20001_Icarus/hero_skill_1.csv",
+      "csv/hero/fire/hero_20001_Icarus/hero_skill_2.csv",
+      "csv/hero/fire/hero_20001_Icarus/hero_skill_3.csv",
+      "csv/hero/fire/hero_20001_Icarus/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20002,
+    "heroConfig": "csv/hero/fire/hero_20002_Arien/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20002_Arien/hero_skill_1.csv",
+      "csv/hero/fire/hero_20002_Arien/hero_skill_2.csv",
+      "csv/hero/fire/hero_20002_Arien/hero_skill_3.csv",
+      "csv/hero/fire/hero_20002_Arien/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20003,
+    "heroConfig": "csv/hero/fire/hero_20003_Eitri/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20003_Eitri/hero_skill_1.csv",
+      "csv/hero/fire/hero_20003_Eitri/hero_skill_2.csv",
+      "csv/hero/fire/hero_20003_Eitri/hero_skill_3.csv",
+      "csv/hero/fire/hero_20003_Eitri/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20004,
+    "heroConfig": "csv/hero/fire/hero_20004_Defronowe/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20004_Defronowe/hero_skill_1.csv",
+      "csv/hero/fire/hero_20004_Defronowe/hero_skill_2.csv",
+      "csv/hero/fire/hero_20004_Defronowe/hero_skill_3.csv",
+      "csv/hero/fire/hero_20004_Defronowe/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20005,
+    "heroConfig": "csv/hero/fire/hero_20005_Yin/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20005_Yin/hero_skill_1.csv",
+      "csv/hero/fire/hero_20005_Yin/hero_skill_2.csv",
+      "csv/hero/fire/hero_20005_Yin/hero_skill_3.csv",
+      "csv/hero/fire/hero_20005_Yin/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20006,
+    "heroConfig": "csv/hero/fire/hero_20006_Finde/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20006_Finde/hero_skill_1.csv",
+      "csv/hero/fire/hero_20006_Finde/hero_skill_2.csv",
+      "csv/hero/fire/hero_20006_Finde/hero_skill_3.csv",
+      "csv/hero/fire/hero_20006_Finde/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20007,
+    "heroConfig": "csv/hero/fire/hero_20007_Ninetales/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20007_Ninetales/hero_skill_1.csv",
+      "csv/hero/fire/hero_20007_Ninetales/hero_skill_2.csv",
+      "csv/hero/fire/hero_20007_Ninetales/hero_skill_3.csv",
+      "csv/hero/fire/hero_20007_Ninetales/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20008,
+    "heroConfig": "csv/hero/fire/hero_20008_Moblin/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20008_Moblin/hero_skill_1.csv",
+      "csv/hero/fire/hero_20008_Moblin/hero_skill_2.csv",
+      "csv/hero/fire/hero_20008_Moblin/hero_skill_3.csv",
+      "csv/hero/fire/hero_20008_Moblin/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20009,
+    "heroConfig": "csv/hero/fire/hero_20009_Fragnil/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20009_Fragnil/hero_skill_1.csv",
+      "csv/hero/fire/hero_20009_Fragnil/hero_skill_2.csv",
+      "csv/hero/fire/hero_20009_Fragnil/hero_skill_3.csv",
+      "csv/hero/fire/hero_20009_Fragnil/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20010,
+    "heroConfig": "csv/hero/fire/hero_20010_Ungoliant/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20010_Ungoliant/hero_skill_1.csv",
+      "csv/hero/fire/hero_20010_Ungoliant/hero_skill_2.csv",
+      "csv/hero/fire/hero_20010_Ungoliant/hero_skill_3.csv",
+      "csv/hero/fire/hero_20010_Ungoliant/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20011,
+    "heroConfig": "csv/hero/fire/hero_20011_Labord/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20011_Labord/hero_skill_1.csv",
+      "csv/hero/fire/hero_20011_Labord/hero_skill_2.csv",
+      "csv/hero/fire/hero_20011_Labord/hero_skill_3.csv",
+      "csv/hero/fire/hero_20011_Labord/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20012,
+    "heroConfig": "csv/hero/fire/hero_20012_Sharon/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20012_Sharon/hero_skill_1.csv",
+      "csv/hero/fire/hero_20012_Sharon/hero_skill_2.csv",
+      "csv/hero/fire/hero_20012_Sharon/hero_skill_3.csv",
+      "csv/hero/fire/hero_20012_Sharon/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20013,
+    "heroConfig": "csv/hero/fire/hero_20013_Zeres/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20013_Zeres/hero_skill_1.csv",
+      "csv/hero/fire/hero_20013_Zeres/hero_skill_2.csv",
+      "csv/hero/fire/hero_20013_Zeres/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20014,
+    "heroConfig": "csv/hero/fire/hero_20014_Khezzac/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20014_Khezzac/hero_skill_1.csv",
+      "csv/hero/fire/hero_20014_Khezzac/hero_skill_2.csv",
+      "csv/hero/fire/hero_20014_Khezzac/hero_skill_3.csv",
+      "csv/hero/fire/hero_20014_Khezzac/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20015,
+    "heroConfig": "csv/hero/fire/hero_20015_Kadul/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20015_Kadul/hero_skill_1.csv",
+      "csv/hero/fire/hero_20015_Kadul/hero_skill_2.csv",
+      "csv/hero/fire/hero_20015_Kadul/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20016,
+    "heroConfig": "csv/hero/fire/hero_20016_Ifrit/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20016_Ifrit/hero_skill_1.csv",
+      "csv/hero/fire/hero_20016_Ifrit/hero_skill_2.csv",
+      "csv/hero/fire/hero_20016_Ifrit/hero_skill_3.csv",
+      "csv/hero/fire/hero_20016_Ifrit/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20017,
+    "heroConfig": "csv/hero/fire/hero_20017_Rufus/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20017_Rufus/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 20018,
+    "heroConfig": "csv/hero/fire/hero_20018_FireSpirit/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20018_FireSpirit/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 20019,
+    "heroConfig": "csv/hero/fire/hero_20019_Golr/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20019_Golr/hero_skill_1.csv",
+      "csv/hero/fire/hero_20019_Golr/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 20020,
+    "heroConfig": "csv/hero/fire/hero_20020_Ira/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20020_Ira/hero_skill_1.csv",
+      "csv/hero/fire/hero_20020_Ira/hero_skill_3.csv",
+      "csv/hero/fire/hero_20020_Ira/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20021,
+    "heroConfig": "csv/hero/fire/hero_20021_Cain/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20021_Cain/hero_skill_1.csv",
+      "csv/hero/fire/hero_20021_Cain/hero_skill_2.csv"
+    ]
+  },
+  {
+    "heroId": 20022,
+    "heroConfig": "csv/hero/fire/hero_20022_Imp/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20022_Imp/hero_skill_1.csv",
+      "csv/hero/fire/hero_20022_Imp/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 20023,
+    "heroConfig": "csv/hero/fire/hero_20023_Kaboom/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20023_Kaboom/hero_skill_1.csv",
+      "csv/hero/fire/hero_20023_Kaboom/hero_skill_3.csv",
+      "csv/hero/fire/hero_20023_Kaboom/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20024,
+    "heroConfig": "csv/hero/fire/hero_20024_Yasin/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20024_Yasin/hero_skill_1.csv",
+      "csv/hero/fire/hero_20024_Yasin/hero_skill_3.csv",
+      "csv/hero/fire/hero_20024_Yasin/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20025,
+    "heroConfig": "csv/hero/fire/hero_20025_Yirlal/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20025_Yirlal/hero_skill_1.csv",
+      "csv/hero/fire/hero_20025_Yirlal/hero_skill_2.csv",
+      "csv/hero/fire/hero_20025_Yirlal/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 20026,
+    "heroConfig": "csv/hero/fire/hero_20026_Kardoh/hero.csv",
+    "skillConfigs": [
+      "csv/hero/fire/hero_20026_Kardoh/hero_skill_1.csv",
+      "csv/hero/fire/hero_20026_Kardoh/hero_skill_2.csv",
+      "csv/hero/fire/hero_20026_Kardoh/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 50001,
+    "heroConfig": "csv/hero/light/hero_50001_AmiableAngel/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50001_AmiableAngel/hero_skill_1.csv",
+      "csv/hero/light/hero_50001_AmiableAngel/hero_skill_2.csv",
+      "csv/hero/light/hero_50001_AmiableAngel/hero_skill_3.csv",
+      "csv/hero/light/hero_50001_AmiableAngel/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50002,
+    "heroConfig": "csv/hero/light/hero_50002_HolyKnight/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50002_HolyKnight/hero_skill_1.csv",
+      "csv/hero/light/hero_50002_HolyKnight/hero_skill_2.csv",
+      "csv/hero/light/hero_50002_HolyKnight/hero_skill_3.csv",
+      "csv/hero/light/hero_50002_HolyKnight/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50003,
+    "heroConfig": "csv/hero/light/hero_50003_LifeKeeper/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50003_LifeKeeper/hero_skill_1.csv",
+      "csv/hero/light/hero_50003_LifeKeeper/hero_skill_2.csv",
+      "csv/hero/light/hero_50003_LifeKeeper/hero_skill_3.csv",
+      "csv/hero/light/hero_50003_LifeKeeper/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50004,
+    "heroConfig": "csv/hero/light/hero_50004_Grimm/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50004_Grimm/hero_skill_1.csv",
+      "csv/hero/light/hero_50004_Grimm/hero_skill_2.csv",
+      "csv/hero/light/hero_50004_Grimm/hero_skill_3.csv",
+      "csv/hero/light/hero_50004_Grimm/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50005,
+    "heroConfig": "csv/hero/light/hero_50005_GuardianOfLight/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50005_GuardianOfLight/hero_skill_1.csv",
+      "csv/hero/light/hero_50005_GuardianOfLight/hero_skill_2.csv",
+      "csv/hero/light/hero_50005_GuardianOfLight/hero_skill_3.csv",
+      "csv/hero/light/hero_50005_GuardianOfLight/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50006,
+    "heroConfig": "csv/hero/light/hero_50006_Enule/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50006_Enule/hero_skill_1.csv",
+      "csv/hero/light/hero_50006_Enule/hero_skill_2.csv",
+      "csv/hero/light/hero_50006_Enule/hero_skill_3.csv",
+      "csv/hero/light/hero_50006_Enule/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50007,
+    "heroConfig": "csv/hero/light/hero_50007_Celestia/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50007_Celestia/hero_skill_1.csv",
+      "csv/hero/light/hero_50007_Celestia/hero_skill_2.csv",
+      "csv/hero/light/hero_50007_Celestia/hero_skill_3.csv",
+      "csv/hero/light/hero_50007_Celestia/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50008,
+    "heroConfig": "csv/hero/light/hero_50008_Fanar/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50008_Fanar/hero_skill_1.csv",
+      "csv/hero/light/hero_50008_Fanar/hero_skill_2.csv",
+      "csv/hero/light/hero_50008_Fanar/hero_skill_3.csv",
+      "csv/hero/light/hero_50008_Fanar/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50009,
+    "heroConfig": "csv/hero/light/hero_50009_Aris/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50009_Aris/hero_skill_1.csv",
+      "csv/hero/light/hero_50009_Aris/hero_skill_2.csv",
+      "csv/hero/light/hero_50009_Aris/hero_skill_3.csv",
+      "csv/hero/light/hero_50009_Aris/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50010,
+    "heroConfig": "csv/hero/light/hero_50010_Sephion/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50010_Sephion/hero_skill_1.csv",
+      "csv/hero/light/hero_50010_Sephion/hero_skill_2.csv",
+      "csv/hero/light/hero_50010_Sephion/hero_skill_3.csv",
+      "csv/hero/light/hero_50010_Sephion/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50011,
+    "heroConfig": "csv/hero/light/hero_50011_Ignatius/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50011_Ignatius/hero_skill_1.csv",
+      "csv/hero/light/hero_50011_Ignatius/hero_skill_2.csv",
+      "csv/hero/light/hero_50011_Ignatius/hero_skill_3.csv",
+      "csv/hero/light/hero_50011_Ignatius/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50012,
+    "heroConfig": "csv/hero/light/hero_50012_Alvar/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50012_Alvar/hero_skill_1.csv",
+      "csv/hero/light/hero_50012_Alvar/hero_skill_2.csv",
+      "csv/hero/light/hero_50012_Alvar/hero_skill_3.csv",
+      "csv/hero/light/hero_50012_Alvar/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50013,
+    "heroConfig": "csv/hero/light/hero_50013_Celes/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50013_Celes/hero_skill_1.csv",
+      "csv/hero/light/hero_50013_Celes/hero_skill_2.csv",
+      "csv/hero/light/hero_50013_Celes/hero_skill_3.csv",
+      "csv/hero/light/hero_50013_Celes/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50014,
+    "heroConfig": "csv/hero/light/hero_50014_Hweston/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50014_Hweston/hero_skill_1.csv",
+      "csv/hero/light/hero_50014_Hweston/hero_skill_3.csv",
+      "csv/hero/light/hero_50014_Hweston/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50015,
+    "heroConfig": "csv/hero/light/hero_50015_Navro/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50015_Navro/hero_skill_1.csv",
+      "csv/hero/light/hero_50015_Navro/hero_skill_2.csv",
+      "csv/hero/light/hero_50015_Navro/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50016,
+    "heroConfig": "csv/hero/light/hero_50016_LightMage/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50016_LightMage/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 50017,
+    "heroConfig": "csv/hero/light/hero_50017_LightWarrior/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50017_LightWarrior/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 50018,
+    "heroConfig": "csv/hero/light/hero_50018_TinkerBell/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50018_TinkerBell/hero_skill_1.csv",
+      "csv/hero/light/hero_50018_TinkerBell/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50019,
+    "heroConfig": "csv/hero/light/hero_50019_Nun/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50019_Nun/hero_skill_1.csv",
+      "csv/hero/light/hero_50019_Nun/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 50020,
+    "heroConfig": "csv/hero/light/hero_50020_Soldier/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50020_Soldier/hero_skill_1.csv",
+      "csv/hero/light/hero_50020_Soldier/hero_skill_2.csv"
+    ]
+  },
+  {
+    "heroId": 50021,
+    "heroConfig": "csv/hero/light/hero_50021_Archer/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50021_Archer/hero_skill_1.csv",
+      "csv/hero/light/hero_50021_Archer/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50022,
+    "heroConfig": "csv/hero/light/hero_50022_Elf/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50022_Elf/hero_skill_1.csv",
+      "csv/hero/light/hero_50022_Elf/hero_skill_2.csv",
+      "csv/hero/light/hero_50022_Elf/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 50023,
+    "heroConfig": "csv/hero/light/hero_50023_Dancer/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50023_Dancer/hero_skill_1.csv",
+      "csv/hero/light/hero_50023_Dancer/hero_skill_3.csv",
+      "csv/hero/light/hero_50023_Dancer/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50024,
+    "heroConfig": "csv/hero/light/hero_50024_Dwarf/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50024_Dwarf/hero_skill_1.csv",
+      "csv/hero/light/hero_50024_Dwarf/hero_skill_3.csv",
+      "csv/hero/light/hero_50024_Dwarf/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 50025,
+    "heroConfig": "csv/hero/light/hero_50025_Avorn/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50025_Avorn/hero_skill_1.csv",
+      "csv/hero/light/hero_50025_Avorn/hero_skill_2.csv",
+      "csv/hero/light/hero_50025_Avorn/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 50026,
+    "heroConfig": "csv/hero/light/hero_50026_Fioneth/hero.csv",
+    "skillConfigs": [
+      "csv/hero/light/hero_50026_Fioneth/hero_skill_1.csv",
+      "csv/hero/light/hero_50026_Fioneth/hero_skill_2.csv",
+      "csv/hero/light/hero_50026_Fioneth/hero_skill_3.csv",
+      "csv/hero/light/hero_50026_Fioneth/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40001,
+    "heroConfig": "csv/hero/nature/hero_40001_Tilion/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40001_Tilion/hero_skill_1.csv",
+      "csv/hero/nature/hero_40001_Tilion/hero_skill_2.csv",
+      "csv/hero/nature/hero_40001_Tilion/hero_skill_3.csv",
+      "csv/hero/nature/hero_40001_Tilion/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40002,
+    "heroConfig": "csv/hero/nature/hero_40002_Yggra/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40002_Yggra/hero_skill_1.csv",
+      "csv/hero/nature/hero_40002_Yggra/hero_skill_2.csv",
+      "csv/hero/nature/hero_40002_Yggra/hero_skill_3.csv",
+      "csv/hero/nature/hero_40002_Yggra/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40003,
+    "heroConfig": "csv/hero/nature/hero_40003_Arryl/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40003_Arryl/hero_skill_1.csv",
+      "csv/hero/nature/hero_40003_Arryl/hero_skill_2.csv",
+      "csv/hero/nature/hero_40003_Arryl/hero_skill_3.csv",
+      "csv/hero/nature/hero_40003_Arryl/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40004,
+    "heroConfig": "csv/hero/nature/hero_40004_Cennunos/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40004_Cennunos/hero_skill_1.csv",
+      "csv/hero/nature/hero_40004_Cennunos/hero_skill_2.csv",
+      "csv/hero/nature/hero_40004_Cennunos/hero_skill_3.csv",
+      "csv/hero/nature/hero_40004_Cennunos/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40005,
+    "heroConfig": "csv/hero/nature/hero_40005_Yang/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40005_Yang/hero_skill_1.csv",
+      "csv/hero/nature/hero_40005_Yang/hero_skill_2.csv",
+      "csv/hero/nature/hero_40005_Yang/hero_skill_3.csv",
+      "csv/hero/nature/hero_40005_Yang/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40006,
+    "heroConfig": "csv/hero/nature/hero_40006_Oropher/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40006_Oropher/hero_skill_1.csv",
+      "csv/hero/nature/hero_40006_Oropher/hero_skill_2.csv",
+      "csv/hero/nature/hero_40006_Oropher/hero_skill_3.csv",
+      "csv/hero/nature/hero_40006_Oropher/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40007,
+    "heroConfig": "csv/hero/nature/hero_40007_Noroth/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40007_Noroth/hero_skill_1.csv",
+      "csv/hero/nature/hero_40007_Noroth/hero_skill_2.csv",
+      "csv/hero/nature/hero_40007_Noroth/hero_skill_3.csv",
+      "csv/hero/nature/hero_40007_Noroth/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40008,
+    "heroConfig": "csv/hero/nature/hero_40008_Lass/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40008_Lass/hero_skill_1.csv",
+      "csv/hero/nature/hero_40008_Lass/hero_skill_2.csv",
+      "csv/hero/nature/hero_40008_Lass/hero_skill_3.csv",
+      "csv/hero/nature/hero_40008_Lass/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40009,
+    "heroConfig": "csv/hero/nature/hero_40009_Sylph/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40009_Sylph/hero_skill_1.csv",
+      "csv/hero/nature/hero_40009_Sylph/hero_skill_2.csv",
+      "csv/hero/nature/hero_40009_Sylph/hero_skill_3.csv",
+      "csv/hero/nature/hero_40009_Sylph/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40010,
+    "heroConfig": "csv/hero/nature/hero_40010_Yome/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40010_Yome/hero_skill_1.csv",
+      "csv/hero/nature/hero_40010_Yome/hero_skill_2.csv",
+      "csv/hero/nature/hero_40010_Yome/hero_skill_3.csv",
+      "csv/hero/nature/hero_40010_Yome/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40011,
+    "heroConfig": "csv/hero/nature/hero_40011_Neutar/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40011_Neutar/hero_skill_1.csv",
+      "csv/hero/nature/hero_40011_Neutar/hero_skill_2.csv",
+      "csv/hero/nature/hero_40011_Neutar/hero_skill_3.csv",
+      "csv/hero/nature/hero_40011_Neutar/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40012,
+    "heroConfig": "csv/hero/nature/hero_40012_Lothiriel/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40012_Lothiriel/hero_skill_1.csv",
+      "csv/hero/nature/hero_40012_Lothiriel/hero_skill_2.csv",
+      "csv/hero/nature/hero_40012_Lothiriel/hero_skill_3.csv",
+      "csv/hero/nature/hero_40012_Lothiriel/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40013,
+    "heroConfig": "csv/hero/nature/hero_40013_NatureMage/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40013_NatureMage/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 40014,
+    "heroConfig": "csv/hero/nature/hero_40014_Tess/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40014_Tess/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 40015,
+    "heroConfig": "csv/hero/nature/hero_40015_Berko/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40015_Berko/hero_skill_1.csv",
+      "csv/hero/nature/hero_40015_Berko/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 40016,
+    "heroConfig": "csv/hero/nature/hero_40016_Roo/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40016_Roo/hero_skill_1.csv",
+      "csv/hero/nature/hero_40016_Roo/hero_skill_2.csv"
+    ]
+  },
+  {
+    "heroId": 40017,
+    "heroConfig": "csv/hero/nature/hero_40017_Ktul/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40017_Ktul/hero_skill_1.csv",
+      "csv/hero/nature/hero_40017_Ktul/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40018,
+    "heroConfig": "csv/hero/nature/hero_40018_Oakroot/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40018_Oakroot/hero_skill_1.csv",
+      "csv/hero/nature/hero_40018_Oakroot/hero_skill_3.csv",
+      "csv/hero/nature/hero_40018_Oakroot/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40019,
+    "heroConfig": "csv/hero/nature/hero_40019_Lith/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40019_Lith/hero_skill_1.csv",
+      "csv/hero/nature/hero_40019_Lith/hero_skill_2.csv",
+      "csv/hero/nature/hero_40019_Lith/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40020,
+    "heroConfig": "csv/hero/nature/hero_40020_Athelas/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40020_Athelas/hero_skill_1.csv",
+      "csv/hero/nature/hero_40020_Athelas/hero_skill_3.csv",
+      "csv/hero/nature/hero_40020_Athelas/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40021,
+    "heroConfig": "csv/hero/nature/hero_40021_Titi/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40021_Titi/hero_skill_1.csv",
+      "csv/hero/nature/hero_40021_Titi/hero_skill_2.csv",
+      "csv/hero/nature/hero_40021_Titi/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40022,
+    "heroConfig": "csv/hero/nature/hero_40022_Arawen/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40022_Arawen/hero_skill_1.csv",
+      "csv/hero/nature/hero_40022_Arawen/hero_skill_3.csv",
+      "csv/hero/nature/hero_40022_Arawen/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40023,
+    "heroConfig": "csv/hero/nature/hero_40023_HoundMaster/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40023_HoundMaster/hero_skill_1.csv",
+      "csv/hero/nature/hero_40023_HoundMaster/hero_skill_2.csv",
+      "csv/hero/nature/hero_40023_HoundMaster/hero_skill_3.csv",
+      "csv/hero/nature/hero_40023_HoundMaster/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40024,
+    "heroConfig": "csv/hero/nature/hero_40024_Wugushi/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40024_Wugushi/hero_skill_1.csv",
+      "csv/hero/nature/hero_40024_Wugushi/hero_skill_2.csv",
+      "csv/hero/nature/hero_40024_Wugushi/hero_skill_3.csv",
+      "csv/hero/nature/hero_40024_Wugushi/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40025,
+    "heroConfig": "csv/hero/nature/hero_40025_Arason/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40025_Arason/hero_skill_1.csv",
+      "csv/hero/nature/hero_40025_Arason/hero_skill_2.csv",
+      "csv/hero/nature/hero_40025_Arason/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 40026,
+    "heroConfig": "csv/hero/nature/hero_40026_Neyuh/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40026_Neyuh/hero_skill_1.csv",
+      "csv/hero/nature/hero_40026_Neyuh/hero_skill_2.csv",
+      "csv/hero/nature/hero_40026_Neyuh/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 40027,
+    "heroConfig": "csv/hero/nature/hero_40027_Ariyuu/hero.csv",
+    "skillConfigs": [
+      "csv/hero/nature/hero_40027_Ariyuu/hero_skill_1.csv",
+      "csv/hero/nature/hero_40027_Ariyuu/hero_skill_2.csv",
+      "csv/hero/nature/hero_40027_Ariyuu/hero_skill_3.csv",
+      "csv/hero/nature/hero_40027_Ariyuu/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10001,
+    "heroConfig": "csv/hero/water/hero_10001_ColdAxe/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10001_ColdAxe/hero_skill_1.csv",
+      "csv/hero/water/hero_10001_ColdAxe/hero_skill_2.csv",
+      "csv/hero/water/hero_10001_ColdAxe/hero_skill_3.csv",
+      "csv/hero/water/hero_10001_ColdAxe/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10002,
+    "heroConfig": "csv/hero/water/hero_10002_Sharpwater/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10002_Sharpwater/hero_skill_1.csv",
+      "csv/hero/water/hero_10002_Sharpwater/hero_skill_2.csv",
+      "csv/hero/water/hero_10002_Sharpwater/hero_skill_3.csv",
+      "csv/hero/water/hero_10002_Sharpwater/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10003,
+    "heroConfig": "csv/hero/water/hero_10003_GlaciousFairy/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10003_GlaciousFairy/hero_skill_1.csv",
+      "csv/hero/water/hero_10003_GlaciousFairy/hero_skill_2.csv",
+      "csv/hero/water/hero_10003_GlaciousFairy/hero_skill_3.csv",
+      "csv/hero/water/hero_10003_GlaciousFairy/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10004,
+    "heroConfig": "csv/hero/water/hero_10004_Frosthardy/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10004_Frosthardy/hero_skill_1.csv",
+      "csv/hero/water/hero_10004_Frosthardy/hero_skill_2.csv",
+      "csv/hero/water/hero_10004_Frosthardy/hero_skill_3.csv",
+      "csv/hero/water/hero_10004_Frosthardy/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10005,
+    "heroConfig": "csv/hero/water/hero_10005_Mist/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10005_Mist/hero_skill_1.csv",
+      "csv/hero/water/hero_10005_Mist/hero_skill_2.csv",
+      "csv/hero/water/hero_10005_Mist/hero_skill_3.csv",
+      "csv/hero/water/hero_10005_Mist/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10006,
+    "heroConfig": "csv/hero/water/hero_10006_Aqualord/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10006_Aqualord/hero_skill_1.csv",
+      "csv/hero/water/hero_10006_Aqualord/hero_skill_2.csv",
+      "csv/hero/water/hero_10006_Aqualord/hero_skill_3.csv",
+      "csv/hero/water/hero_10006_Aqualord/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10007,
+    "heroConfig": "csv/hero/water/hero_10007_Osse/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10007_Osse/hero_skill_1.csv",
+      "csv/hero/water/hero_10007_Osse/hero_skill_2.csv",
+      "csv/hero/water/hero_10007_Osse/hero_skill_3.csv",
+      "csv/hero/water/hero_10007_Osse/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10008,
+    "heroConfig": "csv/hero/water/hero_10008_Mammusk/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10008_Mammusk/hero_skill_1.csv",
+      "csv/hero/water/hero_10008_Mammusk/hero_skill_2.csv",
+      "csv/hero/water/hero_10008_Mammusk/hero_skill_3.csv",
+      "csv/hero/water/hero_10008_Mammusk/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10009,
+    "heroConfig": "csv/hero/water/hero_10009_Lashna/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10009_Lashna/hero_skill_1.csv",
+      "csv/hero/water/hero_10009_Lashna/hero_skill_2.csv",
+      "csv/hero/water/hero_10009_Lashna/hero_skill_3.csv",
+      "csv/hero/water/hero_10009_Lashna/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10010,
+    "heroConfig": "csv/hero/water/hero_10010_Japulan/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10010_Japulan/hero_skill_1.csv",
+      "csv/hero/water/hero_10010_Japulan/hero_skill_2.csv",
+      "csv/hero/water/hero_10010_Japulan/hero_skill_3.csv",
+      "csv/hero/water/hero_10010_Japulan/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10011,
+    "heroConfig": "csv/hero/water/hero_10011_Jeronim/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10011_Jeronim/hero_skill_1.csv",
+      "csv/hero/water/hero_10011_Jeronim/hero_skill_2.csv",
+      "csv/hero/water/hero_10011_Jeronim/hero_skill_3.csv",
+      "csv/hero/water/hero_10011_Jeronim/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10012,
+    "heroConfig": "csv/hero/water/hero_10012_Assassiren/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10012_Assassiren/hero_skill_1.csv",
+      "csv/hero/water/hero_10012_Assassiren/hero_skill_2.csv",
+      "csv/hero/water/hero_10012_Assassiren/hero_skill_3.csv",
+      "csv/hero/water/hero_10012_Assassiren/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10013,
+    "heroConfig": "csv/hero/water/hero_10013_Oceanee/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10013_Oceanee/hero_skill_1.csv",
+      "csv/hero/water/hero_10013_Oceanee/hero_skill_2.csv",
+      "csv/hero/water/hero_10013_Oceanee/hero_skill_3.csv",
+      "csv/hero/water/hero_10013_Oceanee/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10014,
+    "heroConfig": "csv/hero/water/hero_10014_IceMaster/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10014_IceMaster/hero_skill_1.csv",
+      "csv/hero/water/hero_10014_IceMaster/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 10015,
+    "heroConfig": "csv/hero/water/hero_10015_Aesa/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10015_Aesa/hero_skill_1.csv",
+      "csv/hero/water/hero_10015_Aesa/hero_skill_3.csv",
+      "csv/hero/water/hero_10015_Aesa/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10016,
+    "heroConfig": "csv/hero/water/hero_10016_Croconile/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10016_Croconile/hero_skill_1.csv",
+      "csv/hero/water/hero_10016_Croconile/hero_skill_2.csv",
+      "csv/hero/water/hero_10016_Croconile/hero_skill_3.csv",
+      "csv/hero/water/hero_10016_Croconile/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10017,
+    "heroConfig": "csv/hero/water/hero_10017_Glugrgly/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10017_Glugrgly/hero_skill_1.csv",
+      "csv/hero/water/hero_10017_Glugrgly/hero_skill_2.csv",
+      "csv/hero/water/hero_10017_Glugrgly/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10018,
+    "heroConfig": "csv/hero/water/hero_10018_Sabertusk/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10018_Sabertusk/hero_skill_1.csv",
+      "csv/hero/water/hero_10018_Sabertusk/hero_skill_3.csv",
+      "csv/hero/water/hero_10018_Sabertusk/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10019,
+    "heroConfig": "csv/hero/water/hero_10019_Tidus/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10019_Tidus/hero_skill_1.csv",
+      "csv/hero/water/hero_10019_Tidus/hero_skill_3.csv",
+      "csv/hero/water/hero_10019_Tidus/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10020,
+    "heroConfig": "csv/hero/water/hero_10020_Sniper/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10020_Sniper/hero_skill_1.csv",
+      "csv/hero/water/hero_10020_Sniper/hero_skill_3.csv",
+      "csv/hero/water/hero_10020_Sniper/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10021,
+    "heroConfig": "csv/hero/water/hero_10021_AquaKnight/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10021_AquaKnight/hero_skill_1.csv",
+      "csv/hero/water/hero_10021_AquaKnight/hero_skill_2.csv",
+      "csv/hero/water/hero_10021_AquaKnight/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10022,
+    "heroConfig": "csv/hero/water/hero_10022_AquaMage/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10022_AquaMage/hero_skill_1.csv",
+      "csv/hero/water/hero_10022_AquaMage/hero_skill_2.csv",
+      "csv/hero/water/hero_10022_AquaMage/hero_skill_4.csv"
+    ]
+  },
+  {
+    "heroId": 10023,
+    "heroConfig": "csv/hero/water/hero_10023_Krag/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10023_Krag/hero_skill_1.csv",
+      "csv/hero/water/hero_10023_Krag/hero_skill_3.csv"
+    ]
+  },
+  {
+    "heroId": 10024,
+    "heroConfig": "csv/hero/water/hero_10024_Gurrgly/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10024_Gurrgly/hero_skill_1.csv",
+      "csv/hero/water/hero_10024_Gurrgly/hero_skill_2.csv"
+    ]
+  },
+  {
+    "heroId": 10025,
+    "heroConfig": "csv/hero/water/hero_10025_Eddie/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10025_Eddie/hero_skill_1.csv"
+    ]
+  },
+  {
+    "heroId": 10026,
+    "heroConfig": "csv/hero/water/hero_10026_Mrrgly/hero.csv",
+    "skillConfigs": [
+      "csv/hero/water/hero_10026_Mrrgly/hero_skill_1.csv"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+name,star,damage,damage_target_position,damage_target_number,effect_chance,effect_type,effect_duration
+Main_Active,8,1.6,10,4,0.2,40,2
+Main_Active,9,1.9,10,4,0.25,40,2
+Main_Active,10,2.2,10,4,0.3,40,2
+Main_Active,11,2.5,10,4,0.35,40,2

@@ -1,0 +1,4 @@
+name,hp_limit,trigger_limit,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Fioneth_Passive3,0.5,1,1,1,30,3,0.2
+Fioneth_Passive3,0.6,1,1,1,30,3,0.2
+Fioneth_Passive3,0.7,1,1,1,30,3,0.2

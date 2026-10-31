@@ -1,0 +1,16 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free,reset_type
+1,SE248,WEB_SE248,com.se.sungame.mid_autumn_2021_pack_01,com.sungame.summoners.era.mid_autumn_2021_pack_01,com.fansipan.summoners.era.mid_autumn_2021_pack_01,com.fansipan.summoners.era.mid_autumn_2021_pack_01,2,1,500,,10,9.99,FALSE,3
+,,,,,,,7,705,50,,,,,
+,,,,,,,2,180,1000,,,,,
+,,,,,,,2,2,500,,,,,
+2,SE249,WEB_SE249,com.se.sungame.mid_autumn_2021_pack_02,com.sungame.summoners.era.mid_autumn_2021_pack_02,com.fansipan.summoners.era.mid_autumn_2021_pack_02,com.fansipan.summoners.era.mid_autumn_2021_pack_02,2,1,1500,,10,19.99,FALSE,3
+,,,,,,,2,51,30,,,,,
+,,,,,,,2,180,2500,,,,,
+,,,,,,,2,181,1000,,,,,
+,,,,,,,2,2,1000,,,,,
+3,SE250,WEB_SE250,com.se.sungame.mid_autumn_2021_pack_03,com.sungame.summoners.era.mid_autumn_2021_pack_03,com.fansipan.summoners.era.mid_autumn_2021_pack_03,com.fansipan.summoners.era.mid_autumn_2021_pack_03,2,1,4000,,2,49.99,FALSE,3
+,,,,,,,2,60,15,,,,,
+,,,,,,,2,180,6000,,,,,
+,,,,,,,2,181,2500,,,,,
+,,,,,,,14,50007002,1,,,,,
+,,,,,,,2,2,2500,,,,,

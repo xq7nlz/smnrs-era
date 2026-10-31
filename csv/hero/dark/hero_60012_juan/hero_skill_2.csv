@@ -1,0 +1,4 @@
+name,effect_dot_chance,effect_dot_type,effect_dot_amount,effect_dot_duration
+Juan_Passive1,1,11,0.25,3
+Juan_Passive1,1,11,0.3,3
+Juan_Passive1,1,11,0.35,3

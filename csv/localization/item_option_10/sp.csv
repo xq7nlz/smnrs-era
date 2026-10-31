@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>El héroe que usa este talento bloqueará todos los daños en la primera ronda de batalla.
+10_2000201_1_2<>El ataque básico del héroe que usa este talento tiene {1} oportunidad de causar más {2} daño a los enemigos.
+10_2000301_1_2<>La habilidad activa del héroe que usa este talento tiene {1} oportunidad de ejecutar Target. Esta acción ocurre una vez por batalla.
+10_2000401_1_2<>El héroe que usa este talento tiene 1 tiempo para evitar la ejecución. Si sucede, este héroe se recupera {1} HP en esa ronda.
+10_2000501_1<>El héroe que usa este talento causa {1} más daño con el tiempo a los enemigos.
+10_2000601_1<>El héroe que usa este talento, cuando trata un éxito crítico, tiene {1} oportunidad de aplicar el efecto de silencio a los enemigos.
+10_2000701_1<>El héroe que usa este talento tiene {1} oportunidad de lanzar un efecto al comienzo de cada ronda que lo ayuda a ser inmune al efecto de silencio.
+10_2000801_1_2<>Al atacar, el héroe que usa este talento reduce el {2} del objetivo por {1} en la ronda de ataque.
+10_2000901_1<>Cuando el héroe que usa este talento realiza un ataque básico para el objetivo con un efecto negativo, le da al objetivo {1} menos energía.
+10_2001001_1<>La habilidad activa del héroe que usa este talento le da {1} más energía.
+10_290401_1_2<>El héroe que usa este equipo se cura a sí mismo {1} HP al comienzo de la ronda {2}
+10_290402_1_2<>Al comienzo de la batalla, el héroe que usa este equipo aplica el efecto de quema a todos los enemigos en la línea del frente. Quemar causa [{1} ATK] de daño y dura {2} rondas.
+10_290403_1_2_3<>El héroe que usa este equipo inflige más {2} de daño y se cura a sí mismo {1} HP cuando ataca a los enemigos obteniendo {3}.
+10_290404_1_2<>El héroe que usa este equipo recibe más {1} cantidad de curación de los aliados. Además, el efecto Veneno que se aplica a los enemigos aumenta {2} el daño.
+10_290405_1<>El héroe que usa este equipo se cura a sí mismo {1} HP (calculado a partir de su HP base) cuando recibe beneficios extraíbles. Este efecto se activa una vez por ronda.
+10_290406_1<>El héroe que usa este equipo se cura a sí mismo {1} HP (calculado a partir de su HP base) cuando ataca a los enemigos y obtiene el efecto de sangrado.

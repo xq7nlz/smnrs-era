@@ -1,0 +1,182 @@
+[
+  {
+    "summonerId": 4,
+    "statConfigPath": "csv/summoner/assassin/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/assassin/skill_1/tier_1.csv",
+        "csv/summoner/assassin/skill_1/tier_2.csv",
+        "csv/summoner/assassin/skill_1/tier_3.csv"
+      ],
+      "2": [
+        "csv/summoner/assassin/skill_2/tier_1.csv",
+        "csv/summoner/assassin/skill_2/tier_2.csv",
+        "csv/summoner/assassin/skill_2/tier_3.csv"
+      ],
+      "3": [
+        "csv/summoner/assassin/skill_3/tier_1.csv",
+        "csv/summoner/assassin/skill_3/tier_2.csv",
+        "csv/summoner/assassin/skill_3/tier_3.csv"
+      ],
+      "4": [
+        "csv/summoner/assassin/skill_4/tier_1.csv",
+        "csv/summoner/assassin/skill_4/tier_2.csv",
+        "csv/summoner/assassin/skill_4/tier_3.csv"
+      ]
+    },
+    "masteryConfigs": [
+      "csv/mastery/assassin/mastery_1.csv",
+      "csv/mastery/assassin/mastery_2.csv",
+      "csv/mastery/assassin/mastery_3.csv",
+      "csv/mastery/assassin/mastery_4.csv",
+      "csv/mastery/assassin/mastery_5.csv",
+      "csv/mastery/assassin/mastery_6.csv"
+    ]
+  },
+  {
+    "summonerId": 1,
+    "statConfigPath": "csv/summoner/mage/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/mage/skill_1/tier_1.csv",
+        "csv/summoner/mage/skill_1/tier_2.csv",
+        "csv/summoner/mage/skill_1/tier_3.csv"
+      ],
+      "2": [
+        "csv/summoner/mage/skill_2/tier_1.csv",
+        "csv/summoner/mage/skill_2/tier_2.csv",
+        "csv/summoner/mage/skill_2/tier_3.csv"
+      ],
+      "3": [
+        "csv/summoner/mage/skill_3/tier_1.csv",
+        "csv/summoner/mage/skill_3/tier_2.csv",
+        "csv/summoner/mage/skill_3/tier_3.csv"
+      ],
+      "4": [
+        "csv/summoner/mage/skill_4/tier_1.csv",
+        "csv/summoner/mage/skill_4/tier_2.csv",
+        "csv/summoner/mage/skill_4/tier_3.csv"
+      ]
+    },
+    "masteryConfigs": [
+      "csv/mastery/mage/mastery_1.csv",
+      "csv/mastery/mage/mastery_2.csv",
+      "csv/mastery/mage/mastery_3.csv",
+      "csv/mastery/mage/mastery_4.csv",
+      "csv/mastery/mage/mastery_5.csv",
+      "csv/mastery/mage/mastery_6.csv"
+    ]
+  },
+  {
+    "summonerId": 0,
+    "statConfigPath": "csv/summoner/novice/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/novice/skill_1/tier_1.csv"
+      ]
+    },
+    "masteryConfigs": []
+  },
+  {
+    "summonerId": 3,
+    "statConfigPath": "csv/summoner/priest/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/priest/skill_1/tier_1.csv",
+        "csv/summoner/priest/skill_1/tier_2.csv",
+        "csv/summoner/priest/skill_1/tier_3.csv"
+      ],
+      "2": [
+        "csv/summoner/priest/skill_2/tier_1.csv",
+        "csv/summoner/priest/skill_2/tier_2.csv",
+        "csv/summoner/priest/skill_2/tier_3.csv"
+      ],
+      "3": [
+        "csv/summoner/priest/skill_3/tier_1.csv",
+        "csv/summoner/priest/skill_3/tier_2.csv",
+        "csv/summoner/priest/skill_3/tier_3.csv"
+      ],
+      "4": [
+        "csv/summoner/priest/skill_4/tier_1.csv",
+        "csv/summoner/priest/skill_4/tier_2.csv",
+        "csv/summoner/priest/skill_4/tier_3.csv"
+      ]
+    },
+    "masteryConfigs": [
+      "csv/mastery/priest/mastery_1.csv",
+      "csv/mastery/priest/mastery_2.csv",
+      "csv/mastery/priest/mastery_3.csv",
+      "csv/mastery/priest/mastery_4.csv",
+      "csv/mastery/priest/mastery_5.csv",
+      "csv/mastery/priest/mastery_6.csv"
+    ]
+  },
+  {
+    "summonerId": 5,
+    "statConfigPath": "csv/summoner/ranger/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/ranger/skill_1/tier_1.csv",
+        "csv/summoner/ranger/skill_1/tier_2.csv",
+        "csv/summoner/ranger/skill_1/tier_3.csv"
+      ],
+      "2": [
+        "csv/summoner/ranger/skill_2/tier_1.csv",
+        "csv/summoner/ranger/skill_2/tier_2.csv",
+        "csv/summoner/ranger/skill_2/tier_3.csv"
+      ],
+      "3": [
+        "csv/summoner/ranger/skill_3/tier_1.csv",
+        "csv/summoner/ranger/skill_3/tier_2.csv",
+        "csv/summoner/ranger/skill_3/tier_3.csv"
+      ],
+      "4": [
+        "csv/summoner/ranger/skill_4/tier_1.csv",
+        "csv/summoner/ranger/skill_4/tier_2.csv",
+        "csv/summoner/ranger/skill_4/tier_3.csv"
+      ]
+    },
+    "masteryConfigs": [
+      "csv/mastery/ranger/mastery_1.csv",
+      "csv/mastery/ranger/mastery_2.csv",
+      "csv/mastery/ranger/mastery_3.csv",
+      "csv/mastery/ranger/mastery_4.csv",
+      "csv/mastery/ranger/mastery_5.csv",
+      "csv/mastery/ranger/mastery_6.csv"
+    ]
+  },
+  {
+    "summonerId": 2,
+    "statConfigPath": "csv/summoner/warrior/stat.csv",
+    "skillPathDictionary": {
+      "1": [
+        "csv/summoner/warrior/skill_1/tier_1.csv",
+        "csv/summoner/warrior/skill_1/tier_2.csv",
+        "csv/summoner/warrior/skill_1/tier_3.csv"
+      ],
+      "2": [
+        "csv/summoner/warrior/skill_2/tier_1.csv",
+        "csv/summoner/warrior/skill_2/tier_2.csv",
+        "csv/summoner/warrior/skill_2/tier_3.csv"
+      ],
+      "3": [
+        "csv/summoner/warrior/skill_3/tier_1.csv",
+        "csv/summoner/warrior/skill_3/tier_2.csv",
+        "csv/summoner/warrior/skill_3/tier_3.csv"
+      ],
+      "4": [
+        "csv/summoner/warrior/skill_4/tier_1.csv",
+        "csv/summoner/warrior/skill_4/tier_2.csv",
+        "csv/summoner/warrior/skill_4/tier_3.csv"
+      ]
+    },
+    "masteryConfigs": [
+      "csv/mastery/warrior/mastery_1.csv",
+      "csv/mastery/warrior/mastery_2.csv",
+      "csv/mastery/warrior/mastery_3.csv",
+      "csv/mastery/warrior/mastery_4.csv",
+      "csv/mastery/warrior/mastery_5.csv",
+      "csv/mastery/warrior/mastery_6.csv"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+name,basic_attack_target_position,basic_attack_target_number,venom_stack_damage,venom_stack_duration,number_stack
+Jormungand_Passive2,10,2,0.15,1,1
+Jormungand_Passive2,10,2,0.2,2,1
+Jormungand_Passive2,10,2,0.25,3,1

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_type,dot_duration,dot_amount,dot_chance
+Berko_Active,1.2,11,1,10,3,0.1,1
+Berko_Active,1.5,11,1,10,3,0.15,1
+Berko_Active,1.8,11,1,10,3,0.2,1

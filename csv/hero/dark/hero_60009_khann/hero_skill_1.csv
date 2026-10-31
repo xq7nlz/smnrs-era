@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,damage_bonus_amount
+Khann_Active,2,51,3,0.2
+Khann_Active,2.2,51,3,0.2
+Khann_Active,2.4,51,3,0.2

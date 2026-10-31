@@ -1,0 +1,9 @@
+id,ios_package_name,android_package_name,position,res_type,res_id,res_number,res_data,stock,price,profit,view_type
+1,com.fansipan.summoners.era.flash.sale_hero_1,com.fansipan.summoners.era.flash.sale_hero_1,1,2,207,600,,1,19.99,900,56
+,,,,2,2,1000,,,,,
+2,com.fansipan.summoners.era.flash.sale_hero_2,com.fansipan.summoners.era.flash.sale_hero_2,2,2,207,600,,1,19.99,900,56
+,,,,2,2,1000,,,,,
+3,com.fansipan.summoners.era.flash.sale_hero_3,com.fansipan.summoners.era.flash.sale_hero_3,1,2,206,600,,1,19.99,900,56
+,,,,2,2,1000,,,,,
+4,com.fansipan.summoners.era.flash.sale_hero_4,com.fansipan.summoners.era.flash.sale_hero_4,2,2,206,600,,1,19.99,900,56
+,,,,2,2,1000,,,,,

@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>Sekutu ini memperoleh {1}
+1_1_2_4<>Semua {2} sekutu mendapatkan {1}
+1_1_2_5<>Semua {2} sekutu mendapatkan {1}
+1_1_2_4_5<>Semua {2}/{3} sekutu mendapatkan {1}
+1_1_2_4_5_or<>Semua {2} sekutu, {3} sekutu mendapatkan {1}
+2_1<> + {1} Kerusakan
+2_1_2<> + {1} Kerusakan untuk {2}
+2_1_3<> + {1} Kerusakan Terhadap {2}
+2_1_4<> + {1} Kerusakan Terhadap {2}
+2_1_2_3<> + {1} Kerusakan untuk {2} Melawan {3}
+2_1_2_4<> + {1} Kerusakan untuk {2} Melawan {3}
+2_1_2_3_4<> + {1} Kerusakan untuk {2} Melawan {3} dan {4}
+2_1_2_3_4_or<> + {1} Kerusakan untuk {2} Terhadap {3} atau {4}

@@ -1,0 +1,2 @@
+guild_create_gem_price,guild_creator_level_requirement,min_character_of_name,max_character_of_name,max_character_of_description,leave_guild_block_duration,guild_leader_inactive_duration
+100,1,4,18,64,1800,604800

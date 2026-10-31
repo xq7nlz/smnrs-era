@@ -1,0 +1,4 @@
+name,trigger_chance,block_rate,effect_type,effect_duration
+Celes_Passive2,0.1,1,1,3
+Celes_Passive2,0.2,1,1,3
+Celes_Passive2,0.3,1,1,3

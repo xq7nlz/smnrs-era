@@ -1,0 +1,12 @@
+is_basic_casino,min_level,max_level,csv_name
+TRUE,-1,28,basic_casino_rate_1
+TRUE,29,40,basic_casino_rate_2
+TRUE,41,47,basic_casino_rate_3
+TRUE,48,59,basic_casino_rate_4
+TRUE,60,70,basic_casino_rate_5
+TRUE,71,90,basic_casino_rate_6
+TRUE,91,100,basic_casino_rate_7
+TRUE,101,-1,basic_casino_rate_8
+FALSE,-1,70,premium_casino_rate_1
+FALSE,71,200,premium_casino_rate_2
+FALSE,201,-1,premium_casino_rate_2

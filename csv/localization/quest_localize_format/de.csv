@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>{c(1)} Helden erhalten
+quest_100_1_2<>{c(1)} Helden mit {c(2)} Stern erhalten
+quest_100_1_3<>{c(1)} Helden mit Level {c(3)} erhalten
+quest_100_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} erhalten
+quest_100_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_2_3<>{c(1)} Helden mit {c(2)} Stern und Level {c(3)} erhalten
+quest_100_1_2_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)} erhalten
+quest_100_1_2_5<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_3_4<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_100_1_3_5<>{c(1)} Helden mit Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_2_3_4<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_100_1_2_3_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_2_4_5<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_100_1_2_3_4_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_101_1<>{c(1)} Helden entwickeln
+quest_101_1_2<>{c(1)} Helden zu {c(2)} Stern entwickeln
+quest_101_1_3<>{c(1)} Helden mit Level {c(3)} entwickeln
+quest_101_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} entwickeln
+quest_101_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} entwickeln
+quest_101_1_2_3<>{c(1)} Helden mit Level {c(3)} zu {c(2)} Stern entwickeln
+quest_101_1_2_4<>{c(1)} Helden von Klasse {e(class_type_~4)} zu {c(2)} Stern entwickeln
+quest_101_1_2_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} zu {c(2)} Stern entwickeln
+quest_101_1_3_4<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)} entwickeln
+quest_101_1_3_5<>{c(1)} Helden mit Level {c(3)} von Fraktion {e(faction_type_~5)} entwickeln
+quest_101_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} entwickeln
+quest_101_1_2_3_4<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)} zu {c(2)} Stern entwickeln
+quest_101_1_2_3_5<>{c(1)} Helden mit Level {c(3)} von Fraktion {e(faction_type_~5)} zu {c(2)} Stern entwickeln
+quest_101_1_2_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zu {c(2)} Stern entwickeln
+quest_101_1_2_3_4_5<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zu {c(2)} Stern entwickeln
+quest_102_1<>Upgrade-Held {c(1)} Zeit (s)
+quest_102_1_2<>{c(1)} Helden mit {c(2)} Stern verbessern
+quest_102_1_3<>{c(1)} Helden auf Level {c(3)} verbessern
+quest_102_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} verbessern
+quest_102_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} verbessern
+quest_102_1_2_3<>{c(1)} Helden mit {c(2)} Stern auf Level {c(3)} verbessern
+quest_102_1_2_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)} verbessern
+quest_102_1_2_5<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~5)} verbessern
+quest_102_1_3_4<>{c(1)} Helden von Klasse {e(class_type_~4)} auf Level {c(3)} verbessern
+quest_102_1_3_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} auf Level {c(3)} verbessern
+quest_102_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} verbessern
+quest_102_1_2_3_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)} auf Level {c(3)} verbessern
+quest_102_1_2_3_5<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~5)} auf Level {c(3)} verbessern
+quest_102_1_2_4_5<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} verbessern
+quest_102_1_2_3_4_5<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} auf Level {c(3)} verbessern
+quest_103_1<>{c(1)} Helden auf maximalen Level verbessern
+quest_103_1_2<>{c(1)} Helden mit {c(2)} Stern auf maximalen Level verbessern
+quest_103_1_3<>{c(1)} Helden von Klasse {e(class_type_~3)} auf maximalen Level verbessern
+quest_103_1_4<>{c(1)} Helden von Fraktion {e(faction_type_~4)} auf maximalen Level verbessern
+quest_103_1_2_3<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~3)} auf maximalen Level verbessern
+quest_103_1_2_4<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~4)} auf maximalen Level verbessern
+quest_103_1_3_4<>{c(1)} Helden von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} auf maximalen Level verbessern
+quest_103_1_2_3_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} auf maximalen Level verbessern
+quest_104_1<>{c(1)} Helden zerlegen
+quest_104_1_2<>{c(1)} Helden mit {c(2)} Stern zerlegen
+quest_104_1_3<>{c(1)} Helden mit Level {c(3)} zerlegen
+quest_104_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} zerlegen
+quest_104_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_2_3<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} zerlegen
+quest_104_1_2_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)} zerlegen
+quest_104_1_2_5<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_3_4<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)} zerlegen
+quest_104_1_3_5<>{c(1)} Helden mit Level {c(3)} von Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_2_3_4<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} zerlegen
+quest_104_1_2_3_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_2_4_5<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zerlegen
+quest_104_1_2_3_4_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zerlegen
+quest_150_1<>{c(1)} Helden erhalten
+quest_150_1_2<>{c(1)} Helden mit {c(2)} originellen Stern erhalten
+quest_150_1_3<>{c(1)} Helden von Fraktion {e(faction_type_~3)} erhalten
+quest_150_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} erhalten
+quest_150_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_2_3<>{c(1)} Helden mit {c(2)} originellen Stern von Fraktion {e(faction_type_~3)} erhalten
+quest_150_1_2_4<>{c(1)} Helden mit {c(2)} originellen Stern von Klasse {e(class_type_~4)} erhalten
+quest_150_1_2_5<>{c(1)} Helden mit {c(2)} originellen Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_3_4<>{c(1)} Helden mit {e(faction_type_~3)} originellen Stern von Klasse {e(class_type_~4)} erhalten
+quest_150_1_3_5<>{c(1)} Helden von Fraktion {e(faction_type_~3)} oder Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_2_3_4<>{c(1)} Helden mit {c(2)} originellen Stern von Fraktion {e(faction_type_~3)}, Klasse {e(class_type_~4)} erhalten
+quest_150_1_2_3_5<>{c(1)} Helden mit {c(2)} originellen Stern von Fraktion {e(faction_type_~3)} oder Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_2_4_5<>{c(1)} Helden mit {c(2)} originellen Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_150_1_2_3_4_5<>{c(1)} Helden mit {c(2)} originellen Stern von Klasse {e(class_type_~4)}, raktion {e(faction_type_~3)} oder Fraktion {e(faction_type_~5)} erhalten
+quest_151_1<>Alle Helden mit {c(1)} originellen Stern erhalten
+quest_151_1_2<>Alle Helden mit {c(1)} originellen Stern, Level {c(2)} erhalten
+quest_151_1_3<>Alle Helden mit {c(1)} originellen Stern von Klasse {e(class_type_~3)} erhalten
+quest_151_1_4<>Alle Helden mit {c(1)} originellen Stern von Fraktion {e(faction_type_~4)} erhalten
+quest_151_1_2_3<>Alle Helden mit {c(1)} originellen Stern, Level {c(2)} von Klasse {e(class_type_~3)} erhalten
+quest_151_1_2_4<>Alle Helden mit {c(1)} originellen Stern, Level {c(2)} von Fraktion {e(faction_type_~4)} erhalten
+quest_151_1_3_4<>Alle Helden mit {c(1)} originellen Stern von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} erhalten
+quest_151_1_2_3_4<>Alle Helden mit {c(1)} originellen Stern, Level {c(2)} von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} erhalten
+quest_200_1<>Goldgrube {c(1)} Male benutzen
+quest_200_1_2<>Goldgrube {c(2)} {c(1)} Male benutzen
+quest_201_1<>Goldgrube in {c(1)} aufeinanderfolgenden Tage benutzen
+quest_201_1_2<>Goldgrube {c(2)} Male pro Tag in {c(1)} aufeinanderfolgenden Tage benutzen
+quest_201_1_3<>Goldgrube {c(3)} in {c(1)} aufeinanderfolgenden Tage benutzen
+quest_201_1_2_3<>Goldgrube {c(3)} {c(2)} Male pro Tag in {c(1)} aufeinanderfolgenden Tage benutzen
+quest_300_1<>{c(1)} Taverne-Suchen beenden
+quest_300_1_2<>{c(1)} Taverne-Suchen mit {c(2)} Stern beenden
+quest_400_1<>{c(1)} Male in Arena herausfordern
+quest_401_1<>{c(1)} Male in Arena gewinnen
+quest_402_1<>{c(1)} Punkte in Arena erreichen
+quest_500_1<>Die Phase Kampagne {m(1)} beenden
+quest_501_1<>Leerlaufbelohnungen in Kampagne {c(1)} Male erhalten
+quest_504_1<>{c(1)} Sekunden des automatischen Trainings in  Kampagne erreichen
+quest_503_1<>{c(1)} Gold in Leerlaufbelohnungen erreichen
+quest_600_1<>{c(1)} Male in Rad des Schicksals drehen
+quest_600_1_2<>{c(1)} Male in {e(casino_type_~2)} drehen
+quest_600_1_3<>{c(1)} Male in Rad des Schicksals drehen, Helden-Fragment mit {c(3)} Stern erhalten
+quest_600_1_2_3<>{c(1)} Male in {e(casino_type_~2)} drehen, Helden-Fragment mit {c(3)} Stern erhalten
+quest_601_1<>{c(1)} Male in Rad des Schicksals drehen
+quest_601_1_2<>{c(1)} Male in {e(casino_type_~2)} drehen
+quest_601_1_3<>{c(1)} Male in Rad des Schicksals drehen, {e(money_type_~3)} erhalten
+quest_601_1_2_3<>{c(1)} Male in {e(casino_type_~2)} drehen, {e(money_type_~3)} erhalten
+quest_650_1<>{c(1)} kontinuierliche Male in Rad des Schicksals drehen
+quest_650_1_2<>{c(1)} kontinuierliche Male in {e(casino_type_~2)} drehen
+quest_650_1_3<>{c(1)} kontinuierliche Male in Rad des Schicksals drehen, Helden-Fragment mit {c(3)} Stern nicht erhalten
+quest_650_1_2_3<>{c(1)} kontinuierliche Male in {e(casino_type_~2)} drehen, Helden-Fragment mit {c(3)} Stern nicht erhalten
+quest_651_1<>{c(1)} kontinuierliche Male in Rad des Schicksals drehen
+quest_651_1_2<>{c(1)} kontinuierliche Male in {e(casino_type_~2)} drehen
+quest_651_1_3<>{c(1)} kontinuierliche Male in Rad des Schicksals drehen, {e(money_type_~3)} nicht erhalten
+quest_651_1_2_3<>{c(1)} kontinuierliche Male in {e(casino_type_~2)} drehen, {e(money_type_~3)} nicht erhalten
+quest_700_1<>{c(1)} Male Gegenstandstände in Schwarzmarkt kaufen
+quest_700_1_2<>{c(1)} Male Helden-Fragment mit {c(2)} Stern in Schwarzmarkt kaufen
+quest_701_1<>
+quest_701_1_2<>{c(1)} {e(money_type_~2)} in Schwarzmarkt kaufen
+quest_750_1<>
+quest_750_1_2<>{c(1)} {e(money_type_~2)} in Schwarzmarkt verbringen
+quest_800_1<>Verein {c(1)} Male beitreten
+quest_801_1<>Verein-Boss {c(1)} Male herausfordern
+quest_801_1_2<>Verein-Boss mit Level {c(2)} {c(1)} Male herausfordern
+quest_801_1_3<>Verein-Boss {c(1)} Male herausfordern, jedes Mal mindestens {c(3)} Schaden verursachen
+quest_801_1_2_3<>Verein-Boss mit Level {c(2)} {c(1)} Male herausfordern, jedes Mal mindestens {c(3)} Schaden verursachen
+quest_802_1<>Verein-Boss in {c(1)} aufeinanderfolgenden Tage herausfordern
+quest_802_1_2<>Verein-Boss {c(2)} Male pro Tag in {c(1)} aufeinanderfolgenden Tage herausfordern
+quest_802_1_3<>Verein-Boss mit Level {c(3)} in {c(1)} aufeinanderfolgenden Tage herausfordern
+quest_802_1_4<>Verein-Boss in {c(1)} aufeinanderfolgenden Tage herausfordern, jedes Mal mindestens {c(4)} Schaden verursachen
+quest_802_1_2_3<>Verein-Boss mit Level {c(3)}, {c(2)} Male in {c(1)} aufeinanderfolgenden Tage herausfordern
+quest_802_1_2_4<>Verein-Boss {c(2)} Male pro Tag in {c(1)} aufeinanderfolgenden Tage herausfordern, jedes Mal mindestens {c(4)} Schaden verursachen
+quest_802_1_3_4<>Verein-Boss mit Level {c(3)} in {c(1)} aufeinanderfolgenden Tage herausfordern, jedes Mal mindestens {c(4)} Schaden verursachen
+quest_802_1_2_3_4<>Verein-Boss mit Level {c(3)}, {c(2)} Male in {c(1)} aufeinanderfolgenden Tage herausfordern, jedes Mal mindestens {c(4)} Schaden verursachen
+quest_803_1<>Der Verein verursacht Verein-Boss Schaden {c(1)} Male.
+quest_803_1_2<>Der Verein verursacht Verein-Boss mit Level {c(2)} Schaden {c(1)} Male.
+quest_803_1_3<>Der Verein verursacht Verein-Boss mindestens {c(3)} Schaden {c(1)} Male.
+quest_803_1_2_3<>Der Verein verursacht Verein-Boss mit Level {c(2)} mindestens {c(3)} Schaden {c(1)} Male.
+quest_820_1<>Phase {c(1)} von Verein-Verlies herausfordern
+quest_821_1<>{c(1)} Saisons von Verein-Verlies beenden
+quest_841_1<>{c(1)} Artefakt in Vereinladen kaufen
+quest_841_1_2<>{c(1)} Artefakt {e(artifact_type_~2)} in Vereinladen kaufen
+quest_900_1<>{c(1)} Gegenstände erhalten
+quest_900_1_2<>{c(1)} Gegenstände mit einer Seltenheit von {e(equip_rarity_~2)} oder höher erhalten
+quest_901_1<>{c(1)} Gegenstände ausrüsten
+quest_901_1_2<>{c(1)} Gegenstände {e(equip_rarity_~2)} ausrüsten
+quest_902_1<>{c(1)} Gegenstände verbessern
+quest_902_1_2<>{c(1)} Gegenstände auf {e(equip_rarity_~2)} verbessern
+quest_902_1_3<>{c(1)} Gegenstände auf {c(3)} Stern verbessern
+quest_902_1_2_3<>{c(1)} Gegenstände auf {e(equip_rarity_~2)} und {c(3)} Stern verbessern
+quest_950_1<>{c(1)} Sets der Gegenstände erhalten
+quest_950_1_2<>{c(1)} Sets der Gegenstände {e(equip_rarity_~2)} erhalten
+quest_1000_1<>Beschwörerin auf Level {c(1)} verbessern
+quest_1001_1<>Beschwörerin zu {c(1)} Stern entwickeln
+quest_1100_1<>{c(1)} Male in Altem Baum beschwören
+quest_1100_1_2<>{c(1)} Male in Alter Baum beschwören, Held mit {c(2)} Stern erhalten
+quest_1100_1_3<>{c(1)} Male in Alter Baum beschwören, Held von Klasse {e(class_type_~3)} erhalten
+quest_1100_1_4<>{c(1)} Male in Alter Baum beschwören, Held von Fraktion {e(faction_type_~4)} erhalten
+quest_1100_1_2_3<>{c(1)} Male in Alter Baum beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~3)} erhalten
+quest_1100_1_2_4<>{c(1)} Male in Alter Baum beschwören, Held mit {c(2)} Stern von Fraktion {e(faction_type_~4)} erhalten
+quest_1100_1_3_4<>{c(1)} Male in Alter Baum beschwören, Held von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} erhalten
+quest_1100_1_2_3_4<>{c(1)} Male in Alter Baum beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} erhalten
+quest_1101_1<>Einen Held {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_2<>Einen Held mit {c(2)} Stern {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_3<>Einen Held von Klasse {e(class_type_~3)} {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_4<>Einen Held von Fraktion {e(faction_type_~4)} {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_2_3<>Einen Held mit {c(2)} Stern von Klasse {e(class_type_~3)} {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_2_4<>Einen Held mit {c(2)} Stern von Fraktion {e(faction_type_~4)} {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_3_4<>Einen Held von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} {c(1)} Male in Alter Baum ersetzen
+quest_1101_1_2_3_4<>Einen Held mit {c(2)} Stern von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} {c(1)} Male in Alter Baum ersetzen
+quest_1150_1<>{c(1)} kontinuierliche Male in Alter Baum beschwören
+quest_1150_1_2<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held mit {c(2)} Stern nicht erhalten
+quest_1150_1_3<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held von Klasse {e(class_type_~3)} nicht erhalten
+quest_1150_1_4<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held von Fraktion {e(faction_type_~4)} nicht erhalten
+quest_1150_1_2_3<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~3)} nicht erhalten
+quest_1150_1_2_4<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held mit {c(2)} Stern von Fraktion {e(faction_type_~4)} nicht erhalten
+quest_1150_1_3_4<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} nicht erhalten
+quest_1150_1_2_3_4<>{c(1)} kontinuierliche Male in Alter Baum beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~3)}, Fraktion {e(faction_type_~4)} nicht erhalten
+quest_1200_1<>{c(1)} Freunde haben
+quest_1201_1<>Freunde-Punkt {c(1)} Male senden
+quest_1202_1<>{c(1)} Freunde-Punkt aus den Freunde erhalten
+quest_1250_1<>Freund-Boss {c(1)} Male erkunden
+quest_1251_1<>Freund-Boss {c(1)} Male besiegen
+quest_1300_1<>Rune {c(1)} Male freischalten
+quest_1301_1<>Rune {c(1)} Male verbessern
+quest_1301_1_2<>Rune {e(stone_rarity_~2)} {c(1)} Male verbessern
+quest_1302_1<>Rune {c(1)} Male konvertieren
+quest_1400_1<>{c(1)} Artefakt erhalten
+quest_1400_1_2<>{c(1)} Artefakt mit {e(artifact_type_~2)} und höher erhalten
+quest_1401_1<>{c(1)} Artefakt ausrüsten
+quest_1401_1_2<>{c(1)} Artefakt {e(artifact_type_~2)} ausrüsten
+quest_1402_1<>{c(1)} Artefakt verbessern
+quest_1402_1_2<>{c(1)} Artefakt {e(artifact_type_~2)} verbessern
+quest_1500_1<>Einloggen in {c(1)} aufeinanderfolgenden Tage
+quest_1600_1<>Phase {c(1)} Drachenturm beenden
+quest_1700_1<>{c(1)} Male beschwören
+quest_1700_1_2<>{c(1)} Male beschwören, Held mit {c(2)} Stern erhalten
+quest_1700_1_3<>{c(1)} Male beschwören, Held mit Level {c(3)} erhalten
+quest_1700_1_4<>{c(1)} Male beschwören, Held von Klasse {e(class_type_~4)} erhalten
+quest_1700_1_5<>{c(1)} Male beschwören, Held von Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_2_3<>{c(1)} Male beschwören, Held mit {c(2)} Stern, Level {c(3)} erhalten
+quest_1700_1_2_4<>{c(1)} Male beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~4)} erhalten
+quest_1700_1_2_5<>{c(1)} Male beschwören, Held mit {c(2)} Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_3_4<>{c(1)} Male beschwören, Held mit Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1700_1_3_5<>{c(1)} Male beschwören, Held mit Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_4_5<>{c(1)} Male beschwören, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_2_3_4<>{c(1)} Male beschwören, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1700_1_2_3_5<>{c(1)} Male beschwören, Held mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_2_4_5<>{c(1)} Male beschwören, Held mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1700_1_2_3_4_5<>{c(1)} Male beschwören, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1<>Grundlegende Beschwörung {c(1)} Male benutzen
+quest_1701_1_2<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern erhalten
+quest_1701_1_3<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} erhalten
+quest_1701_1_4<>Grundlegende Beschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)} erhalten
+quest_1701_1_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held von Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_2_3<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} erhalten
+quest_1701_1_2_4<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)} erhalten
+quest_1701_1_2_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_3_4<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1701_1_3_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_4_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_2_3_4<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1701_1_2_3_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_2_4_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1701_1_2_3_4_5<>Grundlegende Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1<>Prämien-Beschwörung {c(1)} Male benutzen
+quest_1702_1_2<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern erhalten
+quest_1702_1_3<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} erhalten
+quest_1702_1_4<>Prämien-Beschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)} erhalten
+quest_1702_1_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held von Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_2_3<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} erhalten
+quest_1702_1_2_4<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)} erhalten
+quest_1702_1_2_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_3_4<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1702_1_3_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_4_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_2_3_4<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1702_1_2_3_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_2_4_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1702_1_2_3_4_5<>Prämien-Beschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1<>Freundschaftsbeschwörung {c(1)} Male benutzen
+quest_1703_1_2<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern erhalten
+quest_1703_1_3<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit Level {c(3)} erhalten
+quest_1703_1_4<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)} erhalten
+quest_1703_1_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held von Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_2_3<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} erhalten
+quest_1703_1_2_4<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)} erhalten
+quest_1703_1_2_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_3_4<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1703_1_3_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_4_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_2_3_4<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} erhalten
+quest_1703_1_2_3_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_2_4_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1703_1_2_3_4_5<>Freundschaftsbeschwörung {c(1)} Male benutzen, Held mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} erhalten
+quest_1750_1<>{c(1)} kontinuierliche Male beschwören
+quest_1750_1_2<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören
+quest_1750_1_3<>{c(1)} kontinuierliche Male beschwören, Held mit {c(3)} Stern nicht erhalten
+quest_1750_1_4<>{c(1)} kontinuierliche Male beschwören, Held von Klasse {e(class_type_~4)} nicht erhalten
+quest_1750_1_5<>{c(1)} kontinuierliche Male beschwören, Held von Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_2_3<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held mit {c(3)} Stern nicht erhalten
+quest_1750_1_2_4<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held von Klasse {e(class_type_~4)} nicht erhalten
+quest_1750_1_2_5<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held von Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_3_4<>{c(1)} kontinuierliche Male beschwören, Held mit {c(3)} Stern von Klasse {e(class_type_~4)} nicht erhalten
+quest_1750_1_3_5<>{c(1)} kontinuierliche Male beschwören, Held mit {c(3)} Stern von Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_4_5<>{c(1)} kontinuierliche Male beschwören, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_2_3_4<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held mit {c(3)} Stern von Klasse {e(class_type_~4)} nicht erhalten
+quest_1750_1_2_3_5<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held mit {c(3)} Stern von Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_2_4_5<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1750_1_2_3_4_5<>{c(1)} kontinuierliche Male in {e(summon_type_~2)} beschwören, Held mit {c(3)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} nicht erhalten
+quest_1800_1<>{c(1)} tägliche Suchen an einem Tag beenden
+quest_1801_1<>Die täglichen Suchen in {c(1)} aufeinanderfolgenden Tage beenden
+quest_1801_1_2<>{c(2)} tägliche Suchen in {c(1)} aufeinanderfolgenden Tage beenden
+quest_1802_1<>{c(1)} tägliche Suchen beenden
+quest_1900_1<>Das VIP-Level {c(1)} erreichen
+quest_2000_1<>
+quest_2000_1_2<>{c(1)} {e(money_type_~2)} verdienen
+quest_2001_1<>
+quest_2001_1_2<>{c(1)} {e(money_type_~2)} verbringen
+quest_2100_1<>Phase {c(1)} Verlies beenden
+quest_2101_1<>{c(1)} Helden auswählen, um Verlies beizutreten
+quest_2102_1<>Trank {c(1)} Male in Verlies verwenden
+quest_2102_1_2<>{e(potion_type_~2)} {c(1)} Male in Verlies verwenden
+quest_2103_1<>{c(1)} Gegenstandstände in Händlerladen in Verlies kaufen
+quest_2104_1<>{c(1)} Gegenstandstände in Geheimnisvoller Händler in Verlies kaufen
+quest_2200_1<>Wiederherstellungs-E-Mail {c(1)} Male erfolgreich hinzufügen
+quest_2300_1<>{c(1)} Helden auswählen, um an der Schlacht teilzunehmen
+quest_2300_1_2<>{c(1)} Helden auswählen, um {e(game_mode_~2)} beizutreten
+quest_2300_1_3<>{c(1)} Helden mit {c(3)} Stern auswählen
+quest_2300_1_2_3<>{c(1)} Helden mit {c(3)} Stern auswählen, um {e(game_mode_~2)} beizutreten
+quest_2301_1<>{c(1)} Helden derselben Fraktion auswählen, um an der Schlacht teilzunehmen
+quest_2301_1_2<>{c(1)} Helden auswählen, um {e(game_mode_~2)} beizutreten
+quest_2301_1_3<>{c(1)} Helden mit {c(3)} Stern auswählen
+quest_2301_1_4<>{c(1)} Helden von Fraktion {e(faction_type_~4)} auswählen
+quest_2301_1_2_3<>{c(1)} Helden mit {c(3)} Stern auswählen, um {e(game_mode_~2)} beizutreten
+quest_2301_1_2_4<>{c(1)} Helden von Fraktion {e(faction_type_~4)} auswählen, um {e(game_mode_~2)} beizutreten
+quest_2301_1_3_4<>{c(1)} Helden mit {c(3)} Stern von Fraktion {e(faction_type_~4)} auswählen
+quest_2301_1_2_3_4<>{c(1)} Helden mit {c(3)} Stern von Fraktion {e(faction_type_~4)} auswählen, um {e(game_mode_~2)} beizutreten
+quest_2302_1<>Formation {c(1)} Male auswählen
+quest_2302_1_2<>Formation, die sich von der Formation {e(formation_type_~2)} unterscheidet {c(1)} Male auswählen
+quest_2303_1<>Begleiterbuff {c(1)} Male aktivieren
+quest_2303_1_2<>Begleiterbuff {e(companion_type_~2)} {c(1)} Male aktivieren
+quest_2400_1<>Beherrschung {c(1)} Male verbessern
+quest_2400_1_2<>Beherrschung {e(mastery_type_~2)} {c(1)} Male verbessern
+quest_2400_1_3<>Beherrschung von Klasse {e(class_type_~3)} {c(1)} Male verbessern
+quest_2400_1_4<>Beherrschung auf Level {c(4)} {c(1)} Male verbessern
+quest_2400_1_2_3<>Beherrschung {e(mastery_type_~2)} von Klasse {e(class_type_~3)} {c(1)} Male verbessern
+quest_2400_1_2_4<>Beherrschung {e(mastery_type_~2)} auf Level {c(4)} {c(1)} Male verbessern
+quest_2400_1_3_4<>Beherrschung von Klasse {e(class_type_~3)} auf Level {c(4)} {c(1)} Male verbessern
+quest_2400_1_2_3_4<>Beherrschung {e(mastery_type_~2)} von Klasse {e(class_type_~3)} auf Level {c(4)} {c(1)} Male verbessern
+quest_2500_1<>Modus Abenteuer {c(1)} Male beitreten
+quest_2500_1_2<>Modus {e(raid_type_~2)} {c(1)} Male beitreten
+quest_2600_1<>Facebook-Seite beitreten
+quest_505_1<>Kampagne {c(1)} Male beitreten
+quest_1601_1<>Drachenturm {c(1)} Male beitreten
+quest_201_1_2_3_1<>Goldgrube {c(3)}, {c(2)} täglich für {c(1)} Tage verwenden
+quest_822_1<>Dem Verein-Verlies {c(1)} Male beitreten
+quest_822_1_2<>Der Phase {c(2)} von Verein-Verlies {c(1)} Male beitreten
+quest_830_1<>Im Verein {c(1)} Male einchecken
+quest_105_1<>{c(1)} Helden zurücksetzen
+quest_105_1_2<>{c(1)} Helden mit {c(2)} Stern zurücksetzen
+quest_105_1_3<>{c(1)} Helden mit Level {c(3)} zurücksetzen
+quest_105_1_4<>{c(1)} Helden von Klasse {e(class_type_~4)} zurücksetzen
+quest_105_1_5<>{c(1)} Helden von Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_2_3<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} zurücksetzen
+quest_105_1_2_4<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)} zurücksetzen
+quest_105_1_2_5<>{c(1)} Helden mit {c(2)} Stern von Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_3_4<>{c(1)} Helden mit Level {c(3)} von Klasse {e(class_type_~4)} zurücksetzen
+quest_105_1_3_5<>{c(1)} Helden mit Level {c(3)} von Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_4_5<>{c(1)} Helden von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_2_3_4<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)} zurücksetzen
+quest_105_1_2_3_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_2_4_5<>{c(1)} Helden mit {c(2)} Stern von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zurücksetzen
+quest_105_1_2_3_4_5<>{c(1)} Helden mit {c(2)} Stern, Level {c(3)} von Klasse {e(class_type_~4)}, Fraktion {e(faction_type_~5)} zurücksetzen
+quest_1700_1_6<>Beschwöre {c(1)} mal {e(summon_type_~6)}
+quest_1700_1_2_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero by {e(summon_type_~6)}
+quest_1700_1_3_6<>Summon {c(1)} time(s) and receive Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_2_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_3_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_3_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_5_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_3_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)} faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_507_1<>Kampagnen-Schnellkampf {c(1)} Mal
+quest_2701_1<>Top-up {c(1)} mal
+quest_2701_1_2<>Top-up {c(1)} mal
+quest_152_1_2_3<>Erhalten Sie {n(2)} {c(3)} Stern {c(1)} Mal 
+quest_3000_1<>Kämpfe Festung {c(1)} Mal
+quest_3000_1_2<>Kämpfe Festung {c(1)} Mal
+quest_3000_1_2_3<>Gewinnt Schlacht in Festung {c(1)} Mal
+quest_3001_1<>Fordern Sie Leerlaufbelohnungen in Festung {c(1)} Mal an 
+quest_3001_1_2<>Fordern Sie Leerlaufbelohnungen in Festung {c(1)} Mal an 
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>Passieren Stufe {c(1)} in {c(2)}
+quest_3002_1_2_3<>Passieren Stufe {c(1)} in {c(2)}
+quest_1804_1<>Schließe {c(1)} Event-Quests an einem Tag ab.
+quest_450_1<>{c(1)} Male in Martial Arena  herausfordern
+quest_450_1_2<>{c(1)} Male in Martial Arena  herausfordern
+quest_451_1<>{c(1)} Male in Martial Arena  gewinnen
+quest_452_1<>{c(1)} Punkte in Martial Arena  erreichen
+quest_453_1<>Challenge Arena 3v3 aufeinanderfolgende Male ist {c(1)}
+quest_453_1_2<>Challenge Arena 3v3 aufeinanderfolgende Male ist {c(1)}
+quest_1501_1<>Login-Spiel.
+quest_751_1<>Aktualisieren Sie Schwarzmarkt {c(1)} mal.
+quest_152_1_3<>Erhalte {c(1)} Held(e) {c(3)} Stern(e).
+quest_460_1<>Fordern Sie Arena {c(1)} Mal heraus
+quest_460_1_2<>{c(2)} Arena {c(1)} mal.
+quest_1850_1<>Schließe {c(1)} wöchentliche Quest(s) ab.
+quest_1850_1_2<>Schließe {c(1)} wöchentliche Quest(s) in Woche {c(2)} ab.
+quest_2751_1<>Anspruch auf Free Bundle {c(1)} Zeit (n).
+quest_1950_1<>Sehen Sie sich das Video an, um Juwel {c(1)} Mal zu verdienen.
+quest_310_1<>Bestehen Sie Stufe {c(1)} in Domain
+quest_310_1_2<>Bewältige Stufe {c(2)} {c(1)} mal in Domain
+quest_311_1<>Nimm an Domain {c(1)} Mal(en) teil
+quest_312_1<>Schließe alle Etappen an Tag {c(1)} in Domain ab. (Tag 1: Montag; Tag 2: Dienstag; Tag 3: Mittwoch; Tag 4: Donnerstag; Tag 5: Freitag)
+quest_312_1_2<>Schließe alle Etappen am Tag {c(2)} in Domain {c(1)} Mal(en) ab. (Tag 1: Montag; Tag 2: Dienstag; Tag 3: Mittwoch; Tag 4: Donnerstag; Tag 5: Freitag)
+quest_2701_1_3<>{c(1)} Mal aufladen, jedes Mal mehr als ${c(3)} (USD)
+quest_1810_1<>{c(1)} tägliche Suchen an einem Tag beenden
+quest_1820_1<>Terminez {c(1)} quêtes d'événement
+quest_1815_1_2<>Bringe {c(1)} Mal einen Stern zum Leuchten
+quest_1855_1<>Nimm {c(1)} Mal an der Kampfherausforderung teil
+quest_1816_1<>Öffnen Sie {c(1)} Truhen in Drachenschatz.
+quest_1817_1_2<>Verbrachte insgesamt {c(1)} eitri Hämmer
+quest_508_1<>Anspruch auf Leerlaufprämien {t(1)} in der Kampagne
+quest_2901_1<>Füttern Sie das Qilin {c(1)} {e(mony_type_181)}

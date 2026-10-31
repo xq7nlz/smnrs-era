@@ -1,0 +1,4 @@
+name,health_trigger,heal_target_position,heal_target_number,heal_amount
+Celes_Passive3,0.2,10,5,1
+Celes_Passive3,0.3,10,5,1
+Celes_Passive3,0.4,10,5,1

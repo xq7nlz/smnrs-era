@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Avorn_Active,1.52,10,2,0.3,1,2
+Avorn_Active,1.72,10,2,0.3,1,2
+Avorn_Active,1.92,10,2,0.3,1,3

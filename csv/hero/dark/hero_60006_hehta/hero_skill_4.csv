@@ -1,0 +1,4 @@
+name,attack_target_position,attack_target_number,buff_ally_position,buff_ally_number,steal_stat_type,steal_stat_value,transfer_ally_position,transfer_ally_number,transfer_stat_type_1,transfer_stat_type_2,transfer_stat_percent
+Hehta_Passive3,35,1,31,1,3,0.02,31,1,1,3,0.5
+Hehta_Passive3,35,1,31,1,3,0.04,31,1,1,3,0.75
+Hehta_Passive3,35,1,31,1,3,0.08,31,1,1,3,1

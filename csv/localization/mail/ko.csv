@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>VIP 상품
+vip_reward_content<>축하합니다! VIP {1} 도달에 대한 상품을 받았습니다.
+friend_boss_last_hit_reward_subject<>친구 보스로부터 상품
+friend_boss_last_hit_reward_content<>축하합니다! 친구 보스 종결 상품을 받았습니다.
+friend_boss_cleared_reward_subject<>친구 보스로부터 상품
+friend_boss_cleared_reward_content<>축하합니다! 친구 보스 이겼으니 상품을 받았습니다
+friend_season_ranking_reward_subject<>친구 시즌 랭킹
+friend_season_ranking_reward_content<>축하합니다!{1} 시즌의 친구 랭킹 상품을 받았습니다
+arena_season_ranking_reward_subject<>아레나 시즌의 랭킹 상품
+arena_season_ranking_reward_content<>축하합니다!아레나.에서 {1} 시즌의 랭킹 상품을 받았습니다
+arena_team_season_ranking_reward_subject<>지혜 아레나 시즌의 랭킹 상품
+arena_team_season_ranking_reward_content<>축하합니다!지혜 아레나.에서 {1} 시즌의 랭킹 상품을 받았습니다
+guild_boss_daily_reward_subject<>일간 길드 보스 상품
+guild_boss_daily_reward_content<>축하합니다!길드 보스 도전에 참석하여 상품을 받았습니다
+guild_boss_monthly_reward_subject<>월간 길드 보스 상품
+guild_boss_monthly_reward_content<>축하합니다! 길드 보스 도전에 참석하여 상품을 받았습니다
+guild_dungeon_cleared_reward_subject<>길드 던전 상품
+guild_dungeon_cleared_reward_content<>축하합니다! {2} 시즌 {1}단계의 길드 던전을 완료하여 상품을 받았습니다
+guild_dungeon_season_reward_subject<>길드 던전 시즌 랭킹 상품
+guild_dungeon_season_reward_content<>축하합니다!{1}단계의 길드 던전 완료하여 상품을 받았습니다
+guild_war_battle_reward_subject<>길드 전쟁 상품
+guild_war_battle_reward_content<>축하합니다!길드 전쟁에서 시즌 {1}의 전투 {2}을 (를) 완료 한 것에 대한 상품을 받았습니다.
+guild_war_season_reward_subject<>길드 전쟁 시즌 상품
+guild_war_season_reward_content<>축하합니다! 길드 전쟁에서 시즌 {1}을 (를) 완료하여 상품을 받았습니다.
+purchase_raw_pack_subject<>패키지 상품
+purchase_raw_pack_content<>축하합니다! {1} 팩 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_subscription_pack_instant_subject<>등록 팩 상품
+purchase_subscription_pack_instant_content<>축하합니다! 등록 팩 {1} 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_subscription_pack_daily_subject<>일간 등록 팩 상품
+purchase_subscription_pack_daily_content<>축하합니다! 등록 팩 {1}에서 매일 상품을 받았습니다.\n 일 : {2}
+purchase_progress_pack_subject<>스페셜 팩 상품
+purchase_progress_pack_content<>축하합니다! 스페셜 팩 {1} 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_limited_pack_subject<>한정 팩 상품
+purchase_limited_pack_content<>축하합니다! 한정 팩 {1} 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_event_bundle_pack_subject<>이벤트 번들 팩
+purchase_event_bundle_pack_content<>축하합니다! 이벤트 번들 팩 {1} 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_event_hot_deal_subject<>이벤트 번들 팩
+purchase_event_hot_deal_content<>축하합니다! 이벤트 번들 팩 {1} 구매에 대한 상품을 받았습니다.\n 거래 ID : {2}\n 거래 시간 : {3}
+purchase_subscription_pack_trial_subject<>체험 팩 신청 일간 상품
+purchase_subscription_pack_trial_content<>축하합니다! 체험 등록 팩 {1} 신청에 대한 일간 상품을 받았습니다.\n 일 : {2}
+purchase_first_time_reward_subject<>첫 납금 상품
+purchase_first_time_reward_content<>축하합니다! 게임 첫 납금 상품을 받았습니다
+event_arena_subject<>아레나 이벤트
+event_arena_content<>축하합니다! 아레나 이벤트에서 {1} 시즌의 상품을 받았습니다
+event_casino_subject<>운명의 바퀴 이벤트
+event_casino_content<>축하합니다! 운명의 바퀴.이벤트에서 {1} 시즌의 상품을 받았습니다
+event_hero_collect_subject<>영웅 수집 이벤트
+event_hero_collect_content<>축하합니다! 영웅 수집 이벤트에서 시즌 {1} 상품을 받았습니다.
+event_prophet_tree_subject<>고대 나무 이벤트
+event_prophet_tree_content<>축하합니다! 고대 나무.이벤트에서 {1} 시즌의 상품을 받았습니다
+event_summon_subject<>소환 이벤트
+event_summon_content<>축하합니다! 소환 이벤트에서 시즌 {1} 상품을 받았습니다.
+event_tavern_subject<>술집 이벤트
+event_tavern_content<>축하합니다! 술집.이벤트에서 {1} 시즌의 상품을 받았습니다
+event_mid_autumn_subject<>추석 이벤트
+event_mid_autumn_content<>축하합니다!
+email_change_password_subject<>서머너즈의 시대 게임 이메일 비밀번호 변경하기
+email_change_password_content<>사용자 이름 : {2}. 비밀번호 리셋{1}, 만료 : {3}
+email_validation_subject<>서머너즈의 시대 게임 이메일 비밀번호 확인하기
+email_validation_content<>인증코드 {1}, 만료 : {3}
+email_sender_name<>지트가 서포트
+welcome_mail_title<>서머너즈의 시대에 환영합니다!
+welcome_mail_content<>소환사 여러분께\n \n 서머너즈의 시대를 같이 체험해주셔서 감사합니다. 즐거운 시간을 보내기를 바랍니다.\n \n 개발팀은 감사말과 작은 선물을 보내 드리고 싶습니다\n \n 앞으로도 서머너즈의 시대를 더욱 좋아해주세요. 저희도 사용자한테 더욱 좋은 체험을 가질 수 있도록 노력해보겠습니다. \n \n 감사합니다!\n 서머너즈의 시대 개발팀.
+event_halloween_subject<>할로윈 이벤트
+event_halloween_content<>축하합니다! 주사위 게임을 완성했습니다. 선물을 받으세요!
+event_black_friday_subject<>블랙 프라이데이 카드 상품
+event_black_friday_content<>축하합니다! 블랙 프라이데이 카드 {1}에서 일간 상품을 받았습니다.\n 일: {2}
+event_new_year_subject<>축복 카드 상품
+event_new_year_content<>축하합니다! 축복카드로부터 일간 상품을 받았습니다.
+event_lunar_new_year_clear_boss_reward_subject<>구정 악마 추방 상품
+event_lunar_new_year_clear_boss_reward_content<>축하합니다! 당신은 악마 추방 활동에서 상품을 받았습니다.
+event_new_hero_summon_subject<>전설 소환 상품
+event_new_hero_summon_content<>축하합니다! 전설 소환 활동에서이 상품을 받았습니다.
+maintenance_inform_title<>서버 유지보수 공지
+maintenance_inform_title_content<>친애하는 소환사께,\n 저희는 서버가 {1}에 유지 보수될 것임을 알리고 자합니다. 이 시간 동안 로그인할 수 없습니다.\n 게임이 유지 보수 시간 동안 플레이 할 수 없습니다. 참고하시기 바랍니다. \n 감사합니다.
+maintence_reward_title<>유지 보수 완료
+maintence_reward_content<>친애하는 소환사께,\n 유지 보수가 완료되었습니다. 저희는 유지 보수 시간 동안 여러분의 인내에 대한 감사 선물을 보내드립니다.\n 계속 즐기고 정복하세요!
+event_easter_card_subject<>부활절 토끼 카드 상품
+event_easter_card_content<>축하합니다! 부활절 토끼 카드의 일간 상품을 받았습니다.\n 일: %s
+event_easter_egg_hunt_subject<>부활절 달걀 수집 상품
+event_easter_egg_hunt_content<>부활절 이벤트 활동에 참여해서 상품을 받았습니다.
+event_new_hero_boss_ranking_subject<>명예 보상의 트로피
+event_new_hero_boss_ranking_content<>축하합니다! 파워 콘테스트 및 신규 영웅 샤론 환영 이벤트에서 상위 {1}를 달성하여 상품을 받았습니다.
+domain_challenge_reward_subject<>도메인 상품
+domain_challenge_reward_content<>축하합니다! 도메인 단계에서 {1}을 (를) 통과하여 상품을 받았습니다.
+event_new_hero_release_subject<>전설 소환 상품
+event_new_hero_release_content<>축하합니다! 전설 소환 활동에서 상품을 받았습니다.
+purchase_event_hero_release_subject<>거래 성공
+purchase_event_hero_release_content<>신규 영웅 이벤트 기간 동안 패키지 구매하여 물품을 받았습니다. 항상 저희를 응원해주셔서 감사합니다.
+premium_reward_subject<>프리미엄 버전 상품
+premium_reward_content<>서머너즈의 시대의 프리미엄 버전을 구매하여 상품을 받았습니다. 항상 저희를 응원해주셔서 감사합니다.
+event_server_open_arena_subject<>아레나 최고 순위표 상품
+event_server_open_arena_content<>축하합니다! 아레나 랭킹 레이싱 이벤트에서 받은 상품입니다!
+event_server_open_arena_2_subject<>지혜 아레나 최고 순위표 상품
+event_server_open_arena_2_content<>축하합니다! 지혜 아레나 랭킹 레이싱 이벤트에서 받은 상품입니다!
+event_unclaimed_reward<>다음은 청구되지 않은 보상입니다.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>데스티니 전쟁 이벤트 보상
+event_birthday_dark_light_content<>축하합니다! 당신은 데스티니 전쟁 이벤트 활동으로부터 이러한 보상을 받았습니다.\n- 빛의 측면 : {1} 포인트\n- 다크 측면 : {2} 포인트
+event_birthday_summon_subject<>보상 생일 이벤트
+event_birthday_summon_content<>축하합니다! 주간 임무에 참여한 것에 대한 보상을 받았습니다.
+event_birthday_prophet_tree_subject<>보상 생일 이벤트
+event_birthday_prophet_tree_content<>축하합니다! 주간 임무에 참여한 것에 대한 보상을 받았습니다.
+event_birthday_arena_subject<>보상 생일 이벤트
+event_birthday_arena_content<>축하합니다! 주간 임무에 참여한 것에 대한 보상을 받았습니다.
+event_birthday_casino_subject<>보상 생일 이벤트
+event_birthday_casino_content<>축하합니다! 주간 임무에 참여한 것에 대한 보상을 받았습니다.
+event_zodiac_exchange_subject<>조디악 이벤트 종료 메일
+event_zodiac_exchange_content<>친애하는 소환사 여러분,\n조디악 이벤트가 종료되었습니다. 아스트랄 스타이(가) 이러한 리소스로 변환되었습니다. 이벤트에 참여해주셔서 감사드리며 즐거운 게임 되시기 바랍니다.
+purchase_subscription_pack_daily_bonus_subject<>VIP 일일 보너스 보상
+purchase_subscription_pack_daily_bonus_content<>축하합니다! 월별 카드의 VIP 보너스 혜택으로 이러한 보상을 받았습니다.
+event_thanks_giving_subject<>이벤트 추수 감사절
+event_thanks_giving_content<>축하합니다! 당신은 주사위 게임에서 랩을 마쳤습니다. 이 보상을 지금 주장하십시오!
+event_christmas_subject<>이벤트 크리스마스
+event_christmas_content<>축하해요!
+event_boss_challenge_ranking_subject<>보스 챌린지 랭킹 보상
+event_boss_challenge_ranking_content<>축하합니다! 보스 챌린지 활동으로부터 이러한 보상을받습니다.
+event_valentine_subject<>이벤트 발렌타인
+event_valentine_content<>축하해요!
+event_lunar_new_year_subject<>이벤트 음력 새해
+event_lunar_new_year_content<>축하해요!
+event_summer_day_subject<>이벤트 여름 휴가
+event_summer_day_content<>축하해요!
+event_blossom_day_subject<>이벤트 벚꽃
+event_blossom_day_content<>축하해요!
+event_qixi_festival_subject<>이벤트 Qixi 축제
+event_qixi_festival_content<>축하해요!
+event_may_day_subject<>이벤트 멕시코 축제
+event_may_day_content<>축하해요!

@@ -1,0 +1,322 @@
+key<>value
+0<>Ação completa com sucesso
+1<>Ocorreu um erro
+2<>O servidor não está respondendo
+4<>Jogador não encontrado
+5<>Entrada de dados inválida
+6<>Recursos insuficientes
+10<>Esta função não é suportada
+11<>O tempo foi ajustado, por favor, corrija.
+12<>Versão de cliente inválida
+13<>Nome do pacote inválido
+14<>Valor inválido
+15<>Valor inválido
+16<>Incompatibilidade no número do arquivo csv
+17<>Arquivo csv incompatível
+30<>A autenticação foi registrada
+31<>Esta conta já foi logada em outro dispositivo
+32<>Informação de login duplicada
+33<>Ocorreu um erro
+34<>Senha incorreta
+35<>Autenticação de jogador foi travada
+36<>Autenticação de ID do servidor inválida
+37<>Autenticação de conta está faltando um nome usuário
+38<>Senha incorreta
+40<>Valor existente
+41<>Senha de autenticação já utilizada
+50<>Formato de nome inválido
+51<>Este nome foi banido
+52<>Este nome já existe
+53<>O jogador foi bloqueado
+54<>O jogador foi desbloqueado
+55<>A lista de bloqueados está cheia
+56<>ID do Facebook já foi registrada
+57<>ID Apple já foi registrado
+58<>Usuário inválido
+65<>Ocorreu um erro
+70<>Coleção de heróis está cheia
+71<>Este herói alcançou o nível máximo
+72<>Este herói alcançou a estrela máxima
+73<>Herói não encontrado
+74<>Este herói já foi selecionado
+75<>Material de evolução inválido
+76<>Evolua este herói ao nível máximo
+77<>Materiais de evolução de herói insuficientes
+78<>O herói está em Auto Treino
+80<>Recompensas diárias recebidas.
+85<>Incapaz de desmontar o Altar
+90<>Fragmentos de herói insuficientes
+91<>Fragmento de herói não encontrado
+100<>A conversão falhou
+101<>Não foi encontrado o herói para conversão
+110<>Não é possível comprar Pergaminho de Invocação
+120<>O nível de item é insuficiente
+121<>O nível de item alcançou o limite
+122<>O item não foi equipado
+123<>Item não encontrado
+124<>Item incompatível
+130<>As compras atingiram o limite
+131<>Estágio de Aventura não encontrado
+132<>Nível de Aventura insuficiente
+140<>O herói já entrou no Calabouço
+141<>O herói do Calabouço morreu
+142<>Selecione pelo menos um herói
+143<>Mercador não encontrado
+144<>Calabouço fechado
+145<>Máximo de 5 heróis
+146<>Espaço de herói inválido
+148<>Herói não encontrado
+149<>Poção não encontrada
+150<>Estágio máximo do Calabouço atingido
+160<>Nível máximo de Maestria atingido
+161<>Maestria trancada
+162<>O reset falhou
+163<>Maestria já foi resetada
+170<>Invocador de Invocador selecionada
+171<>Incapaz de selecionar a classe de Invocador
+172<>Incapaz de selecionar o nível de habilidade do Invocador
+173<>Alcançou as estrelas máximas de Invocador
+180<>As compras atingiram o limite
+181<>As compras atingiram o limite
+190<>Não é possível coletar o Ouro
+200<>As compras atingiram o limite
+201<>Nível máximo da Torre do Dragão atingido
+210<>Sem missões para atualizar
+211<>Não é possível alterar a chave da missão
+212<>Não é possível cancelar a missão
+213<>Não é possível começar esta missão
+214<>Missão não encontrada
+215<>Este herói entrou em outra missão
+216<>Este herói não possui os requisitos para a missão
+217<>Não foi possível terminar a missão
+218<>Missão da taverna já foi finalizada
+219<>As missões da taverna chegaram ao limite
+220<>Não é possível avançar
+230<>Recurso indisponível
+240<>O espaço de treinamento está cheio
+241<>Estágio da campanha foi limitado
+242<>Estágio da campanha não encontrado
+243<>Estágio da campanha foi trancado
+244<>Você só pode treinar heróis de 1 a 3 estrelas
+245<>Selecione o herói para treinar
+246<>Nível de campanha insuficiente
+250<>Amigo já existe
+251<>O pedido já foi enviado.
+252<>Sua lista de amigos está cheia
+253<>Amigo não encontrado
+254<>Pedido de amizade não encontrado
+255<>Não foi possível observar
+256<>Observação falhou
+257<>Chefão já existe
+258<>Masmorra não encontrado
+259<>A diferença de nível é muito grande
+260<>Número de saques chegou no limite
+265<>Você alcançou o máximo de Pontos de Amizade
+266<>Sem Pontos de Amizade
+270<>Você não pode mandar mais correios
+271<>Correio não encontrado
+272<>Não foi possível deletar o correio
+273<>Não foi possível coletar as recompensas do correio
+274<>Tamanho de correio inválido
+290<>Oponente não encontrado
+291<>Crie um grupo na Arena
+292<>As compras atingiram o limite!
+300<>Gravação não encontrada
+310<>O chat falhou
+311<>Tamanho de mensagem inválida
+312<>Mensagem não encontrada
+320<>Vídeo de recompensa não encontrado
+321<>Você assistiu o limite de vídeos de recomensa
+350<>O jogador entrou em outra Guilda
+351<>Guilda não encontrada
+352<>Você acabou de sair de uma guilda, aguarde %s minutos
+353<>A guilda está cheia
+354<>Membro da guilda não encontrado
+355<>Não foi possível sair da guilda
+360<>Nome de guilda inválido
+361<>O nome da guilda foi banido
+362<>Este nome de guilda já existe
+363<>Descrição de guilda inválida
+364<>A descrição da guilda foi banida
+370<>O nível do líder não é suficiente
+371<>Não foi possível completar o pedido
+372<>Atingiu o limite de co-líderes
+373<>Membro da guilda já foi registrado
+374<>Os registros da guilda alcançaram o limite
+375<>A doação da guilda alcançou o limite
+376<>Membro da guilda inativo por muito tempo
+380<>Aplicação à guilda já existe
+381<>Aplicação à guilda está cheia
+382<>Aplicação à guilda não encontrada
+390<>O nivel de construção da Guilda alcançou o limite
+391<>Aguarde até a construção estar completa
+392<>Não foi possível aprimorar a construção da Guilda
+393<>Moinho da guilda não foi construído
+394<>Não foi possível coletar recurso
+400<>Chefão da guilda não encontrado
+401<>Chefão da guilda já foi desafiado
+402<>Não foi possível desafiar o Chefão da Guilda
+403<>Não foi possível selecionar o Chefão da Guilda
+404<>Estatísticas não encontradas
+410<>Masmorra da Guilda já foi desafiado
+411<>Masmorra da Guilda não encontrado
+412<>Estágio de Masmorra da Guilda não encontrado
+413<>Calabouço da Guilda já fechou
+422<>Oponente não encontrado
+423<>Não foi possível escolher a guilda oponente
+424<>Number member mismatched
+425<>Oponente não encontrado
+426<>Chances de ataque chegaram no limite
+427<>Unable to join due to not registering for guild war
+428<>Not participated
+430<>O registro para a guerra de guildas expirou
+431<>O registro para a guerra de guildas expirou
+450<>Missão não encontrada
+451<>Não foi possível coletar a recompensa da missão
+452<>Falha em desbloquear missão
+460<>Item não encontrado
+461<>Esgotado
+470<>Formação inválida
+480<>Avatar não encontrado
+481<>Quadro de Avatar não encontrado
+490<>Tutorial não encontrado
+501<>Email de senha esquecida chegou ao limite
+502<>Código de senha esquecida chegou ao limite
+503<>Código de senha esquecida expirado
+504<>Código de senha esquecida incompatível
+510<>Envio de email chegou ao limite
+511<>Código de email chegou ao limite
+512<>Código de validação de email expirado
+513<>Código de validação de email incompatível
+514<>Email já existe
+515<>Não foi possível enviar o email
+516<>Email já verificado
+517<>Email não encontrado
+518<>Email não verificado
+600<>Pacote de compra não encontrado
+601<>Transação de compra inválida
+602<>O pacote de primeira compra expirou
+603<>Este pacote não está disponível
+604<>Esgotado
+605<>A compra foi processada
+606<>Esta compra não é suportada
+607<>Esta compra não foi encontrada
+700<>Evento fechado
+701<>Evento não encontrado
+740<>Recebeu a recompensa do Evento de Login
+741<>Recompensa de Evento de Login não encontrada
+750<>Recompensa do Evento do Festival não encontrada
+751<>Já reivindicou a recompensa do Evento do Festival
+752<>Os requisitos do Evento do Festival não foram cumpridos
+760<>O Evento de Trocas atingiu o limite
+761<>Troca falhou
+770<>Recompensa do Ranking da Arena não encontrada
+771<>Os requisitos do Evento do Ranking da Arena não foram cumpridos
+772<>Você já coletou as recompensas do Ranking da Arena
+780<>O evento Roda do Destino não pode rodar
+781<>O evento Roda do Destino não pode ser repetido
+782<>Evento Roda do Destino o limite de repetição foi atingido
+783<>Evento Roda do Destino concluído
+784<>Evento Roda do Destino nenhuma missão atribuída
+785<>Evento Roda do Destino não atribuído
+786<>Evento Roda do Destino não completo
+262<>Lista de amigos cheia
+414<>Estágio do Calabouço já foi completado
+261<>Chefão já foi derrotado
+60<>Google account already exists
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Guerra de guildas acabou
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>O nome da equipe é inválido.
+656<>O nome da equipe foi banido.
+657<>A descrição da equipe é inválida.
+658<>A descrição da equipe foi banida.
+660<>Já se juntou a uma equipe.
+661<>A equipe não foi encontrada.
+662<>Você não está em uma equipe.
+663<>Não encontre este jogador.
+664<>
+665<>Esta equipe está lutando.
+666<>Esta equipe atingiu membros plenos.
+667<>Esta equipe foi banida.
+668<>Alguns jogadores não estão prontos.
+670<>Este jogador já foi convidado.
+671<>Limitar o número de convites
+672<>Invitation has been out of time as the team has been disbaned.
+673<>Invitation has been out of time as the team has been disbaned.
+675<>A inscrição para esta equipe foi enviada.
+676<>Limite o número de aplicativos.
+677<>
+678<>
+679<>
+680<>Pronto está em tempo de espera. Seja paciente.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Número de inscrições ultrapassado
+669<>Não há membros suficientes para começar.
+357<>Você não fez parte de uma Guilda.
+690<>Não foi possível sair da equipe agora.
+151<>Você manipula muito rápido. Reabra o jogo para resolver este problema.
+654<>Este jogador não salvou sua formação
+686<>Vá devagar, você mudou de líder rápido demais.
+616<>Você não escolheu Hero ou Artefato ainda.
+1126<>Você atingiu o nível máximo, então não precisa comprar o nível.
+1152<>Você não tem mais giros.
+1151<>Você não tem mais giros.
+1153<>Você atingiu o máximo de giros.
+742<>Não foi possível reivindicar este prêmio.
+1160<>Você precisa escolher um herói para concluir a compra.
+1163<>Você precisa escolher um item para reivindicar.
+984<>Você precisa escolher um herói antes de trocar.
+994<>Você recebeu todas as recompensas.
+203<>Seu nível não é comparado por participar deste andar.
+1251<>Você resgatou a recompensa máxima.
+1253<>Recurso insuficiente para unir a estrela.
+1262<>Completar todos os requisitos a serem recebidos.
+125<>Desbloquear quando o herói chega a 14 estrelas

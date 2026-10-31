@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>Der Held, der dieses Talent trägt, wird in der ersten Schlachtrunde alle Schäden blockieren.
+10_2000201_1_2<>Der normale Angriff des Helden, der dieses Talent trägt, hat eine Chance von {1}, Feinden mehr {2} Schaden zuzufügen
+10_2000301_1_2<>Aktive Fähigkeiten des Helden, das dieses Talent trägt, hat {1} Chance, Ziel auszuführen. Diese Aktion erfolgt einmal pro Schlacht.
+10_2000401_1_2<>Der Träger dieses Talents hat 1 Mal Zeit, um die Hinrichtung zu verhindern. Wenn dies passiert, stellt dieser Held in dieser Runde {1} HP wieder her.
+10_2000501_1<>Der Held trägt dieses Talent {1} mehr Schaden im Laufe der Zeit für Feinde.
+10_2000601_1<>Der Held, der dieses Talent trägt, hat, wenn er einen kritischen Treffer hat, {1} Chance, Feinden Stilleffekte anzuwenden.
+10_2000701_1<>Der Held, der dieses Talent trägt, hat eine Chance, zu Beginn jeder Runde einen Effekt zu werfen, was ihm hilft, immun gegen Stilleeffekte zu sein.
+10_2000801_1_2<>Beim Angriff senkt der Held, der dieses Talent trägt, die {2} des Ziels durch {1} in der Angriffsrunde.
+10_2000901_1<>Wenn der Held, der dieses Talent trägt, einen Grundangriff ausführt, um einen negativen Effekt zu erzielen, gibt er das Ziel {1} ​​weniger Energie an.
+10_2001001_1<>Aktive Fähigkeiten des Helden, das dieses Talent trägt, gibt ihm {1} mehr Energie.
+10_290401_1_2<>Der Held, der diese Ausrüstung trägt, heilt sich zu Beginn der Runde {2} um {1} HP
+10_290402_1_2<>Zu Beginn des Kampfes wendet der Held, der diese Ausrüstung trägt, den Brenneffekt auf alle Feinde an der Frontlinie an. Brennen verursacht [{1} ATK] Schaden und hält {2} Runden an.
+10_290403_1_2_3<>Der Held, der diese Ausrüstung trägt, verursacht mehr {2} Schaden und heilt sich selbst um {1} HP, wenn er Feinde angreift, die {3} erhalten.
+10_290404_1_2<>Der Held, der diese Ausrüstung trägt, erhält mehr {1} Heilungsmenge von Verbündeten. Darüber hinaus erhöht der Gifteffekt, der auf Feinde wirkt, {2} Schaden.
+10_290405_1<>Der Held, der diese Ausrüstung trägt, heilt sich selbst um {1} HP (berechnet von seinen Basis-HP), wenn er entfernbare Buffs erhält. Dieser Effekt wird einmal pro Runde ausgelöst.
+10_290406_1<>Der Held, der diese Ausrüstung trägt, heilt sich selbst um {1} HP (berechnet von seiner Basis-HP), wenn er Feinde angreift, die einen Blutrauscheffekt bekommen.

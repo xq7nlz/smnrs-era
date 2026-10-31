@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_duration,stat_debuff_amount,effect_type,effect_chance,effect_duration
+ColdAxe_Active,1.31,10,4,21,1,2,0.3,2,0.3,3
+ColdAxe_Active,1.51,10,4,21,1,2,0.3,2,0.4,3
+ColdAxe_Active,1.71,10,4,21,1,2,0.3,2,0.5,3

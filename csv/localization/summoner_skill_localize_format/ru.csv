@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Нанести [{p(damage)} от ATK] урона {q(target_position)}.
+summoner_1_1_1<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и уменьшить {q(stat_debuff_type)} цели на {q(stat_debuff_amount_3)} в течение {c(stat_debuff_duration)} раунда(ов).
+summoner_1_1_2~stat_debuff_chance~1<>Наносит [{p(damage)} от ATK] урона {q(target_position)}. Имеет {p(stat_debuff_chance)} шанс снизить {q(stat_debuff_amount_3)} {q(stat_debuff_type)} противника на {c(stat_debuff_duration)} раундов.
+summoner_1_1_2~stat_debuff_chance~0<>Нанесите [{p(damage)} от ATK] урона {q(target_position)} случайным врагам в заднем ряду и уменьшите {q(stat_debuff_amount_3)} {q(stat_debuff_type)} этих врагов за {c(stat_debuff_duration)} раундов.
+summoner_1_1_3~dispel_chance~0<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и рассеять все позитивные воздействия на цель. Нанести цели [{p(damage_bonus_per_die)} от ATK] экстра урона за каждого побежденного персонажем врага.
+summoner_1_1_3~dispel_chance~1<>Нанести [{p(damage)} от ATK] урона {q(target_position)}. За каждого мертвого врага нанести [{p(damage_bonus_per_die)} от ATK] урона оставшимся врагам и получить {p(dispel_chance)} шанс(а/ов) разрушить их воздействия.
+summoner_1_2_1<>Увеличить {q(stat_1)} на {p(bonus_1)}, {q(stat_2)} на {p(bonus_2)} в течение {q(target_position_2)}.
+summoner_1_2_2<>Увеличьте {p(bonus_1)} {q(stat_1)} для {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Если дружественный тебе Персонаж подвергся базовой атаке или воздействию активного навыка, у тебя есть {p(passive_chance)} шанс(а/ов) нанести атакующему [{p(damage)} от ATK] урона.
+summoner_1_2_3<>Увеличить {q(stat_1)} на {p(bonus_1)}, {q(stat_2)} на {p(bonus_2)} в течение {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>В начале каждого матча {q(target_position_2)} становится неуязвимым для всех негативных воздействий в течение {c(blessing_duration)} раунда(ов).
+summoner_1_3_1~blessing_chance~1<>В начале каждого матча {q(target_position_2)} получает {p(blessing_chance)} шанс(а/ов) стать неуязвимым для всех негативных воздействий в течение {c(blessing_duration)} раунда(ов).
+summoner_1_3_2~buff_chance~1<>В начале каждого нечетного раунда, есть {p(buff_chance)} шанс увеличить {q(stat_buff_1_amount)} {q(stat_buff_1_type)} и {q(stat_buff_2_amount)} {q(stat_buff_2_type)} для Hero в {q(buff_target_position)}-м положении. Этот эффект длится {c(buff_duration)} раунда.
+summoner_1_3_2~buff_chance~0<>В начале каждого нечетного раунда увеличивайте {q(stat_buff_1_amount)} {q(stat_buff_1_type)} и {q(stat_buff_2_amount)} {q(stat_buff_2_type)} для Героя на {q(buff_target_position)} -й позиции. Этот эффект длится {c(buff_duration)} раунда.
+summoner_1_3_3~buff_chance~0<>Для каждого поверженного персонажа, увеличить {q(stat_buff_1_type)} на {q(stat_buff_1_amount)} и {q(stat_buff_2_type)} на {q(stat_buff_2_amount)} для {q(buff_target_position)}. Этот эффект может быть активирован один раз за матч для одного союзника.
+summoner_1_3_3~buff_chance~1<>Для каждого поверженного персонажа, есть {c(buff_duration)} шанс(а/ов) увеличить {q(stat_buff_1_type)} на {q(stat_buff_1_amount)} и {q(stat_buff_2_type)} на {q(stat_buff_2_amount)} для {q(buff_target_position)}. Этот эффект может быть активирован один раз за матч для одного союзника.
+summoner_1_4_1~block_chance~0<>Союзники в позиции {s(target_number)} блокируют {p(block_rate)} полученного урона, будучи атакованными базовой атакой или активным навыком.
+summoner_1_4_1~block_chance~1<>Союзники в позиции {s(target_number)} получают {p(block_chance)} шанс(а/ов) блокировать {p(block_rate)} полученного урона, будучи атакованными базовой атакой или активным навыком.
+summoner_1_4_2<>В начале каждого раунда, герой в позиции {q(target_position_2)} получает {c(power_buff)} энергия
+summoner_1_4_3<>Увеличить {q(stat_buff_type)} на {q(stat_buff_amount_3)} для {q(buff_target_position)}. После каждой {c(count_trigger)} атаки (базовой или с помощью активного навыка), совершенной этими союзниками, нанеси [{p(damage)} от АТК этого персонажа] урона {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и уменьшить {q(stat_debuff_type)} цели на {q(stat_debuff_amount_3)} в течение {c(stat_debuff_duration)} раунда(ов).
+summoner_2_1_1~stat_debuff_chance~1<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и получить {p(stat_debuff_chance)} шанс(а/ов) уменьшить {q(stat_debuff_type)} цели на {q(stat_debuff_amount_3)} в течение {c(stat_debuff_duration)} раунда(ов).
+summoner_2_1_2~stat_buff_chance~0<>Нанеси [{p(damage)} от ATK] урона {q(damage_target_position)}. увеличить {q(stat_buff_amount_3)} {q(stat_buff_type)} для {q(buff_target_position)} в течение {c(stat_buff_duration)} раунда(ов).
+summoner_2_1_2~stat_buff_chance~1<>Нанеси [{p(damage)} от ATK] урона {q(damage_target_position)} и получи {p(stat_buff_chance)} шанс(а/ов) увеличить {q(stat_buff_amount_3)} {q(stat_buff_type)} для {q(buff_target_position)} в течение {c(stat_buff_duration)} раунда(ов).
+summoner_2_1_3<>Нанеси [{p(damage)} от ATK] урона {q(target_position)}, получи {p(effect_chance)} шанс(а/ов) применить к цели эффект {q(effect_type)} в течение {c(effect_duration)} раунда(ов).
+summoner_2_2_1<>Увеличить {q(stat_1)} на {p(bonus_1)}, {q(stat_2)} на {p(bonus_2)} в течение {q(target_position_2)}.
+summoner_2_2_2<>Увеличьте {q(bonus_1)} {q(stat_1)} и уменьшите {q(debuff_amount_1)} {q(debuff_stat_1)} для {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>Увеличить {q(stat_buff_type)} оставшихся союзников на {q(stat_buff_amount_3)} за каждого побежденного союзника.
+summoner_2_2_3~buff_chance~1<>Есть {p(buff_chance)} шанс(а/ов) увеличить {q(stat_buff_type)}оставшихся союзников на {q(stat_buff_amount_3)}, когда союзник побежден.
+summoner_2_3_1<>Когда {q(target_position_2)} подвержены эффекту контроля, уменьши {p(reduce_damage_amount)} полученного ими урона.
+summoner_2_3_2~block_chance~0<>Когда союзник попал под базовую атаку или действие активного навыка, есть {p(buff_chance)} шанс(а/ов) применить эффект Щита к {q(target_position_2)} в течение {c(block_duration)} раунда(ов). Эффект Щита блокирует [{p(block_amount)} понесенного урона]. Этот эффект не суммируется.
+summoner_2_3_2~block_chance~1<>Когда союзник попал под базовую атаку или действие активного навыка, есть {p(buff_chance)} шанс(а/ов) применить эффект Щита к {q(target_position_2)} в течение {c(block_duration)} раунда(ов). Эффект Щита имеет {p(block_chance)} шанс(а/ов) блокировать [{p(block_amount)} понесенного урона]. Этот эффект не суммируется.
+summoner_2_3_3<>Когда союзник получает смертельный урон, он имеет шанс(а/ов) {p(last_chance_rate)} выжить с 1 HP и восстановить {c(power_gain)} энергии. Этот эффект может быть активирован один раз за матч для одного союзника.
+summoner_2_4_1~block_chance~0<>Союзники в позиции {s(target_number)} блокируют [{p(block_rate)} понесенного урона], будучи атакованными базовой атакой или активным навыком.
+summoner_2_4_1~block_chance~1<>Союзники в позиции {s(target_number)} получают {p(block_chance)} шанс(а/ов) блокировать [{p(block_rate)} понесенного урона], будучи атакованными базовой атакой или активным навыком.
+summoner_2_4_2<>В начале раунда {c(round_trigger_list)} создайте связь между {q(tanker_target_position)} и {q(target_position_3)}. Урон, полученный всеми связанными союзниками, будет {p(damage_share_percent)} перенесен на {q(tanker_target_position)}. Эффект длится {c(bond_duration)} раундов.
+summoner_2_4_3<>Увеличить {q(stat_buff_amount_3)} {q(stat_buff_type)} для {q(buff_target_position)}. За каждые 3 атаки (базовая атака или активный навыки), которые этот Персонаж получает, немедленно контратаковать и нанести [{p(damage_percent_hp)} HP этого союзника] урона {q(damage_target_position)}.
+summoner_3_1_1<>Нанеси [{p(damage)} от ATK] урона {q(damage_target_position)} и исцели количество HP, равное [{p(heal_percent)} от ATK] за {q(heal_target_position)}.
+summoner_3_1_2<>Нанеси [{p(damage)} от ATK] урона {q(damage_target_position)} и получи {p(effect_chance)} шанс(а/ов) применить к цели эффект {q(effect_type)} в течение {c(effect_duration)} раунда(ов).
+summoner_3_1_3<>Нанеси [{p(damage)} атаки] урона {q(damage_target_position)}, и свяжи {q(bond_target_position)} в течение {c(bond_duration)} раунда(ов). При базовой атаке или воздействии активным навыком полученный урон делится и наносится всем связанным целям, а не одной.
+summoner_3_2_1<>Увеличить {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {q(bonus_2)} для {q(target_position_2)}.
+summoner_3_2_2<>Увеличьте {q(bonus_1)} {q(stat_1)} для {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Будучи атакованным базовой атакой или активным навыком, есть {p(heal_chance)} шанс(а/ов) восстановить количество HР этого союзника, равное [{p(heal_amount)} от ATK].
+summoner_3_2_3<>В начале каждого матча восстанови {c(power_stat)} энергии для союзников на позиции {s(target_number)}.
+summoner_3_3_1<>Увеличить {q(stat_1)} на {q(bonus_1)} для {q(target_position_2)}.
+summoner_3_3_2<>В начале каждого раунда внизу: {c(round_trigger_list)}, увеличить {q(stat_buff_type)} {q(target_position_2)} на {q(stat_buff_amount)} в течение{c(stat_buff_duration)} раунда(ов).
+summoner_3_3_3<>Увеличить {q(stat_1)} на {p(bonus_1)}, {q(stat_2)} на {q(bonus_2)} в течение {q(target_position_2)}.
+summoner_3_4_1<>В начале каждого нечетного раунда, восстанови {c(power_buff)} энергии для {q(target_position_2)}.
+summoner_3_4_2<>В начале каждого нечетного раунда снимайте все негативные эффекты на {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>Когда НР союзника становится ниже {p(heal_trigger)}, исцели количество НР этого союзника, равное [{p(heal_amount)} от ATK]. Этот эффект может быть активирован один раз за матч.
+summoner_3_4_3~heal_chance~1<>Когда НР союзника становится ниже {p(heal_trigger)}, у тебя есть {p(heal_chance)} шанс(а/ов) исцелить количество НР этого союзника, равное [{p(heal_amount)} от ATK]. Этот эффект может быть активирован один раз за матч.
+summoner_4_1_1~debuff_chance~0<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и {q(debuff_type)} целям в течение {c(debuff_duration)} раунда(ов). Эффект {q(debuff_type)} наносит целям [{p(debuff_amount)} от ATK] урона в каждом раунде.
+summoner_4_1_1~debuff_chance~1<>Нанеси [{p(damage)} от ATK] урона {q(target_position)} и получи {p(debuff_chance)} шанс(а/ов) применить к цели эффект {q(debuff_type)} в течение {c(debuff_duration)} раунда(ов). Эффект {q(debuff_type)} цели [{p(debuff_amount)} от ATK] урона в каждом раунде.
+summoner_4_1_2<>Нанеси [{p(damage)} от ATK] урона {q(target_position)} и получи {p(debuff_chance)} шанс(а/ов), чтобы {q(debuff_type)} цель в течение {c(debuff_duration)} раунда(ов).
+summoner_4_1_3<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и увеличить {q(buff_type)} {q(buff_target_position)} на {p(buff_amount)} в течение {c(buff_duration)} раунда(ов).
+summoner_4_2_1<>Увеличить {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {p(bonus_2)} для {q(target_position_2)}.
+summoner_4_2_2<>Увеличьте {q(stat_1)} на {q(bonus_1)} для {q(target_position_2)}.
+summoner_4_2_3<>Увеличить {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {q(bonus_2)} для {q(target_position_2)}.
+summoner_4_3_1<>Увеличить {q(stat_1)} на {q(bonus_1)} для {q(target_position_2)}.
+summoner_4_3_2<>В начале каждого раунда свяжите {q(target_position_2)} и {q(bond_target_position)} для {c(bond_duration)} раунда. {p(bond_share_damage)} повреждений, полученных связанными союзниками, будет передано и разделено поровну между {q(bond_target_position)}.
+summoner_4_3_3<>Когда союзник применяет к цели эффект контроля, примени к цели эффект Кровотечения той же длительности, что и предыдущий эффект контроля. Эффект Кровотечения наносит цели [{p(damage)} от ATK] урона в каждом раунде.
+summoner_4_4_1<>Когда атака союзника (базовая атака или активный навык) становится критическим попаданием, увеличить {p(bonus_1)} {q(target_position_2)} на {q(stat_1)} в течение {c(buff_duration)} раунда(ов). Этот эффект может накапливаться.
+summoner_4_4_2<>Когда союзник успешно уклоняется от атаки, увеличивайте {q(buff_type)} на {q(buff_amount)} в течение {c(buff_duration)} раундов.. Этот эффект нельзя складывать.
+summoner_4_4_3<>Для каждой {c(buff_per_power)} энергии Заклинателя увеличить {p(buff_amount)} из {q(target_position_2)} на {q(buff_type)}.
+summoner_5_1_1~stat_debuff_chance~0<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и уменьшить {q(stat_debuff_type)} цели на {p(stat_debuff_amount)} в течение {c(stat_debuff_duration)} раунда(ов).
+summoner_5_1_1~stat_debuff_chance~1<>Нанеси [{p(damage)} от ATK] урона {q(target_position)} и получи {p(stat_debuff_chance)} шанс(а/ов) уменьшить {p(stat_debuff_amount)} цели на {q(stat_debuff_type)} в течение {c(stat_debuff_duration)} раунда(ов).
+summoner_5_1_2<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и увеличить урон цели, полученный из всех источников на {p(damage_receive_debuff_amount)} в течение {c(damage_receive_debuff_duration)} раунда(ов).
+summoner_5_1_3~debuff_chance~0<>Нанести [{p(damage)} от ATK] урона {q(target_position)} и {q(debuff_type)} целям в течение {c(debuff_duration)} раунда(ов). Эффект {q(debuff_type)} наносит целям [{p(debuff_amount)} от ATK] урона в каждом раунде.
+summoner_5_1_3~debuff_chance~1<>Нанеси [{p(damage)} от ATK] урона {q(target_position)} и получи {p(debuff_chance)} шанс(а/ов) применить к цели эффект {q(debuff_type)} в течение {c(debuff_duration)} раунда(ов). Эффект {q(debuff_type)} наносит цели [{p(debuff_amount)} от ATK] урона в каждом раунде.
+summoner_5_2_1<>Увеличить {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {p(bonus_2)} для {q(target_position_2)}.
+summoner_5_2_2<>Увеличить {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {p(bonus_2)} для {q(target_position_2)}.
+summoner_5_2_3<>Увеличить {q(stat_1)} на {p(bonus_1)} для {q(target_position_2)}.
+summoner_5_3_1<>Когда союзник атакует врага или применяет навык, наноси цели на {p(bonus_damage_receive)} больше урона, если на нее повлиял эффект контроля.
+summoner_5_3_2<>В начале каждого раунда ниже: {c(round_trigger_list)}, уменьшите {q(debuff_amount_1)} на {q(debuff_stat_1)} для {q(target_position)} в {c(debuff_duration)} раундах.
+summoner_5_3_3<>Когда союзник использует дополнительную возможность атаки, эта атака наносит на {p(bonus_damage_extra_turn)} больше урона.
+summoner_5_4_1<>Увеличивает {q(stat_1)} на {p(bonus_1)} и {q(stat_2)} на {p(bonus_2)} для союзников на позиции {s(target_number)}.
+summoner_5_4_2<>Увеличить {q(stat_1)} на {q(bonus_1)} для {q(target_position_2)}.
+summoner_5_4_3<>Когда союзник совершает атаку дополнительным ходом в {c(number_extra_turn_affect)}й раз, эта атака наносит {p(bonus_damage_extra_turn)} больше урона и применяет к цели эффект {q(effect_type)} в течение {c(effect_duration)} раунда(ов).
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

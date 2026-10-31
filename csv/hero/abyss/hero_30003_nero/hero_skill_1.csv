@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent
+Nero_Active,1.64,10,3,0.6
+Nero_Active,1.84,10,3,0.8
+Nero_Active,2.04,10,3,1

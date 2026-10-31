@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>Besoin de %s points VIP pour atteindre
+vip_instant<>Atteignez ce niveau VIP pour collecter :
+vip_daily<>Récompenses quotidiennes bonus pour la carte de commandant et la carte de prophète :
+vip_point_required<>Points VIP requis
+campaign_bonus_idle_time_max<>Durée inactive : %s
+campaign_bonus_gold<>Bonus %s d'Or de la Récompense inactive
+campaign_bonus_magic_potion<>Bonus %s EXP d'héros de la Récompense inactive
+campaign_bonus_auto_train_slot<>Emplacements d'entraînement : %s
+tavern_bonus_quest<>Quêtes de la taverne : %s
+raid_bonus_turn_buy<>Nombre d'achats supplémentaires en Aventure : %s
+casino_unlock_multiple_spin<>Déverrouillez la fonction de rotation multiple dans la Roue de Fortune
+casino_unlock_premium_spin<>Déverrouillez instantanément la Roue du Destin
+casino_bonus_turn_buy_basic_chip<>Nombre d'achats supplémentaires de la Pièrre de Fortune : %s
+battle_unlock_speed_up<>Déverrouillez instantanément l'Accélération de la bataille
+battle_unlock_skip<>Déverrouillez instantanément le Passage de la bataille
+hand_of_midas_bonus_gold<>Bonus d'Or dans la mine d'Or : %s
+summon_unlock_accumulate<>Déverrouillez instantanément l'Invocation de l'Énergie dans l'Invocation Premium
+arena_bonus_ticket_buy<>Nombre d'achat du billet d'Arène : %s
+campaign_bonus_quick_battle_buy_turn<>Achats des batailles rapides : %s
+current_vip<>Niveau VIP actuel
+campaign_bonus_exp_summoner<>Bonus d'EXP d'invocateur %s de la campagne
+dungeon_challenge_increased<>Augmenter la récompense d'étape dans le Cachot de %s
+allow_skip_ads<>Déverrouiller les annonces ignorées
+allow_prophet_tree_use_gem<>Débloquez l'invocation par Gemme dans l'Arbre ancien
+battle_unlock_skip_arena<>Débloquez Ignorer la bataille dans l'Arène
+auto_next_battle<>Déverrouiller la fonction Auto Next Stage

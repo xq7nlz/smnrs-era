@@ -1,0 +1,6 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,random_item_id,rate,random_res_type,random_res_id,random_res_number,random_res_data,stock,price,is_free,is_hot
+4,SE329,WEB_SE329,com.se.sungame.idle_effect_pack_random,com.sungame.summoners.era.idle_effect_pack_random,com.fansipan.summoners.era.idle_effect_pack_random,com.fansipan.summoners.era.idle_effect_pack_random,2,2,1500,,1,1,24,1001,1,,-1,29.99,FALSE,TRUE
+,,,,,,,,,,,2,1,24,1002,1,,,,,
+,,,,,,,,,,,3,1,24,1003,1,,,,,
+,,,,,,,,,,,4,1,24,1004,1,,,,,
+,,,,,,,,,,,5,1,24,1005,1,,,,,

@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>Pahlawan yang mengenakan bakat ini akan memblokir semua kerusakan di babak pertama pertempuran.
+10_2000201_1_2<>Serangan dasar pahlawan yang mengenakan bakat ini memiliki kesempatan {1} untuk menangani lebih banyak kerusakan {2} pada musuh.
+10_2000301_1_2<>Keterampilan aktif pahlawan yang mengenakan bakat ini memiliki kesempatan {1} untuk mengeksekusi target. Tindakan ini terjadi sekali per pertempuran.
+10_2000401_1_2<>Pahlawan yang mengenakan bakat ini memiliki 1 waktu untuk mencegah eksekusi. Jika terjadi, pahlawan ini memulihkan dirinya {1} hp di babak itu.
+10_2000501_1<>Pahlawan yang mengenakan penawaran bakat ini {1} lebih banyak kerusakan dari waktu ke waktu untuk musuh.
+10_2000601_1<>Pahlawan yang mengenakan bakat ini, ketika ia memberikan pukulan kritis, memiliki {1} kesempatan untuk menerapkan efek keheningan pada musuh.
+10_2000701_1<>Pahlawan yang mengenakan bakat ini memiliki kesempatan {1} untuk memberikan efek pada awal setiap putaran yang membantunya kebal terhadap efek diam.
+10_2000801_1_2<>Saat menyerang, pahlawan yang mengenakan bakat ini menurunkan target {2} oleh {1} di babak menyerang.
+10_2000901_1<>Ketika pahlawan yang mengenakan bakat ini melakukan serangan dasar untuk menargetkan efek negatif, ia memberikan target {1} lebih sedikit energi.
+10_2001001_1<>A habilidade ativa do herói usando este talento lhe dá {1} mais energia.
+10_290401_1_2<>Pahlawan yang memakai peralatan ini menyembuhkan dirinya sendiri {1} HP di awal ronde {2}
+10_290402_1_2<>Di awal pertempuran, hero yang memakai perlengkapan ini memberikan efek Burning ke semua musuh di garis depan. Pembakaran menyebabkan kerusakan [{1} ATK] dan berlangsung selama {2} putaran.
+10_290403_1_2_3<>Pahlawan yang memakai peralatan ini memberikan lebih banyak {2} kerusakan dan menyembuhkan dirinya sendiri {1} HP saat menyerang musuh yang mendapatkan {3}.
+10_290404_1_2<>Pahlawan yang memakai perlengkapan ini menerima lebih banyak {1} jumlah penyembuhan dari sekutu. Selain itu, efek Racun yang diterapkan pada musuh meningkatkan {2} kerusakan.
+10_290405_1<>Pahlawan yang memakai perlengkapan ini menyembuhkan dirinya sendiri {1} HP (dihitung dari HP dasarnya) saat menerima buff yang bisa dilepas. Efek ini dipicu sekali per putaran.
+10_290406_1<>Hero yang memakai perlengkapan ini menyembuhkan dirinya sendiri {1} HP (dihitung dari HP dasarnya) saat menyerang musuh yang terkena efek Bleed.

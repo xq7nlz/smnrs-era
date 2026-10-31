@@ -1,0 +1,566 @@
+key<>value
+feature_1<>Perjalanan
+feature_2<>Panggil
+feature_4<>Pandai Besi
+feature_5<>Menara Naga
+feature_6<>Pasar Gelap
+feature_7<>Kedai Minum
+feature_8<>Pohon Purba
+feature_9<>Dungeon
+feature_10<>Perkumpulan
+feature_11<>Roda Takdir
+feature_12<>Arena
+feature_13<>Tambang Emas
+feature_14<>Kantong
+feature_15<>Pemanggil
+feature_16<>Keahlian
+feature_17<>kawan
+feature_18<>Petualangan
+feature_20<>Naikkan Level
+feature_21<>Benteng
+feature_22<>Menautkan
+feature_23<>Arena Bela Diri 
+feature_24<>Regress
+feature_25<>Hero Super Awaken
+feature_26<>Domain
+feature_28<>Item Revolution
+feature_32<>Dukungan penautan pahlawan
+feature_33<>Perang Serikat 
+feature_34<>Evolusi 14 bintang
+faction_type_1<>Air
+faction_type_2<>Api
+faction_type_3<>Lubang Tanpa Dasar
+faction_type_4<>Alam
+faction_type_5<>Cahaya
+faction_type_6<>Kegelapan
+class_type_1<>Ahli Sihir
+class_type_2<>Kesatria
+class_type_3<>Pendeta
+class_type_4<>Pembunuh Bayaran
+class_type_5<>Pasukan Keamanan
+stat_type_1<>SERANGAN
+stat_type_2<>Armor
+stat_type_3<>Darah
+stat_type_4<>Kecepatan
+stat_type_10<>Kemungkinan Pukulan Kritis
+stat_type_11<>Kerusakan Kritis
+stat_type_20<>Akurasi
+stat_type_21<>Menghindar
+stat_type_30<>Kerusakan Murni
+stat_type_31<>Kerusakan Skill
+stat_type_32<>Penetrasi Armor
+stat_type_40<>Ketahanan Terhadap Pengendalian Massa
+stat_type_41<>Pengurangan Kerusakan
+stat_type_50<>Energi
+effect_type_1<>Setrum
+effect_type_2<>Beku
+effect_type_3<>Tidur
+effect_type_4<>Membatu
+effect_type_10<>Racun
+effect_type_11<>Berdarah
+effect_type_12<>Terbakar
+effect_type_30<>Kutukan
+effect_type_31<>Tanda Kutukan
+effect_type_40<>Diam
+effect_type_50<>Kebal
+effect_type_100<>Tanda Titik Lemah
+effect_type_101<>Tanda Suci
+effect_type_102<>Tanda Kawan Air
+effect_type_103<>Tameng Cahaya
+effect_type_104<>Tameng Suci
+effect_type_105<>Tanda Peri Pohon
+effect_type_106<>Tanda Kegelapan
+effect_type_107<>Tameng Pemantul
+effect_type_108<>Tanda Fokus
+effect_type_109<>Tanda Pemancing
+effect_type_110<>Tumpukan Bisa
+effect_type_111<>Tanda Terbakar
+effect_type_112<>Tameng Sihir
+effect_type_113<>Tanda Tenggelam
+effect_type_114<>Tanda Darah
+effect_type_191<>Tanda Penyakit
+effect_type_192<>Tanda Penyembuhan Penyakit
+effect_type_200<>Efek ikatan
+effect_type_500<>Berkat
+effect_type_501<>Tanda Keberkatan
+effect_type_510<>Sembuh
+effect_type_511<>Tahan Terhadap Sembuh
+effect_type_530<>Lahir Kembali
+effect_type_531<>Panggil
+effect_type_600<>Serangan Balik
+effect_type_612<>Kesempatan Terakhir
+casino_type_0<>Roda Keberuntungan
+casino_type_1<>Roda Takdir
+money_type_-1<>Acak
+money_type_0<>Emas
+money_type_1<>Permata
+money_type_2<>Poin VIP
+money_type_10<>Pengalaman Hero
+money_type_11<>Obat Purba
+money_type_20<>Batu Arwah
+money_type_30<>Batu Keberuntungan
+money_type_31<>Batu Takdir
+money_type_32<>Koin Keberuntungan
+money_type_40<>Tiket Arena
+money_type_41<>Koin Arena
+money_type_50<>Surat Gulungan Panggilan Dasar
+money_type_51<>Surat Gulungan Panggilan Premium
+money_type_52<>Poin Terkumpul
+money_type_60<>Pusaka Kuno
+money_type_61<>Keberkatan Agtiz
+money_type_70<>Poin kawan
+money_type_71<>Stamina
+money_type_80<>Bubuk Sihir
+money_type_85<>Tiket Menara
+money_type_90<>Tugas Dasar
+money_type_91<>Tugas Premium
+money_type_100<>Poin Keahlian
+money_type_110<>Buku Kuno
+money_type_120<>Koin Perkumpulan
+money_type_121<>Koin Perkumpulan Kelas Atas
+money_type_122<>Tiket Boss Harian
+money_type_123<>Tiket Dungeon Perkumpulan
+money_type_8<>Pengalaman Pemanggil
+artifact_type_1<>Biasa
+artifact_type_2<>Langka
+artifact_type_3<>Mistis
+artifact_type_4<>Legendaris
+artifact_type_5<>Abadi
+stone_rarity_1<>Biasa
+stone_rarity_2<>Tidak Biasa
+stone_rarity_3<>Langka
+stone_rarity_4<>Mistis
+stone_rarity_5<>Legendaris
+stone_rarity_6<>Abadi
+potion_type_0<>Obat Merah
+potion_type_1<>Obat Kuning
+potion_type_2<>Obat Ungu
+game_mode_1<>Perjalanan
+game_mode_2<>Menara Naga
+game_mode_3<>Petualangan
+game_mode_4<>Dungeon
+game_mode_5<>Duel Bersahabat
+game_mode_6<>Arena
+game_mode_7<>Arena Perkumpulan
+game_mode_8<>Perang Perkumpulan
+game_mode_9<>Boss kawan
+game_mode_10<>Boss Harian
+game_mode_11<>Dungeon Perkumpulan
+raid_type_0<>Petualangan Emas
+raid_type_1<>Petualangan Obat
+raid_type_2<>Petualangan Harta Karun
+mastery_type_0<>SERANGAN
+mastery_type_1<>PERTAHANAN
+mastery_type_2<>DARAH
+mastery_type_3<>AKURASI
+mastery_type_4<>MENGHINDAR
+companion_type_1<>Mengerahkan 5 hero dari faksi yang berbeda untuk mendapatkan bonus atribut
+companion_type_2<>Mengerahkan 3 hero dari faksi yang sama + 2 hero dari faksi lain untuk mendapatkan bonus atribut
+companion_type_3<>Mengerahkan 3 hero dari faksi yang sama + 2 hero yang sama untuk mendapatkan bonus atribut
+companion_type_4<>Mengerahkan 4 hero dari faksi yang sama untuk mendapatkan bonus atribut
+companion_type_5<>Mengerahkan 5 hero yang sama untuk mendapatkan bonus atribut
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>Panggilan Dasar
+summon_type_1<>Panggilan Premium
+summon_type_2<>Panggilan Perkawanan
+difficult_type_1<>Normal
+difficult_type_2<>Sulit
+difficult_type_3<>Ekstrim
+difficult_type_4<>Mimpi Buruk
+difficult_type_5<>Gila
+difficult_type_6<>Kacau
+difficult_type_7<>Semesta
+difficult_type_8<>Dewa
+equip_rarity_1<>Biasa
+equip_rarity_2<>Tidak Biasa
+equip_rarity_3<>Langka
+equip_rarity_4<>Mistis
+equip_rarity_5<>Legendaris
+equip_rarity_6<>Abadi
+resource_type_1<>Pahlawan
+resource_type_2<>Mata uang
+resource_type_3<>Perlengkapan
+resource_type_4<>Artefak
+resource_type_5<>Syair
+resource_type_6<>Pecahan Artefak
+resource_type_7<>Pecahan Pahlawan
+resource_type_12<>Bingkai
+resource_type_13<>Bahan Evolusi Pahlawan
+resource_type_2_12<>Sumber daya
+resource_type_2_40<>Sumber daya
+resource_type_2_71<>Sumber daya
+resource_type_2_85<>Sumber daya
+resource_type_2_122<>Sumber daya
+resource_type_2_123<>Sumber daya
+resource_type_17<>Tiket Pertarungan Singkat
+linking_1<>Cinta Abadi
+linking_2<>Justice Union
+linking_3<>Pirates Perempuan
+linking_4<>Pengingat Kematian
+linking_5<>Mentalitas Shifter
+linking_6<>Hidup Abadi
+linking_7<>Suka Berperang Blades
+linking_8<>Berlian
+linking_9<>Kekuatan Beku 
+linking_10<>Kutukan Kegelapan 
+linking_11<>Kolektor Jiwa
+linking_12<>Bulan Blade - Hitam Spear
+linking_13<>Penjaga Hutan Suci
+linking_14<>Berkah surga
+linking_15<>Pelayan Api
+linking_16<>Sihir hitam
+linking_17<>Sejarah Laut
+ally_target_position_1<>Diri sendiri
+ally_target_position_10_5<>Semua kawan
+ally_target_position_10<>{0} kawan acak
+ally_target_position_11_5<>semua kawan
+ally_target_position_11<>{0} kawan acak
+ally_target_position_20_4<>kawan di lini depan
+ally_target_position_20<>{0} kawan acak di lini depan
+ally_target_position_21_4<>Semua kawan di lini belakang
+ally_target_position_21<>{0} kawan acak di lini belakang
+ally_target_position_30<>{0} kawan dengan Darah terendah
+ally_target_position_31<>{0} kawan dengan Serangan tertinggi
+ally_target_position_32<>{0} kawan dengan baju zirah terendah
+ally_target_position_33<>{0} kawan dengan %Darah tertinggi
+ally_target_position_34<>{0} kawan dengan baju zirah tertinggi
+ally_target_position_35<>{0} kawan dengan Darah tertinggi
+ally_target_position_36<>{0} kawan dengan %Darah terendah
+ally_target_position_41<>{0} kawan dalam baris yang sama
+ally_target_position_41_4<>Semua kawan dalam baris yang sama
+ally_target_position_45<>{0} kawan  dalam baris yang berbeda
+ally_target_position_45_4<>semua kawan di baris yang berbeda
+ally_target_position_51<>{0} kawan mendapat pengaruh
+enemy_target_position_10_5<>Semua musuh
+enemy_target_position_10<>{0} kawan acak
+enemy_target_position_11_5<>Semua musuh
+enemy_target_position_11<>{0} musuh
+enemy_target_position_20_4<>semua musuh di lini depan
+enemy_target_position_20<>{0} musuh acak  di lini depan
+enemy_target_position_21_4<>semua musuh di lini belakang
+enemy_target_position_21<>{0} musuh di lini belakang
+enemy_target_position_30<>{0} musuh dengan Darah terendah
+enemy_target_position_31<>{0} musuh dengan serangan tertinggi
+enemy_target_position_32<>{0} musuh dengan baju zirah terendah
+enemy_target_position_33<>{0} musuh dengan %Darah tertinggi
+enemy_target_position_34<>{0} musuh dengan baju zirah tertinggi
+enemy_target_position_35<>{0} musuh dengan Darah tertinggi
+enemy_target_position_36<>{0} musuh dengan %Darah terendah
+enemy_target_position_41<>{0} musuh dalam baris yang sama
+enemy_target_position_45<>{0} musuh dalam baris yang berbeda
+enemy_target_position_51<>{0} musuh acak
+enemy_target_position_62<>musuh di slot tertinggi
+money_type_140<>Elder Titan Soul
+money_type_141<>Titan Soul
+money_type_142<>Hero Soul
+money_type_130<>Gold Trophy
+money_type_131<>Silver Trophy
+money_type_135<>Lencana Zitga
+resource_type_8<>Summoner EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>Rate Up
+money_type_190<>Arena Pass Point
+money_type_191<>Daily Quest Pass Point
+resource_type_14<>Kostum
+money_type_180<>Lentera
+money_type_181<>Kue bulan
+resource_type_11<>Avatar
+money_type_75<>Kunci Emas
+money_type_76<>Kunci Kaca
+money_type_77<>Kunci Harta Karun
+money_type_210<>Dadu
+money_type_211<>Labu
+money_type_170<>Raising Star
+land_1<>Teluk Marianna
+land_2<>Benua Terbakar
+land_3<>Gurun Hellhal
+land_4<>Hutan Wildwood
+land_5<>Lembah Sunfield
+land_6<>Puncak Evermist
+land_7<>Alam Mimpi
+land_8<>Kekacauan
+land_9<>Dunia Roh
+land_10<>Perpustakaan Waktu
+restrict_type_1<>Hanya Pahlawan Air yang diizinkan
+restrict_type_2<>Hanya Pahlawan Api yang diizinkan
+restrict_type_3<>Hanya Pahlawan Abyss yang diizinkan
+restrict_type_4<>Hanya Pahlawan Alam yang diizinkan
+restrict_type_5<>Hanya Pahlawan Ringan yang diizinkan
+restrict_type_6<>Hanya Pahlawan Kegelapan yang diizinkan
+restrict_type_7<>Tidak ada Pemanggil yang diizinkan
+restrict_type_8<>Tidak ada aturan. Bebaskan pikiranmu.
+restrict_type_9<>Tidak ada Penguasaan yang diizinkan. Awas!
+restrict_type_10<>Tidak ada Peralatan, Rune, Artefak yang diizinkan
+money_type_200_unused<>Pesona Air
+money_type_201<>Bola Api
+money_type_202<>Bola Neraka
+money_type_203<>Bola Alam
+money_type_204<>Bola Cahaya
+money_type_205<>Bola Gelap
+money_type_206<>Bola Matahari
+money_type_207<>Bola Bulan
+money_type_208<>Pesona yang Belum Lahir
+money_type_209<>Pesona Waktu
+money_type_220<>permen tongkat
+money_type_221<>Lilin
+money_type_222<>Lilin Menyala
+money_type_230<>Tiket Tahun Baru
+linking_18<> Api Ganas
+linking_19<>Setan hidup
+money_type_240<>Dadu Merah
+money_type_241<>Jimat
+money_type_242<>Petasan
+money_type_245<>Kertas Merah
+money_type_244<>Gulir Elit
+money_type_243<>Amplop merah
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>Cokelat
+money_type_251<>Panah
+ally_target_position_52<>Pahlawan Sekutu dari kelas {0}
+enemy_target_position_52<>Pahlawan Musuh dari kelas {0}
+ally_target_position_61<>Pahlawan Sekutu di posisi {0}
+enemy_target_position_61<>Pahlawan Musuh di posisi {0}
+money_type_45<>Lencana pemberani 
+money_type_165<>Mawar
+game_mode_14<>Arena Bela Diri 
+money_type_46<>Koin Berani 
+money_type_154<>Berani EXP
+summon_type_7<>Panggilan Legendaris 
+money_type_136<>Union Point
+money_type_12<>Awaken Book
+money_type_25<>Air Suci
+money_type_231<>Titik Paskah
+money_type_232<>Dadu Ajaib
+money_type_233<>Dadu Super
+money_type_234<>Palu Kayu
+money_type_235<>Telur Perak
+money_type_236<>Telur Emas
+money_type_237<>Telur Pelangi
+money_type_238<>Palu Emas
+money_type_239<>Palu Pelangi 
+money_type_166<>Bintang Astral 
+companion_type_remake_1<>Mengerahkan 5 hero dari faksi yang berbeda untuk mendapatkan bonus atribut
+companion_type_remake_2<>Menyebarkan 2 pasangan hero dengan fraksi yang sama dan hero terakhir dengan fraksi yang berbeda dari 2 pasangan tersebut. 
+companion_type_remake_3<>Mengerahkan 3 hero dari faksi yang sama + 2 hero dari faksi lain untuk mendapatkan bonus atribut
+companion_type_remake_4<>Mengerahkan 3 hero dari faksi yang sama + 2 hero yang sama untuk mendapatkan bonus atribut
+companion_type_remake_5<>Mengerahkan 4 hero dari faksi yang sama untuk mendapatkan bonus atribut
+companion_type_remake_6<>Mengerahkan 5 hero yang sama untuk mendapatkan bonus atribut
+money_type_167<>Pedang Enule
+money_type_225<>Kunci Ajaib
+money_type_168<>Kompas
+resource_type_20<>Bakat
+talent_1000101<>Twokai yang Kuat
+talent_1000201<>Evolusi Kekuatan
+talent_1000301<>Perisai Ilahi
+talent_1000401<>Vitalitas Berlimpah
+talent_1000501<>Menakutkan Berdarah
+talent_1000601<>Flash Luar Biasa
+talent_1000701<>Tembakan Kritis
+talent_1000801<>Meledak ke dalam Kerusakan
+talent_1000901<>Tidak bisa ketinggalan
+talent_1001001<>Gerakan Luar Biasa
+talent_1001101<>Liar
+talent_1001201<>Daya Penuh Non-Stop
+talent_1001301<>Soul Steal
+talent_1001401<>Dekat dengan Immune
+talent_1001501<>Pengawal
+talent_2000101<>Perlindungan Sempurna 
+talent_2000201<>Ledakan 
+talent_2000301<>Kematian Mendadak
+talent_2000401<>Penolakan Reaper 
+talent_2000501<>Banyak TITIK
+talent_2000601<>Hantu Kritis
+talent_2000701<>Tidak ada keheningan pada saya 
+talent_2000801<>Penurunan Kritik 
+talent_2000901<>Lebih sedikit kekuatan
+talent_2001001<>Lebih banyak kekuatan
+money_type_115<>Peti hadiah umum
+money_type_116<>Harta karun yang tidak biasa
+money_type_117<>Peti Langka
+money_type_118<>Epic Chest 
+money_type_119<>Legenda Dada
+money_type_113<>Koin Misteri
+avatar_121<>Pemegang Giok Beruntung
+avatar_frame_101<>Perbatasan Besi
+avatar_frame_102<>Perbatasan Perunggu
+avatar_frame_103<>Perbatasan Perak
+avatar_frame_104<>Perbatasan Emas
+avatar_frame_105<>Perbatasan Platinum
+avatar_frame_106<>Perbatasan Berlian
+avatar_frame_107<>Master Border
+avatar_frame_108<>Guru Besar
+avatar_frame_109<>Challenger
+avatar_109<>Berani Qilin
+avatar_108<>Nakal Qilin
+avatar_107<>Sedikit Qilin
+avatar_frame_110<>Mid-Autumn Perbatasan
+money_type_195<>Pertempuran Pass Exp
+avatar_110<>Legend Qilin
+money_type_15<>Kristal Ajaib
+equip_rarity_7<>Revolusi
+talent_1001601<>Mantra Petir
+stat_type_33<>Mengurangi Pengurangan Kerusakan
+avatar_frame_111<>Musim seram
+avatar_111<>Labu Gila
+avatar_122<>Kekuatan Legenda
+avatar_123<>Ahli Strategi Legenda
+avatar_frame_122<>Bingkai Legenda
+money_type_35<>Arena peti harta karun I
+money_type_36<>Arena peti harta karun II
+money_type_37<>Arena peti harta karun III
+resource_type_24<>Efek spesial
+avatar_112<>Christmas
+avatar_frame_112<>Christmas
+money_type_248<>Koin Keberuntungan
+avatar_113<>Tahun baru Imlek
+avatar_frame_113<>Tahun baru Imlek
+money_type_182<>Meringankan Lentera
+money_type_249<>Poin kekayaan
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>Bukti Samurai
+avatar_124<>Pembela Benteng
+avatar_125<>Pembersih Benteng
+avatar_frame_124<>Penantang tanpa henti
+avatar_frame_125<>Prajurit Tak Terhentikan
+avatar_frame_126<>Pencari
+avatar_frame_127<>Sang Penakluk
+linking_21<>Raja yang berdaulat
+money_type_65<>tiket bos
+linking_20<>Penghancur Langit dan Bumi
+avatar_126<>Samurai Hebat
+avatar_127<>Telur Bahagia
+avatar_frame_128<>Selamat Paskah
+money_type_252<>Sepotong teka-teki
+money_type_66<>tiket bos
+money_type_226<>Poin saingan 
+money_type_22<>Peti Pemilihan Pahlawan W/F/A/N
+money_type_23<>Peti Pilihan Pahlawan D/L
+avatar_129<>ulang tahun ke-2
+avatar_frame_129<>ulang tahun ke-2
+linking_22<>Warisan kebencian
+money_type_227<>Poin lulus warisan
+item_option_5_1_3<>Mengurangi kerusakan yang diterima {2}
+item_option_5_1_4<>Mengurangi kerusakan yang diterima {2}
+money_type_26<>Peti artefak faksi Gelap dan Terang
+money_type_27<>Peti artefak faksi W/F/A/N
+money_type_175<>Mutiara unggul 
+money_type_176<>Bintang astral
+money_type_215<>Lencana kulit
+avatar_130<>Pertengahan musim gugur 2022 
+avatar_131<>Pertengahan musim gugur 2022 
+avatar_132<>Pertengahan musim gugur 2022 
+linking_23<>Bangkitnya Monster 
+money_type_196<>Titik kulit
+money_type_95<>Inti bakat 
+avatar_133<>Halloween 2022
+avatar_frame_131<>Halloween 2022
+money_type_200<>Bola Air
+linking_24<>Suku Naga 
+avatar_134<>Natal 2022
+avatar_frame_134<>Natal 2022
+avatar_135<>Tahun Baru Imlek 2023
+avatar_frame_135<>Tahun Baru Imlek 2023
+money_type_253<>Palu Eitri
+money_type_254<>Koin Eitri
+hero_detail_1<>Truk tangki
+hero_detail_2<>Penyalaan
+hero_detail_3<>Pembunuh
+hero_detail_4<>Melawan Kerusakan
+hero_detail_5<>Area Efek
+hero_detail_6<>Pengendalian Massa
+hero_detail_7<>penjaga hutan
+hero_detail_8<>Kerusakan Meledak
+hero_detail_9<>Penyembuhan
+hero_detail_10<>Menjalankan
+hero_detail_11<>Mendukung
+hero_detail_12<>Penyihir
+hero_detail_13<>Membangkitkan
+hero_detail_14<>Pejuang
+hero_detail_15<>Kerusakan Seiring Waktu
+hero_detail_16<>Mengubah
+hero_detail_17<>Anugerah
+hero_detail_18<>Menyumpahi
+hero_detail_19<>Kesunyian
+hero_detail_20<>Serangan Balik
+money_type_223<>Koin Musim Panas
+money_type_224<>Bahan Mojito
+money_type_125<>Kotak Hadiah Musim Panas
+money_type_126<>Bola Air Merah
+money_type_127<>Bola Air Biru
+money_type_128<>Bola Air Hijau
+money_type_129<>Bola Air Abu-abu
+money_type_216<>Mojito
+month_january<>Januari
+month_february<>Februari
+month_march<>Berbaris
+month_april<>April
+month_may<>Mungkin
+month_june<>Juni
+month_july<>Juli
+month_august<>Agustus
+month_september<>September
+month_october<>Oktober
+month_november<>November
+month_december<>Desember
+avatar_136<>ulang tahun ke-3
+avatar_frame_136<>ulang tahun ke-3
+hero_desc_20001<>Phoenix Terlahir Kembali
+hero_desc_20002<>Neraka Abadi
+hero_desc_10004<>Jantung Laut
+hero_desc_10011<>Dewa Ganas Lautan
+hero_desc_30027<>Samurai yang perkasa
+hero_desc_30003<>Sang Ahli Nujum
+hero_desc_40008<>Panah Alam
+hero_desc_40027<>Putri Naga
+hero_desc_50003<>Berkah Ringan
+hero_desc_50007<>Malaikat Busur
+hero_desc_50004<>Pangeran Tanpa Mahkota
+hero_desc_50006<>Putri Bulan
+hero_desc_60003<>Satu Pukulan Satu Bunuh
+hero_desc_60004<>Avatar Anubis
+hero_desc_60005<>Sudut Kematian
+hero_desc_60006<>Gadis Pedang yang Menawan
+linking_25<>Cahaya Suci
+money_type_137<>Koin Tantangan
+avatar_137<>Avatar 1 Pertengahan Musim Gugur 2023
+avatar_138<>Avatar 2 Pertengahan Musim Gugur 2023
+avatar_139<>Avatar 3 Pertengahan Musim Gugur 2023
+money_type_255<>Koin tanpa batas
+money_type_186<>Kunci petualangan
+money_type_185<>Sepotong artefak
+money_type_101<>Dadu
+money_type_102<>Labu kuning
+money_type_43<>Koin Arena Bela Diri
+avatar_115<>Penjaga Salju Enule
+feature_35<>Daur ulang
+money_type_229<>Kartu pos
+money_type_78<>Koin Keberuntungan
+money_type_79<>Giok
+money_type_217<>Dadu Paskah
+money_type_218<>Telur Paskah
+money_type_81<>Dadu Musim Panas
+money_type_82<>Bola Pantai
+money_type_62<>Penggemar Bunga
+money_type_63<>Bunga Ceri
+money_type_86<>Seruling Bambu
+money_type_87<>Saputangan
+money_type_72<>Klub Pinata
+money_type_73<>Permen Pinata
+avatar_140<>ulang tahun ke-4
+avatar_frame_137<>ulang tahun ke-4

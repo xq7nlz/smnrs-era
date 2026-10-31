@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_calculation_type,stat_buff_amount
+Noroth_Active,1.4,21,3,10,5,4,2,3,40
+Noroth_Active,1.6,21,3,10,5,4,2,3,50
+Noroth_Active,1.8,21,3,10,5,4,2,3,60

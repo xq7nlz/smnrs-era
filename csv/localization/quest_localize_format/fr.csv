@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>Obtenir {c(1)} héros
+quest_100_1_2<>Obtenir {c(1)} héros {c(2)} étoile(s)
+quest_100_1_3<>Obtenir {c(1)} héros de niveau {c(3)}
+quest_100_1_4<>Obtenir {c(1)} héros de classe {e(class_type_~4)}
+quest_100_1_5<>Obtenir {c(1)} héros de faction {e(faction_type_~5)}
+quest_100_1_2_3<>Obtenir {c(1)} héros {c(2)} étoile(s) de niveau {c(3)}
+quest_100_1_2_4<>Obtenir {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_100_1_2_5<>Obtenir {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_100_1_3_4<>Obtenir {c(1)} héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_100_1_3_5<>Obtenir {c(1)} héros de niveau {c(3)} et de classe {e(faction_type_~5)}
+quest_100_1_4_5<>Obtenir {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_100_1_2_3_4<>Obtenir {c(1)} Héros {c(2)} étoile(s), de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_100_1_2_3_5<>Obtenir {c(1)} Héros {c(2)} étoile(s), de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_100_1_2_4_5<>Obtenir {c(1)} héros {c(2)} étoile(s), de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_100_1_2_3_4_5<>Obtenir {c(1)} héros {c(2)} étoile(s), de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_101_1<>Faire évoluer {c(1)} héros
+quest_101_1_2<>Faire évoluer {c(1)} héros en {c(2)} étoile(s)
+quest_101_1_3<>Faire évoluer {c(1)} héros de niveau {c(3)}
+quest_101_1_4<>Faire évoluer {c(1)} héros de classe {e(class_type_~4)}
+quest_101_1_5<>Faire évoluer {c(1)} héros de faction {e(faction_type_~5)}
+quest_101_1_2_3<>Faire évoluer {c(1)} héros de niveau {c(3)} en {c(2)} étoile(s)
+quest_101_1_2_4<>Faire évoluer {c(1)} héros de classe {e(class_type_~4)} en {c(2)} étoile(s)
+quest_101_1_2_5<>Faire évoluer {c(1)} héros de faction {e(faction_type_~5)} en {c(2)} étoile(s)
+quest_101_1_3_4<>Faire évoluer {c(1)} héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_101_1_3_5<>Faire évoluer {c(1)} héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_101_1_4_5<>Faire évoluer {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_101_1_2_3_4<>Faire évoluer {c(1)} héros de niveau {c(3)} et de classe {e(class_type_~4)} en {c(2)} étoile(s)
+quest_101_1_2_3_5<>Faire évoluer {c(1)} héros de niveau {c(3)} et de faction {e(faction_type_~5)} en {c(2)} étoile(s)
+quest_101_1_2_4_5<>Faire évoluer {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)} en {c(2)} étoile(s)
+quest_101_1_2_3_4_5<>Faire évoluer {c(1)} héros de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)} en {c(2)} étoile(s)
+quest_102_1<>Améliorez le héros {c(1)} fois
+quest_102_1_2<>Améliorer {c(1)} héros {c(2)} étoile(s)
+quest_102_1_3<>Améliorer {c(1)} héros au niveau {c(3)}
+quest_102_1_4<>Améliorer {c(1)} héros de classe {e(class_type_~4)}
+quest_102_1_5<>Améliorer {c(1)} héros de faction {e(faction_type_~5)}
+quest_102_1_2_3<>Améliorer {c(1)} héros {c(2)} étoile(s) au niveau {c(3)}
+quest_102_1_2_4<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_102_1_2_5<>Améliorer {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_102_1_3_4<>Améliorer {c(1)} héros de classe {e(class_type_~4)} au niveau {c(3)}
+quest_102_1_3_5<>Améliorer {c(1)} héros de faction {e(faction_type_~5)} au niveau {c(3)}
+quest_102_1_4_5<>Améliorer {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_102_1_2_3_4<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)} au niveau {c(3)}
+quest_102_1_2_3_5<>Améliorer {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~5)} au niveau {c(3)}
+quest_102_1_2_4_5<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_102_1_2_3_4_5<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)} au niveau {c(3)}
+quest_103_1<>Améliorer {c(1)} héros au niveau maximum
+quest_103_1_2<>Améliorer {c(1)} héros {c(2)} étoile(s) au niveau maximum
+quest_103_1_3<>Améliorer {c(1)} héros de classe {e(class_type_~3)} au niveau maximum
+quest_103_1_4<>Améliorer {c(1)} héros de faction {e(faction_type_~4)} au niveau maximum
+quest_103_1_2_3<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~3)} au niveau maximum
+quest_103_1_2_4<>Améliorer {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~4)} au niveau maximum
+quest_103_1_3_4<>Améliorer {c(1)} héros de classe {e(class_type_~3)} et de faction {e(faction_type_~4)} au niveau maximum
+quest_103_1_2_3_4<>Améliorer {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~3)} et de faction {e(faction_type_~4)} au niveau maximum
+quest_104_1<>Disperser {c(1)} héros
+quest_104_1_2<>Disperser {c(1)} héros {c(2)} étoile(s)
+quest_104_1_3<>Disperser {c(1)} héros de niveau {c(3)}
+quest_104_1_4<>Disperser {c(1)} héros de classe {e(class_type_~4)}
+quest_104_1_5<>Disperser {c(1)} héros de faction {e(faction_type_~5)}
+quest_104_1_2_3<>Disperser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)}
+quest_104_1_2_4<>Disperser {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_104_1_2_5<>Disperser {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_104_1_3_4<>Disperser {c(1)} héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_104_1_3_5<>Disperser {c(1)} héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_104_1_4_5<>Disperser {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_104_1_2_3_4<>Disperser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_104_1_2_3_5<>Disperser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_104_1_2_4_5<>Disperser {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_104_1_2_3_4_5<>Disperser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_150_1<>Obtenir {c(1)} héros
+quest_150_1_2<>Obtenir {c(1)} héros {c(2)} étoile(s) de base
+quest_150_1_3<>Obtenir {c(1)} héros de faction {e(faction_type_~3)}
+quest_150_1_4<>Obtenir {c(1)} héros de classe {e(class_type_~4)}
+quest_150_1_5<>Obtenir {c(1)} héros de faction {e(faction_type_~5)}
+quest_150_1_2_3<>Obtenir {c(1)} héros {c(2)} étoile(s) de base et de faction {e(faction_type_~3)}
+quest_150_1_2_4<>Obtenir {c(1)} héros {c(2)} étoile(s) de base et de classe {e(class_type_~4)}
+quest_150_1_2_5<>Obtenir {c(1)} héros {c(2)} étoile(s) de base et de faction {e(faction_type_~5)}
+quest_150_1_3_4<>Obtenir {c(1)} héros de faction {e(faction_type_~3)} et de classe {e(class_type_~4)}
+quest_150_1_3_5<>Obtenir {c(1)} héros de faction {e(faction_type_~3)} ou {e(faction_type_~5)}
+quest_150_1_4_5<>Obtenir {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_150_1_2_3_4<>Obtenir {c(1)} héros {c(2)} étoile(s) de base, de faction {e(faction_type_~3)} et de classe {e(class_type_~4)}
+quest_150_1_2_3_5<>Obtenir {c(1)} héros {c(2)} étoile(s) de base et de faction {e(faction_type_~3)} ou {e(faction_type_~5)}
+quest_150_1_2_4_5<>Obtenir {c(1)} héros {c(2)} étoile(s) de base, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_150_1_2_3_4_5<>Obtenir {c(1)} héros {c(2)} étoile(s) de base, de classe {e(class_type_~4)} et de faction {e(faction_type_~3)} ou {e(faction_type_~5)}
+quest_151_1<>Obtenir tous les héros {c(1)} étoile(s) de base
+quest_151_1_2<>Obtenir tous les héros {c(1)} étoile(s) de base et de niveau {c(2)}
+quest_151_1_3<>Obtenir tous les héros {c(1)} étoile(s) de base et de classe {e(class_type_~3)}
+quest_151_1_4<>Obtenir tous les héros {c(1)} étoile(s) de base et de faction {e(faction_type_~4)}
+quest_151_1_2_3<>Obtenir tous les héros {c(1)} étoile(s) de base, de niveau {c(2)} et de classe {e(class_type_~3)}
+quest_151_1_2_4<>Obtenir tous les héros {c(1)} étoile(s) de base, de niveau {c(2)} et de faction {e(faction_type_~4)}
+quest_151_1_3_4<>Obtenir tous les héros {c(1)} étoile(s) de base, de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_151_1_2_3_4<>Obtenir tous les héros {c(1)} étoile(s) de base, de niveau {c(2)}, de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_200_1<>Utiliser la mine d'Or {c(1)} fois
+quest_200_1_2<>Utiliser la mine d'Or {c(2)} {c(1)} fois
+quest_201_1<>Utiliser la mine d'Or pendant {c(1)} jours consécutifs
+quest_201_1_2<>Utiliser la mine d'Or {c(2)} fois par jour pendant {c(1)} jours consécutifs
+quest_201_1_3<>Utiliser la mine d'Or {c(3)} pendant {c(1)} jours consécutifs
+quest_201_1_2_3<>Utiliser la mine d'Or {c(3)} {c(2)} fois par jour pendant {c(1)} jours consécutifs
+quest_300_1<>Terminer {c(1)} quête(s) de la Taverne
+quest_300_1_2<>Terminer {c(1)} quête(s) de {c(2)} étoile(s) de la Taverne
+quest_400_1<>Défier {c(1)} fois dans l'Arène
+quest_401_1<>Gagner {c(1)} fois dans l'Arène
+quest_402_1<>Gagner {c(1)} points dans l'Arène
+quest_500_1<>Compléter l'étape : la campagne {m(1)}
+quest_501_1<>Recevoir les Récompenses inactives {c(1)} fois dans la campagne
+quest_504_1<>Atteindre {c(1)} seconde(s) d'auto-entraînement dans la campagne
+quest_503_1<>Recevoir {c(1)} d'Or en Récompenses inactives
+quest_600_1<>Tourner {c(1)} fois dans la Roue du Sort
+quest_600_1_2<>Tourner {c(1)} fois dans {e(casino_type_~2)}
+quest_600_1_3<>Tourner {c(1)} fois dans la Roue du Sort et recevoir le fragment de héros {c(3)} étoile(s)
+quest_600_1_2_3<>Tourner {c(1)} fois dans {e(casino_type_~2)} et recevoir le fragment de héros {c(3)} étoile(s)
+quest_601_1<>Tourner {c(1)} fois dans la Roue du Sort
+quest_601_1_2<>Tourner {c(1)} fois dans {e(casino_type_~2)}
+quest_601_1_3<>Tourner {c(1)} fois dans la Roue du Sort et recevoir {e(money_type_~3)}
+quest_601_1_2_3<>Tourner {c(1)} fois dans {e(casino_type_~2)} et recevoir  {e(money_type_~3)}
+quest_650_1<>Tourner {c(1)} fois en continu dans la Roue du Sort
+quest_650_1_2<>Tourner {c(1)} fois en continu dans {e(casino_type_~2)}
+quest_650_1_3<>Tourner {c(1)} fois en continu dans la Roue du Sort et ne pas recevoir le fragment de héros {c(3)} étoile(s)
+quest_650_1_2_3<>Tourner {c(1)} fois en continu dans {e(casino_type_~2)} et ne pas recevoir le fragment de héros {c(3)} étoile(s)
+quest_651_1<>Tourner {c(1)} fois en continu dans la Roue du Sort
+quest_651_1_2<>Tourner {c(1)} fois en continu dans {e(casino_type_~2)}
+quest_651_1_3<>Tourner {c(1)} fois en continu dans la Roue du Sort et ne pas recevoir {e(money_type_~3)}
+quest_651_1_2_3<>Tourner {c(1)} fois en continu dans {e(casino_type_~2)} et ne pas recevoir {e(money_type_~3)}
+quest_700_1<>Acheter des articles {c(1)} fois dans le Marché Noir
+quest_700_1_2<>Acheter {c(1)} fois le fragment de héros {c(2)} étoile(s) dans le Marché Noir
+quest_701_1<>
+quest_701_1_2<>Acheter {c(1)} {e(money_type_~2)} dans le Marché Noir
+quest_750_1<>
+quest_750_1_2<>Dépenser {c(1)} {e(money_type_~2)} dans le Marché Noir
+quest_800_1<>Joindre la Guilde {c(1)} fois
+quest_801_1<>Défier le patron de Guilde {c(1)} fois
+quest_801_1_2<>Défier le patron de Guilde niveau {c(2)} {c(1)} fois
+quest_801_1_3<>Défier le patron de Guilde {c(1)} fois, infliger à chaque fois au moins {c(3)} de dégâts
+quest_801_1_2_3<>Défier le patron de Guilde niveau {c(2)} {c(1)} fois, infliger à chaque fois au moins {c(3)} de dégâts
+quest_802_1<>Défier le patron de Guilde pendant {c(1)} jours consécutifs
+quest_802_1_2<>Défier le patron de Guilde {c(2)} fois par jour pendant {c(1)} jours consécutifs
+quest_802_1_3<>Défier le patron de Guilde niveau {c(3)} pendant {c(1)} jours consécutifs
+quest_802_1_4<>Défier le patron de Guilde pendant {c(1)} jours consécutifs, infliger à chaque fois au moins {c(4)} de dégâts
+quest_802_1_2_3<>Défier le patron de Guilde niveau {c(3)} {c(2)} fois par jour pendant {c(1)} jours consécutifs
+quest_802_1_2_4<>Défier le patron de Guilde {c(2)} fois par jour pendant {c(1)} jours consécutifs, infliger à chaque fois au moins {c(4)} de dégâts
+quest_802_1_3_4<>Défier le patron de Guilde niveau {c(3)} pendant {c(1)} jours consécutifs, infliger à chaque fois au moins {c(4)} de dégâts
+quest_802_1_2_3_4<>Défier le patron de Guilde niveau {c(3)} {c(2)} fois par jour pendant {c(1)} jours consécutifs, infliger à chaque fois au moins {c(4)} de dégâts
+quest_803_1<>La Guilde inflige des dégâts à le patron de Guilde pour {c(1)} fois
+quest_803_1_2<>La Guilde inflige des dégâts à le patron de Guilde niveau {c(2)} pour {c(1)} fois
+quest_803_1_3<>La Guilde inflige au moins {c(3)} dégâts à le patron de Guilde pour {c(1)} fois
+quest_803_1_2_3<>La Guilde inflige au moins {c(3)} dégâts à le patron de Guilde niveau {c(2)} pour {c(1)} fois
+quest_820_1<>Défier le cachot de la Guilde étape {c(1)}
+quest_821_1<>Compléter {c(1)} saison(s) de le cachot de la Guilde
+quest_841_1<>Acheter {c(1)} Artéfact dans Boutique de guilde
+quest_841_1_2<>Acheter {c(1)} Artéfact {e(artifact_type_~2)} dans Boutique de guilde
+quest_900_1<>Obtenir {c(1)} articles
+quest_900_1_2<>Obtenir {c(1)} articles dont la rareté est {e(equip_rarity_~2)} ou supérieure
+quest_901_1<>Équiper {c(1)} articles
+quest_901_1_2<>Équiper {c(1)} articles {e(equip_rarity_~2)}
+quest_902_1<>Améliorer {c(1)} articles
+quest_902_1_2<>Améliorer {c(1)} articles au niveau de rareté {e(equip_rarity_~2)}
+quest_902_1_3<>Améliorer {c(1)} articles à {c(3)} étoile(s)
+quest_902_1_2_3<>Améliorer {c(1)} articles au niveau de rareté {e(equip_rarity_~2)} et à {c(3)} étoile(s)
+quest_950_1<>Obtenir {c(1)} ensemble(s) complet(s) d'articles
+quest_950_1_2<>Obtenir {c(1)} ensemble(s) complet(s) de {e(equip_rarity_~2)} articles
+quest_1000_1<>Améliorer l'invocateur au niveau {c(1)}
+quest_1001_1<>Faire évoluer l'invocateur en {c(1)} étoile(s)
+quest_1100_1<>Invoquer {c(1)} fois à l'Arbre ancien
+quest_1100_1_2<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros {c(2)} étoile(s)
+quest_1100_1_3<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros de classe {e(class_type_~3)}
+quest_1100_1_4<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros de faction {e(faction_type_~4)}
+quest_1100_1_2_3<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~3)}
+quest_1100_1_2_4<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~4)}
+quest_1100_1_3_4<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_1100_1_2_3_4<>Invoquer {c(1)} fois à l'Arbre ancien et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_1101_1<>Remplacer {c(1)} fois n'importe quel héros à l'Arbre ancien
+quest_1101_1_2<>Remplacer {c(1)} fois n'importe quel héros {c(2)} étoile(s) à l'Arbre ancien
+quest_1101_1_3<>Remplacer {c(1)} fois n'importe quel héros de classe {e(class_type_~3)} à l'Arbre ancien
+quest_1101_1_4<>Remplacer {c(1)} fois n'importe quel héros de faction {e(faction_type_~4)} à l'Arbre ancien
+quest_1101_1_2_3<>Remplacer {c(1)} fois n'importe quel héros {c(2)} étoile(s) de classe {e(class_type_~3)} à l'Arbre ancien
+quest_1101_1_2_4<>Remplacer {c(1)} fois n'importe quel héros {c(2)} étoiles de faction {e(faction_type_~4)} à l'Arbre ancien
+quest_1101_1_3_4<>Remplacer {c(1)} fois n'importe quel héros de classe {e(class_type_~3)} et de faction {e(faction_type_~4)} à l'Arbre ancien
+quest_1101_1_2_3_4<>Remplacer {c(1)} fois n'importe quel héros {c(2)} étoile(s) de classe {e(class_type_~3)} et de faction {e(faction_type_~4)} à l'Arbre ancien
+quest_1150_1<>Invoquer {c(1)} fois consécutives à l'Arbre ancien
+quest_1150_1_2<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros {c(2)} étoile(s)
+quest_1150_1_3<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros de classe {e(class_type_~3)}
+quest_1150_1_4<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros de faction {e(faction_type_~4)}
+quest_1150_1_2_3<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~3)}
+quest_1150_1_2_4<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~4)}
+quest_1150_1_3_4<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_1150_1_2_3_4<>Invoquer {c(1)} fois consécutives à l'Arbre ancien et ne pas recevoir le héros {c(2)} étoile(s), de classe {e(class_type_~3)} et de faction {e(faction_type_~4)}
+quest_1200_1<>Avoir {c(1)} ami(s)
+quest_1201_1<>Envoyer le point d'ami {c(1)} fois
+quest_1202_1<>Recevoir {c(1)} le point d'ami des amis
+quest_1250_1<>Espionner le patron d'Ami {c(1)} fois
+quest_1251_1<>Vaincre le patron d'Ami {c(1)} fois
+quest_1300_1<>Déverrouiller la pierre {c(1)} fois
+quest_1301_1<>Améliorer la pierre {c(1)} fois
+quest_1301_1_2<>Améliorer {e(stone_rarity_~2)} la pierre {c(1)} fois
+quest_1302_1<>Convertir la pierre {c(1)} fois
+quest_1400_1<>Obtenir {c(1)} Artéfact
+quest_1400_1_2<>Obtenir {c(1)} Artéfact de niveau de rareté de {e(artifact_type_~2)} ou plus
+quest_1401_1<>Équiper {c(1)} Artéfact
+quest_1401_1_2<>Équiper {c(1)} Artéfact {e(artifact_type_~2)}
+quest_1402_1<>Améliorer {c(1)} Artéfact
+quest_1402_1_2<>Améliorer {c(1)} Artéfact {e(artifact_type_~2)}
+quest_1500_1<>Se connecter {c(1)} jours consécutifs
+quest_1600_1<>Passer l'étape {c(1)} Tour du Dragon
+quest_1700_1<>Invoquer {c(1)} fois
+quest_1700_1_2<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s)
+quest_1700_1_3<>Invoquer {c(1)} fois et recevoir le héros de niveau {c(3)}
+quest_1700_1_4<>Invoquer {c(1)} fois et recevoir le héros de classe {e(class_type_~4)}
+quest_1700_1_5<>Invoquer {c(1)} fois et recevoir le héros de faction {e(faction_type_~5)}
+quest_1700_1_2_3<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}
+quest_1700_1_2_4<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_1700_1_2_5<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_1700_1_3_4<>Invoquer {c(1)} fois et recevoir le héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1700_1_3_5<>Invoquer {c(1)} fois et recevoir le héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1700_1_4_5<>Invoquer {c(1)} fois et recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1700_1_2_3_4<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1700_1_2_3_5<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1700_1_2_4_5<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1700_1_2_3_4_5<>Invoquer {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1701_1<>Utiliser l'invocation de base {c(1)} fois
+quest_1701_1_2<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s)
+quest_1701_1_3<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de niveau {c(3)}
+quest_1701_1_4<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de classe {e(class_type_~4)}
+quest_1701_1_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de faction {e(faction_type_~5)}
+quest_1701_1_2_3<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}
+quest_1701_1_2_4<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_1701_1_2_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_1701_1_3_4<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1701_1_3_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1701_1_4_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1701_1_2_3_4<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1701_1_2_3_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1701_1_2_4_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s), de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1701_1_2_3_4_5<>Utiliser l'invocation de base {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1702_1<>Utiliser l'Invocation Premium {c(1)} fois
+quest_1702_1_2<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s)
+quest_1702_1_3<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de niveau {c(3)}
+quest_1702_1_4<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de classe {e(class_type_~4)}
+quest_1702_1_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de faction {e(faction_type_~5)}
+quest_1702_1_2_3<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}
+quest_1702_1_2_4<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_1702_1_2_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_1702_1_3_4<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1702_1_3_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1702_1_4_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1702_1_2_3_4<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1702_1_2_3_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1702_1_2_4_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s), de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1702_1_2_3_4_5<>Utiliser l'invocation premium {c(1)} fois et recevoir le héros {c(2)} étoile(s), de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1703_1<>Utiliser l'Invocation d'Ami {c(1)} fois
+quest_1703_1_2<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s)
+quest_1703_1_3<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de niveau {c(3)}
+quest_1703_1_4<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de classe {e(class_type_~4)}
+quest_1703_1_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de faction {e(faction_type_~5)}
+quest_1703_1_2_3<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}
+quest_1703_1_2_4<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_1703_1_2_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_1703_1_3_4<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1703_1_3_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1703_1_4_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1703_1_2_3_4<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_1703_1_2_3_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_1703_1_2_4_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1703_1_2_3_4_5<>Utiliser l'invocation d'amitié {c(1)} fois et recevoir le héros {c(2)} étoile(s) de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1750_1<>Invoquer {c(1)} fois consécutives
+quest_1750_1_2<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)}
+quest_1750_1_3<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros {c(3)} étoile(s)
+quest_1750_1_4<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros de classe {e(class_type_~4)}
+quest_1750_1_5<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros de faction {e(faction_type_~5)}
+quest_1750_1_2_3<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros {c(3)} étoile(s)
+quest_1750_1_2_4<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros de classe {e(class_type_~4)}
+quest_1750_1_2_5<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros de faction {e(faction_type_~5)}
+quest_1750_1_3_4<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros {c(3)} étoile(s) de classe {e(class_type_~4)}
+quest_1750_1_3_5<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros {c(3)} étoile(s) de faction {e(faction_type_~5)}
+quest_1750_1_4_5<>Invoquer {c(1)} fois consécutives et ne pas recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1750_1_2_3_4<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros {c(3)} étoile(s) de classe {e(class_type_~4)}
+quest_1750_1_2_3_5<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros {c(3)} étoile(s) de faction {e(faction_type_~5)}
+quest_1750_1_2_4_5<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1750_1_2_3_4_5<>Invoquer {c(1)} fois consécutives à {e(summon_type_~2)} et ne pas recevoir le héros {c(3)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1800_1<>Terminer {c(1)} quête(s) quotidienne(s) en un jour
+quest_1801_1<>Terminer les quêtes quotidiennes en {c(1)} jours consécutifs
+quest_1801_1_2<>Terminer {c(2)} quêtes quotidiennes en {c(1)} jours consécutifs
+quest_1802_1<>Terminer {c(1)} quête(s) quotidienne(s)
+quest_1900_1<>Atteindre le niveau VIP {c(1)}
+quest_2000_1<>
+quest_2000_1_2<>Gagner {c(1)} {e(money_type_~2)}
+quest_2001_1<>
+quest_2001_1_2<>Dépenser {c(1)} {e(money_type_~2)}
+quest_2100_1<>Passer l'étape {c(1)} le Cachot
+quest_2101_1<>Sélectionner {c(1)} héros pour rejoindre le Cachot
+quest_2102_1<>Utiliser la Potion {c(1)} fois dans le Cachot
+quest_2102_1_2<>Utiliser {e(potion_type_~2)} {c(1)} fois dans le Cachot
+quest_2103_1<>Acheter {c(1)} article(s) de Marchand dans le Cachot
+quest_2104_1<>Acheter {c(1)} article(s) de Marchand mystérieux dans le Cachot
+quest_2200_1<>Ajouter l'e-mail de récupération avec succès {c(1)} fois
+quest_2300_1<>Sélectionner {c(1)} héros pour rejoindre la bataille
+quest_2300_1_2<>Sélectionner {c(1)} héros pour rejoindre {e(game_mode_~2)}
+quest_2300_1_3<>Sélectionner {c(1)} héros {c(3)} étoile(s)
+quest_2300_1_2_3<>Sélectionner {c(1)} héros {c(3)} étoile(s) pour rejoindre {e(game_mode_~2)}
+quest_2301_1<>Sélectionner {c(1)} héros de même faction pour rejoindre la bataille
+quest_2301_1_2<>Sélectionner {c(1)} héros pour rejoindre {e(game_mode_~2)}
+quest_2301_1_3<>Sélectionner {c(1)} héros {c(3)} étoile(s)
+quest_2301_1_4<>Sélectionner {c(1)} héros de faction {e(faction_type_~4)}
+quest_2301_1_2_3<>Sélectionner {c(1)} héros {c(3)} étoile(s) pour rejoindre {e(game_mode_~2)}
+quest_2301_1_2_4<>Sélectionner {c(1)} héros de faction {e(faction_type_~4)} pour rejoindre {e(game_mode_~2)}
+quest_2301_1_3_4<>Sélectionner {c(1)} héros {c(3)} étoile(s) de faction {e(faction_type_~4)}
+quest_2301_1_2_3_4<>Sélectionner {c(1)} héros {c(3)} étoile(s) de faction {e(faction_type_~4)} pour rejoindre {e(game_mode_~2)}
+quest_2302_1<>Sélectionner l'équipe {c(1)} fois
+quest_2302_1_2<>Sélectionner {c(1)} fois une autre équipe que l'équipe {e(formation_type_~2)}
+quest_2303_1<>Activer le buff compagnon {c(1)} fois
+quest_2303_1_2<>Activer le buff compagnon {e(companion_type_~2)} {c(1)} fois
+quest_2400_1<>Améliorer {c(1)} fois la Maîtrise
+quest_2400_1_2<>Améliorer {e(mastery_type_~2)} {c(1)} fois dans la Maîtrise
+quest_2400_1_3<>Améliorer {c(1)} fois la Maîtrise de classe {e(class_type_~3)}
+quest_2400_1_4<>Améliorer {c(1)} fois la Maîtrise au niveau {c(4)}
+quest_2400_1_2_3<>Améliorer {e(mastery_type_~2)} {c(1)} fois dans la Maîtrise de classe {e(class_type_~3)}
+quest_2400_1_2_4<>Améliorer {e(mastery_type_~2)} {c(1)} fois dans la Maîtrise au niveau {c(4)}
+quest_2400_1_3_4<>Améliorer {c(1)} fois la Maîtrise de classe {e(class_type_~3)} au niveau {c(4)}
+quest_2400_1_2_3_4<>Améliorer {e(mastery_type_~2)} {c(1)} fois la Maîtrise de classe {e(class_type_~3)} au niveau {c(4)}
+quest_2500_1<>Défier l'aventure l'Aventure {c(1)} fois
+quest_2500_1_2<>Défier {e(raid_type_~2)} {c(1)} fois
+quest_2600_1<>Rejoindre la page Facebook
+quest_505_1<>Défier la campagne {c(1)} fois
+quest_1601_1<>Défier Tour du Dragon {c(1)} fois
+quest_201_1_2_3_1<>Utiliser la mine d'Or {c(3)} {c(2)} fois par jour pendant {c(1)} jour(s)
+quest_822_1<>Défier le Cachot de Guilde {c(1)} fois
+quest_822_1_2<>Défier le Cachot de Guilde à l'étape {c(2)} {c(1)} fois
+quest_830_1<>Enregistrer la guilde {c(1)} fois
+quest_105_1<>Réinitialiser {c(1)} héros
+quest_105_1_2<>Réinitialiser {c(1)} héros {c(2)} étoile(s)
+quest_105_1_3<>Réinitialiser {c(1)} héros de niveau {c(3)}
+quest_105_1_4<>Réinitialiser {c(1)} héros de classe {e(class_type_~4)}
+quest_105_1_5<>Réinitialiser {c(1)} héros de faction {e(faction_type_~5)}
+quest_105_1_2_3<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)}
+quest_105_1_2_4<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)}
+quest_105_1_2_5<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de faction {e(faction_type_~5)}
+quest_105_1_3_4<>Réinitialiser {c(1)} héros de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_105_1_3_5<>Réinitialiser {c(1)} héros de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_105_1_4_5<>Réinitialiser {c(1)} héros de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_105_1_2_3_4<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)} et de classe {e(class_type_~4)}
+quest_105_1_2_3_5<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)} et de faction {e(faction_type_~5)}
+quest_105_1_2_4_5<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_105_1_2_3_4_5<>Réinitialiser {c(1)} héros {c(2)} étoile(s) de niveau {c(3)}, de classe {e(class_type_~4)} et de faction {e(faction_type_~5)}
+quest_1700_1_6<>\nInvoquer {c(1)} fois par {e(summon_type_~6)}
+quest_1700_1_2_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero by {e(summon_type_~6)}
+quest_1700_1_3_6<>Summon {c(1)} time(s) and receive Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_2_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_3_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_3_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_5_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_3_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)} faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_507_1<>Campagne bataille rapide {c(1)} fois
+quest_2701_1<>Top-up {c(1)} fois
+quest_2701_1_2<>Top-up {c(1)} fois
+quest_152_1_2_3<>Obtenez {n(2)} {c(3)} étoiles {c(1)} fois 
+quest_3000_1<>Bataille Forteresse {c(1)} fois
+quest_3000_1_2<>Bataille Forteresse {c(1)} fois
+quest_3000_1_2_3<>Gagner la bataille en Forteresse {c(1)} fois
+quest_3001_1<>Réclamez des récompenses inactives dans Forteresse {c(1)} fois
+quest_3001_1_2<>Réclamez des récompenses inactives dans Forteresse {c(1)} fois
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>Passez l'étape {c(1)} à {c(2)}
+quest_3002_1_2_3<>Passez l'étape {c(1)} à {c(2)}
+quest_1804_1<>Terminez {c(1)} quêtes d'événement en une journée.
+quest_450_1<>Défier {c(1)} fois dans Arène Martiale 
+quest_450_1_2<>Défier {c(1)} fois dans Arène Martiale 
+quest_451_1<>Gagner {c(1)} fois dans Arène Martiale 
+quest_452_1<>Gagner {c(1)} points dans Arène Martiale 
+quest_453_1<>défi arène 3v3 fois consécutives est {c(1)}
+quest_453_1_2<>défi arène 3v3 fois consécutives est {c(1)}
+quest_1501_1<>Jeu de connexion.
+quest_751_1<>Actualisez le Marché Noir {c(1)} fois.
+quest_152_1_3<>Obtenez {c(1)} héros(s) {c(3)} étoile(s).
+quest_460_1<>Défi l'Arène {c(1)} fois
+quest_460_1_2<>{c(2)} l'Arène {c(1)} fois.
+quest_1850_1<>Terminez {c(1)} quête(s) hebdomadaire(s).
+quest_1850_1_2<>Terminez {c(1)} quête(s) hebdomadaire(s) en semaine {c(2)}.
+quest_2751_1<>Réclamer le bundle gratuit {c(1)} temps (s).
+quest_1950_1<>Regardez la vidéo pour gagner Gemme {c(1)} fois.
+quest_310_1<>Passer l'étape {c(1)} dans Domaine
+quest_310_1_2<>Passer l'étape {c(2)} {c(1)} fois en Domaine
+quest_311_1<>Participez à Domaine {c(1)} fois(s)
+quest_312_1<>Terminez toutes les étapes le {c(1)} jour de Domaine. (Jour 1 : lundi ; jour 2 : mardi ; jour 3 : mercredi ; jour 4 : jeudi ; jour 5 : vendredi)
+quest_312_1_2<>Terminez toutes les étapes le jour {c(2)} en Domaine {c(1)} heure(s). (Jour 1 : lundi ; jour 2 : mardi ; jour 3 : mercredi ; jour 4 : jeudi ; jour 5 : vendredi)
+quest_2701_1_3<>Achetez {c(1)} fois, chaque fois plus de ${c(3)} (USD)
+quest_1810_1<>Terminer {c(1)} quête(s) quotidienne(s) en un jour
+quest_1820_1<>Terminez {c(1)} quêtes d'événement
+quest_1815_1_2<>Allume une étoile {c(1)} fois
+quest_1855_1<>Participez au défi de combat {c(1)} fois
+quest_1816_1<>Open {c(1)} coffres dans le trésor de Dragon.
+quest_1817_1_2<>Total dépensé {c(1)} Hammers Eitri
+quest_508_1<>Revendiquer les récompenses inactives {t(1)} dans la campagne
+quest_2901_1<>Nourrissez le Qilin {c(1)} Gâteau de lune

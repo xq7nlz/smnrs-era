@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_chance,dot_type,dot_amount,dot_duration
+Fragnil_Active,0.85,10,5,0.4,12,0.3,3
+Fragnil_Active,1.05,10,5,0.4,12,0.5,3
+Fragnil_Active,1.25,10,5,0.4,12,0.7,3

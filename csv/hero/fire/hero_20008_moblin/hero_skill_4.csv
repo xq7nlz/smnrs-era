@@ -1,0 +1,4 @@
+name,health_trigger_buff_1,stat_1_buff_type_1,stat_1_buff_amount_1,stat_2_buff_type_1,stat_2_buff_amount_1,health_trigger_buff_2,stat_1_buff_type_2,stat_1_buff_amount_2,stat_2_buff_type_2,stat_2_buff_amount_2
+Moblin_Passive3,0.95,10,0.1,11,0.15,0.6,10,0.2,11,0.3
+Moblin_Passive3,0.95,10,0.15,11,0.2,0.6,10,0.3,11,0.4
+Moblin_Passive3,0.95,10,0.2,11,0.25,0.6,10,0.4,11,0.5

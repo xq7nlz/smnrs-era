@@ -1,0 +1,4 @@
+name,effect_chance,effect_type,effect_dot_amount,effect_stat_debuff_type,effect_stat_debuff_amount,effect_duration
+Finde_Passive1,1,111,0.3,2,0.2,3
+Finde_Passive1,1,111,0.4,2,0.25,3
+Finde_Passive1,1,111,0.5,2,0.3,3

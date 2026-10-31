@@ -1,0 +1,7 @@
+key<>value
+active_1_1_0<>Recover {1} {2}
+active_1_0_1<>Recover {1} {2}
+active_1_1_1<>Recover {1} {2} and {3} {4}
+active_2_1_0<>Revive with {1} {2}
+active_2_0_1<>Revive with {1} {2}
+active_2_1_1<>Revive with {1} {2} and {3} {4}

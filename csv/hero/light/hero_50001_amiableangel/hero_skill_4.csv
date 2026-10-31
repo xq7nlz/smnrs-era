@@ -1,0 +1,4 @@
+name,hp_limit,trigger_limit,target_position,target_number,max_hp_percent_to_heal
+AmiableAngel_Passive3,0,1,10,3,0.5
+AmiableAngel_Passive3,0,1,10,3,0.75
+AmiableAngel_Passive3,0,1,10,3,1

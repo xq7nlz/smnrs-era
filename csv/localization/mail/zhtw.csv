@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>VIP禮物
+vip_reward_content<>恭喜你！你獲得達到VIP {1}的獎勵。
+friend_boss_last_hit_reward_subject<>自朋友老闆的獎勵
+friend_boss_last_hit_reward_content<>恭喜你！最後，您因與朋友老闆戰鬥而獲得獎勵。
+friend_boss_cleared_reward_subject<>自朋友老闆的獎勵
+friend_boss_cleared_reward_content<>恭喜你！您因擊敗朋友老闆而獲得獎勵。
+friend_season_ranking_reward_subject<>朋友季節排名
+friend_season_ranking_reward_content<>恭喜你！您已經獲得排名朋友季節{1}的獎勵。
+arena_season_ranking_reward_subject<>競技場季節排名禮物
+arena_season_ranking_reward_content<>恭喜你！您已收到了季節排名獎勵{1}在競技場。
+arena_team_season_ranking_reward_subject<>武術競技場 季節排名禮物
+arena_team_season_ranking_reward_content<>恭喜你！您已收到了季節排名獎勵{1}在武術競技場 。
+guild_boss_daily_reward_subject<>每日戰隊Boss獎勵
+guild_boss_daily_reward_content<>恭喜你！加入每日戰隊Boss會獲得獎勵。
+guild_boss_monthly_reward_subject<>每月戰隊Boss 獎勵
+guild_boss_monthly_reward_content<>恭喜你！你將在戰隊Boss中獲得每月獎勵。
+guild_dungeon_cleared_reward_subject<>工會地牢禮物
+guild_dungeon_cleared_reward_content<>恭喜你！你因完成{2}的{1}階段而獲得獎勵。
+guild_dungeon_season_reward_subject<>工會地牢季節排名禮物。
+guild_dungeon_season_reward_content<>恭喜你！您因完成工會地牢的{1}賽季而獲得獎勵。
+guild_war_battle_reward_subject<>戰隊戰役獎勵
+guild_war_battle_reward_content<>恭喜你！你收到了獎勵在完成戰隊戰爭的{2}戰斗在{1}賽季。
+guild_war_season_reward_subject<>戰隊戰季禮品
+guild_war_season_reward_content<>恭喜你！在激戰中完成第{1}季後，您會獲得獎勵。
+purchase_raw_pack_subject<>原始包裹獎勵
+purchase_raw_pack_content<>恭喜！您獲得了購買{1}包裹的獎勵。\n交易ID ：{2}\n交易時間：{3}
+purchase_subscription_pack_instant_subject<>訂閱包獎勵
+purchase_subscription_pack_instant_content<>恭喜！您獲得了登記{1}包裹的獎勵。\n交易ID ：{2}\n交易時間：{3}
+purchase_subscription_pack_daily_subject<>訂閱包每日獎勵
+purchase_subscription_pack_daily_content<>“恭喜！您已收到訂閱包{1}的每日獎勵。\n日期：{2}“
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>限量包裹獎勵
+purchase_limited_pack_content<>恭喜！您獲得了購買{1}包裹的一個獎勵。\n交易ID ：{2}\n交易時間：{3}
+purchase_event_bundle_pack_subject<>事件包裹獎勵
+purchase_event_bundle_pack_content<>“恭喜！您獲得了購買活動包裹{1}的獎勵。\n交易ID：{2}\n交易時間：{3}“
+purchase_event_hot_deal_subject<>事件包裹獎勵
+purchase_event_hot_deal_content<>“恭喜！您獲得了購買活動包裹{1}的獎勵。\n交易ID：{2}\n交易時間：{3}“
+purchase_subscription_pack_trial_subject<>每日禮品試用版
+purchase_subscription_pack_trial_content<>“恭喜！您已經收到來自試用訂閱包{1}的每日獎勵。\n日期：{2}“
+purchase_first_time_reward_subject<>首次購買獎勵
+purchase_first_time_reward_content<>恭喜你！您在遊戲中首次購買可獲得獎勵。
+event_arena_subject<>競技場活動
+event_arena_content<>恭喜你！您已獲得了{1}季節獎勵在競技場事件中。
+event_casino_subject<>命運之輪活動
+event_casino_content<>恭喜你！你已收到了{1}賽季獎勵在命運之輪事件中。
+event_hero_collect_subject<>英雄收集活動
+event_hero_collect_content<>恭喜你！你在英雄收集活動中獲得了第{1}季的獎勵。
+event_prophet_tree_subject<>古樹事件
+event_prophet_tree_content<>恭喜你！你已在古樹事件中收到了{1}季節獎勵。
+event_summon_subject<>Event Summoning
+event_summon_content<>恭喜你！你在召喚事件中獲得了第{1}季的獎勵。
+event_tavern_subject<>酒館事件
+event_tavern_content<>恭喜你！你在酒館事件中獲得了第{1}季的獎勵。
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>更改Summoner Era的電子郵件密碼
+email_change_password_content<>用戶名：{2}。密碼重置代碼{1}，已過期：{3}
+email_validation_subject<>Summoner Era的驗證電子郵件
+email_validation_content<>驗證碼{1}，已過期：{3}
+email_sender_name<>Zitga支持
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>黑色星期五卡獎勵
+event_black_friday_content<>恭喜！ 您已收到來自黑色星期五卡片 {1} 的每日獎勵。\n天：{2}\n
+event_new_year_subject<>祝福卡獎勵
+event_new_year_content<>恭喜！ 您已收到來自祝福卡的每日獎勵。
+event_lunar_new_year_clear_boss_reward_subject<>農曆新年驅逐魔鬼獎勵
+event_lunar_new_year_clear_boss_reward_content<>恭喜你！ 您已經收到來自驅逐魔鬼活動這些獎勵。
+event_new_hero_summon_subject<>傳奇召喚 獎勵 
+event_new_hero_summon_content<>恭喜你！ 您已經從傳奇召喚 活動中獲得了這些獎勵 
+maintenance_inform_title<>服務器維護公告 
+maintenance_inform_title_content<>親愛的召喚師，\n理事會謹此宣布服務器將在{1}上進行維護。 在此期間，您將無法登錄。\n請注意，遊戲將在維護時間內無法播放。 
+maintence_reward_title<>維護已完成 
+maintence_reward_content<>親愛的召喚師，\n維護完成。 我們希望向您發送此禮物，以感謝您在維護期間的耐心等待。\n繼續享受和征服！ 
+event_easter_card_subject<>兔子卡獎勵 
+event_easter_card_content<>恭喜你！ 你每天接受獎勵從兔子卡。\n天 : %s
+event_easter_egg_hunt_subject<>復活節彩蛋收集獎勵 
+event_easter_egg_hunt_content<>這些獎勵會因您在活動中的表現而發送給您。
+event_new_hero_boss_ranking_subject<>榮譽獎杯
+event_new_hero_boss_ranking_content<>恭喜你！您已獲得在Power Contest上達到前{1}的獎勵。
+domain_challenge_reward_subject<>領域 奖励
+domain_challenge_reward_content<>恭喜你！您在階段領域中通過{1}時會收到這些獎勵。
+event_new_hero_release_subject<>傳奇召喚 獎勵 
+event_new_hero_release_content<>恭喜你！ 您已經從傳奇召喚 活動中獲得了這些獎勵 
+purchase_event_hero_release_subject<>交易成功
+purchase_event_hero_release_content<>在新英雄活動期間，您會收到這些用於購買禮包的物品。 感謝您一直以來對我們的支持。
+premium_reward_subject<>高級版獎勵
+premium_reward_content<>您收到這些物品是為了購買我們遊戲的高級版本。感謝您一直以來對我們的支持。
+event_server_open_arena_subject<>競技場 最高排行榜獎勵
+event_server_open_arena_content<>恭喜！ 您已從 競技場 排名賽車活動中獲得這些獎勵！
+event_server_open_arena_2_subject<>武術競技場  最高排行榜獎勵
+event_server_open_arena_2_content<>恭喜！ 您已從 武術競技場  排名賽車活動中獲得這些獎勵！
+event_unclaimed_reward<>这是您无人认领的奖励。
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>命運戰爭活動獎勵
+event_birthday_dark_light_content<>恭喜！您已經從《命運戰爭活動》活動中獲得了這些獎勵。\n - 光的一面：{1}點\n - 黑暗的一面：{2}點
+event_birthday_summon_subject<>獎勵生日活動
+event_birthday_summon_content<>恭喜！您已經獲得了這些獎勵，以參加每週任務。
+event_birthday_prophet_tree_subject<>獎勵生日活動
+event_birthday_prophet_tree_content<>恭喜！您已經獲得了這些獎勵，以參加每週任務。
+event_birthday_arena_subject<>獎勵生日活動
+event_birthday_arena_content<>恭喜！您已經獲得了這些獎勵，以參加每週任務。
+event_birthday_casino_subject<>獎勵生日活動
+event_birthday_casino_content<>恭喜！您已經獲得了這些獎勵，以參加每週任務。
+event_zodiac_exchange_subject<>十二生肖事件結束郵件
+event_zodiac_exchange_content<>親愛的召喚師們，\n十二生肖活動已經結束。 星星 已轉換為這些資源。 感謝您參加活動，希望您玩得愉快。
+purchase_subscription_pack_daily_bonus_subject<>VIP每日獎勵獎勵
+purchase_subscription_pack_daily_bonus_content<>恭喜！您已收到這些獎勵，作為每月卡的VIP獎勵收益。
+event_thanks_giving_subject<>事件感恩節
+event_thanks_giving_content<>恭喜！您已經完成了骰子遊戲的一圈。立即要求這些獎勵！
+event_christmas_subject<>事件聖誕節
+event_christmas_content<>恭喜！
+event_boss_challenge_ranking_subject<>老闆挑戰排名獎勵
+event_boss_challenge_ranking_content<>恭喜！您已經從老闆挑戰活動中獲得這些獎勵。
+event_valentine_subject<>事件情人
+event_valentine_content<>恭喜！
+event_lunar_new_year_subject<>事件月球新年
+event_lunar_new_year_content<>恭喜！
+event_summer_day_subject<>活動暑假
+event_summer_day_content<>恭喜！
+event_blossom_day_subject<>活動櫻花
+event_blossom_day_content<>恭喜！
+event_qixi_festival_subject<>活動QIXI節
+event_qixi_festival_content<>恭喜！
+event_may_day_subject<>活動墨西哥節
+event_may_day_content<>恭喜！

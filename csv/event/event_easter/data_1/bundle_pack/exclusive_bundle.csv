@@ -1,0 +1,13 @@
+id,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,com.fansipan.summoners.era_2022_exclusive_bundle,com.fansipan.summoners.era.easter_2022_exclusive_bundle,14,20002001,1,,1,49.99,FALSE
+,,,2,1,2600,,,,
+,,,2,51,50,,,,
+,,,2,232,24,,,,
+,,,2,238,4,,,,
+,,,2,2,2500,,,,
+2,com.fansipan.summoners.era_2023_exclusive_bundle_2,com.fansipan.summoners.era.easter_2023_exclusive_bundle_2,14,60010002,1,,1,49.99,FALSE
+,,,2,1,2600,,,,
+,,,2,51,50,,,,
+,,,2,232,24,,,,
+,,,2,238,4,,,,
+,,,2,2,2500,,,,

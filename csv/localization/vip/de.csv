@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>%s VIP-Punkte erhalten zum Erreichen
+vip_instant<>Dieses VIP-Level erreichen, um Folgendes zu sammeln:
+vip_daily<>Tägliche Bonusbelohnungen für die Karte des Kommandanten und die Karte des Propheten:
+vip_point_required<>Erforderliche VIP-Punkte
+campaign_bonus_idle_time_max<>Belohnung für maximale Leerlaufzeit: %s
+campaign_bonus_gold<>Bonus %s Gold aus der Belohnung für Leerlauf
+campaign_bonus_magic_potion<>Bonus %s Hero EXP aus der Belohnung für Leerlauf
+campaign_bonus_auto_train_slot<>Trainingsplätze: %s
+tavern_bonus_quest<>Bonusquests für Taverne: %s
+raid_bonus_turn_buy<>Zusätzliche täglich käufliche Abenteuerversuche: %s
+casino_unlock_multiple_spin<>Die Mehrfachdrehfunktion im Glücksrad freischalten
+casino_unlock_premium_spin<>Das Schicksalsrad sofort freischalten
+casino_bonus_turn_buy_basic_chip<>Bonusse für täglich käuflichen Glücksstein: %s
+battle_unlock_speed_up<>Beschleunigung der Schlacht sofort freischalten
+battle_unlock_skip<>Überspringen der Schlacht sofort freischalten
+hand_of_midas_bonus_gold<>Bonus Gold in Goldmine: %s
+summon_unlock_accumulate<>Akkumulierte Beschwörung sofort freischalten
+arena_bonus_ticket_buy<>Zusätzliches täglich käufliches Arenaticket: %s
+campaign_bonus_quick_battle_buy_turn<>Schnelle kaufbare Drehung für die Schlacht: %s
+current_vip<>Aktuelles VIP-Level
+campaign_bonus_exp_summoner<>Bonus-%s-Beschwörer-EXP von Kampagne
+dungeon_challenge_increased<>Stufenbelohnung in Verlies um %s erhöhen
+allow_skip_ads<>Schalten Sie „Anzeigen überspringen“ frei
+allow_prophet_tree_use_gem<>Schalte die Beschwörung durch Juwel in Alter Baum frei
+battle_unlock_skip_arena<>Schalte Kampf überspringen in Arena frei
+auto_next_battle<>Schalten Sie die Funktion „Auto Next Stage“ frei

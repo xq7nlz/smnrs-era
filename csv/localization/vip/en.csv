@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>Get %s VIP points to reach
+vip_instant<>Reach this VIP level to collect:
+vip_daily<>Bonus daily rewards for Commander's Card and Prophet's Card:
+vip_point_required<>VIP points required
+campaign_bonus_idle_time_max<>Max time Idle Reward: %s
+campaign_bonus_gold<>Bonus %s Gold from Idle Reward
+campaign_bonus_magic_potion<>Bonus %s Hero EXP from Idle Reward
+campaign_bonus_auto_train_slot<>Training slots: %s
+tavern_bonus_quest<>Tavern bonus quests: %s
+raid_bonus_turn_buy<>Additional daily purchasable Adventure attemps: %s
+casino_unlock_multiple_spin<>Unlock multiple-spin feature in the Fortune Wheel
+casino_unlock_premium_spin<>Instantly unlock Destiny Wheel 
+casino_bonus_turn_buy_basic_chip<>Bonus daily purchasable Fortune Stone: %s
+battle_unlock_speed_up<>Instantly unlock Battle Speed-up 
+battle_unlock_skip<>Instantly unlock Battle Skip 
+hand_of_midas_bonus_gold<>Bonus Gold in Gold Mine: %s
+summon_unlock_accumulate<>Instantly unlock Accumulate Summon 
+arena_bonus_ticket_buy<>Additional daily purchasable Arena Ticket: %s
+campaign_bonus_quick_battle_buy_turn<>Quick battle purchasable turns: %s
+current_vip<>Current VIP level 
+campaign_bonus_exp_summoner<>Bonus %s Summoner EXP from Campaign
+dungeon_challenge_increased<>Increase stage reward in Dungeon by %s
+allow_skip_ads<>Unlock Skip Ads 
+allow_prophet_tree_use_gem<>Unlock summoning by Gem in Ancient Tree
+battle_unlock_skip_arena<>Unlock Skip battle in Arena
+auto_next_battle<>Unlock Auto Next Stage feature

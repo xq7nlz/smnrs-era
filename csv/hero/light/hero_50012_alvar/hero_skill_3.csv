@@ -1,0 +1,4 @@
+name,stat_buff_type_1,stat_buff_amount_1,stat_buff_type_2,stat_buff_amount_2,stat_buff_duration
+Alvar_Passive2,1,0.2,2,0.3,3
+Alvar_Passive2,1,0.3,2,0.4,3
+Alvar_Passive2,1,0.4,2,0.5,3

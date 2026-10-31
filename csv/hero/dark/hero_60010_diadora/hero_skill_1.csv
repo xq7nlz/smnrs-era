@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,debuff_chance,stat_debuff_type,stat_debuff_amount,effect_type,debuff_duration
+Diadora_Active,1.44,10,3,1,2,0.3,30,3
+Diadora_Active,1.64,10,3,1,2,0.3,30,3
+Diadora_Active,1.84,10,3,1,2,0.3,30,3

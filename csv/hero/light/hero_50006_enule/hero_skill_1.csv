@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Enule_Active,2,10,2,1,0.3,2
+Enule_Active,2.1,10,2,1,0.35,2
+Enule_Active,2.2,10,2,1,0.4,2

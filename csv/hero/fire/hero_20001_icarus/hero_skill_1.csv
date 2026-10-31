@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_duration,stat_debuff_type,stat_debuff_calculation_type,stat_debuff_amount,effect_debuff_type,effect_debuff_amount
+Icarus_Active,0.9,10,4,1,4,4,3,20,12,0.45
+Icarus_Active,1,10,5,1,5,4,3,20,12,0.5
+Icarus_Active,1.1,10,5,1,6,4,3,20,12,0.55

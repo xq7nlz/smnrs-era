@@ -1,0 +1,10 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE287,WEB_SE287,com.se.sungame.black_friday_2021_bundle_pack_01,com.sungame.summoners.era.black_friday_2021_bundle_pack_01,com.fansipan.summoners.era.black_friday_2021_bundle_pack_01,com.fansipan.summoners.era.black_friday_2021_bundle_pack_01,2,1,520,,1,9.99,FALSE
+,,,,,,,2,51,20,,,,
+,,,,,,,2,2,500,,,,
+2,SE288,WEB_SE288,com.se.sungame.black_friday_2021_bundle_pack_02,com.sungame.summoners.era.black_friday_2021_bundle_pack_02,com.fansipan.summoners.era.black_friday_2021_bundle_pack_02,com.fansipan.summoners.era.black_friday_2021_bundle_pack_02,2,1,1040,,1,19.99,FALSE
+,,,,,,,2,51,40,,,,
+,,,,,,,2,2,1000,,,,
+3,SE289,WEB_SE289,com.se.sungame.black_friday_2021_bundle_pack_03,com.sungame.summoners.era.black_friday_2021_bundle_pack_03,com.fansipan.summoners.era.black_friday_2021_bundle_pack_03,com.fansipan.summoners.era.black_friday_2021_bundle_pack_03,2,1,2500,,1,49.99,FALSE
+,,,,,,,2,51,90,,,,
+,,,,,,,2,2,2500,,,,

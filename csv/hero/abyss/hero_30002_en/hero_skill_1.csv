@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent
+En_Active,1.18,20,4,0.1
+En_Active,1.38,20,4,0.2
+En_Active,1.58,20,4,0.3

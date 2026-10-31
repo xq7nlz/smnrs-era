@@ -1,0 +1,4 @@
+name,target_position,target_number,splash_damage,splash_vertical_range,effect_type,effect_chance,effect_duration
+Gorzodin_Passive2,21,1,0.4,1,1,0.3,2
+Gorzodin_Passive2,21,1,0.6,1,1,0.3,2
+Gorzodin_Passive2,21,1,0.8,1,1,0.3,2

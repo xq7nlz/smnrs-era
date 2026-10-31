@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>Anh hùng sử dụng thiên phú này sẽ chặn sát thương phải nhận trong lượt đầu tiên của trận đấu.
+10_2000201_1_2<>Đòn đánh thường của anh hùng sử dụng thiên phú này có tỉ lệ {1} gây thêm {2} sát thương lên kẻ địch.
+10_2000301_1_2<>Anh hùng sử dụng thiên phú này có tỉ lệ {1} kết liễu lập tức đối thủ trúng đòn. Kết liễu chỉ xảy ra 1 lần trong cả trận đấu.
+10_2000401_1_2<>Anh hùng sử dụng thiên phú này có 1 lần chặn hiệu ứng kết liễu. Nếu thực hiện chặn kết liễu, trong lượt đó anh hùng tự hồi lại cho bản thân {1} HP.
+10_2000501_1<>Anh hùng sử dụng thiên phú này gây thêm {1} sát thương theo thời gian cho đối thủ.
+10_2000601_1<>Anh hùng sử dụng thiên phú này nếu thực hiện 1 đòn đánh chí mạng sẽ có tỉ lệ {1} gây hiệu ứng câm lặng lên đối thủ trúng đòn.
+10_2000701_1<>Anh hùng sử dụng thiên phú này ở đầu mỗi lượt có tỉ lệ {1} tạo hiệu ứng giúp bản thân chặn câm lặng trong lượt đó.
+10_2000801_1_2<>Khi tấn công, anh hùng sử dụng thiên phú này khiến đối thủ trúng đòn bị giảm {2} {1} trong lượt đó.
+10_2000901_1<>Khi anh hùng sử dụng thiên phú này tấn công thường lên mục tiêu đang bị hiệu ứng bất lợi, anh hùng khiến mục tiêu nhận ít hơn {1} năng lượng.
+10_2001001_1<>Kỹ năng chủ động của anh hùng sử dụng thiên phú này cho anh hùng thêm {1} năng lượng.
+10_290401_1_2<>Anh hùng đeo trang bị này hồi cho bản thân {1} HP khi bắt đầu lượt {2}
+10_290402_1_2<>Khi bắt đầu trận chiến, anh hùng mặc trang bị này sẽ gây hiệu ứng Thiêu đốt cho tất cả kẻ địch ở hàng trước. Thiêu đốt gây sát thương [{1} ATK] và kéo dài trong {2} lượt.
+10_290403_1_2_3<>Anh hùng đeo trang bị này gây sát thương nhiều hơn {2} và tự hồi {1} HP cho mình khi tấn công kẻ địch đang chịu hiệu ứng {3}.
+10_290404_1_2<>Anh hùng mặc trang bị này nhận thêm {1} hồi máu từ đồng đội. Ngoài ra, hiệu ứng Độc áp dụng cho kẻ thù tăng thêm {2} sát thương.
+10_290405_1<>Anh hùng mặc trang bị này hồi cho bản thân {1} HP (được tính từ HP cơ sở của anh hùng) khi nhận được các hiệu ứng có lợi có thể xoá. Hiệu ứng này kích hoạt một lần mỗi lượt.
+10_290406_1<>Anh hùng mặc trang bị này hồi cho bản thân {1} HP (được tính từ HP cơ sở của anh hùng) khi tấn công kẻ địch đang bị hiệu ứng Chảy máu.

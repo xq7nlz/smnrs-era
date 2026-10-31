@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_duration,stat_debuff_amount,stat_debuff_calculation_type
+Sharpwater_Active,1.44,10,5,20,1,3,0.1,2
+Sharpwater_Active,1.44,10,5,20,1,3,0.2,2
+Sharpwater_Active,1.64,10,5,20,1,3,0.3,2

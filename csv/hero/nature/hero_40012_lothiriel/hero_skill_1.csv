@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Lothiriel_Active,0.8,10,5,40,0.3,2
+Lothiriel_Active,1,10,5,40,0.4,2
+Lothiriel_Active,1.2,10,5,40,0.5,2

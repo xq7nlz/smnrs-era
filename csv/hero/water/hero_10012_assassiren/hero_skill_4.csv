@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,calculation_type_1,drowning_mark_can_be_dispelled
+Assassiren_Passive3,41,0.15,1,TRUE
+Assassiren_Passive3,41,0.2,1,TRUE
+Assassiren_Passive3,41,0.25,1,FALSE

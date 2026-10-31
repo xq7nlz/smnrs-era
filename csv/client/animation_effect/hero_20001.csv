@@ -1,0 +1,6 @@
+animation,frame,parent,effect_type,effect_name
+attack,22,Model/FootAnchor,HeroBattleEffect,hero_20001_attack_wind_shoot
+skill,20,Model/FootAnchor,HeroBattleEffect,hero_20001_skill_smoke_jump
+skill,44,Model/FootAnchor,HeroBattleEffect,hero_20001_skill_wind_shoot
+egg_end,25,Model/FootAnchor,HeroBattleEffect,hero_20001_egg_end
+egg_die,1,Model/FootAnchor,HeroBattleEffect,hero_20001_egg_die

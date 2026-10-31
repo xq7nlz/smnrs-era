@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>Cet allié gagne {1}
+1_1_2_4<>Tous les {2} alliés gagnent {1}
+1_1_2_5<>Tous les {2} alliés gagnent {1}
+1_1_2_4_5<>Tous les {2}/{3} alliés gagnent {1}
+1_1_2_4_5_or<>Tous les {2} alliés, {3} alliés gagnent {1}
+2_1<>  + {1} Dégâts
+2_1_2<>  + {1} Dégâts pour {2}
+2_1_3<>  + {1} Dégâts Contre {2}
+2_1_4<>  + {1} Dégâts Contre {2}
+2_1_2_3<>  + {1} Dégâts pour {2} Contre {3}
+2_1_2_4<>  + {1} Dégâts pour {2} Contre {3}
+2_1_2_3_4<>  + {1} Dégâts pour {2} Contre {3} et {4}
+2_1_2_3_4_or<>  + {1} Dégâts pour {2} Contre {3} ou {4}

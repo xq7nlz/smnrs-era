@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>Dapatkan Pahlawan {c(1)}
+quest_100_1_2<>Dapatkan Pahlawan {c(1)} bintang {c(2)}
+quest_100_1_3<>Dapatkan Pahlawan {c(1)} level {c(3)}
+quest_100_1_4<>Dapatkan Pahlawan {c(1)} kelas {e(class_type_~4)}
+quest_100_1_5<>Dapatkan Pahlawan {c(1)} faksi {e(faction_type_~5)}
+quest_100_1_2_3<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, level {c(3)}
+quest_100_1_2_4<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, dari kelas {e(class_type_~4)}
+quest_100_1_2_5<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_100_1_3_4<>Dapatkan Pahlawan {c(1)} kelas {e(class_type_~4)}, level {c(3)}
+quest_100_1_3_5<>Dapatkan Pahlawan {c(1)} faksi {e(faction_type_~5)}, level {c(3)}
+quest_100_1_4_5<>Dapatkan Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_100_1_2_3_4<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)}
+quest_100_1_2_3_5<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari faksi {e(faction_type_~5)}
+quest_100_1_2_4_5<>Dapatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_100_1_2_3_4_5<>Dapatkan Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_101_1<>Evolusi Pahlawan {c(1)}
+quest_101_1_2<>Evolusi Pahlawan {c(1)} menjadi bintang {c(2)}
+quest_101_1_3<>Evolusi Pahlawan {c(1)} menjadi level {c(3)}
+quest_101_1_4<>Evolusi Pahlawan {c(1)} kelas {e(class_type_~4)}
+quest_101_1_5<>Evolusi Pahlawan {c(1)} faksi {e(faction_type_~5)}
+quest_101_1_2_3<>Evolusi Pahlawan {c(1)} level {c(3)} menjadi bintang {c(2)}
+quest_101_1_2_4<>Evolusi Pahlawan {c(1)} kelas {e(class_type_~4)} menjadi bintang {c(2)}
+quest_101_1_2_5<>Evolusi Pahlawan {c(1)} faksi {e(faction_type_~5)} menjadi bintang {c(2)}
+quest_101_1_3_4<>Evolusi Pahlawan {c(1)} bintang {c(3)} dari kelas {e(class_type_~4)}
+quest_101_1_3_5<>Evolusi Pahlawan {c(1)} level {c(3)} dari faksi {e(faction_type_~5)}
+quest_101_1_4_5<>Evolusi Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_101_1_2_3_4<>Evolusi Pahlawan {c(1)} kelas {c(3)} dari kelas {e(class_type_~4)} dan faksi  menjadi bintang {c(2)}
+quest_101_1_2_3_5<>Evolusi Pahlawan {c(1)} level {c(3)} dari faksi {e(faction_type_~5)} menjadi bintang {c(2)}
+quest_101_1_2_4_5<>Evolusi Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)} menjadi bintang {c(2)}
+quest_101_1_2_3_4_5<>Evolusi Pahlawan {c(1)} kelas {c(3)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)} menjadi bintang {c(2)}
+quest_102_1<>Tingkatkan Pahlawan {c(1)}
+quest_102_1_2<>Tingkatkan Pahlawan {c(1)} bintang {c(2)}
+quest_102_1_3<>Tingkatkan Pahlawan {c(1)} menjadi level {c(3)}
+quest_102_1_4<>Tingkatkan Pahlawan {c(1)} kelas {e(class_type_~4)}
+quest_102_1_5<>Tingkatkan Pahlawan {c(1)} faksi {e(faction_type_~5)}
+quest_102_1_2_3<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} menjadi level {c(3)}
+quest_102_1_2_4<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)}
+quest_102_1_2_5<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari faksi {e(faction_type_~5)}
+quest_102_1_3_4<>Tingkatkan Pahlawan {c(1)} kelas {e(class_type_~4)} menjadi level {c(3)}
+quest_102_1_3_5<>Tingkatkan Pahlawan {c(1)} faksi {e(faction_type_~5)} menjadi level {c(3)}
+quest_102_1_4_5<>Tingkatkan Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_102_1_2_3_4<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)} menjadi level {c(3)}
+quest_102_1_2_3_5<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari faksi {e(faction_type_~5)} menjadi level {c(3)}
+quest_102_1_2_4_5<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)} menjadi faksi {e(faction_type_~5)}
+quest_102_1_2_3_4_5<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)} menjadi level {c(3)}
+quest_103_1<>Tingkatkan Pahlawan {c(1)} ke level maksimum
+quest_103_1_2<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} ke level maksimum
+quest_103_1_3<>Tingkatkan Pahlawan {c(1)} kelas {e(class_type_~3)} ke level maksimum
+quest_103_1_4<>Tingkatkan Pahlawan {c(1)} faksi {e(faction_type_~4)} ke level maksimum
+quest_103_1_2_3<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~3)} ke level maksimum
+quest_103_1_2_4<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari faksi {e(faction_type_~4)} ke level maksimum
+quest_103_1_3_4<>Tingkatkan Pahlawan {c(1)} kelas {e(class_type_~3)} dari faksi {e(faction_type_~4)} ke level maksimum
+quest_103_1_2_3_4<>Tingkatkan Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~3)} dan faksi {e(faction_type_~4)} ke level maksimum
+quest_104_1<>Bongkar Pahlawan {c(1)}
+quest_104_1_2<>Bongkar Pahlawan {c(1)} bintang {c(2)}
+quest_104_1_3<>Bongkar Pahlawan {c(1)} level {c(3)}
+quest_104_1_4<>Bongkar Pahlawan {c(1)} kelas {e(class_type_~4)}
+quest_104_1_5<>Bongkar Pahlawan {c(1)} faksi {e(faction_type_~5)}
+quest_104_1_2_3<>Bongkar Pahlawan {c(1)} bintang {c(2)}, level {c(3)}
+quest_104_1_2_4<>Bongkar Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)}
+quest_104_1_2_5<>Bongkar Pahlawan {c(1)} bintang {c(2)} dari faksi {e(faction_type_~5)}
+quest_104_1_3_4<>Bongkar Pahlawan {c(1)} level {c(3)} dari kelas {e(class_type_~4)}
+quest_104_1_3_5<>Bongkar Pahlawan {c(1)} level {c(3)} dari faksi {e(faction_type_~5)}
+quest_104_1_4_5<>Bongkar Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_104_1_2_3_4<>Bongkar Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)}
+quest_104_1_2_3_5<>Bongkar Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari faksi {e(faction_type_~5)}
+quest_104_1_2_4_5<>Bongkar Pahlawan {c(1)} bintang {c(2)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_104_1_2_3_4_5<>Bongkar Pahlawan {c(1)} bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_150_1<>Dapatkan Pahlawan {c(1)}
+quest_150_1_2<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)}
+quest_150_1_3<>Dapatkan Pahlawan {c(1)} dari faksi {e(faction_type_~3)}
+quest_150_1_4<>Dapatkan Pahlawan {c(1)} dari kelas {e(class_type_~4)}
+quest_150_1_5<>Dapatkan Pahlawan {c(1)} dari faksi {e(faction_type_~5)}
+quest_150_1_2_3<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari faksi {e(faction_type_~3)}
+quest_150_1_2_4<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari kelas {e(class_type_~4)}
+quest_150_1_2_5<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari faksi {e(faction_type_~5)}
+quest_150_1_3_4<>Dapatkan Pahlawan {c(1)} faksi {e(faction_type_~3)} dari kelas {e(class_type_~4)}
+quest_150_1_3_5<>Dapatkan Pahlawan {c(1)} faksi {e(faction_type_~3)} atau faksi {e(faction_type_~5)}
+quest_150_1_4_5<>Dapatkan Pahlawan {c(1)} kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_150_1_2_3_4<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari faksi {e(faction_type_~3)} dan kelas {e(class_type_~4)}
+quest_150_1_2_3_5<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari faksi {e(faction_type_~3)} atau faksi {e(faction_type_~5)}
+quest_150_1_2_4_5<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_150_1_2_3_4_5<>Dapatkan Pahlawan {c(1)} dengan bintang dasar {c(2)} dari kelas {e(faction_type_~3)} dan faksi {e(class_type_~4)} atau faksi {e(faction_type_~5)}
+quest_151_1<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)}
+quest_151_1_2<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)}, level {c(2)}
+quest_151_1_3<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)} dari kelas {e(class_type_~3)}
+quest_151_1_4<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)} dari faksi {e(faction_type_~4)}
+quest_151_1_2_3<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)}, level {c(2)} dari kelas {e(class_type_~3)}
+quest_151_1_2_4<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)}, level {c(2)} dari faksi {e(faction_type_~4)}
+quest_151_1_3_4<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)} dari kelas {e(class_type_~3)} dan faksi {e(faction_type_~4)}
+quest_151_1_2_3_4<>Dapatkan semua Pahlawan dengan bintang dasar {c(1)}, level {c(2)} dari kelas {e(class_type_~3)} dan faksi {e(faction_type_~4)}
+quest_200_1<>Gunakan Tambang Emas {c(1)} kali
+quest_200_1_2<>Gunakan Tambang Emas {c(2)} {c(1)} kali
+quest_201_1<>Gunakan Tambang Emas selama {c(1)} hari berturut-turut
+quest_201_1_2<>Gunakan Tambang Emas {c(2)} kali sehari selama {c(1)} hari berturut-turut
+quest_201_1_3<>Gunakan {c(3)} Tambang Emas selama {c(1)} hari berturut-turut
+quest_201_1_2_3<>Gunakan {c(3)} Tambang Emas {c(2)} kali per hari, selama {c(1)} hari berturut-turut
+quest_300_1<>Selesaikan {c(1)} Tugas di Kedai
+quest_300_1_2<>Selesaikan {c(1)} Tugas di Kedai bintang {c(2)}
+quest_400_1<>Tantang Arena {c(1)} kali
+quest_401_1<>Menang Arena {c(1)} kali
+quest_402_1<>Capai poin {c(1)} di Arena
+quest_500_1<>Selesaikan Perjalanan Tahap: {m(1)}
+quest_501_1<>Ambil Hadiah Nganggur {c(1)} kali di Perjalanan
+quest_504_1<>Capai {c(1)} detik dari Latihan Otomatis di Perjalanan
+quest_503_1<>Ambil {c(1)} Emas di Hadiah Nganggur
+quest_600_1<>Putar Roda Takdir {c(1)} kali
+quest_600_1_2<>Putar {c(1)} kali di {e(casino_type_~2)}
+quest_600_1_3<>Putar Roda Takdir {c(1)} kali dan mendapat Pecahan Pahlawan bintang {c(3)}
+quest_600_1_2_3<>Putar {c(1)} kali di {e(casino_type_~2)} dan mendapat Pecahan Pahlawan bintang {c(3)}
+quest_601_1<>Putar Roda Takdir {c(1)} kali
+quest_601_1_2<>Putar {c(1)} kali di {e(casino_type_~2)}
+quest_601_1_3<>Putar Roda Takdir {c(1)} kali dan mendapat {e(money_type_~3)}
+quest_601_1_2_3<>Putar {c(1)} kali di {e(casino_type_~2)} dan mendapat {e(money_type_~3)}
+quest_650_1<>Putar Roda Takdir {c(1)} kali berturut-turut
+quest_650_1_2<>Putar {c(1)} kali berturut-turut di {e(casino_type_~2)}
+quest_650_1_3<>Putar {c(1)} kali berturut-turut di {c(3)} dan tidak menerima Pecahan Pahlawan bintang {c(3)}
+quest_650_1_2_3<>Putar {c(1)} kali berturut-turut di {e(casino_type_~2)} dan tidak menerima Pecahan Pahlawan bintang {c(3)}
+quest_651_1<>Putar Roda Takdir {c(1)} kali berturut-turut
+quest_651_1_2<>Putar {c(1)} kali berturut-turut di {e(casino_type_~2)}
+quest_651_1_3<>Putar Roda Takdir {c(1)} kali berturut-turut dan tidak menerima {e(money_type_~3)}
+quest_651_1_2_3<>Putar {c(1)} kali berturut-turut di {e(casino_type_~2)} dan di tidak menerima {e(money_type_~3)}
+quest_700_1<>Beli barang di Pasar Gelap {c(1)} kali
+quest_700_1_2<>Beli {c(2)} Pecahan Pahlawan bintang di Pasar Gelap {c(1)} kali
+quest_701_1<>
+quest_701_1_2<>Beli {c(1)} {e(money_type_~2)} di Pasar Gelap
+quest_750_1<>
+quest_750_1_2<>Gunakan {c(1)} {e(money_type_~2)} di Pasar Gelap
+quest_800_1<>Bergabung Perkumpulan {c(1)} kali
+quest_801_1<>Tantang Boss Harian {c(1)} kali
+quest_801_1_2<>Tantang Boss Harian level {c(2)} {c(1)} kali
+quest_801_1_3<>Tantang Boss Harian {c(1)} kali, setiap kali menghasilkan paling tidak {c(3)} kerusakan
+quest_801_1_2_3<>Tantang Boss Harian level {c(2)} {c(1)} kali, setiap kali menghasilkan paling tidak {c(3)} kerusakan
+quest_802_1<>Tantang Boss Harian selama {c(1)} hari berturut-turut
+quest_802_1_2<>Tantang Boss Harian {c(2)} kali sehari selama {c(1)} hari berturut-turut
+quest_802_1_3<>Tantang Boss Harian level {c(3)} selama {c(1)} hari berturut-turut
+quest_802_1_4<>Tantang Boss Harian selama {c(1)} hari berturut-turut, setiap kali menghasilkan paling tidak {c(4)} kerusakan
+quest_802_1_2_3<>Tantang Boss Harian level {c(3)} {c(2)} kali sehari selama {c(1)} hari berturut-turut
+quest_802_1_2_4<>Tantang Boss Harian {c(2)} kali sehari selama {c(1)} hari berturut-turut, setiap kali menghasilkan paling tidak {c(4)} kerusakan
+quest_802_1_3_4<>Tantang Boss Harian level {c(3)}selama {c(1)} hari berturut-turut, setiap kali menghasilkan paling tidak {c(4)} kerusakan
+quest_802_1_2_3_4<>Tantang Boss Harian level {c(3)} {c(2)} kali sehari selama {c(1)} hari berturut-turut, setiap kali menghasilkan paling tidak {c(4)} kerusakan
+quest_803_1<>Perkumpulan menghasilkan kerusakan kepada Boss Harian sebanyak{c(1)} kali
+quest_803_1_2<>Perkumpulan menghasilkan kerusakan kepada Boss Harian level {c(2)} sebanyak {c(1)} kali
+quest_803_1_3<>Perkumpulan menghasilkan Paling tidak {c(3)} kerusakan kepada Boss Harian sebanyak {c(1)} kali
+quest_803_1_2_3<>Perkumpulan menghasilkan Paling tidak {c(3)} kerusakan kepada Boss Harian Level {c(2)} sebanyak{c(1)} kali
+quest_820_1<>Tantang Dungeon Perkumpulan tahap: {c(1)}
+quest_821_1<>Selesaikan musim {c(1)} dari Dungeon Perkumpulan
+quest_841_1<>Beli {c(1)} Artefak di Toko Perkumpulan
+quest_841_1_2<>Beli {c(1)} Artefak {e(artifact_type_~2)} di Toko Perkumpulan
+quest_900_1<>Dapatkan {c(1)} barang
+quest_900_1_2<>Dapatkan {c(1)} barang dengan kelangkaan {e(equip_rarity_~2)} atau lebih tinggi
+quest_901_1<>Pasang {c(1)} barang
+quest_901_1_2<>Pasang {c(1)} barang {e(equip_rarity_~2)}
+quest_902_1<>Tingkatkan {c(1)} barang
+quest_902_1_2<>Tingkatkan {c(1)} barang menjadi kelangkaan {e(equip_rarity_~2)}
+quest_902_1_3<>Tingkatkan {c(1)} barang menjadi bintang {c(3)}
+quest_902_1_2_3<>Tingkatkan {c(1)} barang menjadi kelangkaan {e(equip_rarity_~2)} dan bintang {c(3)}
+quest_950_1<>Dapatkan {c(1)} set lengkap dari barang
+quest_950_1_2<>Dapatkan {c(1)} set lengkap dari barang {e(equip_rarity_~2)}
+quest_1000_1<>Tingkatkan Pemanggil menjadi level {c(1)}
+quest_1001_1<>Evolusi Pemanggil menjadi bintang {c(1)}
+quest_1100_1<>Panggil {c(1)} kali di Pohon Purba
+quest_1100_1_2<>Panggil {c(1)} kali di Pohon Purba dan mendapat Pahlawan {c(1)} bintang {c(2)}
+quest_1100_1_3<>Panggil {c(1)} kali di Pohon Purba dan mendapat {c(1)} Pahlawan dari kelas {e(class_type_~3)}
+quest_1100_1_4<>Panggil {c(1)} kali di Pohon Purba dan mendapat {c(1)} Pahlawan dari faksi {e(faction_type_~4)}
+quest_1100_1_2_3<>Panggil {c(1)} kali di Pohon Purba dan mendapat Pahlawan {c(1)} bintang {c(2)}, dari kelas {e(class_type_~3)}
+quest_1100_1_2_4<>Panggil {c(1)} kali di Pohon Purba dan mendapat Pahlawan {c(1)} bintang {c(2)}, dari faksi {e(faction_type_~4)}
+quest_1100_1_3_4<>Panggil {c(1)} kali di Pohon Purba dan mendapat {e(class_type_~3)} Pahlawan dari faksi {e(faction_type_~4)}
+quest_1100_1_2_3_4<>Panggil {c(1)} kali di Pohon Purba dan mendapat  Pahlawan {e(class_type_~3)} bintang {c(2)}, dari faksi {e(faction_type_~4)}
+quest_1101_1<>Ganti Pahlawan manapun di Pohon Purba {c(1)} kali
+quest_1101_1_2<>Ganti Pahlawan bintang {c(2)} manapun di Pohon Purba {c(1)} kali
+quest_1101_1_3<>Ganti Pahlawan manapun dari kelas {e(class_type_~3)} di Pohon Purba {c(1)} kali
+quest_1101_1_4<>Ganti Pahlawan manapun dari faksi {e(faction_type_~4)} di Pohon Purba {c(1)} kali
+quest_1101_1_2_3<>Ganti Pahlawan bintang {c(2)} manapun dari kelas {e(class_type_~3)} di Pohon Purba {c(1)} kali
+quest_1101_1_2_4<>Ganti Pahlawan bintang {c(2)} manapun dari faksi {e(faction_type_~4)} di Pohon Purba {c(1)} kali
+quest_1101_1_3_4<>Ganti Pahlawan {e(class_type_~3)} manapun dari faksi {e(faction_type_~4)} di Pohon Purba {c(1)} kali
+quest_1101_1_2_3_4<>Ganti Pahlawan {e(class_type_~3)} bintang {c(2)} manapun dari faksi {e(faction_type_~4)} di Pohon Purba {c(1)} kali
+quest_1150_1<>Panggil {c(1)} kali di Pohon Purba berturut-turut
+quest_1150_1_2<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan bintang {c(2)}
+quest_1150_1_3<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan dari kelas {e(class_type_~3)}
+quest_1150_1_4<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan dari faksi {e(faction_type_~4)}
+quest_1150_1_2_3<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan bintang {c(2)} dari kelas {e(class_type_~3)}
+quest_1150_1_2_4<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan bintang {c(2)} dari faksi {e(faction_type_~4)}
+quest_1150_1_3_4<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan {e(class_type_~3)} dari faksi {e(faction_type_~4)}
+quest_1150_1_2_3_4<>Panggil {c(1)} kali di Pohon Purba berturut-turut dan tidak menerima Pahlawan {e(class_type_~3)} bintang {c(2)} dari faksi {e(faction_type_~4)}
+quest_1200_1<>Memiliki {c(1)} Teman
+quest_1201_1<>Kirim Poin kawan {c(1)} kali
+quest_1202_1<>Menerima {c(1)} Poin kawan dari temanmu
+quest_1250_1<>Intai Boss kawan {c(1)} kali
+quest_1251_1<>Kalahkan Boss kawan mu {c(1)} kali
+quest_1300_1<>Buka Syair {c(1)} kali
+quest_1301_1<>Tingkatkan Syair {c(1)} kali
+quest_1301_1_2<>Tingkatkan Syair {e(stone_rarity_~2)} {c(1)} kali
+quest_1302_1<>Konversikan Syair {c(1)} kali
+quest_1400_1<>mendapat {c(1)} Artefak
+quest_1400_1_2<>mendapat {c(1)} Artefak dengan kelangkaan {e(artifact_type_~2)} atau lebih tinggi
+quest_1401_1<>Pasang {c(1)} Artefak
+quest_1401_1_2<>Pasang {c(1)} Artefak {e(artifact_type_~2)}
+quest_1402_1<>Tingkatkan {c(1)} Artefak
+quest_1402_1_2<>Tingkatkan {c(1)} Artefak {e(artifact_type_~2)}
+quest_1500_1<>Login {c(1)} hari berturut-turut
+quest_1600_1<>Lewati Menara Naga lantai: {c(1)}
+quest_1700_1<>Panggil {c(1)} kali
+quest_1700_1_2<>Panggil {c(1)} kali dan mendapat Pahlawan bintang {c(2)}
+quest_1700_1_3<>Panggil {c(1)} kali dan mendapat Pahlawan level {c(3)}
+quest_1700_1_4<>Panggil {c(1)} kali dan mendapat Pahlawan dari kelas {e(class_type_~4)}
+quest_1700_1_5<>Panggil {c(1)} kali dan mendapat Pahlawan dari faksi {e(faction_type_~5)}
+quest_1700_1_2_3<>Panggil {c(1)} kali dan mendapat Pahlawan bintang {c(2)} level {c(3)}
+quest_1700_1_2_4<>Panggil {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari kelas {e(class_type_~4)}
+quest_1700_1_2_5<>Panggil {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_1700_1_3_4<>Panggil {c(1)} kali dan mendapat Pahlawan level {c(3)} dari kelas {e(class_type_~4)}
+quest_1700_1_3_5<>Panggil {c(1)} kali dan mendapat Pahlawan level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1700_1_4_5<>Panggil {c(1)} kali dan mendapat Pahlawan {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1700_1_2_3_4<>Panggil {c(1)} kali dan mendapat Pahlawan bintang {c(2)} level {c(3)} dari kelas {e(class_type_~4)}
+quest_1700_1_2_3_5<>Panggil {c(1)} kali dan mendapat Pahlawan {c(2)} bintang level {c(3)}, dari faksi {e(faction_type_~5)}
+quest_1700_1_2_4_5<>Panggil {c(1)} kali dan mendapat Pahlawan {e(class_type_~4)} bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_1700_1_2_3_4_5<>Panggil {c(1)} kali dan mendapat Pahlawan {c(3)} bintang {c(2)} level {e(class_type_~4)}, dari faksi {e(faction_type_~5)}
+quest_1701_1<>Gunakan Panggilan Dasar {c(1)} kali
+quest_1701_1_2<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}
+quest_1701_1_3<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan level {c(3)}
+quest_1701_1_4<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan kelas {e(class_type_~4)}
+quest_1701_1_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan faksi {e(faction_type_~5)}
+quest_1701_1_2_3<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)}
+quest_1701_1_2_4<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari kelas {e(class_type_~4)}
+quest_1701_1_2_5<>Gunakan Panggilan Dasar dan mendapat Pahlawan {c(1)} bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_1701_1_3_4<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan level {c(3)} dari kelas {e(class_type_~4)}
+quest_1701_1_3_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1701_1_4_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1701_1_2_3_4<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)}
+quest_1701_1_2_3_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1701_1_2_4_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_1701_1_2_3_4_5<>Gunakan Panggilan Dasar {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_1702_1<>Gunakan Panggilan Premium {c(1)} kali
+quest_1702_1_2<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan {c(1)} bintang {c(2)}
+quest_1702_1_3<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan level {c(3)}
+quest_1702_1_4<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan kelas {e(class_type_~4)}
+quest_1702_1_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan dari faksi {e(faction_type_~5)}
+quest_1702_1_2_3<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)}
+quest_1702_1_2_4<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)} dari kelas {e(class_type_~4)}
+quest_1702_1_2_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)} dari faksi {e(faction_type_~5)}
+quest_1702_1_3_4<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan level {c(3)} dari kelas {e(class_type_~4)}
+quest_1702_1_3_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1702_1_4_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan kelas {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1702_1_2_3_4<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)}
+quest_1702_1_2_3_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1702_1_2_4_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_1702_1_2_3_4_5<>Gunakan Panggilan Premium {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, level {c(3)} dari kelas {e(class_type_~4)} dan faksi {e(faction_type_~5)}
+quest_1703_1<>Gunakan Panggilan Perkawanan {c(1)} kali
+quest_1703_1_2<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)}
+quest_1703_1_3<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan level {c(3)}
+quest_1703_1_4<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan dari kelas {e(class_type_~4)}
+quest_1703_1_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan dari faksi {e(faction_type_~5)}
+quest_1703_1_2_3<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)} level {c(3)}
+quest_1703_1_2_4<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari kelas {e(class_type_~4)}
+quest_1703_1_2_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_1703_1_3_4<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan level {c(3)} dari kelas {e(class_type_~4)}
+quest_1703_1_3_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(3)} dari faksi {e(faction_type_~5)}
+quest_1703_1_4_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1703_1_2_3_4<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)} level {c(3)}, dari kelas {e(class_type_~4)}
+quest_1703_1_2_3_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan bintang {c(2)} level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1703_1_2_4_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan {e(class_type_~4)} bintang {c(2)}, dari faksi {e(faction_type_~5)}
+quest_1703_1_2_3_4_5<>Gunakan Panggilan Perkawanan {c(1)} kali dan mendapat Pahlawan {e(class_type_~4)} bintang {c(2)} level {c(3)} dari faksi {e(faction_type_~5)}
+quest_1750_1<>Panggil {c(1)} kali berturut-turut
+quest_1750_1_2<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)}
+quest_1750_1_3<>Panggil {c(1)} kali berturut-turut dan tidak menerima Pahlawan bintang {c(3)}
+quest_1750_1_4<>Panggil {c(1)} kali berturut-turut dan tidak mendapat Pahlawan dari kelas {e(class_type_~4)}
+quest_1750_1_5<>Panggil {c(1)} kali berturut-turut dan tidak mendapat Pahlawan dari faksi {e(faction_type_~5)}
+quest_1750_1_2_3<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan bintang {c(3)}
+quest_1750_1_2_4<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan kelas {e(class_type_~4)}
+quest_1750_1_2_5<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan faksi {e(faction_type_~5)}
+quest_1750_1_3_4<>Panggil {c(1)} kali berturut-turut dan tidak mendapat Pahlawan bintang {c(3)} dari kelas {e(class_type_~4)}
+quest_1750_1_3_5<>Panggil {c(1)} kali berturut-turut dan tidak mendapat Pahlawan bintang {c(3)} dari faksi {e(faction_type_~5)}
+quest_1750_1_4_5<>Panggil {c(1)} kali berturut-turut dan tidak menerima Pahlawan {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1750_1_2_3_4<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak menerima Pahlawan bintang {c(3)} dari kelas {e(class_type_~4)}
+quest_1750_1_2_3_5<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan bintang {c(3)} dari faksi {e(faction_type_~5)}
+quest_1750_1_2_4_5<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan {e(class_type_~4)} dari faksi {e(faction_type_~5)}
+quest_1750_1_2_3_4_5<>Panggil {c(1)} kali berturut-turut di {e(summon_type_~2)} dan tidak mendapat Pahlawan {e(class_type_~4)} bintang {c(3)} dari faksi {e(faction_type_~5)}
+quest_1800_1<>Selesaikan {c(1)} tugas harian dalam 1 hari
+quest_1801_1<>Selesaikan tugas harian manapun dalam {c(1)} hari berturut-turut
+quest_1801_1_2<>Selesaikan {c(2)} tugas harian dalam {c(1)} hari berturut-turut
+quest_1802_1<>Selesaikan {c(1)} tugas harian
+quest_1900_1<>Capai Level VIP {c(1)}
+quest_2000_1<>
+quest_2000_1_2<>Dapatkan {c(1)} {e(money_type_~2)}
+quest_2001_1<>
+quest_2001_1_2<>Gunakan {c(1)} {e(money_type_~2)}
+quest_2100_1<>Lewati Dungeon Gelombang {c(1)}
+quest_2101_1<>Pilih Pahlawan {c(1)} untuk bergabung dalam Dungeon
+quest_2102_1<>Gunakan Obat {c(1)} kali di Dungeon
+quest_2102_1_2<>Gunakan {e(potion_type_~2)} {c(1)} kali di Dungeon
+quest_2103_1<>Beli {c(1)} barang dari Toko Pedagang di Dungeon
+quest_2104_1<>Beli {c(1)} barang dari Pedagang Misterius di Dungeon
+quest_2200_1<>Verifikasi surat elektrik {c(1)} kali
+quest_2300_1<>Pilih Pahlawan {c(1)} untuk bergabung dalam pertarungan
+quest_2300_1_2<>Pilih Pahlawan {c(1)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2300_1_3<>Pilih Pahlawan {c(1)} bintang {c(3)}
+quest_2300_1_2_3<>Pilih Pahlawan {c(1)} bintang {c(3)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2301_1<>Pilih Pahlawan {c(1)} dari faksi yang sama untuk bergabung dalam pertarungan
+quest_2301_1_2<>Pilih Pahlawan {c(1)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2301_1_3<>Pilih Pahlawan {c(1)} bintang {c(3)}
+quest_2301_1_4<>Pilih Pahlawan {c(1)} dari faksi {e(faction_type_~4)}
+quest_2301_1_2_3<>Pilih Pahlawan {c(1)} bintang {c(3)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2301_1_2_4<>Pilih Pahlawan {c(1)} dari faksi {e(faction_type_~4)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2301_1_3_4<>Pilih Pahlawan {c(1)} bintang {c(3)} dari faksi {e(faction_type_~4)}
+quest_2301_1_2_3_4<>Pilih Pahlawan {c(1)} bintang {c(3)} dari faksi {e(faction_type_~4)} untuk bergabung dalam {e(game_mode_~2)}
+quest_2302_1<>Pilih formasi {c(1)} kali
+quest_2302_1_2<>Pilih formasi selain formasi {e(formation_type_~2)} {c(1)} kali
+quest_2303_1<>Aktifkan buff kawan {c(1)} kali
+quest_2303_1_2<>Aktifkan buff kawan {e(companion_type_~2)} {c(1)} kali
+quest_2400_1<>Tingkatkan Keahlian {c(1)} kali
+quest_2400_1_2<>Tingkatkan {e(mastery_type_~2)} apapun di Keahlian {c(1)} kali
+quest_2400_1_3<>Tingkatkan Keahlian dari kelas {e(class_type_~3)} {c(1)} kali
+quest_2400_1_4<>Tingkatkan Keahlian menjadi level {c(4)} {c(1)} kali
+quest_2400_1_2_3<>Tingkatkan {e(mastery_type_~2)} apa pun dalam Keahlian dari kelas {e(class_type_~3)} {c(1)} kali
+quest_2400_1_2_4<>Tingkatkan {e(mastery_type_~2)} apa pun dalam Keahlian menjadi level {c(4)} {c(1)} kali
+quest_2400_1_3_4<>Tingkatkan Keahlian mana pun dalam kelas {e(class_type_~3)} menjadi level {c(4)} {c(1)} kali
+quest_2400_1_2_3_4<>Tingkatkan {e(mastery_type_~2)} di Keahlian dari kelas {e(class_type_~3)} menjadi level {c(4)} {c(1)} kali
+quest_2500_1<>Tantang Petualangan {c(1)} kali
+quest_2500_1_2<>Tantang {e(raid_type_~2)} {c(1)} kali
+quest_2600_1<>Kunjungi Laman Facebook
+quest_505_1<>Tantang Perjalanan {c(1)} kali
+quest_1601_1<>Tantang Menara Naga {c(1)} kali
+quest_201_1_2_3_1<>Gunakan Tambang Emas {c(3)} {c(2)} kali setiap hari selama {c(1)} hari
+quest_822_1<>Challenge guild dungeon {c(1)} times
+quest_822_1_2<>Challenge guild dungeon stage {c(2)} {c(1)} times
+quest_830_1<>Check in guild {c(1)} times
+quest_105_1<>Reset {c(1)} Hero(es)
+quest_105_1_2<>Reset {c(1)} {c(2)}-star Hero(es)
+quest_105_1_3<>Reset {c(1)} Hero(es) level {c(3)}
+quest_105_1_4<>Reset {c(1)} {e(class_type_~4)} class Hero(es)
+quest_105_1_5<>Reset {c(1)} {e(faction_type_~5)} faction Hero(es)
+quest_105_1_2_3<>Reset {c(1)} {c(2)}-star Hero(es), level {c(3)}
+quest_105_1_2_4<>Reset {c(1)} {c(2)}-star Hero(es) of {e(class_type_~4)} class
+quest_105_1_2_5<>Reset {c(1)} {c(2)}-star Hero(es) of {e(faction_type_~5)} faction
+quest_105_1_3_4<>Reset {c(1)} level {c(3)} Hero(es) of {e(class_type_~4)} class
+quest_105_1_3_5<>Reset {c(1)} level {c(3)} Hero(es) of {e(faction_type_~5)} faction
+quest_105_1_4_5<>Reset {c(1)} {e(class_type_~4)} class Hero(es) of {e(faction_type_~5)} faction
+quest_105_1_2_3_4<>Reset {c(1)} {c(2)}-star Hero(es), level {c(3)} of {e(class_type_~4)} class
+quest_105_1_2_3_5<>Reset {c(1)} {c(2)}-star Hero(es), level {c(3)} of {e(faction_type_~5)} faction
+quest_105_1_2_4_5<>Reset {c(1)} {c(2)}-star Hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_105_1_2_3_4_5<>Reset {c(1)} {c(2)}-star Hero(es), level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1700_1_6<>Panggil {c(1)} kali sebanyak {e(summon_type_~6)}
+quest_1700_1_2_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero by {e(summon_type_~6)}
+quest_1700_1_3_6<>Summon {c(1)} time(s) and receive Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_2_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_3_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_3_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_5_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_3_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)} faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_507_1<>Kampanye pertempuran cepat {c(1)} kali
+quest_2701_1<>Top-up {c(1)} kali
+quest_2701_1_2<>Top-up {c(1)} kali
+quest_152_1_2_3<>Dapatkan waktu {n(2)} {c(3)} bintang {c(1)} 
+quest_3000_1<>Tantang Benteng {c(1)} kali 
+quest_3000_1_2<>Tantang Benteng {c(1)} kali 
+quest_3000_1_2_3<>Menangkan pertempuran dalam Benteng {c(1)} kali
+quest_3001_1<>Klaim Hadiah Idle dalam Benteng {c(1)} kali. 
+quest_3001_1_2<>Klaim Hadiah Idle dalam Benteng {c(1)} kali. 
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>Lulus tahap {c(1)} di {c(2)} 
+quest_3002_1_2_3<>Lulus tahap {c(1)} di {c(2)} 
+quest_1804_1<>Selesaikan {c(1)} pencarian acara dalam sehari.
+quest_450_1<>Tantang Arena Bela Diri  {c(1)} kali
+quest_450_1_2<>Tantang Arena Bela Diri  {c(1)} kali
+quest_451_1<>Menang Arena Bela Diri  {c(1)} kali
+quest_452_1<>Capai poin {c(1)} di Arena Bela Diri 
+quest_453_1<>desafio arena 3v3 vezes consecutivas é {c(1)}
+quest_453_1_2<>desafio arena 3v3 vezes consecutivas é {c(1)}
+quest_1501_1<>Login game.
+quest_751_1<>Segarkan Pasar Gelap {c(1)} kali.
+quest_152_1_3<>Dapatkan {c(1)} pahlawan {c(3)} bintang.
+quest_460_1<>Tantang Arena {c(1)} kali
+quest_460_1_2<>{c(2)} Arena {c(1)} kali.
+quest_1850_1<>Selesaikan {c(1)} misi mingguan.
+quest_1850_1_2<>Selesaikan {c(1)} misi mingguan dalam minggu {c(2)}.
+quest_2751_1<>Klaim bundel gratis {c(1)} waktu.
+quest_1950_1<>Tonton video untuk mendapatkan Permata {c(1)} kali.
+quest_310_1<>Lulus tahap {c(1)} di Domain
+quest_310_1_2<>Lewati tahap {c(2)} {c(1)} kali dalam Domain
+quest_311_1<>Berpartisipasi dalam Domain {c(1)} waktu
+quest_312_1<>Selesaikan semua tahapan pada hari {c(1)} di Domain. (Hari 1: Senin; hari 2: Selasa; hari 3: Rabu; hari 4: Kamis; hari 5: Jumat)
+quest_312_1_2<>Selesaikan semua tahapan pada hari {c(2)} dalam Domain {c(1)} waktu. (Hari 1: Senin; hari 2: Selasa; hari 3: Rabu; hari 4: Kamis; hari 5: Jumat)
+quest_2701_1_3<>Isi ulang {c(1)} kali, setiap kali lebih dari ${c(3)} (USD)
+quest_1810_1<>Selesaikan {c(1)} tugas harian dalam 1 hari
+quest_1820_1<>Selesaikan {c(1)} quest acara 
+quest_1815_1_2<>Nyalakan bintang {c(1)} kali
+quest_1855_1<>Berpartisipasi dalam tantangan pertempuran {c(1)} kali
+quest_1816_1<>Buka {c(1)} peti dalam harta naga.
+quest_1817_1_2<>Menghabiskan total {c(1)} ​​eitri hammers
+quest_508_1<>Klaim Idle Rewards {t(1)} dalam kampanye
+quest_2901_1<>Feed the Qilin {c(1)} Kue bulan

@@ -1,0 +1,6 @@
+vip_min,vip_max,number_buy_stamina
+-1,0,0
+1,5,1
+6,9,2
+10,12,3
+13,-1,4

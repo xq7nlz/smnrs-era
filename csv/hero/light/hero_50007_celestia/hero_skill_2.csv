@@ -1,0 +1,4 @@
+name,steal_buff_target_position,steal_buff_target_number,steal_chance,steal_stat_type_1,steal_stat_amount_1,steal_stat_type_2,steal_stat_amount_2,steal_duration,calculation_type
+Celestia_Passive1,10,1,0.3,1,0.3,2,0.2,3,2
+Celestia_Passive1,10,1,0.4,1,0.3,2,0.2,3,2
+Celestia_Passive1,10,1,0.5,1,0.3,2,0.2,3,2

@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,stat_2,bonus_2,power_gain_per_basic_attack
+Yang_Passive1,1,0.1,31,0.1,10
+Yang_Passive1,1,0.15,31,0.15,10
+Yang_Passive1,1,0.2,31,0.2,10

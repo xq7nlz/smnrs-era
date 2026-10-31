@@ -1,0 +1,4 @@
+name,health_trigger,heal_amount,heal_target_number,heal_target_position,stat_buff_type,stat_buff_amount,stat_buff_duration,stat_buff_target_number,stat_buff_target_position
+Arien_Passive3,0.5,1,5,10,41,0.15,3,5,10
+Arien_Passive3,0.5,1.2,5,10,41,0.2,3,5,10
+Arien_Passive3,0.5,1.4,5,10,41,0.25,3,5,10

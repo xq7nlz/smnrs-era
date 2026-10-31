@@ -1,0 +1,566 @@
+key<>value
+feature_1<>Кампания
+feature_2<>Призыв
+feature_4<>Кузнец
+feature_5<>Драконья Башня
+feature_6<>Черный Рынок
+feature_7<>Таверна
+feature_8<>Древнее Древо
+feature_9<>Подземелье
+feature_10<>Гильдия
+feature_11<>Колесо Судьбы
+feature_12<>Арена
+feature_13<>Золотая Шахта
+feature_14<>Сумка
+feature_15<>Заклинатель
+feature_16<>Мастерство
+feature_17<>Друг
+feature_18<>Приключение
+feature_20<>Поднять уровень 
+feature_21<>Крепость
+feature_22<>Связывание
+feature_23<>Военная арена
+feature_24<>Регресс 
+feature_25<>Hero Super Awaken
+feature_26<>Домены
+feature_28<>Item Revolution
+feature_32<>Поддержка связывания героев
+feature_33<>Война гильдий 
+feature_34<>14-звездочный Эволюция
+faction_type_1<>Вода
+faction_type_2<>Огонь
+faction_type_3<>Бездна
+faction_type_4<>Природа
+faction_type_5<>Свет
+faction_type_6<>Тьма
+class_type_1<>Чародей
+class_type_2<>Воин
+class_type_3<>Священник
+class_type_4<>Убийца
+class_type_5<>Странник
+stat_type_1<>АТК
+stat_type_2<>Броня
+stat_type_3<>HP
+stat_type_4<>Скорость
+stat_type_10<>Возможность критического удара
+stat_type_11<>Урон от критического удара
+stat_type_20<>Точность
+stat_type_21<>Маневренность
+stat_type_30<>Чистый урон
+stat_type_31<>Урон от навыка
+stat_type_32<>Пробиваемость брони
+stat_type_40<>Устойчивость к эффектам контроля
+stat_type_41<>Снижение урона
+stat_type_50<>Энергия
+effect_type_1<>Оглушение
+effect_type_2<>Заморозка
+effect_type_3<>Оцепенение
+effect_type_4<>Окаменение
+effect_type_10<>Яд
+effect_type_11<>Кровотечение
+effect_type_12<>Горение
+effect_type_30<>Проклятие
+effect_type_31<>Метка Проклятия
+effect_type_40<>Молчание
+effect_type_50<>Неуязвимый
+effect_type_100<>Метка Слабости
+effect_type_101<>Священная Метка
+effect_type_102<>Метка Водного Союза
+effect_type_103<>Световой Щит
+effect_type_104<>Божественный Щит
+effect_type_105<>Метка Дриады
+effect_type_106<>Темная Метка
+effect_type_107<>Отражающий Щит
+effect_type_108<>Метка Фокуса
+effect_type_109<>Метка Насмешки
+effect_type_110<>Порция Яда
+effect_type_111<>Метка Огня
+effect_type_112<>Магический Щит
+effect_type_113<>Метка Утопленника
+effect_type_114<>Кровавая Метка
+effect_type_191<>Метка Хвори
+effect_type_192<>Метка Излечения
+effect_type_200<>Эффект Долга
+effect_type_500<>Благословить
+effect_type_501<>Метка Благословения
+effect_type_510<>Излечить
+effect_type_511<>Сопротивляемость излечению
+effect_type_530<>Возрождение
+effect_type_531<>Призыв
+effect_type_600<>Контратака
+effect_type_612<>Последний Шанс
+casino_type_0<>Колесо Фортуны
+casino_type_1<>Колесо Судьбы
+money_type_-1<>Случайный
+money_type_0<>Золото
+money_type_1<>Драгоценный камень
+money_type_2<>VIP-баллы
+money_type_10<>Баллы EXP Персонажа
+money_type_11<>Древнее Зелье
+money_type_20<>Камень Души
+money_type_30<>Камень Фортуны
+money_type_31<>Камень Судьбы
+money_type_32<>Счастливая Монета
+money_type_40<>Билет на Арену
+money_type_41<>Монета Арены
+money_type_50<>Базовый Свиток Призыва
+money_type_51<>Премиум Свиток Призыва
+money_type_52<>Накапливать баллы
+money_type_60<>Древняя Реликвия
+money_type_61<>Благословение Агтиза
+money_type_70<>Балл Друга
+money_type_71<>Выносливость
+money_type_80<>Магический Порошок
+money_type_85<>Билет в Башню
+money_type_90<>Основной Квест
+money_type_91<>Премиум Квест
+money_type_100<>Балл Мастерства
+money_type_110<>Древняя Книга
+money_type_120<>Монета Гильдии
+money_type_121<>Улучшенная Монета Гильдии
+money_type_122<>Ежедневный Билет Босса
+money_type_123<>Билет Подземелья Гильдии
+money_type_8<>Баллы EXP Заклинателя
+artifact_type_1<>Обычный
+artifact_type_2<>Редкий
+artifact_type_3<>Мифический
+artifact_type_4<>Легендарный
+artifact_type_5<>Бессмертный
+stone_rarity_1<>Обычный
+stone_rarity_2<>Необычайный
+stone_rarity_3<>Редкий
+stone_rarity_4<>Мифический
+stone_rarity_5<>Легендарный
+stone_rarity_6<>Бессмертный
+potion_type_0<>Красное Зелье
+potion_type_1<>Жёлтое Зелье
+potion_type_2<>Пурпурное Зелье
+game_mode_1<>Кампания
+game_mode_2<>Драконья Башня
+game_mode_3<>Приключение
+game_mode_4<>Подземелье
+game_mode_5<>Дружественная Дуэль
+game_mode_6<>Арена
+game_mode_7<>Арена Гильдии
+game_mode_8<>Война Гильдии
+game_mode_9<>Друг Босс
+game_mode_10<>Ежедневный Босс
+game_mode_11<>Подземелье Гильдии
+raid_type_0<>Золотое Приключение
+raid_type_1<>Зелье Приключений
+raid_type_2<>Приключение с сокровищами
+mastery_type_0<>АТК
+mastery_type_1<>DEF
+mastery_type_2<>HP
+mastery_type_3<>ACC
+mastery_type_4<>DOD
+companion_type_1<>Задействуй 5 Персонажей разных фракций, чтобы получить бонусный атрибут
+companion_type_2<>Задействуй 3 Персонажа из одной фракции + 2 Персонажа из другой фракции, чтобы получить бонусный атрибут
+companion_type_3<>Задействуй 3 Персонажа из одной фракции + 2 Персонажа из той же фракции, чтобы получить бонусный атрибут
+companion_type_4<>Задействуй 4 Персонажа из одной фракции, чтобы получить бонусный атрибут
+companion_type_5<>Задействуй 5 Персонажей из одной фракции, чтобы получить бонусный атрибут
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>Основной Призыв
+summon_type_1<>Премиум Призыв
+summon_type_2<>Дружественный Призыв
+difficult_type_1<>Нормальный
+difficult_type_2<>Трудный
+difficult_type_3<>Экстремальный
+difficult_type_4<>Кошмарный
+difficult_type_5<>Сумасшедший
+difficult_type_6<>Хаос
+difficult_type_7<>Вселенная
+difficult_type_8<>Боги
+equip_rarity_1<>Обычный
+equip_rarity_2<>Необычайный
+equip_rarity_3<>Редкий
+equip_rarity_4<>Мифический
+equip_rarity_5<>Легендарный
+equip_rarity_6<>Бессмертный
+resource_type_1<>Персонаж
+resource_type_2<>Валюта
+resource_type_3<>Инвентарь
+resource_type_4<>Артефакт
+resource_type_5<>Руна
+resource_type_6<>Фрагмент Артефакта
+resource_type_7<>Фрагмент Персонажа
+resource_type_12<>Граница
+resource_type_13<>Материал Эволюции Персонажа
+resource_type_2_12<>Ресурс
+resource_type_2_40<>Ресурс
+resource_type_2_71<>Ресурс
+resource_type_2_85<>Ресурс
+resource_type_2_122<>Ресурс
+resource_type_2_123<>Ресурс
+resource_type_17<>Билет на Быструю Битву
+linking_1<>Вечная любовь
+linking_2<>Союз Справедливости
+linking_3<>Женщины-пираты
+linking_4<>Смерть Напоминание
+linking_5<>Смена менталитета
+linking_6<>Вечная жизнь
+linking_7<>Воинственные клинки
+linking_8<>Алмаз
+linking_9<>Замороженная сила 
+linking_10<>Проклятие тьмы 
+linking_11<>Собиратель душ
+linking_12<>Лунный клинок - Черное копье
+linking_13<>Священные стражи джунглей
+linking_14<>Благословение Небес
+linking_15<>Слуга пламени
+linking_16<>Черная магия
+linking_17<>История океана
+ally_target_position_1<>в одиночку
+ally_target_position_10_5<>все союзники
+ally_target_position_10<>{0} случайный(х) союзник(ов)
+ally_target_position_11_5<>все союзники
+ally_target_position_11<>{0} союзник(ов)
+ally_target_position_20_4<>все союзник(и) на передовой
+ally_target_position_20<>{0} случайный(х) союзник(ов) на передовой
+ally_target_position_21_4<>все союзник(и) в тылу
+ally_target_position_21<>{0} случайный(х) союзник(ов) в тылу
+ally_target_position_30<>{0} союзник(ов) с самым низким HP
+ally_target_position_31<>{0} союзник(ов) с самым высоким ATK
+ally_target_position_32<>{0} союзник(ов) с самой слабой бронёй
+ally_target_position_33<>{0} союзник(ов) с самым высоким % HP
+ally_target_position_34<>{0} союзник(ов) с самой сильной бронёй
+ally_target_position_35<>{0} союзник(ов) с самым высоким HP
+ally_target_position_36<>{0} союзник(ов) с самым низким % HP
+ally_target_position_41<>{0} союзник(ов) в одном ряду
+ally_target_position_41_4<>все союзники в одном ряду
+ally_target_position_45<>{0} союзник(ов) в другом ряду
+ally_target_position_45_4<>все союзники другом ряду
+ally_target_position_51<>{0} поражённый(х) союзник(ов)
+enemy_target_position_10_5<>все враги
+enemy_target_position_10<>{0} случайный(х) враг(ов)
+enemy_target_position_11_5<>все враги
+enemy_target_position_11<>{0} враг(ов)
+enemy_target_position_20_4<>все враг(и) на передовой
+enemy_target_position_20<>{0} случайный(х) враг(ов) на передовой
+enemy_target_position_21_4<>все враг(и) в тылу
+enemy_target_position_21<>{0} случайный(х) враг(ов) в тылу
+enemy_target_position_30<>{0} враг(ов) с самым низким HP
+enemy_target_position_31<>{0} враг(ов) с самым высоким ATK
+enemy_target_position_32<>{0} враг(ов) с самой слабой бронёй
+enemy_target_position_33<>{0} враг(ов) с самым высоким % HP
+enemy_target_position_34<>{0} враг(ов) с самой сильной бронёй
+enemy_target_position_35<>{0} враг(ов) с самым высоким HP
+enemy_target_position_36<>{0} враг(ов) с самым низким % HP
+enemy_target_position_41<>{0} враг(ов) одном ряду
+enemy_target_position_45<>{0} враг(ов) в другом ряду
+enemy_target_position_51<>{0} случайный(х) враг(ов)
+enemy_target_position_62<>враг на верхнем слоте
+money_type_140<>Elder Titan Soul
+money_type_141<>Titan Soul
+money_type_142<>Hero Soul
+money_type_130<>Gold Trophy
+money_type_131<>Silver Trophy
+money_type_135<>Zitga зитга
+resource_type_8<>Summoner EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>Rate Up
+money_type_190<>Arena Pass Point
+money_type_191<>Daily Quest Pass Point
+resource_type_14<>Костюм
+money_type_180<>фонарь
+money_type_181<>Лунный торт
+resource_type_11<>Аватар
+money_type_75<>Золотой Ключик
+money_type_76<>Стеклянный ключ
+money_type_77<>Ключ сокровища
+money_type_210<>Игральная кость
+money_type_211<>Тыква
+money_type_170<>Raising Star
+land_1<>Марианна Бэй
+land_2<>Пылающий континент
+land_3<>Адская пустыня
+land_4<>Джунгли дикого леса
+land_5<>Долина Солнечного поля
+land_6<>Пик Эвермист
+land_7<>Страна грез
+land_8<>Хаос
+land_9<>Kekacauan
+land_10<>Библиотека времени
+restrict_type_1<>Разрешены только водные герои
+restrict_type_2<>Разрешены только огненные герои
+restrict_type_3<>Разрешены только герои бездны
+restrict_type_4<>Допускаются только герои природы
+restrict_type_5<>Допускаются только легкие герои
+restrict_type_6<>Разрешены только Темные герои
+restrict_type_7<>Призыватель не разрешен
+restrict_type_8<>Без правил. Освободи свой разум.
+restrict_type_9<>Мастерство не допускается. Остерегаться!
+restrict_type_10<>Запрещено использование снаряжения, руны и артефакта.
+money_type_200_unused<>Водный шарм
+money_type_201<>Огненная сфера
+money_type_202<>Сфера Бездны
+money_type_203<>Сфера природы
+money_type_204<>Световой шар
+money_type_205<>Темная сфера
+money_type_206<>Солнечная сфера
+money_type_207<>Лунный шар
+money_type_208<>Нерожденное очарование
+money_type_209<>Очарование времени
+money_type_220<>Конфета-трость
+money_type_221<>Свеча
+money_type_222<>Зажженная свеча
+money_type_230<>Новогодний билет
+linking_18<>Свирепое пламя
+linking_19<>Живой дьявол
+money_type_240<>Красный кубик
+money_type_241<>Амулет
+money_type_242<>Фейерверк
+money_type_245<>Красная бумага
+money_type_244<>элитный свиток
+money_type_243<>Красный конверт
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>Шоколад
+money_type_251<>Стрелка
+ally_target_position_52<>Союзный герой класса {0}
+enemy_target_position_52<>Враг Герой класса {0}
+ally_target_position_61<>Союзный герой на позиции {0}
+enemy_target_position_61<>Вражеский герой на позиции {0}
+money_type_45<>Храбрый значок 
+money_type_165<>Роза
+game_mode_14<>Военная арена
+money_type_46<>Храбрая монета 
+money_type_154<>Храбрый EXP
+summon_type_7<>Легендарный призыв 
+money_type_136<>Union Point
+money_type_12<>Awaken Book
+money_type_25<>Святая вода
+money_type_231<>Истер-Пойнт
+money_type_232<>Волшебные кости
+money_type_233<>Супер Кости
+money_type_234<>Деревянный молоток
+money_type_235<>Серебряное яйцо
+money_type_236<>Золотое яйцо
+money_type_237<>Радужное яйцо
+money_type_238<>Золотой молот
+money_type_239<>Радужный молот 
+money_type_166<>Астральная звезда
+companion_type_remake_1<>Задействуй 5 Персонажей разных фракций, чтобы получить бонусный атрибут
+companion_type_remake_2<>Разверните 2 пары героев с одной и той же фракцией и последнего героя с другой фракцией из 2 этих пар. 
+companion_type_remake_3<>Задействуй 3 Персонажа из одной фракции + 2 Персонажа из другой фракции, чтобы получить бонусный атрибут
+companion_type_remake_4<>Задействуй 3 Персонажа из одной фракции + 2 Персонажа из той же фракции, чтобы получить бонусный атрибут
+companion_type_remake_5<>Задействуй 4 Персонажа из одной фракции, чтобы получить бонусный атрибут
+companion_type_remake_6<>Задействуй 5 Персонажей из одной фракции, чтобы получить бонусный атрибут
+money_type_167<>Лезвие Enule в
+money_type_225<>Волшебный ключ
+money_type_168<>Компас
+resource_type_20<>Талант
+talent_1000101<>Мощный Два кай
+talent_1000201<>Эволюция Силы
+talent_1000301<>Божественный щит
+talent_1000401<>Обильная жизненная сила
+talent_1000501<>Кровавый Страшный
+talent_1000601<>Невероятная вспышка
+talent_1000701<>Критический выстрел
+talent_1000801<>Взрыв в урон
+talent_1000901<>Не могу пропустить
+talent_1001001<>Чрезвычайное движение
+talent_1001101<>Неукротимый
+talent_1001201<>Полная мощность без остановок
+talent_1001301<>Похищение души
+talent_1001401<>Близко к иммунной
+talent_1001501<>Телохранитель
+talent_2000101<>Безупречная защита 
+talent_2000201<>Взрыв 
+talent_2000301<>Внезапная смерть
+talent_2000401<>Отказ Жнеца 
+talent_2000501<>Несколько точек
+talent_2000601<>Критическое привидение
+talent_2000701<>Никакого молчания обо мне 
+talent_2000801<>Уменьшение критического удара 
+talent_2000901<>Меньше мощности
+talent_2001001<>Больше мощности
+money_type_115<>Обычный сундук с наградами
+money_type_116<>Необычное сокровище
+money_type_117<>Редкий сундук
+money_type_118<>Эпический сундук
+money_type_119<>Легендарный сундук
+money_type_113<>Таинственная монета
+avatar_121<>Счастливый нефритовый держатель
+avatar_frame_101<>Железная граница
+avatar_frame_102<>Бронзовая кайма
+avatar_frame_103<>Серебряная граница
+avatar_frame_104<>Золотая граница
+avatar_frame_105<>Платиновая граница
+avatar_frame_106<>Алмазная граница
+avatar_frame_107<>Master Border
+avatar_frame_108<>Великий Мастер
+avatar_frame_109<>Challenger
+avatar_109<>Храбрый Qilin
+avatar_108<>Озорной Qilin
+avatar_107<>Маленький Qilin
+avatar_frame_110<>Граница середины осени
+money_type_195<>Battle Pass Exp
+avatar_110<>Legend Qilin
+money_type_15<>Волшебный кристалл
+equip_rarity_7<>Революция
+talent_1001601<>Заклинание молнии
+stat_type_33<>Уменьшить уменьшение урона
+avatar_frame_111<>Жуткий сезон
+avatar_111<>Безумная тыква
+avatar_122<>Легендарная сила
+avatar_123<>Легендарный стратег
+avatar_frame_122<>Рамка легенды
+money_type_35<>Арена сундук I
+money_type_36<>Арена сундук II
+money_type_37<>Арена сундук III
+resource_type_24<>Особенный эффект
+avatar_112<>Christmas
+avatar_frame_112<>Christmas
+money_type_248<>Счастливая монета
+avatar_113<>Лунный Новый год
+avatar_frame_113<>Лунный Новый год
+money_type_182<>Зажечь фонарь
+money_type_249<>Точка богатства
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>Доказательство самурая
+avatar_124<>Защитник крепости
+avatar_125<>Чистильщик крепости
+avatar_frame_124<>Неумолимый претендент
+avatar_frame_125<>Неудержимый воин
+avatar_frame_126<>Искатель
+avatar_frame_127<>Завоеватель
+linking_21<>Суверенный монарх
+money_type_65<>Билет босса
+linking_20<>Сокрушитель Неба и Земли
+avatar_126<>Великий Самурай
+avatar_127<>Счастливые яйца
+avatar_frame_128<>Христос воскрес
+money_type_252<>Часть головоломки
+money_type_66<>Билет босса
+money_type_226<>Точка соперника 
+money_type_22<>Сундук выбора героя W/F/A/N
+money_type_23<>Сундук выбора героя D/L
+avatar_129<>2-й день рождения
+avatar_frame_129<>2-й день рождения
+linking_22<>Наследие ненависти
+money_type_227<>Устаревший пропускной пункт
+item_option_5_1_3<>Уменьшить получаемый урон {2}
+item_option_5_1_4<>Уменьшить получаемый урон {2}
+money_type_26<>Сундук с артефактами темной и светлой фракций
+money_type_27<>Сундук артефакта фракции W/F/A/N
+money_type_175<>Улучшенный жемчуг 
+money_type_176<>Астральная звезда
+money_type_215<>Значок скина
+avatar_130<>Середина осени 2022 г. 
+avatar_131<>Середина осени 2022 г. 
+avatar_132<>Середина осени 2022 г. 
+linking_23<>Восстание монстра 
+money_type_196<>Скин-точка
+money_type_95<>Ядро талантов 
+avatar_133<>Хэллоуин 2022
+avatar_frame_131<>Хэллоуин 2022
+money_type_200<>Водяной шар
+linking_24<>Племя Дракона 
+avatar_134<>Рождество 2022 года
+avatar_frame_134<>Рождество 2022 года
+avatar_135<>Лунный Новый 2023 год
+avatar_frame_135<>Лунный Новый 2023 год
+money_type_253<>Эйтри молот
+money_type_254<>Монета Эйтри
+hero_detail_1<>Танкер
+hero_detail_2<>усиление
+hero_detail_3<>Убийца
+hero_detail_4<>Контр-урон
+hero_detail_5<>Область действия
+hero_detail_6<>Контроль толпы
+hero_detail_7<>Рейнджер
+hero_detail_8<>Взрывной урон
+hero_detail_9<>Выздоровление
+hero_detail_10<>Выполнять
+hero_detail_11<>Поддерживать
+hero_detail_12<>Маг
+hero_detail_13<>Оживить
+hero_detail_14<>боец
+hero_detail_15<>Урон с течением времени
+hero_detail_16<>Трансформировать
+hero_detail_17<>Благословение
+hero_detail_18<>Проклинать
+hero_detail_19<>Тишина
+hero_detail_20<>Контратака
+money_type_223<>Летняя монета
+money_type_224<>Мохито Ингредиент
+money_type_125<>Летняя подарочная коробка
+money_type_126<>Красный водяной шар
+money_type_127<>Синий водный шар
+money_type_128<>Зеленый водяной шар
+money_type_129<>Серый водный шар
+money_type_216<>Mojito
+month_january<>январь
+month_february<>февраль
+month_march<>Маршировать
+month_april<>апрель
+month_may<>Может
+month_june<>Июнь
+month_july<>Июль
+month_august<>Август
+month_september<>Сентябрь
+month_october<>Октябрь
+month_november<>ноябрь
+month_december<>декабрь
+avatar_136<>3-й день рождения
+avatar_frame_136<>3-й день рождения
+hero_desc_20001<>Феникс Возрождается
+hero_desc_20002<>Вечный ад
+hero_desc_10004<>Сердце океана
+hero_desc_10011<>Океанский свирепый бог
+hero_desc_30027<>Могучий самурай
+hero_desc_30003<>Некромант
+hero_desc_40008<>Стрела природы
+hero_desc_40027<>Принцесса Дракона
+hero_desc_50003<>Светлое благословение
+hero_desc_50007<>Арк Ангел
+hero_desc_50004<>Некоронованный принц
+hero_desc_50006<>Принцесса Луны
+hero_desc_60003<>Один удар, одно убийство
+hero_desc_60004<>Аватар Анубиса
+hero_desc_60005<>Угол Смерти
+hero_desc_60006<>Очаровательная мечница
+linking_25<>Святой Свет
+money_type_137<>Монета вызова
+avatar_137<>Аватар 1. Середина осени 2023 г.
+avatar_138<>Аватар 2. Середина осени 2023 г.
+avatar_139<>Аватар 3. Середина осени 2023 г.
+money_type_255<>Монета бесконечности
+money_type_186<>Ключ приключений
+money_type_185<>Часть артефакта
+money_type_101<>Кости
+money_type_102<>Тыква
+money_type_43<>Монета боевой арены
+avatar_115<>Enule Снежный Гардиан
+feature_35<>переработка
+money_type_229<>Открытка
+money_type_78<>Монеты Фортуны
+money_type_79<>Джейд
+money_type_217<>Пасхальные кости
+money_type_218<>Пасхальные яйца
+money_type_81<>Летние кости
+money_type_82<>Пляжные мячи
+money_type_62<>Цветочные веера
+money_type_63<>Цветы вишни
+money_type_86<>Бамбуковые флейты
+money_type_87<>Носовые платки
+money_type_72<>Пиньята-клубы
+money_type_73<>Кендис Пиньята
+avatar_140<>4-й день рождения
+avatar_frame_137<>4-й день рождения

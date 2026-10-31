@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_trigger_class,effect_chance,effect_type,effect_duration
+Glugrgly_Active,1.2,30,1,3,0.5,40,2
+Glugrgly_Active,1.4,30,1,3,0.75,40,2
+Glugrgly_Active,1.6,30,1,3,1,40,2

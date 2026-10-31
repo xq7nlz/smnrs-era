@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type,stat_debuff_amount,stat_debuff_duration
+DrPlague_Active,1.02,10,2,1,1,0.15,2
+DrPlague_Active,1.22,10,2,1,1,0.15,2
+DrPlague_Active,1.42,10,2,1,1,0.15,2

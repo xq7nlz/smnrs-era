@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_type,dot_duration,dot_amount,dot_chance
+Elne_Active,1.1,10,3,10,3,0.1,1
+Elne_Active,1.3,10,3,10,3,0.1,1
+Elne_Active,1.5,10,3,10,3,0.1,1

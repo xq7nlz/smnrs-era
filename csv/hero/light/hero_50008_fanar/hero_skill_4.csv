@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,buff_target_position,buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Fanar_Passive3,1,10,4,10,5,1,3,0.3
+Fanar_Passive3,1.2,10,4,10,5,1,3,0.3
+Fanar_Passive3,1.4,10,4,10,5,1,3,0.3

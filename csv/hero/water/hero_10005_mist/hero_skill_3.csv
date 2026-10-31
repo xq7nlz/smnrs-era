@@ -1,0 +1,4 @@
+name,target_position,target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_duration,stat_debuff_amount,stat_debuff_calculation_type
+Mist_Passive2,21,2,4,1,2,20,3
+Mist_Passive2,21,2,4,1,2,40,3
+Mist_Passive2,21,2,4,1,2,60,3

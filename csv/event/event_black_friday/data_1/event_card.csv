@@ -1,0 +1,4 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,duration_in_days,instant_res_type,instant_res_id,instant_res_number,instant_res_data,price,stock
+1,SE080,com.se.sungame.idle_34,com.sungame.summoners.era.idle_blackfriday_card_01,com.fansipan.summoners.era.idle_34,com.fansipan.summoners.era.idle_blackfriday_card_01,2,1,summoner_level*3,,6,2,2,750,,14.99,1
+,,,,,,2,51,vip_level*1,,,,,,,,
+,,,,,,17,202,summoner_level*1,,,,,,,,

@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,effect_type,effect_chance,effect_duration
+Eitri_Active,1.5,20,4,1,0.5,2
+Eitri_Active,1.7,20,4,1,0.6,3
+Eitri_Active,1.9,20,4,1,0.7,4

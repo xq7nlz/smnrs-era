@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>Anh hùng này tăng {1}
+1_1_2_4<>Tất cả tướng {2} được tăng {1}
+1_1_2_5<>Tất cả tướng {2} được tăng {1}
+1_1_2_4_5<>Tất cả tướng {2}/{3} được tăng {1}
+1_1_2_4_5_or<>Tât cả tướng {2}, {3} hero được tăng {1}
+2_1<> + {1} sát thương
+2_1_2<> + {1} sát thương cho {2}
+2_1_3<> + {1} sát thương đối với {2}
+2_1_4<> + {1} sát thương đối với {2}
+2_1_2_3<> + {1} sát thương cho {2} đối với {3}
+2_1_2_4<> + {1} sát thương cho {2} đối với {3}
+2_1_2_3_4<> + {1} sát thương cho {2} đối với {3} và {4}
+2_1_2_3_4_or<> + {1} sát thương cho {2} đối với {3} hoặc {4}

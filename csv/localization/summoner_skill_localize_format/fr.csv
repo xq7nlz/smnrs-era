@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)}.
+summoner_1_1_1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et réduire {q(stat_debuff_type)} de {q(stat_debuff_amount_3)} de la cible pour {c(stat_debuff_duration)} tour(s).
+summoner_1_1_2~stat_debuff_chance~1<>Inflige [{p(damage)} of ATK] dégâts à {q(target_position)}. Avoir {p(stat_debuff_chance)} chance de diminuer {q(stat_debuff_amount_3)} {q(stat_debuff_type)} en {c(stat_debuff_duration)} round (s).
+summoner_1_1_2~stat_debuff_chance~0<>Deal [{p(damage)} de ATK] dégâts à {q(target_position)} ennemis au hasard dans la rangée arrière et diminuer les ennemis {q(stat_debuff_amount_3)} {q(stat_debuff_type)} dans les tours {c(stat_debuff_duration)}.
+summoner_1_1_3~dispel_chance~0<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et dissiper tous les effets positifs de la cible. Infliger [{p(damage_bonus_per_die)} d'ATQ] dégâts supplémentaires pour chaque héros ennemi vaincu.
+summoner_1_1_3~dispel_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)}. Pour chaque héros ennemi vaincu, infliger [{p(damage_bonus_per_die)} d'ATQ] dégâts aux ennemis restants et avoir {p(dispel_chance)} chance de les dissiper tous les effets positifs.
+summoner_1_2_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_1_2_2<>Augmenter {p(bonus_1)} {q(stat_1)} pour {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Lorsque vous êtes attaqué, vous avez {p(passive_chance)} chance d'infliger [{p(damage)} d'ATQ] dégâts à l'attaquant.
+summoner_1_2_3<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>Au début de chaque match, {q(target_position_2)} devient immunisé contre tous les effets négatifs pour {c(blessing_duration)} tour(s).
+summoner_1_3_1~blessing_chance~1<>Au début de chaque match, {q(target_position_2)} a {p(blessing_chance)} chance d'être immunisé contre tous les effets négatifs pour {c(blessing_duration)}
+summoner_1_3_2~buff_chance~1<>Au début de chaque tour impair, il y a une {p(buff_chance)} chance d'augmenter {q(stat_buff_1_amount)} {q(stat_buff_1_type)} et {q(stat_buff_2_amount)} {q(stat_buff_2_type)} pour Hero en {q(buff_target_position)}ème position. Cet effet dure {c(buff_duration)} rounds.
+summoner_1_3_2~buff_chance~0<>Au début de chaque tour impair, augmentez {q(stat_buff_1_amount)} {q(stat_buff_1_type)} et {q(stat_buff_2_amount)} {q(stat_buff_2_type)} pour Hero en {q(buff_target_position)} e position. Cet effet dure {c(buff_duration)} rounds.
+summoner_1_3_3~buff_chance~0<>Pour chaque héros allié vaincu, augmenter {q(stat_buff_1_type)} de {q(stat_buff_1_amount)} et {q(stat_buff_2_type)} de {q(stat_buff_2_amount)} pour {q(buff_target_position)}.
+summoner_1_3_3~buff_chance~1<>Pour chaque héros allié vaincu, avoir {c(buff_duration)} chance d'augmenter {q(stat_buff_1_type)} de {q(stat_buff_1_amount)} et {q(stat_buff_2_type)} de {q(stat_buff_2_amount)} pour {q(buff_target_position)}.
+summoner_1_4_1~block_chance~0<>Les alliés en position {s(target_number)} bloquent {p(block_rate)} dégâts lorsqu'ils sont attaqués.
+summoner_1_4_1~block_chance~1<>Les alliés en position {s(target_number)} ont {p(block_chance)} chance de bloquer {p(block_rate)} dégâts lorsqu'ils sont attaqués.
+summoner_1_4_2<>Au début de chaque tour, le héros en position {q(target_position_2)} obtient {c(power_buff)} énergie
+summoner_1_4_3<>Augmenter {q(stat_buff_type)} de {q(stat_buff_amount_3)} pour {q(buff_target_position)}. Après chaque {c(count_trigger)} attaque effectuée par les alliées, infliger [{p(damage)} de l'attaque de ce héros] dégâts à {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et réduire {q(stat_debuff_type)} de {q(stat_debuff_amount_3)} de la cible pour {c(stat_debuff_duration)} tour(s).
+summoner_2_1_1~stat_debuff_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et avoir {p(stat_debuff_chance)} chance de réduire {q(stat_debuff_type)} de {q(stat_debuff_amount_3)} de la cible pour {c(stat_debuff_duration)} tour(s).
+summoner_2_1_2~stat_buff_chance~0<>Inflige [{p(damage)} of ATK] points de dégâts à {q(damage_target_position)} et augmente {q(stat_buff_amount_3)} {q(stat_buff_type)} pendant {q(buff_target_position)}, dure {c(stat_buff_duration)} round.
+summoner_2_1_2~stat_buff_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(damage_target_position)}. Avoir {p(stat_buff_chance)} chance de créer un bouclier pour augmenter {q(stat_buff_type)} {q(stat_buff_amount_3)} pour {q(buff_target_position)}, efficace pendant {c(stat_buff_duration)} tour(s).
+summoner_2_1_3<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)}, avoir {p(effect_chance)} chance d'affecter l'effet de {q(effect_type)} à la cible pour {c(effect_duration)} tour(s).
+summoner_2_2_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_2_2_2<>Augmentez {q(bonus_1)} {q(stat_1)} et diminuez {q(debuff_amount_1)} {q(debuff_stat_1)} pendant {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>Augmenter {q(stat_buff_type)} de {q(stat_buff_amount_3)} sur chaque allié vaincu pour des alliés restants. Si 4 alliés sont vaincus, les 2 alliés restants reçoivent 75% de {q(stat_buff_type)}. S'il n'y a qu'un seul allié restant, augmenter {q(stat_buff_type)} de 100%.
+summoner_2_2_3~buff_chance~1<>Avoir {p(buff_chance)} chance d'augmenter {q(stat_buff_type)} de {q(stat_buff_amount_3)} sur chaque allié vaincu pour des alliés restants. Si 4 alliés sont vaincus, les 2 alliés restants reçoivent 75% de {q(stat_buff_type)}. S'il n'y a qu'un seul allié restant, augmenter {q(stat_buff_type)} de 100%.
+summoner_2_3_1<>Lorsque {q(target_position_2)} est affecté par l'effet de contrôle, réduire {p(reduce_damage_amount)} de dégâts subis.
+summoner_2_3_2~block_chance~0<>À chaque fois qu'un allié est attaqué, avoir {p(buff_chance)} chance d'appliquer l'effet de Bouclier à {q(target_position_2)} pendant {c(block_duration)} tour(s). L'effet de Bouclier bloque {p(block_amount)} des dégâts subis. Cet effet ne se cumule pas.
+summoner_2_3_2~block_chance~1<>À chaque fois qu'un allié est attaqué, avoir {p(buff_chance)} chance d'appliquer l'effet de Bouclier à {q(target_position_2)} pendant {c(block_duration)} tour(s). L'effet de Bouclier a {p(block_chance)} chance de bloquer {p(block_amount)} des dégâts subis. Cet effet ne se cumule pas.
+summoner_2_3_3<>Lorsqu'un allié subit des dégâts mortels, il a {p(last_chance_rate)} chance de survivre avec 1 PV et de récupérer {c(power_gain)} énergie. Cet effet ne peut être déclenché qu'une fois par allié à chaque match.
+summoner_2_4_1~block_chance~0<>Les alliés en position {s(target_number)} bloquent {p(block_rate)} des dégâts subis lorsqu'ils sont attaqués.
+summoner_2_4_1~block_chance~1<>Les alliés en position {s(target_number)} ont {p(block_chance)} chance de bloquer {p(block_rate)} des dégâts subis lorsqu'ils sont attaqués.
+summoner_2_4_2<>Au début du cycle {c(round_trigger_list)}, créez un lien entre {q(tanker_target_position)} et {q(target_position_3)}. Les dégâts subis de tous les alliés liés sera de {p(damage_share_percent)} transféré à {q(tanker_target_position)}. Cet effet dure {c(bond_duration)} tours.
+summoner_2_4_3<>Augmenter {q(stat_buff_type)} de {q(stat_buff_amount_3)} pour {q(buff_target_position)}. Toutes les 3 attaques (attaque de base ou compétence active) reçues par ce héros, contre-attaquer immédiatement et infliger [{p(damage_percent_hp)} du HP de cet allié] dégâts à {q(damage_target_position)}.
+summoner_3_1_1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(damage_target_position)} et récupérer une quantité de PV égale à [{p(heal_percent)} d'ATQ] pour {q(heal_target_position)}.
+summoner_3_1_2<>Infliger [{p(damage)} d'ATQ] dégâts à {q(damage_target_position)} et avoir {p(effect_chance)} chance d'affecter l'effet de {q(effect_type)} à la cible pour {c(effect_duration)} tour(s).
+summoner_3_1_3<>Infliger [{p(damage)} d'ATQ] dégâts à {q(damage_target_position)} et l'associer avec {q(bond_target_position)} pour {c(bond_duration)} tour(s).  Les dégâts subis sont divisés à toutes les cibles associées.
+summoner_3_2_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {q(bonus_2)} pour {q(target_position_2)}.
+summoner_3_2_2<>Augmenter {q(bonus_1)} {q(stat_1)} pour {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Lorsqu'un allié est attaqué, avoir {p(heal_chance)} chance de récupérer une quantité de PV égale à [{p(heal_amount)} d'ATQ] pour cet allié.
+summoner_3_2_3<>Au début de chaque match, augmenter {c(power_stat)} énergie pour les alliés en position {s(target_number)}.
+summoner_3_3_1<>Augmenter {q(stat_1)} de {q(bonus_1)} pour {q(target_position_2)}.
+summoner_3_3_2<>Au début de chaque tour {c(round_trigger_list)}, augmenter {q(stat_buff_type)} de {q(stat_buff_amount)} de {q(target_position_2)} pour {c(stat_buff_duration)} tour(s).
+summoner_3_3_3<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {q(bonus_2)} pour {q(target_position_2)}.
+summoner_3_4_1<>Au début de tous les tours impairs, augmenter {c(power_buff)} énergie pour {q(target_position_2)}.
+summoner_3_4_2<>Au début de chaque tour impaire, dissipez tous les effets négatifs de {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>Lorsque le PV d'un allié tombe en dessous de {p(heal_trigger)}, récupérer une quantité de PV égale à [{p(heal_amount)} d'ATQ] pour cet allié. Cet effet ne peut être déclenché qu'une fois par match.
+summoner_3_4_3~heal_chance~1<>Lorsque le PV d'un allié tombe en dessous de {p(heal_trigger)}, avoir {p(heal_chance)} chance de récupérer une quantité de PV égale à [{p(heal_amount)} d'ATQ] pour cet allié. Cet effet ne peut être déclenché qu'une fois par match.
+summoner_4_1_1~debuff_chance~0<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et affecter l'effet de {q(debuff_type)} à la cible pour {c(debuff_duration)} tour(s). L'effet de {q(debuff_type)} inflige [{p(debuff_amount)} d'ATQ] dégâts à la cible à chaque tour.
+summoner_4_1_1~debuff_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et avoir {p(debuff_chance)} chance d'affecter l'effet de {q(debuff_type)} à la cible pour {c(debuff_duration)} tour(s). L'effet de {q(debuff_type)} inflige [{p(debuff_amount)} d'ATQ] dégâts à la cible à chaque tour.
+summoner_4_1_2<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et avoir {p(debuff_chance)} chance d'affecter l'effet de {q(debuff_type)} à la cible pour {c(debuff_duration)} tour(s).
+summoner_4_1_3<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et augmenter {q(buff_type)} de {p(buff_amount)} de {q(buff_target_position)} pour {c(buff_duration)} tour(s).
+summoner_4_2_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_4_2_2<>Augmentez {q(stat_1)} de {q(bonus_1)} pour {q(target_position_2)}.
+summoner_4_2_3<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {q(bonus_2)} pour {q(target_position_2)}.
+summoner_4_3_1<>Augmenter {q(stat_1)} de {q(bonus_1)} pour {q(target_position_2)}.
+summoner_4_3_2<>Au début de chaque round, liez {q(target_position_2)} et {q(bond_target_position)} pendant {c(bond_duration)} round. {p(bond_share_damage)} des dégâts subis aux alliés liés seront transférés et répartis également entre {q(bond_target_position)}.
+summoner_4_3_3<>Lorsqu'un allié affecte l'effet de contrôle à la cible (étourdissement, endormissement, congélation, pétrification), l'effet de saignement est aussi affecté pendant la même durée que celle de l'effet de contrôle. L'effet de saignement inflige [{p(damage)} d'ATQ] dégâts à la cible à chaque tour.
+summoner_4_4_1<>Lorsque l'attaque d'un allié est un coup critique, augmenter {p(bonus_1)} de {q(target_position_2)} de {q(stat_1)} pour {c(buff_duration)} tour(s). (Effet cumulatif)
+summoner_4_4_2<>Lorsqu'un allié réussit à esquiver une attaque, augmentez {q(buff_type)} de {q(buff_amount)} pendant {c(buff_duration)} round. Cet effet ne peut pas être empilé.
+summoner_4_4_3<>Pour chaque {c(buff_per_power)} énergie de l'Invocateur, augmenter {p(buff_amount)} de {q(target_position_2)} de {q(buff_type)}.
+summoner_5_1_1~stat_debuff_chance~0<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et réduire {q(stat_debuff_type)} de la cible de {p(stat_debuff_amount)} pour {c(stat_debuff_duration)} tour(s).
+summoner_5_1_1~stat_debuff_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et avoir {p(stat_debuff_chance)} chance de réduire {q(stat_debuff_type)} de la cible de {p(stat_debuff_amount)} pour {c(stat_debuff_duration)} tour(s).
+summoner_5_1_2<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et augmenter les dégâts subis par la cible de toutes les sources de {p(damage_receive_debuff_amount)} pendant {c(damage_receive_debuff_duration)} tour(s).
+summoner_5_1_3~debuff_chance~0<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et affecter l'effet de {q(debuff_type)} à la cible pendant {c(debuff_duration)} tour(s). L'effet de {q(debuff_type)} inflige [{p(debuff_amount)} d'ATQ] dégâts à la cible à chaque tour.
+summoner_5_1_3~debuff_chance~1<>Infliger [{p(damage)} d'ATQ] dégâts à {q(target_position)} et avoir {p(debuff_chance)} chance d'affecter l'effet de {q(debuff_type)} à la cible pendant {c(debuff_duration)} tour(s). L'effet de {q(debuff_type)} inflige [{p(debuff_amount)} d'ATQ] dégâts à la cible à chaque tour.
+summoner_5_2_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_5_2_2<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour {q(target_position_2)}.
+summoner_5_2_3<>Augmenter {q(stat_1)} de {p(bonus_1)} pour {q(target_position_2)}.
+summoner_5_3_1<>Lorsqu'un allié attaque un ennemi, infliger {p(bonus_damage_receive)} dégâts supplémentaires à la cible si elle a été affectée par un effet de contrôle (étourdissement, endormissement, congélation, pétrification).
+summoner_5_3_2<>Au début de chaque tour ci-dessous: {c(round_trigger_list)}, diminuez {q(debuff_amount_1)} de {q(debuff_stat_1)} pendant {q(target_position)} dans {c(debuff_duration)} round (s).
+summoner_5_3_3<>Lorsqu'un allié effectue une attaque supplémentaire, cette attaque inflige {p(bonus_damage_extra_turn)} dégâts supplémentaires.
+summoner_5_4_1<>Augmenter {q(stat_1)} de {p(bonus_1)} et {q(stat_2)} de {p(bonus_2)} pour les alliés en position {s(target_number)}.
+summoner_5_4_2<>Augmenter {q(stat_1)} de {q(bonus_1)} pour {q(target_position_2)}.
+summoner_5_4_3<>À la {c(number_extra_turn_affect)}ème fois où un allié effectue une attaque en tour supplémentaire, cette attaque inflige {p(bonus_damage_extra_turn)} plus de dégâts et affecte l'effet de {q(effect_type)} à la cible pour {c(effect_duration)} tour(s).
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

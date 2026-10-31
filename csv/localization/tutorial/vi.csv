@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Xin chào mừng Bạn đến với Holy Alliance of Light Order - thành phố huyền thoại, nơi chứa đựng những phép thuật mạnh nhất hành tinh!
+npc_rename<>Vui lòng cho tôi biết tên của bạn!
+npc_summon_click<>Mời bạn đến với Trận Pháp Triệu Hồi!
+npc_summon_start<>Bây giờ hãy triệu hồi những Anh hùng đầu tiên của bạn!
+player_option1_1<>Được rồi!
+player_option1<>Tôi đã hiểu
+player_option2<>Chỉ cho tôi!
+player_option2_1<>Đó là cái gì?
+npc_basic_summon_info<>Triệu Hồi Cơ Bản - triệu hồi những hero từ 1 đến 5 sao
+npc_heroic_summon_info<>Triệu Hồi Cao Cấp - triệu hồi những hero từ 3 đến 5 sao
+npc_friend_summon_info<>Triệu Hồi Bằng Hữu - triệu hồi những hero từ 2 đến 5 sao
+npc_continue_campaign<>Tuyệt vời! Bắt đầu hành trình khám phá nào!
+npc_select_hero_formation<>Mời bạn lựa chọn Anh hùng xuất trận
+npc_formation_info_position<>Tuyệt vời! Hãy chú ý vị trí bị sát thương bởi đòn đánh thường sẽ theo thứ tự 1, 2, 3, 4, 5.
+npc_auto_battle<>Trận đấu hoàn toàn tự động. Anh hùng hồi phục thanh năng lượng sau mỗi đòn đánh thường.
+npc_summoner_power<>Thanh năng lượng của anh hùng đã đầy. Họ sẽ tung kĩ năng chủ động khi đến lượt
+npc_formation_change_position<>Bạn có thể thay đổi vị trí của các Anh hùng theo ý muốn
+npc_formation_buff<>Rất tốt! Lưu ý Anh hùng hàng sau sẽ được tăng Tấn Công, Anh hùng hàng trước sẽ được tăng Máu
+npc_summoner_battle_info<>Đây là Triệu Hồi Sư, người sẽ hỗ trợ các Anh hùng của bạn trong trận đấu. Lưu ý Triệu Hồi Sư sẽ không bị tấn công!
+npc_add_power_summoner<>Khi các Anh hùng tăng Nộ thì Triệu Hồi Sư cũng được tăng nộ. Thanh nộ đầy sẽ quy đổi thành 1 ngọn lửa.
+npc_summoner_skill<>Khi có đủ 5 ngọn lửa thì Triệu Hồi sư cũng sẽ tự động sử dụng kỹ năng
+npc_need_power<>Nhanh lên nào! Chúng ta cần thêm sức mạnh
+npc_what_black_smith<>Bạn đã biết về công dụng của trang bị chưa?
+npc_weapon<>Vũ khí để tăng sức tấn công.
+npc_armor<>Giáp để tăng máu và giảm sát thương
+npc_helmet<>Mũ tăng máu và chỉ số phòng ngự
+npc_ring<>Nhẫn tăng độ chính xác và khả năng tránh né
+npc_black_smith<>Trước hết, hãy chế tạo vũ khí
+npc_claim_black_smith<>Thật tuyệt vời! Bạn vừa nhận được 1 vũ khí rất lợi hại đấy
+npc_black_market<>Được rồi! Giờ đi tới Chợ Đen nào
+npc_buy_heroic_scroll<>Ở đây bạn có thể mua được những vật phẩm quý hiếm. Bây giờ bạn hãy mua 1 Cuộn triệu hồi Cao cấp đi!
+npc_claim_black_market<>Thật may mắn chúng ta đã có đủ tài nguyên để tiếp tục triệu hồi Anh hùng
+npc_continue_summon<>Tuyệt vời! giờ hãy tiếp tục triệu hồi những Anh hùng mạnh mẽ nào
+npc_equipment<>Chúc mừng bạn đã sở hữu 1 Anh hùng 5 sao. Giờ hãy tiếp tục trang bị vũ khí nào
+npc_continue_5<>Chúc mừng! Đội hình của bạn đã mạnh hơn.
+npc_continue<>Hãy thử sức mạnh mới của bạn! Tiếp tục hành trình nào
+npc_select_hero_continue<>Đừng quên đặt Anh hùng mới vào đội hình của bạn.
+npc_drag_hero<>Trong trường hợp này, hãy thử xếp Anh hùng ở hàng sau giúp để tăng thêm tấn công cho Anh hùng đó.
+npc_idle_reward<>Hãy lấy phần thưởng nào! Đội hình của bạn sẽ tự động chiến đấu và nhận phần thường theo thời gian. Rương phần thưởng chỉ chứa được tối đa %s giờ
+npc_upgrade_hero_success<>Tuyệt vời! Nhanh hơn tôi nghĩ. Tiếp tục nào, chiến hữu.
+npc_level_up<>Làm tốt lắm! Chúng ta đã có đủ tài nguyên để nâng cấp anh hùng. Hãy để tôi hướng dẫn bạn cách làm.
+npc_select_hero_upgrade<>Hãy chọn anh hùng này để nâng cấp.
+npc_continue_3<>Rất tốt! Tiếp tục cuộc hành trình thôi
+npc_stage_10<>Hãy cố gắng đi đến màn 1-10, phần thưởng là 1 Anh hùng 5 sao đang chờ bạn
+npc_list_tut<>Tôi đã chuẩn bị 1 danh sách để hướng dẫn bạn tiếp tục cuộc hành trình!
+npc_quest<>Đây là Cây Nhiệm Vụ, hoàn thành nó để nhận thưởng
+npc_quest_complete<>Thật tuyệt! Bạn đã hoàn thành nhiệm vụ
+npc_end_tut<>Chúc mừng bạn đã hoàn thành hướng dẫn, tôi hy vọng chúng ta sẽ còn gặp lại!
+npc_claim_hero_5star<>Chúc mừng! Bạn đã nhận được 1 Anh hùng 5 sao
+npc_go_evolve_summoner<>Tuyệt vời! Bây giờ bạn đã có thể tiến hóa Triệu Hồi Sư
+npc_5summoner<>Đây là tất cả Triệu Hồi Sư!
+npc_summoner_class_1<>Pháp Sư - Triệu Hồi Sư thiên về sức mạnh và miễn nhiễm hiệu ứng
+npc_summoner_class_2<>Chiến Binh - Triệu Hồi Sư thiên về phòng ngự và giảm sát thương
+npc_summoner_class_3<>Mục Sư - Triệu Hồi Sư thiên về hồi máu và hỗ trợ kháng khống chế cứng
+npc_summoner_class_4<>Sát Thủ - Triệu Hồi Sư thiên về sức mạnh, né tránh và sự chính xác
+npc_summoner_class_5<>Xạ Thủ - Triệu hồi sư thiên về tấn công vùng và dồn sát thương đối phương
+npc_switch_summoner<>Bấm vào đây để thay đổi Triệu Hồi Sư
+npc_end_summoner<>Bạn có thể chọn bất kỳ Triệu Hồi Sư nào tham gia vào trận chiến
+npc_buy_scroll_success<>Rất tốt! Bạn đang dần quen với game rồi đó. Đây là một món quà nhỏ dành tặng cho việc làm quen trò chơi của bạn.
+victory_battle_tut<>Một trận chiến thật hoành tráng phải không? Bạn sẽ được trải nghiệm những trận chiến như này trong game. Hãy cùng tôi bắt đầu hành trình khám phá nào!
+npc_please_summon_heroic<>Bây giờ hãy triệu hồi những Anh hùng đầu tiên của bạn!
+introduce_hero_summoned<>Xin chúc mừng! Bạn đã triệu hồi được một anh hùng 5* truyền thuyết. Anh hùng 5* truyền thuyết là anh hùng cao cấp nhất bạn có thể nhận được từ triệu hồi.
+asking_continue_tutorial<>Bạn đã triệu hồi được những anh hùng đầu tiên của riêng mình. Bạn có muốn tiếp tục hướng dẫn để tìm hiểu thêm về các cơ chế của game không?
+yes<>Có. Tôi muốn tìm hiểu thêm.
+no<>Không. Tôi đã quen với các thể loại game như thế này.
+npc_introduce_auto_battle<>Trận đấu hoàn toàn tự động. Anh hùng hồi phục thanh năng lượng sau mỗi đòn đánh thường.
+npc_introduce_summoner<>Đây là Triệu Hồi Sư, người sẽ hỗ trợ các Anh hùng của bạn trong trận đấu. Lưu ý Triệu Hồi Sư sẽ không bị tấn công!
+npc_let_battle_commence<>Bạn đã thiết lập xong đội hình. Giờ hãy xuất trận nào!
+npc_introduce_turn_mechanic<>1 trận đấu gồm 15 lượt. Bên tấn công sẽ giành chiến thắng nếu hạ toàn bộ anh hùng của đối thủ trong vòng 15 lượt.
+first_victory<>Xin chúc mừng! Bạn đã giành được chiến thắng đầu tiên. Hãy nhận những chiến lợi phẩm sau và cùng tôi tiếp tục hướng dẫn nhé!
+npc_idle_reward_1<>Hãy lấy phần thưởng nào! Đội hình của bạn sẽ tự động chiến đấu và nhận phần thường theo thời gian. Rương phần thưởng chỉ chứa được tối đa %s giờ.
+npc_idle_reward_2<>Bạn vượt được chiến dịch càng xa, thì càng có nhiều phần thưởng treo máy. Ngoài ra, hãy nâng cấp vip của bạn để tăng thời gian treo máy tối đa.
+npc_introduce_hero_upgrade_feature<>Đây là nơi bạn có thể kiểm tra thông tin về các anh hùng của mình. Bạn có thể lên cấp, nâng cấp sao và trang bị các vật phẩm để tăng sức mạnh cho anh hùng của mình.
+npc_introduce_four_equipment_slot<>Có 4 loại trang bị chính.
+npc_click_level_up<>Giờ, hãy nâng cấp độ cho anh hùng của bạn nào!
+congratulation_you_have_done<>Làm tốt lắm! Bạn đã hoàn thành phần hướng dẫn. Tôi tin rằng bạn có thể trở thành một triệu hồi sư vĩ đại. Hãy tiếp tục khám phá trò chơi theo cách của riêng bạn nhé!

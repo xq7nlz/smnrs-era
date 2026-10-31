@@ -1,0 +1,322 @@
+key<>value
+0<>Action exécutée avec succès
+1<>Désolé, une erreur s'est produite
+2<>Désolé, le serveur ne répond pas
+4<>Joueur introuvable
+5<>Données d'entrée non valides
+6<>Ressources insuffisantes
+10<>Désolé, cette fonction n'est pas prise en charge
+11<>Vous avez ajusté l'heure, veuillez la corriger.
+12<>Version client non valide
+13<>Nom du paquet invalide
+14<>Valeur invalide
+15<>Valeur invalide
+16<>Nombre de fichier csv incorrect
+17<>Fichier CSV inadéquat
+30<>Inscription confirmée
+31<>Ce compte a déjà été connecté sur un autre appareil
+32<>Les informations de connexion sont dupliquées. Veuillez vérifier.
+33<>Désolé, une erreur s'est produite
+34<>Veuillez vérifier votre mot de passe
+35<>Blocage du joueur confirmé
+36<>Désolé, l'ID du serveur n'est pas valide
+37<>Il manque un nom d'utilisateur au compte d'authentification
+38<>Veuillez vérifier votre mot de passe
+40<>Valeur existante
+41<>Le mot de passe d'authentification a été utilisé
+50<>Désolé, format de nom de joueur invalide
+51<>Le nom du joueur a été banni
+52<>Nom d'utilisateur existant
+53<>Le joueur a été bloqué
+54<>Le joueur a été débloqué
+55<>La liste des utilisateurs bloqués est pleine
+56<>ID Facebook du joueur existant
+57<>Apple ID existant
+58<>Désolé, nom d'utilisateur invalide
+65<>Désolé, une erreur s'est produite
+70<>La collection des héros est pleine
+71<>Ce héros a atteint le niveau maximum
+72<>Ce héros a atteint le maximum d'étoiles
+73<>Héros introuvable
+74<>Ce héros a été verrouillé
+75<>Matériel d'évolution invalide
+76<>Veuillez mettre ce héros au niveau maximum
+77<>Matériels insuffisants pour faire évoluer le héros
+78<>Le héros est actuellement en auto-entraînement
+80<>Récompense quotidienne reçue.
+85<>Impossible de démonter l'Autel
+90<>Fragments de héros insuffisants
+91<>Fragment de héros introuvable
+100<>Désolé, la conversion a échoué
+101<>Héros introuvable à convertir
+110<>Impossible d'acheter le Parchemin d'Invocation
+120<>Niveau d'article insuffisant
+121<>Le niveau d'article a atteint sa limite
+122<>L'article n'a pas été équipé
+123<>Article introuvable
+124<>Article inadéquat
+130<>Les achats en Aventure ont atteint la limite
+131<>Mode l'Aventure introuvable
+132<>Niveau l'Aventure insuffisant
+140<>Le héros a déjà rejoint le cachot
+141<>Le héros de le cachot est mort
+142<>Veuillez sélectionner au moins un héros
+143<>Boutique introuvable
+144<>le cachot fermé
+145<>Maximum 5 héros
+146<>Désolé, emplacement de héros invalide
+148<>Héros introuvable
+149<>Potion introuvable
+150<>L'étape de le cachot a atteint le maximum
+160<>Limite de niveau la Maîtrise atteinte
+161<>la Maîtrise verrouillé
+162<>Désolé, la réinitialisation a échoué
+163<>la Maîtrise a déjà été réinitialisé
+170<>l'invocateur choisi
+171<>Impossible de sélectionner la classe d'Invocateur
+172<>Impossible de sélectionner la compétence de l'Invocateur
+173<>L'étoile de l'invocateur a atteint son maximum
+180<>Impossible d'acheter plus de Pierre de Destin
+181<>Impossible d'acheter plus de Pierre de Fortune
+190<>Impossible de recevoir l'or
+200<>La limite d'achat a été atteinte
+201<>Étage maximum de Tour du Dragon atteint
+210<>Pas de quête pour rafraîchir
+211<>Impossible de modifier le verrouillage d'une quête.
+212<>Impossible d'annuler la quête
+213<>Impossible de démarrer cette quête
+214<>Quête introuvable
+215<>Ce héros a rejoint une autre quête.
+216<>Ce héros ne remplit pas les conditions de la quête
+217<>Impossible de terminer la quête de la taverne
+218<>La quête de la taverne est déjà terminée
+219<>Les quêtes de taverne ont atteint la limite
+220<>Impossible d'accélérer la quête de la taverne
+230<>Désolé, fonction verrouillée
+240<>Les emplacements d'auto-entraînement sont pleins
+241<>L'étape de la campagne a été limitée
+242<>Étape de la campagne introuvable
+243<>Étape de la campagne verrouillée
+244<>Veuillez choisir des héros de 1 à 3 étoiles
+245<>Veuillez sélectionner le héros pour l'entraînement
+246<>Niveau de campagne insuffisant
+250<>Ami existant
+251<>La demande a déjà été envoyée.
+252<>Liste d'ami pleine
+253<>Ami introuvable
+254<>Demande d'ami introuvable
+255<>Impossible d'espionner
+256<>Désolé, l'espionnage a échoué
+257<>Patron existant
+258<>le patron d'Ami introuvable
+259<>La différence de niveau est trop importante
+260<>Le nombre de raids a atteint la limite
+265<>Les points d'Ami ont atteint son maximum
+266<>Pas de point d'Ami
+270<>Vous avez atteint le nombre maximal d'envois de courrier
+271<>Courrier introuvable
+272<>Impossible de supprimer le courrier
+273<>Impossible d'obtenir des récompenses par courrier
+274<>Longueur du courrier non valide
+290<>Adversaire introuvable
+291<>Veuillez créer une équipe dans l'Arène
+292<>Le nombre d'achat des billets d'arène a atteint la limite
+300<>Enregistrement introuvable
+310<>Désolé, la conversation a échoué
+311<>Longueur de message de conversation non valide
+312<>Message de conversation introuvable
+320<>Vidéo de récompense introuvable
+321<>Limite de récompense vidéo atteinte
+350<>Le joueur a rejoint une autre guilde
+351<>Guilde introuvable
+352<>Vous venez de quitter une guilde, veuillez attendre %s minutes
+353<>La guilde est pleine
+354<>Membre de la guilde introuvable
+355<>Impossible de quitter la guilde
+360<>Nom de guilde invalide
+361<>Le nom de la guilde est déjà banni
+362<>Nom de la guilde existant
+363<>Désolé, description de guilde invalide
+364<>La description de la guilde a été interdite
+370<>Le niveau du Chef n'est pas suffisant
+371<>Désolé, la demande n'est pas encore terminée
+372<>Le nombre de Sous-chef est suffisant
+373<>Membre de la guilde déjà enregistré
+374<>Le nombre d'enregistrement de guilde a atteint la limite
+375<>Le don de guilde a atteint la limite.
+376<>Membre de la guilde inactif trop longtemps
+380<>Demande d'adhésion
+381<>La demande d'adhésion est pleine
+382<>Demande d'adhésion introuvable
+390<>Le niveau de construction de la guilde a atteint la limite
+391<>Veuillez attendre la fin de la construction.
+392<>Impossible de mettre à niveau le bâtiment de la Guilde
+393<>Le moulin de guilde n'a pas été construit
+394<>Impossible d'obtenir la ressource
+400<>Patron de guilde introuvable
+401<>Le Patron de la guilde a déjà été mis au défi
+402<>Impossible de défier le Patron de guilde
+403<>Impossible de sélectionner le Patron de guilde
+404<>Statistiques introuvables
+410<>le cachot de la Guilde défié
+411<>le cachot de la Guilde introuvable
+412<>Mode le cachot de la Guilde introuvable
+413<>le cachot de la Guilde fermé
+422<>Adversaire introuvable
+423<>Impossible de sélectionner la guilde adverse
+424<>Number member mismatched
+425<>Adversaire introuvable
+426<>Les chances d'attaque ont atteint la limite.
+427<>Unable to join due to not registering for guild war
+428<>Not participated
+430<>
+431<>L'enregistrement de la guerre de guilde a expiré
+450<>Quête introuvable
+451<>Impossible de recevoir la récompense de la quête
+452<>Désolé, le déverrouillage de la quête a échoué
+460<>Aucun article trouvé dans le magasin
+461<>Épuisé
+470<>Désolé, formation invalide
+480<>Avatar introuvable
+481<>Cadre d'Avatar introuvable
+490<>Tutoriel introuvable
+501<>L'E-mail de confirmation a atteint la limite
+502<>Le code de confirmation a atteint la limite
+503<>Le code de confirmation a expiré
+504<>Veuillez vérifier le code de vérification
+510<>La limite d'envoi d'e-mails est atteinte
+511<>La limite d'entrée du code d'e-mail est atteinte
+512<>Le code de validation de l'e-mail a expiré
+513<>Le code de validation de l'e-mail ne correspond pas
+514<>E-mail existant
+515<>Impossible d'envoyer le courrier
+516<>L'email a déjà été vérifié
+517<>Email introuvable
+518<>L'email n'a pas été vérifié
+600<>Pack d'achat introuvable
+601<>Désolé, transaction d'achat non valide
+602<>Le pack d'achat pour la première fois a expiré
+603<>Ce pack n'est pas disponible
+604<>Épuisé
+605<>L'achat a été traité
+606<>Désolé, cet achat n'est pas pris en charge
+607<>Transaction introuvable
+700<>Événement fermé
+701<>Événement introuvable
+740<>Récompense de l'événement de connexion reçue
+741<>Récompense de l'événement de connexion introuvable
+750<>Récompense de l'événement de festival introuvable
+751<>Récompense de l'événement de festival reçue
+752<>Les exigences relatives à l'événement de festival ne sont pas remplies
+760<>L'événement d'échange a atteint la limite
+761<>Désolé, l'échange a échoué
+770<>Récompense de classement d'Arène introuvable
+771<>Les exigences relatives à l'événement de classement d'Arène ne sont pas remplies
+772<>Récompense de classement d'Arène reçue
+780<>On ne peut pas tourner dans l'événement la Roue du Sort
+781<>On ne peut pas relancer dans l'événement la Roue du Sort
+782<>Limite de relance de l'événement la Roue du Sort atteinte
+783<>Événement la Roue du Sort complété
+784<>Aucune quête assignée dans l'événement la Roue du Sort
+785<>Événement la Roue du Sort non affecté
+786<>Événement la Roue du Sort inachevé
+262<>Le joueur est déjà plein d'amis
+414<>Vous avez terminé l'étape
+261<>Patron déjà vaincu
+60<>Le compte Google a été associé
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Guild war battle phase closed
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>Le nom de l'équipe n'est pas valide.
+656<>Le nom de l'équipe a été banni.
+657<>La description de l'équipe n'est pas valide.
+658<>La description de l'équipe a été interdite.
+660<>Ont déjà rejoint une équipe.
+661<>L'équipe n'a pas été trouvée.
+662<>Vous n'êtes pas dans une équipe.
+663<>Pas trouver ce joueur.
+664<>
+665<>Cette équipe se bat.
+666<>Cette équipe a atteint des membres à part entière.
+667<>Cette équipe a été dissoute.
+668<>Certains joueurs n'étaient pas prêts.
+670<>Ce joueur a déjà été invité.
+671<>Limiter le nombre d'invitations
+672<>L'invitation n'a pas eu lieu car l'équipe a été dissoute.
+673<>L'invitation n'a pas eu lieu car l'équipe a été dissoute.
+675<>La candidature pour cette équipe a été envoyée.
+676<>Limiter le nombre de candidatures.
+677<>
+678<>
+679<>
+680<>Prêt est en temps de recharge. Sois patient.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Nombre d'entrées au maximum
+669<>Pas assez de membres pour commencer.
+357<>Vous n'avez pas été dans une guilde.
+690<>Impossible de quitter l'équipe maintenant.
+151<>Vous manipulez trop vite. Rouvrez le jeu pour résoudre ce problème.
+654<>Ce joueur n'a pas sauvegardé sa formation
+686<>Ralentis, tu as changé de chef trop vite.
+616<>Vous n'avez pas encore choisi Hero ou Artéfact.
+1126<>Vous avez atteint le niveau maximum, vous n'avez donc pas besoin d'acheter de niveau.
+1152<>Vous n'avez aucune rotation.
+1151<>Vous n'avez aucune rotation.
+1153<>Vous avez atteint le nombre maximum de tours.
+742<>Impossible de réclamer cette récompense.
+1160<>Vous devez choisir un héros pour terminer l'achat.
+1163<>Vous devez choisir un article à réclamer.
+984<>Vous devez choisir un héros avant d'échanger.
+994<>Legacy Pass
+203<>Votre niveau n'est pas égalé pour assister à cet étage.
+1251<>Vous avez racheté la récompense maximale.
+1253<>Pas assez de ressources pour unir l'étoile.
+1262<>Complétez toutes les exigences à recevoir.
+125<>Déverrouiller quand le héros atteint 14 étoiles

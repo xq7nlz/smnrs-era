@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>The hero wearing this talent will block all damages in the first round of battle.
+10_2000201_1_2<>Basic attack of the hero wearing this talent has {1} chance to deal more {2} damage to enemies.
+10_2000301_1_2<>Active skill of the hero wearing this talent has {1} chance to execute target. This action happens once per battle. 
+10_2000401_1_2<>The hero wearing this talent has 1 time to prevent execution. If happens, this hero recovers himself {1} HP in that round.
+10_2000501_1<>The hero wearing this talent deals {1} more damage over time to enemies.
+10_2000601_1<>The hero wearing this talent, when he deals a critical hit, has {1} chance to apply silence effect to enemies.
+10_2000701_1<>The hero wearing this talent has {1} chance to cast an effect at the beginning of each rounds which helps him be immune to silence effect.
+10_2000801_1_2<>When attacking, the hero wearing this talent lowers the target's {2} by {1} in the attacking round.
+10_2000901_1<>When the hero wearing this talent performs a basic attack to target bearing a negative effect, he gives the target {1} less energy.
+10_2001001_1<>Active skill of the hero wearing this talent gives him {1} more energy.
+10_290401_1_2<>The hero wearing this equipment heals himself {1} HP at the beginning of round {2}
+10_290402_1_2<>At the beginning of battle, the hero wearing this equipment applies Burning effect to all enemies at the front line. Burning causes [{1} ATK] damage and lasts for {2} rounds. 
+10_290403_1_2_3<>The hero wearing this equipment deals more {2} damage and heals himself {1} HP when attacking enemies getting {3} effect.
+10_290404_1_2<>The hero wearing this equipment receives more {1} healing amount from allies. In addition, Poison effect applying to enemies increases {2} damage. 
+10_290405_1<>The hero wearing this equipment heals himself {1} HP (caculated from his base HP) when receiving removable buffs. This effect triggers once per round.
+10_290406_1<>The hero wearing this equipment heals himself {1} HP (caculated from his base HP) when attacking enemies getting Bleed effect.

@@ -1,0 +1,4 @@
+name,stat_buff_chance,stat_buff_type,stat_buff_amount,stat_buff_duration
+Labord_Passive2,1,1,0.02,3
+Labord_Passive2,1,1,0.04,3
+Labord_Passive2,1,1,0.06,3

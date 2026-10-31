@@ -1,0 +1,4 @@
+name,damage_target_position,damage_target_number,effect_dot_chance,effect_dot_type,effect_dot_amount,effect_dot_duration
+Murath_Passive2,30,1,0.3,11,0.3,3
+Murath_Passive2,30,1,0.3,11,0.5,3
+Murath_Passive2,30,1,0.3,11,0.7,3

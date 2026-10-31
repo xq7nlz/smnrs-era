@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50>%s 패치 노트: </size>\n\n1. 이벤트:\n- 보스 챌린지 (신규 버전)\n- 에이트리의 탑\n2. 월간 카드 조정\n3. 게임 최적화
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. 이벤트:\n- 보스 챌린지 (신규 버전)\n- 에이트리의 탑\n2. 월간 카드 조정\n3. 게임 최적화
+version_notice_next<>주의: 세부 사항은 개발팀 계획에 따라 변경될 수 있으며, 아래 정보는 100% 정확하지 않을 수 있습니다.\n\n1. 새로운 시즌 이벤트\n2. 게임 최적화
+version_notice_maintenance<>버전 %s 유지보수 안내\n\n최신 정보를 받으시려면 팬페이지와 디스코드 채널을 팔로우해주세요.\n\n참고: 유지보수 계획은 개발팀 사정에 따라 변경될 수 있습니다.
+notice<>통보
+tap_to_play<>눌러서 시작하기
+setting<>설정
+account<>계정
+id<>아이디
+summoner<>이름
+register_account<>계정 등록
+change_password<>비밀번호 변경
+switch_server<>서버 전환
+switch_account<>계정 전환
+email_verify<>이메일 복구
+game_version<>게임 버전
+close<>닫기
+closed<>닫았기
+sound<>사운드
+music<>음악
+graphic_quality<>그래픽 품질
+low<>저
+medium<>중
+high<>상
+language<>언어
+language_setting<>언어 설정
+password<>비밀번호
+enter_text<>친구의 아이디이를 입력하세요
+forget<>잊었습니까?
+do_you_want_restore<>복구 하고 싶습니까?
+register<>등록
+login<>로그인
+restore<>복구
+confirm_password<>비밀번호 확인
+cancel<>취소
+confirm<>확인
+new_password<>새로운 비밀번호
+confirm_new_password<>새로운 비밀번호 확인
+please_select_language<>언어를 선택하세요
+daily_checkin<>체크인
+mail<>메일
+friend<>친구
+shop<>상점
+main_character<>소환사
+mastery<>마스터리
+inventory<>가방
+hero_list<>영웅
+event<>이벤트
+daily_reward<>일간 선물
+checkin_progress<>%s를 체크인 과정
+reply<>대답
+claim<>획득
+mail_box<>우편함
+claim_all<>모두 수신
+system_mail<>시스템 메일
+player_mail<>플레이어 메일
+mail_empty<>빈 우편함
+received_applications<>요청 접수
+recommended_friend<>제출
+claim_and_send<>클레임 및 보내기
+friend_list<>친구 목록
+search<>검색
+friend_request<>친구 초대
+help_fight<>탐험합니다
+apply<>적용
+delete_all<>모두 삭제
+delete<>삭제
+scout<>염탐
+ranking_point<>랭킹 포인트
+ranking_reward<>랭킹 상품
+battle_reward<>전투 상품
+battle<>전투
+smash<>스매쉬
+preview<>미리보기
+auto_fill<>자동 선택
+disassemble<>해체
+heroese<>영웅
+ok<>동의
+yes<>네
+no<>아니요
+not_select_all_hero<>모든 영웅을 선택할 수 없습니다
+do_disassemble_hero_4_star<>%s보다 높은 스타의 영웅을 해체하고 싶습니까?
+you_need_select_hero<>영웅 한 명을 선택하세요
+do_you_want_disassemble<>해체하고 싶습니까?
+basic<>기본
+premium<>고급
+refresh<>재생
+time<>시간
+forge<>단련
+available_to_forge<>단련 가능
+weapon<>무기
+armor<>갑옷
+helmet<>모자
+ring<>반지
+rank_x<>랭크: %s
+season_ranking<>시즌 순위
+point<>포인트
+group_ranking<>그룹 랭킹
+score<>점수
+reward<>상품
+record<>기록
+defense<>방어
+choose_rival<>상대를 선택하세요
+change<>교체
+your_current_rank_x<>현재 순위: %s
+reward_will_sent<>다음 시간 후 상품이 전송됩니다
+reward_will_sent_x<>%s 후 상품이 전송됩니다
+wave<>차
+will_open_in<>시작:
+will_end_in<>종료:
+quick<>빠름
+secret_shop<>상인
+skip<>스킵
+buy<>구매
+primary_merchant<>소상인
+medium_merchant<>중상인
+senior_merchant<>대상인
+mysterious_merchant<>신비한 상인
+primary<>하급
+senior<>고급
+formation<>포메이션
+save<>저장
+material<>재료
+upgrade<>업그레이드
+skip_battle<>배틀 시킵
+back<>돌아가기
+front<>앞줄
+gallery<>갤러리
+linking<>링킹
+sort<>정렬
+level<>레벨
+star<>스타
+select_hero_altar<>해체할 영웅을 선택하세요
+replay<>리플레이
+reward_current_ranking<>현재 순위 상품
+hero_shard<>영웅 조각
+tap_to_close<>눌러서 닫기
+avatar<>아바타
+border<>테두리
+avatar_border<>아바타 및 테두리
+current_avatar<>현재 아바타 및 테두리
+select_avatar<>아바타를 선택하세요
+select_border<>테두리를 선택하세요
+world<>세계
+send<>보내기
+chat_option_1<>VIP 정보
+chat_option_2<>세계 채팅 차단
+chat_option_3<>길드 챙팅 차단
+chat_option_4<>모집 채팅 차단
+select_hero_battle<>전투에 참여하는 영웅을 선택하세요
+vs<>VS
+hero_info<>정보
+equip<>장비
+evolve<>진화
+skin<>복장
+level_to_max<>Lv.Max
+level_up<>업그레이드
+unlock_level<>%s 레벨 열기
+unequip<>장비 해제
+auto_equip<>자동 장비
+awaken<>재개
+switch_character<>소환사 전환
+exp<>EXP
+free<>무료
+free_x<>%s 무료
+summon<>소환
+summon_x<>%s 소환
+storage<>창고
+fragment<>조각
+artifact<>고물
+leaderboard<>랭킹
+quest<>미션
+damage_stat<>피해 수치
+notification<>통보
+spin_x<>%s 회전
+next_force_refresh<>재생:
+pack_of_item<>물품 꾸러미
+congratulation<>축하합니다
+smash_title<>당신은 몇 번이나 도전하고 싶습니까?
+select_heroes<>영웅을 선택하세요
+requirement<>요청
+start<>시작
+quest_refresh_in<>({1}) 미션이 {2} 후 초기화됩니다
+speed_up<>가속
+complete<>완성
+block<>차단
+unblock<>차단 해제
+send_mail<>편지를 보냅니다
+refresh_in<>이후 재생: %s
+remaining_attempts<>남은 전투
+challenge<>도전
+rename<>이름 바꾸기
+x_character<>%s 문자
+change_avatar<>테두리 및 아바타 바꾸기
+vip<>VIP 정보
+replace_hero<>영웅 교체
+select_your_hero<>당신의 영웅을 선택하세요
+please_select_hero_replace<>교체 영웅을 선택하세요
+convert<>전환
+lock_current_stat<>현재 속성 잠금
+upgrade_artifact<>고물 업그레이드
+select_material_artifact<>고물 재료를 선택하세요
+training_hero<>훈련
+to_complete_training<>모든 영웅들을 훈련하는 최대 시간
+select_item<>물품을 선택하세요
+map<>지도
+select_material_hero<>영웅 재료를 선택하세요
+select<>선택
+unlock_star<>%s 스트에 잠금 해제됩니다
+guild_application<>가입 신청 명단
+request_x<>%s 요청
+accept<>승인
+decline<>거절
+guild_foundation<>길드 설립
+recommended<>제안
+enter_guild_name_id<>아이디나 길드 이름을 입력하세요
+found<>만들기
+guild_content<>길드 활동의 선물을 받기 위해 길드를 새로 만들거나 기존의 길드에 가입할 수 있습니다
+member_x<>%s 멤버
+emblem<>상징
+info<>정보
+enter_guild_name<>길드 이름을 입력하세요
+enter_guild_info<>길드의 정보를 입력하세요
+recruit<>모집
+daily_boss<>길드 보스
+checkin<>체크인
+application<>가입 명단
+input_recruit_info<>당신의 모집 정보를 입력하세요
+kick<>내쫓기
+demote<>하급
+promote<>상급
+season_reward<>시즌 상품
+self_damage<>자기 살상:
+guild_damage<>길드 살상:
+level_boss_x<>보스 레벨: %s
+unlock_at_guild_x<>길드 레벨 %s 에서 잠금 해제
+current_reward<>현재 상품
+next_reward<>다음 상품
+guild_log<>길드 일기
+stage_reward<>스테이지 상품
+map_stage<>지도 {1}, 스테이지 {2}, 난이도 {3}
+need_input_code<>코드를 입력하세요
+need_input_mail<>계정을 복구하기 위해 이메일을 입력하세요
+input_code_fail<>무효 부호
+confirm_new_password_fail<>새로운 비밀번호 확인 실패
+need_input_new_password<>새로운 비밀번호를 입력하세요
+can_not_claim_reward<>받았습니다!
+max_buy_turn_daily<>최대 일간 구매 수량
+coming_soon<>커밍순
+limit_purchase_this_pack<>이 팩의 구매 한도에 도달했습니다
+member_kick_guild<>멤버이 길드에서 추방되었습니다
+failed_kick_member<>멤버을 내쫓을 수 없습니다
+login_current_account<>현재 계정 로그인
+member_role_changed<>멤버의 역할이 변경되었습니다
+guild_sub_leader_reached_limit<>사이드 리더의 수가 한도에 도달했습니다
+failed_change_member_role<>멤버의 역할 변경 실패
+input_password_failed<>비밀번호가 틀렸습니다
+input_user_name_failed<>사용자의 이름이 틀렸습니다
+enter_recruit_info_please<>채용정보를 입력하세요
+send_recruit_successful<>가입 요청을 성공적으로 보냈습니다
+fail_send_recruit_info<>가입 요청을 실패했습니다
+fail_get_data<>데이터 로드 실패
+fail_refresh<>재생 실패
+player_joined_guild<>플레이어가 길드에 가입했습니다
+guild_limit_member<>길드의 멤버 수가 한도에 도달했습니다
+need_permission_perform_action<>이 행동을 할 권한이 없습니다
+failed_get_dungeon_stage<>던전 데이터 로드 실패
+send_request_successful<>요청 송신 성공
+already_in_guild<>이미 길드에 있습니다
+please_enter_guild_name<>길드 이름을 입력하세요
+create_guild_success<>길드 설립을 성공했습니다
+create_guild_failed<>길드 설립을 실패했습니다
+upgrade_guild_success<>길드 정보 업데이트를 성공했습니다
+challenge_guild_dungeon_success<>길드 던전 도전 성공
+guild_description_invalid<>길드 설명이 틀렸습니다
+failed_challenge_guild_dungeon<>길드 던전 도전 실패
+guild_description_bad_word<>금지된 단어를 포함하는 설명입니다
+password_failed<>비밀번호가 틀렸습니다
+try_again_few_seconds<>잠시 후 재시도하세요
+need_input<>아이디나 길드 이름을 입력하세요
+insert_least_one_hero<>최소 영웅 한 명을 선택하세요
+change_success<>변경 성공
+email<>이메일
+code_verify<>인증 코드
+master_can_not_quit_guild<>길드 보스가 길드에서 나갈 수 없습니다
+sure_leave_guild<>당신은 확실히 길드를 탈퇴하고 싶으십니까?
+have_left_guild<>당신은 길드를 탈퇴했습니다
+need_level_mastery<>모든 마스터리를 %s 레벨로 업그레이드해야 합니다
+login_failed<>로그인 실패
+boss_died<>보스가 완전히 패배했습니다
+limit_level_x<>%s을(를) 초과하는 레벨 차이로 인해 공격할 수 없습니다
+continue_facebook<>페이스북으로 계속하기
+remove_friend_success<>삭제 성공
+do_want_delete_mail<>이메일을 삭제하고 싶습니까?
+can_not_claim_mail<>이메일 수신 실패
+send_success<>송신 성공
+claim_success<>수신 성공
+claim_send_success<>클레임 및 보내기
+can_not_claim_send<>수신하거나 송신할 하트가 없습니다
+do_want_delete_all<>모두 삭제하고 싶습니까?
+add_friend_success<>친구 추가 성공
+hero_in_arena<>아레나에 있는 영웅
+hero_in_training<>자동 교육에 있는 영웅
+require_level_x<>%s 레벨 요청
+help<>도움
+guild_name_contain_banned_word<>길드 이름이 유효하지 않았습니다
+guild_desc_contain_banned_word<>길드 설명이 유효하지 않았습니다
+selected<>선택했음
+not_enough_x<>%s 부족
+casino_shop<>소원의 상점
+altar_shop<>신사의 상점
+guild_shop<>길드 상점
+arena_shop<>경기장 상점
+want_to_buy<>이 아이템을 확실히 구매하고 싶습니까?
+require_tavern<>이 영웅은 미션의 요구를 충족하지 않았습니다
+require_hero_star_x<>%s 스타의 영웅 요청
+require_hero_faction_x<>%s진영의 영웅 요청
+require_hero_class_x<>%s 클래스 영웅 필요
+want_to_cancel_quest<>미션을 취소하고 싶습니까?
+want_to_speed_up<>당신은 미션을 가속하고 싶습니까?
+not_enough_equipment<>재료가 부족합니다
+noti_full_hero<>영웅 슬럿이 가득 찼습니다
+unlock_new_function<>새로운 기능
+reset<>리셋
+mastery_skill<>마스터리 스킬
+need_reset_main_mastery<>얼티밋 마스터리를 리셋하고 싶습니까?
+want_to_reset<>리셋하고 싶습니까?
+not_enough_resource<>자원이 부족합니다
+user_profile<>사용자 프로파일
+fanpage<>페이스 북 홈페이지
+go_to_fanpage_notice<>홈페이지로 이동하여 지원을 받을 수 있습니다
+want_to_switch_server<>서버를 전환하고 싶습니까?
+want_to_new_server<>이 서버에서 새로운 프로파일을 등록하고 싶습니까?
+want_to_clear_data<>데이터를 삭제하고 싶습니까?
+connecting_server<>서버와 연결 중
+init_service<>초기화…
+init_data_request<>데이터 초기화…
+init_resource_request<>자원 초기화…
+download_asset_bundle<>자원 다운로드…
+next_scout<>다음 염탐은: %s
+summoner_can_view<>소환사의 파벌은 다른 파벌처럼 여겨집니다
+require_stage_x<>스테이지{1} {2}-{3}을 완료하여 잠금 해제
+hero_info_max_level<>영웅은 최대 레벨에 도달했습니다
+daily_quest<>일간 미션
+hero_level_cap_to<>최대 영웅 레벨: %s
+bonus_class<>{1} 클래스에 보너스
+bonus_faction<>{1} 계에 보너스
+bonus_class_faction<>{1} 클래스 및 {2}계에 보너스
+free_gem<>무료 보석
+skill_enhance<>기술 향상
+level_cap<>레벨 제한
+how_many_purchase<>{1}의 수량을 입력하세요
+sell<>판매
+vip_full<>VIP레벨이 한도에 도달했습니다
+copy_to_clipboard<>클립보드에 복사하기
+player_blocked<>플레이어가 차단되었습니다
+hero_fragment_title_star<>{1} 스타의 영웅조각
+hero_fragment_faction<>{1} 스타, {2}진영의 영웅조각
+hero_fragment_name<>{1}의 조각
+hero_fragment_star<>{1} 스타의 영웅조각
+hero_fragment_star_faction<>{2} {1} 스타의 영웅조각
+hero_fragment_info<>영웅을 소환하기 위해 {1} 조각을 수집합니다
+artifact_fragment_title_1<>희귀한 고물 조각
+artifact_fragment_title_2<>신화적 고물 조각
+artifact_fragment_title_3<>전설적 고물 조각
+artifact_fragment_title_4<>전설적 (특별) 고물 조각
+artifact_fragment_title_5<>불면의 고물 조각
+artifact_fragment_title_6<>불면(특별)의 고물 조각
+artifact_fragment_info<>랜덤 고물를 소환하기 위해 {1} 조각을 수집합니다
+require_level_stage<>{2} {3}-{4} 스테이지 및 {1} 레벨 요청
+require_vip_or_stage<>VIP {1} 또는 {2} {3}-{4} 스테이지 요청
+require_vip_or_level_stage<>VIP {1} 또는 레벨 {2} 및 {4}-{5} 스테이지 요청
+achievement<>성과
+quest_tree<>미션 나무
+achievement_tittle_group_1<>링킹 파워
+achievement_tittle_group_2<>삶과 죽음
+achievement_tittle_group_3<>소환 전략
+achievement_tittle_group_4<>대단한 도전
+achievement_tittle_group_5<>기타
+quest_tree_tittle_group_1<>여정 시작
+quest_tree_tittle_group_2<>괴물 정복
+quest_tree_tittle_group_3<>무한한 도전
+completed<>완성
+player_already_show_info<>플레이어 정보가 보여지었습니다
+in_progress<>진행 중
+new_password_is_last<>비밀번호가 중복되었습니다
+new_password_failed<>새로운 비밀번호 확인 실패
+chat_delay<>%s 초 후 메시지를 다시 보내세요
+search_failed<>검색 실패
+need_input_friend_id<>친구 아이디를 입력해야 합니다
+send_failed<>송신 실패
+warning_send_mail<>%s초 후 보낼 수 있습니다
+mail_content<>메일 내용을 입력해야 합니다
+max_hero<>영웅 최대
+enough_hero_material<>영웅 재료가 부족합니다
+max_turn_bought<>구매수가 한도에 도달했습니다
+hero_max_star<>영웅 스타가 한도에 도달했습니다
+need_up_max_level<>영웅이 최대 레벨에 도달해야 합니다
+hero_is_training<>진행 중
+hour_x<>%s 시간
+min_x<>%s 분
+smash_reward<>스매쉬 상품
+refresh_x<>%s 후 재생:
+potion_1<>%sHP 회복
+potion_2<>%s 에너지 증가
+potion_3<>%sHP 및 %s 에너지 증가
+full_slot<>만원
+want_to_use_potion<>물약을 사용하고 싶습니까?
+day_ago_format<>{0} 일 {1} 시간 전
+hour_ago_format<>{0}시간 {1} 분 전
+min_ago_format<>{0} 분 {1} 초 전
+second_ago_format<>{0} 초 전
+tower_record_error<>레코드 리플레이 실패. 다른 전투를 해보세요
+require_vip_or_level<>VIP {1} 또는 레벨 {2} 요청
+reach_limited_pack<>이 팩이 한도에 도달했습니다!
+all_heroes_were_killed<>모든 영웅은 죽었습니다
+use_id_format<>포맷 ID를 대신 사용하세요
+guild_not_found<>길드을 찾을 수 없습니다
+recommend_guild_failed<>추천 길드를 표시하지 않았습니다
+have_just_joined_guild<>길드에 가입했습니다
+boss_changed_successful<>보스가 성공적으로 바꿨습니다!
+select_boss_failed<>보스를 선택할 수 없습니다
+challenge_guild_boss_successful<>길드 보스 도전 성공
+challenge_guild_boss_failed<>길도 보스 도전 실패
+guild_was_kicked<>당신은 길드에서 추방되었습니다
+check_in_successful<>체크인 성공
+restore_failed<>복구 실패
+play_record_failed<>레코드 엘러. 다른 것을 해보세요
+need_clear_previous_stage<>이전 스테이지부터 클리어해야 합니다!
+map_cleared<>완료
+no_video<>비디오가 지금 없습니다
+current_name<>현재 이름
+product_not_exist<>이 아이디가 존재하지 않습니다
+purchase_processing<>처리 중
+register_account_success<>계정 등록 성공
+new_pass_limit<>새로운 비밀번호는 %s 문제로 제한됩니다
+new_pass_special<>새로운 비밀번호는 특별한 문자를 포함합니다
+confirm_pass_fail<>새로운 비밀번호 확인 실패
+disconnect<>연결 안 됨
+dungeon_time_up<>던전이 닫혔습니다
+change_language<>언어를 %s로 변경하고 싶습니까?
+create_guild<>길드을 만들고 싶습니까?
+want_block<>차단하고 싶습니까?
+want_unblock<>차단 취소를 하고 싶습니까?
+want_delete_all_mail<>모두 메일을 삭제하고 싶습니까?
+want_refresh_tavern<>술집을 새로 짓고 싶습니까?
+remove_friend<>친구를 지우고 싶습니까?
+have_verified_email<>복구 이메일을 추가 했습니까?
+quit_game<>게임을 나가고 싶습니까?
+want_refresh_shop<>상점을 새로 만들고 싶습니까?
+all_hero_died<>모든 영웅들이 실패했습니다
+resend<>재발송
+input_code<>코드 입력
+noti_code<>한 메시지가 당신의 메일로 발송되었습니다!
+update<>업데이트
+raw_pack_1<>한줌의 보석
+raw_pack_2<>보석 더미
+raw_pack_3<>보석 파우치
+raw_pack_4<>보석 박스
+raw_pack_5<>보석 상자
+limited_pack_1<>주간 작은 팩
+limited_pack_2<>주간 중간의 팩
+limited_pack_3<>주간 큰 팩
+limited_pack_4<>주간 태양의 팩
+limited_pack_5<>주간 골드의 팩
+limited_pack_6<>월간 작은 팩
+limited_pack_7<>월간 중간의 팩
+limited_pack_8<>월간 큰 팩
+limited_pack_9<>월간 실버의 팩
+limited_pack_10<>월간 골드의 팩
+smash_many<>수량을 입력하세요
+events<>이벤트
+event_summon<>소환
+event_prophet_tree<>소원 나무
+event_arena<>아레나
+event_wheel_of_fate<>운명의 바퀴
+event_tavern<>술집
+event_collection<>수집
+event_exchange<>교환
+event_bundle<>번들
+event_hot_deal<>매력적인 우대
+event_prophet_tree_info<>고대 나무에서 소환 횟수를 완료하여 상품을 받습니다
+event_wheel_of_fate_info<>운명의 바퀴에서 필요한 회전 수를 완료하여 상품을 받습니다
+event_collection_info<>영웅 수를 요구대로 수집하여 상품을 받습니다
+event_tavern_info<>술집에서의 요구대로 미션을 완수하여 상품을 받습니다
+event_summon_info<>소환 전략에서 필요한 소환 횟수를 완료하여 상품을 받습니다
+event_arena_info<>아레나에서 필요한 수의 플레이를 완료하여 상품을 받습니다
+event_bundle_info<>이벤트 동안 한정판 팩을 구매하실 수 있습니다
+event_hot_deal_info<>이벤트 동안 한정판 팩을 구매하실 수 있습니다
+gate<>지도
+enemy<>적
+faction_restrain<>진영 구속
+faction_restrain_info<>진영을 구속하여 {1} 추가 피해를 가하고 {2} 정확도를 높입니다
+round<>차례
+invite<>초대
+name<>이름
+stock<>한계
+select_guild_logo<>당신 길드의 상징을 선택하세요
+member<>멤버
+master<>리더
+deputy<>사이드 리더
+guild_notice<>길드 공지
+season_end_in<>시즌 종료
+stage<>스테이지
+hall_of_fame<>명예의 전당
+floor<>층
+remove_all<>모두 제거
+enemy_team<>적팀
+go<>이동
+save_point<>저장 포인트
+next_stage<>다음 판
+attacker<>공격자
+defender<>방어자
+forge_equipment<>장비 단련
+upgrade_hero<>영웅 업그레이드
+summon_hero<>영웅 소환
+enter_redemption_code<>교환 코드를 입력하세요
+gift_code<>기프트 코드
+current_ranking<>현재 랭킹
+monthly_packs<>월간 혜택
+raw_packs<>보석 팩
+limited_packs<>한정 팩
+total_reward<>총 상품
+instant_reward<>인스턴트 상품
+weekly<>월간 카드
+monthly<>보석 카드
+premium_monthly<>프리미엄 보석 카드
+free_acquire_video_reward<>비디오 무료 보고 상품 받기
+limit_pack_per_week<>%s 팩/주 제한
+limit_pack_per_month<>%s 팩/월 제한
+lock<>잠금
+edit_lock_heroes<>잠금 선택권
+back_to_current<>현재
+mastery_name<>{2}의 {1}
+get_vip_point_to_reach<>달성하기 위한 %s VIP 포인트가 필요합니다
+remove<>삭제
+replace<>교체
+use<>사용
+add_one<>x1 추가
+add_ten<>x10 추가
+admin_mail<>관리자 메일
+moderator_mail<>운영 메일
+merchant<>상인
+enter_name_please<>이름을 입력하세요!
+enter_chat<>문자 입력
+chat<>채팅
+join<>가입
+please_wait_for_seconds<>%s 동안 기다려주세요
+max<>최대
+gold_mine<>금광
+friend_not_save_formation<>이 친구는 아직 분대가 없습니다
+not_enough_quest_refresh<>퀘스트 없음
+do_you_want_use_resource<>{1} {2} 사용하고 싶습니까?
+wanna_kick_member<>이 멤버를 내쫓고 싶습니까?
+special<>특별
+first_purchase<>당신을 위해
+account_limit_character<>계정은 {1} ~ {2} 자 사이 여야 합니다
+hero_food_moon_title<>달
+hero_food_sun_info<>광계 및 어둠 진영의 영웅을 진화하는 데 사용됩니다됩니다
+hero_food_sun_title<>태양
+hero_food_moon_info<>수, 화, 자연 및 심연 진영의 영웅을 진화하는 데 사용됩니다됩니다
+boss<>보스
+verify_email_success<>복구 이메일 추가 성공
+level_up_reward<>레벨업 상품
+no_tavern_quest<>무임무
+season_open_in<>시즌 열림:
+cleared<>끝났다
+claim_reach_level<>위탁 상품을 받아 요청 레벨을 도달합니다
+more_time_reach_level<>{2} 레벨에 도달하려면 {1} 이상 필요합니다
+claim_to_not_max<>한도에 도달하기 전에 위탁 상품을 받기를 잊지마세요
+to_reach_level_x<>{2} 레벨에 도달하려면 {1}가 필요합니다
+ranking_1<>강철 II
+ranking_2<>강철 I
+ranking_3<>청동
+ranking_4<>실버
+ranking_5<>골드
+ranking_6<>플래티넘
+ranking_top_11<>다이몬드
+ranking_top_1<>전설
+ranking_top_2<>전문가
+ranking_top_3<>도전자
+ranking_top_6<>마스터
+top_x<>{1} 톱
+top_x+<>{1}+ 톱
+top_x_x<>{1} 톱 - {2}톱
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>등급 미달
+version_outdate<>당신의 %s 버전이 오래되었습니다. 새로운 버전을 업데이트하세요
+role<>역할
+ago<>앞
+preload_resources<>자원 미리 다운로드
+download_resource_complete<>자원 로딩 완료
+load_user_data<>데이타 로딩 중
+start_game<>게임 시작
+under_maintenance<>서버가 유지보수 중입니다
+no_data<>데이타가 없습니다
+change_leader<>리더 바꿈
+set_as_leader<>리더 선택
+guild_member_list<>멤버 리스트
+confirm_change_leader<>{1}를 {2}로 설정 하시겠습니까?
+unblock_training_condition<>수집 후 영웅을 변경할 수 있습니다
+quick_battle<>속전속결
+quick_battle_info<>%s 분에 경험병 및 골드의 상품을 즉시 받을 수 있습니다
+monthly_reward<>월간 상품
+max_quick_battle_turn<>소전속결 제한 도달
+event_has_ended<>이벤트 종료
+archived<>성과
+more_items<>%s 다른 물품
+purchase_items<>물품 구매
+limited_pack_desc_1<>현명한 선택입니다
+limited_pack_desc_2<>이 선택이 당신의 명성을 높여 줄 것입니다
+limited_pack_desc_3<>이 선택은 놀라운 이익이 될 겁니다
+limited_pack_desc_4<>천재적인 투자입니다
+limited_pack_desc_5<>이 선택이 우승자의 영광을 가집니다
+limited_pack_desc_6<>재능한 정복자의 필요한 선택입니다
+limited_pack_desc_7<>전부 통숙권 큰 투자입니다
+limited_pack_desc_8<>이 투자의 큰 이익이 바로 볼 수 있습니다
+companion_buff<>동맹공명
+total<>합계
+when_you_login<>로그인 보너스
+claim_each_day<>%s 일의 매일
+day<>날짜
+speed_up_gold<>골드 가속화
+speed_up_hero_exp<>고대 물약 가속화
+speed_up_summoner_exp<>소환사 EXP 가속화
+speed_up_gold_info<>%s 시간의 골드 즉시 획득\n 캠페인 화면에서 활성화
+speed_up_hero_exp_info<>%s 시간의 경험치 의 즉시 획득\n 캠페인 화면에서 활성화
+speed_up_summoner_exp_info<>%s 시간 가치의 소환사 EXP를 즉시 획득\n 캠페인 화면에서 활성화
+all_received<>모두 수신
+attack_success<>공격 성공
+attack_fail<>공격 실패
+defense_success<>벙어 성공
+defense_fail<>방어 실패
+revenge<>복수
+hide<>숨기기
+season_end_reward<>시즌 파이널 상품
+champion<>우승자
+reward_area_end<>메일에 가서 상품을 받습니다
+go_to_mail<>메일에 가기
+arena_point_reset<>랭킹 포인트가 %s로 리셋됩니다
+rate_x<>%s 확률
+season_end<>시즌 종료
+highest_ever<>기록
+random_item_pool<>물품 리스트
+next_refresh<>강제 초기화:
+community<>공동
+guild_log_join<>{0} 길드 가입
+guild_log_leave<>{0} 길드에 탈퇴합니다
+guild_log_assign_leader<>{0}는 {1}에 길드 리더를 임명했습니다
+guild_log_assign_sub_leader<>{0}는 {1}에 길드 사이드 리더를 임명했습니다
+guild_log_kick_out<>{0}는 길드에서 추방되었습니다
+free_refresh<>무료 재생:
+flash_sale<>플래시 세일
+rate_title<>게임을 좋아합니까?
+not_rate_contain<>안 좋은 제험을 당해서 죄송합니다. 팬 페이지에서 피드백을 남겨주세요. 저희는 최대한 좋은 체험을 잘 해보도록 하겠습니다
+transaction_mail<>거래 메일
+weekly_packs<>주간 혜택
+subscription_packs<>월간 카드
+rate_content<>서머너즈의 시대 게임을 잘 체험해 밨습니까? 다섯 스타 평가부탁드립니다
+rate<>평가
+not_rate<>괜찮습니다
+go_to_fanpage<>팬 페이자로 옮기기
+notice_watch_ads<>동영상을 보고 상품을 받고 싶습니까?
+play_video<>동영상 보기
+init_proceed_failed<>현재 발주서가 당신의 아이디로 결재되지 못합니다. 아이디를 확인하고 재시도 하길 바랍니다
+start_free_trial<>%s 일 제험 무료
+trial_available<>무료 체험 활성에 감사합니다
+warning_flash_sale<>이 패키지 한번만 나옵니다. 이 기회를 놓칩니까?
+warning_download_data<>{1} MB의 데이터를 다운로드하세요. \n<color=#{2}>와이파이 사용 추천</color>
+not_enough_space_memory<>데이터를 다운로드하는 빈 공간이 없습니다. 계속 다운로드 하라면 %sMB 필요합니다
+retry<>재시도
+download<>다운로드
+event_login<>로그인 이벤트
+event_login_info<>이벤트 시 무료 상품을 받을 수 있게 로그인 하세요
+tip_1<>영웅을 리셋하거나 영웅을 진화 재료로 사용하면 해당 영웅을 레벨링하는 재료의 100 %와 룬 업그레이드하는 재료의 80 %가 반환됩니다
+tip_2<>주의! 낮은 별의 영웅들 (1-3)은 쓸모가 없습니다. 스타를 올려 주요 영웅에게 식량으로 만듭니다
+tip_3<>진화 시 영웅의 레벨 지수가 많이 증가할 것입니다
+tip_4<>아레나에서 가장 높은 순위에 도달하는 것을 노력하세요. 마스터리에서 엄청난 포인트를 받을 수 있습니다
+tip_5<>자동 훈련 제도는 3 스타 이하인 영웅의 레벨을 높이는 가장 좋은 방법입니다
+tip_6<>계정을 안전하게 유지하기 위해 계정을 등록하고 복구 이메일 추가하는 것을 잊지 마세요
+tip_7<>영웅을 리셋하거나 영웅을 진화 재료로 사용하면 해당 영웅을 레벨링하는 재료의 100 %와 룬 업그레이드하는 재료의 80 %가 반환됩니다
+notice_upgrade_stone_converting<>전환 돌을 사용하거나 업그레이드를 합니다
+day_only<>날짜
+login_event_progress<>%s 로그인 과정
+notice_switch_all_summoner<>소환사들을 다 바꾸시겠습니까?
+not_enough_point<>포인트가 부족합니다
+event_arena_ranking<>아레나 랭킹
+event_arena_ranking_info<>랭킹 포인트를 올려 상품을 받습니다. 이벤트 상품은 메일로 보내게 됩니다
+notice_reset_hero<>재설정시 반환되는 자원의 양은 당시 영웅 레벨에 따라 다릅니다
+guild_hall<>길드홀
+guild_hall_info<>길드 건물이 위치하고 길드 멤버들이 운영하는 장소입니다
+join_now<>지금 참여
+are_you_sure<>확실하시겠습까?
+registered_member<>멤버 등록
+phase_message_tittle<>길드 어시스트
+message_phase_1<>{2} 라운드에 참여하는 최소한 {1} 멤버가 필요합니다
+message_phase_2<>방어 포메이션이 없으니 {1}에 길드가 참여하지 못했습니다. \n 길드 리더 또는 사이드 리더만 방어 포메이션 형성 권한이 있습니다
+change_formation<>포메이션 변경
+change_defender<>방어 변경
+guild_leader_benefit<>길드 리더 또는 사이드 리더만 길드 전쟁 참가를 신청할 수 있습니다
+notice_evolve_hero_converting<>이 영웅은 전환 중입니다. 영웅을 진화하시겠습니까?
+unlock_previous_stage<>이전 단계 잠금 해제
+missing_join_stage<>길드 던전에 가입할 기회를 놓쳤습니다
+deal_damage_to_get_reward<>살상을 가하고 상품을 받습니다
+only_leader_can_change_boss<>길드 리더 또는 사이드 리더만 보스를 변경할 수 있습니다
+total_damage<>총 피해
+event_release_festival<>이벤트 릴리즈 축제
+event_release_festival_info<>이벤트 시 서버가 특정 플레이어 수에 도달하면 해당 서버의 모든 플레이어가 상품을 받을 수 있습니다
+player_join_server<>플레이어가 서버에 접속했습니다
+skip_batte<>배틀 스킵
+summoner_locked<>소환사 잠금 해제되지 않았습니다
+member_has_registered<>멤버이 등록되었습니다
+not_eligible_to_join<>가입할 자격이 없습니다
+guild_war_phase_1_name<>신청 단계
+guild_war_phase_2_name<>방어 설정 단계
+guild_war_phase_3_name<>전투 단계
+random_boss<>랜덤 보스
+try_time<>재시도
+check_out_defenders<>방어자 확인
+limited_pack_11<>6 월간 특별팩
+limited_pack_desc_11<>이 투자의 가장 큰 이익은 바로 볼 수 있습니다
+event_shop<>영혼 상점
+mission<>이벤트 미션
+exchange<>교환
+not_enough<>미달
+limit_x<>%s 한정
+soul_shop<>영혼 상점
+hidden_deal<>비밀 거래
+owned<>소유됬음
+guild_owned<>길드가 소유되었음
+not_in_guild<>당신은 길드에 없습니다
+new<>신규
+out_of_turn<>차례 끝
+event_exchange_1<>영웅 교환
+event_exchange_1_info<>미션를 완료하려면 필요한 수의 재료를 수집하여 영웅을 교환합니다
+event_exchange_2<>물품 교환
+event_exchange_2_info<>미션를 완료하려면 필요한 수의 재료를 수집하여 물품을 교환합니다
+event_exchange_3<>신비한 상인
+event_exchange_3_info<>신비한 상인으로부터 재미있는 물품을 구입할 수 있습니다
+profit<>이익
+tilion_nick_name<>베스트 힐러
+donate<>기부
+guild_donate_history<>길드 기부 역사
+defronowe_nick_name<>미친 암살자
+first_time_reward_desc<>첫 납급에 영웅을 받습니다
+first_time_reward<>첫 납금
+go_to_shop<>상점 가기
+guild_donate_help<>길드 기부지원
+guild_donate_title<>길드 기부
+starter_pack<>스타터 팩
+owned_x<>소유했음: {1}
+starter_pack_name_1<>장비
+starter_pack_desc_2<>AOE 피해 딜러
+starter_pack_desc_4<>원샷 원킬
+starter_pack_desc_3<>모든 적을 불 태우기
+extra<>혜택
+quick_battle_ticket_2_0<>{1}시간 - 골드 속도 향상
+quick_battle_ticket_2_10<>{1} 시간 - 경험 스피드업
+quick_battle_ticket_8_0<>{1} 시간 - 소환사 경험 스피드업
+event_type_20<>길드 미션 이벤트
+event_type_20_info<>트로피 골드와 트로피 실버 모두에서 완료해야 상품을 받을 수 있습니다
+hero_lock_in_inventory<>창고에서 영웅 잠금
+hero_in_guild_war<>영웅은 길드 전쟁에 있습니다
+require_vip<>VIP %s 요청
+received<>받았습니다!
+final_reward<>파이널 상품
+day_x<>%s일
+buy_item_quest_name<>아이템 구입
+event_server_open<>뉴 비긴닝 - 루키 미션
+item_loot<>아이템 룻
+done<>끝
+support<>서포트
+check_game_version<>게임 버전 확인
+check_game_logic<>게임의 유효성 확인
+check_game_resources<>게임 자원 확인
+check_resources_config<>리소스 구성 확인
+go_to_store<>상점 가기
+switch_all<>모두 전환
+server_open<>서버 오픈 >> 루키 미션
+login_summoner_era<>서머너즈의 시대 로그인
+login_facebook<>페이스북 계정 로그인
+login_google<>구글 계정 로그인
+login_apple<>애플 계정 로그인
+binding_summoner_era<>서머너즈의 시대 게정 연결
+binding_facebook<>페이스북 계정 연결
+binding_google<>구글 계정 연결
+binding_apple<>애플 계정 연결
+binded<>연결되었습니다
+noti_binding<>계정은 손님 계정입니다. 계정을 잃지 않도록 연결하세요.
+mail_verified<>복구 이메일 : %s
+min_donate_event_guild_quest<>최소 기부 {1} {2} 및 {3} {4}
+player_banned<>의심스러운 행동으로 인해 당신의 계정이 차단되었습니다. 자세한 내용은 고객 서비스를 연락하세요
+scroll_monthly<>스크롤 카드
+sale_off<>할인
+hot<>핫
+level_pass<>레벨 패스
+unlock_level_pass<>프리미엄 잠금 해제
+free_reward<>무료 상품
+premium_reward<>프리미엄 상품
+activated<>잠금 해제
+reward_claimed<>수신 상품이 없습니다
+summoner_exp<>소환사 EXP
+tap_to_claim<>눌러서 받기
+growth_pack_lock<>구매 후 지정된 수준에 도달하면 막대한 양의 귀중한 상품을 청구 할 수 있습니다
+noti_register<>신규 계정을 등록 하시겠습니까?
+skip_cut_scene<>컷 장면 스킵
+turn_on_cut_scene<>컷 장면 켜기
+select_hero_evolve<>%s를 진화시킬 영웅을 선택하세요
+noti_confirm_resource<>지금 이 리소스를 사용 하시겠습니까?
+noti_close_multi_evolve<>지금 탈퇴를 확인하면 다음에 영웅을 다시 채워야 합니다
+server_maintain_in_x<>서버 유지 관리는 %s에 구현됩니다
+empty_hero_evolve<>진화할 영웅을 선택하세요
+multi_evolve<>다중 진화
+potion<>물약
+collection_bag<>버프
+empty<>없음
+remaining<>나머지
+unpack_resources<>데이터 압축 해제
+choose<>선택
+hero_alive<>영웅은 아직 살아 있습니다
+hp_full<>영웅HP가 많습니다
+power_full<>영웅 파워가 강합니다
+guild_war_season_ranking<>길드 전쟁 시즌 순위
+guild_war_member_setup_progress<>등록된 멤버가 부족합니다
+guild_war_member_setup_successful<>길드 전쟁 등록 성공
+guild_war_setup_can_be_modified<>모든 포메이션이 설정되었습니다. {1} 전에 리더 및 사이드 리더만 변경할 수 있음. 모든 포메이션의 영웅 장비는 전투 중 변경이 불가능합니다
+swap_member_successful<>멤버 교체 성공
+ask_for_save_the_change_guild_war_defenders<>방어 포메이션을 변경했습니다. 변경을 저장 하시겠습니까?
+swap_member<>멤버 교체
+win<>승리
+your_guild_get<>길드가 %s를 받습니다
+min_hero_dead_requirement<>최소 %s 영웅이 살이 있는 승리
+max_round_requirement<>%s 라운드에 승리
+save_successful<>저장 성공
+power<>전투 파워
+point_gained<>포인트 받습니다
+not_enough_member_registered<>등록 멤버가 보족해서 참가 못했습니다
+guild_war_point<>길드 전쟁 랭킹 포인트
+guild_war_season_end<>길드 전쟁의 새로운 계절이 다가오고 있습니다. 새로운 적을 정복할 준비를 하세요.
+guild_war_register_notification<>캐슬 방어 포메이션이 누군가로 바뀌었습니다
+require_event_rate_up_point<>이벤트 포인트가 낮아 소환할 수 없습니다
+summon_rate_up<>소환 보장: %s
+guaranteed_requirement<>레이트업 이벤트 포인트
+guaranteed_requirement_describe<>이벤트 영웅을 받을 수 있습니다. 스크롤 또는 다이몬드로 프리미엄 소환을 사용할 때마다 1포인트를 받습니다. 포인트 바를 다 받으면 다음 소환은 영웅을 받은 것입니다. \n \n 포인트 바가 아직 완성하지 않아도 이벤트 영웅을 소환할 때 0로 리셋됩니다. \n \n 주의: 레이트업 이벤트 포인트는 독립적인 시스템입니다. 다른 이벤트 소환과는 상관없습니다.
+summoner_level<>소환사 레벨
+daily_packs<>일간 팩
+5_star_hero_reward<>5 스타 영웅 상품
+clear_stage_to_get_reward<>시즌 종료 후에 클리어 상품을 받습니다
+current_season_reward<>현재 시즌 상품
+artifact_fragment_title_7<>불후의 유물 (수 진영)
+artifact_fragment_title_8<>불후의 유물 (화 진영)
+artifact_fragment_title_9<>불후의 유물 (심연 진영)
+artifact_fragment_title_10<>불후의 유물 (자연 진영)
+artifact_fragment_title_11<>불후의 유물 (광 진영)
+artifact_fragment_title_12<>불후의 유물 (어둠 진영)
+guild_market<>길드 상점
+market_upgrade_describe<>업그레이드에 다음과 같은 자원이 필요합니다
+attack_log<>공격
+defense_log<>방어
+attack_count<>공격 차례
+special_offer<>특별 혜택
+master_blacksmith<>대장장이
+your_summoner_name<>소환사 이름 입력
+when_upgrade<>스탯 업그레이드
+material_refund<>재료 환불
+arena_pass<>아레나 패스
+daily_quest_pass<>일간 미션 패스
+arena_pass_desc<>아레나 패스 포인트는 아레나 참가를 통해 획득 할 수 있습니다
+daily_quest_pass_desc<>일간 미션 패스 포인트는 일간 미션 상품에서 얻을 수 있다
+has_not_skin<>이 영웅은 복장이 없습니다
+select_hero<>영웅 선택
+exit_guild<>길드 탈퇴
+event_golden_time_name<>추석 이벤트
+event_golden_time_desc<>메인 이벤트 기간 동안 플레이어는 캠페인 유휴 상품에서 랜턴 및 월병를수집합니다. 이벤트를 플레이하고 상품을 받으려면 사용하세요.\n 랜턴 및 월병는 추석 이벤트 통화입니다. 이벤트 기간 종료 후 사라집니다.
+event_feed_beast_name<>월병 잔치
+event_feed_beast_desc<>기린에게 월병를 줍니다.\n 모든 새로운 진화 형태의 독점 상품을 받습니다.
+event_gem_box_name<>보름달 밤의 보물
+event_gem_box_desc<>이벤트 기간에 상품을 축적합니다.\n 더 많은 랜턴, 더 많은 상품.
+feed<>먹이기
+source_money_type_180<>∙ 캠페인 유휴 상품\n ∙ 추석 특별 혜택\n ∙ 보름달 밤의 보물
+source_money_type_181<>∙ 캠페인 유휴 상품\n ∙ 추석 특별 혜택\n ∙ 페스티벌 체크인 ∙
+select_buff<>버프 선택
+drop_time<>이벤트 시작 후 13일
+golden_time_drop_info<>∙ 1 랜턴: 40초\n ∙ 1 월병: 240초
+event_midautumn_specialoffer<>추석 혜택
+event_midautumn_checkin<>페스티벌 체크인
+event_midautumn_exchange_name<>랜턴 교환
+event_midautumn_exchange_desc<>랜턴을 모으고 아래의 무제한 상품을 교환하세요
+no_limit<>제한 없음
+mid_autumn_offer_1<>럭키 랜턴
+mid_autumn_offer_2<>메리 월병
+mid_autumn_offer_3<>버밀리온 블룸
+item_exchange<>아이템 교환
+random_reward<>랜덤 상품
+not_own_this_skin<>이 복정을 소유하지 않음
+arena_pass_unlock_content<>특정 포인트에 도달할 때마다 상품을 잠금 해제하고 받을 수 있습니다.
+daily_quest_pass_unlock_content<>특정 포인트에 도달할 때마다 상품을 잠금 해제하고 받을 수 있습니다.
+popup_context_need_resource<>자원이 부족합니다. 더 수집하고 돌아오세요
+warning_you_need_more_resources<>자원이 부족합니다.
+town_center<>캐슬
+turret<>터릿
+event_golden_time_halloween_name<>할로윈 카운드다운
+event_golden_time_halloween_desc<>주사위과 호박을 수집하고 상품을 교환하세요. 할로윈 아이템은 이벤트 종료 후 사라집니다.\n이벤트가 종료되기 12시간 전에는 호박이 유휴 상자에서 더 이상 떨어지지 않습니다.
+source_money_type_210<>∙ 캠페인 유휴 상품\n ∙ 페스티벌 혜택\n
+source_money_type_211<>∙ 캠페인 유휴 상품\n ∙ 페스티벌 혜택\n ∙ {3}\n
+drop_time_halloween<>이벤트 시작 후 13일
+golden_time_halloween_drop_info<>∙ 10 호박: {0} (s)
+dice_title<>유령의 게임
+dice_guide<>수집 및 굴리기 주사위 - 멋진 상품을 받으세요.\n할로윈 미션에서 더 많은 정보를 찾아보세요.
+event_halloween_exchange_name<>악마 거래
+event_halloween_exchange_desc<>호박 놓치지 마세요. 할로윈에만 상품을 교환할 수 있습니다.\n {1}에서 수집하세요. 갖고 싶은 수많은 상품이 있습니다.
+halloween_daily_checkin<>페스티벌 체크인
+event_halloween_specialoffer<>페스티벌 혜택
+halloween_purchase_1<>잭 오 랜턴
+halloween_purchase_2<>예언의 주사위
+halloween_purchase_3<>죽음의 영혼
+roll<>롤
+lap_reward<>보너스 라운드
+lap_x<>랩 %s
+event_halloween_dice<>주사위 롤
+hallo_ween<>할로윈
+next_free<>다음 상품
+lap_completed<>랩 완료
+black_friday_remain_x<>카드 유효기간: %s
+black_friday_gem_pack<>블랙프라이데이샵
+event_card_black_friday<>블랙프라이데이 카드
+event_card_gem_pack<>보석 박스 교환
+black_friday_card_content<>7일 동안 매일 로그인하여 일간 상품을 받으세요
+black_friday_card<>블랙 프라이데이 카드
+black_friday<>블랙 프라이데이
+do_you_want_to<>사용 확인하세요
+reset_this_slot<>이 슬롯을 리셋하시겠습니까?
+raised_list<>예비 리스트
+raise_hero_describe<>예비 리스트에서 추천하고 싶은 영웅을 선택합니다. 그들의 레벨은 마이타 파이브의 가장 낮은 영웅의 레벨과 동일하게 올라갑니다
+describe_unbinding_raise_level<>이 슬롯에서 영웅의 바인딩을 해제하면 상승된 레벨이 원래 레벨로 되돌아갑니다. 예비 슬롯은 잠시 후 사용할 수 있습니다
+hero_in_pentagram<>영웅은 마이트 파이브에 속합니다
+hero_in_raise_level<>영웅은 예비 리스트에 있습니다
+hero_in_ancient_tree<>영웅은 고대 나무에 있습니다
+need_to_select<>영웅을 선택하세요
+same_hero_id<>이 영웅은 예비 리스트의 다른 영웅 아이디와 같습니다
+revert_to<>리셋
+binding_sungame<>바인딩 선게임
+login_sungame<>선게임 로그인
+open_slot_before<>이전 예비 슬롯을 여세요
+on_cooldown<>식히다
+unlock_slot_success<>추가 슬롯을 열었습니다
+tower<>타워
+defense_stage_reward<>인스턴트 상품
+failed<>실패
+success<>성공
+require_login_sungame_to_purchase<>게임을 로그인하고 거래를 할 수 있습니다
+event_shop_name<>과자 공장
+event_frosty_ignatius<>프로스티 이그나티우스
+event_exclusive_offer<>특별 혜택
+event_xmas_daily_checkin<>징글 벨 체크인
+event_golden_time<>선물 가득
+event_xmas_exchange_desc<>사탕 지팡이를 선물로 교환하세요
+xmas_purchase_1<>메리 크리스마스
+xmas_purchase_2<>졸리 크리스마스
+xmas_purchase_3<>멋진 크리스마스
+xmas<>크리스마스
+need_login_by_sungame<>선게임 계정으로 로그인해야 합니다
+binding_success<>바인딩 성공
+full_of_gift_name<>산타 클로스의 자루
+full_of_gift_desc<>산타 클로스의 자루를 열어 놀라운 선물을 받으세요.
+drop_time_xmas<>이벤트 시작 후 13일
+full_of_gift_drop_info<>3600 초마다 산타 클로스 자루 1 개가 떨어집니다
+reward_pool<>링딩동
+completed_level_x<>잘 했어! 레벨 패스 %s를 완료했습니다
+need_reload_data<>데이터를 다시로드해야 합니다
+need_set_formation_road_x<>적어도 하나의 영웅 도로 %s에 필요합니다
+wave_x<>웨이브 %s
+happy_new_year<>새해 복 많이 받으세요
+new_year_golden_time_name<>즐거운 순간
+new_year_golden_time_desc<>엽서를 모아 행운의 소원를 회전하고 슈퍼 상품을 받으세요. 방치 보상에서 엽서를 획득할 수 있습니다.
+drop_time_new_year<>이벤트 시작 후 13일
+event_new_year_card<>축복 카드
+new_year_remain_x<>다음 %s 일 동안 지속적으로 상품을 받게 됩니다
+event_new_year_card_content<>14일 동안 매일 로그인하여 일간 상품을 받으세요
+event_new_year_lottery<>행운의 소원
+event_new_year_exchange<>작년 이별
+new_year_golden_time_drop_info<>드롭에 대한 재사용 대기 시간 : %s 초 획득 할 수있는 최대 엽서는 유휴 상자의 최대 시간에 따라 다릅니다
+lottery_title<>행운의 소원
+source_money_type_230<>엽서
+event_ignatius_name<>격노
+event_ignatius_desc<>슈퍼 보스-프로스티 이그나티우스를 도전하여 가치있는 상품을 받으세요
+highest_damage<>최고 손상
+new_year_card_title<>축복 카드
+xmas_daily_checkin_title<>징글 벨 체크인
+event_xmas_golden_time_name<>선물 가득
+event_xmas_shop_name<>과자 공장
+hero_linking_description<>{0} 명의 영웅을 배치하세요
+select_hero_for_linking<>적절한 영웅
+friend_hero_support<>우정 지원 제안
+hero_linking_description_2<>최소 {1} 스타 이상의 영웅 {0} 명을 배치하세요
+time_to_move_x<>영웅을 전환하는 남은 시간:
+star_hero<>스타
+remove_hire_success<>링킹에서 영웅 제거 성공
+hire_success<>링킹에서 영웅 전개 성공
+my_support_hero<>지원 영웅 교환
+require_unique_hero_id<>업그레이드할 영웅을 선택하세요
+describe_hero_for_hire<>친구를 지원할 영웅을 선택하세요.
+require_at_least_one_your_hero_in_linking<>적어도 한 명의 영웅이 당신의 것이어야합니다
+data_updated<>데이터가 업데이트되었습니다
+feature_maintain<>기능은 유지 보수 중입니다
+hero_in_support_hero_linking<>이 영웅은 지원되는 영웅 목록에 있습니다
+hero_in_linking<>이 영웅은 연결 기능에 있습니다
+hero_support_for_friends<>당신의 지원 영웅 목록
+feature_available_in_s<>이 기능은 %s에서 사용할 수 있습니다
+chest<>상자
+loose<>패배
+event_lunar_new_year_login<>봄 새싹 따기
+event_lunar_new_year_login_title<>봄 새싹 따기
+lunar_path_dice_title<>번영 애비뉴
+lunar_path_dice_desc<>빨간 주사위는 첫 발걸음 미션에서 획득할 수 있으며 보석으로 구매할 수 있습니다. 빨간 주사위를 돌을 때마다 5 개의 호부을 얻고 길드는 이벤트 포인트 1 점을 얻습니다
+lunar_path_quest_title<>첫 발걸음 미션
+lunar_path_quest_desc<>기간 한정 미션를 완료하여 보너스 [빨간 주사위]를 받으세요. 미션는 이벤트 시간 동안 매일 초기화됩니다
+require_chap_boss<>%s레벨의 악마 추방 미션
+new_year_golden_time_title<>즐거운 순간
+event_lottery_title<>행운의 소원
+event_new_year_exchange_title<>작년 이별
+event_lunar_path_shop<>행인 상점
+event_lunar_path_exchange_name<>행운 상점
+event_lunar_path_exchange_desc<>호부을 모아 상품을 교환하세요. 선물은 악마 추방 레벨에 따라 정해집니다.
+event_lunar_path_quest<>첫 발걸음 미션
+lunar_new_year<>구정
+lunar_path_dice<>빨간 주사위
+lunar_new_year_path<>번영 애비뉴
+event_lunar_path_boss<>악마 추방
+event_lunar_path_boss_title<>악마 추방
+event_lunar_path_boss_desc<>악마와 싸우고 상품을 받으세요. 플레이어가 길드에 가입할 때만 악마와 싸울 수 있습니다
+finish<>끝
+event_lunar_new_year_exchange<>새뱃돈
+event_lunar_new_year_exchange_title<>새뱃돈
+event_lunar_new_year_exchange_desc<>레드 봉투로 선물을 교환하세요
+event_lunar_elite_summon<>엘리트 소환
+lunar_path_purchase_1<>부유 구정
+lunar_path_purchase_2<>평화 구정
+lunar_path_purchase_3<>번영 구정
+event_lunar_path_bundle<>봄 쇼핑
+golden_time_lunar_new_year<>봄 축제
+golden_time_lunar_new_year_name<>봄 축제
+golden_time_lunar_new_year_desc<>빨간 봉투를 모아 상품을 교환하세요. 빨간 봉투 많을수록 선물도 커집니다
+drop_time_lunar_new_year<>이벤트 시작 후 13일
+golden_time_lunar_new_year_drop_info<>1200 초마다 빨간 봉투 드롭.
+source_money_type_243<>캠페인 상품 획득
+free_summon<>무료 소환
+select_elite_summon_wish<>엘리트 소환 영웅 목록
+gem_summon<>남은 차례
+need_summon_more<>다음에 받을 보장
+event_lunar_new_year_bundle<>봄의 선물
+event_lunar_new_year_bundle_title<>봄의 선물
+event_lunar_new_year_bundle_desc<>이벤트 기간 동안 봄의 팩을 구입하여 귀중한 아이템을 얻으세요.
+summon_more_to_gain_reward<>한 번 더 소환하여 소원 상품을 받으세요
+valentine_checkin<>소개팅
+valentine_checkin_title<>소개팅
+valentine_checkin_des<>사랑을 놓쳐서는 안됩니다. 사랑의 선물을 받으려면 매일 로그인하세요.
+valentine_love_challenge<>큐피드의 도전
+valentine_love_challenge_title<>영원한 사랑
+valentine_love_challenge_des<>보스와 싸우고 사랑이 얼마나 강한지 보여주세요. 당신은 합당한 상품을 받게 될 것입니다
+valentine_store<>로맨틱한 선물
+valentine_store_des<>왜 이렇게 좋은 예쁜 선물을 구입하지 않으세요?
+event_valentine_open_card<>사랑 퀴즈
+event_valentine_open_card_title<>발렌타인
+event_valentine_open_card_des<>드래곤 부족의 여왕
+valentine<>발렌타인
+event_lunar_skin_bundle<>드래곤 부족의 여왕
+event_lunar_skin_name<>롱무 아릴
+select_wishing_reward_for_round<>먼저 %s 라운드에서 원하는 선물을 고르세요
+select_card_wish_list<>소원 리스트
+item_lock<>잠금 해제하려면 이전 챕터를 완료하세요
+unlock_round<>%s 라운드의 소원
+need_select_card_wish<>먼저 원하는 상품을 선택하세요.
+max_round<>사랑 퀴즈가 완료되었습니다
+item_not_select<>당신이 물품을 이미 받았다
+round_x_wishing_reward<>%s 라운드 리워드 목록
+select_round<>소원 리스트
+social_tab<>커뮤니티
+social_tab_title<>커뮤니티
+social_tab_des<>서머너즈의 시대와 함께 시간을 보내 주셔서 감사합니다. 최신 업데이트를 받기 위해 소셜 채널에 가입합세요. 엄청난 양의 활동과 선물이 여러분을 기다리고 있습니다.
+social_reward_desc<>우리의 커뮤니티를 방문하여 처음으로 %s 받을 수 있습니다
+can_not_claim<>자원이 악용되고 있습니다
+in_use_skill<>사용 중
+use_skill<>사용
+detail<>세부
+next_wave<>다음 웨이브
+stage_record<>플레이어의 제안
+wave_x_record<>웨이브 %s 결과
+need_upgrade_main_construction<>타워의 레벨은 캐슬의 레벨보다 높지 않습니다
+player_stage_record<>당신의 전쟁
+price_open_card_x<>열을 때 %s 가 필요합니다
+new_hero<>신규 영웅 환영
+new_hero_quest_2<>환영 미션
+select_hero_all_formation<>각 라인업에는 최소 한 명의 영웅이 필요합니다
+arena_team_shop<>기사 상점
+arena_desc<>단일 경기
+arena_3v3_desc<>팀 경기
+team<>라인업
+defense_your_team<>조정
+defeat<>패배
+victory<>승리
+do_you_want_save_formation<>당신의 팀을 저장하지 않았습니다. 저장하고 싶습니까?
+hero_in_arena_team<>영웅은 무지혜 아레나에 있습니다
+new_hero_bundle_title<>서포트 번들
+event_merge_server_quest_tittle<>점프 스타트 미션
+event_merge_server_quest_desc<>서버 병합 이벤트 동안 많은 활동과 선물은 여러분을 기다리고 있습니다
+merge_server_quest<>점프 스타트 미션
+merge_server_check_in<>7일 유나이트
+merge_server_checkin_title<>7일
+merge_server_exchange<>서버 병합 교환
+merge_server_bundle<>공급 패키지
+merge_server_accumulation<>누적 포인트
+event_merge_server<>서버 병합
+event_merge_server_accumulation_tittle<>누적 포인트
+event_merge_server_accumulation_desc<>점프 스타트 미션을 완료하고 유니언 포인트을 받고 상품을 받으세요.
+event_merge_server_exchange_title<>병합 서버 교환
+event_merge_server_exchange_desc<>이러한 물품은 신규 서버에 많은 도움이 될 것입니다
+new_hero_summon<>레전드 소환
+new_hero_spin<>매력의 사다리
+rose_spin<>매력의 사다리
+review_skin<>영웅 미리보기
+new_hero_checkin_title<>신규 영웅의 축복
+noti_binding_account<>오랫동안을 우리와 동행했으나 계정을 연결하지 않았습니다. 데이터 손실을 방지하려면 지금 계정을 연결하고 싶습니까?
+binding_account_now<>링크
+hero_food_faction_info_5<>화, 수, 자연 및 심연 진영의 영웅을 진화시킬 때 필요한 재료를 교체하는 데 사용됩니다됩니다
+hero_food_faction_title_11<>달 (수)
+hero_food_faction_info_11<>(수)의 영웅을 진화시키는 데 사용됩니다됩니다
+hero_food_faction_title_12<>달 (불)
+hero_food_faction_info_12<>(불)의 영웅을 진화시키는 데 사용됩니다됩니다
+hero_food_faction_title_13<>달 (심연)
+hero_food_faction_info_13<>(심연)의 영웅을 진화시키는 데 사용됩니다됩니다
+hero_food_faction_title_14<>달 (자연)
+hero_food_faction_info_14<>(자연)의 영웅을 진화시키는 데 사용됩니다됩니다
+hero_food_faction_title_15<>태양 (광)
+hero_food_faction_info_15<>(광)의 영웅을 진화시키는 데 사용됩니다
+hero_food_faction_title_16<>태양 (어둠)
+hero_food_faction_info_16<>(어둠)의 영웅을 진화시키는 데 사용됩니다
+regression<>해체
+regression_reward<>반환 자료
+event_merge_server_bundle_tittle<>공급 패키지
+event_merge_server_bundle_desc<>풀에서 2 개의 아이템을 선택하여 구매할 수 있습니다
+select_item_pool<>품목 목록
+select_x_item<>2 개 항목을 선택하세요
+confirm_regression<>이 영웅을 해체 하시겠습니까?
+evolve_invalid<>다중 진화를위한 영웅이 부족합니다
+device_not_support<>당신의 장치는 게임과 호환되도록 지원되지 않습니다
+not_register<>계정이 등록되지 않았습니다
+event_easter_egg<>부활절 이벤트
+easter_egg_check_in<>하나님의 선물
+easter_egg_checkin_title<>하나님의 선물
+easter_egg_bunny_card<>버니 카드
+event_easter_egg_bunny_tittle<>버니 카드
+event_easter_egg_bunny_desc<>레벨에 따라 보석, 티탄의 영혼 및 골드을 받게 됩니다. 선물은 %s 일에 매일 전송됩니다
+purchased<>구매했음
+easter_egg_limited_offer<>이카루스 부활절 토끼
+event_easter_limited_offer_tittle<>이카루스 부활절 토끼
+easter_egg_limited_offer_desc<>이카루스의 한정판 복정을 얻을 수있는 기회를 놓치지 마세요.
+easter_egg_hunt<>이스터 에그 수집
+easter_egg_break<>이스터 에그 스매시
+egg_hun_name<>이스터 에그 수집
+egg_hun_desc<>에그와 망치는 많은 활동을 통해 얻을 수 있습니다. 같이 수집하러 가자.
+egg_hun_drop_1<>- -1200 초마다 캠페인에 빠집니다\n - 아레나 및 지혜 아레나에서 모든 승리 후.\n - 모든 일간 미션를 통해.
+egg_hun_drop_2<>-100, 300 스테이지의 던전 통과.\n -모든 일간 미션를 완료하세요.\n -100 실버 에그 결합\n -이벤트 패키지에서.
+egg_hun_drop_3<>- 이벤트 일간 체크인 \n - 10 골드 에그 결합\n - 이벤트 패키지에서.
+hammer_drop_1<>- 200, 400 스테이지 던전 통과.\n - 아레나에서 {0} / 20 승리 할 때마다\n - 이벤트 패키지
+hammer_drop_2<>- 이벤트 일간 체크인 \n - 이벤트 패키지
+new_hero_quest_tittle_2<>환영 미션
+new_hero_quest_desc_2<>이벤트 활동에 대해 더 많은 장미를 받으려면이 미션를 완료하세요.
+new_hero_spin_2<>우주 정복
+new_hero_login_2<>신규 영웅 축복
+new_hero_bundle_2<>서포트 번들
+new_hero_collection_2<>공헌 상품
+new_hero_collection_tittle_2<>공헌 상품
+new_hero_collection_desc_2<>디아도라를 많이 수집할수록 더 많은 선물을 받습니다
+rose_spin_2<>우주 정복
+smash_egg<>스매시
+smash_egg_desc<>에그를 부수고 상품을 받으세요. 에그를 터치하여 받을 수있는 것을 볼 수 있습니다
+egg_combine<>에그 전환
+combine<>전환
+max_item_select<>최대 2 개의 풀목만 선택할 수 있습니다
+hero_in_other_feature<>영웅은 다른 기능에서 해체될 수 있습니다
+term_of_use<>이용 약관
+policy<>정책 참고
+welcome_back_login<>웰컴백 체크인
+welcome_back_login_title<>웰컴백 체크인
+welcome_back_quest<>리조이닝 미션
+welcome_back_quest_title<>로조이닝 미션
+welcome_back_quest_desc<>이 미션는 긴 오프라인 시간 동안 게임 변경 사항을 따라 잡을 수 있도록 지원합니다
+welcome_back<>웰컴백
+idle_reward<>유휴 상품
+noti_term_of_use<>동의를 클릭하면 이용 약관에 동의하는 것입니다. 그리고 귀하는 정책 노트를 깊게 읽었 음을 인정합니다
+cannot_purchase_in_pbe<>PBE 버전에서는 구매가 지원되지 않습니다
+new_hero_boss_challenge_3<>파워 콘테스트
+new_hero_boss_challenge_tittle_3<>파워 콘테스트
+new_hero_boss_challenge_desc_3<>하루에 처음 2 번 즉시 상품을 받게 됩니다. 특히 샤론은 보스에게 300 %의 데미지를 가하고 보스에게 50 %의 데미지를 받습니다
+new_hero_quest_3<>환영 미션
+new_hero_quest_tittle_3<>환영 미션
+new_hero_quest_desc_3<>미션를 완료하고 이벤트 활동의 에눌레의 블레이드를 받으세요.
+new_hero_login_3<>신규 영웅 축복
+new_hero_bundle_3<>서포트 번들
+new_hero_collection_3<>공헌 상품
+new_hero_collection_tittle_3<>공헌 상품
+new_hero_collection_desc_3<>샤론을 많이 수집할수록 더 많은 선물을 받습니다
+new_hero_exchange_3<>교환 블레이드
+event_new_hero_exchange_name<>교환 블레이드
+event_new_hero_exchange_desc<>에눌레의 블레이드을 사용하고 상품을 교환하세요
+new_hero_boss_leader_board_3<>명예 트로피
+welcome_back_bundle<>슈퍼 이익 패키지
+welcome_back_bundle_title<>슈퍼 이익 패키지
+claimable_reward_turn<>선물 전투
+new_hero_boss_leader_board_title_3<>명예 트로피
+new_hero_boss_leader_board_desc_3<>이 랭킹은 보스 에눌레에 가장 피해를 가하는 플레이어를 포함합니다
+chest_boss_challenge_damage_info<>한 전투에서 %s 피해를 가하고 상자를 받습니다
+birthday_check_in<>생일 체크인
+birthday_check_in_title<>생일 체크인
+even_birthday_golden_time_name<>많이 게임하고 많은 설물을 받습니다
+birthday<>생일 축하해요
+elune_journey<>해적 섬지도
+birthday_treasure_map<>보물찾기
+final_journey_reward<>소중한 보물상자
+complete_journey_x<>%s 방향을 완료하세요.
+goal_x<>보물 %s
+move<>텔레포트
+need_complete_one_more_journey<>하나 이상의 방향을 완료해야 합니다
+need_claim_previous_reward<>이전 목적지가 완료되어야 합니다
+new_hero_collection_4<>공헌 상품
+new_hero_collection_tittle_4<>공헌 상품
+new_hero_bundle_4<>서포트 번들
+new_hero_skin_bundle_4<>여름 파티
+event_new_hero_skin_bundle_1_data_4<>레낙스 여름 파티
+event_new_hero_skin_bundle_2_data_4<>에눌레 여름 파티
+new_hero_treasure_4<>해적 섬지도
+unlock_super_monthly_card<>당신은 프리미엄 보석 카드를 구매할 때 스페셜 선물을 받습니다
+birthday_bundle<>기념일 혜택
+event_birthday_bundle_1<>즐거운 생일
+event_birthday_bundle_2<>기억에 남는 생일
+birthday_check_wheel<>기적적인 회전
+birthday_exchange<>선물 교환
+confirm_stop_spin<>회전을 끝내고 선물을 바로 받고 싶습니까?
+event_birthday_exchange_title<>선물 교환
+event_birthday_exchange_desc<>상품을 교환하여 이벤트를 쉽게 참가할 수 있습니다
+skin_bundle<>복장 상점
+skin_bundle_view_43<>복장 콤보
+skin_bundle_view_44<>복장 소매
+stop<>중지
+spin<>회전
+noti_select_talent<>이 옵션을 선택 하시겠습니까?
+select_talent<>재능 옵션
+noti_refresh_talent<>이 모든 옵션을 갱신 하시겠습니까?
+treasure_completed<>보물 모험을 완료했습니다
+skin_bundle_1_desc<>구입 1 - 11 받음. 믿을 수 없어요!
+create_team<>스쿼드 만들기
+create<>만들기
+allowed_class<>이 클래스의 영웅만 사용할 수 있습니다
+your_team<>참가 영웅
+lobby<>로비
+invitation<>초대
+domain_chest_stage_x_name<>스테이지 %s
+domain_chest_stage_x_desc<>%s 단계를 완료하고 상품을 받습니다
+block_domains_team_chat<>팀 채팅 차단
+block_domains_recruit_chat<>채용 채팅 차단
+domains_team<>팀 채팅
+domains_recruit<>채용 채팅
+guild<>길드 멤버
+verify<>가입 신청
+noti_change_leader<>이 플레이어에게 리더 권을 주시겠습니까?
+noti_kick_member<>이 플레이어를 추방 하시겠습니까?
+disband<>팀해체
+noti_disband<>팀을 해체 하시겠습니까?
+enter_team_name_id<>팀 이름 또는 ID를 입력하세요.
+leave<>탈퇴
+ready<>준비
+unready<>준비 안됨
+noti_leave<>이 팀을 탈퇴하시겠습니까?
+domain_name_require<>팀 이름을 입력하세요
+domain_desc_require<>팀 설명을 입력하세요
+crew_disbanded<>당신의 팀은 해체되었습니다
+domain_leader_updated<>팀 리더가 변경되었습니다
+fast_create<>빠른 만들기
+default_team_desc<>우리 팀에 자유롭게 참여하세요!
+default_team_x<>팀_%s
+kicked_from_crew<>팀에서 쫓겨났습니다
+domain_challenge_over<>도전 성공
+domain_challenge_congrat<>잘했어요! 당신의 팀은 오늘 도전을 완료했습니다
+has_sent_to_mail<>상품이 우편으로 발송되었습니다
+synchronize<>동기화
+invitation_sent<>초대 받기
+beta<>베타
+replay_domain<>최근 경기 보기
+enter_domain_recruit<>여기에 당신의 팀에 대해 설명하세요
+hot_deal<>핫딜
+hero_in_domain<>영웅은 도메인에 있습니다
+party<>영웅 파티
+lose<>전투 패배
+equipped<>장비
+show_skin<>복장 표시
+hero_release_collection<>수집 미션
+hero_release_bundle<>신규 영웅 패키지
+event_hero_release_1<>정글의 시험
+hero_release_collection_tittle_1<>수집 미션
+event_hero_release_bundle_tittle_1<>신규 영웅 환영 번들
+feature_open_at_version_s<>이 기능은 %s 버전에서 열립니다
+feature_open_at_version_s_time_s<>이 기능은 %s 이후 버전 %s에서 열립니다
+event_hero_release_summon_1<>레전드 소환
+expire_in_s<>%s 후에 만료
+hero_release_collection_desc_1<>세르누너스를 소환하여 상품을 받으세요
+hero_release_daily_quest_tittle_1<>신규 영웅 축복
+instantly_get<>즉시 획득
+claim_daily<>일간 획득
+bonus_login_days_s<>%s 일 후 로그인 보너스
+hero_release_daily_quest<>이벤트 일간 미션
+subscription_packs_2<>루키 카드
+subscription_packs_3<>상인 카드
+subscription_packs_4<>황제 카드
+require_unready<>팀을 변경하려면 준비되지 않음을 클릭합니다
+summon_hero_release_reward<>보너스 상품
+rate_up<>높은 드롭률
+overview_hero_40004<>태어날 때부터 세르누너스는 항상 자신을 정글과 말족의 수호자로 간주했습니다. 그의 임무는 말 무리를 사냥꾼으로부터 안전한 피난처로 인도하는 것입니다. 전설에 따르면 숲에서 한동안 길을 잃은 불운한 사람들은 항상 세르누너스의 도움을 받습니다.\n 세르누너스는 그가 적중하는 각 적에 대해 공격력을 높입니다. 결과 세르누너스가 더 많은 적을 공격할수록 그는 더 강해집니다
+hero_release_overview<>영웅 이야기
+guild_season<>독립 시즌
+guild_grand_season<>그랜드 시즌
+guild_season_in_tab<>참가자
+guild_season_out_tab<>비참가
+guild_leader<>길드 리더
+guild_vice_leader<>사이드 리더
+random_name<>랜덤 이름
+delete_data<>데이트 다시 다운로드
+warning_delete_data<>데이터를 다시 로드하시겠습니까?
+first_Top_Up_Confirm_Choose_Reward<>1차 충전 보상
+overview_hero_50004<>여왕이 임신했을 때 그녀는 아들이 독수리처럼 용감하고 사자처럼 강하기를 바랐습니다. 신들은 그녀의 소원을 듣고 그것을 들어주었습니다. 그래서 태어난 소년 그림은 잘 생긴 어린 왕자가 아니라 반은 독수리, 반은 사자를 가진 괴물 같이 생겼습니다.\n 왕은 너무 실망하여 왕위 계승자 명단에서 그를 제거했습니다. 그림은 아버지와 별거를 하면서 자랐습니다. 드디어 그는 집에서 떠났습니다.\n 어느 날 그들의 왕국은 흑암의 군대에게 패배했습니다. 적들은 왕을 높은 성벽에서 떨어뜨려 처형했습니다. 다행히 그림이 갑자기 나타나서 아버지를 공중에 잡았습니다. 그는 여기저기 다니고 다른 왕국에 지원을 요청했습니다. 덕분에 흑암의 군대는 패배하고 철수할 수밖에 없었습니다.\n 아직 왕위를 물려받지는 못했지만 그림은 모두에게 사랑받았습니다. 그는 하늘 높이 치솟고 그의 날개 아래 모든 무고한 존재가 보호됩니다.
+hero_release_daily_quest_tittle_2<>천국의 축복
+hero_release_collection_tittle_2<>신선 우아함
+event_hero_release_bundle_tittle_2<>신의 힌트
+event_hero_release_summon_2<>레전드 소환
+event_hero_release_2<>천국의 으르렁
+first_top_up_content_2<>지금 납금하고 상품을 받으세요!
+first_top_up_content<>보너스를 선택하세요
+first_top_up_main<>1차 충전 보상
+hero_release_collection_desc_2<>그림 획득 시 보너스 선물 받기
+Border_Limited_Duration<>%s일 후 만료
+first_top_up_reward_confirm<>최초 구매 상품은 재선택할 수 없습니다. 이 선물을 선택하시겠습니까?
+reset_talent_confirm<>재능을 리셋하시겠습니까?
+reset_talent<>초기화
+change_crew<>리더 변경
+crew<>리더
+crew_promote<>교환
+you_are_new_crew<>당신은 리더가 되었습니다
+first_top_up_content2<>아래와 같이 추가 상품을 받게 됩니다
+selected_hero<>선택됨
+customizeble_bundle_1<>맞춤형 팩
+customizeble_bundle_2<>플래티넘 맞춤형 번들
+select_2_reward<>2개 물품을 선택하세요
+sold_out<>솔드아옷
+customize_packs<>맞춤형 팩
+selected_2_rewards<>2개 물품을 선택하세요
+select_2_rewards_before_purchase <>원하는 물품을 먼저 선택하세요
+flash_sale_new_13<>웰컴백
+flash_sale_new_14<>소환사 패키지
+flash_sale_new_15<>비밀 패키지
+flash_sale_new_16<>업그레이드 패키지 1
+flash_sale_new_17<>소원돌 패키지
+flash_sale_new_18<>운명돌 패키지
+flash_sale_new_19<>업그레이드 패키지 2
+buy_stock_remain_x<>구매 잔량 %s
+will_get_item<>당신은 얻을 것이다
+auto<>자동
+popup_confirm_auto_next_battle<>이 기능을 사용할 것인지 확인하세요! 당신이 전투를 잃을 때까지 기능은 중지됩니다
+auto_next_battle_off<>자동 다음 단계가 꺼져 있습니다
+auto_battle_end_in<>스테이지 {1} {2}-{3}은(는) {4} 후에 자동 바뀝니다
+button_auto_next_formation<>자동 다음 단계
+event_hero_release_3<>신규 영웅
+hero_release_daily_quest_tittle_3<>레드 챌린지
+hero_release_collection_tittle_3<>고용 계약서 보너스
+event_hero_release_bundle_tittle_3<>신성한 불의 호의
+hero_release_collection_desc_3<>모블린을 수집하고 보너스 상품을 받으세요.
+event_hero_release_summon_3<>레전드 소환
+auto_battle<>자동 전투
+overview_hero_20008<>모블린은 고블린의 힘을 과시하고 싶어하는 작은 소인입니다. 힘을 찾는 여정에서 고블린은 길 잃은 코끼리를 만나고 외로운 삶을 사는 2명이 소울 메이트가 됩니다. 모블린은 코끼리의 이름을 판토라고 지었습니다.\n 신은 사람을 실망시키지 않고 시련과 고난의 여정을 겪으며 모블린은 불의 신과의 계약과 훈련을 통해 힘을 얻었습니다. 그러나 사람들은 불장난은 하지 말라고 했다, 불의 신은 역저주를 계약에 넣었습니다. 원래 그는 고블린을 열등한 종족으로 생각하고 고블린을 좋아하지 않았기 때문입니다.\n 저주 때문에 모블린은 육체적, 정신적 고통을 겪었습니다. 판토는 힘이없고 도울 수 없었습니다. 모블린인 그의 소울 메이트 옆이 있을 수밖에 없었습니다. 저주는 수십 년 동안 지속되었으며, 모블린과 판토가 싸운 수년이기도 했니다. 판토는 불의 신에게 가서 모블린을 구하기 위해 그에게 저주를 받겠다고 자원했습니다. 불의 신은 승인했고 판토는 선사 시대 매머드와 같은 사악한 형태를 취했습니다. 그러나 판토의 인간성은 모블린의 진실한 우정이 판토의 영혼을 부패에서 ​​구했기 때문에 남아 있습니다. 결국 두 친구는 여전히 함께였고 새로운 땅을 계속 여행하고 있습니다.
+bundle_battle_pass_level<>레벨 구매
+purchase_battle_pass_level_1<>1 레벨
+purchase_battle_pass_level_2<>5 레벨
+purchase_battle_pass_level_3<>10 레벨
+battle_pass<>배틀 패스
+battle_pass_level<>배틀 패스 레벨
+battle_pass_purchase_level<>레벨 구매
+battle_pass_title<>배틀 패스
+unlock_battle_pass_1<>배틀 패스 번들
+unlock_battle_pass_2<>프리미엄 배틀 패스 번들
+battle_pass_tab_quest_title<>미션
+button_battle_pass_reward_preview<>상품 미리보기
+button_battle_pass_unlock_premium<>프리미엄 배틀 패스 번들
+battle_pass_claim_all<>모두 획득
+battle_pass_tab_reward_title<>상품
+battle_pass_time_end<>%s 후에 시즌 종료
+button_battle_pass_unlocked_premium<>프리미엄 배틀 패스 잠금 해제
+preview_battle_pass_reward<>배틀 패스 상품
+unlock_premium<>프리미엄 배틀 패스 번들
+week<>주
+battle_pass_unlocked<>배틀 패스가 잠금 해제되었습니다
+confirm_free_battle_reward<>배틀 패스 상품
+confirm_battle_pass_reward<>배틀 패스 상품
+claim_confirmed_battle_pass<>사용 가능한 상품 받기
+confirm_premium_reward_battle_pass<>프리미엄 배틀 상품
+battle_pass_cannot_purchase_level<>최대 레벨에 도달했습니다
+confirm_free_reward_battle_pass<>무료 상품
+overview_hero_60004<>카로스는 사원 한가운데에 조용히 앉아 있습니다\n 사실, 그는 주변에서 이 극도의 침묵을 마지막으로 느낀 것이 언제인지 기억하지 못했습니다. 카로스는 인간이 신의 존재를 처음 알게 된 날부터 고대 신의 사제로 선택되었습니다. 그는 인간에게 신의 메시지, 예언, 무서운 경고의 말씀을 전하는 것을 도왔습니다. 인간들이 그의 말을 듣고 무릎을 꿇고 두려움에 떨고 있는 장면을 볼 때마다 그는 권력에 탐났고 권력에 더욱 굶주렸습니다. 어쩌면 탐욕이 너무나 커집니다. \n 권력을 뽐내기 위해 고대 신의 지시 없이 역병, 전쟁, 재난에 대한 거짓 예언을 퍼뜨리고, 수놓은 악몽으로 세상을 뒤엎었습니다.\n 고대 신은 카로스가 등 뒤에서 무엇을 하고 있는지 발견했을 때 카로스의 사제로서의 선물을 빼앗기로 결정했고 더 이상 신의 목소리를 들을 수 없었습니다. \n 카로스에 대한 믿음에 배신당한 것을 알게 된 후 인간은 신전과 사제를 버렸고 잊혀진 땅으로 무너지게 내버려 두었습니다.\n 아니요. 나 자신을 잊게 둘 순 없어!\n 그런 각오로 카로스는 그의 옛 주인의 가면과 흑마법의 홀을 쓰고 한때 섬기던 신처럼 인류에게 고통과 분노와 죽음의 악몽을 심어주기 위한 여행을 떠납니다
+hero_release_daily_quest_tittle_4<>다크 챌랜치
+event_hero_release_bundle_tittle_4<>신비 상점
+hero_release_collection_tittle_4<>블랙 파워
+hero_release_collection_desc_4<>카로스를 수집하고 보너스 상품을 받으세요.
+event_hero_release_4<>신 사기꾼
+event_hero_release_summon_4<>레전드 소환
+starter_pack_new_23<>기어 팩
+starter_pack_new_24<>소환사 팩
+starter_pack_new_25<>영웅 팩
+starter_pack_choose_hero_noti<>이 팩에서 구매할 영웅을 선택하세요!
+starter_pack_sold_out<>구매한 팩입니다
+first_top_up_choose_from<>아래의 %s 상품 중 하나를 선택하세요.
+first_top_up_desc<>이러한 상품은 구매 시 보너스입니다
+first_Top_Up_Confirm_Choose_Reward_New<>이 선물을 선택하시겠습니까?
+free_gem_title<>무료 보석
+free_gem_details<>광고를 무료로 시청하고 보석 무료 받습니다
+or<>또는
+create_new_account<>전자지갑에 연결하여 웹 사이트에 가입하세요
+instant_unlock_ten_level<>즉시 10 레벨업
+special_event<>시간 제한 미션
+preview_reward<>상품 미리보기
+reward_info<>모든 광고를 마친 후 수신
+noti_next_battle_pass<>지난 시즌의 남은 경험치 %s회가 이번 시즌으로 이월됐다
+limit<>한계
+out_of_buy_level_by_gem_time<>보석으로 구매할 수 있는 횟수가 한도에 도달했습니다
+buy_level_buy_gem<>보석으로 구매 레벨
+select_artifact<>고물 선택
+available_artifact<>고물 사용 가능
+select_an_artifact<>고물를 하나 선택해야 합니다
+overview_hero_10011<>소용돌이치는 소용돌이가 인간의 발자취를 가로막는 심해 한가운데, 문명이 발달한 섬이 존재합니다. 그리고 그 섬은 제로님이 이끄는 백상어이라고 족에 속합니다.\n 오세왕의 아틀란티스에 살았던 제로님의 백상어족은 왕국의 번영을 위해 헌신했습니다. 한편, 포세이도니스 시의 해적들은 항상 아틀란티스의 소유물을 노리고 유혈 약탈을 촉발할 준비가 되어 있습니다. 아틀란티스에 대한 충성스러운 백상어족는 잔인한 해적과 싸우기 위해 자신을 희생해도 두려워하지 않았습니다. 제로님과 일족의 전사들은 수많은 해적들을 무찌르며 영웅적으로 아틀란티스를 지켰지만 대가가 너무 비쌌습니다. 백상어는 끊임없이 해적들에게 사냥당하고 있었습니다. 왜냐하면 수많은 해적들도 제로님과 전사들의 힘 앞에서 죽었기 때문입니다. 오랜 세월이 흘렀고, 백상어는 소수의 정예 전사와 소수의 주민만이 용의 성채에 살고 있습니다. 오세왕은 너무 상심했고 백상어족의 마지막 후손을 보호하기 때문에 제로님에게 주민들을 아틀란티스에서 멀리 떨어진 곳으로 데려가라고 명령했습니다. 제로님은 처음에는 동의하지 않았지만 결국 왕의 명령에 따랐습니다. 떠나기 전에 제로님은 ​​오세 왕께 제가 더 강해지면 돌아갈 겁니다. 그때 제가 당신과 함께 아틀란티스를 더 좋은 곳으로 건설할 것입니다라고 말했습니다
+hero_release_daily_quest_tittle_5<>해양 도전
+event_hero_release_bundle_tittle_5<>해양 지원
+hero_release_collection_tittle_5<>바다의 보물
+hero_release_collection_desc_5<>제로님을 수집하고 보너스 상품을 받으세요.
+event_hero_release_5<>상어의 턱
+event_hero_release_summon_5<>레전드 소환
+event_grow_up<>소환사 경로
+new_server_grow_up<>소환사 경로
+event_campaign_boot<>캠페인 부트캠프
+new_server_campaign_boot<>캠페인 부트캠프
+new_server_campaign_boot_desc<>모든 미션을 완성하고 상품을 받습니다
+event_arena_boot<>부트캠프 아레나
+vip_treasure<>VIP 보물
+new_server_vip_treasure<>VIP 보물
+new_server_vip_treasure_desc<>VIP 패스 레벨을 올리고 독점 선물을 받으세요
+event_spin_new_server_week<>매직 스핀
+have_no_done_quest_to_claim<>모든 미션를 완성해야 합니다
+new_server_arena_boot<>명예의 전당
+new_server_arena_boot_desc<>상품은 %s 후 메일을 통해 발송됩니다
+ended<>만료되었습니다
+server_open_week_arena_point<>%s포인트
+week_spin_available_dice<>사용 가능한 스핀:
+new_server_week_spin<>매직 스핀
+server_week_spin_not_available<>스핀이 없습니다
+ranking_NA<>순위가 없습니다
+new_server_grow_up_desc<>레벨이 높을수록 더 많은 선물을 받습니다
+claim_all_desc<>모든 미션를 완성하보세요.
+reach_level<>레벨 %s
+select_item_server_week_bundle<>%s 개 물품을 선택하세요
+black_friday_purchase_1<>작은 혜택
+black_friday_purchase_2<>중간 번들
+black_friday_purchase_3<>거대한 팩
+event_black_friday_bundle_pack<>최상의 거래
+event_new_server_week_login<>체크인
+event_daily_black_friday<>체크인
+black_friday_gem_pack_desc<>보석을 사용하고 상품을 교환합니다
+event_bundle_new_server_week<>지원 번들
+select_hero_fragment<>영웅 선택
+available_hero_fragment<>영웅 리스트
+server_open_week_no_arena_point<>평가할 점수가 부족합니다
+choose_arena_chest_reward<>상품 선택
+selected_item<>선택한 보물 상자
+max_item_limit<>최대 수를 초과했습니다
+hero_release_daily_quest_tittle_6<>원시 임무
+event_hero_release_bundle_tittle_6<>드래곤 에그
+hero_release_collection_tittle_6<>드래곤 선물
+hero_release_collection_desc_6<>프라그닐을 수집하고 보너스 상품을 받으세요.
+event_hero_release_6<>신규 영웅
+event_hero_release_summon_6<>레전드 소환
+overview_hero_20009<>야생 시대로 돌아가기, 인류와 용족은 빛의 왕국에서 화목하게 지내던 절친한 친구 사이였습니다. 용족의 용제인 프라그닐과 당시 인류의 지도자인 필더는 한 쌍의 영웅적인 전사였습니다. 한 사람, 한 용, 그들은 어둠의 세력의 눈앞에서 두 부족의 안전을 지키기 위해 자신을 희생할 준비가 되어 있습니다.\n 평화는 유지되었고 인류는 아찔한 속도로 군대와 무기를 발전시켰고 용족의 존재도 점차 잊었습니다. 악당들은 점차 드래곤을 사냥을 위한 취미로, 무기 테스트를 위한 먹이로 바꾸었습니다. 그러나 용족은 항상 인간에게 우호적이며 인류를 공격하지 않았습니다. 용족은 점차 죽이고 필더가 자신의 절친한 친구와 용족을 보호하도록 노력했지만 프라그닐은 떠나게 되었습니다.\n 프라그닐과필더의 우정은 여전했지만, 인간의 잔혹함이야 말로 두 종족의 아름다운 기억을 과거로 익사시킨 원인입니다.
+new_server_arena_boot_2_desc<>상품은 %s 후 메일을 통해 발송됩니다
+event_server_week_bundle_2_tittle<>지원 번들
+event_server_week_bundle_2_desc<>이 패키지는 게임 모험에 도움이 될 것입니다
+event_server_week_bundle_tittle<>지원 번들
+event_server_week_bundle_desc<>이 패키지는 게임 모험에 도움이 될 것입니다
+event_server_week_bundle_3_tittle<>지원 번들
+event_server_week_bundle_3_desc<>이 패키지는 게임 모험에 도움이 될 것입니다
+new_server_arena_boot_2<>전술 마스터
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>영광으로 가는 길
+new_server_tower_bootcamp_desc<>추가 상품을 받으려면 드래곤 타워의 특정 층에 도달하세요.
+event_tower_bootcamp<>영광으로 가는 길
+event_arena_3v3_boot<>전술 마스터
+event_server_open_2<>루키 미션 2
+event_server_open_3<>루키 미션 3
+new_server_grow_up_2<>소환사 경로
+fortress<>위험한 원정
+new_server_fortress<>위험한 원정
+new_server_fortress_desc<>요새에 도전하고 승리에 대한 보너스를 받으세요.
+dungeon<>미스터리 던전
+new_server_dungeon<>미스터리 던전
+new_server_dungeon_desc<>추가 상품을 받으려면 던전의 특정 층에 도달하세요.
+idle_effect<>특수 효과
+new_server_grow_up_3<>소환사 경로
+note_register<>
+list_idle_effect<>특수 효과 리스트
+bundle_idle_effect<>특수 효과
+idle_effect_bundle_1<>모든 효과
+hero_recommend_game_mode_1_1<>다음에서 가장 많이 사용되는 영웅: 캠페인 일반
+hero_recommend_game_mode_1_2<>다음에서 가장 많이 사용되는 영웅: 캠페인 어려움
+hero_recommend_game_mode_1_3<>다음에서 가장 많이 사용되는 영웅: 캠페인 극심
+hero_recommend_game_mode_1_4<>다음에서 가장 많이 사용되는 영웅: 캠페인 악몽
+hero_recommend_game_mode_1_5<>다음에서 가장 많이 사용되는 영웅: 캠페인 미침
+hero_recommend_game_mode_1_6<>다음에서 가장 많이 사용되는 영웅: 캠페인 혼돈
+idle_effect_bundle_2<>공통 효과
+idle_effect_bundle_4<>무작위 효과
+idle_effect_bundle_3<>레전드 효과
+select_item_idle_effect_bundle<>구매하기 전에 1개의 효과를 선택해야 합니다
+select_idle_effect_fragment<>효과 선택
+available_idle_effect_fragment<>사용 가능한 효과
+hero_recommend<>영웅 추천
+hero_recommend_game_mode_2_-1<>다음에서 가장 많이 사용되는 영웅: 드래곤 타워
+hero_recommend_game_mode_4_-1<>다음에서 가장 많이 사용되는 영웅: 지옥
+hero_recommend_game_mode_6_-1<>다음에서 가장 많이 사용되는 영웅: 아레나
+hero_recommend_game_mode_most<>가장 많이 사용하는 영웅
+wiki<>가이드북
+empty_2<>당신은 특별한 효과가 없습니다
+event_lunar_new_year_spring_bundle<>행운 상점
+event_lunar_2022_spring_bundle_1<>평화 구정
+event_lunar_2022_spring_bundle_2<>번영 구정
+text_describe_reward<>아래 아이템 획득 가능
+water_box<>수 상자
+fire_box<>불 상자
+abyss_box<>심연 상자
+nature_box<>자연 상자
+light_box<>광 상자
+dark_box<>어둠 상자
+event_lunar_new_year_spring_box<>스프링 박스
+event_lunar_new_year_exclusive_bundle<>구정의 수호자
+overview_hero_30003<>악마 -그들은 사람의 몸에 숨어 있는 보이지 않는 생물입니다. 인간의 질투, 탐욕, 악한 생각은 마귀가 자라는 조건입니다. 악마는 성숙함에 따라 인간의 몸에서 분리되고 힘을 얻어 독립적인 생명체가 됩니다.\n 그렇게 태어난 악마 네로는 엄청난 사악한 힘을 가지고 있습니다. 인간계를 침공하려는 야망을 지닌 악마의 수를 증식시키는 능력을 가지고 있습니다. 인간은 악마의 지배 하에 살아야 한다 네로는 맹렬히 선언했다
+hero_release_daily_quest_tittle_7<>악마의 재판
+hero_release_collection_tittle_7<>선 또는 악?
+event_hero_release_bundle_tittle_7<>악마와 거래
+spring_box_limited<>최대 상자 수를 열었습니다
+buy_premium_to_get_this<>패스를 잠금 해제해야 상품을 받을 수 있습니다
+event_lunar_new_year_tiger_path<>번영 애비뉴
+tiger_path_decs<>프리미엄 패스를 잠금 해제하여 보너스 상품을 받으세요.
+event_lunar_new_year_tiger_path_guide<>일간 미션를 완료하여 행운 포인트을(를) 얻고 진행 상황을 높이고 상품을 받으세요.
+select_hero_bundle<>프리미엄 패스를 대표하는 영웅 1명을 선택하세요.
+event_lunar_new_year_lion_dance<>첫 발신자 키티
+event_lunar_new_year_lion_dance_decs<>일간 미션를 완료하여 행운의 동전를 얻고 진행 상황을 높이고 상품을 받으세요.
+lunar_new_year_tiger_path<>번영 애비뉴
+hero_release_collection_desc_7<>네로를 수집하고 보너스 상품을 받으세요.
+event_hero_release_7<>신규 영웅
+event_hero_release_summon_7<>레전드 소환
+please_select_box<>열려는 한 상자를 선택하세요!
+resource_mapping<>자원
+wiki_feature_unlock<>특징
+lineup_recommend_1<>초반 게임 추천
+lineup_recommend_2<>게임 중간 권장 사항
+lineup_recommend_3<>늦은 게임 추천
+desc_gem_feature<>게임 내 다양한 활동 및 인앱 구매를 통해 획득할 수 있습니다.
+please_chose_one_resource<>해당 자원에 대한 정보를 보려면 자원 유형을 선택하십시오!
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>무사도
+event_kazetsu_check_in<>도장 등록
+event_kazetsu_gift<>사무라이의 결의
+event_kazetsu_gift_desc<>카제츠를 모아 보상을 받으세요.
+event_kazetsu_bundle<>힘의 가면
+kazetsu_store_des<>한정 번들로 파워를 높이세요!
+hero_recommend_game_mode_13_-1<>다음에서 가장 많이 사용되는 영웅: 지혜 아레나
+event_kazetsu_trial<>카제츠의 시험
+sign_in_apple<>Apple로 로그인
+you_must_have_a_lineup<>평가판에 참여하기 전에 팀을 선택하세요.
+start_trial<>전투에
+reroll<>리롤
+want_to_reroll<>리롤하시겠습니까?
+lineup_select<>전투 영웅 선택
+cant_roll_after_confirm_lineup<>이미 라인업이 있습니다.
+noti_has_hero_selected<>먼저 모든 영웅을 선택 해제하십시오
+noti_full_hero_selected_for_trial<>정확히 6명의 영웅을 선택하세요.
+want_to_start_trial<>지금 재판을 진행 중이신가요? 이 영웅은 변경할 수 없습니다.
+cant_unpick_kazetsu<>Kazetsu는 라인업에 있어야합니다
+kazetsu_already_dead<>재판 끝, 카제츠는 패배
+revive_time<>소생 기회 남음
+end_kazetsu_tower<>재판 정복
+out_of_revive_turn<>더 이상 소생 기회가 없습니다
+continue_with_apple<>Apple과 계속
+event_kazetsu_rate_up<>레전드 소환
+regular_pack<>공통 패키지
+event_kazetsu_boss<>바이탈 배틀
+kazetsu_boss_title<>바이탈 배틀
+kazetsu_boss_des<>당신의 힘을 보여주고 보상을 받기 위해 Kazetsu에 도전하십시오.
+get_limited_skin_now<>이카루스의 한정판 복정을 얻을 수있는 기회를 놓치지 마세요.
+guild_quest_end<>퀘스트가 종료되었습니다.
+bonus_hero<>영웅 보너스 {1}
+customizeble_bundle_3<>주간 맞춤형 패키지
+customizeble_bundle_4<>월간 사용자 정의 패키지 1
+customizeble_bundle_5<>월간 사용자 정의 패키지 2
+easter_egg_exchange_reward<>이스터 포인트 교환
+easter_bundle<>부활절 패키지
+event_easter_exclusive_bundle<>부활절 특별 패키지
+easter_egg_exclusive_bundle<>부활절 특별 패키지
+super_roll<>특수 롤
+skip_dice_anim<>구르기 애니메이션 건너뛰기
+easter_egg_bundle<>부활절 패키지
+easter_dice_guide<>주사위를 굴려 나온 숫자마다 보상을 받으세요.
+easter_egg_dice<>부활절 주사위 게임
+tap_dice_to_roll<>주사위를 탭하여 굴리세요
+normal_dice<>매직 다이스
+super_dice<>슈퍼 주사위
+event_hero_release_8<>블레이즈 카이저
+event_hero_release_summon_8<>레전드 소환
+hero_release_daily_quest_tittle_8<>화염 확산
+hero_release_collection_tittle_8<>화염 길들이기
+hero_release_collection_desc_8<>네로를 수집하고 보너스 상품을 받으세요.
+event_hero_release_bundle_tittle_8<>따뜻한 불꽃
+overview_hero_20006<>Fragnil이 안전하게 대피하는 데 도움이 되는 대가는 여전히 Finde를 괴롭힙니다. Finde가 앉아 있는 왕좌는 Finde와 가까운 전사들과 그의 Dragonkin 동맹국들의 뼈와 피로 만들어졌습니다.\n파인드는 불의 신으로부터 불의 힘을 받았다. 모블린과 달리 핀디의 손에 있는 힘은 아무런 반발 없이 신의 힘을 준다. 능력이 크면 클수록 책임도 커진 핀데는 빛의 왕국 곶의 안전을 지키는 장군으로 임명되었다. 그 해, Scathatch의 군대와 싸우는 동안 Find는 Dragon 부족이 위험에 처해 있다는 것을 알게 되었습니다. 프래그닐과의 우정 때문에 파인드는 파이어 씰을 사용하여 방어력을 강화하는 동시에 드래곤 클랜을 구하기 위해 돌진했습니다. 뛰어난 힘으로 Finde의 Fire Seal은 사상자가 여전히 많은 경우에도 Scathatch를 저지할 수 있는 최전선 군대를 도왔습니다. 드래곤 일족의 문제에 관해서는 지능을 갖춘 핀인이 능숙하게 처리하여 프래그닐과 드래곤 일족을 피난시키는 데 성공했습니다. 하지만 그건 폭풍전야의 고요일 뿐이었다. 스카다스의 군대는 여전히 방어선을 뚫고 빛의 왕국에 들어가기 위해 핀인드를 산 채로 집어삼키려 하고 있었다.
+hero_fragment_1705<>전설적인 영웅의 조각
+easter_egg_dice_game<>부활절 주사위 게임
+event_finde_boss<>보스 챌린지
+finde_boss_title<>불의 신의 계승자
+finde_boss_des<>당신의 힘을 보여주고 보상을 받기 위해 Finde에 도전하십시오.
+event_puzzle_era<>신비한 그림
+select_hero_pool<>영웅 선택
+noti_confirm_select_puzzle<>이 퍼즐을 선택하시겠습니까?
+event_puzzle<>신비한 그림
+can_not_change_hero_this_slot<>이 슬롯은 변경할 수 없습니다
+need_fill_up_all_slot<>퍼즐을 시작하기 전에 모든 슬롯을 채워야 합니다.
+open<>열려 있는
+event_puzzle_finished<>이 이벤트를 완료했습니다.
+hero_puzzle_complete<>모든 퍼즐이 풀렸습니다
+do_you_want_to_download_resource<>게임 경험은 게임 리소스가 완전히 로드될 때 가장 최적입니다. 또한 다운로드가 되지 않을 경우 게임에 로그인할 수 없습니다. 게임 내 리소스를 다운로드하시겠습니까?
+birthday_exclusive_bundle<>독점 번들
+puzzle<>퍼즐
+hero_fragment_1805<>수, 불, 심연, 자연 영웅의 조각
+hero_fragment_1905<>광, 어둠 영웅의 조각
+bundle<>권하다 
+dark_vs_light<>운명의 전쟁
+birthday_legacy_path<>레거시 패스
+birthday_legacy_path_guide<>레거시 패스 포인트을(를) 모아 패스에서 보상을 받으세요.
+birthday_legacy_path_decs<>프리미엄 패스를 잠금 해제하여 보너스 상품을 받으세요.
+select_light_path<>선택
+select_dark_path<>선택
+light<>빛 
+dark<>어두운 
+select_side_confirm<>이쪽을 선택하시겠습니까? 한 번 선택하시면 변경할 수 없습니다.
+select_artifact_pool<>유물 목록
+birthday_boss_title<>은혜인가 악의인가
+birthday_boss_des<>보스에게 도전하여 보상을 획득하세요. 특히, 셀레스티아와 스카사치는 보스에게 두 배의 피해를 입히고 보스로부터 받는 피해는 절반으로 줄어듭니다.
+birthday_boss<>보스 챌린지
+preboss_des<>보스 챌린지를 잠금 해제하려면 한쪽 진영을 선택해야 합니다.
+navigate_to_dark_light<>측면을 선택하세요
+hero_fragment_1605<>빨간색 테두리가 있는 영웅 조각: 어둠
+hero_fragment_1505<>빨간색 테두리가 있는 영웅 조각: 광
+hero_fragment_1405<>빨간색 테두리가 있는 영웅 조각: 자연
+hero_fragment_1305<>빨간색 테두리가 있는 영웅 조각: 심연
+hero_fragment_1205<>빨간색 테두리가 있는 영웅 조각: 불
+hero_fragment_1105<>빨간색 테두리가 있는 영웅 조각: 어둠
+event_hero_release_9<>영원한 라이벌
+event_hero_release_summon_9<>전설 소환
+hero_release_daily_quest_tittle_9<>힘든 도전
+hero_release_collection_tittle_9<>강력한 힘
+hero_release_collection_desc_9<>셀레스티아와 스카사치를 모으면 보너스 보상을 받을 수 있습니다.
+event_hero_release_bundle_tittle_9<>장애물 감소
+overview_hero_50007<>천사들은 왜 항상 명령에 복종해야 하고 자신의 의지대로 행동할 수 없는 걸까? 셀레스티아는 다른 천사 형제자매들 앞에서 스스로에게 물었지만, 아무도 대답하지 않았다. 정직한 천사인 셀레스티아는 약한 자들을 돕는 것이 자신의 사명임을 알고 있었지만, 마음속에는 언제나 자유롭게 탐구하고 싶은 욕망이 있었다. 사명, 의무, 교리, 셀레스티아는 그것들을 좋아하지 않았지만, 그렇다고 포기할 수도 없었다. 천사들은 과연 인간 세상에 개입해야 하는 걸까? 그리고 그 어둠 속에서, 무엇이 천사들을 항상 경계하게 만드는 걸까?
+overview_hero_60005<>수천 년 전, 악마들 사이의 전쟁이 발발했을 때, 한 요정 소녀가 우연히 전쟁의 소용돌이에 휘말렸습니다. 그녀는 어둠의 힘을 지닌 요정, 스카사치였습니다. 그림자의 여신에 대한 이야기는 무성합니다. 밤에 대해서는 알려진 것이 거의 없고, 그녀가 무시무시한 힘을 지녔다는 소문만 들릴 뿐입니다. 그녀의 눈에 띈 자들은 모두 존재하지 않았으면 좋았을 거라고 후회합니다.\n어둠에 대한 공포가 가장 무서운 것일까요? 아닙니다. 어둠 속에서 진정으로 무서운 것은 차가운 스카사치였습니다. 그녀에게는 선과 악이 없고, 그녀를 불쾌하게 하는 모든 것은 버려야 마땅합니다.
+legacy_point_desc<>일반 일일 퀘스트: 15점\n모든 일일 퀘스트 완료: 30점
+summoner_lock<>10 고서 수집 후 잠금 해제
+watch<>살피다
+watch_ads<>광고 시청하기
+new_server_grow_up_guide<>계정 레벨을 올려 보상을 받으세요
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>어떤 세트 상품이든 구매하시면 다음을 받으실 수 있습니다.
+first_purchase_nac_price<>%s 이상 구매하면 번들 1개를 받을 수 있습니다.
+first_purchase_nac_price_global<>%s 이상 구매하면 번들 1개를 받을 수 있습니다.
+first_purchase_reward_claimed<>모든 보너스 보상을 수령하셨습니다.
+claimed<>주장됨
+first_purchase_hero_desc_1<>불의 신의 후계자
+first_purchase_hero_desc_50006<>달의 공주
+zodiac_bundle<>조디악 번들
+zodiac_constellations<>별자리 지도
+zodiac_quest<>퀘스트
+zodiac_exchange<>교환 영역
+i_like_it<>좋아요와 평점을 남겨주세요
+need_improvements<>나중에 
+rate_content_2<>여러분의 의견은 게임 경험을 개선하는 데 매우 소중합니다. 여러분의 생각을 알려주세요!
+not_now<>나중에 
+quick_open_constellation_map<>빠른 지도
+overview_hero_20003<>화산 깊숙한 곳에는 대대로 이어져 내려오는 혈통이 없는 부족이 수 세기 동안 평화롭게 살아가고 있다. 그들은 자연과 조화를 이루며 자연을 삶의 터전이자 생계 수단으로 삼고 있다. 현대 문명의 영향을 받지 않고 자연 속에서 자연스럽게 발전해 온 것이다. 부족의 전사인 에이트리는 겉보기에는 평범한 사람이다. 그는 숙련된 전사 못지않은 뛰어난 기술과 전투 경험을 지녔지만, 농부의 모습 속에 그 능력을 숨겨왔다. 에이트리는 힘이야말로 야망의 원천이며 전쟁을 부추기는 것이라고 믿는다. 그는 부족의 평화를 깨뜨리는 고통스러운 전쟁에 휘말리고 싶지 않다.
+event_hero_release_10<>마그마 전사
+event_hero_release_summon_10<>전설 소환
+hero_release_daily_quest_tittle_10<>화산 어드벤처
+hero_release_collection_tittle_10<>불꽃 정복
+hero_release_collection_desc_10<>에이트리를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_10<>지원되는 패키지
+title_event_zodiac<>조디악 챌린지
+event_zodiac<>이벤트 조디악
+event_zodiac_section_reward<>섹션 보상
+rate_content_1<>소환사님, 저희 게임을 즐겁게 플레이하시길 바랍니다. 게임 후 소감을 알려주시면 감사하겠습니다. 여러분의 의견은 저희가 게임을 개선하는 데 큰 원동력이 됩니다.
+complete_reward<>별자리 완성 보상
+star_reward_pool<>보상 레벨
+tower_lock_level_require<>이 층을 잠금 해제하려면 레벨 %s에 도달하세요.
+tower_lock_out_of_ticket<>타워에 입장하기에 티켓이 부족합니다.
+star_reward_pool_condition<>레벨의 아이템을 교환하면 잠금 해제됩니다.
+collect_pearl_desc<>보상을 교환하여 보너스 진주를 수집하십시오.\n이제 주식 :
+not_thing_to_claim<>지금은 청구할 수 있는 것이 없습니다.
+collect<>모으다
+event_vip_treasure<>VIP 강화
+event_vip_treasure_content<>VIP 포인트를 적립하여 추가 보상을 받으세요
+event_skin_challenge<>스킨 챌린지
+title_event_skin_challenge<>스킨 챌린지
+progress<>진전
+confirm_select_skin<>최종 보상으로 이 스킨을 선택하시게 되었습니다. 이 스킨을 정말로 선택하시겠습니까?
+not_available_day<>전날의 모든 임무를 완료하고 내일까지 기다리면 잠금이 해제됩니다.
+event_zodiac_map<>지도 
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>위대한 사무라이
+overview_hero_30027<>네로가 인간의 몸에서 악마를 풀어준 후, 세상은 악에 휩싸였고, 곳곳에서 울부짖음과 통곡 소리가 들려왔다. 분노, 원한, 파멸, 파괴, 절망, 그 당시 세상을 묘사하는 단어들이었다.\n사무란도 마을에는 카제츠라는 소년이 살고 있었다. 카제츠는 인간과 악마의 전쟁에서 부모를 잃었다. 사랑하는 이들의 희생을 목격한 카제츠는 악마에 대한 극심한 증오심을 품고 복수를 다짐했다. 하지만 인간의 힘에는 한계가 있었고, 악마의 잔혹한 지배 아래 세상은 이미 타락해 있었다. 카제츠는 악마와 계약을 맺고 그들을 따라다니며 힘을 수련할 수밖에 없었다. 악마의 신뢰를 얻기 위해 카제츠는 어쩔 수 없이 악의 길을 택하게 되었고, 미친 듯이 살육을 저지르며 자신조차 제어할 수 없게 되었다.\n다행히 카제츠는 아직 사무라이의 자존심을 간직하고 있었고, 부모의 복수를 향한 강한 의지로 마침내 악마의 힘을 얻게 되었다. 카제츠는 사무라이의 정신을 담아 악마 가면을 쓰고 홀로 마을을 지배하던 모든 악마들을 물리쳤다. 마을 사람들을 구출한 카제츠는 네로를 찾아 나섰다.
+event_hero_release_11<>위대한 사무라이
+event_hero_release_summon_11<>전설 소환
+hero_release_daily_quest_tittle_11<>훈련 여정
+hero_release_collection_tittle_11<>동맹 교회
+hero_release_collection_desc_11<>카제츠를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_11<>지원되는 패키지
+warning_delete_account<>삭제된 계정은 복구할 수 없습니다. 계정을 삭제하시겠습니까?
+event_skin_challenge_day_not_available<>퀘스트는 다음 며칠 내에 잠금 해제됩니다.
+delete_account<>계정 삭제
+delete_account_rule_1<>계정을 삭제하면 게임 내 모든 데이터가 영구적으로 삭제되며 복구할 수 없습니다. 계속하시겠습니까?
+delete_account_warning_1<>귀하의 계정과 연결된 모든 소셜 네트워크가 삭제됩니다.
+delete_account_warning_2<>계정을 삭제하면 복구할 수 없습니다. 주의하세요!
+delete_account_rule_2<>계정 삭제를 확인하려면 YES를 입력하세요.
+tap_here_to_type<>여기에 텍스트를 입력하세요
+first_purchase_hero_desc_2<>달의 공주
+input_delete_failed<>잘못된 단어를 입력하셨습니다. 다시 입력해 주세요.
+player_deactivated<>이 계정은 이미 삭제되었습니다.
+event_skin_challenge_select_layout<>스킨을 선택하세요
+please_select_1_skin<>도전을 시작하려면 스킨 하나를 선택하세요.
+challenges<>전투 도전
+event_hero_release_12<>대천사
+event_hero_release_summon_12<>전설 소환
+hero_release_daily_quest_tittle_12<>천사의 인도
+hero_release_collection_tittle_12<>거룩한 은혜
+hero_release_collection_desc_12<>셀레스티아를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_12<>지원되는 패키지
+flash_sale_new_1<>슈퍼 지원 팩 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>소환사 여러분께,\n게임의 품질과 안전하고 효율적인 사용자 경험을 보장하기 위해 베트남 및 해외 시장의 두 가지 버전을 통합하기로 결정했습니다. 두 버전 통합은 2022년 9월 30일에 진행될 예정입니다.\n\n따라서 국제 버전의 Summoners Era와 Summoners Era는 Summoners Era라는 단일 버전으로 출시됩니다. 기존 게임을 계속 이용하시려면 현재 계정을 소셜 미디어 플랫폼에 연동하고 Summoners Era 국제 버전에 로그인해야 합니다. 계정 데이터와 게임 진행 상황은 모두 저장되고 연동 후 다시 불러와집니다. 그러니 서둘러 계정을 연동해 주세요!\n\n감사합니다.
+go_to_binding<>Liên kết
+flash_sale_new_2<>슈퍼 지원 팩 2
+flash_sale_new_3<>슈퍼 지원 팩 2
+flash_sale_new_4<>슈퍼 지원 팩 3
+flash_sale_new_5<>슈퍼 지원 팩 3
+flash_sale_new_6<>슈퍼 지원 팩 4
+flash_sale_new_7<>슈퍼 지원 팩 5
+event_mid_autumn<>가을 중순
+overview_hero_30008<>네로가 인간의 몸에서 영혼을 해방시킨 날, 세상은 폐허와 가스로 뒤덮였다. 세상 곳곳에 사람들이 널려 있고, 자연은 피 냄새로 가득 차 있다. 죽은 자들의 영혼은 점점 더 농축되어 무생물에까지 깃들었다. 원래 심연의 수정이었던 코조르는 죽음의 영혼 때문에 괴물이 되었다. 하지만 코조르그에게 모인 영혼들 중에는 아직 선한 영혼과 정령들이 남아 있어, 평화롭고 사색적인 순간에는 깨어날 수 있었다. 그런 순간, 코조르그는 인류를 구하기 위해 무언가를 하고 싶어 했고, 한때 죽음의 심연에서 깊은 잠에 빠졌던 용의 공주 아이류에게 연락했다.
+event_hero_release_13<>스피릿 스톤맨
+event_hero_release_summon_13<>전설 소환
+hero_release_daily_quest_tittle_13<>에센스 챌린지
+hero_release_collection_tittle_13<>소울 어셈블링
+hero_release_collection_desc_13<>코조르그를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_13<>지원되는 패키지
+battle_pass_store<>배틀 패스 상점
+confirm_exchange<>이 상품을 교환하시는 게 확실합니까?
+event_hero_boss_title_2<>영혼 정화
+event_hero_boss_des_2<>사악한 코조르그에게 도전하여 당신의 힘을 보여주고 그가 악마들을 물리치도록 도와주세요.
+event_hero_boss_2<>보스 챌린지
+battle_pass_exchange<>교환 영역
+confirm_remove_food<>업그레이드 재료로 사용하기 위한 다음 기능에서 이 영웅을 확실히 제외하시겠습니까?
+failed_quick_remove<>이 영웅은 현재 음식으로 사용할 수 없습니다. 기능에서 수동으로 제거해 주세요!
+price<>가격 
+popular<>희귀성
+recent<>출시일
+skin_shop<>스킨팩
+there_is_no_current_sale<>죄송합니다. 할인 패키지는 현재 이용하실 수 없습니다. 담당자들이 자리를 비웠지만 곧 다시 판매를 시작할 예정입니다.
+confirm_remove_hero<>다음 기능에서 이 영웅을 정말로 제외하시겠습니까?
+failed_remove_hero<>이 영웅은 빠르게 제거할 수 없습니다. 기능에서 수동으로 제거해 주세요.
+hero_lock_in_feature<>히어로가 기능에 고정됨
+black_friday_bundle<>블랙프라이데이 초특가 세일
+social<>소셜 네트워크
+friends<>친구 
+guide_book<>가이드북
+customer_service<>고객 서비스
+overview_hero_60003<>잘리두스는 자신이 태어날 때 자신의 엄마를 죽였고, 이는 그의 평생이 살인과 학살과 맞물리라는 신호였습니다.\n살아남는 것이 곧 다른 사람을 죽이는 암흑 구덩이 한복판에서 자라난 잘리두스는 누구보다도 뛰어난 존재였습니다. 그는 생존을 위해 필요한 것은 무엇이든 하다가 결국 돈을 위해 누구든지 죽이고 암살자로서 더럽고 역겨운 일을 하게 되었습니다.\n어두운 구덩이 근처를 방황하다가 갑자기 어둠 속에서 밝은 십자가 X가 켜지면 잘리두스가 당신을 내세로 보내고 있음을 알 수 있습니다.
+overview_hero_60006<>한때 빛의 도서관에 헤타(Hehta)라는 아름다운 사제가 있었는데, 그의 명성은 미모뿐만 아니라 엄청난 마법 지식으로도 유명했습니다.\n지식에 대한 사제의 굶주림은 그녀를 점점 더 멀리, 암흑 마법의 땅으로 이끌었습니다. 그녀가 고대 주문을 더 많이 습득할수록 동료 학자들의 불안은 더욱 커졌습니다. 지정된 날까지 Hehta는 금지된 마법을 연구하기 위해 마법 위원회에 의해 재판을 받았습니다. 이상하게도 그녀는 아무런 설명도 하지 않고 그저 그녀에 대한 모든 비난에 고개를 끄덕일 뿐이었다. Hehta는 이 땅이 더 이상 그녀의 갈증을 채워줄 수 없다는 것을 알았다.\n사형 선고를 받은 날, 헤타는 허공으로 사라진 것처럼 어디에도 없었다. 그로부터 얼마 지나지 않아 어둠의 성 주변을 엘프 귀로 방황하는 낯선 미녀를 보았다는 소문이...
+event_hero_release_14<>섀도우 블레이드
+event_hero_release_summon_14<>전설 소환
+hero_release_daily_quest_tittle_14<>리퍼의 도전 과제
+hero_release_collection_tittle_14<>악의 집합체
+hero_release_collection_desc_14<>잘리두스를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_14<>지원되는 패키지
+event_hero_release_15<>매력적인 검객
+event_hero_release_summon_15<>전설 소환
+hero_release_daily_quest_tittle_15<>지구력 훈련
+hero_release_collection_tittle_15<>마음을 따뜻하게 해주는 선물
+hero_release_collection_desc_15<>헤타를 모아서 보너스 보상을 받으세요
+event_hero_release_bundle_tittle_15<>지원 패키지
+version_recent<>최신 버전
+version_next<>다음 버전
+maintenance<>점검 안내
+event_skin_challenge_detail<>이벤트 아이템을 모아서 원하는 스킨으로 교환하세요
+already_exchange<>교환됨
+go_event<>상세 정보 보기
+customer_service_content<>게임 플레이 중 문제가 발생하면 주저하지 말고 고객 서비스 센터로 문의하세요. 저희 친절한 직원들이 항상 도와드릴 준비가 되어 있습니다.
+included_free<>무료 리워드 포함
+understand<>이해했다
+event_airyuu<>자연의 정수
+title_event_airyuu<>자연의 정수
+airyuu_check_in<>자연의 정수
+airyuu_checkin_title<>디프렌티얼 인사
+time_next_day<>다음날
+airyuu_treasure<>용의 보물
+airyuu_treasure_infor<>사용자 물구슬이(가) 상자를 열고 놀라운 보상을 받습니다.
+airyuu_quest<>드래곤랜드 어드벤처
+airyuu_quest_title<>드래곤랜드 어드벤처
+wait_check_in<>내일 다시 오세요
+airyuu_bundle<>드래곤 콜업
+airyuu_bundle_infor<>당신이 아이류를 위해 이 패키지들을 구매해주시면 아이류는 매우 기뻐할 거예요.
+airyuu_trial<>세이크리드우즈 다이어리
+airyuu_trial_infor<>아이류의 하인들에게 도전하여 보상을 받으세요
+airyuu_collection<>용의 축복
+airyuu_evolution_title<>용의 축복
+check_in<>오늘 체크인하셨습니다.
+recheckin<>재체크인
+confirm_use_all<>당신은 이 물건들을 사용할 거죠, 그렇죠?
+open_x1<>오픈 1
+open_all<>모두 열기
+airyuu_evolution_quest_title<>용의 축복
+history<>역사 
+chance<>시도 
+select_difficult<>난이도를 선택하세요
+difficult<>어려움
+patch<>반점
+event_new_hero_rateup_summon_2<>전설 소환
+created_time<>참석 시간
+enable_animation<>애니메이션 활성화
+transform<>전환 양식
+confirm_use_resource<>이 보상을 사용하시겠습니까?
+event_new_year_bundle<>새해 패키지
+new_year_purchase_1<>작은 카드 팩
+new_year_purchase_2<>중형 카드 팩
+new_year_purchase_3<>대형 카드 팩
+event_lunar_2022_spring_bundle_<>행복과 번영
+show_more_information<>진영 보너스 세부 정보
+event_community<>커뮤니티 이벤트
+event_tower_of_eitri<>에이트리 탑
+tower_of_eitri_tower<>용의 탑
+tower_of_eitri_tower_infor<>용의 탑
+tower_of_eitri_exchange<>교환 영역
+tower_of_eitri_exchange_infor<>교환 영역
+tower_of_eitri_bundle<>타워 빌딩 팩
+tower_of_eitri_bundle_infor<>타워 빌딩 팩
+tower_of_eitri_quest<>에이트리의 퀘스트
+tower_of_eitri_quest_title<>에이트리의 퀘스트
+tower_of_eitri_quest_infor<>에이트리의 퀘스트
+current_floor<>현재 바닥
+build<>짓다
+skip_animation<>애니메이션 건너뛰기
+normal_floor_reward<>일반 층 보상
+golden_floor_reward_bonus<>황금층 보상
+confirm_use<>사용하시겠습니까?
+hammer_in_pool<>보상을 교환하면 에이트리의 망치를 획득할 수 있습니다. 층이 올라갈수록 더 많은 보상을 받게 됩니다. 지금 이용 가능:
+reach_limited_exchange<>환전 횟수 제한에 도달했습니다!
+reward_milestone<>총 층수
+claim_and_close<>보상을 받으세요
+event_hero_release_16<>영원한 지옥
+event_hero_release_summon_16<>전설 소환
+hero_release_daily_quest_tittle_16<>화재의 과제
+hero_release_collection_tittle_16<>아리엔 플레임
+hero_release_collection_desc_16<>아리엔을 모아서 보너스 보상을 받으세요.
+event_hero_release_bundle_tittle_16<>지원되는 패키지
+overview_hero_20002<>아리엔은 불의 여전사로, 남쪽 왕국에서 가장 뛰어난 전사 중 한 명으로 알려져 적들에게는 두려움의 대상이었지만 아군에게는 존경받는 존재였습니다. 하지만 그녀의 맹렬한 명성에도 불구하고, 아리엔은 따뜻한 마음을 가진 여인이었습니다. 그녀는 종종 인근 마을을 방문하여 불의 마법으로 사람들을 도왔습니다.\n\n어느 날, 거센 모래폭풍으로부터 마을을 지키던 중, 아리엔은 불의 불사조 전사 이카루스를 만났습니다. 두 사람은 나란히 싸우며 서로의 불꽃을 융합시켜 눈부신 힘을 보여주었습니다. 그들은 곧 자신들이 다루는 불꽃처럼 밝게 타오르는 특별한 유대감, 사랑을 느꼈습니다.\n\n그날 이후로, 아리엔과 이카루스는 떨어질 수 없는 사이가 되어 왕국 곳곳을 함께 누비며 더 큰 선을 위해 싸웠습니다. 아리엔의 인격은 백성에 대한 사랑, 불의 마법에 대한 뛰어난 실력, 그리고 불의 불사조 전사 이카루스와의 깨지지 않는 유대감으로 형성되었습니다.
+event_hero_release_17<>오션 가디언
+event_hero_release_summon_17<>전설 소환
+hero_release_daily_quest_tittle_17<>타이드 챌린지
+hero_release_collection_tittle_17<>오세 보물
+hero_release_collection_desc_17<>오세를 모으고 보너스 보상을 받으세요.
+event_hero_release_bundle_tittle_17<>지원 패키지
+overview_hero_10007<>오세는 바다의 전설적인 수호자로, 파도 아래 사는 모든 생명체에게 숭배받는 존재입니다. 그는 하반신이 뱀인 인간의 모습을 하고 있습니다. 심해에서 태어난 오세는 바다의 자원을 착취하거나 그곳에 사는 생명체를 해치려는 자들로부터 바다를 지키는 임무를 맡았습니다. 그는 용맹하고 강력한 전사로, 전투에서 바다의 힘을 직접 소환하여 도움을 받을 수 있습니다.\n\n다른 종족들 사이에서 오세는 그의 무시무시한 명성으로 기억됩니다. 하지만 바다를 삶의 터전으로 삼는 모든 생명체는 오세가 자신들을 깊이 사랑하고 존경한다는 것을 알고 있습니다. 바다의 수호자인 오세는 바다를 해치는 존재라면 누구든, 어떤 것이든 결코 가만히 두지 않을 것이며, 특히 해적은 절대 용납하지 않을 것입니다.
+event_hero_release_18<>바다의 심장
+event_hero_release_summon_18<>전설 소환
+hero_release_daily_quest_tittle_18<>복수 여행
+hero_release_collection_tittle_18<>오션 퓨리
+hero_release_collection_desc_18<>안개를 모아서 보너스 보상을 받으세요.
+event_hero_release_bundle_tittle_18<>지원 패키지
+overview_hero_10005<>전설에 따르면 깊은 바닷속에는 엄청난 힘을 지닌 바다의 심장이라는 보석이 있다고 합니다. 이 신화는 널리 퍼져나가면서 점점 더 많은 해적들이 이 보물을 찾아 무모한 탐험에 나서고 있습니다.\n\n미스트는 해적 가문에서 태어나 걸음마를 뗀 날부터 드넓은 바다에서 자랐습니다. 그녀의 부모님과 형제자매들은 끈끈한 유대감을 가진 해적단이었고, 그들의 꿈은 마법의 바다의 심장을 손에 넣는 것이었습니다. 하지만 신비로운 전설을 쫓는 데에는 대가가 따르는 법입니다. 미스트는 어린 시절 비극을 맞았습니다. 보물을 찾아 나선 가족은 반인반뱀 괴물의 공격을 받았고, 불행히도 미스트만이 유일한 생존자였습니다. 모든 것을 잃고 고통에 휩싸인 미스트는 복수를 다짐하며 바다의 심장을 찾아 그 힘으로 자신의 행복을 앗아간 괴물에게 맞서 싸우기로 결심합니다.
+event_boost_first_purchase<>치받이
+boost_first_purchase_title_1<>업그레이드 1
+boost_first_purchase_title_2<>업그레이드 2
+boost_first_purchase_title_3<>업그레이드 3
+boost_first_purchase_title_4<>업그레이드 4
+boost_first_purchase_title_5<>업그레이드 5
+boost_first_purchase_title_6<>업그레이드 6
+boost_first_purchase_title_7<>업그레이드 7
+boost_first_purchase_title_8<>업그레이드 8
+boost_first_purchase_title_9<>업그레이드 9
+boost_first_purchase_title_10<>업그레이드 10
+boost_first_purchase_title_detail_1<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_2<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_3<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_4<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_5<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_6<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_7<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_8<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_9<>지금 바로 팀을 강화하세요
+boost_first_purchase_title_detail_10<>지금 바로 팀을 강화하세요
+event_seasonal<>여름 축제
+seasonal_check_in<>여름 체크인
+seasonal_bundle<>여름 세트
+seasonal_daily_checkin<>여름 체크인
+seasonal_firework_shop<>여름 세트
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>새로운 이벤트가 곧 시작됩니다
+more_detail<>세부 사항
+event_server_open_checkin<>신규 회원 체크인
+seasonal_firework_exchange<>교환 영역
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 9
+seasonal_exchange<>교환 영역
+seasonal_firework_creator<>칠링 바
+seasonal_super_gift<>여름 퀴즈
+seasonal_royal_challenge<>오션 챌린지
+not_day_checkin<>다음 날까지 기다렸다가 청구하세요.
+seasonal_summer_game_main_quest<>모든 퀘스트를 완료하여 특별 스킨을 획득하세요
+complete_%s_more_to_reward<>모든 퀘스트를 완료하여 특별 스킨을 획득하세요
+select_ball_to_exchange<>물방울을 선택하세요
+select_ball_exchange_to<>물방울을 선택하세요
+reselect_exchange_item<>아직 워터볼을 선택하지 않으셨습니다.
+you_have_no_this_resource<>당신은 이 아이템을 가지고 있지 않습니다.
+cant_not_exchange_same_item<>동일한 항목을 선택할 수 없습니다.
+throw_single<>던지기 1
+throw_all<>모두 던져버리세요
+throw_%s_time_execute_target<>대상을 실행하고 보상을 청구하기 위해 %s 시간을 던지십시오.
+exchange_ball<>교환 공
+seasonal_throw_ball<>여름 퀴즈
+can_not_reselect_hero<>이 영웅을 선택하시겠습니까?\n게임에 참여하신 후에는 영웅을 변경할 수 없습니다.
+make<>만들다
+make_single_mojito<>모히토 1잔 만들어 주세요
+quick_make<>빨리 만들 수 있어요
+seasonal_summer_game_title_detail<>여름 선물 상자를 열어 물방울을 획득하고 퀴즈에 참여하세요.
+tap_for_more_information<>배너를 탭하면 더 자세한 내용을 볼 수 있습니다.
+event_hero_release_summon_19<>정중한 인사
+event_hero_release_19<>드래곤랜드 어드벤처
+overview_hero_40027<>용족이 인간들에게 쫓기던 시절, 용족의 공주 아이류는 아주 어렸습니다. 아이류는 핀데와 그의 신하들의 호위를 받아 안전한 곳으로 피신했고, 그곳에는 아이류 혼자만 남았습니다. 수백 년의 세월이 흘러 어린 공주 아이류는 아름다운 소녀로 성장했습니다. 그녀는 인간 세계를 오가며 지식을 쌓고 자신의 뿌리를 찾아 헤맵니다. 정직하고 순수한 아이류는 언제나 모든 사람에게 사랑받았습니다. 그녀는 자신을 다른 사람들과 마찬가지로 기쁨과 슬픔을 아는 존재라고 생각합니다. 과연 아이류는 조상들의 비극적인 과거를 알게 되었을 때 어떤 반응을 보일까요?
+hero_release_daily_quest_tittle_19<>신성한 숲 일기
+hero_release_collection_tittle_19<>용의 축복
+hero_release_collection_desc_19<>아이류를 모아서 보너스 보상을 받으세요.
+event_hero_release_bundle_tittle_19<>드래곤 콜업
+first_purchase_hero_desc_20001<>피닉스 리본
+first_purchase_hero_desc_40027<>드래곤의 공주
+buy_point<>포인트 적립
+birthday_buy_level<>레거시 패스 포인트를 획득하세요
+birthday_level_bundle_1<>광고로 수익 창출
+birthday_level_bundle_2<>포인트 적립
+birthday_level_bundle_3<>포인트 적립
+go_to_event<>이벤트 참여하기
+flash_sale_evolve_title<>플래시 세일 히어로
+popup_not_appear_anymore<>팝업 창을 정말로 닫으시겠습니까? 한 번 닫으면 번들을 다시 열 수 없습니다.
+auto_next_battle_in<>다음 층은 다음과 같이 시작됩니다.
+event_hero_release_20<>성스러운 마법사
+event_hero_release_summon_20<>전설 소환
+hero_release_daily_quest_tittle_20<>마법 훈련
+hero_release_collection_tittle_20<>마법을 모으세요
+hero_release_collection_desc_20<>이그나티우스를 모으면 추가 보상을 받을 수 있습니다.
+event_hero_release_bundle_tittle_20<>할로우 라이트
+overview_hero_50011<>신비롭고 고대의 세계, 빛과 어둠의 영원한 전쟁이 펼쳐지는 그곳에서, 이그나티우스라는 이름의 독보적이고 신과 같은 존재가 하늘을 수놓고 있습니다. 그의 모습은 위풍당당한 새의 형상을 하고 있으며, 태양처럼 찬란하게 빛나는 깃털로 뒤덮여 있습니다. 대천사 셀레스티아의 설득을 받은 이그나티우스는 빛의 진영에서 강력한 동맹들을 규합하여 스카사치의 군대에 맞서는 강력한 적이 되었습니다. 그는 어둠의 세력에 맞서 싸우는 빛의 진영의 수호자로서 희망의 등불이 되어 있습니다.
+not_have_hero_meet_requirement<>어떤 영웅도 퀘스트의 조건을 충족하지 못합니다.
+auto_rematch_in<>전투를 다시 시작하세요
+tower_progress<>타워 진행 상황
+event_boss_challenge<>보스 챌린지
+event_boss_challenge_challenge_tower<>챌린지 타워
+event_boss_challenge_boss_quest<>보스 퀘스트
+event_boss_challenge_shop<>보스 팩
+event_boss_challenge_quest_title<>코조르그의 도전
+event_boss_challenge_desc<>일일 퀘스트를 완료하고 도전 코인을 획득하세요
+boss_challenge_shop_title_1<>데일리 팩
+boss_challenge_shop_title_2<>이벤트 팩
+event_mid_autumn_quest_name<>일일 퀘스트
+event_mid_autumn_quest_title<>일일 퀘스트
+event_mid_autumn_quest_content<>퀘스트를 완료하여 월병을 획득하세요
+event_festival_market_name<>중추절 시장
+event_mid_autumn_market_title<>중추절 시장
+event_mid_autumn_market_des<>이벤트 아이템을 받으려면 세트를 구매하세요.
+event_mid_autumn_special_offer_title<>추석 혜택
+event_mid_autumn_text_quest_bet<>Bet {1} 랜턴 in Mid-Autumn Arena
+event_mid_autumn_arena_title<>중추장
+event_mid_autumn_arena_name<>중추장
+event_mid_autumn_arena_content<>더 강한 팀에 랜턴을 걸어 여러 번 랜턴에 불을 붙일 기회를 잡으세요.\n경기 종료 30분을 남기고는 베팅할 수 없습니다.
+event_mid_autumn_arena_item_text_attacker_team<>공격자
+event_mid_autumn_arena_item_text_defender_team<>방어자
+event_mid_autumn_arena_item_text_total_bet<>총 베팅 금액
+event_mid_autumn_arena_item_text_battle_end<>전투가 끝났다
+event_mid_autumn_arena_item_text_battle_time<>종료 위치: %s
+event_mid_autumn_arena_item_text_day<>낮
+event_mid_autumn_arena_item_text_bet<>내기
+area_bet_title<>내기
+area_bet<>내기
+event_mid_autumn_arena_item_text_coming_soon<>곧 출시 예정
+bet_time_out<>베팅 시간이 종료되었습니다
+popup_exchange_tower_of_eitri_title_text<>팝업 확인
+popup_exchange_tower_of_eitri_ask_text<>이 물품들을 교환에 사용하시는 게 확실합니까?
+event_halloween_quest_title<>할로윈 미션
+event_halloween_quest_desc<>일일 과제를 완료하여 할로윈 이벤트 재화를 획득하세요.
+event_halloween_shop_title<>할로윈 샵
+event_halloween_shop_des<>주사위와 호박가죽 세트를 구매하세요
+halloween_quest<>할로윈 미션
+halloween_shop<>할로윈 샵
+want_to_roll_dice<>정말 주사위를 전부 굴리시겠어요?
+roll_all<>모두 굴리세요
+event_halloween_quest_tavern_all_star<>선술집에서 별 하나라도 있는 {1} 퀘스트를 완료하세요
+piece_adventure_floor<>현재 층
+event_piece_adventure_quest_title<>이벤트 퀘스트
+event_piece_adventure_desc<>퀘스트를 완료하여 모험의 열쇠를 획득하세요
+piece_adventure_card<>이벤트 어드벤처
+event_piece_adventure_exchange_name<>이벤트 교환
+event_piece_adventure_exchange_desc<>유물 조각을 사용하여 선물을 교환하세요
+event_piece_adventure_shop_name<>이벤트샵
+event_piece_adventure_shop_desc<>번들 상품을 구매하시면 모험의 열쇠와 유물 조각을 받으실 수 있습니다.
+cannot_unlock_floor<>다음 층으로 가려면 최소 1개의 아이템을 찾아야 합니다.
+want_to_unlock_floor<>모든 아이템을 모으지 않고 다음 레벨로 넘어가시겠습니까?
+piece_adventure_quest<>이벤트 퀘스트
+piece_adventure_exchange<>이벤트 교환
+piece_adventure_store<>이벤트샵
+floor_reward_list<>층별 목록
+event_piece_adventure<>피스 어드벤처
+piece_adventure_shop_title_1<>오늘의 특가
+piece_adventure_shop_title_2<>이벤트샵
+next_floor<>다음 층
+want_to_open_all<>시스템은 보너스 아이템이 나올 때까지 또는 열쇠가 모두 소진될 때까지 자동으로 상자를 엽니다. 정말로 열겠습니까?
+open_all_card<>자동 열림
+claimed_all_card<>당신은 이미 이 층의 모든 상자를 열었습니다.
+not_click_start<>게임을 시작하려면 시작을 클릭해야 합니다.
+open_card_tut_text<>보물을 찾으려면 상자를 선택하세요
+max_floor<>이벤트의 마지막 층에 도착하셨습니다. 다음 이벤트에서 다시 뵙겠습니다.
+title_black_friday_sale_select_item<>블랙프라이데이 초특가!!!
+select_5_reward<>구매하고 싶은 상품 5개를 선택하세요
+your_choice_text<>선택된 항목
+get_bonus<>확인하다
+need_select_5_reward<>5개의 항목을 선택해야 합니다.
+want_to_get_bonus<>선택한 항목을 확인하세요
+have_max_items<>최대 5개 항목만 선택할 수 있습니다.
+black_friday_sale_1<>공통 번들
+black_friday_sale_2<>슈퍼 번들
+black_friday_sale_3<>울트라 번들
+event_black_friday_new_version<>블랙프라이데이 번들
+title_black_friday_sale_super_deal<>블랙프라이데이 초특가!!!
+drop_time_thanks_giving<>이벤트 시작 후 13일
+thanks_giving_shop<>추수감사절 쇼핑
+thanks_giving_dice_title<>하비스트 게임
+event_golden_time_thanks_giving_name<>수확철 행사
+thanks_giving_quest<>추수감사절 퀘스트
+event_thanks_giving_exchange_name<>교환 호박
+event_thanks_giving_specialoffer<>추수감사절 특별 할인
+golden_time_thanks_giving_drop_info<>∙ 10 호박: {0} (s)
+event_golden_time_thanks_giving<>수확철 행사
+event_golden_time_thanks_giving_desc<>주사위와 호박을 모아 보상을 교환하세요. 추수감사절 아이템은 이벤트 종료 후 사라집니다.\n이벤트 종료 12시간 전부터는 대기 상자에서 호박이 더 이상 드롭되지 않습니다.
+thanks_giving_dice_guide<>주사위를 모으고 굴려서 멋진 상품을 획득하세요.\n추수감사절 퀘스트에서 더 많은 것을 찾아보세요.
+event_thanks_giving_quest_desc<>추수감사절 퀘스트를 완료하여 주사위를 더 획득하세요.
+event_thanks_giving_exchange_desc<>호박을 모아서 아래의 무제한 보상으로 교환하세요
+event_thanks_giving_shop_des<>주사위와 호박가죽 세트를 구매하세요
+thanks_giving_purchase_1<>티 브레이크 세트
+thanks_giving_purchase_2<>디너 세트
+thanks_giving_purchase_3<>뱅퀘스트 번들
+event_thanks_giving<>추수감사절
+event_thanks_giving_shop_title<>추수감사절 쇼핑
+event_thanks_giving_quest_title<>추수감사절 퀘스트
+source_money_type_102<>- 추수감사절 게임\n- 추수감사절 특별 상품\n- 추수감사절 상점
+lock_level<>잠김
+raid_key_75<>골든 키를 더 구매하세요
+raid_key_76<>글래스 키를 더 구매하세요
+raid_key_77<>조각 열쇠를 더 구매하세요
+limited<>제한된
+back_current<>현재로 돌아가기
+max_ads_turn_daily<>오늘 광고를 모두 이용하셨군요.
+recycle<>재활용
+acquired_items<>획득한 아이템
+auto_select<>자동 선택
+nothing_to_recycle<>재활용할 영웅을 최소 1명 이상 선택해야 합니다.
+have_max_items_recycle<>재활용 슬롯이 꽉 찼습니다
+all_hero_recycle_selected<>모든 영웅이 선택되었습니다
+recycle_four_star_hero<>정말 재활용하시는 건가요?
+select_orb_title<>오브를 선택하세요
+can_not_select<>오브 슬롯이 꽉 찼습니다
+not_have_enought_food<>선택할 오브가 없습니다.
+max_total_exp<>오브를 충분히 채웠습니다
+event_christmas_feed_name<>크리스마스 축복
+event_christmas_feed_desc<>이그나티우스에게 축복을 내릴 때 사탕 지팡이를 사용하면 선물을 받을 수 있습니다.
+blessing<>축복
+blessing_all<>모두에게 축복을
+event_christmas_arena_title<>크리스마스 아레나
+event_christmas_arena_content<>촛불을 사용하여 베팅하고 더 많은 켜진 촛불을 얻으세요.
+event_christmas_quest_title<>크리스마스 퀘스트
+event_christmas_quest_content<>퀘스트를 완료하여 캔디 케인을 획득하세요
+event_christmas_blessing_quest<>축복 {1} 이그나티우스를 위한 사탕 지팡이
+event_christmas_text_quest_bet<>크리스마스 아레나에서 촛불 1개를 걸고 베팅하세요
+event_christmas_exchange_name<>크리스마스 교환
+event_christmas_exchange_desc<>켜진 양초를 사용하여 아이템을 교환하세요
+event_christmas_market_title<>크리스마스 상점
+event_christmas_market_des<>캔디 케인과 촛불을 더 구매하세요
+event_christmas_specialoffer<>크리스마스 특가
+event_christmas<>크리스마스
+christmas_offer_1<>캔디 제공
+christmas_offer_2<>즐거운 제안
+christmas_offer_3<>산타 선물
+event_boss_challenge_leader_board_title<>리더보드
+event_new_year_2023<>새해
+drop_time_new_year_2023<>이벤트 시작 후 13일
+new_year_shop<>새해맞이 상품
+event_golden_time_new_year_2023_name<>즐거운 순간
+event_new_year_2023_wish_name<>행운을 빌어요
+new_year_2023_quest<>새해 퀘스트
+event_new_year_2023_exchange_name<>새해 인사
+event_new_year_2023_specialoffer<>새해 특별 할인
+new_year_2023_shop<>새해맞이 상품
+source_money_type_229<>- 행운의 소원\n- 새해 특별 할인\n- 새해 쇼핑
+event_new_year_2023_quest_desc<>퀘스트를 완료하고 새해 티켓을 획득하세요
+event_golden_time_new_year_2023_desc<>유휴 상자에서 엽서를 모으세요. 새해 아이템은 이벤트 종료 후 사라집니다.
+golden_time_new_year_2023_drop_info<>엽서를 모아서 보상으로 교환하세요. 유휴 상자에서는 1시간마다 엽서 10장이 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 엽서가 더 이상 드롭되지 않습니다.
+text_chance_reset<>재설정까지 남은 기회 횟수
+event_new_year_2023_exchange_desc<>엽서를 모으고 아래의 무제한 보상으로 교환하세요
+new_year_2023_purchase_1<>핸드 스파클러 세트
+new_year_2023_purchase_2<>모닥불 팩
+new_year_2023_purchase_3<>불꽃놀이 세트
+event_new_year_2023_shop_des<>이벤트 참여를 위해 엽서와 신년 티켓을 구매하세요.
+want_to_wish_all<>가지고 계신 티켓을 모두 사용해서 주사위를 굴리시겠습니까?
+event_golden_time_lunar_new_year_2024<>퀘스트를 완료하여 제이드를 획득하세요
+event_golden_time_lunar_new_year_2024_desc<>Idle Chest에서 행운의 동전을 모으세요. 새해 아이템은 이벤트 종료 후 사라집니다.
+drop_time_lunar_new_year_2024<>이벤트 시작 후 13일
+golden_time_lunar_new_year_2024_drop_info<>행운의 동전을 모아 보상을 교환하세요. 유휴 상자에서는 1시간마다 행운의 동전 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 행운의 동전이 더 이상 드롭되지 않습니다.
+source_money_type_78<>- 럭키 빙고\n- 설날 특별 할인\n- 설날 특별 할인
+event_lunar_new_year_2024<>음력 설날
+bingo_count<>빙고 카운트
+extra_bingo_reward_text<>빙고 성공 보너스
+bingo<>빙고
+bingo_reward_list<>빙고 보상
+bingo_title<>럭키 빙고
+event_lunar_new_year_2024_bingo_name<>럭키 빙고
+lunar_new_year_2024_quest<>새해 퀘스트
+event_lunar_new_year_2024_exchange_name<>새해 인사
+event_lunar_new_year_2024_specialoffer<>새해 특별 할인
+lunar_new_year_2024_shop<>새해맞이 상품
+event_lunar_new_year_2024_quest_desc<>퀘스트를 완료하여 제이드를 획득하세요
+event_lunar_new_year_2024_exchange_desc<>행운 코인을 모아 아래의 무제한 보상으로 교환하세요
+lunar_new_year_2024_purchase_1<>번영 팩
+lunar_new_year_2024_purchase_2<>행운을 찾아서 행운 팩
+lunar_new_year_2024_purchase_3<>드래곤즈 리유나이트 팩
+event_lunar_new_year_2024_shop_des<>이벤트에 참여하려면 옥과 행운 코인을 구매하세요.
+event_golden_time_lunar_new_year_2024_name<>새해의 순간
+bingo_tut_lunar_new_year_2024<>상자를 탭하여 여세요
+event_valentine_2024<>발렌타인데이 이벤트
+drop_time_valentine_2024<>이벤트 시작 후 13일
+source_money_type_250<>- 달콤한 선물\n- 발렌타인 특가\n- 발렌타인 쇼핑
+event_golden_time_valentine_2024_name<>사랑의 순간들
+event_valentine_2024_wish_name<>달콤한 선물
+valentine_2024_quest<>스위트 챌린지
+event_valentine_2024_exchange_name<>초콜릿 교환
+event_valentine_2024_specialoffer<>발렌타인데이 특별 할인
+valentine_2024_shop<>발렌타인 샵
+event_lottery_valentine_title<>달콤한 선물
+event_valentine_2024_quest_desc<>퀘스트를 완료하여 사랑의 화살을 획득하세요
+event_valentine_2024_exchange_desc<>초콜릿을 모으고 아래의 무제한 보상으로 교환하세요
+event_valentine_2024_shop_des<>이벤트에 참여하려면 러브 애로우와 초콜릿을 구매하세요.
+valentine_2024_purchase_1<>첫사랑 팩
+valentine_2024_purchase_2<>열정적인 사랑 팩
+valentine_2024_purchase_3<>트루 러브 팩
+event_golden_time_valentine_2024_desc<>Idle Chest에서 초콜릿을 모으세요. 발렌타인 아이템은 이벤트 종료 후 사라집니다.
+golden_time_valentine_2024_drop_info<>초콜릿을 모아서 보상으로 교환하세요. 유휴 상자에서는 1시간마다 초콜릿 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 초콜릿이 더 이상 드롭되지 않습니다.
+subscription_packs_5<>사령관 카드
+subscription_packs_6<>예언자의 카드
+sweep<>스위프
+item_reward<>흔한
+item_reward_premium<>프리미엄
+event_boss_challenge_premium_pass<>챌린저 카드
+premium_pass_title_text<>챌린저 카드
+buy_now_text<>지금 구매하기
+premium_pass_total_reward_text<>총 보상
+benefit_text<>혜택:\n- 보스 챌린지 타워에서 전투 건너뛰기 및 모든 티켓 사용 가능\n- 프리미엄 보상 잠금 해제\n- 마지막 층에서 대형 보상 잠금 해제
+need_buy_boss_premium_pass<>이 기능을 사용하려면 챌린저 카드를 구매해야 합니다.
+quick_battle_title<>사용할 티켓 번호를 선택하세요
+event_easter_day<>부활절
+easter_day_shop<>부활절 상점
+drop_time_easter_day<>이벤트 시작 후 13일
+easter_day_dice_title<>부활절 여행
+source_money_type_218<>- 부활절 여행\n- 부활절 특별 상품\n- 부활절 상품 판매
+event_golden_time_easter_day_name<>달걀 찾기
+easter_day_quest<>이스터 퀘스트
+event_easter_day_exchange_name<>계란 교환
+event_easter_day_specialoffer<>부활절 특별 할인
+event_golden_time_easter_day_desc<>Idle Chest에서 부활절 달걀을 모으세요. 부활절 아이템은 이벤트 종료 후 사라집니다.
+easter_day_dice_guide<>주사위를 모으고 굴려서 멋진 상품을 획득하세요.\n이스터 퀘스트에서 더 많은 것을 찾아보세요.
+event_easter_day_quest_desc<>퀘스트를 완료하여 주사위를 획득하세요
+event_easter_day_exchange_desc<>부활절 달걀을 모으고 아래의 무제한 보상을 교환하세요
+easter_day_purchase_1<>실버 에그 팩
+easter_day_purchase_2<>골든 에그 팩
+easter_day_purchase_3<>레인보우 에그 팩
+event_easter_day_shop_des<>이벤트에 참여하려면 주사위와 부활절 달걀을 구매하세요.
+golden_time_easter_day_drop_info<>부활절 달걀을 모아 보상을 교환하세요. 유휴 상자에서는 1시간마다 부활절 달걀 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 부활절 달걀이 더 이상 드롭되지 않습니다.
+event_summer_day<>여름 방학
+drop_time_summer_day<>이벤트 시작 후 13일
+source_money_type_82<>- 여름 여행\n- 여름 특가\n- 여름 쇼핑
+event_golden_time_summer_day_name<>해변에서 휴식을 취하세요
+event_golden_time_summer_day_desc<>방치형 상자 보상과 이벤트에서 비치볼을 모아 보상으로 교환하세요.
+summer_day_dice_title<>여름 여행
+summer_day_quest<>여름 퀘스트
+event_summer_day_exchange_name<>여름 교환학생 프로그램
+event_summer_day_specialoffer<>여름 특가
+summer_day_shop<>여름 상점
+event_summer_day_shop_title<>여름 상점
+event_summer_day_quest_title<>여름 퀘스트
+event_summer_day_quest_desc<>퀘스트를 완료하여 주사위를 획득하세요
+event_summer_day_exchange_desc<>비치볼을 모으고 아래의 무제한 보상으로 교환하세요
+summer_day_purchase_1<>여름 여행 패키지
+summer_day_purchase_2<>여름 여행 패키지
+summer_day_purchase_3<>여름 파티 팩
+golden_time_summer_day_drop_info<>비치볼을 모아서 보상으로 교환하세요. 대기 상자에서 1시간마다 비치볼 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 대기 상자에서 비치볼이 더 이상 드롭되지 않습니다.
+summer_day_dice_guide<>주사위를 굴려 아이템을 모으고 멋진 상품을 획득하세요.\n썸머 퀘스트에서 더 많은 콘텐츠를 만나보세요.
+event_blossom_day<>벚꽃 축제
+drop_time_blossom_day<>이벤트 시작 후 13일
+source_money_type_63<>- 벚꽃\n- 축제 특별 할인\n- 축제 상품
+golden_time_blossom_day_drop_info<>벚꽃을 모아서 보상으로 교환하세요. 대기 상자에서 1시간마다 벚꽃 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 대기 상자에서 벚꽃이 더 이상 드롭되지 않습니다.
+blossom_day_wish_name<>벚꽃
+blossom_day_quest<>페스티벌 퀘스트
+blossom_day_exchange_name<>꽃 교환
+event_blossom_day_specialoffer<>축제 특가
+blossom_day_shop<>페스티벌 숍
+event_golden_time_blossom_day_desc<>Idle Chest에서 벚꽃을 모으세요. 이벤트 벚꽃 아이템은 이벤트 종료 후 사라집니다.
+event_golden_time_blossom_day_name<>소원 나무
+event_blossom_day_quest_desc<>퀘스트를 완료하여 꽃부채를 획득하세요.
+event_blossom_day_exchange_name<>꽃 교환
+event_blossom_day_exchange_desc<>벚꽃을 모아서 아래의 무제한 보상으로 교환하세요
+event_blossom_day_shop_des<>이벤트에 참여하려면 꽃부채와 벚꽃을 구입하세요.
+event_summer_day_shop_des<>이벤트에 참여하려면 여름 주사위와 비치볼을 구매하세요.
+blossom_day_purchase_1<>벚꽃잎 팩
+blossom_day_purchase_2<>벚꽃나무 팩
+blossom_day_purchase_3<>벚꽃 숲 팩
+event_qixi_festival<>칠석의 날
+drop_time_qixi_festival<>이벤트 시작 후 13일
+source_money_type_87<>- 치시 게임\n- 축제 제안 \n- 페스티벌 상점
+golden_time_qixi_festival_drop_info<>손수건을 모아서 보상으로 교환하세요. 유휴 상자에서 1시간마다 손수건 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 손수건이 더 이상 드롭되지 않습니다.
+event_qixi_festival_wish_name<>사랑을 기원합니다
+qixi_festival_quest<>페스티벌 퀘스트
+event_qixi_festival_exchange_name<>축제 교류
+event_qixi_festival_specialoffer<>축제 특가
+qixi_festival_shop<>페스티벌 숍
+event_golden_time_qixi_festival_desc<>한가한 상자에서 손수건을 모으세요. 칠석 이벤트 아이템은 이벤트 종료 후 사라집니다.
+event_golden_time_qixi_festival_name<>사랑의 순간
+event_qixi_festival_quest_desc<>퀘스트를 완료하여 대나무 피리를 획득하세요.
+event_qixi_festival_exchange_desc<>손수건을 모으고 아래의 무제한 보상으로 교환하세요
+event_qixi_festival_shop_des<>행사에서 연주할 대나무 피리와 손수건을 구입하세요.
+qixi_festival_purchase_1<>회의 자료집
+qixi_festival_purchase_2<>데이트 팩
+qixi_festival_purchase_3<>서브라임 팩
+event_golden_time_may_day<>퀘스트를 완료하여 피냐타 클럽을 차지하세요.
+event_golden_time_may_day_desc<>Idle Chest에서 사탕을 모으세요. 멕시코 축제 아이템은 이벤트 종료 후 사라집니다.
+drop_time_may_day<>이벤트 시작 후 13일
+golden_time_may_day_drop_info<>사탕을 모아서 보상으로 교환하세요. 유휴 상자에서는 1시간마다 사탕 10개가 드롭됩니다. 이벤트 종료 12시간 전부터는 유휴 상자에서 사탕이 더 이상 드롭되지 않습니다.
+source_money_type_73<>- 럭키 빙고\n- 멕시코 페스티벌 특별 혜택\n- 멕시코 페스티벌 샵
+event_may_day<>멕시코 축제
+event_may_day_bingo_name<>럭키 빙고
+may_day_quest<>멕시코 페스티벌 퀘스트
+event_may_day_exchange_name<>멕시코 페스티벌 교류
+event_may_day_specialoffer<>멕시코 축제 특별 행사
+may_day_shop<>멕시코 페스티벌 숍
+event_may_day_quest_desc<>퀘스트를 완료하여 피냐타 곤봉을 획득하세요.
+event_may_day_exchange_desc<>사탕을 모으고 아래의 무제한 보상으로 교환하세요
+may_day_purchase_1<>나초 팩
+may_day_purchase_2<>타코 팩
+may_day_purchase_3<>부리토 팩
+event_may_day_shop_des<>이벤트 참여를 위해 피냐타 곤봉과 사탕을 구매하세요.
+event_golden_time_may_day_name<>멕시코 페스티벌 순간
+bingo_tut_may_day<>상자를 탭하여 여세요
+form<>양식을 작성하세요
+confirm_download_asset_bundle<>확인하다
+download_asset_bundle_noti<>새로운 콘텐츠를 다운로드하지 않으면 여정을 계속할 수 없습니다.\n게임을 업데이트하고 더욱 멋진 모험을 떠나보세요.

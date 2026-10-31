@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>Quà VIP
+vip_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi đạt VIP {1}.
+friend_boss_last_hit_reward_subject<>Phần thưởng từ Boss Bạn Bè
+friend_boss_last_hit_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi đánh Boss Bạn Bè kết liễu.
+friend_boss_cleared_reward_subject<>Phần thưởng từ Boss Bạn Bè
+friend_boss_cleared_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi đánh bại Boss Bạn Bè.
+friend_season_ranking_reward_subject<>Quà Xếp Hạng Bạn Bè
+friend_season_ranking_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng xếp hạng bạn bè mùa {1}. 
+arena_season_ranking_reward_subject<>Quà Xếp Hạng Mùa Giải Đấu Trường
+arena_season_ranking_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng xếp hạng mùa {1} tại Đấu Trường. 
+arena_team_season_ranking_reward_subject<>Quà Xếp Hạng Mùa Giải Đấu Trường Trí Dũng
+arena_team_season_ranking_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng xếp hạng mùa {1} tại Đấu Trường Trí Dũng. 
+guild_boss_daily_reward_subject<>Quà Boss Bang Hội Hàng Ngày
+guild_boss_daily_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi tham gia chiến Boss bang hội.
+guild_boss_monthly_reward_subject<>Quà Boss Bang Hội Hàng Tháng
+guild_boss_monthly_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng hàng tháng khi tham gia chiến Boss Bang hội.
+guild_dungeon_cleared_reward_subject<>Quà Hoả Ngục Bang Hội
+guild_dungeon_cleared_reward_content<>Xin chúc mừng! Bạn nhận được phần thưởng cho việc hoàn thành màn {1} của mùa {2} trong Hoả Ngục Bang Hội.
+guild_dungeon_season_reward_subject<>Quà Xếp Hạng Mùa Giải Hỏa Ngục Bang Hội.
+guild_dungeon_season_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi hoàn thành Hỏa Ngục Bang Hội mùa {1}.
+guild_war_battle_reward_subject<>Quà Bang Hội Chiến
+guild_war_battle_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi hoàn thành trận chiến {2} của mùa {1} trong Cuộc chiến bang hội.
+guild_war_season_reward_subject<>Quà Mùa Giải Bang Hội Chiến
+guild_war_season_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi hoàn thành phần {1} trong Cuộc chiến bang hội.
+purchase_raw_pack_subject<>Phần Thưởng Gói
+purchase_raw_pack_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi mua gói {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_subscription_pack_instant_subject<>Quà Gói Đăng ký
+purchase_subscription_pack_instant_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi đăng ký gói {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_subscription_pack_daily_subject<>Quà Hàng Ngày Gói đăng kí
+purchase_subscription_pack_daily_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng hàng ngày từ gói đăng ký {1}.\nNgày: {2}
+purchase_progress_pack_subject<>Quà Mua Gói Đặc biệt
+purchase_progress_pack_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi mua gói đặc biệt {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_limited_pack_subject<>Quà Từ Gói Giới Hạn
+purchase_limited_pack_content<>Xin chúc mừng! Bạn đã nhận được một phần thưởng khi mua gói {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_event_bundle_pack_subject<>Quà Từ Gói Sự Kiện
+purchase_event_bundle_pack_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi mua gói sự kiện {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_event_hot_deal_subject<>Quà Từ Gói Sự Kiện
+purchase_event_hot_deal_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi mua gói sự kiện {1}.\nID giao dịch: {2}\nThời gian giao dịch: {3} 
+purchase_subscription_pack_trial_subject<>Quà Hàng ngày Thử nghiệm Gói đăng ký
+purchase_subscription_pack_trial_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng hàng ngày từ gói đăng ký thử nghiệm {1}.\nNgày: {2}
+purchase_first_time_reward_subject<>Phần thưởng mua lần đầu
+purchase_first_time_reward_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng khi mua lần đầu tiên trong trò chơi
+event_arena_subject<>Sự Kiện Đấu Trường
+event_arena_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện Đấu Trường.
+event_casino_subject<>Sự Kiện Vòng Quay Định Mệnh
+event_casino_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện Vòng Quay Định Mệnh.
+event_hero_collect_subject<>Sự Kiện Thu Thập Anh Hùng
+event_hero_collect_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện thu thập Anh hùng.
+event_prophet_tree_subject<>Sự Kiện Cây Tiên Tri
+event_prophet_tree_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện Cây Tiên Tri.
+event_summon_subject<>Sự Kiện Triệu Hồi
+event_summon_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện Triệu Hồi.
+event_tavern_subject<>Sự Kiện Hội quán
+event_tavern_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng mùa {1} trong sự kiện Hội quán.
+event_mid_autumn_subject<>Sự Kiện Trung Thu
+event_mid_autumn_content<>Xin chúc mừng!
+email_change_password_subject<>Thay đổi mật khẩu email Summon Era
+email_change_password_content<>Tên tài khoản: {2}. Mã đặt lại mật khẩu {1}, Đã hết hạn: {3}
+email_validation_subject<>Email xác nhận Summon Era
+email_validation_content<>Mã xác thực {1}, Đã hết hạn: {3}
+email_sender_name<>Hỗ trợ
+welcome_mail_title<>Chào mừng bạn đến với Summoners Era!
+welcome_mail_content<>Thân gửi Triệu Hồi Sư,\n\nCảm ơn bạn đã tham gia trải nghiệm Summoners Era. Mong rằng chúng tôi có thể mang đến cho bạn những khoảng thời gian vui vẻ khi chơi game, hãy tận hưởng hết mình nhé.\n\nChúng tôi xin gửi bạn một món quà nho nhỏ kèm với lời cảm ơn từ đội phát triển.\n\nXin chân thành cảm ơn đóng góp to lớn của bạn vào cộng đồng Summoners Era, mong rằng chúng tôi có thể mang đến cho bạn thêm nhiều trải nghiệm tốt hơn nữa trong tương lai.\n\nThân ái & Quyết thắng,\nĐội phát triển Summoners Era.
+event_halloween_subject<>Sự kiện Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Phần thưởng Thẻ Black Friday
+event_black_friday_content<>Xin chúc mừng! Bạn đã nhận được phần thưởng hàng ngày từ Thẻ Black Friday {1}.\nNgày: {2}\n
+event_new_year_subject<>Phần thưởng Thẻ phước lành
+event_new_year_content<>Xin chúc mừng! Bạn nhận được phần thưởng hàng ngày từ Thẻ phước lành.\n\n
+event_lunar_new_year_clear_boss_reward_subject<>Phần thưởng Xua đuổi tà ma Tết Nguyên Đán
+event_lunar_new_year_clear_boss_reward_content<>Xin chúc mừng! Bạn nhận được những quà sau từ hoạt động Xua đuổi Tà ma Tết Nguyên Đán.
+event_new_hero_summon_subject<>Phần thưởng Triệu hồi truyền thuyết
+event_new_hero_summon_content<>Xin chúc mừng! Bạn nhận được những quà sau từ hoạt động Triệu hồi truyền thuyết.
+maintenance_inform_title<>THÔNG BÁO BẢO TRÌ MÁY CHỦ
+maintenance_inform_title_content<>Thân gửi các Triệu hồi sư,\nHội đồng xin thông báo máy chủ sẽ bảo trì vào {1}. Bạn sẽ không thể đăng nhập trong thời gian bảo trì.\nHãy lưu ý rằng bạn không thể chơi game trong thời gian bảo trì.\nTrân trọng.
+maintence_reward_title<>BẢO TRÌ HOÀN TẤT
+maintence_reward_content<>Thân gửi các Triệu hồi sư,\nViệc bảo trì đã hoàn tất. Chúng tôi xin gửi đến các bạn phần quà này như lời cảm ơn vì sự kiên nhẫn của các bạn trong thời gian bảo trì.\nHãy tiếp tục trải nghiệm và chinh phục nhé!
+event_easter_card_subject<>Phần thưởng Thẻ Thỏ Phục Sinh
+event_easter_card_content<>Xin chúc mừng! Bạn nhận được phần thưởng hàng ngày từ Thẻ Thỏ Phục Sinh.\nNgày: %s
+event_easter_egg_hunt_subject<>Phần thưởng hoạt động Thu thập Trứng phục sinh
+event_easter_egg_hunt_content<>Vì bạn đã tham gia các hoạt động trong sự kiện lễ Phục Sinh, những phần thưởng này được gửi đến bạn.
+event_new_hero_boss_ranking_subject<>Phần thưởng Vinh danh chiến tích
+event_new_hero_boss_ranking_content<>Xin chúc mừng! Bạn nhận được những phần thưởng này nhờ đạt top {1} bảng xếp hạng khiêu chiến boss.
+domain_challenge_reward_subject<>Phần thưởng Bí cảnh 
+domain_challenge_reward_content<>Xin chúc mừng! Bạn nhận được những phần thưởng này nhờ vượt qua {1} màn trong tính năng Bí cảnh
+event_new_hero_release_subject<>Phần thưởng Triệu hồi truyền thuyết
+event_new_hero_release_content<>Xin chúc mừng! Bạn nhận được những quà sau từ hoạt động Triệu hồi truyền thuyết.
+purchase_event_hero_release_subject<>Giao dịch thành công
+purchase_event_hero_release_content<>Bạn nhận được những vật phẩm này khi mua gói bán trong thời gian diễn ra sự kiện anh hùng mới. Cảm ơn bạn đã luôn ủng hộ chúng tôi.
+premium_reward_subject<>Phần thưởng phiên bản Premium
+premium_reward_content<>Bạn nhận được phần quà này vì đã mua bản premium của Summmoner Era. Cảm ơn vì đã luôn ủng hộ chúng tôi.
+event_server_open_arena_subject<>Phần thưởng Top Bảng xếp hạng Đấu Trường
+event_server_open_arena_content<>Xin chúc mừng. Những phần thưởng này được gửi tới bạn vì bạn đã tham gia sự kiện đua top Đấu Trường.
+event_server_open_arena_2_subject<>Phần thưởng Top Bảng xếp hạng Đấu Trường Trí Dũng
+event_server_open_arena_2_content<>Xin chúc mừng. Những phần thưởng này được gửi tới bạn vì bạn đã tham gia sự kiện đua top Đấu Trường Trí Dũng.
+event_unclaimed_reward<>Xin gửi phần thưởng bạn quên chưa nhận từ sự kiện.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Phần thưởng sự kiện Trận chiến định mệnh
+event_birthday_dark_light_content<>Xin chúc mừng! Bạn nhận được phần thưởng từ hoạt động sự kiện Trận chiến định mệnh.\n- Điểm phe Ánh sáng: {1} điểm\n- Điểm phe bóng tối: {2} điểm\n
+event_birthday_summon_subject<>Phần thưởng sự kiện Sinh nhật
+event_birthday_summon_content<>Xin chúc mừng! Bạn nhận được phần thưởng từ hoạt động nhiệm vụ tuần trong thời gian sự kiện Sinh nhật.
+event_birthday_prophet_tree_subject<>Phần thưởng sự kiện Sinh nhật
+event_birthday_prophet_tree_content<>Xin chúc mừng! Bạn nhận được phần thưởng từ hoạt động nhiệm vụ tuần trong thời gian sự kiện Sinh nhật.
+event_birthday_arena_subject<>Phần thưởng sự kiện Sinh nhật
+event_birthday_arena_content<>Xin chúc mừng! Bạn nhận được phần thưởng từ hoạt động nhiệm vụ tuần trong thời gian sự kiện Sinh nhật.
+event_birthday_casino_subject<>Phần thưởng sự kiện Sinh nhật
+event_birthday_casino_content<>Xin chúc mừng! Bạn nhận được phần thưởng từ hoạt động nhiệm vụ tuần trong thời gian sự kiện Sinh nhật.
+event_zodiac_exchange_subject<>Thư kết thúc sự kiện Cung hoàng đạo
+event_zodiac_exchange_content<>Gửi các Triệu hồi sư,\nSự kiện Cung hoàng đạo đã kết thúc. Tài nguyên Tinh cầu lấp lánh được chuyển đổi thành các tài nguyên sau. Chúng tôi rất cảm ơn các bạn đã tham gia sự kiện và hi vọng các bạn luôn có những giờ phút chơi game thoải mái.
+purchase_subscription_pack_daily_bonus_subject<>Phần thưởng tặng thêm VIP hàng ngày
+purchase_subscription_pack_daily_bonus_content<>Xin chúc mừng! Bạn nhận được những phần thưởng này từ quyền lợi tặng thêm của VIP với thẻ tháng.
+event_thanks_giving_subject<>Sự Kiện Lễ Tạ Ơn
+event_thanks_giving_content<>Xin chúc mừng! Bạn nhận được phần thưởng khi hoàn thành vòng quay xúc xắc trong sự kiện Lễ Tạ Ơn. Hãy nhận ngay
+event_christmas_subject<>Sự Kiện Giáng Sinh
+event_christmas_content<>Xin chúc mừng!
+event_boss_challenge_ranking_subject<>Phần thưởng Thử thách Boss
+event_boss_challenge_ranking_content<>Xin chúc mừng! Bạn nhận được những phần thưởng sau từ sự kiện Thử thách Boss
+event_valentine_subject<>Lễ Tình Nhân
+event_valentine_content<>Xin chúc mừng!
+event_lunar_new_year_subject<>Tết Nguyên Đán
+event_lunar_new_year_content<>Xin chúc mừng!
+event_summer_day_subject<>Sự Kiện Mùa Hè
+event_summer_day_content<>Xin chúc mừng!
+event_blossom_day_subject<>Lễ Hội Hoa Anh Đào
+event_blossom_day_content<>Xin chúc mừng!
+event_qixi_festival_subject<>Lễ Thất Tịch
+event_qixi_festival_content<>Xin chúc mừng!
+event_may_day_subject<>Lễ Hội Mê Xi Cô
+event_may_day_content<>Xin chúc mừng!

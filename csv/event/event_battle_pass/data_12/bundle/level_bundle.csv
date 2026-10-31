@@ -1,0 +1,7 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE498,WEB_SE498,com.se.sungame.up.level.1.ss12,com.sungame.summoners.era.up.level.1.ss12,com.fansipan.summoners.era.up.level.1.ss12,com.fansipan.summoners.era.up.level.1.ss12,2,195,100,,-1,1.99,FALSE
+,,,,,,,2,2,100,,,,
+2,SE499,WEB_SE499,com.se.sungame.up.level.5.ss12,com.sungame.summoners.era.up.level.5.ss12,com.fansipan.summoners.era.up.level.5.ss12,com.fansipan.summoners.era.up.level.5.ss12,2,195,500,,-1,6.99,FALSE
+,,,,,,,2,2,350,,,,
+3,SE500,WEB_SE500,com.se.sungame.up.level.10.ss12,com.sungame.summoners.era.up.level.10.ss12,com.fansipan.summoners.era.up.level.10.ss12,com.fansipan.summoners.era.up.level.10.ss12,2,195,1000,,-1,9.99,FALSE
+,,,,,,,2,2,500,,,,

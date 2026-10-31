@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,heal_amount,heal_target_position,heal_target_number
+Oceanee_Active,1.18,10,3,0.8,10,3
+Oceanee_Active,1.38,10,3,1,10,3
+Oceanee_Active,1.58,10,3,1.2,10,3

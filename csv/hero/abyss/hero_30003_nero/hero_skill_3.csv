@@ -1,0 +1,4 @@
+name,target_position,target_number,heal_resistance_chance,heal_resistance_duration
+Nero_Passive2,10,3,0.2,2
+Nero_Passive2,10,3,0.3,2
+Nero_Passive2,10,3,0.4,2

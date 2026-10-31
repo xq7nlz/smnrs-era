@@ -1,0 +1,4 @@
+name,stat_buff_chance,stat_buff_type,stat_buff_duration,stat_buff_amount,stat_buff_target_position,stat_buff_target_number
+Glugrgly_Passive3,1,31,2,0.15,1,1
+Glugrgly_Passive3,1,31,2,0.2,1,1
+Glugrgly_Passive3,1,31,2,0.25,1,1

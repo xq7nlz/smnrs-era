@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_trigger_class,effect_type,effect_chance,effect_duration
+Hweston_Active,0.91,10,2,4,1,0.2,2
+Hweston_Active,1.11,10,2,4,1,0.3,2
+Hweston_Active,1.31,10,2,4,1,0.4,2

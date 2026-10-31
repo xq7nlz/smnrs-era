@@ -1,0 +1,4 @@
+name,steal_stat_type,steal_stat_amount,calculation_type
+LifeKeeper_Passive2,1,0.02,2
+LifeKeeper_Passive2,1,0.04,2
+LifeKeeper_Passive2,1,0.07,2

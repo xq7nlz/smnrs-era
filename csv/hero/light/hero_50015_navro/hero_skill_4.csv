@@ -1,0 +1,4 @@
+name,health_trigger,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_amount,stat_buff_duration
+Navro_Passive3,0.5,10,5,31,0.15,3
+Navro_Passive3,0.5,10,5,31,0.2,3
+Navro_Passive3,0.5,10,5,31,0.25,3

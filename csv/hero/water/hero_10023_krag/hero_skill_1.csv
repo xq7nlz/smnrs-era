@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_type,dot_chance,dot_duration,dot_amount
+Krag_Active,1.2,21,2,11,1,2,0.2
+Krag_Active,1.4,21,2,11,1,2,0.25
+Krag_Active,1.6,21,2,11,1,2,0.3

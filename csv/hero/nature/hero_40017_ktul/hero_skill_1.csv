@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,bonus_class_hero,bonus_damage_with_class
+Ktul_Active,1.3,21,3,4,0.3
+Ktul_Active,1.5,21,3,4,0.4
+Ktul_Active,1.7,21,3,4,0.5

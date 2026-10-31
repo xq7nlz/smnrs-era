@@ -1,0 +1,4 @@
+name,damage_percent,target_position,target_number,bond_damage_percent,bond_cc_chance,bond_duration
+Osse_Passive1,1,10,2,0.4,0.4,1
+Osse_Passive1,1,10,2,0.5,0.5,1
+Osse_Passive1,1,10,2,0.6,0.6,1

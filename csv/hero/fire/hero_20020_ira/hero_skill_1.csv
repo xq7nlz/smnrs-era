@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type,stat_debuff_amount,stat_debuff_duration
+Ira_Active,1.2,34,1,1,2,0.25,2
+Ira_Active,1.4,34,1,1,2,0.25,2
+Ira_Active,1.6,34,1,1,2,0.25,2

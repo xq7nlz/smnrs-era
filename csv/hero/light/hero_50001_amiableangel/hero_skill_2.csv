@@ -1,0 +1,4 @@
+name,enemy_target_position,enemy_target_number,effect_type,effect_duration,bonus_damage,hp_percent_to_heal,ally_target_position,ally_target_number
+AmiableAngel_Passive1,10,2,100,1,0.15,1,10,1
+AmiableAngel_Passive1,10,2,100,1,0.3,1.2,10,1
+AmiableAngel_Passive1,10,2,100,1,0.45,1.5,10,1

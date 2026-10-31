@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>This ally gains {1}
+1_1_2_4<>All {2} allies gain {1}
+1_1_2_5<>All {2} allies gain {1}
+1_1_2_4_5<>All {2}/{3} allies gain {1}
+1_1_2_4_5_or<>All {2} allies, {3} allies gain {1}
+2_1<> + {1} Damage
+2_1_2<> + {1} Damage for {2}
+2_1_3<> + {1} Damage Against {2}
+2_1_4<> + {1} Damage Against {2}
+2_1_2_3<> + {1} Damage for {2} Against {3}
+2_1_2_4<> + {1} Damage for {2} Against {3}
+2_1_2_3_4<> + {1} Damage for {2} Against {3} and {4}
+2_1_2_3_4_or<> + {1} Damage for {2} Against {3} or {4}

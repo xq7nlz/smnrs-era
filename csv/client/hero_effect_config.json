@@ -1,0 +1,2299 @@
+[
+  {
+    "heroId": 0,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_0_skill_impact"
+    ]
+  },
+  {
+    "heroId": 10002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10002_attack_impact",
+      "hero_10002_attack_projectile",
+      "hero_10002_explosion",
+      "hero_10002_skill_cast",
+      "hero_10002_skill_impact",
+      "hero_10002_skill_projectile",
+      "hero_10002_skill_shooter"
+    ]
+  },
+  {
+    "heroId": 10003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10003_attack_bandan",
+      "hero_10003_attack_projectile",
+      "hero_10003_skill_bandan",
+      "hero_10003_skill_impact",
+      "hero_10003_skill_projectile",
+      "hero_10003_skill_tu",
+      "hero_10003_skill_weponfx"
+    ]
+  },
+  {
+    "heroId": 10004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10004_attack_impact",
+      "hero_10004_attack_projectile",
+      "hero_10004_attack_shot",
+      "hero_10004_eff_skill",
+      "hero_10004_skill_fx",
+      "hero_10004_skill_ice",
+      "hero_10004_skill_impact",
+      "hero_10004_skin_id_10004001_attack_impact",
+      "hero_10004_skin_id_10004001_attack_projectile",
+      "hero_10004_skin_id_10004001_attack_shot",
+      "hero_10004_skin_id_10004001_eff_skill",
+      "hero_10004_skin_id_10004001_skill_fx",
+      "hero_10004_skin_id_10004001_skill_ice",
+      "hero_10004_skin_id_10004001_skill_impact",
+      "hero_10004_skin_id_10004002_attack_impact",
+      "hero_10004_skin_id_10004002_attack_projectile",
+      "hero_10004_skin_id_10004002_attack_shot",
+      "hero_10004_skin_id_10004002_eff_skill",
+      "hero_10004_skin_id_10004002_skill_fx",
+      "hero_10004_skin_id_10004002_skill_ice",
+      "hero_10004_skin_id_10004002_skill_impact",
+      "hero_10004_skin_id_10004003_attack_impact",
+      "hero_10004_skin_id_10004003_attack_projectile",
+      "hero_10004_skin_id_10004003_attack_shot",
+      "hero_10004_skin_id_10004003_eff_skill",
+      "hero_10004_skin_id_10004003_environment",
+      "hero_10004_skin_id_10004003_skill_fx",
+      "hero_10004_skin_id_10004003_skill_ice",
+      "hero_10004_skin_id_10004003_skill_impact"
+    ]
+  },
+  {
+    "heroId": 10005,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10005_attack_cast_ball",
+      "hero_10005_attack_impact",
+      "hero_10005_attack_projectile",
+      "hero_10005_skill_cast_spin",
+      "hero_10005_skill_impact",
+      "hero_10005_skill_projectile",
+      "hero_10005_skin_id_10005001_attack_impact",
+      "hero_10005_skin_id_10005001_attack_projectile",
+      "hero_10005_skin_id_10005001_attack_slash",
+      "hero_10005_skin_id_10005001_skill_bg",
+      "hero_10005_skin_id_10005001_skill_cast_spin",
+      "hero_10005_skin_id_10005001_skill_impact",
+      "hero_10005_skin_id_10005001_skill_projectile",
+      "hero_10005_skin_id_10005002_attack_impact",
+      "hero_10005_skin_id_10005002_attack_projectile",
+      "hero_10005_skin_id_10005002_attack_slash",
+      "hero_10005_skin_id_10005002_skill_bg",
+      "hero_10005_skin_id_10005002_skill_cast_spin",
+      "hero_10005_skin_id_10005002_skill_impact",
+      "hero_10005_skin_id_10005002_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 10006,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10006_attack_hit",
+      "hero_10006_attack_impact",
+      "hero_10006_skill_background",
+      "hero_10006_skill_flashlighting",
+      "hero_10006_skill_impact",
+      "hero_10006_skill_lighting"
+    ]
+  },
+  {
+    "heroId": 10007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10007_attack_projectile",
+      "hero_10007_shockwave_shout",
+      "hero_10007_skill_impact",
+      "hero_10007_skin_id_10007001_attack_impact",
+      "hero_10007_skin_id_10007001_attack_projectile",
+      "hero_10007_skin_id_10007001_die",
+      "hero_10007_skin_id_10007001_shockwave_shout",
+      "hero_10007_skin_id_10007001_skill_impact"
+    ]
+  },
+  {
+    "heroId": 10008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10008_attack_impact",
+      "hero_10008_skill_impact"
+    ]
+  },
+  {
+    "heroId": 10009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10009_attack_impact",
+      "hero_10009_attack_projectile",
+      "hero_10009_skillhand",
+      "hero_10009_skill_impact",
+      "hero_10009_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 10010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10010_active_effect",
+      "hero_10010_skill_fx",
+      "hero_10010_skill_hand",
+      "hero_10010_skill_impact"
+    ]
+  },
+  {
+    "heroId": 10011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10011_attack_projectile",
+      "hero_10011_skill_impact",
+      "hero_10011_skill_projectile",
+      "hero_10011_skill_shooter",
+      "hero_10011_skin2_gunlight"
+    ]
+  },
+  {
+    "heroId": 10012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10012_attack_cast",
+      "hero_10012_skill_aura",
+      "hero_10012_skill_cast",
+      "hero_10012_skill_impact",
+      "hero_10012_skill_tu",
+      "hero_10012_skill_xien"
+    ]
+  },
+  {
+    "heroId": 10013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10013_attack_projectile",
+      "hero_10013_skill_impact",
+      "hero_10013_skill_water"
+    ]
+  },
+  {
+    "heroId": 10014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10014_attack_projectile",
+      "hero_10014_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 10015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10015_attack_impact",
+      "hero_10015_attack_projectile",
+      "hero_10015_attack_shooter",
+      "hero_10015_skill_impact",
+      "hero_10015_skill_projectile",
+      "hero_10015_skill_shooter",
+      "hero_10015_skill_tu"
+    ]
+  },
+  {
+    "heroId": 10016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10016_skill_atk",
+      "hero_10016_waterhold",
+      "hero_10016_waterhold2"
+    ]
+  },
+  {
+    "heroId": 10017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10017_attack_impact",
+      "hero_10017_skill_jump",
+      "hero_10017_skill_lighting",
+      "hero_10017_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 10018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10018_attack_slash",
+      "hero_10018_eff_skill_skin_1",
+      "hero_10018_eff_skill_skin_2",
+      "hero_10018_skill_mask"
+    ]
+  },
+  {
+    "heroId": 10019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10019_attack_projectile",
+      "hero_10019_skill_impact",
+      "hero_10019_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 10020,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10020_atk_shooter",
+      "hero_10020_attack_projectile",
+      "hero_10020_skill_impact",
+      "hero_10020_skill_projectile",
+      "hero_10020_skill_shooter"
+    ]
+  },
+  {
+    "heroId": 10021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10021_skill_dust"
+    ]
+  },
+  {
+    "heroId": 10022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10022_attack_projectile",
+      "hero_10022_skill_impact",
+      "hero_10022_skill_projectile",
+      "hero_10022_skill_rip",
+      "hero_10022_skill_shot",
+      "hero_10022_skill_tu"
+    ]
+  },
+  {
+    "heroId": 10023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10023_eff_skill_skin_1",
+      "hero_10023_eff_skill_skin_2"
+    ]
+  },
+  {
+    "heroId": 10024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10024_projectile",
+      "hero_10024_skillfx"
+    ]
+  },
+  {
+    "heroId": 10025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10025_attack_slash",
+      "hero_10025_skill_impact",
+      "hero_10025_skill_smoke"
+    ]
+  },
+  {
+    "heroId": 10026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_10026_atk",
+      "hero_10026_skillfx"
+    ]
+  },
+  {
+    "heroId": 1,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_1_skill_cast",
+      "hero_1_skill_impact"
+    ]
+  },
+  {
+    "heroId": 20001,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20001_attack_projectile",
+      "hero_20001_attack_wind_shoot",
+      "hero_20001_egg_die",
+      "hero_20001_egg_end",
+      "hero_20001_skill_impact",
+      "hero_20001_skill_projectile",
+      "hero_20001_skill_smoke_jump",
+      "hero_20001_skill_wind_shoot",
+      "hero_20001_skin_id_20001001_attack_impact",
+      "hero_20001_skin_id_20001001_attack_projectile",
+      "hero_20001_skin_id_20001001_egg_die",
+      "hero_20001_skin_id_20001001_egg_end",
+      "hero_20001_skin_id_20001001_egg_tranform",
+      "hero_20001_skin_id_20001001_environment",
+      "hero_20001_skin_id_20001001_skill_impact",
+      "hero_20001_skin_id_20001001_skill_projectile",
+      "hero_20001_skin_id_20001001_skill_smoke_jump",
+      "hero_20001_skin_id_20001001_skill_wind_shoot",
+      "hero_20001_skin_id_20001002_attack_impact",
+      "hero_20001_skin_id_20001002_attack_projectile",
+      "hero_20001_skin_id_20001002_egg_die",
+      "hero_20001_skin_id_20001002_egg_end",
+      "hero_20001_skin_id_20001002_egg_r3",
+      "hero_20001_skin_id_20001002_egg_tranform",
+      "hero_20001_skin_id_20001002_rabbit_idle",
+      "hero_20001_skin_id_20001002_skill_eff",
+      "hero_20001_skin_id_20001002_skill_impact",
+      "hero_20001_skin_id_20001002_skill_smoke_jump",
+      "hero_20001_skin_id_20001002_skill_wind_shoot",
+      "hero_20001_skin_id_20001003_attack_impact",
+      "hero_20001_skin_id_20001003_attack_projectile",
+      "hero_20001_skin_id_20001003_egg_die",
+      "hero_20001_skin_id_20001003_egg_end",
+      "hero_20001_skin_id_20001003_egg_r3",
+      "hero_20001_skin_id_20001003_egg_tranform",
+      "hero_20001_skin_id_20001003_skill_impact",
+      "hero_20001_skin_id_20001003_skill_projectile",
+      "hero_20001_skin_id_20001003_skill_smoke_jump",
+      "hero_20001_skin_id_20001003_skill_wind_shoot",
+      "hero_20001_skin_id_20001004_attack_impact",
+      "hero_20001_skin_id_20001004_attack_projectile",
+      "hero_20001_skin_id_20001004_egg_die",
+      "hero_20001_skin_id_20001004_egg_end",
+      "hero_20001_skin_id_20001004_egg_r3",
+      "hero_20001_skin_id_20001004_egg_tranform",
+      "hero_20001_skin_id_20001004_rabbit_idle",
+      "hero_20001_skin_id_20001004_skill_eff",
+      "hero_20001_skin_id_20001004_skill_impact",
+      "hero_20001_skin_id_20001004_skill_smoke_jump",
+      "hero_20001_skin_id_20001004_skill_wind_shoot"
+    ]
+  },
+  {
+    "heroId": 20002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20002_attack_flash",
+      "hero_20002_attack_impact",
+      "hero_20002_attack_projectile",
+      "hero_20002_catfx",
+      "hero_20002_skill_impact",
+      "hero_20002_skill_phoenix_rotate",
+      "hero_20002_skill_projectile",
+      "hero_20002_skin_id_20002001_attack_flash",
+      "hero_20002_skin_id_20002001_attack_impact",
+      "hero_20002_skin_id_20002001_attack_projectile",
+      "hero_20002_skin_id_20002001_catfx",
+      "hero_20002_skin_id_20002001_skill_impact",
+      "hero_20002_skin_id_20002001_skill_phoenix_rotate",
+      "hero_20002_skin_id_20002001_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 20003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20003_attack_impact",
+      "hero_20003_attack_slash",
+      "hero_20003_attack_smoke",
+      "hero_20003_skill_fx",
+      "hero_20003_skill_impact",
+      "hero_20003_skill_lighting"
+    ]
+  },
+  {
+    "heroId": 20004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20004_attack_impact",
+      "hero_20004_attack_slash",
+      "hero_20004_skill_impact",
+      "hero_20004_skill_slash",
+      "hero_20004_teleport",
+      "hero_20004_teleport_2",
+      "hero_20004_teleport_end"
+    ]
+  },
+  {
+    "heroId": 20005,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20005_attack_cast_ex",
+      "hero_20005_attack_cast_glow",
+      "hero_20005_attack_impact",
+      "hero_20005_skill_cast_ex",
+      "hero_20005_skill_cast_glow_leg",
+      "hero_20005_skill_impact",
+      "hero_20005_skill_slash"
+    ]
+  },
+  {
+    "heroId": 20006,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20006_attack_cast",
+      "hero_20006_attack_impact",
+      "hero_20006_attack_projectile",
+      "hero_20006_skill_gate",
+      "hero_20006_skill_impact",
+      "hero_20006_skill_projectile",
+      "hero_20006_skill_ring",
+      "hero_20006_skin_id_20006001_attack_cast",
+      "hero_20006_skin_id_20006001_attack_impact",
+      "hero_20006_skin_id_20006001_attack_projectile",
+      "hero_20006_skin_id_20006001_skill_gate",
+      "hero_20006_skin_id_20006001_skill_impact",
+      "hero_20006_skin_id_20006001_skill_projectile",
+      "hero_20006_skin_id_20006001_skill_ring"
+    ]
+  },
+  {
+    "heroId": 20007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20007_attack_impact",
+      "hero_20007_attack_projectile",
+      "hero_20007_skill_fox",
+      "hero_20007_skill_impact"
+    ]
+  },
+  {
+    "heroId": 20008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20008_attack_impact",
+      "hero_20008_attack_projectile",
+      "hero_20008_attack_slash",
+      "hero_20008_skill_impact"
+    ]
+  },
+  {
+    "heroId": 20009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20009_attack_impact",
+      "hero_20009_attack_projectile",
+      "hero_20009_skill_explosion",
+      "hero_20009_skill_hithoi",
+      "hero_20009_skill_impact",
+      "hero_20009_skill_projectile",
+      "hero_20009_skill_smoke",
+      "hero_20009_skin_id_20009001_attack_impact",
+      "hero_20009_skin_id_20009001_attack_projectile",
+      "hero_20009_skin_id_20009001_skill_explosion",
+      "hero_20009_skin_id_20009001_skill_hithoi",
+      "hero_20009_skin_id_20009001_skill_impact",
+      "hero_20009_skin_id_20009001_skill_projectile",
+      "hero_20009_skin_id_20009001_skill_smoke"
+    ]
+  },
+  {
+    "heroId": 20010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20010_attack_cast",
+      "hero_20010_attack_ground",
+      "hero_20010_attack_impact",
+      "hero_20010_skill_ground",
+      "hero_20010_skill_ground2",
+      "hero_20010_skill_impact"
+    ]
+  },
+  {
+    "heroId": 20011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20011_attack_impact",
+      "hero_20011_attack_slash",
+      "hero_20011_fx_skill_skin_1",
+      "hero_20011_fx_skill_skin_2",
+      "hero_20011_skill_dap",
+      "hero_20011_skill_impact",
+      "hero_20011_skill_smoke_jump"
+    ]
+  },
+  {
+    "heroId": 20012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20012_attack_impact",
+      "hero_20012_attack_slash",
+      "hero_20012_skill_projectile",
+      "hero_20012_skill_slash",
+      "hero_20012_skill_smoke_jump"
+    ]
+  },
+  {
+    "heroId": 20013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20013_attack_cast",
+      "hero_20013_eff_skill",
+      "hero_20013_skill_impact",
+      "hero_20013_skill_laodi",
+      "hero_20013_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 20014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20014_attack_ground",
+      "hero_20014_attack_impact",
+      "hero_20014_attack_projectile",
+      "hero_20014_eff_skill",
+      "hero_20014_skill_ground",
+      "hero_20014_skill_impact",
+      "hero_20014_skill_smoke_jump"
+    ]
+  },
+  {
+    "heroId": 20015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20015_attack_impact",
+      "hero_20015_attack_projectile",
+      "hero_20015_skill",
+      "hero_20015_skill_impact",
+      "hero_20015_skill_mua",
+      "hero_20015_skill_xoay"
+    ]
+  },
+  {
+    "heroId": 20016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20016_skill_projectile",
+      "hero_20016_slash",
+      "hero_20016_trailatk"
+    ]
+  },
+  {
+    "heroId": 20017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20017_atk",
+      "hero_20017_skill",
+      "hero_20017_skill_slash"
+    ]
+  },
+  {
+    "heroId": 20018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20018_attack_impact",
+      "hero_20018_attack_projectile",
+      "hero_20018_eff_atk",
+      "hero_20018_eff_skill",
+      "hero_20018_skill_impact",
+      "hero_20018_skill_projectile",
+      "hero_20018_tu_da"
+    ]
+  },
+  {
+    "heroId": 20019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20019_attack_impact",
+      "hero_20019_skill_impact",
+      "hero_20019_skill_vut"
+    ]
+  },
+  {
+    "heroId": 20020,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20020_eff_skill",
+      "hero_20020_skill_impact"
+    ]
+  },
+  {
+    "heroId": 20021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20021_attack_banten",
+      "hero_20021_attack_projectile",
+      "hero_20021_skill_banten",
+      "hero_20021_skill_impact",
+      "hero_20021_skill_tu"
+    ]
+  },
+  {
+    "heroId": 20022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20022_attack_projectile",
+      "hero_20022_attack_tu",
+      "hero_20022_skill_hand_skin_1",
+      "hero_20022_skill_hand_skin_2"
+    ]
+  },
+  {
+    "heroId": 20023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20023_attack_spark",
+      "hero_20023_skill_impact",
+      "hero_20023_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 20024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20024_skill_sparks"
+    ]
+  },
+  {
+    "heroId": 20025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20025_attack_impact",
+      "hero_20025_attack_projectile",
+      "hero_20025_skill_ban",
+      "hero_20025_skill_projectile",
+      "hero_20025_skill_spark"
+    ]
+  },
+  {
+    "heroId": 20026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_20026_attack_impact",
+      "hero_20026_attack_projectile",
+      "hero_20026_skill_cast_ex",
+      "hero_20026_skill_impact",
+      "hero_20026_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 2,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_2_skill_cast_ex",
+      "hero_2_skill_cast_novid",
+      "hero_2_skill_impact"
+    ]
+  },
+  {
+    "heroId": 30001,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30001_attack_impact",
+      "hero_30001_attack_slash",
+      "hero_30001_eff_skill",
+      "hero_30001_skill_impact",
+      "hero_30001_skill_slash",
+      "hero_30001_skill_tu",
+      "hero_30001_skill_weapon",
+      "hero_30001_skin_id_30001001_attack_effect",
+      "hero_30001_skin_id_30001001_attack_impact",
+      "hero_30001_skin_id_30001001_attack_slash",
+      "hero_30001_skin_id_30001001_eff_skill",
+      "hero_30001_skin_id_30001001_environment",
+      "hero_30001_skin_id_30001001_skill_impact",
+      "hero_30001_skin_id_30001001_skill_slash",
+      "hero_30001_skin_id_30001001_skill_tu",
+      "hero_30001_skin_id_30001001_skill_weapon",
+      "hero_30001_skin_id_30001001_slash_dust",
+      "hero_30001_skin_id_30001001_teleport",
+      "hero_30001_slash_dust",
+      "hero_30001_teleport"
+    ]
+  },
+  {
+    "heroId": 30002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30002_attack_impact",
+      "hero_30002_attack_slash",
+      "hero_30002_skill_fx",
+      "hero_30002_skill_impact",
+      "hero_30002_tu"
+    ]
+  },
+  {
+    "heroId": 30003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30003_attack_cast",
+      "hero_30003_attack_impact",
+      "hero_30003_attack_projectile",
+      "hero_30003_eff_skill",
+      "hero_30003_skill_cast",
+      "hero_30003_skill_impact",
+      "hero_30003_skin_id_30003001_attack_book",
+      "hero_30003_skin_id_30003001_attack_cast",
+      "hero_30003_skin_id_30003001_attack_impact",
+      "hero_30003_skin_id_30003001_attack_projectile",
+      "hero_30003_skin_id_30003001_eff_skill",
+      "hero_30003_skin_id_30003001_skill_cast",
+      "hero_30003_skin_id_30003001_skill_impact"
+    ]
+  },
+  {
+    "heroId": 30004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30004_attack_bandan",
+      "hero_30004_attack_projectile",
+      "hero_30004_atttack_impact",
+      "hero_30004_eff_attack",
+      "hero_30004_skillfx",
+      "hero_30004_skill_effect",
+      "hero_30004_skill_eyes",
+      "hero_30004_skill_impact2",
+      "hero_30004_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30006,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30006_attack_impact",
+      "hero_30006_attack_projectile",
+      "hero_30006_skill_hole",
+      "hero_30006_skill_impact",
+      "hero_30006_skill_thunder",
+      "hero_30006_skill_wind",
+      "hero_30006_skin_id_30006001_attack_impact",
+      "hero_30006_skin_id_30006001_attack_projectile",
+      "hero_30006_skin_id_30006001_environment",
+      "hero_30006_skin_id_30006001_skill_hole",
+      "hero_30006_skin_id_30006001_skill_impact",
+      "hero_30006_skin_id_30006001_skill_thunder",
+      "hero_30006_skin_id_30006001_skill_wind"
+    ]
+  },
+  {
+    "heroId": 30007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30007_attack_impact",
+      "hero_30007_attack_projectile",
+      "hero_30007_cast_attack",
+      "hero_30007_cast_skill",
+      "hero_30007_explosion",
+      "hero_30007_skin_id_30007001_attack_impact",
+      "hero_30007_skin_id_30007001_attack_projectile",
+      "hero_30007_skin_id_30007001_cast_attack",
+      "hero_30007_skin_id_30007001_cast_skill",
+      "hero_30007_skin_id_30007001_skill_impact",
+      "hero_30007_skin_id_30007001_skill_smoke",
+      "hero_30007_skin_id_30007001_skill_tu",
+      "hero_30007_skin_id_30007001_skill_tu2",
+      "hero_30007_skin_id_30007002_attack_impact",
+      "hero_30007_skin_id_30007002_attack_projectile",
+      "hero_30007_skin_id_30007002_cast_attack",
+      "hero_30007_skin_id_30007002_cast_skill",
+      "hero_30007_skin_id_30007002_environment",
+      "hero_30007_skin_id_30007002_explosion",
+      "hero_30007_skin_id_30007002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 30008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30008_attack_ground",
+      "hero_30008_fx_skill",
+      "hero_30008_skill_blood_foot",
+      "hero_30008_skill_impact",
+      "hero_30008_skin_id_30008001_attack_ground",
+      "hero_30008_skin_id_30008001_skill_blood_foot",
+      "hero_30008_skin_id_30008001_skill_crack",
+      "hero_30008_skin_id_30008001_skill_impact",
+      "hero_30008_skin_id_30008001_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30009_attack_impact",
+      "hero_30009_attack_projectile",
+      "hero_30009_skill_cast",
+      "hero_30009_skill_cast_datsung",
+      "hero_30009_skill_impact",
+      "hero_30009_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30010_attack_impact",
+      "hero_30010_attack_projectile",
+      "hero_30010_skill_impact",
+      "hero_30010_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30011_attack_bandan",
+      "hero_30011_attack_impact",
+      "hero_30011_attack_projectile",
+      "hero_30011_skill_fx",
+      "hero_30011_skill_impact",
+      "hero_30011_skill_skullfx"
+    ]
+  },
+  {
+    "heroId": 30012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30012_attack_impact",
+      "hero_30012_attack_projectile",
+      "hero_30012_skill_cast_ground"
+    ]
+  },
+  {
+    "heroId": 30013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30013_eff_skill",
+      "hero_30013_impactskill",
+      "hero_30013_skill_impact",
+      "hero_30013_slash",
+      "hero_30013_tu"
+    ]
+  },
+  {
+    "heroId": 30014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30014_skill_dap",
+      "hero_30014_skill_daubo",
+      "hero_30014_skill_go",
+      "hero_30014_skill_impact",
+      "hero_30014_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30015_atk",
+      "hero_30015_skill"
+    ]
+  },
+  {
+    "heroId": 30016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30016_attack_projectile"
+    ]
+  },
+  {
+    "heroId": 30017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30017_atk",
+      "hero_30017_skill_castshot",
+      "hero_30017_skill_projectile",
+      "hero_30017_skill_slash"
+    ]
+  },
+  {
+    "heroId": 30018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30018_slash"
+    ]
+  },
+  {
+    "heroId": 30019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30019_attack_jump",
+      "hero_30019_attack_slash",
+      "hero_30019_skill_impact",
+      "hero_30019_skill_jump",
+      "hero_30019_skill_projectile",
+      "hero_30019_skill_shooter"
+    ]
+  },
+  {
+    "heroId": 30021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30021_attack_bandan",
+      "hero_30021_attack_projectile",
+      "hero_30021_skill_impact",
+      "hero_30021_skill_truong",
+      "hero_30021_skill_wheel"
+    ]
+  },
+  {
+    "heroId": 30022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30022_attack_projectile_skin_1",
+      "hero_30022_attack_projectile_skin_2",
+      "hero_30022_skill_aura"
+    ]
+  },
+  {
+    "heroId": 30023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30023_attack_impact",
+      "hero_30023_attack_projectile",
+      "hero_30023_skill_effect",
+      "hero_30023_skill_impact",
+      "hero_30023_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30024_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30025_attack_impact",
+      "hero_30025_attack_projectile",
+      "hero_30025_skill_cast_hut",
+      "hero_30025_skill_impact",
+      "hero_30025_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 30026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30026_attack_impact",
+      "hero_30026_attack_projectile",
+      "hero_30026_skill_effect",
+      "hero_30026_skill_impact",
+      "hero_30026_skill_projectile",
+      "hero_30026_skill_shot"
+    ]
+  },
+  {
+    "heroId": 30027,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_30027_attack_impact",
+      "hero_30027_attack_slash",
+      "hero_30027_rage",
+      "hero_30027_skill_cast",
+      "hero_30027_skill_impact",
+      "hero_30027_skill_slash",
+      "hero_30027_skill_swordfx",
+      "hero_30027_skin_id_30027001_attack_impact",
+      "hero_30027_skin_id_30027001_attack_slash",
+      "hero_30027_skin_id_30027001_skill_cast",
+      "hero_30027_skin_id_30027001_skill_impact",
+      "hero_30027_skin_id_30027001_skill_slash",
+      "hero_30027_skin_id_30027001_skill_swordfx",
+      "hero_30027_skin_id_30027002_attack_impact",
+      "hero_30027_skin_id_30027002_attack_slash",
+      "hero_30027_skin_id_30027002_skill_cast",
+      "hero_30027_skin_id_30027002_skill_impact",
+      "hero_30027_skin_id_30027003_attack_impact",
+      "hero_30027_skin_id_30027003_attack_slash",
+      "hero_30027_skin_id_30027003_skill_cast",
+      "hero_30027_skin_id_30027003_skill_impact",
+      "hero_30027_skin_id_30027003_skill_slash",
+      "hero_30027_skin_id_30027003_skill_swordfx"
+    ]
+  },
+  {
+    "heroId": 3,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_3_skill_cast",
+      "hero_3_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40001,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40001_attack_impact",
+      "hero_40001_attack_projectile",
+      "hero_40001_attack_shooter",
+      "hero_40001_skill_aura",
+      "hero_40001_skill_ballfx",
+      "hero_40001_skill_bandan",
+      "hero_40001_skill_impact",
+      "hero_40001_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 40002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40002_attackfx",
+      "hero_40002_attack_impact",
+      "hero_40002_eff_attack",
+      "hero_40002_eff_skill",
+      "hero_40002_skillb2",
+      "hero_40002_skilltu",
+      "hero_40002_skill_impact",
+      "hero_40002_skin_id_40002002_attackfx",
+      "hero_40002_skin_id_40002002_attack_impact",
+      "hero_40002_skin_id_40002002_eff_attack",
+      "hero_40002_skin_id_40002002_eff_skill",
+      "hero_40002_skin_id_40002002_skillb2",
+      "hero_40002_skin_id_40002002_skilltu",
+      "hero_40002_skin_id_40002002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40003_attack_ball",
+      "hero_40003_attack_impact",
+      "hero_40003_attack_projectile",
+      "hero_40003_skillfx",
+      "hero_40003_skill_impact",
+      "hero_40003_skill_projectile",
+      "hero_40003_skin_id_40003001_attack_ball",
+      "hero_40003_skin_id_40003001_attack_impact",
+      "hero_40003_skin_id_40003001_attack_projectile",
+      "hero_40003_skin_id_40003001_skillfx",
+      "hero_40003_skin_id_40003001_skill_aura",
+      "hero_40003_skin_id_40003001_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40004_attack_impact",
+      "hero_40004_attack_slash",
+      "hero_40004_fx_skill",
+      "hero_40004_skill_castfx",
+      "hero_40004_skill_impact",
+      "hero_40004_skill_slash"
+    ]
+  },
+  {
+    "heroId": 40005,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40005_atk_bandan",
+      "hero_40005_attack_impact",
+      "hero_40005_attack_projectile",
+      "hero_40005_eff_skill",
+      "hero_40005_skillfx",
+      "hero_40005_skilltu",
+      "hero_40005_skill_ef"
+    ]
+  },
+  {
+    "heroId": 40007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40007_attack_impact",
+      "hero_40007_attack_projectile",
+      "hero_40007_skill_impact",
+      "hero_40007_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 40008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40008_attack_impact",
+      "hero_40008_attack_projectile",
+      "hero_40008_skill_arrow",
+      "hero_40008_skill_cast_ex",
+      "hero_40008_skill_cast_ex_3",
+      "hero_40008_skill_impact",
+      "hero_40008_skill_projectile",
+      "hero_40008_skin_id_40008001_attack_impact",
+      "hero_40008_skin_id_40008001_attack_projectile",
+      "hero_40008_skin_id_40008001_skill_arrow",
+      "hero_40008_skin_id_40008001_skill_body",
+      "hero_40008_skin_id_40008001_skill_cast_ex",
+      "hero_40008_skin_id_40008001_skill_cast_ex_3",
+      "hero_40008_skin_id_40008001_skill_impact",
+      "hero_40008_skin_id_40008002_attack_impact",
+      "hero_40008_skin_id_40008002_attack_projectile",
+      "hero_40008_skin_id_40008002_skill_arrow",
+      "hero_40008_skin_id_40008002_skill_body",
+      "hero_40008_skin_id_40008002_skill_cast_ex",
+      "hero_40008_skin_id_40008002_skill_cast_ex_3",
+      "hero_40008_skin_id_40008002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40009_attack_impact",
+      "hero_40009_eff_skill_1_skin_1",
+      "hero_40009_eff_skill_1_skin_2",
+      "hero_40009_eff_skill_1_skin_3",
+      "hero_40009_eff_skill_2_skin_1",
+      "hero_40009_eff_skill_2_skin_2",
+      "hero_40009_eff_skill_2_skin_3",
+      "hero_40009_eff_skill_3_skin_1",
+      "hero_40009_eff_skill_3_skin_2",
+      "hero_40009_eff_skill_3_skin_3",
+      "hero_40009_skill_impact",
+      "hero_40009_skill_smoke",
+      "hero_40009_skill_start"
+    ]
+  },
+  {
+    "heroId": 40010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40010_attack_impact",
+      "hero_40010_attack_projectile",
+      "hero_40010_skill_impact",
+      "hero_40010_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 40011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40011_atk_ef",
+      "hero_40011_attack_impact",
+      "hero_40011_skill_dap",
+      "hero_40011_skill_impact",
+      "hero_40011_skill_smoke"
+    ]
+  },
+  {
+    "heroId": 40012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40012_attack_impact",
+      "hero_40012_attack_projectile",
+      "hero_40012_skill",
+      "hero_40012_skill_impact",
+      "hero_40012_skill_tianhac"
+    ]
+  },
+  {
+    "heroId": 40013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40013_attack",
+      "hero_40013_skill_impact",
+      "hero_40013_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 40014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40014_skill_cast_fx",
+      "hero_40014_skill_impact",
+      "hero_40014_skill_slash"
+    ]
+  },
+  {
+    "heroId": 40015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40015_atk",
+      "hero_40015_skill_giao",
+      "hero_40015_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40016_attack_projectile",
+      "hero_40016_eff_skill_skin_1",
+      "hero_40016_eff_skill_skin_2",
+      "hero_40016_skill_jump"
+    ]
+  },
+  {
+    "heroId": 40017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40017_atk",
+      "hero_40017_attack_projectile",
+      "hero_40017_impactskill",
+      "hero_40017_skill_eff",
+      "hero_40017_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40018_attack_slash",
+      "hero_40018_skill_dash",
+      "hero_40018_skill_impact",
+      "hero_40018_skill_slash"
+    ]
+  },
+  {
+    "heroId": 40019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40019_attack_projectile_skin_1",
+      "hero_40019_attack_projectile_skin_2",
+      "hero_40019_skill_impact",
+      "hero_40019_skill_projectile_skin_1",
+      "hero_40019_skill_projectile_skin_2"
+    ]
+  },
+  {
+    "heroId": 40020,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40020_attack_effect",
+      "hero_40020_attack_projectile",
+      "hero_40020_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 40021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40021_eff_skill_skin_1",
+      "hero_40021_eff_skill_skin_2",
+      "hero_40021_skin_1_atk_slash",
+      "hero_40021_skin_2_atk_slash"
+    ]
+  },
+  {
+    "heroId": 40022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40022_attack_projectile",
+      "hero_40022_skill_cau",
+      "hero_40022_skill_impact",
+      "hero_40022_skill_tu"
+    ]
+  },
+  {
+    "heroId": 40023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40023_attack_impact",
+      "hero_40023_jump",
+      "hero_40023_shockwave",
+      "hero_40023_skill_dash",
+      "hero_40023_skill_fx",
+      "hero_40023_skill_impact",
+      "hero_40023_skill_jump",
+      "hero_40023_skill_slash"
+    ]
+  },
+  {
+    "heroId": 40024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40024_attack_projectile",
+      "hero_40024_attack_shockwave",
+      "hero_40024_skill_effect",
+      "hero_40024_skill_impact",
+      "hero_40024_skill_projectile",
+      "hero_40024_skill_shockwave"
+    ]
+  },
+  {
+    "heroId": 40025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40025_attack_bandan",
+      "hero_40025_attack_impact",
+      "hero_40025_attack_projectile",
+      "hero_40025_skill_cast",
+      "hero_40025_skill_impact"
+    ]
+  },
+  {
+    "heroId": 40026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40026_attack_portal",
+      "hero_40026_skill_impact",
+      "hero_40026_skill_trailcay"
+    ]
+  },
+  {
+    "heroId": 40027,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_40027_appaer_main_scene",
+      "hero_40027_attack_cast_dragon",
+      "hero_40027_attack_impact_dragon",
+      "hero_40027_attack_impact_human",
+      "hero_40027_attack_projectile_human",
+      "hero_40027_skill_cast",
+      "hero_40027_skill_charge",
+      "hero_40027_skill_egg_energy",
+      "hero_40027_skill_environment",
+      "hero_40027_skill_form_egg",
+      "hero_40027_skill_impact",
+      "hero_40027_skill_leaf_start",
+      "hero_40027_skill_start",
+      "hero_40027_skin_id_40027001_attack_cast_dragon",
+      "hero_40027_skin_id_40027001_attack_impact_dragon",
+      "hero_40027_skin_id_40027001_attack_impact_human",
+      "hero_40027_skin_id_40027001_attack_projectile_human",
+      "hero_40027_skin_id_40027001_idle_human_appear",
+      "hero_40027_skin_id_40027001_idle_human_disappear",
+      "hero_40027_skin_id_40027001_skill",
+      "hero_40027_skin_id_40027001_skill_egg_energy",
+      "hero_40027_skin_id_40027001_skill_environment",
+      "hero_40027_skin_id_40027001_skill_impact",
+      "hero_40027_skin_id_40027001_skill_start",
+      "hero_40027_skin_id_40027001_transform_convert",
+      "hero_40027_transform_convert"
+    ]
+  },
+  {
+    "heroId": 4,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_4_skill_impact",
+      "hero_4_smoke",
+      "hero_4_teleport"
+    ]
+  },
+  {
+    "heroId": 50001,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50001_attack_impact",
+      "hero_50001_attack_projectile",
+      "hero_50001_skill_impact",
+      "hero_50001_skin_id_50001001_attack_impact",
+      "hero_50001_skin_id_50001001_attack_projectile",
+      "hero_50001_skin_id_50001001_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50002_skill_cast_ex",
+      "hero_50002_skill_cast_ground",
+      "hero_50002_skill_cast_light",
+      "hero_50002_skill_impact",
+      "hero_50002_skin_id_50002001_attack_impact",
+      "hero_50002_skin_id_50002001_environment",
+      "hero_50002_skin_id_50002001_skill_cast_ground",
+      "hero_50002_skin_id_50002001_skill_cast_light",
+      "hero_50002_skin_id_50002001_skill_ghost",
+      "hero_50002_skin_id_50002001_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50003_attack_cast_ex",
+      "hero_50003_attack_impact",
+      "hero_50003_attack_projectile",
+      "hero_50003_eff_skill_skin_1",
+      "hero_50003_eff_skill_skin_2",
+      "hero_50003_eff_skill_skin_3",
+      "hero_50003_skill_impact",
+      "hero_50003_skin_id_50003001_attack_cast_ex",
+      "hero_50003_skin_id_50003001_attack_impact",
+      "hero_50003_skin_id_50003001_attack_projectile",
+      "hero_50003_skin_id_50003001_skill_bg",
+      "hero_50003_skin_id_50003001_skill_cast_fx",
+      "hero_50003_skin_id_50003001_skill_impact",
+      "hero_50003_skin_id_50003002_attack_cast_ex",
+      "hero_50003_skin_id_50003002_attack_impact",
+      "hero_50003_skin_id_50003002_attack_projectile",
+      "hero_50003_skin_id_50003002_skill_background",
+      "hero_50003_skin_id_50003002_skill_cast_fx",
+      "hero_50003_skin_id_50003002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50004_attack_impact",
+      "hero_50004_attack_slash",
+      "hero_50004_attack_smoke",
+      "hero_50004_shockwave_shout",
+      "hero_50004_skill_cast_ex",
+      "hero_50004_skill_cast_light",
+      "hero_50004_skill_impact",
+      "hero_50004_skin_id_50004001_attack_impact",
+      "hero_50004_skin_id_50004001_attack_slash",
+      "hero_50004_skin_id_50004001_attack_smoke",
+      "hero_50004_skin_id_50004001_shockwave_shout",
+      "hero_50004_skin_id_50004001_skill_cast_ex",
+      "hero_50004_skin_id_50004001_skill_cast_light",
+      "hero_50004_skin_id_50004001_skill_impact",
+      "hero_50004_skin_id_50004002_attack_ground_crack",
+      "hero_50004_skin_id_50004002_attack_impact",
+      "hero_50004_skin_id_50004002_attack_smoke",
+      "hero_50004_skin_id_50004002_skill_impact",
+      "hero_50004_skin_id_50004002_skill_main"
+    ]
+  },
+  {
+    "heroId": 50005,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50005_active_effect",
+      "hero_50005_attack_impact",
+      "hero_50005_skill_fx",
+      "hero_50005_skill_impact",
+      "hero_50005_skill_tu"
+    ]
+  },
+  {
+    "heroId": 50006,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50006_attack_impact",
+      "hero_50006_attack_projectile",
+      "hero_50006_skill_bommerang",
+      "hero_50006_skill_impact",
+      "hero_50006_skill_projectile",
+      "hero_50006_skill_smoke",
+      "hero_50006_skin_id_50006001_attack_impact",
+      "hero_50006_skin_id_50006001_attack_projectile",
+      "hero_50006_skin_id_50006001_skill_bommerang",
+      "hero_50006_skin_id_50006001_skill_impact",
+      "hero_50006_skin_id_50006001_skill_projectile",
+      "hero_50006_skin_id_50006002_attack_impact",
+      "hero_50006_skin_id_50006002_attack_projectile",
+      "hero_50006_skin_id_50006002_environment",
+      "hero_50006_skin_id_50006002_skill_bommerang",
+      "hero_50006_skin_id_50006002_skill_impact",
+      "hero_50006_skin_id_50006002_skill_projectile",
+      "hero_50006_skin_id_50006002_skill_smoke",
+      "hero_50006_skin_id_50006003_attack_impact",
+      "hero_50006_skin_id_50006003_attack_projectile",
+      "hero_50006_skin_id_50006003_skill_bommerang",
+      "hero_50006_skin_id_50006003_skill_impact",
+      "hero_50006_skin_id_50006003_skill_projectile",
+      "hero_50006_skin_id_50006003_skill_smoke"
+    ]
+  },
+  {
+    "heroId": 50007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50007_attack_impact",
+      "hero_50007_attack_projectile",
+      "hero_50007_skill_explosion",
+      "hero_50007_skill_fether",
+      "hero_50007_skill_impact",
+      "hero_50007_skill_tu",
+      "hero_50007_skin_id_50007001_attack_impact",
+      "hero_50007_skin_id_50007001_attack_projectile",
+      "hero_50007_skin_id_50007001_skill_explosion",
+      "hero_50007_skin_id_50007001_skill_fether",
+      "hero_50007_skin_id_50007001_skill_impact",
+      "hero_50007_skin_id_50007001_skill_tu",
+      "hero_50007_skin_id_50007002_attack_impact",
+      "hero_50007_skin_id_50007002_attack_projectile",
+      "hero_50007_skin_id_50007002_skill_charge",
+      "hero_50007_skin_id_50007002_skill_explosion",
+      "hero_50007_skin_id_50007002_skill_fether",
+      "hero_50007_skin_id_50007002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50008_attack_impact",
+      "hero_50008_skill_fx",
+      "hero_50008_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50009_attack_cast",
+      "hero_50009_attack_impact",
+      "hero_50009_attack_projectile",
+      "hero_50009_skill_cast",
+      "hero_50009_skill_impact",
+      "hero_50009_skill_main",
+      "hero_50009_skill_start",
+      "hero_50009_skill_weapons"
+    ]
+  },
+  {
+    "heroId": 50010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50010_attack_projectile",
+      "hero_50010_skill_cast_ex",
+      "hero_50010_skill_impact",
+      "hero_50010_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50011_attack_impact",
+      "hero_50011_attack_projectile",
+      "hero_50011_skill_exploision",
+      "hero_50011_skill_ground",
+      "hero_50011_skill_impact",
+      "hero_50011_skin_id_50011001_attack_impact",
+      "hero_50011_skin_id_50011001_attack_projectile",
+      "hero_50011_skin_id_50011001_skill_exploision",
+      "hero_50011_skin_id_50011001_skill_ground",
+      "hero_50011_skin_id_50011001_skill_impact",
+      "hero_50011_skin_id_50011002_attack_impact",
+      "hero_50011_skin_id_50011002_attack_projectile",
+      "hero_50011_skin_id_50011002_skill_exploision",
+      "hero_50011_skin_id_50011002_skill_ground",
+      "hero_50011_skin_id_50011002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50012_attack_impact",
+      "hero_50012_attack_projectile",
+      "hero_50012_eff_skill_skin_1",
+      "hero_50012_eff_skill_skin_2",
+      "hero_50012_skill_impact",
+      "hero_50012_skill_shoter"
+    ]
+  },
+  {
+    "heroId": 50013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50013_attack_cast_gomo",
+      "hero_50013_attack_cast_shot",
+      "hero_50013_attack_impact",
+      "hero_50013_attack_projectile",
+      "hero_50013_skill_cast_ex",
+      "hero_50013_skill_impact",
+      "hero_50013_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50014_atk_shooter",
+      "hero_50014_attack_projectile",
+      "hero_50014_skill_fx",
+      "hero_50014_skill_projectile",
+      "hero_50014_smoke"
+    ]
+  },
+  {
+    "heroId": 50015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50015_active_effect",
+      "hero_50015_attack_impact",
+      "hero_50015_attack_projectile"
+    ]
+  },
+  {
+    "heroId": 50016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50016_attack_impact",
+      "hero_50016_attack_projectile",
+      "hero_50016_skill_impact",
+      "hero_50016_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50017_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50018_attack_impact",
+      "hero_50018_attack_projectile",
+      "hero_50018_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50019_attack_impact",
+      "hero_50019_attack_projectile",
+      "hero_50019_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50020,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50020_attack_slash",
+      "hero_50020_skill_impact",
+      "hero_50020_skill_lighting",
+      "hero_50020_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 50021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50021_attack_projectile",
+      "hero_50021_attack_shooter",
+      "hero_50021_skill_projectile",
+      "hero_50021_skill_shooter",
+      "hero_50021_skill_tu"
+    ]
+  },
+  {
+    "heroId": 50022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50022_attack_projectile",
+      "hero_50022_skill_book",
+      "hero_50022_skill_fx",
+      "hero_50022_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50023_fxskill_skin_1",
+      "hero_50023_fxskill_skin_2"
+    ]
+  },
+  {
+    "heroId": 50024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50024_attack_slash",
+      "hero_50024_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50025_skill_impact"
+    ]
+  },
+  {
+    "heroId": 50026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_50026_attack_projectile",
+      "hero_50026_skill_fx"
+    ]
+  },
+  {
+    "heroId": 5,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_5_eff_skill",
+      "hero_5_skill_arrow",
+      "hero_5_skill_impact",
+      "hero_5_skill_wind"
+    ]
+  },
+  {
+    "heroId": 60001,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60001_attack_impact",
+      "hero_60001_attack_projectile",
+      "hero_60001_skill_hole",
+      "hero_60001_skill_impact",
+      "hero_60001_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 60002,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60002_attack_jump",
+      "hero_60002_eff_skill_skin_1",
+      "hero_60002_eff_skill_skin_2",
+      "hero_60002_skill_tu"
+    ]
+  },
+  {
+    "heroId": 60003,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60003_attack_ground",
+      "hero_60003_attack_impact",
+      "hero_60003_attack_smoke",
+      "hero_60003_attack_trail_dash",
+      "hero_60003_eff_skill",
+      "hero_60003_skill_impact",
+      "hero_60003_skill_smoke",
+      "hero_60003_skin_id_60003002_attack_ground",
+      "hero_60003_skin_id_60003002_attack_impact",
+      "hero_60003_skin_id_60003002_attack_smoke",
+      "hero_60003_skin_id_60003002_attack_trail_dash",
+      "hero_60003_skin_id_60003002_eff_skill",
+      "hero_60003_skin_id_60003002_environment",
+      "hero_60003_skin_id_60003002_skill_backidle",
+      "hero_60003_skin_id_60003002_skill_impact",
+      "hero_60003_skin_id_60003002_skill_smoke",
+      "hero_60003_skin_id_60003002_teleport",
+      "hero_60003_skin_id_60003003_attack_ground",
+      "hero_60003_skin_id_60003003_attack_impact",
+      "hero_60003_skin_id_60003003_attack_smoke",
+      "hero_60003_skin_id_60003003_eff_skill",
+      "hero_60003_skin_id_60003003_skill_backidle",
+      "hero_60003_skin_id_60003003_skill_impact",
+      "hero_60003_skin_id_60003003_skill_smoke",
+      "hero_60003_skin_id_60003003_teleport",
+      "hero_60003_skin_id_60003004_attack_ground",
+      "hero_60003_skin_id_60003004_attack_impact",
+      "hero_60003_skin_id_60003004_attack_smoke",
+      "hero_60003_skin_id_60003004_eff_skill",
+      "hero_60003_skin_id_60003004_environment",
+      "hero_60003_skin_id_60003004_skill_backidle",
+      "hero_60003_skin_id_60003004_skill_cast",
+      "hero_60003_skin_id_60003004_skill_impact",
+      "hero_60003_skin_id_60003004_skill_smoke",
+      "hero_60003_skin_id_60003004_teleport"
+    ]
+  },
+  {
+    "heroId": 60004,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60004_attack_impact",
+      "hero_60004_attack_projectile",
+      "hero_60004_attack_shoot",
+      "hero_60004_skill_footwepone",
+      "hero_60004_skill_fx_invironment",
+      "hero_60004_skill_impact",
+      "hero_60004_skill_ngoc",
+      "hero_60004_skin_id_60004001_attack_impact",
+      "hero_60004_skin_id_60004001_attack_projectile",
+      "hero_60004_skin_id_60004001_attack_shoot",
+      "hero_60004_skin_id_60004001_skill_footwepone",
+      "hero_60004_skin_id_60004001_skill_fx_invironment",
+      "hero_60004_skin_id_60004001_skill_impact",
+      "hero_60004_skin_id_60004001_skill_ngoc"
+    ]
+  },
+  {
+    "heroId": 60005,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60005_attack_cast",
+      "hero_60005_attack_impact",
+      "hero_60005_att_1hit",
+      "hero_60005_att_2hit",
+      "hero_60005_att_2hit_combo",
+      "hero_60005_att_3hit",
+      "hero_60005_att_3hit_combo",
+      "hero_60005_att_4hit",
+      "hero_60005_att_4hit_combo",
+      "hero_60005_att_5hit",
+      "hero_60005_att_5hit_combo",
+      "hero_60005_att_impact_1hit",
+      "hero_60005_att_impact_2hit",
+      "hero_60005_att_impact_3hit",
+      "hero_60005_att_impact_4hit",
+      "hero_60005_att_impact_5hit",
+      "hero_60005_skill_5hit",
+      "hero_60005_skill_appear",
+      "hero_60005_skill_cast",
+      "hero_60005_skill_dam",
+      "hero_60005_skill_fx",
+      "hero_60005_skill_impact",
+      "hero_60005_skill_thorn",
+      "hero_60005_skill_weapon",
+      "hero_60005_skill_wing",
+      "hero_60005_skin_id_60005001_att_1hit",
+      "hero_60005_skin_id_60005001_att_2hit",
+      "hero_60005_skin_id_60005001_att_2hit_combo",
+      "hero_60005_skin_id_60005001_att_3hit",
+      "hero_60005_skin_id_60005001_att_3hit_combo",
+      "hero_60005_skin_id_60005001_att_4hit",
+      "hero_60005_skin_id_60005001_att_4hit_combo",
+      "hero_60005_skin_id_60005001_att_5hit",
+      "hero_60005_skin_id_60005001_att_5hit_combo",
+      "hero_60005_skin_id_60005001_skill_5hit",
+      "hero_60005_skin_id_60005001_skill_appear",
+      "hero_60005_skin_id_60005001_skill_cast",
+      "hero_60005_skin_id_60005001_skill_thorn",
+      "hero_60005_skin_id_60005002_att_1hit",
+      "hero_60005_skin_id_60005002_att_2hit",
+      "hero_60005_skin_id_60005002_att_2hit_combo",
+      "hero_60005_skin_id_60005002_att_3hit",
+      "hero_60005_skin_id_60005002_att_3hit_combo",
+      "hero_60005_skin_id_60005002_att_4hit",
+      "hero_60005_skin_id_60005002_att_4hit_combo",
+      "hero_60005_skin_id_60005002_att_5hit",
+      "hero_60005_skin_id_60005002_att_5hit_combo",
+      "hero_60005_skin_id_60005002_environment",
+      "hero_60005_skin_id_60005002_skill_5hit",
+      "hero_60005_skin_id_60005002_skill_appear",
+      "hero_60005_skin_id_60005002_skill_cast",
+      "hero_60005_skin_id_60005002_skill_thorn",
+      "hero_60005_weapon_fx"
+    ]
+  },
+  {
+    "heroId": 60006,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60006_attack_impact",
+      "hero_60006_cast_attack",
+      "hero_60006_skill_buff_projectile",
+      "hero_60006_skill_dam",
+      "hero_60006_skill_impact",
+      "hero_60006_skill_smoke",
+      "hero_60006_skill_smoke2",
+      "hero_60006_skin_id_60006002_attack_dash",
+      "hero_60006_skin_id_60006002_attack_impact",
+      "hero_60006_skin_id_60006002_cast_attack",
+      "hero_60006_skin_id_60006002_skill_cast",
+      "hero_60006_skin_id_60006002_skill_dam",
+      "hero_60006_skin_id_60006002_skill_exploision",
+      "hero_60006_skin_id_60006002_skill_impact",
+      "hero_60006_skin_id_60006002_skill_smoke2",
+      "hero_60006_skin_id_60006003_attack_dash",
+      "hero_60006_skin_id_60006003_attack_impact",
+      "hero_60006_skin_id_60006003_cast_attack",
+      "hero_60006_skin_id_60006003_skill_cast",
+      "hero_60006_skin_id_60006003_skill_dam",
+      "hero_60006_skin_id_60006003_skill_exploision",
+      "hero_60006_skin_id_60006003_skill_impact",
+      "hero_60006_skin_id_60006003_skill_smoke2",
+      "hero_60006_skin_id_60006004_attack_dash",
+      "hero_60006_skin_id_60006004_attack_impact",
+      "hero_60006_skin_id_60006004_cast_attack",
+      "hero_60006_skin_id_60006004_skill_cast",
+      "hero_60006_skin_id_60006004_skill_dam",
+      "hero_60006_skin_id_60006004_skill_exploision",
+      "hero_60006_skin_id_60006004_skill_impact",
+      "hero_60006_skin_id_60006004_skill_smoke2"
+    ]
+  },
+  {
+    "heroId": 60007,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60007_attack_impact",
+      "hero_60007_attack_projectile",
+      "hero_60007_fx_skill",
+      "hero_60007_fx_skill_tu",
+      "hero_60007_skill_cast",
+      "hero_60007_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60008,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60008_attack_cast",
+      "hero_60008_attack_impact",
+      "hero_60008_skill_dam",
+      "hero_60008_skill_fx",
+      "hero_60008_skill_impact",
+      "hero_60008_skill_weapone",
+      "hero_60008_skin_id_60008001_attack_cast",
+      "hero_60008_skin_id_60008001_attack_impact",
+      "hero_60008_skin_id_60008001_skill_dam",
+      "hero_60008_skin_id_60008001_skill_fx",
+      "hero_60008_skin_id_60008001_skill_impact",
+      "hero_60008_skin_id_60008001_skill_weapone",
+      "hero_60008_skin_id_60008002_attack_impact",
+      "hero_60008_skin_id_60008002_attack_slash",
+      "hero_60008_skin_id_60008002_skill_impact",
+      "hero_60008_skin_id_60008002_skill_slash",
+      "hero_60008_skin_id_60008003_attack_impact",
+      "hero_60008_skin_id_60008003_attack_weapone",
+      "hero_60008_skin_id_60008003_skill",
+      "hero_60008_skin_id_60008003_skill_charge",
+      "hero_60008_skin_id_60008003_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60009,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60009_attack_impact",
+      "hero_60009_skill_ball_hut",
+      "hero_60009_skill_ground_door",
+      "hero_60009_skill_impact",
+      "hero_60009_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 60010,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60010_attack_cast",
+      "hero_60010_attack_impact",
+      "hero_60010_attack_projectile",
+      "hero_60010_skill_cast",
+      "hero_60010_skill_cast_weapone",
+      "hero_60010_skill_impact",
+      "hero_60010_skin_id_60010001_attack_cast",
+      "hero_60010_skin_id_60010001_attack_impact",
+      "hero_60010_skin_id_60010001_attack_projectile",
+      "hero_60010_skin_id_60010001_environment",
+      "hero_60010_skin_id_60010001_skill_cast",
+      "hero_60010_skin_id_60010001_skill_cast_weapone",
+      "hero_60010_skin_id_60010001_skill_impact",
+      "hero_60010_skin_id_60010002_attack_cast",
+      "hero_60010_skin_id_60010002_attack_impact",
+      "hero_60010_skin_id_60010002_attack_projectile",
+      "hero_60010_skin_id_60010002_skill_cast",
+      "hero_60010_skin_id_60010002_skill_cast_weapone",
+      "hero_60010_skin_id_60010002_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60011,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60011_attack_impact_skin_1",
+      "hero_60011_attack_impact_skin_2",
+      "hero_60011_eff_attack_skin_1",
+      "hero_60011_eff_attack_skin_2",
+      "hero_60011_eff_skill_skin_1",
+      "hero_60011_eff_skill_skin_2",
+      "hero_60011_skill_impact_skin_1",
+      "hero_60011_skill_impact_skin_2"
+    ]
+  },
+  {
+    "heroId": 60012,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60012_attack_projectile",
+      "hero_60012_skill_fx"
+    ]
+  },
+  {
+    "heroId": 60013,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60013_attack_ground",
+      "hero_60013_attack_slash",
+      "hero_60013_skill_dash",
+      "hero_60013_skill_ground",
+      "hero_60013_skill_impact",
+      "hero_60013_skill_projectile",
+      "hero_60013_skill_slash",
+      "hero_60013_skill_tu"
+    ]
+  },
+  {
+    "heroId": 60014,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60014_attack_projectile",
+      "hero_60014_attack_shooter",
+      "hero_60014_skill_ballfx",
+      "hero_60014_skill_impact",
+      "hero_60014_skill_nocfx",
+      "hero_60014_skill_projectile",
+      "hero_60014_skill_shooter"
+    ]
+  },
+  {
+    "heroId": 60015,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60015_skill_impact",
+      "hero_60015_skill_light_knife",
+      "hero_60015_skill_projectile",
+      "hero_60015_skill_slash"
+    ]
+  },
+  {
+    "heroId": 60016,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60016_attack_impact",
+      "hero_60016_attack_projectile",
+      "hero_60016_projectile",
+      "hero_60016_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60017,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60017_attack_impact",
+      "hero_60017_attack_projectile_skin_1",
+      "hero_60017_attack_projectile_skin_2",
+      "hero_60017_shooter",
+      "hero_60017_skill_impact",
+      "hero_60017_skill_projectile_skin_1",
+      "hero_60017_skill_projectile_skin_2"
+    ]
+  },
+  {
+    "heroId": 60018,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60018_attack_projectile",
+      "hero_60018_attack_slash",
+      "hero_60018_skill_ballfire",
+      "hero_60018_skill_fx",
+      "hero_60018_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60019,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60019_attack_projectile_skin_1",
+      "hero_60019_attack_projectile_skin_2",
+      "hero_60019_skill_impact",
+      "hero_60019_skill_slash"
+    ]
+  },
+  {
+    "heroId": 60020,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60020_attack_slash",
+      "hero_60020_skill_fx",
+      "hero_60020_skill_projectile",
+      "hero_60020_skill_slash"
+    ]
+  },
+  {
+    "heroId": 60021,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60021_attack_projectile",
+      "hero_60021_skill_charfx",
+      "hero_60021_skill_fx",
+      "hero_60021_skill_impact",
+      "hero_60021_skill_projectile"
+    ]
+  },
+  {
+    "heroId": 60022,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60022_attack_slash",
+      "hero_60022_eff_skill_skin_1",
+      "hero_60022_eff_skill_skin_2",
+      "hero_60022_skill_fx"
+    ]
+  },
+  {
+    "heroId": 60023,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60023_attack_impact",
+      "hero_60023_attack_slash",
+      "hero_60023_skill_impact",
+      "hero_60023_skill_projectile",
+      "hero_60023_skill_smoke_jump"
+    ]
+  },
+  {
+    "heroId": 60024,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60024_attack_projectile",
+      "hero_60024_skill_impact",
+      "hero_60024_skill_projectile",
+      "hero_60024_skill_tu"
+    ]
+  },
+  {
+    "heroId": 60025,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60025_attack_projectile",
+      "hero_60025_skill_impact"
+    ]
+  },
+  {
+    "heroId": 60026,
+    "general": [],
+    "skinEffect": {},
+    "effectConfigs": [
+      "hero_60026_attack_fx",
+      "hero_60026_attack_projectile",
+      "hero_60026_skill_fx",
+      "hero_60026_skill_fxbone",
+      "hero_60026_skill_impact"
+    ]
+  }
+]

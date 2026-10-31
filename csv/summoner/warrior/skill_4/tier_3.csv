@@ -1,0 +1,2 @@
+name,star,buff_target_position,buff_target_number,damage_target_position,damage_target_number,max_trigger,damage_percent_hp,stat_buff_type,stat_buff_calculation,stat_buff_amount
+Main_Passive3,12,34,1,10,5,3,0.2,40,1,0.5

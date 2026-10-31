@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。
+summoner_1_1_1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。降低被擊中敵人的{q(stat_debuff_amount_3)} {q(stat_debuff_type)}，維持{c(stat_debuff_duration)}回合。
+summoner_1_1_2~stat_debuff_chance~1<>對{q(target_position)}造成[{p(damage)} ATK]傷害。 在{c(stat_debuff_duration)}個回合中有{p(stat_debuff_chance)}的機會減少{q(stat_debuff_amount_3)} {q(stat_debuff_type)}。
+summoner_1_1_2~stat_debuff_chance~0<>對後排的{q(target_position)}個隨機敵人造成[{p(damage)} ATK]傷害，並在{c(stat_debuff_duration)}回合中減少這些敵人的{q(stat_debuff_amount_3)} {q(stat_debuff_type)}.
+summoner_1_1_3~dispel_chance~0<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。對於每一個死去的敵人造成[{p(damage_bonus_per_die)}攻擊]傷害剩餘的敵人，並消除其的所有積極增益
+summoner_1_1_3~dispel_chance~1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。對於每一個死去的敵人造成[{p(damage_bonus_per_die)}攻擊]傷害剩餘的敵人，並有{p(dispel_chance)} 機率消除其的所有積極增益
+summoner_1_2_1<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}和{p(bonus_2)} {q(stat_2)}。
+summoner_1_2_2<>增加{p(bonus_1)} {q(stat_1)}為{q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>被攻擊時，有{p(passive_chance)}機率對剛剛攻擊您的敵人造成[{p(damage)}攻擊]傷害。
+summoner_1_2_3<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}和{p(bonus_2)} {q(stat_2)}。
+summoner_1_3_1~blessing_chance~0<>在每次比賽開始時，{q(target_position_2)}對{c(blessing_duration)}回合的所有負面影響免疫。
+summoner_1_3_1~blessing_chance~1<>每次比賽開始時，{q(target_position_2)}都有{p(blessing_chance)}機率抵抗{c(blessing_duration)}回合的負面影響。
+summoner_1_3_2~buff_chance~1<>在每個奇數回合開始時，處於第{q(buff_target_position)}位置的英雄都有{p(buff_chance)}的機會提高{q(stat_buff_1_amount)} {q(stat_buff_1_type)}和{q(stat_buff_2_amount)} {q(stat_buff_2_type)}。 此效果持續{c(buff_duration)}回合。
+summoner_1_3_2~buff_chance~0<>在每個奇數回合開始時，將處於第{q(buff_target_position)}位的Hero的{q(stat_buff_1_amount)} {q(stat_buff_1_type)}和{q(stat_buff_2_amount)} {q(stat_buff_2_type)}增加。 此效果持續{c(buff_duration)}回合。
+summoner_1_3_3~buff_chance~0<>每當盟友犧牲，將為{q(buff_target_position)} 增加{q(stat_buff_1_amount)} {q(stat_buff_1_type)} 和 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}。
+summoner_1_3_3~buff_chance~1<>每當盟友犧牲，有 {c(buff_duration)}機率將為{q(buff_target_position)} 增加{q(stat_buff_1_amount)} {q(stat_buff_1_type)} 和 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}。
+summoner_1_4_1~block_chance~0<>位置{s(target_number)}的盟友在受到基本攻擊或主動技能攻擊時會阻擋{p(block_rate)}受到的傷害。
+summoner_1_4_1~block_chance~1<>位置{s(target_number)}的盟友在受到基本攻擊或主動技能攻擊時會有 {p(block_chance)} 機率阻擋{p(block_rate)}受到的傷害。
+summoner_1_4_2<>在每一個回合的開始，在位置上的英雄{q(target_position_2)} 得到{c(power_buff)} 能源
+summoner_1_4_3<>將為{q(buff_target_position)}增加{q(stat_buff_amount_3)}{q(stat_buff_type)}。這些盟友每進行{c(count_trigger)}次攻擊 ，會對{q(damage_target_position)}多造成[{p(damage)}攻擊]傷害。
+summoner_2_1_1~stat_debuff_chance~0<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。使被擊中的敵人降低{q(stat_debuff_amount_3)} {q(stat_debuff_type)}，維持{c(stat_debuff_duration)} 回合
+summoner_2_1_1~stat_debuff_chance~1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。有{p(stat_debuff_chance)}機率降低了被擊中敵人的{q(stat_debuff_amount_3)} {q(stat_debuff_type)}，維持{c(stat_debuff_duration)}回合。
+summoner_2_1_2~stat_buff_chance~0<>對{q(damage_target_position)}造成[{p(damage)} ATK]傷害，並為{q(buff_target_position)}增加{q(stat_buff_amount_3)} {q(stat_buff_type)}，持續{c(stat_buff_duration)}回合。
+summoner_2_1_2~stat_buff_chance~1<>對{q(damage_target_position)}造成[{p(damage)}攻擊]傷害，有 {p(stat_buff_chance)} 機率為{q(buff_target_position)}增加{q(stat_buff_amount_3)} {q(stat_buff_type)}，持續{c(stat_buff_duration)}回合。
+summoner_2_1_3<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，有{p(effect_chance)}機率對被擊中{c(effect_duration)}回合的敵人造成{q(effect_type)}
+summoner_2_2_1<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+summoner_2_2_2<>增加{q(bonus_1)} {q(stat_1)}和減小{q(debuff_amount_1)} {q(debuff_stat_1)}為{q(target_position_2)}。
+summoner_2_2_3~buff_chance~0<>對於每個被擊敗的盟友，將剩餘盟友的{q(stat_buff_type)}增加{q(stat_buff_amount_3)}。如果所有4個盟友死亡，其餘2個盟友將獲得75%的{q(stat_buff_type)}，並且如果只有1個盟友，會增加 100%{q(stat_buff_type)}。
+summoner_2_2_3~buff_chance~1<>對於每個被擊敗的盟友，有 {p(buff_chance)}機率將剩餘盟友的{q(stat_buff_type)}增加{q(stat_buff_amount_3)}。如果所有4個盟友死亡，其餘2個盟友將獲得75%的{q(stat_buff_type)}，並且如果只有1個盟友，會增加 100%{q(stat_buff_type)}。
+summoner_2_3_1<>當{q(target_position_2)}受CC影響時，則這些盟友將被減少{p(reduce_damage_amount)}的最終傷害
+summoner_2_3_2~block_chance~0<>每當一個盟友受到基本攻擊或主動技能的攻擊時，就有{p(buff_chance)}機率在{q(target_position_2)}上創建一個盾牌，以幫助阻擋受到的{p(block_amount)}傷害，維持{c(block_duration)}回合。此效果不會疊加。
+summoner_2_3_2~block_chance~1<>每當一個盟友受到基本攻擊或主動技能的攻擊時，就有{p(buff_chance)}機率在{q(target_position_2)}上創建一個盾牌，有{p(block_chance)}機率幫助阻擋受到的{p(block_amount)}傷害，維持{c(block_duration)}回合。此效果不會疊加。
+summoner_2_3_3<>每個盟友受到的傷害超過當前HP時，每1個HP存活機率是{p(last_chance_rate)}。當該效果激活時，該盟友獲得{c(power_gain)}能量。 (每盟友只能在1場比賽中使用一次)
+summoner_2_4_1~block_chance~0<>位置在{s(target_number)}的盟友在受到攻擊時會阻擋{p(block_rate)}傷害。
+summoner_2_4_1~block_chance~1<>Allies in position {s(target_number)} have {p(block_chance)} chance to block [{p(block_rate)} of damage taken] when being attacked by basic attack or active skill.
+summoner_2_4_2<>在回合{c(round_trigger_list)}的開始處，在{q(tanker_target_position)}和{q(target_position_3)}之間創建鏈接。 採取的所有鏈接盟友的傷害將是{p(damage_share_percent)}轉移到{q(tanker_target_position)}。 這個效果可以持續{c(bond_duration)}回合。
+summoner_2_4_3<>為{q(buff_target_position)}增加{q(stat_buff_amount_3)} {q(stat_buff_type)}。該英雄每受到3次攻擊(基本攻擊或主動技能)，立即發起反擊並對{q(damage_target_position)}造成此們有的[{p(damage_percent_hp)}]傷害。
+summoner_3_1_1<>對{q(damage_target_position)}造成[{p(damage)}攻擊]傷害，並使{q(heal_target_position)}的生命值恢復為[{p(heal_percent)}攻擊]。
+summoner_3_1_2<>對{q(damage_target_position)}造成[{p(damage)}攻擊]傷害，有{p(effect_chance)}機率對被擊中{c(effect_duration)}回合的敵人造成{q(effect_type)} 。
+summoner_3_1_3<>對{q(damage_target_position)}造成[{p(damage)}攻擊]傷害，並將{q(bond_target_position)}連接在一起，當在{c(bond_duration)}回合中受到攻擊時，此鏈接有助於平均分配傷害。
+summoner_3_2_1<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{q(bonus_2)} {q(stat_2)}。
+summoner_3_2_2<>增加{q(bonus_1)} {q(stat_1)}為{q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>當一個盟友受到攻擊時，該盟友有{p(heal_chance)}機率恢復[{p(heal_amount)}攻擊] HP。
+summoner_3_2_3<>比賽開始時，為位置{s(target_number)}的盟友增加{c(power_stat)}能量。
+summoner_3_3_1<>為{q(target_position_2)}增加{q(bonus_1)} {q(stat_1)}。
+summoner_3_3_2<>在每個{c(round_trigger_list)}回合開始時 ，將為{q(target_position_2)}增加{q(stat_buff_amount)} {q(stat_buff_type)}，並保持 {c(stat_buff_duration)}回合
+summoner_3_3_3<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{q(bonus_2)} {q(stat_2)}。
+summoner_3_4_1<>在每個奇數回合開始時，為{q(target_position_2)}增加{c(power_buff)}能量。
+summoner_3_4_2<>在每個奇數回合開始時，消除{q(target_position_2)}的所有負面影響
+summoner_3_4_3~heal_chance~0<>當一個盟友的生命值低於{p(heal_trigger)}時，恢復該盟友的生命值等於[{p(heal_amount)}攻擊]。 (每場遊戲只能使用一次)
+summoner_3_4_3~heal_chance~1<>當一個盟友的生命值低於{p(heal_trigger)}時，有{p(heal_chance)}機率恢復該盟友的生命值等於[{p(heal_amount)}攻擊]。 (每場遊戲只能使用一次)
+summoner_4_1_1~debuff_chance~0<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，每回合造成{q(debuff_type)} [{p(debuff_amount)}攻擊]傷害，持續{c(debuff_duration)}回合
+summoner_4_1_1~debuff_chance~1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，每回合有{p(debuff_chance)}機率造成{q(debuff_type)} [{p(debuff_amount)}攻擊]傷害，持續{c(debuff_duration)}回合
+summoner_4_1_2<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，並且有{p(debuff_chance)}機率在 {c(debuff_duration)}回合造成{q(debuff_type)}擊中敵人 。
+summoner_4_1_3<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，並為{q(buff_target_position)}增加{p(buff_amount)} {q(buff_type)}，保持{c(buff_duration)}回合。
+summoner_4_2_1<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+summoner_4_2_2<>使{q(target_position_2)}的{q(stat_1)}增加{q(bonus_1)}。
+summoner_4_2_3<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{q(bonus_2)} {q(stat_2)}。
+summoner_4_3_1<>將{q(target_position_2)}增加{q(bonus_1)} {q(stat_1)}。
+summoner_4_3_2<>在每個回合開始時，將{q(target_position_2)}和{q(bond_target_position)}綁定到{c(bond_duration)}回合。 {p(bond_share_damage)}對綁定盟友的傷害將在{q(bond_target_position)}之間平均分配和分配。
+summoner_4_3_3<>當一個盟友成功施加硬人群控制(令人驚嘆，麻痺，冰冷，石化)時，它將附加一個流血效果[{p(damage)}攻擊]傷害，(附加效果的恢復 等同於硬人群控制的效果)。
+summoner_4_4_1<>當盟友的攻擊(基本攻擊或主動技能)受到重擊時，在{c(buff_duration)}回合中為{q(target_position_2)}增加{p(bonus_1)}{q(stat_1)}。這種效果可以疊加。
+summoner_4_4_2<>當盟友成功躲避攻擊時，在{c(buff_duration)}回合中將{q(buff_type)}增加{q(buff_amount)}。 此效果無法疊加。
+summoner_4_4_3<>對於每個召喚師的{c(buff_per_power)} 能量，將{p(buff_amount)} {q(buff_type)}增加為{q(target_position_2)}。
+summoner_5_1_1~stat_debuff_chance~0<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。使被擊中的敵人降低{p(stat_debuff_amount)} {q(stat_debuff_type)}，維持{c(stat_debuff_duration)}回合。
+summoner_5_1_1~stat_debuff_chance~1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害。有 {p(stat_debuff_chance)}機率使被擊中的敵人降低{p(stat_debuff_amount)} {q(stat_debuff_type)}，維持{c(stat_debuff_duration)}回合。
+summoner_5_1_2<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，並使他們在{c(damage_receive_debuff_duration)}回合內從所有來源受到多{p(damage_receive_debuff_amount)}傷害。
+summoner_5_1_3~debuff_chance~0<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，每回合造成{q(debuff_type)} [{p(debuff_amount)}攻擊]傷害，持續{c(debuff_duration)}回合
+summoner_5_1_3~debuff_chance~1<>對{q(target_position)}造成[{p(damage)}攻擊]傷害，有{p(debuff_chance)}機率在每回合造成{q(debuff_type)} [{p(debuff_amount)}攻擊]傷害，持續{c(debuff_duration)}回合
+summoner_5_2_1<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+summoner_5_2_2<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+summoner_5_2_3<>為{q(target_position_2)}增加{p(bonus_1)} {q(stat_1)} 。
+summoner_5_3_1<>當盟友攻擊受到硬人群控制的敵人(令人驚嘆，麻痺，冰冷，石化)時，會造成{p(bonus_damage_receive)}額外傷害。
+summoner_5_3_2<>在下面的每個回合開始時：{c(round_trigger_list)}，在{c(debuff_duration)}個回合中將{q(target_position)}的{q(debuff_amount_1)}減少{q(debuff_stat_1)}。
+summoner_5_3_3<>如果一個盟友進行額外的攻擊，則對該攻擊造成{p(bonus_damage_extra_turn)}額外傷害。
+summoner_5_4_1<>位置於{s(target_number)}的盟友增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+summoner_5_4_2<>為{q(target_position_2)}增加{q(bonus_1)} {q(stat_1)} 。
+summoner_5_4_3<>盟友發動的{c(number_extra_turn_affect)}附加攻擊，造成{p(bonus_damage_extra_turn)}額外傷害並造成{q(effect_type)}敵人，維持{c(effect_duration)}回合。
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

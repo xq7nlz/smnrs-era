@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>안녕하세요! 전설적인 도시-빛의 질서의 성스러운 동맹에 오신 것을 환영합니다. 
+npc_rename<>이름이 무엇입니까, 나의 친구여?
+npc_summon_click<>동료가 없어보이네요. 나를 따라 소환장으로 갑시다.
+npc_summon_start<>먼저, 당신의 동반자를 소환합시다!
+player_option1_1<>좋습니다!
+player_option1<>이해했습니다
+player_option2<>가르쳐  주시겠어요?
+player_option2_1<>무엇입니까?
+npc_basic_summon_info<>기본 소환-1~5 스타 영웅 소환
+npc_heroic_summon_info<>고급 소환-3~5성 영웅 소환- 고급 소환서 또는 보석(젬)
+npc_friend_summon_info<>친구 소환-2~5성 영웅 소환- 친구 포인트
+npc_continue_campaign<>훌륭합니다. 세계를 탐험할 시간입니다
+npc_select_hero_formation<>전투에 참여할 영웅을 선택하십시오.
+npc_formation_info_position<>좋습니다! 기본 공격은 일반적으로 1~5 위치의 영웅 순서대로 맞습니다.
+npc_auto_battle<>완전한 자동전투입니다. 영웅은 기본 공격후에 에너지를 회복합니다
+npc_summoner_power<>보십시오! 당신의 영웅의 에너지바가 가득 찼습니다. 영웅은 축적된 에너지를 가지고 강력한 액티브 스킬을 다음턴에 발동 할것입니다
+npc_formation_change_position<>하나 더, 영웅의 위치를 바꿀수있습니다.
+npc_formation_buff<>잘 했어! 영웅의 ATK는 뒷줄에있을 때 증가하고, HP는 앞줄에있을 때 증가합니다. 
+npc_summoner_battle_info<>여기는 소환사들의 소환사입니다.
+npc_add_power_summoner<>영웅들이 에너지를 회복하면 소환사도 회복합니다. 에너지바가 가득일때 모이는 에너지는 불꽃으로 전환됩니다.
+npc_summoner_skill<>소환사가 5개의 불꽃을 모으면, 즉시 특수한 기술로 사용(발동)됩니다
+npc_need_power<>우리는 충분히 강하지 않습니다. 내가 강해하는 방법을 보여 드리겠습니다. 
+npc_what_black_smith<>친구, 장비에 대해 알고 있습니까? 
+npc_weapon<>공력력을 증가시키는 무기입니다. 높은 공격력일수록 데미지를 더 많이 줄수 있습니다.
+npc_armor<>갑옷은 체력과 피해 감소율를 증가시킵니다. 영웅은 더 강해질 것입니다
+npc_helmet<>투구는 체력과 방어력을 증가시킵니다. 강할수록 좋죠.
+npc_ring<>장신구는 정확성과 회피능력을 증가시킵니다.
+npc_black_smith<>먼저, 당신의 무기를 제작하세요!
+npc_claim_black_smith<>멋지네요! 엄청 강력한 무기를 받았습니다
+npc_black_market<>됐습니다! 이제 암시장에 갑시다!
+npc_buy_heroic_scroll<>여기서 귀한 물건을 살 수 있습니다. 지금 고급 소환 스크롤 1개를 사세요!
+npc_claim_black_market<>다행이네요! 영웅 소환을 위한 자원이 충분합니다.
+npc_continue_summon<>멋지네요! 강력한 영웅들을 계속 소환합시다!
+npc_equipment<>5성 영웅의 소환하다니 축하합니다. 지금 무기를 장착해 볼까요!
+npc_continue_5<>축하합니다! 당신의 팀은 강해졌습니다.
+npc_continue<>멋있습니다! 여행을 계속 합시다.
+npc_select_hero_continue<>새로운 영웅을 팀에 배치하는 것을 잊지 마십시오.
+npc_drag_hero<>영웅을 후방으로 배치하여 영웅의 공격력을 강화하는게 좋습니다.
+npc_idle_reward<>자동 시스템을 획득 했습니다. 당신의 팀은 자동으로 전투하고 보상을 받습니다. 보상은 최대 자동전투%s 시간에 비례해서 받는것을 기억하세요.
+npc_upgrade_hero_success<>멋있습니다! 생각보다 빠르네요!
+npc_level_up<>잘했습니다! 이 상으로 당신의 영웅의 레벨을 높이세요!
+npc_select_hero_upgrade<>4성 영웅을 선택해서 레벨을 높이세요!
+npc_continue_3<>잘했습니다!여행을 계속 합시다!
+npc_stage_10<>1~10 단계를 완료하세요! 5성 영웅 보상이 기다리고 있습니다.
+npc_list_tut<>당신 여행을 도움을 주기 위해 임무를 준비해 놨습니다.
+npc_quest<>임무창입니다. 완료하고 보상을 받으세요.
+npc_quest_complete<>잘했습니다! 임무를 완료했습니다.
+npc_end_tut<>축하합니다! 임무를 모두 완료완료 했습니다. 언젠가 다시 만나요!
+npc_claim_hero_5star<>축하합니다. 5성 영웅을 받았습니다.
+npc_go_evolve_summoner<>멋있습니다! 이제 소환사를 승급 시킬수 있습니다.
+npc_5summoner<>소환사 직업들입니다.
+npc_summoner_class_1<>마법사-마법을 이용한 원거리 공격을 펼친다.
+npc_summoner_class_2<>전사- 방어에 특화된 근거리 직업이다.
+npc_summoner_class_3<>사제-아군에게 버프 효과와 체력 획복을 서포트 하는 직업이다.
+npc_summoner_class_4<>암살자- 힘, 회피 및 정확도를 고루 분배된 직업이다.
+npc_summoner_class_5<>레인저-치명적인 원거리 공격 및 누적 피해를 주는 직업이다.
+npc_switch_summoner<>여기를 클릭하여 소환사를 변경하세요
+npc_end_summoner<>전투에서 소환사를 선택할수 있습니다. 소환사에 따라 영웅에게 주는 효과는 모두 다릅니다.
+npc_buy_scroll_success<>아주 좋아! 당신은 점차적으로 이미 게임에 익숙해있다. 이것은 게임과의 친숙위한 작은 선물이다.
+victory_battle_tut<>너무 드라마틱한 전투죠? 게임에서 이와 같은 전투를 경험하게 됩니다. 저와 함께 발견의 여정을 시작합시다!
+npc_please_summon_heroic<>먼저, 당신의 동반자를 소환합시다!
+introduce_hero_summoned<>축하해요! 당신은 전설적인 5* 영웅을 소환했습니다. 전설적인 영웅은 소환에서 얻을 수있는 가장 진보 된 영웅입니다.
+asking_continue_tutorial<>당신은 당신의 첫 번째 영웅을 소환했습니다. 게임 역학에 대해 더 배우기 위해 튜토리얼을 계속하시겠습니까?
+yes<>예. 더 배우고 싶어요.
+no<>아니요. 저는 이러한 유형의 게임에 익숙합니다.
+npc_introduce_auto_battle<>완전한 자동전투입니다. 영웅은 기본 공격후에 에너지를 회복합니다
+npc_introduce_summoner<>여기는 소환사들의 소환사입니다.
+npc_let_battle_commence<>스쿼드 설정을 완료했습니다. 이제 전투를 하러 가자!
+npc_introduce_turn_mechanic<>1 경기는 15 라운드로 구성됩니다. 15라운드 이내에 상대 영웅을 모두 쓰러뜨리면 공격자가 승리합니다.
+first_victory<>축하합니다! 첫 승을 거두셨습니다. 다음 전리품을 얻고 저와 함께 계속 안내하세요!
+npc_idle_reward_1<>자동 시스템을 획득 했습니다. 당신의 팀은 자동으로 전투하고 보상을 받습니다. 보상은 최대 자동전투%s 시간에 비례해서 받는것을 기억하세요.
+npc_idle_reward_2<>더 많은 캠페인에 도달할수록 더 많은 유휴 보상을 받을 수 있습니다. 또한 VIP 레벨을 높여 최대 유휴 시간을 늘리십시오.
+npc_introduce_hero_upgrade_feature<>영웅 정보를 확인할 수 있는 곳입니다. 레벨을 올리고 스타를 업그레이드하고 아이템을 장착하여 영웅을 강화할 수 있습니다.
+npc_introduce_four_equipment_slot<>4종류의 장비가 있습니다.
+npc_click_level_up<>이제 영웅의 레벨을 올리십시오.
+congratulation_you_have_done<>잘 했어! 튜토리얼을 완료했습니다. 나는 당신이 훌륭한 소환사가 될 수 있다고 믿습니다. 자신만의 방식으로 게임을 계속 탐색해 봅시다.

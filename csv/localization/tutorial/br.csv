@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Saudações! Bem-vindo à Santa Aliança da Ordem da Luz - cidade lendária dos feitiços mais poderosos do planeta!
+npc_rename<>Qual é seu nome, amigo?
+npc_summon_click<>Parece que você não tem companheiros. Siga-me até à Invocação
+npc_summon_start<>Vamos invocar o seu primeiro companheiro, amigo.
+player_option1_1<>Ok! Vamos lá.
+player_option1<>Enetendi.
+player_option2<>Mostre-me, por favor?
+player_option2_1<>O que é?
+npc_basic_summon_info<>Invocação Básica - pode invocar Heróis de 1 a 5 estrelas utilizando Pergaminho de Invocação Básico.
+npc_heroic_summon_info<>Invocação Premium - pode invocar Heróis de 3 a 5 estrelas utilizando Pergaminho de Invocação Premium ou Gema.
+npc_friend_summon_info<>Invocação de Amizade - pode invocar aqui Heróis de 2 a 5 estrelas utilizando Ponto Amigo.
+npc_continue_campaign<>Maravilhoso! Está na hora de explorar o mundo!
+npc_select_hero_formation<>Por favor, selecione os Heróis para se juntar à batalha.
+npc_formation_info_position<>Lembre-se que o ataque básico normalmente se concentra primeiro no Herói na posição 1, depois segue a ordem de posição de 2 a 5.
+npc_auto_battle<>A batalha é totalmente automática. Os heróis recuperam energia depois de usarem o seu ataque básico.
+npc_summoner_power<>OLHE! A barra de energia dos seus Heróis já está cheia. Com estas energias, eles irão libertar uma poderosa habilidade ativa quando seus turnos chegarem.
+npc_formation_change_position<>Outra coisa... você pode mudar a posição dos seus Heróis.
+npc_formation_buff<>Bom trabalho! O ATQ dos heróis irá aumentar quando estiverem na fileira de trás, e os PVs irão aumentar quando estiverem na fileira da frente.
+npc_summoner_battle_info<>Isto é um Invocador. Os invocadores não podem ser atingidos (por inimigos ou mesmo por aliados). Eles irão aumentar o poder dos heróis com feitiços incríveis.
+npc_add_power_summoner<>Quando um Herói recupera energia, o Invocador também recupera. Quando a barra de energia está cheia, todas as energias serão convertidas em uma Chama.
+npc_summoner_skill<>Sempre que um Invocador tiver 5 chamas suficientes, este Invocador irá libertar imediatamente uma poderosa habilidade especial.
+npc_need_power<>Parece que não somos suficientemente fortes. Siga-me! Vou mostrar-lhe como ficar mais forte.
+npc_what_black_smith<>Já conhecia os equipamentos e as suas vantagens, amigo?
+npc_weapon<>Arma aumenta ATQ. Quanto maior for o ATQ, maiores são os danos.
+npc_armor<>Armadura aumenta o PV e a Redução de Dano. Seus Heróis tornam-se mais resistentes.
+npc_helmet<>Capacete aumenta PV e Armadura! Maior resistente é melhor.
+npc_ring<>Finalmente, as jóias aumentam a Precisão e a Evasão! Não consegue se machucar quando não se pode ser atingido.
+npc_black_smith<>Mas primeiro, vamos forjar a sua arma!
+npc_claim_black_smith<>Você é tão talentoso! É assim que é feita uma arma poderosa e perigosa.
+npc_black_market<>Ouvi dizer que eles vendem muitas coisas úteis no Mercado Negro. Vamos lá?
+npc_buy_heroic_scroll<>Tantas coisas úteis são vendidas aqui. Você deveria visitar aqui mais vezes. Vamos comprar um Pergaminho de Invocação Premium.
+npc_claim_black_market<>Que sorte a nossa! Agora temos recursos suficientes para invocar um novo herói. Vamos voltar à invocação, meu amigo!
+npc_continue_summon<>É hora de invocar um novo e poderoso Herói.
+npc_equipment<>Incrível! É um Herói de 5 estrelas. Quanto mais alta estrela de um herói, mais poderosos eles são. Vamos equipar o seu novo herói com a arma que você forjou anteriormente.
+npc_continue_5<>Parabéns! A sua equipa fica mais forte.
+npc_continue<>Está na hora de testar o seu novo poder. Vamos continuar a nossa viagem!
+npc_select_hero_continue<>Não se esqueça de colocar o novo Herói na sua equipe.
+npc_drag_hero<>Com esta situação, penso que deveria colocar este Herói na retaguarda para aumentar o ATQ deste Herói.
+npc_idle_reward<>Colete agora as suas recompensas de inatividade. A sua equipe continuará lutando nesta área para ganhar mais recursos ao longo do tempo. Lembre-se de que as recompensas de inatividade só podem acumular até %s horas.
+npc_upgrade_hero_success<>Fantástico! Mais rápido do que eu pensava! Está na hora de continuar, meu amigo!
+npc_level_up<>Muito bem! Temos recursos suficientes para subir o nível do seu herói. Deixe-me lhe mostrar como se faz.
+npc_select_hero_upgrade<>Por favor, escolha este Herói para começar a subir de nível.
+npc_continue_3<>Muito bem! Vamos continuar a nossa viagem!
+npc_stage_10<>OLHE! Há um herói de 5 estrelas à espera de ser recrutado na fase 1-10. Não se esqueça!
+npc_list_tut<>Preparei uma lista de missões para você. Eu a chamo de Árvore de Missões. Esta lista é útil para a sua viagem. Abra-a!
+npc_quest<>Esta é a Árvore de Missões que eu mencionei! Muitas recompensas estão esperando por você quando você completar as missões da lista.
+npc_quest_complete<>Bom trabalho! Você concluiu a primeira missão. Está na hora de coletar a sua recompensa!
+npc_end_tut<>Parabéns! Você completou o tutorial. É hora de dizer adeus. Espero que nos encontremos de novo em breve, meu caro amigo!
+npc_claim_hero_5star<>Perfeito! Você recebeu um Herói de 5 estrelas.
+npc_go_evolve_summoner<>Bom trabalho! Você tem recursos suficientes para fazer evoluir o seu invocador. Deixe-me lhe mostrar como funciona!
+npc_5summoner<>Estes são Invocadores de todas as classes!
+npc_summoner_class_1<>Mago - Mestre da magia e afeta a imunidade
+npc_summoner_class_2<>Guerreiro - Alta defesa e redução de danos
+npc_summoner_class_3<>Padre - Cura e resistência à controles de grupo
+npc_summoner_class_4<>Assassino - Domínio da força, da evasão e da precisão.
+npc_summoner_class_5<>Guarda - Ataques à distância e danos cumulativos mortais
+npc_switch_summoner<>Toque aqui para escolher o seu Invocador.
+npc_end_summoner<>Lembre-se que o seu invocador pode ser trocado por qualquer outro invocador. Os Invocadores podem dar aos seus heróis uma enorme vantagem durante a batalha.
+npc_buy_scroll_success<>Muito bem! Você já está gradualmente se acostumando com o jogo. Este é um pequeno presente para sua familiarização com o jogo.
+victory_battle_tut<>Uma batalha tão dramática, não é? Você experimentará batalhas como esta no jogo. Vamos começar a jornada de descoberta comigo!
+npc_please_summon_heroic<>Vamos invocar o seu primeiro companheiro, amigo.
+introduce_hero_summoned<>Parabéns! Você convocou um lendário 5* herói. O herói lendário é o herói mais avançado que você pode obter de convocação.
+asking_continue_tutorial<>Você convocou seus primeiros heróis. Deseja continuar o tutorial para aprender mais sobre a mecânica do jogo?
+yes<>sim. Eu quero aprender mais.
+no<>Não. Estou familiarizado com esses tipos de jogo.
+npc_introduce_auto_battle<>A batalha é totalmente automática. Os heróis recuperam energia depois de usarem o seu ataque básico.
+npc_introduce_summoner<>Isto é um Invocador. Os invocadores não podem ser atingidos (por inimigos ou mesmo por aliados). Eles irão aumentar o poder dos heróis com feitiços incríveis.
+npc_let_battle_commence<>Você terminou de configurar o esquadrão. Agora vamos para a batalha!
+npc_introduce_turn_mechanic<>1 partida consiste em 15 rodadas. O atacante vencerá se todos os heróis do oponente forem derrotados em 15 rodadas.
+first_victory<>Parabéns! Você conseguiu sua primeira vitória. Obtenha o seguinte loot e continue a guiar comigo!
+npc_idle_reward_1<>Colete agora as suas recompensas de inatividade. A sua equipe continuará lutando nesta área para ganhar mais recursos ao longo do tempo. Lembre-se de que as recompensas de inatividade só podem acumular até %s horas.
+npc_idle_reward_2<>Quanto mais campanha você alcançar, mais recompensas ociosas poderão ser mantidas. Além disso, aumente seu nível vip para aumentar o tempo máximo de inatividade.
+npc_introduce_hero_upgrade_feature<>É aqui que você pode verificar as informações de seus heróis. Você pode subir de nível, atualizar estrelas e equipar itens para fortalecer seu herói.
+npc_introduce_four_equipment_slot<>Existem 4 tipos de equipamentos.
+npc_click_level_up<>Sekarang, mari naikkan level pahlawan Anda.
+congratulation_you_have_done<>Bom trabalho! Você concluiu o tutorial. Eu acredito que você pode se tornar um grande invocador. Vamos continuar explorando o jogo do seu jeito.

@@ -1,0 +1,5 @@
+name,star,target_position,target_number,blessing_chance,blessing_duration
+Main_Passive2,4,31,2,0.5,2
+Main_Passive2,5,31,2,0.55,2
+Main_Passive2,6,31,2,0.6,2
+Main_Passive2,7,31,2,0.7,2

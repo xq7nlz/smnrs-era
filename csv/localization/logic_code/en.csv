@@ -1,0 +1,322 @@
+key<>value
+0<>Action succesfully completed
+1<>An error occurred
+2<>The server isn't responding
+4<>Player not found
+5<>Invalid input data
+6<>Not enough resource
+10<>This function is not supported
+11<>You have adjusted the time, please correct it.
+12<>Invalid client version
+13<>Invalid bundle name
+14<>Invalid value
+15<>Invalid value
+16<>Mismatch csv file number 
+17<>CSV file mismatch
+30<>Authentication has been registered
+31<>This account has already been signed in another device
+32<>Duplicate login information
+33<>An error occurred
+34<>Incorrect password
+35<>Authentication player had been blocked
+36<>Invalid authentication server ID 
+37<>Authentication account is missing an username
+38<>Incorrect password
+40<>Existed value 
+41<>Authentication password already used
+50<>Invalid player name format
+51<>Player name has been banned
+52<>Existed username
+53<>Player has been blocked
+54<>Player has been unblocked
+55<>Blocked users list is full
+56<>Player's Facebook ID already existed
+57<>Apple ID already existed
+58<>Invalid username
+65<>An error occurred
+70<>Heroes collection is full
+71<>This hero has reached max level
+72<>This hero has reached maximum star
+73<>Hero not found
+74<>This hero has been locked
+75<>Invalid evolution material
+76<>Please upgrade this hero to max level
+77<>Not enoug hero evolve materials
+78<>Hero is currently in Auto Training
+80<>Received daily rewards.
+85<>Unable to disassemble the Altar
+90<>Not enough hero fragments 
+91<>Hero fragment not found
+100<>Conversion failed
+101<>Not found Hero to convert
+110<>Unable to buy Summon Scroll
+120<>Not enough item level
+121<>Item level has reached the limit
+122<>Item has not been equipped
+123<>Item not found
+124<>Item mismatch
+130<>Purchases have reached the limit
+131<>Adventure stage not found
+132<>Not enough Adventure level
+140<>The hero has already joined the Dungeon
+141<>Dungeon hero has died
+142<>Please select at least one hero
+143<>Merchant not found 
+144<>Dungeon closed
+145<>Maximum 5 heroes
+146<>Invalid hero slot 
+148<>Hero not found 
+149<>Potion not found 
+150<>Dungeon stage max reached
+160<>Mastery level limit reached
+161<>Mastery locked
+162<>Reset failed
+163<>Mastery has already been reset
+170<>Summoner class selected
+171<>Unable to select the Summoner class
+172<>Unable to select Summoner skill tier
+173<>Summoner's star has reached maximum
+180<>Purchases have reached the limit
+181<>Purchases have reached the limit
+190<>Unable to claim Gold
+200<>Purchases have reached the limit
+201<>Dragon Tower's max floor reached
+210<>No quest to refresh
+211<>Unable to change the lock of a quest.
+212<>Unable to cancel the quest
+213<>Unable to start this quest
+214<>Quest not found
+215<>This hero has joined another quest.
+216<>This hero does not meet the quest requirements
+217<>Unable to finish the quest
+218<>Tavern quest has already finished
+219<>Tavern quests have reached the limit
+220<>Unable to speed up
+230<>Feature unavailable
+240<>Auto training slot is full
+241<>Campaign stage has been limited
+242<>Campaign stage not found
+243<>Campaign stage has been locked
+244<>Can only train 1 to 3-star heroes
+245<>Please select hero for training
+246<>Not enough Campaign level 
+250<>Friend is already existed
+251<>Request has been already sent.
+252<>Your friend list is full
+253<>Friend not found
+254<>Friend request not found
+255<>Unable to scout
+256<>Scout failed
+257<>Boss is already existed
+258<>Friend Boss not found
+259<>The level difference is too large
+260<>Number of raid has reached to limit
+265<>Friend Point has reached maximum
+266<>No Friend Point
+270<>You have reached maximum mail sending
+271<>Mail not found
+272<>Unable to delete the mail
+273<>Unable to get mail rewards 
+274<>Invalid mail content length
+290<>Opponent not found 
+291<>Please create a squad in the Arena
+292<>Purchases have reached limit!
+300<>Record not found
+310<>Chat failed
+311<>Invalid chat message length
+312<>Chat message not found
+320<>Reward video not found
+321<>Reward video limit reached
+350<>Player has joined another Guild
+351<>Guild not found
+352<>You have just left a guild, please wait for %s minutes
+353<>The guild is full
+354<>Guild member not found
+355<>Unable to leave guild
+360<>Invalid guild name
+361<>Guild name is already banned
+362<>Guild name is already existed
+363<>Invalid guild description
+364<>Guild description has been banned
+370<>Leader level is not enough
+371<>Unable to complete the request
+372<>Already had enough Co-leader
+373<>Guild member has already checked in
+374<>Guild check-in number has reached limit
+375<>Guild donation has reached the limit.
+376<>Guild member inactive too long
+380<>Guild application existed
+381<>Guild application is full
+382<>Guild application not found
+390<>The level of Guild building has reached the limit
+391<>Please wait until the construction is completed.
+392<>Unable to upgrade the Guild building
+393<>Guild mill has not been built
+394<>Unable to get resource
+400<>Guild boss not found
+401<>Guild boss has already been challenged
+402<>Unable to challenge the Guild Boss
+403<>Unable to select the Guild Boss
+404<>Statistics not found 
+410<>Already challenged Guild Dungeon 
+411<>Not found Guild Dungeon
+412<>Not find stage the Guild Dungeon
+413<>Guild Dungeon already closed
+422<>Not found opponent
+423<>Unable to select opponent guild
+424<>Number member mismatched
+425<>Not found opponent
+426<>Attack chances has reached the limit.
+427<>Unable to join due to not registering for guild war
+428<>Not participated
+430<>Guild war registration phase closed
+431<>Guild war setup phase closed
+450<>Quest not found 
+451<>Unable to claim quest reward
+452<>Quest unlock failed
+460<>Not found Item
+461<>Sold out
+470<>Invalid formation 
+480<>Avatar not found 
+481<>Avatar Frame not found
+490<>Tutorial not found 
+501<>Pasword forgotten email limit reached
+502<>Pasword forgotten code enter limit reached
+503<>Pasword forgotten code has expired
+504<>Pasword forgotten code mismatched
+510<>Email send limit reached
+511<>Email code enter limit reached
+512<>Email validation code expired
+513<>Email validation code mismatched
+514<>Email already existed
+515<>Can't send email
+516<>Email has already been verified
+517<>Email not found
+518<>Email has not been verified
+600<>Purchase pack ot found
+601<>Invalid purchase transaction
+602<>First-time purchase pack expired 
+603<>This pack is not available
+604<>Sold out
+605<>Purchase has been processed
+606<>This purchase isn't supported
+607<>This purchase isn't found
+700<>Event closed
+701<>Event not found 
+740<>Received the Login Event reward
+741<>Login Event reward not found
+750<>Festival Event reward not found
+751<>Already claimed Festival Event reward 
+752<>Festival Event requirements are not met
+760<>Exchange Event has reached the limit
+761<>Exchange failed
+770<>Arena Ranking reward not found 
+771<>Event Arena Ranking requirements are not met
+772<>Already claimed Arena Ranking reward 
+780<>Event Wheel Of Fate can't spin
+781<>Event Wheel Of Fate can't reroll
+782<>Event Wheel Of Fate reroll limit reached
+783<>Event Wheel Of Fate completed
+784<>Event Wheel Of Fate none quest assigned
+785<>Event Wheel Of Fate not assigned
+786<>Event Wheel Of Fate not complete
+262<>Player's friend is full
+414<>Dungeon stage has already completed
+261<>Boss already defeated
+60<>Google account already exists
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Guild war battle phase closed
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>Team name is invalid.
+656<>Team name has been banned.
+657<>Team description is invalid.
+658<>Team description has been banned.
+660<>Have already joined a team.
+661<>Team has not been found.
+662<>You are not in a team.
+663<>Not find this player.
+664<>
+665<>This team is battling.
+666<>This team has reached full members.
+667<>This team has been disbanned.
+668<>Some players have not been ready.
+670<>This player has been already invited.
+671<>Limit number of invitations
+672<>Invitation has been out of time as the team has been disbanded.
+673<>Invitation has been out of time as the team has been disbanded.
+675<>Application for this team has been sent.
+676<>Limit number of applications.
+677<>
+678<>
+679<>
+680<>Ready is in cooldown time. Be patient.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Number of Entries maxed out
+669<>Not enough members to start.
+357<>You have not been in a Guild.
+690<>Could not leave team now.
+151<>You manipulate too fast. Re-open the game to solve this problem.
+654<>This player has not saved his formation
+686<>Slow down, you've changed leader too fast.
+616<>You haven't chosen Hero or Artifact yet.
+1126<>You have reached the maximum level so you need not purchase level.
+1152<>You don't have any spins.
+1151<>You don't have any spins.
+1153<>You have reached maximum spins.
+742<>Unable to claim this reward.
+1160<>You need to choose a hero to complete purchase.
+1163<>You need choose an item to claim.
+984<>You need to choose a hero before exchanging.
+994<>You have received all rewards.
+203<>Your level is not matched for attending this floor. 
+1251<>You have redeemed the maximum reward. 
+1253<>Not enough resource to unite the star. 
+1262<>Complete all requirements to receive. 
+125<>Unlock when hero reaches 14 star 

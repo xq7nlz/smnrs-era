@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) e ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) or ({4})
+1_1_2_power<> + {1} {2} ao iniciar a batalha
+1_1_2_4_power<> + {1} {2} ({3}) ao iniciar a batalha
+1_1_2_5_power<> + {1} {2} ({3}) ao iniciar a batalha
+1_1_2_4_5_power<> + {1} {2} ({3}) and ({4}) ao iniciar a batalha
+1_1_2_4_5_power_or<> + {1} {2} ({3}) or ({4}) when battle starts
+2_1<> + {1} Danificar
+2_1_2<> + {1} Danos por {2}
+2_1_3<> + {1} Danos Contra {2}
+2_1_4<> + {1} Danos Contra {2}
+2_1_2_3<> + {1} Danos por {2} Quando Contra {3}
+2_1_2_4<> + {1} Danos por {2} Quando Contra {3}
+2_1_2_3_4<> + {1} Danos por {2} Quando Contra {3} e {4}
+2_1_2_3_4_or<> + {1} Damage for {2} Against {3} or {4}
+5_1_3<>+ Reduce {1} Dano causado pela classe Hero {2}
+5_1_4<>+ Redução {1} dano causado pela facção do herói {2}

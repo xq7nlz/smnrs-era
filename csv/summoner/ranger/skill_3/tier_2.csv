@@ -1,0 +1,5 @@
+name,star,target_position,target_number,round_trigger_list,debuff_duration,debuff_stat_1,debuff_amount_1
+Main_Passive2,8,10,5,2;6;10;14,2,41,0.15
+Main_Passive2,9,10,5,2;6;10;14,2,41,0.2
+Main_Passive2,10,10,5,2;6;10;14,2,41,0.3
+Main_Passive2,11,10,5,2;6;10;14,2,41,0.4

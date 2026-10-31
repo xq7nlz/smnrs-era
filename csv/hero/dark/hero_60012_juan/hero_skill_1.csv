@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,effect_trigger_class,effect_type,effect_chance,effect_duration,bonus_damage_with_class
+Juan_Active,2.55,21,1,1,1,0.35,3,0.4
+Juan_Active,2.85,21,1,1,1,0.35,3,0.6
+Juan_Active,3.15,21,1,1,1,0.35,3,0.8

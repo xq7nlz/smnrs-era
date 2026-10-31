@@ -1,0 +1,6 @@
+quest_id,quest_type,requirement_1,requirement_2,requirement_3,requirement_4,requirement_5,requirement_6,res_type,res_id,res_number,res_data,feature_mapping,unlock_requirement_1,unlock_requirement_2,unlock_requirement_3,Is_calculate_when_lock
+1,1700,20,,,,,7,2,11,2000,,2,,,,
+2,1700,60,,,,,7,2,51,5,,2,,,,
+3,1700,120,,,,,7,2,60,2,,2,,,,
+4,1700,200,,,,,7,7,505,50,,2,,,,
+5,1700,300,,,,,7,7,5000705,50,,2,,,,

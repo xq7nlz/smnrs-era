@@ -1,0 +1,4 @@
+name,stat_type,stat_bonus_amount,stat_bonus_limit
+Charon_Passive3,1,0.05,1
+Charon_Passive3,1,0.1,1.5
+Charon_Passive3,1,0.15,2

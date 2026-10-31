@@ -1,0 +1,4 @@
+name,damage_min,damage_max,target_position,target_number_min,target_number_max,silence_chance_debuff_mage,effect_type_debuff_warrior,effect_chance_debuff_warrior,effect_duration
+Sephion_Active,1.5,2.5,10,2,5,0.3,1,0.3,2
+Sephion_Active,1.7,2.7,10,2,5,0.3,1,0.3,3
+Sephion_Active,1.9,2.9,10,2,5,0.3,1,0.3,4

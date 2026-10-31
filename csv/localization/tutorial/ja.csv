@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>こんにちはサモナー！光秩序の聖同盟へようこそ-地球上で最も強力な呪文の伝説的な都市！
+npc_rename<>お名前はなんですか。
+npc_summon_click<>仲間がいないようです。召喚に私に従ってください
+npc_summon_start<>私の最初の仲間、友達を召喚しましょう。
+player_option1_1<>OK！やってみましょう。
+player_option1<>わかりました。
+player_option2<>見せてください。
+player_option2_1<>これはなんですか。
+npc_basic_summon_info<>基本召喚-1から5つ星までのヒーローを召喚
+npc_heroic_summon_info<>プレミアム召喚-3つ星から5つ星までのヒーローを召喚
+npc_friend_summon_info<>サモンフレンズ-2つ星から5つ星までのヒーローを召喚します
+npc_continue_campaign<>素晴らしい！世界を探索する時間です！
+npc_select_hero_formation<>戦いに参加するヒーローを選択してください。
+npc_formation_info_position<>すごい！通常の攻撃によるダメージが1、2、3、4、5の順番になることに注意してください。
+npc_auto_battle<>これは完全に自動化された試合です
+npc_summoner_power<>ヒーローのエネルギーバーがいっぱいになると、そのヒーローは自動的にスキルを使用します
+npc_formation_change_position<>ヒーローの位置は自由に変更できます
+npc_formation_buff<>とても良い！注：後列のヒーローは攻撃力が増加し、前部のヒーローは増加します
+npc_summoner_battle_info<>これはあなたの英雄の戦いをサポートするサモナーです。サモナーは攻撃されないことに注意してください！
+npc_add_power_summoner<>ヒーローが怒りを増やすと、召喚師も怒りを覚えます。フルバーは1発射に変換されます。
+npc_summoner_skill<>5つの炎がある場合、サモナーは自動的にスキルを使用します
+npc_need_power<>急げ！もっと力が必要
+npc_what_black_smith<>武器の使い方を知っていますか。
+npc_weapon<>攻撃力を高める武器
+npc_armor<>体力を増やしてダメージを減らす鎧
+npc_helmet<>ヘルスキャップと防御統計
+npc_ring<>リングは精度と回避能力を高めます
+npc_black_smith<>まずは武器作り
+npc_claim_black_smith<>すごい！あなたは非常に強力な武器を受け取りました
+npc_black_market<>OK！今闇市場に行きます
+npc_buy_heroic_scroll<>ここでは珍しいものを買うことができます。プレミアム召喚スクロールを1つ購入しましょう！
+npc_claim_black_market<>なんて幸​​運なことでしょう。ヒーローを召喚し続けるのに十分なリソースがあります
+npc_continue_summon<>新しい強力なヒーローを召喚する時が来ました。
+npc_equipment<>4つ星のヒーローを所有しておめでとうございます。武器を装備し続けます
+npc_continue_5<>とても強くおめでとうございます
+npc_continue<>すごい！旅を続けましょう
+npc_select_hero_continue<>分隊に新しいヒーローを選び続けてください
+npc_drag_hero<>ヒーローを後列に置くことは、そのヒーローへの攻撃を増やすのに役立ちます
+npc_idle_reward<>自動報酬を受け取ると、チームは自動的に戦い、時間とともに定期的な報酬を獲得します。報酬箱は最大%s時間しか保持できないことを思い出してください
+npc_upgrade_hero_success<>すごい！思ったより速い
+npc_level_up<>よくやった！この報酬から、ヒーローの力をアップグレードします
+npc_select_hero_upgrade<>アップグレードする4つ星のヒーローを選択してください
+npc_continue_3<>とても良い！旅を続ける
+npc_stage_10<>1-10に移動してみてください、報酬はあなたを待っている1ヒーロー5星です
+npc_list_tut<>あなたの旅をガイドするリストを用意しました！
+npc_quest<>これはミッションツリーです。報酬のためにそれを完成させてください
+npc_quest_complete<>これはミッションツリーです。報酬のためにそれを完成させてください
+npc_end_tut<>チュートリアルの完了おめでとうございます。またお会いしましょう。
+npc_claim_hero_5star<>おめでとう！ 5つ星のヒーローを受け取りました
+npc_go_evolve_summoner<>すごい！今、あなたはサモナーティーチャーを進化させることができます
+npc_5summoner<>これらはすべてサモナーです！
+npc_summoner_class_1<>シャーマン-サモンマスターはパワーと効果の耐性に関するものです
+npc_summoner_class_2<>ウォリアーズ-サモナーは防御を好み、ダメージを減らします
+npc_summoner_class_3<>モンク-サモナーマスターは、ハードな群衆のコントロールを癒しサポートすることについての詳細です
+npc_summoner_class_4<>アサシン-力、覆い焼き、精度を好む召喚士
+npc_summoner_class_5<>ガンナー-サモナーは力についてであり、敵にダメージを与えます
+npc_switch_summoner<>サマナーマスターを変更するにはここをクリックしてください
+npc_end_summoner<>バトルに参加するサモナーを選択できます
+npc_buy_scroll_success<>とても良い！ あなたはすでにゲームに徐々に慣れています。 これは、ゲームであなたの習熟のための小さな贈り物です。
+victory_battle_tut<>こんなドラマチックな戦いですね。 ゲームではこのような戦闘を体験します。 私と一緒に発見の旅を始めましょう！
+npc_please_summon_heroic<>私の最初の仲間、友達を召喚しましょう。
+introduce_hero_summoned<>おめでとう！あなたは伝説の5*ヒーローを召喚しました。伝説的なヒーローは、召喚から得られる最も先進的なヒーローです。
+asking_continue_tutorial<>あなたは最初のヒーローを召喚しました。 ゲームの仕組みについてもっと学ぶためにチュートリアルを続けたいですか？
+yes<>はい。 もっと学びたい。
+no<>いいえ。私はこれらのタイプのゲームに精通しています。
+npc_introduce_auto_battle<>これは完全に自動化された試合です
+npc_introduce_summoner<>これはあなたの英雄の戦いをサポートするサモナーです。サモナーは攻撃されないことに注意してください！
+npc_let_battle_commence<>チームのセットアップが完了しました。 さあ、戦いに行こう！
+npc_introduce_turn_mechanic<>1試合は15ラウンドで構成されます。 対戦相手のすべてのヒーローが15ラウンド以内に敗北した場合、攻撃者が勝ちます。
+first_victory<>おめでとう！ あなたはあなたの最初の勝利を得ました。 次の戦利品を入手して、私と一緒にガイドを続けてください！
+npc_idle_reward_1<>自動報酬を受け取ると、チームは自動的に戦い、時間とともに定期的な報酬を獲得します。報酬箱は最大%s時間しか保持できないことを思い出してください
+npc_idle_reward_2<>キャンペーンに到達すればするほど、より多くのアイドル報酬が保持される可能性があります。 さらに、vipレベルを上げて、最大アイドル時間を増やします。
+npc_introduce_hero_upgrade_feature<>ここでヒーローの情報を確認できます。 レベルアップし、スターをアップグレードし、アイテムを装備してヒーローを強化することができます。
+npc_introduce_four_equipment_slot<>機器は4種類あります。
+npc_click_level_up<>それでは、ヒーローをレベルアップしましょう。
+congratulation_you_have_done<>よくできた！ チュートリアルを完了しました。 あなたは素晴らしい召喚者になることができると私は信じています。 自分なりの方法でゲームを探求していきましょう。

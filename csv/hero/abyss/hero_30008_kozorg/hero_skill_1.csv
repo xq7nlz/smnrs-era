@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Kozorg_Active,1.06,20,4,0.3,4,2
+Kozorg_Active,1.26,20,4,0.4,4,2
+Kozorg_Active,1.46,20,4,0.5,4,3

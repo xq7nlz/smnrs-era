@@ -1,0 +1,2 @@
+name,star,damage,target_position,target_number,buff_target_position,buff_target_number,buff_type,buff_amount,buff_duration
+Main_Active,12,3.9,10,1,10,5,32,0.35,2

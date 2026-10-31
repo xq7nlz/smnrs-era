@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,venom_stack_damage,venom_stack_duration,number_stack
+Jormungand_Active,1.1,10,5,0.15,3,2
+Jormungand_Active,1.3,10,5,0.2,3,2
+Jormungand_Active,1.5,10,5,0.25,3,2

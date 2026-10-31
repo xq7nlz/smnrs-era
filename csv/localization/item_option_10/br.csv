@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>O herói usando esse talento bloqueará todos os danos na primeira rodada de batalha.
+10_2000201_1_2<>O ataque básico do herói usando esse talento tem a chance de causar mais danos aos inimigos.
+10_2000301_1_2<>A habilidade ativa do herói usando esse talento tem {1} chance de executar o alvo. Esta ação acontece uma vez por batalha.
+10_2000401_1_2<>O herói usando esse talento tem 1 tempo para evitar a execução. Se acontecer, esse herói se recupera {1} HP naquela rodada.
+10_2000501_1<>O herói usando este talento causa {1} mais dano ao longo do tempo aos inimigos.
+10_2000601_1<>O herói usando esse talento, quando ele lida com um golpe crítico, tem {1} chance de aplicar o efeito do silêncio aos inimigos.
+10_2000701_1<>O herói que usa esse talento tem {1} chance de lançar um efeito no início de cada rodada, o que o ajuda a ser imune ao efeito do silêncio.
+10_2000801_1_2<>Ao atacar, o herói usando esse talento reduz o {2} do alvo por {1} na rodada de ataque.
+10_2000901_1<>Quando o herói usando esse talento realiza um ataque básico para atingir um efeito negativo, ele dá ao alvo {1} menos energia.
+10_2001001_1<>Habilidade ativa do herói usando esse talento lhe dá mais energia.
+10_290401_1_2<>O herói usando este equipamento cura a si mesmo {1} HP no início da rodada {2}
+10_290402_1_2<>No início da batalha, o herói que usa este equipamento aplica o efeito Burning a todos os inimigos na linha de frente. Queimar causa [{1} ATK] de dano e dura {2} rodadas.
+10_290403_1_2_3<>O herói usando este equipamento causa mais {2} de dano e cura a si mesmo {1} HP ao atacar inimigos obtendo {3}.
+10_290404_1_2<>O herói usando este equipamento recebe mais {1} quantidade de cura de aliados. Além disso, o efeito de veneno aplicado aos inimigos aumenta o dano de {2}.
+10_290405_1<>O herói usando este equipamento cura a si mesmo {1} HP (calculado a partir de seu HP base) ao receber buffs removíveis. Este efeito é ativado uma vez por rodada.
+10_290406_1<>O herói usando este equipamento cura a si mesmo {1} HP (calculado a partir de seu HP base) ao atacar inimigos obtendo efeito de Sangramento.

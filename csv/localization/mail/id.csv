@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>Hadiah VIP
+vip_reward_content<>Selamat! kamu telah menerima hadiah karena mencapai VIP {1}
+friend_boss_last_hit_reward_subject<>Hadiah Boss kawan
+friend_boss_last_hit_reward_content<>Selamat! Kamu telah mendapatkan hadiah pukulan terakhir pada Boss kawan
+friend_boss_cleared_reward_subject<>Hadiah Boss kawan
+friend_boss_cleared_reward_content<>Selamat! Kamu telah mendapatkan hadiah setelah mengalahkan Boss kawan
+friend_season_ranking_reward_subject<>Peringkat Musim Teman
+friend_season_ranking_reward_content<>Selamat! Kamu mendapatkan hadiah musim peringkat teman {1}.
+arena_season_ranking_reward_subject<>Peringkat Musim Arena
+arena_season_ranking_reward_content<>Selamat! Kamu telah mendapatkan hadiah peringkat musim Arena {1}.
+arena_team_season_ranking_reward_subject<>Peringkat Musim Arena
+arena_team_season_ranking_reward_content<>Selamat! Kamu telah mendapatkan hadiah peringkat musim Arena {1}.
+guild_boss_daily_reward_subject<>Hadiah Boss Perkumpulan Harian
+guild_boss_daily_reward_content<>Selamat! Kamu telah mendapatkan hadiah ikut serta dalam Boss Perkumpulan harian
+guild_boss_monthly_reward_subject<>Hadiah Boss Perkumpulan Bulanan
+guild_boss_monthly_reward_content<>Selamat! Kamu telah mendapatkan hadiah bulanan dalam Boss Perkumpulan.
+guild_dungeon_cleared_reward_subject<>Guild Dungeon Rewards
+guild_dungeon_cleared_reward_content<>Congratulations! You've received rewards for completing stage {1} of season {2} in the Guild Dungeon.
+guild_dungeon_season_reward_subject<>Hadiah Musim Dungeon Perkumpulan
+guild_dungeon_season_reward_content<>Selamat! Kamu telah menerima hadiah karena telah menyelesaikan musim  {1} dalam Dungeon Perkumpulan
+guild_war_battle_reward_subject<>Hadiah Perang Perkumpulan
+guild_war_battle_reward_content<>Selamat! Kamu telah menerima hadiah karena telah menyelesaikan pertarungan {2} musim {1} dalam Perang Perkumpulan
+guild_war_season_reward_subject<>Hadiah Musim Perang Perkumpulan
+guild_war_season_reward_content<>Selamat! Kamu telah menerima hadiah karena telah menyelesaikan musim {1} dalam Perang Perkumpulan
+purchase_raw_pack_subject<>Hadiah Paket Mentah
+purchase_raw_pack_content<>Selamat! Kamu telah menerima hadiah karena telah membeli paket {1}. \nID transaksi: {2}. \nWaktu transaksi {3}
+purchase_subscription_pack_instant_subject<>Hadiah Paket Langganan
+purchase_subscription_pack_instant_content<>Selamat! Kamu telah menerima hadiah karena telah membeli paket {1}. \nID transaksi: {2}. \nWaktu transaksi {3}
+purchase_subscription_pack_daily_subject<>Hadiah Harian Paket Langganan
+purchase_subscription_pack_daily_content<>Selamat! Kamu telah menerima hadiah harian dari paket langganan {1}. \nHari {2}.
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>Hadiah Paket Terbatas
+purchase_limited_pack_content<>Selamat! Kamu telah menerima hadiah karena telah membeli Paket Terbatas {1}. \nID Transaksi: {2} \nWaktu Transaksi: {3}
+purchase_event_bundle_pack_subject<>Paket Bundel Event
+purchase_event_bundle_pack_content<>Selamat! Kamu menerima hadiah karena telah membeli Paket Bundel Event {1}. \nID Transaksi: {2} \nWaktu Transaksi {3}
+purchase_event_hot_deal_subject<>Paket Bundel Event
+purchase_event_hot_deal_content<>Selamat! Kamu menerima hadiah karena telah membeli paket bundel event {1}. \nID Transaksi: {2} \nWaktu Transaksi {3}
+purchase_subscription_pack_trial_subject<>Hadiah Harian Percobaan Paket Langganan
+purchase_subscription_pack_trial_content<>Selamat! Kamu telah mendapatkan hadiah harian untuk percobaan paket langganan {1}. Hari: {2}
+purchase_first_time_reward_subject<>Hadiah Paket Pertama Kali
+purchase_first_time_reward_content<>Selamat! Kamu telah menerima hadiah karena telah membeli paket pertama kali.
+event_arena_subject<>Event Arena
+event_arena_content<>Selamat! Kamu menerima hadiah musim {1} dalam Event Arena.
+event_casino_subject<>Event Roda Takdir Event)
+event_casino_content<>Selamat! Kamu telah mendapatkan hadiah musim {1} dalam event Roda Takdir Event).
+event_hero_collect_subject<>Event Mengumpulkan Pahlawan
+event_hero_collect_content<>Selamat! Kamut telah menerima hadiah Musim {1} dalam event Mengumpulkan Pahlawan.
+event_prophet_tree_subject<>Event Pohon Purba
+event_prophet_tree_content<>Selamat! Kamu telah menerima hadiah Musim {1} di Event Pohon Purba.
+event_summon_subject<>Event Pemanggilan
+event_summon_content<>Selamat! Kamu telah menerima hadiah Musim {1} di Event Pemanggilan
+event_tavern_subject<>Event Kedai Minum Event)
+event_tavern_content<>Selamat! Kamu telah menerima hadiah Musim {1} di Kedai Minum Event)
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>Ganti kata sandi email untuk Summoner Era
+email_change_password_content<>Nama Pengguna: {2}. Kode reset Kata Sandi {1}, Kedaluwarsa: {3}
+email_validation_subject<>Validasi email untuk Summoner Era
+email_validation_content<>Kode Validasi {1}, Kedaluwarsa: {3}
+email_sender_name<>Bantuan Zitga
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Hadiah Kartu Black Friday
+event_black_friday_content<>Selamat! Anda telah menerima hadiah harian dari Black Friday Card {1}.\nHari: {2}\n
+event_new_year_subject<>Hadiah Kartu Berkat
+event_new_year_content<>Selamat! Anda telah menerima hadiah harian dari Blessing Card.
+event_lunar_new_year_clear_boss_reward_subject<>Tahun Baru Imlek Mengusir Setan Reward
+event_lunar_new_year_clear_boss_reward_content<>Selamat! Anda telah menerima hadiah ini dari aktivitas Usir iblis.
+event_new_hero_summon_subject<>Panggilan Legendaris  Hadiah 
+event_new_hero_summon_content<>Selamat! Anda telah menerima hadiah ini dari aktivitas Panggilan Legendaris  
+maintenance_inform_title<>PENGUMUMAN PEMELIHARAAN SERVER 
+maintenance_inform_title_content<>Sayang Summoners,\nCouncil ingin mengumumkan bahwa server akan menjalani pemeliharaan pada {1}. Anda tidak akan dapat masuk selama ini.\nHarap perhatikan bahwa game tidak dapat dimainkan selama waktu pemeliharaan. 
+maintence_reward_title<>MAINTENANCE BERAKHIR 
+maintence_reward_content<>Sayang Summoners,\nPemeliharaan selesai. Kami ingin mengirimkan hadiah ini sebagai ucapan terima atas kesabaran Anda selama waktu pemeliharaan.\nTetap menikmati dan menaklukkan! 
+event_easter_card_subject<>Kartu Kelinci Reward
+event_easter_card_content<>Selamat! Anda telah menerima hadiah harian dari Kartu Kelinci.\nHari: %s 
+event_easter_egg_hunt_subject<>Mengumpulkan Telur Paskah Reward 
+event_easter_egg_hunt_content<>Imbalan ini dikirimkan kepada Anda atas kinerja Anda dalam aktivitas acara. 
+event_new_hero_boss_ranking_subject<>Piala Hadiah Kehormatan
+event_new_hero_boss_ranking_content<>Selamat! Anda telah menerima hadiah ini karena mencapai {1} teratas di Kontes Kekuatan.
+domain_challenge_reward_subject<>Domain Imbalan
+domain_challenge_reward_content<>Selamat! Anda telah menerima hadiah ini karena melewati {1} di tahap Domain.
+event_new_hero_release_subject<>Panggilan Legendaris  Hadiah 
+event_new_hero_release_content<>Selamat! Anda telah menerima hadiah ini dari aktivitas Panggilan Legendaris  
+purchase_event_hero_release_subject<>Transaksi Berhasil
+purchase_event_hero_release_content<>Anda menerima item ini untuk membeli paket selama waktu acara pahlawan baru. Terima kasih selalu mendukung kami.
+premium_reward_subject<>Hadiah Versi Premium
+premium_reward_content<>Anda menerima item ini untuk membeli versi premium dari game kami. Terima kasih selalu mendukung kami.
+event_server_open_arena_subject<>Arena Hadiah Papan Peringkat
+event_server_open_arena_content<>Selamat! Anda telah menerima hadiah ini dari Arena acara balap peringkat!
+event_server_open_arena_2_subject<>Arena Bela Diri  Hadiah Papan Peringkat
+event_server_open_arena_2_content<>Selamat! Anda telah menerima hadiah ini dari Arena Bela Diri  acara balap peringkat!
+event_unclaimed_reward<>Inilah hadiah Anda yang belum diklaim.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Hadiah Acara Perang Destiny
+event_birthday_dark_light_content<>Selamat! Anda telah menerima hadiah ini dari kegiatan acara Perang Destiny.\n- sisi cahaya: {1} poin\n- sisi gelap: {2} poin
+event_birthday_summon_subject<>Acara Ulang Tahun Hadiah
+event_birthday_summon_content<>Selamat! Anda telah menerima hadiah ini untuk berpartisipasi dalam misi mingguan.
+event_birthday_prophet_tree_subject<>Acara Ulang Tahun Hadiah
+event_birthday_prophet_tree_content<>Selamat! Anda telah menerima hadiah ini untuk berpartisipasi dalam misi mingguan.
+event_birthday_arena_subject<>Acara Ulang Tahun Hadiah
+event_birthday_arena_content<>Selamat! Anda telah menerima hadiah ini untuk berpartisipasi dalam misi mingguan.
+event_birthday_casino_subject<>Acara Ulang Tahun Hadiah
+event_birthday_casino_content<>Selamat! Anda telah menerima hadiah ini untuk berpartisipasi dalam misi mingguan.
+event_zodiac_exchange_subject<>Event Zodiac Event.
+event_zodiac_exchange_content<>Pemanggil yang terhormat,\nAcara Zodiak telah berakhir. Bintang Astral telah diubah menjadi sumber daya ini. Terima kasih telah menghadiri acara dan harap Anda bersenang-senang bermain game.
+purchase_subscription_pack_daily_bonus_subject<>Hadiah Bonus Harian VIP
+purchase_subscription_pack_daily_bonus_content<>Selamat! Anda telah menerima hadiah ini sebagai manfaat bonus VIP dari kartu bulanan.
+event_thanks_giving_subject<>Acara Thanksgiving
+event_thanks_giving_content<>Selamat! Anda telah menyelesaikan satu putaran dalam permainan dadu. Klaim hadiah ini sekarang!
+event_christmas_subject<>Acara Natal
+event_christmas_content<>Selamat!
+event_boss_challenge_ranking_subject<>Hadiah Peringkat Tantangan Bos
+event_boss_challenge_ranking_content<>Selamat! Anda telah menerima hadiah ini dari aktivitas Tantangan Bos.
+event_valentine_subject<>Acara Valentine
+event_valentine_content<>Selamat!
+event_lunar_new_year_subject<>Acara Tahun Baru Lunar
+event_lunar_new_year_content<>Selamat!
+event_summer_day_subject<>Acara liburan musim panas
+event_summer_day_content<>Selamat!
+event_blossom_day_subject<>Acara Cherry Blossom
+event_blossom_day_content<>Selamat!
+event_qixi_festival_subject<>Acara Festival Qixi
+event_qixi_festival_content<>Selamat!
+event_may_day_subject<>Acara Festival Meksiko
+event_may_day_content<>Selamat!

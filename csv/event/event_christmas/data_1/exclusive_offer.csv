@@ -1,0 +1,15 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE086,com.se.sungame.idle_christmas_1,com.sungame.summoners.era.idle_christmas_1,com.fansipan.summoners.era.idle_christmas_1,com.fansipan.summoners.era.idle_christmas_1,2,1,520,,10,9.99,FALSE
+,,,,,,2,51,10,,,,
+,,,,,,2,221,5,,,,
+,,,,,,2,2,500,,,,
+2,SE087,com.se.sungame.idle_christmas_2,com.sungame.summoners.era.idle_christmas_2,com.fansipan.summoners.era.idle_christmas_2,com.fansipan.summoners.era.idle_christmas_2,2,1,1040,,2,19.99,FALSE
+,,,,,,2,51,20,,,,
+,,,,,,2,221,15,,,,
+,,,,,,2,2,1000,,,,
+,,,,,,14,30007002,1,,,,
+3,SE088,com.se.sungame.idle_christmas_3,com.sungame.summoners.era.idle_christmas_3,com.fansipan.summoners.era.idle_christmas_3,com.fansipan.summoners.era.idle_christmas_3,2,1,2600,,2,49.99,FALSE
+,,,,,,2,60,15,,,,
+,,,,,,2,221,30,,,,
+,,,,,,14,20001001,1,,,,
+,,,,,,2,2,2500,,,,

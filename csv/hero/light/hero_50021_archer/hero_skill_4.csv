@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,stat_2,bonus_2,calculation_type_2
+Archer_Passive2,32,0.15,4,10,3
+Archer_Passive2,32,0.2,4,15,3
+Archer_Passive2,32,0.25,4,20,3

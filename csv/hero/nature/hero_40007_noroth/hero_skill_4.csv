@@ -1,0 +1,4 @@
+name,health_trigger,buff_target_position,buff_target_number,effect_chance,effect_type,effect_duration
+Noroth_Passive3,0.5,10,5,1,500,2
+Noroth_Passive3,0.5,10,5,1,500,3
+Noroth_Passive3,0.5,10,5,1,500,4

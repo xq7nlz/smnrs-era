@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>達成するには%sVIPポイントが必要です
+vip_instant<>収集するには、このVIPレベルに到達します。
+vip_daily<>司令官カードと預言者カードの毎日のボーナス報酬:
+vip_point_required<>VIPポイント必須
+campaign_bonus_idle_time_max<>信頼時間：%s
+campaign_bonus_gold<>ゴールドマンデートが増加：%s
+campaign_bonus_magic_potion<>ボーナス報酬からのボーナス%sヒーローEXP
+campaign_bonus_auto_train_slot<>トレーニングスロット：%s
+tavern_bonus_quest<>居酒屋ボーナスクエスト：%s
+raid_bonus_turn_buy<>追加の毎日購入可能なアドベンチャー試行：%s
+casino_unlock_multiple_spin<>フォーチュンホイールのマルチスピン機能のロックを解除する
+casino_unlock_premium_spin<>デスティニーホイールのロックを瞬時に解除する
+casino_bonus_turn_buy_basic_chip<>ボーナス購入可能なフォーチュンストーン：%s
+battle_unlock_speed_up<>バトルスピードアップを即座に解除する
+battle_unlock_skip<>バトルスキップを即座にロック解除する
+hand_of_midas_bonus_gold<>金鉱のボーナスゴールド：%s
+summon_unlock_accumulate<>召喚を即座にアンロック
+arena_bonus_ticket_buy<>追加の毎日購入可能なアリーナチケット：%s
+campaign_bonus_quick_battle_buy_turn<>購入可能なクイックバトルターン：%s
+current_vip<>現在のVIPレベル
+campaign_bonus_exp_summoner<>キャンペーン からのボーナス%sサモナーEXP
+dungeon_challenge_increased<>監獄のステージ報酬を%s増やします
+allow_skip_ads<>広告スキップのロックを解除する
+allow_prophet_tree_use_gem<>予知木の玉による召喚のロックを解除します
+battle_unlock_skip_arena<>土俵でスキップバトルのロックを解除する
+auto_next_battle<>自動次ステージ機能のロックを解除

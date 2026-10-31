@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Stheno_Active,1.6,20,4,0.25,4,2
+Stheno_Active,1.75,20,4,0.25,4,2
+Stheno_Active,1.9,20,4,0.25,4,3

@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>รางวัลสำหรับผู้เล่นวีไอพี
+vip_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากสถานะวีไอพี {1}
+friend_boss_last_hit_reward_subject<>รางวัล บอสของเพื่อน
+friend_boss_last_hit_reward_content<>ยินดีด้วย! คุณได้รับรางวัล บอสของเพื่อน จากการโจมตีเป็นคนสุดท้าย
+friend_boss_cleared_reward_subject<>รางวัล บอสของเพื่อน
+friend_boss_cleared_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการกำจัด บอสของเพื่อน
+friend_season_ranking_reward_subject<>อันดับฤดูกาลกลุ่มเพื่อน
+friend_season_ranking_reward_content<>ยินดีด้วย! คุณได้รับรางวัลฤดูกาลกลุ่มเพื่อนฤดูกาลที่ {1}
+arena_season_ranking_reward_subject<>การจัดอันดับฤดูกาล ลานประลอง
+arena_season_ranking_reward_content<>ยินดีด้วย! คุณได้รับรางวัลอันดับ ลานประลอง ฤดูกาลที่ {1}
+arena_team_season_ranking_reward_subject<>การจัดอันดับฤดูกาล ลานประลอง
+arena_team_season_ranking_reward_content<>ยินดีด้วย! คุณได้รับรางวัลอันดับ ลานประลอง ฤดูกาลที่ {1}
+guild_boss_daily_reward_subject<>รางวัลกิลด์บอสประจำวัน
+guild_boss_daily_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมสังหารกิลด์บอสประจำวัน
+guild_boss_monthly_reward_subject<>รางวัลกิลด์บอสประจำเดือน
+guild_boss_monthly_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมสังหารกิลด์บอสประจำเดือน
+guild_dungeon_cleared_reward_subject<>Guild Dungeon Rewards
+guild_dungeon_cleared_reward_content<>Congratulations! You've received rewards for completing stage {1} of season {2} in the Guild Dungeon.
+guild_dungeon_season_reward_subject<>รางวัล กิลด์ดันเจี้ยน ประจำฤดูกาล
+guild_dungeon_season_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรม กิลด์ดันเจี้ยน ในฤดูกาลที่ {1}
+guild_war_battle_reward_subject<>รางวัลจากสงครามกิลด์
+guild_war_battle_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการรบครั้งที่่ {2} ในสงครามกิลด์ฤดูกาลที่ {1}
+guild_war_season_reward_subject<>รางวัลจากสงครามกิลด์ประจำฤดูกาล
+guild_war_season_reward_content<>ยินดีด้วย! คุณได้รับรางวัลจากการรบในสงครามกิลด์ฤดูกาลที่ {1}
+purchase_raw_pack_subject<>รางวัลแพ็คเกจเสริม
+purchase_raw_pack_content<>ยินดีด้วย! คุณได้รับรางวัลจากการซื้อแพ็ค {1}\nรหัสธุรกรรม: {2}\nเวลาที่ทำธุรกรรม: {3}
+purchase_subscription_pack_instant_subject<>รางวัลจากแพ็คเกจสมาชิก
+purchase_subscription_pack_instant_content<>ยินดีด้วย! คุณได้รับรางวัลจากการซื้อแพ็คเพจสมาชิก {1}\nรหัสธุรกรรม: {2}\nเวลาที่ทำธุรกรรม: {3}
+purchase_subscription_pack_daily_subject<>รางวัลประจำวันจากแพ็คเกจสมาชิก
+purchase_subscription_pack_daily_content<>ยินดีด้วย! คุณได้รับรางวัลรายวันจากแพ็คเกจสมาชิก {1}\nวันที่: {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>รางวัลจากแพ็คเกจจำกัดการซื้อ
+purchase_limited_pack_content<>ยินดีด้วย! คุณได้รับรางวัลจากการซื้อแพ็คเกจจำกัดการซื้อ {1}\nรหัสธุรกรรม: {2}\nเวลาที่ทำธุรกรรม: {3}
+purchase_event_bundle_pack_subject<>แพ็คเกจเซ็ตกิจกรรม
+purchase_event_bundle_pack_content<>ยินดีด้วย! คุณได้รับรางวัลจากการซื้อแพ็คเกจเซ็ตกิจกรรม {1}\nรหัสธุรกรรม: {2}\nเวลาที่ทำธุรกรรม: {3}
+purchase_event_hot_deal_subject<>แพ็คเกจเซ็ตกิจกรรม
+purchase_event_hot_deal_content<>ยินดีด้วย! คุณได้รับรางวัลจากการซื้อแพ็คเกจเซ็ตกิจกรรม {1}\nรหัสธุรกรรม: {2}\nเวลาที่ทำธุรกรรม: {3}
+purchase_subscription_pack_trial_subject<>รางวัลการทดลองเล่นประจำวันจากแพ็คเกจสมาชิก
+purchase_subscription_pack_trial_content<>ยินดีด้วย! คุณได้รับรางวัลทดลองเล่นรายวันจากแพ็คเกจสมาชิก {1}\nวันที่: {2}
+purchase_first_time_reward_subject<>Purchase First Time Reward
+purchase_first_time_reward_content<>Congratulations! You've received first time rewards for purchasing first time in-game
+event_arena_subject<>กิจกรรม ลานประลอง
+event_arena_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรม ลานประลอง ในฤดูกาลที่ {1}
+event_casino_subject<>กิจกรรม กงล้อวัดใจ
+event_casino_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรม กงล้อวัดใจ ในฤดูกาลที่ {1}
+event_hero_collect_subject<>กิจกรรมสะสมฮีโร่
+event_hero_collect_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรมสะสมฮีโร่ในฤดูกาลที่ {1}
+event_prophet_tree_subject<>กิจกรรมต้นไม้โบราณ
+event_prophet_tree_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรม ต้นไม้โบราณ ในฤดูกาลที่ {1}
+event_summon_subject<>กิจกรรมอัญเชิญ
+event_summon_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรมอัญเชิญในฤดูกาลที่ {1}
+event_tavern_subject<>กิจกรรม โรงเตี๊ยม
+event_tavern_content<>ยินดีด้วย! คุณได้รับรางวัลจากการร่วมกิจกรรม โรงเตี๊ยม ในฤดูกาลที่ {1}
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>เปลี่ยนอีเมลที่ใช้เป็นรหัสผ่านสำหรับ Summoner Era
+email_change_password_content<>ชื่อผู้ใช้: {2} รหัสรีเซ็ตรหัสผ่าน {1} หมดอายุใน: {3}
+email_validation_subject<>ยืนยันอีเมลสำหรับ Summoner Era
+email_validation_content<>รหัสยืนยัน {1} หมดอายุใน: {3}
+email_sender_name<>ฝ่ายบริการลูกค้าของ Zitga
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>รางวัลการ์ดแบล็กฟรายเดย์
+event_black_friday_content<>ยินดีด้วย! คุณได้รับรางวัลรายวันจากการ์ดแบล็กฟรายเดย์ {1}\nวัน: {2}\n
+event_new_year_subject<>รางวัลการ์ดอวยพร
+event_new_year_content<>ยินดีด้วย! คุณได้รับรางวัลรายวันจาก รางวัลการ์ดอวยพร
+event_lunar_new_year_clear_boss_reward_subject<>ปีใหม่ทางจันทรคติ ขับไล่ปีศาจ ให้รางวัล
+event_lunar_new_year_clear_boss_reward_content<>ยินดีด้วย! คุณได้รับรางวัลเหล่านี้จาก ขับไล่ปีศาจ กิจกรรม
+event_new_hero_summon_subject<>อัญเชิญในตำนาน  รางวัล 
+event_new_hero_summon_content<>ยินดีด้วย! คุณได้รับรางวัลเหล่านี้จากกิจกรรม อัญเชิญในตำนาน  
+maintenance_inform_title<>ประกาศการบำรุงรักษาเซิร์ฟเวอร์ 
+maintenance_inform_title_content<>เรียน Summoners\nสภาขอแจ้งให้ทราบว่าเซิร์ฟเวอร์จะดำเนินการบำรุงรักษาในวันที่ {1} คุณจะไม่สามารถเข้าสู่ระบบได้ในช่วงเวลานี้\nโปรดทราบว่าเกมจะไม่สามารถเล่นได้ในช่วงเวลาปิดปรับปรุง 
+maintence_reward_title<>การบำรุงรักษาเสร็จสิ้น
+maintence_reward_content<>เรียน Summoners\nการบำรุงรักษาเสร็จสมบูรณ์ เราขอส่งของขวัญนี้ให้คุณเพื่อเป็นการขอบคุณที่อดทนรอในช่วงเวลาซ่อมบำรุง\nสนุกและพิชิตต่อไป! 
+event_easter_card_subject<>การ์ดกระต่าย รางวัล 
+event_easter_card_content<>ยินดีด้วย! คุณได้รับรางวัลรายวันจากการ์ดกระต่าย\nวัน: %s 
+event_easter_egg_hunt_subject<>การเก็บไข่อีสเตอร์  รางวัล 
+event_easter_egg_hunt_content<>รางวัลเหล่านี้จะส่งถึงคุณสำหรับการแสดงของคุณในกิจกรรมกิจกรรม 
+event_new_hero_boss_ranking_subject<>รางวัลรางวัลเกียรติยศ
+event_new_hero_boss_ranking_content<>ยินดีด้วย! คุณได้รับรางวัลเหล่านี้จากการเข้าถึง{1} สูงสุดใน Power Contest
+domain_challenge_reward_subject<>โดเมน รางวัล
+domain_challenge_reward_content<>ยินดีด้วย! คุณได้รับรางวัลเหล่านี้จากการผ่าน {1} ในด่าน โดเมน
+event_new_hero_release_subject<>อัญเชิญในตำนาน  รางวัล 
+event_new_hero_release_content<>ยินดีด้วย! คุณได้รับรางวัลเหล่านี้จากกิจกรรม อัญเชิญในตำนาน  
+purchase_event_hero_release_subject<>การทำธุรกรรมที่ประสบความสำเร็จ
+purchase_event_hero_release_content<>คุณได้รับไอเท็มเหล่านี้สำหรับการซื้อแพ็คเกจในช่วงเวลากิจกรรมฮีโร่ใหม่ ขอบคุณที่สนับสนุนพวกเราเสมอมา
+premium_reward_subject<>รางวัลเวอร์ชั่นพรีเมี่ยม
+premium_reward_content<>คุณได้รับไอเท็มเหล่านี้สำหรับการซื้อเกมเวอร์ชันพรีเมียมของเรา ขอบคุณที่สนับสนุนพวกเราเสมอมา
+event_server_open_arena_subject<>ลานประลอง รางวัลลีดเดอร์บอร์ดยอดนิยม
+event_server_open_arena_content<>ขอแสดงความยินดี! คุณได้รับรางวัลเหล่านี้จากกิจกรรมการแข่งจัดอันดับ ลานประลอง!
+event_server_open_arena_2_subject<>เวทีการต่อสู้  รางวัลลีดเดอร์บอร์ดยอดนิยม
+event_server_open_arena_2_content<>ขอแสดงความยินดี! คุณได้รับรางวัลเหล่านี้จากกิจกรรมการแข่งจัดอันดับ เวทีการต่อสู้ !
+event_unclaimed_reward<>นี่คือรางวัลที่ไม่มีการอ้างสิทธิ์ของคุณ
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>รางวัลกิจกรรม Destiny War
+event_birthday_dark_light_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้จากกิจกรรมเหตุการณ์ Destiny War\n- ด้านของแสง: {1} คะแนน\n- ด้านของมืด: {2} คะแนน
+event_birthday_summon_subject<>รางวัลวันเกิดวันเกิด
+event_birthday_summon_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้สำหรับการเข้าร่วมในภารกิจประจำสัปดาห์
+event_birthday_prophet_tree_subject<>รางวัลวันเกิดวันเกิด
+event_birthday_prophet_tree_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้สำหรับการเข้าร่วมในภารกิจประจำสัปดาห์
+event_birthday_arena_subject<>รางวัลวันเกิดวันเกิด
+event_birthday_arena_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้สำหรับการเข้าร่วมในภารกิจประจำสัปดาห์
+event_birthday_casino_subject<>รางวัลวันเกิดวันเกิด
+event_birthday_casino_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้สำหรับการเข้าร่วมในภารกิจประจำสัปดาห์
+event_zodiac_exchange_subject<>การสิ้นสุดกิจกรรมของจักรราศี
+event_zodiac_exchange_content<>เรียนซัมมอนเนอร์ทุกท่าน\nกิจกรรมจักรราศีสิ้นสุดลงแล้ว แปลง ดาวรุ่ง เป็นทรัพยากรเหล่านี้แล้ว ขอบคุณสำหรับการเข้าร่วมกิจกรรมและหวังว่าคุณจะมีช่วงเวลาที่ดีในการเล่นเกม
+purchase_subscription_pack_daily_bonus_subject<>รางวัลโบนัสประจำวันวีไอพี
+purchase_subscription_pack_daily_bonus_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้เป็นประโยชน์โบนัสวีไอพีของบัตรรายเดือน
+event_thanks_giving_subject<>กิจกรรมวันขอบคุณพระเจ้า
+event_thanks_giving_content<>ขอแสดงความยินดี คุณจบเกมในเกมลูกเต๋า รับรางวัลเหล่านี้ตอนนี้!
+event_christmas_subject<>กิจกรรมคริสต์มาส
+event_christmas_content<>ยินดีด้วย!
+event_boss_challenge_ranking_subject<>รางวัลการจัดอันดับ Boss Challenge
+event_boss_challenge_ranking_content<>ขอแสดงความยินดี คุณได้รับรางวัลเหล่านี้จากกิจกรรม Challenge Boss
+event_valentine_subject<>เหตุการณ์วาเลนไทน์
+event_valentine_content<>ยินดีด้วย!
+event_lunar_new_year_subject<>งานอีเวนต์จันทรคติปีใหม่
+event_lunar_new_year_content<>ยินดีด้วย!
+event_summer_day_subject<>วันหยุดฤดูร้อนงาน
+event_summer_day_content<>ยินดีด้วย!
+event_blossom_day_subject<>Event Cherry Blossom
+event_blossom_day_content<>ยินดีด้วย!
+event_qixi_festival_subject<>งานเทศกาล Qixi
+event_qixi_festival_content<>ยินดีด้วย!
+event_may_day_subject<>งานอีเวนต์เม็กซิโกเทศกาล
+event_may_day_content<>ยินดีด้วย!

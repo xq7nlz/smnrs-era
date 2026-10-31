@@ -1,0 +1,14 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE0771599, com.se.sungame.idle_31000,com.sungame.summoners.era.idle_restday_1000,com.fansipan.summoners.era.idle_31000,com.fansipan.summoners.era.idle_restday_1000,2,1,520,,10,9.99,FALSE
+,,,,,,2,51,10,,,,
+,,,,,,2,211,400,,,,
+,,,,,,2,2,500,,,,
+2,SE0781596, com.se.sungame.idle_32000,com.sungame.summoners.era.idle_restday_2000,com.fansipan.summoners.era.idle_32000,com.fansipan.summoners.era.idle_restday_2000,2,1,1040,,2,19.99,FALSE
+,,,,,,2,51,20,,,,
+,,,,,,2,210,10,,,,
+,,,,,,2,2,1000,,,,
+3,SE0791594, com.se.sungame.idle_33000,com.sungame.summoners.era.idle_restday_3000,com.fansipan.summoners.era.idle_33000,com.fansipan.summoners.era.idle_restday_3000,2,1,2600,,2,49.99,FALSE
+,,,,,,2,60,15,,,,
+,,,,,,2,210,25,,,,
+,,,,,,2,2,2500,,,,
+,,,,,,14,60003002,1,,,,

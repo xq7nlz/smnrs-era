@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>Dieser Verbündete erhält {1}
+1_1_2_4<>Alle {2} Verbündeten erhalten {1}
+1_1_2_5<>Alle {2} Verbündeten erhalten {1}
+1_1_2_4_5<>Alle {2} / {3} Verbündeten erhalten {1}
+1_1_2_4_5_or<>Alle {2} Verbündeten, {3} Verbündete erhalten {1}
+2_1<>  + {1} Schaden
+2_1_2<>  + {1} Schaden für {2}
+2_1_3<>  + {1} Schaden gegen {2}
+2_1_4<>  + {1} Schaden gegen {2}
+2_1_2_3<>  + {1} Schaden für {2} gegen {3}
+2_1_2_4<>  + {1} Schaden für {2} gegen {3}
+2_1_2_3_4<>  + {1} Schaden für {2} gegen {3} und {4}
+2_1_2_3_4_or<>  + {1} Schaden für {2} gegen {3} oder {4}

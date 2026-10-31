@@ -1,0 +1,4 @@
+name,round_step,effect_type,effect_duration,stat_buff_type,stat_buff_amount
+Grimm_Passive3,4,500,1,4,5
+Grimm_Passive3,3,500,1,4,10
+Grimm_Passive3,3,500,1,4,15

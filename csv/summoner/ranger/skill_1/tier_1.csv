@@ -1,0 +1,5 @@
+name,star,damage,target_position,target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_duration,stat_debuff_amount
+Main_Active,4,1.4,10,4,2,0.3,3,0.2
+Main_Active,5,1.7,10,4,2,0.3,3,0.3
+Main_Active,6,2,10,4,2,0.3,3,0.4
+Main_Active,7,2.3,10,4,2,0.3,3,0.5

@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen
+summoner_1_1_1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen. {q(stat_debuff_type)} an Ziel für {c(stat_debuff_duration)} Runden um {q(stat_debuff_amount_3)} reduzieren.
+summoner_1_1_2~stat_debuff_chance~1<>Füge {q(target_position)} [{p(damage)} ATK] Schaden zu. Habe {p(stat_debuff_chance)} Chance, {q(stat_debuff_amount_3)} {q(stat_debuff_type)} in {c(stat_debuff_duration)} Runden zu verringern.
+summoner_1_1_2~stat_debuff_chance~0<>Befassen [{p(damage)} von ATK] Schädigung {q(target_position)} zufälligen Gegner in der hinteren Reihe und verringert diese Feinde {q(stat_debuff_amount_3)} {q(stat_debuff_type)} in {c(stat_debuff_duration)} Runden.
+summoner_1_1_3~dispel_chance~0<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und zerstreue alle positiven Buffs auf das Ziel. [{p(damage_bonus_per_die)} von ATK] zusätzlichen Schaden an Ziel für jeden Feind, der besiegt wurde verursachen.
+summoner_1_1_3~dispel_chance~1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen. Für jeden toten Feind [{p(damage_bonus_per_die)} von ATK] Schaden an verbleibende Feinden verursachen und {p(dispel_chance)} Chance haben, ihre Buffs zu entfernen.
+summoner_1_2_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_1_2_2<>Erhöhen Sie {p(bonus_1)} {q(stat_1)} für {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Wenn du angegriffen wirst, besteht {p(passive_chance)} Wahrscheinlichkeit, dem Angreifer [{p(damage)} von ATK] Schaden zu verursachen.
+summoner_1_2_3<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_1_3_1~blessing_chance~0<>Zu Beginn jedes Spiels wird {q(target_position_2)} für {c(blessing_duration)} Runden immun gegen alle negativen Auswirkungen.
+summoner_1_3_1~blessing_chance~1<>Zu Beginn jedes Spiels haben {q(target_position_2)} {p(blessing_chance)} Chancen, negativen Effekten für {c(blessing_duration)} Runden zu widerstehen.
+summoner_1_3_2~buff_chance~1<>Am Anfang jeder ungeraden Runde gibt es eine {p(buff_chance)} Chance zu erhöhen {q(stat_buff_1_amount)} {q(stat_buff_1_type)} und {q(stat_buff_2_amount)} {q(stat_buff_2_type)} für Hero in der {q(buff_target_position)}. Position. Dieser Effekt hält {c(buff_duration)} rund.
+summoner_1_3_2~buff_chance~0<>Am Beginn jeder ungeraden rund, erhöht {q(stat_buff_1_amount)} {q(stat_buff_1_type)} und {q(stat_buff_2_amount)} {q(stat_buff_2_type)} für Hero in {q(buff_target_position)} -ten Position. Dieser Effekt hält {c(buff_duration)} rund.
+summoner_1_3_3~buff_chance~0<>Für jeden besiegten Held der Verbündeten {q(stat_buff_1_type)} um {q(stat_buff_1_amount)}, {q(stat_buff_2_type)} um {q(stat_buff_2_amount)} für {q(buff_target_position)} erhöhen.
+summoner_1_3_3~buff_chance~1<>Für jeden besiegten Held der Verbündeten gibt es {c(buff_duration)} Chance, {q(stat_buff_1_type)} um {q(stat_buff_1_amount)}, {q(stat_buff_2_type)} um {q(stat_buff_2_amount)} für {q(buff_target_position)} erhöhen.
+summoner_1_4_1~block_chance~0<>Verbündeten  in Position {s(target_number)} blockieren {p(block_rate)} den Schaden, der beim Angriff erlitten wurde.
+summoner_1_4_1~block_chance~1<>Verbündeten in Position {s(target_number)} haben {p(block_chance)} Chancen, {p(block_rate)} den Schaden, der beim Angriff erlitten wurde zu blockieren.
+summoner_1_4_2<>Zu Beginn jeder Runde erhält der Held auf Position {q(target_position_2)} einen Bonus von {c(power_buff)} Energie
+summoner_1_4_3<>{q(stat_buff_type)} um {q(stat_buff_amount_3)} für {q(buff_target_position)} erhöhen. Nach jedem {c(count_trigger)} Angriff [{p(damage)} von ATK] Schaden an {q(damage_target_position)} verursachen.
+summoner_2_1_1~stat_debuff_chance~0<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen. {q(stat_debuff_type)} an Ziel für {c(stat_debuff_duration)} Runden um {q(stat_debuff_amount_3)} reduzieren.
+summoner_2_1_1~stat_debuff_chance~1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {p(stat_debuff_chance)} Chance haben, {q(stat_debuff_type)} an Ziel für {c(stat_debuff_duration)} Runden um {q(stat_debuff_amount_3)} zu reduzieren.
+summoner_2_1_2~stat_buff_chance~0<>Füge {q(damage_target_position)} [{p(damage)} ATK] Schaden zu und erhöhe {q(stat_buff_amount_3)} {q(stat_buff_type)} für {q(buff_target_position)}, dauert {c(stat_buff_duration)} Runde.
+summoner_2_1_2~stat_buff_chance~1<>[{p(damage)} von ATK] Schaden an {q(damage_target_position)} verursachen; {p(stat_buff_chance)} Chance haben, {q(stat_buff_amount_3)} {q(stat_buff_type)} für {q(buff_target_position)} zu erhöhen, dauert {c(stat_buff_duration)} Runden.
+summoner_2_1_3<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen; {p(effect_chance)} Chance haben, den {q(effect_type)} -Effekt auf das Ziel für {c(effect_duration)} Runden anzuwenden.
+summoner_2_2_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_2_2_2<>Erhöhen Sie {q(bonus_1)} {q(stat_1)} und verringern Sie {q(debuff_amount_1)} {q(debuff_stat_1)} für {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>{q(stat_buff_type)} der verbleibenden Verbündeten für jeden besiegten Verbündeten um {q(stat_buff_amount_3)} erhöhen. Wenn alle 4 Verbündeten sterben, erhalten die verbleibenden 2 Verbündeten 75% {q(stat_buff_type)}. Wenn es nur 1 Verbündeten gibt, sich um 100% {q(stat_buff_type)} erhöhen.
+summoner_2_2_3~buff_chance~1<>{p(buff_chance)} Chance haben, {q(stat_buff_type)} der verbleibenden Verbündeten für jeden besiegten Verbündeten um {q(stat_buff_amount_3)} zu erhöhen. Wenn alle 4 Verbündeten sterben, erhalten die verbleibenden 2 Verbündeten 75% {q(stat_buff_type)}. Wenn es nur 1 Verbündeten gibt, sich um 100% {q(stat_buff_type)} erhöhen.
+summoner_2_3_1<>Wenn {q(target_position_2)} von einem CC-Effekt betroffen sind, wird {p(reduce_damage_amount)} ihres erlittenen Schadens reduzieren.
+summoner_2_3_2~block_chance~0<>Immer wenn ein Verbündeter angegriffen wird, {p(buff_chance)} Chancen haben, einen Schildeffekt auf {q(target_position_2)} für {c(block_duration)} Runden anzuwenden. Schildeffekt blockiert {p(block_amount)} erlittenen Schaden. Dieser Effekt wird nicht gestapelt.
+summoner_2_3_2~block_chance~1<>Immer wenn ein Verbündeter angegriffen wird, {p(buff_chance)} Chancen haben, einen Schildeffekt auf {q(target_position_2)} für {c(block_duration)} Runden anzuwenden. Schildeffekt hat {p(block_chance)} Chancen, {p(block_amount)} erlittenen Schaden zu blockieren. Dieser Effekt wird nicht gestapelt.
+summoner_2_3_3<>Wenn ein Verbündeter tödlichen Schaden erleidet, hat er {p(last_chance_rate)} Chance, mit 1 HP zu überleben und {c(power_gain)} Energie zurückzugewinnen. Dieser Effekt kann nur einmal pro Verbündeten pro Spiel ausgelöst werden.
+summoner_2_4_1~block_chance~0<>Verbündeten in Position {s(target_number)} blockieren {p(block_rate)} den Schaden, der beim Angriff erlitten wurde
+summoner_2_4_1~block_chance~1<>Verbündete in Position {s(target_number)} haben {p(block_chance)} Chance, {p(block_rate)} den Schaden, der beim Angriff erlitten wurde zu blockieren.
+summoner_2_4_2<>Erstellen Sie zu Beginn der Runde {c(round_trigger_list)} eine Verknüpfung zwischen {q(tanker_target_position)} und {q(target_position_3)}. Erlittene Schaden aller gelinkten Verbündeten wird {p(damage_share_percent)} übertragen auf {q(tanker_target_position)}. Dieser Effekt dauert {c(bond_duration)} Runden.
+summoner_2_4_3<>{q(stat_buff_type)} um {q(stat_buff_amount_3)} für {q(buff_target_position)} erhöhen. Alle 3 Angriffe (Basisangriff oder aktive Fertigkeit), die dieser Held erhalten hat, sofort Gegenangriff haben und [{p(damage_percent_hp)} der HP dieses Verbündeten] Schaden an {q(damage_target_position)} verursachen.
+summoner_3_1_1<>[{p(damage)} von ATK] Schaden an {q(damage_target_position)} verursachen und für {q(heal_target_position)} eine HP-Menge, die [{p(heal_percent)} von ATK] entspricht heilen.
+summoner_3_1_2<>[{p(damage)} von ATK] Schaden an {q(damage_target_position)} verursachen und {p(effect_chance)} Chancen haben, den {q(effect_type)} -Effekt auf das Ziel für {c(effect_duration)} Runden anzuwenden.
+summoner_3_1_3<>{p(damage)} von ATK] Schaden an {q(damage_target_position)} verursachen und mit {q(bond_target_position)} zusammen für {c(bond_duration)} Runden verbinden. Wenn angegriffen wird, wird der erlittene Schaden aufgeteilt.
+summoner_3_2_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {q(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_3_2_2<>Erhöhen Sie {q(bonus_1)} {q(stat_1)} für {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Wenn ein Verbündeter angegriffen wird, gibt es {p(heal_chance)} Chancen, [{p(heal_amount)} von ATK] HP für diesen Verbündeten aufzufüllen.
+summoner_3_2_3<>Zu Beginn jedes Spiels  {c(power_stat)} Energie für Verbündeten in Position {s(target_number)} zurückgewinnen.
+summoner_3_3_1<>{q(stat_1)} um {q(bonus_1)} für {q(target_position_2)} erhöhen
+summoner_3_3_2<>Zu Beginn der {c(round_trigger_list)} Runde: {q(stat_buff_type)} von {q(target_position_2)} für {c(stat_buff_duration)} Runden um {q(stat_buff_amount)} erhöhen
+summoner_3_3_3<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {q(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_3_4_1<>Zu Beginn jeder ungeraden Runde, {c(power_buff)} Energie für {q(target_position_2)} zurückgewinnen.
+summoner_3_4_2<>Beseitigen Sie zu Beginn jeder ungeraden Runde alle negativen Effekte für {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>Wenn die HP eines Verbündeten unter {p(heal_trigger)} fallen, die HP-Menge gleich wie [{p(heal_amount)} von ATK] für diesen Verbündeten heilen. Dieser Effekt kann nur einmal pro Spiel ausgelöst werden.
+summoner_3_4_3~heal_chance~1<>Wenn die HP eines Verbündeten unter {p(heal_trigger)} fallen, gibt es {p(heal_chance)} Chancen, die HP-Menge gleich wie [{p(heal_amount)} von ATK] für diesen Verbündeten zu heilen. Dieser Effekt kann nur einmal pro Spiel ausgelöst werden.
+summoner_4_1_1~debuff_chance~0<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {q(debuff_type)} des Ziels für {c(debuff_duration)} Runden verursachen. Der Effekt {q(debuff_type)} fügt dem Ziel in jeder Runde [{p(debuff_amount)} von ATK] Schaden zu.
+summoner_4_1_1~debuff_chance~1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {p(debuff_chance)} Chance haben, {q(debuff_type)} des Ziels für {c(debuff_duration)} Runden zu verursachen. Der Effekt {q(debuff_type)} fügt dem Ziel in jeder Runde [{p(debuff_amount)} von ATK] Schaden zu.
+summoner_4_1_2<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {p(debuff_chance)} Chance haben, {q(debuff_type)} des Ziels für {c(debuff_duration)} Runden zu verursachen.
+summoner_4_1_3<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {q(buff_type)} von {q(buff_target_position)} für {c(buff_duration)} Runden um {p(buff_amount)} erhöhen.
+summoner_4_2_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_4_2_2<>Erhöhen Sie {q(stat_1)} um {q(bonus_1)} für {q(target_position_2)}.
+summoner_4_2_3<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {q(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_4_3_1<>{q(stat_1)} um {q(bonus_1)} für {q(target_position_2)} erhöhen
+summoner_4_3_2<>Binden Sie zu Beginn jeder Runde {q(target_position_2)} und {q(bond_target_position)} für die {c(bond_duration)} Runde. {p(bond_share_damage)} Schaden, der gebundenen Verbündeten zugefügt wurde, wird übertragen und zu gleichen Teilen auf {q(bond_target_position)} aufgeteilt.
+summoner_4_3_3<>Wenn ein Verbündeter den CC-Effekt auf das Ziel anwendet, den Blutungseffekt für die gleiche Dauer des vorherigen CC-Effekts auf das Ziel anwenden. Der Blutungseffekt fügt dem Ziel in jeder Runde [{p(damage)} von ATK] Schaden zu.
+summoner_4_4_1<>Wenn der Angriff eines Verbündeten ein kritischer Treffer ist, {p(bonus_1)} von {q(target_position_2)} für {c(buff_duration)} Runden um {q(stat_1)} erhöhen. Dieser Effekt kann gestapelt werden.
+summoner_4_4_2<>Wenn ein Verbündeter einem Angriff erfolgreich ausweicht, erhöhen Sie {q(buff_type)} für {c(buff_duration)} um {q(buff_amount)}. Dieser Effekt kann nicht gestapelt werden.
+summoner_4_4_3<>Für jede {c(buff_per_power)} Energie des Beschwörers {p(buff_amount)} von {q(target_position_2)} um {q(buff_type)} erhöhen
+summoner_5_1_1~stat_debuff_chance~0<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {q(stat_debuff_type)} des Ziels für {c(stat_debuff_duration)} Runden um {p(stat_debuff_amount)} reduzieren.
+summoner_5_1_1~stat_debuff_chance~1<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {p(stat_debuff_chance)} Chance haben, {q(stat_debuff_type)} des Ziels für {c(stat_debuff_duration)} Runden um {p(stat_debuff_amount)} zu reduzieren.
+summoner_5_1_2<>[{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und den aus allen Quellen erlittenen Schaden des Ziels für {c(damage_receive_debuff_duration)} Runden um {p(damage_receive_debuff_amount)} erhöhen
+summoner_5_1_3~debuff_chance~0<>[{p(damage)} von ATK] Schaden an {q(target_position)} und {q(debuff_type)} des Ziels für {c(debuff_duration)} Runden verursachen. Der {q(debuff_type)}-Effekt fügt dem Ziel in jeder Runde [{p(debuff_amount)} von ATK] Schaden zu.
+summoner_5_1_3~debuff_chance~1<>{p(damage)} von ATK] Schaden an {q(target_position)} verursachen und {p(debuff_chance)} Chance haben, {q(debuff_type)}-Effekt auf das Ziel für {c(debuff_duration)} Runden anzuwenden. Der {q(debuff_type)}-Effekt fügt dem Ziel in jeder Runde [{p(debuff_amount)} von ATK] Schaden zu.
+summoner_5_2_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_5_2_2<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für {q(target_position_2)} erhöhen
+summoner_5_2_3<>{q(stat_1)} um {p(bonus_1)} für {q(target_position_2)} erhöhen
+summoner_5_3_1<>Wenn ein Verbündeter einen Feind angreift, verursacht {p(bonus_damage_receive)} dem Ziel mehr Schaden, wenn er von einem CC-Effekt betroffen ist.
+summoner_5_3_2<>Zu Beginn jeder Runde unten: {c(round_trigger_list)} Verringern Sie {q(debuff_amount_1)} um {q(debuff_stat_1)} für {q(target_position)} in {c(debuff_duration)} Runde (n).
+summoner_5_3_3<>Wenn ein Verbündeter durch zusätzliche Drehung angreift, verursacht dieser Angriff {p(bonus_damage_extra_turn)} mehr Schaden.
+summoner_5_4_1<>{q(stat_1)} um {p(bonus_1)}, {q(stat_2)} um {p(bonus_2)} für Verbündete in Position {s(target_number)} erhöhen
+summoner_5_4_2<>{q(stat_1)} um {q(bonus_1)} für {q(target_position_2)} erhöhen
+summoner_5_4_3<>Wenn ein Verbündeter durch zusätzliche Drehung am {c(number_extra_turn_affect)} Mal angreift, verursacht dieser Angriff {p(bonus_damage_extra_turn)} mehr Schaden und wendet einen {q(effect_type)} -Effekt auf das Ziel für {c(effect_duration)} Runden an.
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

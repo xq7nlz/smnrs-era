@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Defronowe_Active,1.56,32,3,40,0.3,2
+Defronowe_Active,1.76,32,3,40,0.4,2
+Defronowe_Active,1.96,32,3,40,0.4,3

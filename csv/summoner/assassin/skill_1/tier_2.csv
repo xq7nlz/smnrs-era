@@ -1,0 +1,5 @@
+name,star,damage,target_position,target_number,debuff_chance,debuff_type,debuff_duration
+Main_Active,8,2,10,3,0.2,4,3
+Main_Active,9,2.3,10,3,0.25,4,3
+Main_Active,10,2.6,10,3,0.35,4,3
+Main_Active,11,2.9,10,3,0.45,4,3

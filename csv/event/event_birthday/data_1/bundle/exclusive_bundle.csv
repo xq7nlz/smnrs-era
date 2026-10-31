@@ -1,0 +1,11 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE429,WEB_SE429,com.se.sungame.2nd_birthday_exclusive_bundle_1,com.sungame.summoners.era.2nd_birthday_exclusive_bundle_1,com.fansipan.summoners.era.2nd_birthday_exclusive_bundle_1,com.fansipan.summoners.era.2nd_birthday_exclusive_bundle_1,2,1,2600,,1,49.99,FALSE
+,,,,,,,14,50007001,1,,,,
+,,,,,,,2,244,100,,,,
+,,,,,,,2,226,50,,,,
+,,,,,,,2,2,2500,,,,
+2,SE430,WEB_SE430,com.se.sungame.2nd_birthday_exclusive_bundle_2,com.sungame.summoners.era.2nd_birthday_exclusive_bundle_2,com.fansipan.summoners.era.2nd_birthday_exclusive_bundle_2,com.fansipan.summoners.era.2nd_birthday_exclusive_bundle_2,2,1,2600,,1,49.99,FALSE
+,,,,,,,14,60005001,1,,,,
+,,,,,,,2,244,100,,,,
+,,,,,,,2,226,50,,,,
+,,,,,,,2,2,2500,,,,

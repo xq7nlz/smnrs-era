@@ -1,0 +1,4 @@
+name,bonus_basic_attack,effect_type,effect_chance,effect_duration,hero_class_type
+Ignatius_Passive2,0.4,1,0.3,3,2
+Ignatius_Passive2,0.5,1,0.45,3,2
+Ignatius_Passive2,0.6,1,0.6,3,2

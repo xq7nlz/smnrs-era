@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_type,stat_debuff_amount,stat_debuff_duration,stat_debuff_chance
+Celes_Active,2.1,21,2,20,0.2,3,0.15
+Celes_Active,2.4,21,2,20,0.2,3,0.25
+Celes_Active,2.7,21,2,20,0.2,3,0.35

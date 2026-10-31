@@ -1,0 +1,4 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,stock,original_pack_id,transaction_type,price,sale
+1,SE036,com.se.sungame.idle_4,com.sungame.summoners.era.idle_subscription_sale60_1,com.fansipan.summoners.era.idle_4,com.fansipan.summoners.era.idle_subscription_sale60_1,1,1,1,11.99,40
+2,SE037,com.se.sungame.idle_5,com.sungame.summoners.era.idle_subscription_sale60_2,com.fansipan.summoners.era.idle_5,com.fansipan.summoners.era.idle_subscription_sale60_2,1,2,1,2.99,40
+3,SE038,com.se.sungame.idle_6,com.sungame.summoners.era.idle_subscription_sale60_3,com.fansipan.summoners.era.idle_6,com.fansipan.summoners.era.idle_subscription_sale60_3,1,3,1,8.99,40

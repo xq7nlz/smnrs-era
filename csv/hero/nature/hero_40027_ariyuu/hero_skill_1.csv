@@ -1,0 +1,4 @@
+name,skill_damage,transform_duration,stun_effect_type,stun_target_position,stun_target_number,stun_duration,bond_target_position,bond_target_number,bond_damage_percent
+Airyuu_Active,1,3,1,10,5,1,62,1,0.5
+Airyuu_Active,1.2,3,1,10,5,1,62,1,0.6
+Airyuu_Active,1.5,3,1,10,5,1,62,1,0.7

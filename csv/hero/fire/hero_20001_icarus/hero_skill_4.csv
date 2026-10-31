@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,calculation_type_1,stat_2,bonus_2,calculation_type_2,time_reborn,round_reborn,effect_1_type,effect_1_chance,effect_1_duration,target_number,target_position
+Icarus_Passive3,3,0.1,1,2,0.1,1,1,4,1,1,2,5,10
+Icarus_Passive3,3,0.13,1,2,0.13,1,1,4,1,1,2,5,10
+Icarus_Passive3,3,0.16,1,2,0.16,1,1,4,1,1,3,5,10

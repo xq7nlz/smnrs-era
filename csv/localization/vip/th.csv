@@ -1,0 +1,40 @@
+key<>value
+vip_1<>วีไอพี 1
+vip_2<>วีไอพี 2
+vip_3<>วีไอพี 3
+vip_4<>วีไอพี 4
+vip_5<>วีไอพี 5
+vip_6<>วีไอพี 6
+vip_7<>วีไอพี 7
+vip_8<>วีไอพี 8
+vip_9<>วีไอพี 9
+vip_10<>วีไอพี 10
+vip_11<>วีไอพี 11
+vip_12<>วีไอพี 12
+vip_13<>วีไอพี 13
+vip_point_to_reach<>เพิ่มคะแนนวีไอพีอีก %s คะแนนเพื่ออัพเกรดสถานะ
+vip_instant<>อัพเกรดเป็นวีไอพีระดับนี้เพื่อรับ:
+vip_daily<>รางวัลโบนัสรายวันสำหรับการ์ดผู้บัญชาการและการ์ดของผู้เผยพระวจนะ:
+vip_point_required<>ต้องการคะแนนวีไอพี
+campaign_bonus_idle_time_max<>รางวัลบอทสะสมสูงสุด: %s
+campaign_bonus_gold<>โบนัส %s ทอง จากการบอท
+campaign_bonus_magic_potion<>โบนัส %s ค่าประสบการณ์ฮีโร่ จากการบอท
+campaign_bonus_auto_train_slot<>ช่องการฝึกฝน: %s
+tavern_bonus_quest<>เควสโบนัสในโรงเตี๊ยม: %s
+raid_bonus_turn_buy<>รับสิทธิ์ซื้อ การผจญภัย เพิ่มต่อวัน: %s
+casino_unlock_multiple_spin<>ปลดล็อกฟังก์ชันการหมุนหลายครั้งใน กงล้อแห่งโชคลาภ
+casino_unlock_premium_spin<>ปลดล็อค กงล้อแห่งโชคชะตา ทันที
+casino_bonus_turn_buy_basic_chip<>รับสิทธิ์ซื้อ หินโชคลาภ เพิ่มต่อวัน: %s
+battle_unlock_speed_up<>ปลดล็อกการเร่งความเร็วในการต่อสู้ทันที
+battle_unlock_skip<>ปลดล็อคการข้ามฉากต่อสู้ทันที
+hand_of_midas_bonus_gold<>รับโบนัสทองใน เหมืองทองคำ: %s
+summon_unlock_accumulate<>ปลดล็อคฟังก์ชันการอัญเชิญสะสมทันที
+arena_bonus_ticket_buy<>รับสิทธิ์ซื้อ ตั๋วประลอง เพิ่มต่อวัน: %s
+campaign_bonus_quick_battle_buy_turn<>ซื้อการท้ารบแบบด่วนได้: %s
+current_vip<>ระดับวีไอพีในปัจจุบัน
+campaign_bonus_exp_summoner<>โบนัส %s Summoner EXP จาก แคมเปญ
+dungeon_challenge_increased<>เพิ่มรางวัลสเตจใน ดันเจี้ยน ขึ้น %s
+allow_skip_ads<>ปลดล็อคข้ามโฆษณา
+allow_prophet_tree_use_gem<>ปลดล็อกการเรียกโดย เพชร ใน ต้นไม้โบราณ
+battle_unlock_skip_arena<>ปลดล็อกการต่อสู้แบบข้ามใน ลานประลอง
+auto_next_battle<>ปลดล็อคคุณสมบัติ Auto Next Stage

@@ -1,0 +1,406 @@
+key<>value
+active_skill_effect_debuff_chance~effect_chance~0<>{q(target_position)}에 [{p(damage)} 공격]을 가하여 {c(effect_duration)}회 동안 적군에게 {q(effect_type)}를 가하십시오.
+active_skill_effect_debuff_chance~effect_chance~1<>{q(target_position)}의 부상자[{p(damage)} 공격]를 발생시키고 {c(effect_duration)}번 타자를 대상으로 {q(effect_type)}를발생시킬 확률이 {p(effect_chance)}개입니다
+active_skill_effect_buff_heal~heal_duration~1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 입히고 각 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 HP를 회유하여 {c(heal_duration)}회 유지하십시오.
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 적이 {q(effect_trigger_class)} 등급에 속할 경우 {c(effect_duration)}회 동안 적에게 {q(effect_type)}대를 가합니다.
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 적군이 {q(effect_trigger_class)}등급에 속할 경우 {c(effect_duration)}차례에 걸쳐 적에게 {q(effect_type)}를 가할 가능성이 {p(effect_chance)}개 있습니다.
+active_skill_effect_debuff_chance_amount~dot_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {q(dot_type)} [{p(dot_amount)} 공격]을 차례에 걸쳐 상해를 유발하여 {c(dot_duration)}회 지속하십시오.
+active_skill_effect_debuff_chance_amount~dot_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {p(dot_chance)}개의 확률로 각각 {q(dot_type)} [{p(dot_amount)} 공격] 상해를 유발하여 {c(dot_duration)}회 지속하십시오.
+active_skill_effect_buff_heal_chance~heal_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 상해를 가하고 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수하여 {c(heal_duration)}회 유지하십시오.
+active_skill_effect_buff_heal_chance~heal_chance~1<>{q(target_position)}에 대한 공격 {p(damage)} 공격을 공격했으며 {p(heal_chance)}개의 확률로 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 HP 회수를 확인했으며, {c(heal_duration)}회 유지했습니다.
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~0<>기본 공격은 {c(effect_duration)}개 라운드에세 적에게 {q(effect_type)} 일격을 가합니다.
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~1<>보통 때리기에는 {c(effect_duration)}이닝 동안 적에게 {q(effect_type)}을 가할 가능성이 {p(effect_chance)}개 있습니다.
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~0<>기본 공격은 라운드마다 적에게 {q(effect_type)} [{p(effect_amount)}] 공격 살상하고 {c(effect_duration)}개 라운드를 유지합니다.
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~1<>기본 공격은 라운드마다  적에게 {q(effect_type)} [{p(effect_amount)}] 공격 살상할 {p(effect_chance)} 확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~0<>기본 공격이나 스킬 공격을 받을 시 라운드마다 공격한 적에게 {q(effect_dot_type)} [{p(effect_dot_amount)}] 공격 살상하고 {c(effect_dot_duration)}개 라운드를 유지합니다.
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~1<>기본 공격이나 스킬 공격을 받을 시 라운드마다 공격한 적에게 {q(effect_dot_type)} [{p(effect_dot_amount)}] 공격 살상할 {p(effect_dot_chance)}확률이 있고 {c(effect_dot_duration)}개 라운드를 유지합니다.
+passive_skill_effect_buff_2_stat<>{q(bonus_1)}으로 {q(stat_1)} 증가. {q(bonus_2)}로 {q(stat_2)}증가
+passive_skill_effect_buff_front_back_line<>앞줄에서 {p(buff_amount_front_line)} {q(buff_stat_front_line)}을 증가시키십시오. 뒷줄에서 {p(buff_amount_back_line)} {q(buff_stat_back_line)}.
+passive_skill_effect_buff_3_stat<>{q(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} 및 {q(bonus_3)} {q(stat_3)} 증가.
+passive_skill_effect_buff_1_stat<>{q(bonus_1)} {q(stat_1)} 증가
+passive_skill_if_hp_reduction<>{p(health_trigger)} 미만일 경우 {p(stat_buff_amount)}{q(stat_buff_type)}를 증가시키고 {c(stat_buff_duration)}회 유지하십시오. (매 경기 1회만 가능)
+active_skill<>액티브 스킬
+passive_skill<>패시브 스킬
+active_skill_10001_1~stat_debuff_chance~0<>{q(target_position)}에 [{p(damage)} 공격]을 가하여 {c(stat_debuff_duration)}회 이내에 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄이면 {c(effect_duration)}회 이내에 적에게 {q(effect_type)}번의 타격을 입힐 가능성이 {p(effect_chance)}번 있습니다.
+active_skill_10001_1~stat_debuff_chance~1<>{q(target_position)}에게 [{p(damage)} 공격] 공격 살상하고 {c(stat_debuff_duration)}개 라운드에서 적의 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 감소할 {p(stat_debuff_chance)} 확률이 있고 {c(effect_duration)}개 라운드에서 일격 당한 적에게 {q(effect_type)} 할 {p(effect_chance)}확률이 있습니다.
+passive_skill_10001_2<>동결된 적군을 공격하기 위해 {p(bonus_damage)} {q(effect_type)}을 더 증가시킵니다.
+passive_skill_10001_4~reflect_chance~0<>기본 공격이나 스킬한 공격을 받을 시 {p(reflect_damage)} 살상을 응전하고 공격한 적에게 {q(effect_type)}할 {p(effect_chance)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+passive_skill_10001_4~reflect_chance~1<>기본 공격이나 스킬한 공격을 받을 시 {p(reflect_damage)} 살상을 응전할 {p(reflect_chance)} 확률이 있고 공격한 적에게 {q(effect_type)}할 {p(effect_chance)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+active_skill_10002_1~stat_debuff_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고 {c(stat_debuff_duration)}회 동안 적군의 {q(stat_debuff_amount)} {q(stat_debuff_type)}을 줄입니다.
+active_skill_10002_1~stat_debuff_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고 {c(stat_debuff_duration)}회 동안 적군의 {q(stat_debuff_amount)} {q(stat_debuff_type)} 감소 가능성이 {p(stat_debuff_chance)}개 있습니다.
+passive_skill_10002_4<>{p(bonus_1)} {q(stat_1)}을 증가시키고 {q(target_position)}에 대한 상해로 보통 타격을 전환하십시오.
+active_skill_10003_1<>{q(target_position)}에게 [{p(damage)} 공격] 살상하고 {q(heal_target_position)}에게 [{p(heal_percent)}공격]만큼 HP량을 회복해 줍니다.
+passive_skill_10003_2<>자신을 제외한 동맹에게 블러드를 회복할 때마다  {q(effect_1_type)}을 남기고 {c(effect_1_duration)}개 라운드를 유지합니다.
+passive_skill_10003_3~effect_chance~0<>통상적인 타격이나 스킬의 공격을 받을 때는 {q(target_position_2)}에 대해 [{p(effect_amount)} 공격]의 HP를 회수하고 {q(heal_mark_type)}이 보유한 동맹에 {p(heal_mark_bonus_percent)}를 더하십시오.
+passive_skill_10003_3~effect_chance~1<>통상적인 타격이나 스킬의 공격을 받을 때 {p(effect_chance)}는 {q(target_position_2)}에 대해 [{p(effect_amount)} 공격]의 일정량의 HP를 회수할 가능성이 있으며, {q(heal_mark_type)}을 보유한 동맹에 대해 {p(heal_mark_bonus_percent)}개의 HP를 추가합니다.
+passive_skill_10004_3<>타격은 보통 추가 공격[{p(damage_bonus_percent)}개]을 일으킬 확률이 {p(effect_chance)}이며, {q(effect_type)}명의 적군이 타격을 받아 {c(effect_duration)}이 유지되었습니다.
+passive_skill_10004_4<>{p(bonus_1)} {q(stat_1)}  증가하고 {q(immune_effect_type)} 효과에 영향을 받지 않습니다
+active_skill_10005_1~stat_debuff_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 상해를 입히고 {c(stat_debuff_duration)}타수 동안 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}개 감소 효과를 발생시킵니다.
+active_skill_10005_1~stat_debuff_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {c(stat_debuff_duration)}회 이내에 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}개 감소 효과가 발생할 가능성이 {p(stat_debuff_chance)}개 있습니다.
+passive_skill_10005_3~stat_debuff_chance~0<>{q(target_position)}을 타격하여 {q(stat_debuff_amount)}{q(stat_debuff_type)}를 감소시키는 효과를 주어 {c(stat_debuff_duration)}회 연속 안타를 유지합니다.
+passive_skill_10005_3~stat_debuff_chance~1<>{q(target_position)}에 보통 타격을 가하고 {q(stat_debuff_amount)}{q(stat_debuff_type)}를 늦추는 효과를 내는 {p(stat_debuff_chance)}개의 확률로 {c(stat_debuff_duration)}회 연속 유지되었습니다.
+passive_skill_10005_4_20004_4~counter_attack_chance~0<>공격은 반격하거나 저지할 수 없다. 통상적인 타격이나 기량에 의해 공격을 받았을 때, 반격은 자신을 공격한 적에게 [{p(counter_attack_damage)} 공격]의 부상을 입했습니다
+passive_skill_10005_4_20004_4~counter_attack_chance~1<>공격은 반격하거나 저지할 수 없습니다. 통상적인 타격이나 기량에 의해 공격을 받았을 때, 자신을 공격한 적군에게 [{p(counter_attack_damage)} 공격]을 가한 반격을 가할 가능성이 {p(counter_attack_chance)}개 있습니다
+active_skill_10006_1~stat_debuff_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고 {c(stat_debuff_duration)}회 동안 적군의 {q(stat_debuff_amount)} {q(stat_debuff_type)}을 줄입니다.
+active_skill_10006_1~stat_debuff_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고 {c(stat_debuff_duration)}회 동안 적군의 {q(stat_debuff_amount)} {q(stat_debuff_type)} 감소 가능성이 {p(stat_debuff_chance)}개 있습니다.
+passive_skill_10006_2<>각 회는 자신을 제외하고 {q(target_position_2)}에 연결되며, 연결된 동맹에 의한 상해는 {p(damage_share_percent)}을 Aqualord에 공유하며, 이 연결은 {c(bond_duration)}회에서만 작동합니다.
+passive_skill_10006_4~trigger_chance~0<>혈액이 {p(hp_limit)}개 미만, {q(effect_type)}이 {c(effect_duration)}회 중 {q(effect_target_position_2)}개에게 {q(effect_type)}개당 [{p(effect_amount)} 공격]과 같은 양의 HP가 활성화될 경우 {c(trigger_limit)}회만 활성화됩니다.
+passive_skill_10006_4~trigger_chance~1<>블러드가 {p(hp_limit)}이하일 경우 {c(effect_duration)}개 라운드에서 {q(effect_target_position_2)}를 공급할을 기회가 {p(trigger_chance)}개가 있고 라운드마다 [{p(effect_amount)}공격]만큼 HP량을 공급해 주고 {c(trigger_limit)}시간만 활성화합니다.
+passive_skill_10007_2<>타격은 보통 {q(target_position)}에 [{p(damage_percent)} 공격]을 가하여 {c(bond_duration)}회 동안 서로 연결시킵니다. 링크에 있는 적 중 하나가 공격되거나 하드 컨트롤 효과를 받을 때마다 각 링크에 있는 나머지 적들은 그 타격의 {p(bond_damage_percent)}개의 부상을 받고 {p(bond_cc_chance)}개의 단단한 제어 효과가 있는 것으로 확인된다.
+passive_skill_10007_3<>적이 연결되고 {q(effect_amount)} {q(effect_affect_to_stat)} 감소합니다.
+passive_skill_10007_4<>{p(hp_lower)} 미만일 때 {c(bond_duration)}개 중 {q(target_position)}개의 연결이 한 번만 활성화됩니다. 링크 내 적 중 하나가 공격되거나 하드 제어 효과가 나타날 때마다, 각 링크에 있는 나머지 적들은 해당 타격의 {p(bond_damage_percent)}개의 부상을 받고 {p(bond_cc_chance)}개의 확률로 경성 제어 효과가 나타나게 됩니다
+active_skill_10008_1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상합니다
+passive_skill_10008_2<>기본 공격은 자기를 위한 {c(power_gain_value)} 에너지 및 {p(stat_buff_amount)} {q(stat_buff_type)}를 증가합니다. (누적 가능)
+passive_skill_10009_2<>{c(number_bouncing)}개의 목표물에 대해 종종 치명상을 입히며, 다음 목표들은 이전의 목표보다 {p(damage_bouncing)}개의 부상을 입습니다.
+passive_skill_10009_3~heal_chance~0<>통상적인 타격이나 스킬의 공격을 받을 때는 [{p(heal_amount_by_damage)} 공격]으로 일정량의 HP를 회수한다.
+passive_skill_10009_3~heal_chance~1<>통상적인 타격이나 스킬에 의해 공격 받았을 때, [{p(heal_amount_by_damage)} 공격]으로 일정량의 HP를 회수할 가능성이 {p(heal_chance)}개 있습니다.
+active_skill_10010_1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 {c(stat_debuff_duration)}개 라운드에서 일격 을 당한 적의 {q(stat_debuff_amount)} {q(stat_debuff_type)}을 감소합니다
+passive_skill_10010_2~stat_buff_chance~0<>기본 공격이나 스킬한 공격을 받을 시 {c(stat_buff_duration)}개 라운드에서 자기의 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다 (누적하지 않음)
+passive_skill_10010_2~stat_buff_chance~1<>기본 공격이나 스킬한 공격을 받을 시 {c(stat_buff_duration)}개 라운드에서 자기의 {p(stat_buff_amount)} {q(stat_buff_type)} 증가할 {p(stat_buff_chance)} 확률이 있습니다 (누적하지 않음)
+active_skill_10011_1~multi_damage_chance~0<>{q(damage_target_position)}에 [{p(damage)} 공격]의 부상을 입히고 적군에게 {c(multi_damage_value)}회의 부상을 입힙니다.
+active_skill_10011_1~multi_damage_chance~1<>{q(damage_target_position)}에 [{p(damage)} 공격]의 부상을 입히고 {p(multi_damage_chance)}개의 확률로 타격 받은 적에게 {c(multi_damage_value)}회의 부상을 입힐 수 있습니다.
+passive_skill_10011_2~stat_buff_chance~0<>{p(stat_buff_amount)} {q(stat_buff_type)}을 증가시키고, {p(stat_buff_amount)} {q(stat_buff_type)}의 타격 또는 스킬에 의해 공격을 받았을 때, 자신이 치명적인 공격을 한 후, {q(stat_buff_type)}은 원래 의도대로입니다.
+passive_skill_10011_2~stat_buff_chance~1<>통상적인 타격이나 스킬에 의해 공격 받았을 때, {p(stat_buff_amount)} {q(stat_buff_type)}이 증가할 가능성이 {p(stat_buff_chance)}개 있으며, 자신이 치명적인 공격을 한 후, {q(stat_buff_type)}은 원래 의도대로입니다.
+passive_skill_10011_4~extra_turn_chance~0<>치명타 공격(기본 공격 또는 활성 기술)을 한 후 이 영웅은 추가 턴을 갖고 이전 공격으로 입힌 피해의 {p(damage_of_extra_turn)}, 매 라운드 최대 {c(extra_turn_limit)}의 추가 공격으로 추가 공격을 합니다.
+passive_skill_10011_4~extra_turn_chance~1<>기본 공격은 보충 공격을 할 {p(extra_turn_chance)}확률이 있고 (다음 공격은 이전 공격 대비 {p(damage_of_extra_turn)}공격하고), 라운드마다 최대 {c(extra_turn_limit)}회 진행할 수 있습니다
+active_skill_10012_1~effect_drowning_chance~0<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 일격을 당한 적에게 익사 마킹합니다. 익사 마킹한 적은 마킹때부터 {c(effect_drowning_duration)} 라운드 후 죽을 것입니다. 보스에 효과가 없습니다
+active_skill_10012_1~effect_drowning_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 일격을 당한 적에게 익사 마킹할 {p(effect_drowning_chance)} 확률이 있습니다. 익사 마킹한 적은 마킹때부터 {c(effect_drowning_duration)} 라운드 후 죽을 것입니다. 보스에 효과가 없습니다
+passive_skill_10012_2<>{q(faction_buff)} 세대의 동맹을 위한 {p(stat_per_faction_buff_amount)} {q(stat_per_faction_buff_type)} 증가
+passive_skill_10012_3<>경기 시작 시 {c(power_stat)}에너지 증가
+passive_skill_10012_4<>수몰자국은 지울 수 없게 되었다. 또한 {q(bonus_1)} {q(stat_1)}을 증가시킵니다.
+active_skill_10013_1<>{q(damage_target_position)}에 [{p(damage)} 공격]을 가한 후 {q(heal_target_position)}에 대해 [{p(heal_amount)} 공격]의 양을 회수합니다.
+passive_skill_10013_2~effect_chance~0<>타격은 보통 [{p(bonus_basic_attack)} 공격]을 치명적으로 만들고 {c(effect_duration)}회 중 {q(effect_trigger_class)}등급의 적에게 {q(effect_type)}을 유발합니다.
+passive_skill_10013_2~effect_chance~1<>타격은 보통 {p(bonus_basic_attack)}의 부상을 입히며, {c(effect_duration)}회 중 {q(effect_trigger_class)}계층의 적에게 {q(effect_type)}을 일으킬 확률은 {p(effect_chance)}입니다.
+passive_skill_10013_3<>타격은 대개 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄여, 그 자체에 의해 누적되지 않습니다.
+passive_skill_10013_4<>통상적인 타격이나 스킬에 의해 공격 받았을 때, 치명적인 타격이라면 즉시 자신과 {q(heal_target_position)}의 HP를 [{p(heal_amount_by_damage)}자살]만큼 회수합니다
+active_skill_10014_1<>{q(target_position)}에게 [{p(damage)}공격] 살상합니다
+active_skill_10015_1<>{q(target_position)}의 치명적 [{p(damage)} 공격]을 일으키고 {q(stat_buff_target_position)}의 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가시켜 {c(stat_buff_duration)}회 유지하십시오.
+active_skill_10016_1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 각 회에 대해 {q(effect_type)} [{p(effect_amount)} 공격] 효과를 발휘하여 적이 {q(enemy_class)}번 타격을 받았을 경우 {c(effect_duration)}회 회전을 유지합니다.
+passive_skill_10016_3<>타격은 보통 매 회 {q(effect_type)} [{p(effect_amount)} 공격] 효과를 일으켜 적이 {q(enemy_class)} 등급에 속할 경우 {c(effect_duration)}회 연속 안타를 유지합니다.
+passive_skill_10016_4~block_chance~0<>통상적인 타격이나 스킬에 의해 공격을 받을 때는 {p(block_amount)}의 부상을 막으십시오.
+passive_skill_10016_4~block_chance~1<>기본 공격이나 스킬한 공격을 받을 시 {p(block_amount)} 살상을 차단할 {p(block_chance)} 확률이 있습니다
+passive_skill_10017_4~stat_buff_chance~0<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가합니다 (누적 가능)
+passive_skill_10017_4~stat_buff_chance~1<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가할 {p(stat_buff_chance)} 확률이 있습니다 (누적 가능)
+passive_skill_10018_4<>치명타가 발생하면 즉시 [{p(heal_amount)} 공격]만큼 자신에게 HP를 지급합니다
+passive_skill_10019_3~stat_debuff_chance~0<>타격은 일반적으로 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄여 {c(stat_debuff_duration)}가 유지되었습니다.
+passive_skill_10019_3~stat_debuff_chance~1<>기본 공격은 일격을 당한 적의 {p(stat_debuff_amount)}{q(stat_debuff_type)}을 감소할 {p(stat_debuff_chance)} 확률이 있고 {c(stat_debuff_duration)}개 라운드를 유지합니다
+active_skill_10021_1_20011_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 적이 {q(bonus_class_hero)} 등급에 속할 경우 {p(bonus_damage_with_class)}건의 추가 부상을 입힙니다.
+passive_skill_10022_4<>{p(health_trigger)} 미만일 경우 {c(stat_buff_duration)}회 동안 {q(stat_buff_amount)}{q(stat_buff_type)}를 늘려야 합니다.
+active_skill_20001_1~effect_chance~0<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하면 적군은 {q(stat_debuff_amount)} {q(stat_debuff_type)}을 감격하고 각 회에 [{p(effect_debuff_amount)} 공격]을 일으키는 {q(effect_debuff_type)} 효과를 발휘하여 {c(effect_duration)} 회차를 유지합니다.
+active_skill_20001_1~effect_chance~1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하면 적군은 {q(stat_debuff_amount)} {q(stat_debuff_type)}이 감소되고 {p(effect_chance)}개의 확률로 각 회당 [{p(effect_debuff_amount)}개 공격]을 유발하는 {q(effect_debuff_type)}의 효과가 나타나며, {c(effect_duration)}개의 공격수를 유지합니다.
+passive_skill_20001_2<>기본 공격은 라운드마다 [{p(effect_1_amount)}공격] 살상 {q(effect_1_type)}을 발생시키고 {c(effect_1_duration)}개 라운드를 유지합니다
+passive_skill_20001_3<>{p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)}을 증가시키고 {q(effect_type)} 효과가 있는 적군에게 [{p(effect_percent)} 공격]을 추가로 가하십시오.
+passive_skill_20001_4<>죽을 때 Icarus가 불 계란으로 변화할 것입니다. 계란은  {q(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)}증가하고 공격할 수 없습니다. {c(round_reborn)}개 라운드에서 계란이 파괴되지 않으면 Icarus을 변신하다 {c(effect_1_duration)}개 라운드에서 {q(target_position)}에게 {q(effect_1_type)}을 발생시킵니다. (경기마다 {c(time_reborn)}회만 효과가 발생합니다}
+active_skill_20002_1<>{q(damage_target_position)}은(는) [{p(damage)} 공격] 킬이 있고 {c(stat_debuff_duration)} 라운드에서 {p(stat_debuff_amount)}{q(stat_debuff_type)} 적 감소의 {p(stat_debuff_chance)} 기회가 있습니다. {c(stat_buff_duration)} 라운드 {q(power_buff_target_position)}에 자신을 포함하면 {c(power_buff_amount)} 에너지를 증가시킬 {p(power_buff_chance)} 기회가 있고 {q(stat_buff_target_position)}는 {p(stat_buff_amount)} {q(stat_buff_type)} 증가할 {p(stat_buff_chance)} 기회가 있습니다
+passive_skill_20002_2<>기본 공격은이 영웅과 {q(effect_1_target_position_2)}에 대한 HP의 양을 치유합니다. 치유량은 대상 최대 HP의 {p(effect_1_amount)}와 같습니다.
+passive_skill_20002_4<>블러드가 {p(health_trigger)}이하일 경우 [{p(heal_amount)}공격]만큼 HP량을 회복해 주고 {q(heal_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)} 증가하고 {c(stat_buff_duration)}개 라운드를 유지합니다 (경기마다 1회만 효과가 발생합니다)
+active_skill_20003_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 상대의 갑옷보다 큰 갑옷이 타격을 받으면, {c(effect_duration)}회 동안 {q(effect_type)}명의 경쟁자가 있을 가능성이 {p(effect_chance)}개 있습니다
+passive_skill_20003_2<>통상적인 타격이나 기량에 의해 공격을 받을 때, 자신에게 가해지는 모든 억제 효과를 해독할 수 있는 확률은 {p(effect_chance)}입니다. CC 효과를 성공적으로 해제하면 이 영웅은 자신의 최대 HP를 {p(heal_amount)} 회복합니다.
+passive_skill_20003_3<>타격은 보통 상대편의 현재 {p(steal_stat_amount)} {q(steal_stat_type)}을 자신에게 건네집니다
+passive_skill_20003_4<>블러드가 {p(health_trigger)}이하일 경우 {p(stat_1_buff_amount)} {q(stat_1_buff_type)} 및 {p(stat_2_buff_amount)} {q(stat_2_buff_type)} 증가합니다
+passive_skill_20004_2<>타격은 보통 {q(target_position)}을 공격하여 적군 {p(steal_stat_amount)}{q(steal_stat_type)}를 빼앗습니다.
+passive_skill_20005_2<>{p(bonus_1)} {q(stat_1)} 증가. 자기의 [{p(bonus_dot_amount)} 태우는] 살상을 증가합니다
+passive_skill_20005_3~dot_chance~0<>타격은 보통 {q(target_position)}을 공격하여 같은 줄에 있는 두 적에게 {p(splash_damage)}개의 부상을 입힙니다. {q(effect_dot_type)} [{p(dot_amount)} 공격] 효과를 가해 적을 매 차례 공격하여 {c(dot_duration)}회 유지하십시오.
+passive_skill_20005_3~dot_chance~1<>타격은 보통 {q(target_position)}을 공격하여 같은 줄에 있는 두 적에게 {p(splash_damage)}개의 부상을 입힙니다. 적군에게 매 회마다 치명적 {q(effect_dot_type)}[{p(dot_amount)} 공격] 효과를 줄 가능성이 {p(dot_chance)}개 있으며, {c(dot_duration)}회 유지됩니다
+passive_skill_20005_4<>통상적인 타격이나 기술로 공격했을 때, 현재 {q(effect_check_type)}개 효과의 양이 적에게 {p(multi_bonus_damage_per_effect)} 공격으로 더 많은 부상을 입힙니다.
+active_skill_20006_1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 {q(effect_type)}할 {p(effect_chance)}확률이 있습니다. {c(power_receive_amount)} 에너지를 추가 받습니다.
+passive_skill_20006_2~effect_chance~0<>통상적인 타격이나 스킬에 의해 공격을 받을 때, 적군은 {q(effect_type)} 공격 [{p(effect_dot_amount)} 공격]을 당 공격하고 {p(effect_stat_debuff_amount)} {q(effect_stat_debuff_type)}을 제외하며, {c(effect_duration)}회 유지하십시오.
+passive_skill_20006_2~effect_chance~1<>기본 공격이나 스킬한 공격을 받을 시 공격한 적이 라운드마다 [{p(effect_dot_amount)}공격] 살상 {q(effect_type)}을  받을 {p(effect_chance)}확률이 있고 {p(effect_stat_debuff_amount)} {q(effect_stat_debuff_type)} 감소하고 {c(effect_duration)}개 라운드를 유지합니다.
+passive_skill_20006_3<>{c(number_round_to_buff)}개 라운드씩  {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} 및 {p(bonus_3)} {q(stat_3)} 증가
+passive_skill_20006_4<>시간 경과에 따라 {p(resistance_dot_damage)}의 부상(독극, 소각 등)을 감소시킵니다. 화상자국은 지워지지 않을 것이다. {p(bonus_1)}{q(stat_1)} 증가.
+active_skill_20007_1<>{q(damage_target_position)}에 [{p(damage)} 공격]을 가한 후 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수하여 {c(buff_duration)}회 동안 {p(buff_amount)} {q(buff_stat)}회 증가시킵니다.
+passive_skill_20007_2<>타격은 보통 {q(basic_attack_target_position)}을 공격하며, {c(effect_duration)}차례에 걸쳐 적군에게 {q(effect_type)}를 가할 가능성이 {p(effect_chance)}개 있습니다.
+passive_skill_20007_4<>매 회초마다 {q(target_position_2)}의 HP에 [{p(heal_amount_per_round)} 공격]을 가하고 각 회에 {p(heal_amount_increase_per_round)}까지 증가시킵니다.
+passive_skill_20008_2~stat_buff_chance~0<>타격은 대개 적마다 자신에게 {p(stat_buff_amount)} {q(stat_buff_type)}이 증가하며, 최대 {p(stat_buff_value_max)} {q(stat_buff_type)}이 증가합니다.
+passive_skill_20008_2~stat_buff_chance~1<>일반적으로 타격 받은 적마다 자신에게 {p(stat_buff_amount)} {q(stat_buff_type)}이 증가할 가능성이 {p(stat_buff_chance)}개이며, 최대 {p(stat_buff_value_max)} {q(stat_buff_type)}개입니다.
+passive_skill_20008_3<>기본 공격은 {q(damage_target_position)}에게 [{p(damage_attack)}공격] 살상하고 자기를 위한  {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} 증가합니다
+passive_skill_20008_4<>HP가  {p(health_trigger_buff_2)} - {p(health_trigger_buff_1)} 사이에 있으면  {p(stat_1_buff_amount_1)} {q(stat_1_buff_type_1)}, {p(stat_2_buff_amount_1)} {q(stat_2_buff_type_1)}증가하고 {p(health_trigger_buff_2)}미만일 경우 {p(stat_1_buff_amount_2)} {q(stat_1_buff_type_2)}, {p(stat_2_buff_amount_2)} {q(stat_2_buff_type_2)} 증가합니다
+passive_skill_20009_4~trigger_chance~0<>{p(hp_limit)} 미만의 혈액이 있을 경우 {q(target_position)}(경기당 {c(trigger_limit)}회만 작용)의 모든 유익한 효과를 제거하십시오.
+passive_skill_20009_4~trigger_chance~1<>{p(hp_limit)} 미만의 혈액이 있을 경우 {p(trigger_chance)}개의 확률로 {q(target_position)}의 모든 유익한 효과를 제거할 수 있습니다(매 경기 {c(trigger_limit)}회만 해당).
+passive_skill_20010_2~heal_chance~0<>기본 공격은 {q(heal_target_position)}에게 [{p(heal_amount)}공격]만큼 HP량을 회복해 줍니다
+passive_skill_20010_2~heal_chance~1<>기본 공격은 {q(heal_target_position)}에게 [{p(heal_amount)}공격]만큼 HP량을 회복할 {p(heal_chance)} 확률이 있습니다
+passive_skill_20010_4~heal_chance~0<>통상적인 타격이나 스킬에 의해 공격을 받을 때는 [{p(heal_amount)} 공격]의 일정량의 HP를 자신에게 회수해야 합니다
+passive_skill_20010_4~heal_chance~1<>통상적인 타격이나 스킬에 의해 공격 받았을 때, [{p(heal_amount)} 공격]을 자신에 대해 일정량의 HP를 회수할 가능성이 {p(heal_chance)} 있습니다
+passive_skill_20011_2<>{p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} 증가. 일격을 당한 적이 {q(bonus_class_hero)} 클래스이면 [{p(bonus_damage_with_class)}공격] 살상을 추가 줍니다.
+active_skill_20012_1~effect_chance~0<>{q(damage_target_position)}에 [ {p(damage)} 공격 ] 상해를 입힙니다. {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄이고 {q(effect_debuff_type)} 효과를 발휘하여 각 회당 [{p(effect_debuff_amount)} 공격]의 HP 양을 줄여서 {c(effect_duration)}개의 공격수를 유지합니다.
+active_skill_20012_1~effect_chance~1<>{q(damage_target_position)}에 [ {p(damage)} 공격 ] 상해를 입힙니다. {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄이고 {p(effect_chance)}개의 확률로 {q(effect_debuff_type)} 효과를 부여하면 매 회 [{p(effect_debuff_amount)} 공격]의 HP가 감소하여 {c(effect_duration)}개의 공격수를 유지할 수 있습니다.
+active_skill_20014_1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 {q(power_buff_target_position)}에게 {c(power_buff_amount)} 에너지를 증가하고 자기를 제외합니다
+passive_skill_20014_3<>기본 공격은 {q(damage_target_position)}에게 [{p(damage_attack)}공격] 살상을 줍니다
+passive_skill_20014_4<>혈액이 {p(health_trigger)} 미만일 때 {q(power_buff_target_position)}에 대해 {c(power_buff_amount)}의 에너지를 증가시킵니다(매 경기 1회만 작용).
+active_skill_20015_1<>{q(damage_target_position)}에 [{p(damage)} 공격]을 가한 후 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 양을 회수합니다.
+passive_skill_20015_4<>타격은 일반적으로 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 HP를 회수합니다
+passive_skill_20016_2<>기본 공격은 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다
+passive_skill_20016_4<>죽을 때 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가합니다 (라운드마다 {c(trigger_limit)}회만 효과가 발생합니다)
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~0<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 가하고 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 줄이며, {c(stat_debuff_duration)} 차례를 유지합니다.
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)} 감소 가능성이 {p(stat_debuff_chance)}개이며, {c(stat_debuff_duration)}회 유지됩니다
+active_skill_20022_1<>{q(target_position)}에 [{p(damage)} 공격] 공격을 가하면 적군은 적군에게 각각 {q(stat_debuff_amount)} {q(stat_debuff_type)}개의 타격이 감소하여 {c(stat_debuff_duration)}타수를 유지합니다.
+active_skill_20023_1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하여 적군의 {q(stat_debuff_amount)} {q(stat_debuff_type)}개 감소 효과를 주어 {c(stat_debuff_duration)}개 회차를 유지합니다.
+passive_skill_20023_4<>{p(health_trigger)} 미만일 경우 {c(stat_buff_duration)}회(매 경기 1회에만 적용됨)에서 {q(stat_buff_target_position)}에 대해 {p(stat_buff_amount)}{q(stat_buff_type)}를 증가시키십시오.
+passive_skill_20024_4<>기본 공격은 {c(effect_duration)}개 라운드에서 일격을 당한 적의 {p(bonus_1)} {q(stat_1)} 감소합니다
+active_skill_20025_1<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고, 적군이 {p(hp_trigger_limit)}HP 이상일 경우 [{p(bonus_attack)} 공격] 부상을 입힙니다.
+passive_skill_20025_4<>타격은 보통 적군의 {p(bonus_1)} {q(stat_1)}을 {c(debuff_duration)}타수 동안 감소시켜 {c(buff_duration)}타수를 유지하면서 {p(bonus_2)} {q(stat_2)}타수 증가시켰다.
+passive_skill_20026_2~heal_chance~0<>통상적인 타격이나 스킬의 공격을 받을 때는 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수합니다.
+passive_skill_20026_2~heal_chance~1<>통상적인 타격이나 스킬의 공격을 받을 때 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수할 가능성이 {p(heal_chance)}개 있습니다.
+passive_skill_20026_3~heal_chance~0<>기본 공격은 {q(heal_target_position)}에게 [{p(heal_percent)}공격]만큼 HP량을 회복해 줍니다
+passive_skill_20026_3~heal_chance~1<>기본 공격은 {q(heal_target_position)}에게 [{p(heal_percent)}공격]만큼 HP량을 회복할 {p(heal_chance)} 확률이 있습니다
+active_skill_30001_1<>{q(target_position)}에 [{p(damage)} 공격] 공격을 가하여 최대 {p(max_hp_to_kill)}HP 미만의 적이 있으면 즉시 적을 종료하고 {c(power_gain_when_kill)}개의 에너지를 회수합니다. 보스에게 효과가 없습니다
+passive_skill_30001_3<>동맹이 죽을 때마다 {q(target_position)}이가 {p(bonus_1)} {q(stat_1)} 감소합니다
+passive_skill_30001_4<>어떠한 이유로든 어느 진영에서든 한 명의 영웅이 피를 흘릴 때마다, Charon은 {p(stat_bonus_amount)} {q(stat_type)}을 증액합니다. 최대 {p(stat_bonus_limit)} {q(stat_type)} 증가.
+active_skill_30002_1<>{q(target_position)}에게 [{p(damage)}공격] 살상하고 자기를 위한 최대 {p(heal_percent)} HP를 회복해 줍니다
+passive_skill_30002_3<>타격에 의한 공격이나 상해를 가할 수 없는 스킬은 목표물의 최대 {p(hp_be_attacked)}의 HP를 초과할 수 없습니다.
+passive_skill_30002_4<>사망 시 최대 {p(hp_heal)}개의 HP에 상당하는 살아있는 동맹을 위해 피를 뽑아낼 때, 해당 살아있는 동맹에 균등하게 배분됩니다.
+active_skill_30003_1<>{q(target_position)}에게 [{p(damage)}공격] 살상하고 자기를 위한 [{p(heal_percent)}공격]만큼 HP량을 회복해 줍니다
+passive_skill_30003_2<>자기만 빼고 동맹으로부터 HP를 받을 수 없습니다. 통상적인 타격이나 기술로 공격했을 때 [{p(heal_percent)}에 의한 상해]로 일정량의 HP를 회수합니다
+passive_skill_30003_3~heal_resistance_chance~0<>기본 공격은 {q(target_position)}공격으로 변경되고 일격을 당한 적에게  {c(heal_resistance_duration)}개 라운드에서 블러드 회복할 수 없게 합니다.
+passive_skill_30003_3~heal_resistance_chance~1<>기본 공격은 {q(target_position)}공격으로 변경되고 일격을 당한 적에게  {c(heal_resistance_duration)}개 라운드에서 블러드 회복할 수 없게 할 {p(heal_resistance_chance)} 확률이 있습니다
+passive_skill_30003_4~revive_chance~0<>자기를 제외한 동맹이 죽을 때마다 Nero가 그 동맹의 그림자를 만듭니다. 해당 그림자는 공격력, 방어력, HP가 그림자를 회생한 Nero의 지수 {p(stat_percent)}입니다. 다른 지수는 그림자를 회생한 Nero의 지수와 똑같습니다
+passive_skill_30003_4~revive_chance~1<>자기를 제외한 동맹이 죽을 때마다 Nero가 그 동맹의 그림자를 만들 {p(revive_chance)}확률이 있습니다. 해당 그림자는 공격력, 방어력, HP가 그림자를 회생한 Nero의 지수 {p(stat_percent)}입니다. 다른 지수는 그림자를 회생한 Nero의 지수와 똑같습니다
+passive_skill_30004_2<>스트라이크는 보통 {p(effect_percent)}타수당 공격수로 {q(effect_type)} 효과를 발휘하며, {c(stat_debuff_duration)}타수 동안 {c(effect_duration)}타수를 유지하고 {p(stat_debuff_percent)} {q(stat_debuff_type)}타수 감소 효과가 있습니다.
+passive_skill_30004_4<>HP회복 라운드마다 이전 라운드에 입은 {p(heal_percent)} 살상에 상당됩니다.
+passive_skill_30005_1<>{q(target_position)}에 [{p(damage)} 공격]을가하여 {c(number_stack)}번씩의 독극물 흔적을 더합니다. 매회 [{p(venom_stack_damage)}대 공격]을 일으킨 각 독극물 자국이 {c(venom_stack_duration)}회 유지되고 있습니다.
+passive_skill_30005_3<>타격은 보통 {q(basic_attack_target_position)}을 공격하고 적에게 타격을 입히는 독극물 흔적 {c(number_stack)}. 뱀의 독살 [{p(venom_stack_damage)} 공격]은 한 번에 치명타를 일으켰고, {c(venom_stack_duration)}회 지속되었다.
+passive_skill_30005_4<>기본 공격이나 스킬한 공격을 받을 시 공격한 적에게 {c(number_stack)} 독 마크를 증가하고 라운드마다 [{p(venom_stack_damage)}공격] 살상하고 {c(venom_stack_duration)}개 라운드를 유지합니다. 죽을 때 총 적의 독 마크 수량 곱하기 {q(target_position)}를 공격하는 {p(damage_per_stack_when_dead)}의 살상을 줍니다.
+active_skill_30006_1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 적의 HP가 {p(enemy_hp_limit)}이하일 경우 자기를 위한 {p(skill_damage_bonus)} 스킬 살상을 증가합니다
+passive_skill_30006_2<>통상적인 타격이나 스킬에 의한 공격이 있을 때, 적군을 최대 {p(hp_percent_lost_per_bonus)}개당 {p(bonus_attack)}의 공격력을 증가시키십시오.
+passive_skill_30006_3<>Zyx의 HP가 {p(hp_limit)}이하로 감소할 경우 적이 {c(heal_duration)}개 라운드에서 Zyx를 공격할 수 없고 라운드마다 Zyx가 {p(heal_amount)}HP 회복합니다. 라운드마다  {c(trigger_limit)}회만 활성화합니다
+passive_skill_30006_4<>적이 {p(hp_limit_to_kill)}HP이하일 경우 즉시 그 적을 죽입니다. 보스에 효과가 없습니다.
+passive_skill_30007_3<>기본 공격이나 스킬한 공격을 받을 시 {c(effect_duration)}개 라운드에서 {p(block_amount)}공격을 차단하고 공격한 적에게{q(effect_type)} 효괄르 줄 {p(passive_chance)} 확률이 없습니다
+passive_skill_30007_4<>사망 시 {q(damage_target_position)}에 치명적 [{p(damage)} 공격]을 유발하고 {p(revive_hp_percent)}HP로 자신을 소생시킵니다. 1회만 활성화.
+passive_skill_30008_3<>심연, 불, 어두움 세대의 영웅인 경우 {q(stat_1)} {p(bonus_1)}, {q(stat_2)} {p(bonus_2)} 증가합니다.
+passive_skill_30008_4<>기본 공격을 받을 시 {c(cc_duration)}개 라운드에서 공격한 적에게 {q(cc_type)}효과를 줄 {p(cc_chance)}확률이 있습니다
+passive_skill_30009_3<>기본 공격은 {q(target_position)}을 공격하고 같은 줄의 적 두 명에게 {p(splash_damage)} 살상을 주고 {c(effect_duration)}개 라운드에서 주요 타겟에게 {q(effect_type)}할 {p(effect_chance)}확률이 있습니다
+passive_skill_30010_2~add_power_chance~0<>자신을 제외한 동맹에게 피를 돌려줄 때, 동맹에게 {c(add_power_amount)}의 에너지가 방출됩니다.
+passive_skill_30010_2~add_power_chance~1<>자신을 제외한 동맹에게 피를 돌려줄 때, 그 동맹에 대한 {c(add_power_amount)}의 에너지 발생률은 {p(add_power_chance)}입니다.
+passive_skill_30010_3<>타격이 {q(heal_target_position)}에 대해 [{p(basic_attack_damage_multiplier)} 공격]을 일으키고 일정량의 HP를 [{p(heal_amount)} 공격]으로 회수합니다.
+passive_skill_30010_4~block_chance~0<>동맹이 공격을 받을 때마다 그 동맹이 {p(block_rate)}살상을 차단합니다 (누적되지 않습니다). Erde가 살아 있는 경우에만 효과가 발생합니다
+passive_skill_30010_4~block_chance~1<>동맹이 공격을 받을 때마다 그 동맹이 {p(block_rate)}살상을 차단할 {p(block_chance)}확률이 있습니다 (누적되지 않습니다). Erde가 살아 있는 경우에만 효과가 발생합니다
+active_skill_30011_1<>{q(target_position)}에 [{p(damage)} 공격]을 가하면, 적군은 {c(effect_duration)}회 동안 최대 {p(effect_amount)}개의 HP를 제외하고 {q(effect_type)} 효과를 받게 됩니다. 그 자체만으로 가득 차 있지 않습니다
+passive_skill_30011_2<>통상적인 타격이나 스킬에 의해 공격을 받을 때 HP는 [{p(hp_heal_percent)} 부담해야 하는 부상자]에 해당합니다.
+passive_skill_30011_3<>각 타격은 일반적으로 적에게 {c(number_bonus_attack)} 공격, 매 번 [{p(bonus_attack_damage_multiplier)} 공격]을 가합니다.
+passive_skill_30011_4<>적이 죽을 때마다 라운드마다 {q(target_position)}의 HP최대 {p(effect_amount)}을 감소하는 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드를 유지합니다. 누적되지 않습니다
+active_skill_30012_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가하고 {c(stat_buff_duration)}개 라운드를 유지합니다
+pasive_skill_30012_3<>기본 공격이나 스킬한 공격을 할 경우 적이 {q(effect_trigger_bonus)} 효과를 받고 있으면 {p(bonus_damage)} 살상을 추가 줍니다.
+active_skill_30014_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 부상을 입히고 [{p(damage_bonus_amount)} 공격]이 피 흔적이 있는 적군에게 추가되었습니다.
+passive_skill_30014_2~blood_mark_chance~0<>통상적인 타격이나 기량에 의해 공격을 받을 때, {c(blood_mark_duration)} 차례 동안 자신을 공격했던 적수에 핏자국을 남깁니다. HP가 {p(health_trigger)} 미만일 경우 {c(stat_buff_duration)}회 동안 {p(stat_buff_amount)} {q(stat_buff_type)}이(가) 증가했습니다. (매 경기 1회만 작용).
+passive_skill_30014_2~blood_mark_chance~1<>기본 공격이나 스킬한 공격을 받을 시 {c(blood_mark_duration)}개 라운드에서 공격한 적에게 블러드 마킹을 남길 {p(blood_mark_chance)} 확률이 있습니다. HP가 {p(health_trigger)}이하일 경우 {c(stat_buff_duration)}개 라운드에서 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가합니다 (라운드마다 1회마 효과 발생)
+passive_skill_30014_4~counter_attack_chance~0<>{q(counter_attack_effect)}마킹된 적으로부터 공격을 받으면 응전이 [{p(counter_attack_damage)}공격]살상을 줍니다
+passive_skill_30014_4~counter_attack_chance~1<>{q(counter_attack_effect)}마킹된 적으로부터 공격을 받으면 응전이 [{p(counter_attack_damage)}공격]살상을 줄 {p(counter_attack_chance)}확률이 있습니다
+passive_skill_30019_2<>기본 공격이나 스킬한 공격을 할 경우 적이 {p(heal_trigger)}HP이하일 경우 [{p(bonus_damage)}공격] 살상을 추가 줍니다
+passive_skill_30019_4<>블러드가 {p(health_trigger)}이하일 경우 라운드마다 {q(target_position)}에게 [{p(effect_amount)}공격] 살상을 감소하는 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드를 유지합니다 (라운드마다 1회만 효과 발생)
+passive_skill_30020_4<>영웅 한 명이 죽을 때 자기를 위한 {p(stat_amount)} {q(stat_type)} 증가합니다
+passive_skill_30021_4<>기본  공격은 {c(stat_debuff_duration)}개 라운드에서 일격을 당한 {q(stat_debuff_amount_1)} {q(stat_debuff_type)}감소합니다.
+active_skill_30022_1~effect_chance~0<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(effect_amount)}공격] 살상 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드를 유지합니다.
+active_skill_30022_1~effect_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(effect_amount)}공격] 살상 {q(effect_type)}효과를 줄 {p(effect_chance)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+active_skill_30025_1<>{q(damage_target_position)}에 [{p(damage)} 공격]의 상해를 유발하고 {c(stat_buff_duration)}회 중 {q(stat_buff_target_position)}에 대해 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가시키십시오.
+active_skill_30026_1<>{q(damage_target_position)}에 [{p(damage)} 공격]을 가한 후 [{p(heal_percent)}의 총상사로 인해 발생한] 양의 HP를 회수합니다.
+passive_skill_40001_2~heal_chance~0<>스트라이크는 일반적으로 {q(target_position_2)}에 대해 회당 [{p(heal_percent)} 공격]의 수만큼 HP를 회수하여 {c(heal_duration)}회 유지됩니다
+passive_skill_40001_2~heal_chance~1<>일반적으로 타격은 {p(heal_chance)}회차마다 {q(target_position_2)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수할 가능성이 있으며, {c(heal_duration)}회 유지됩니다
+passive_skill_40001_4<>혈액이 {p(hp_limit)} 미만일 경우 {c(effect_duration)}회 동안 {q(effect_type)}가 {q(effect_target_position)}에 영향을 미칠 가능성이 {p(trigger_chance)}개입니다. {c(stat_buff_duration)}회 동안 {q(stat_buff_target_position)}의 {p(stat_buff_amount)} {q(stat_buff_type)} 증가. (경기당 {c(trigger_limit)}번만 효과 있음)
+passive_skill_40002_1<>{q(enemy_target_position)}에 [{p(damage)} 공격] 상해를 유발하여 {c(stat_debuff_duration)}타수 {p(stat_debuff_amount)} {q(stat_debuff_type)}타수 감소 및 {c(stat_buff_duration)}타수 {q(stat_buff_target_position)}의 {p(stat_buff_amount)} {q(stat_buff_type)} 증가
+passive_skill_40002_2<>기본 공격은 {c(effect_duration)}개 라운드에서 일격을 당한 적의 {p(effect_amount)} {q(effect_affect_to_stat)} 감소합니다.
+passive_skill_40002_3~block_chance~0<>{p(bonus_1)} {q(stat_1)} 증가. 기본 공격이나 스킬한 공격을 받을 시 {p(block_rate)} 살상을 차단합니다.
+passive_skill_40002_3~block_chance~1<>{p(bonus_1)} {q(stat_1)} 증가. 기본 공격이나 스킬한 공격을 받을 시 {p(block_rate)} 살상을 차단할 {p(block_chance)}확률이 있습니다
+passive_skill_40002_4<>블러드가  {p(hp_limit)}이하일 경우 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount_1)} {q(stat_buff_type_1)} 및 {p(stat_buff_amount_2)} {q(stat_buff_type_2)} 증가합니다 (라운드마다 {c(trigger_limit)}회만 효과 발생)
+active_skill_40003_1~effect_chance~0<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 라운드마다 [{p(effect_amount)}공격] 살상 {q(effect_type)} 효과를 주고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 드라이어드 마킹합니다. 드라이어드 마킹된 적이 HP가 회복되면 Arryl이 회복된 {p(effect_dryad_amount)} HP량을 가져가고 {c(effect_dryad_duration)}개 라운드에서 자기를 위해 회복해 줍니다
+active_skill_40003_1~effect_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 라운드마다 [{p(effect_amount)}공격] 살상 {q(effect_type)} 효과를 주고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 드라이어드 마킹할 {p(effect_chance)}확률이 있습니다. 드라이어드 마킹된 적이 HP가 회복되면 Arryl이 회복된 {p(effect_dryad_amount)} HP량을 가져가고 {c(effect_dryad_duration)}개 라운드에서 자기를 위해 회복해 줍니다
+passive_skill_40003_2~effect_chance~0<>기본 공격은 라운드마다 [{p(effect_amount)}공격]살상 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 드라이어드 마킹합니다. 드라이어드 마킹된 적이 HP가 회복되면 Arryl이 회복된 {p(effect_dryad_amount)} HP량을 가져가고 {c(effect_dryad_duration)}개 라운드에서 자기를 위해 회복해 줍니다
+passive_skill_40003_2~effect_chance~1<>기본 공격은 라운드마다 [{p(effect_amount)}공격]살상 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 드라이어드 마킹할 {p(effect_chance)}확률이 있습니다. 드라이어드 마킹된 적이 HP가 회복되면 Arryl이 회복된 {p(effect_dryad_amount)} HP량을 가져가고 {c(effect_dryad_duration)}개 라운드에서 자기를 위해 회복해 줍니다
+passive_skill_40003_4~reflect_chance~0<>통상적인 타격이나 기량에 의해 공격을 받을 때, {p(reflect_damage)}의 그 타격의 부상을 자신에게 가한 적이 있습니다.
+passive_skill_40003_4~reflect_chance~1<>통상적인 타격이나 기량에 의해 공격을 받았을 때, 자신을 공격한 적군에게 가해진 그 타격의 [{p(reflect_damage)} 공격]을 반격할 가능성이 {p(reflect_chance)}개 있습니다
+passive_skill_40004_4<>HP가 {p(health_trigger_1)}보다 높으면 {q(trigger_1_stat_1_buff_type)}을 {p(trigger_1_stat_1_buff_amount)}, {q(trigger_1_stat_2_buff_type)}를 {p(trigger_1_stat_2_buff_amount)} 늘립니다. HP가 {p(health_trigger_2)} 아래로 떨어지면 {q(trigger_2_stat_1_buff_type)}이 {p(trigger_2_stat_1_buff_amount)} 증가하고 {q(trigger_2_stat_2_buff_type)}가 {p(trigger_2_stat_2_buff_amount)} 증가합니다. 이 효과는 디스펠, 축복, 저주 표시 효과로 제거 할 수 없습니다.
+passive_skill_40005_2<>{p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} 증가. 기본 공격별 {c(power_gain_per_basic_attack)}에너지를 증가합니다.
+passive_skill_40005_3<>액티브 스킬이 사용될 때마다 {p(stat_amount_per_use_skill)} {q(stat_type)} 증가합니다
+passive_skill_40005_4<>첫 {c(block_limit)}공격에서 입은 {p(block_rate)}살상을 차단합니다 (라운드마다 1회만 효과 발생)
+active_skill_40006_1<>{q(enemy_target_position)}에게 [{p(damage)}공격] 살상하고 {c(effect_duration)}개 라운드에서 {q(ally_target_position)} 반전 방패를 지원합니다. 반전 방패는 입은 {p(effect_percent)} 살상을 소유자의 회생 HP로 변경해 줍니다 (반전 뱅패가 제거될 수 없습니다)
+passive_skill_40006_2~effect_chance~0<>기본 공격은 {q(target_position_2)}에게 주는 [{p(effect_bonus_percent)}살상]만큼 HP량을 회복해 줍니다
+passive_skill_40006_2~effect_chance~1<>일반적으로 때리기에는 {q(target_position_2)}에 대해 [{p(effect_bonus_percent)}의 사망 원인]을 사용하여 HP의 일정량을 회수할 가능성이 {p(effect_chance)}개 있습니다.
+passive_skill_40006_3<>자기가 동맹에게 블러드를 회복할 때마다 자기를 위한 {q(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)} 증가합니다 (최대 {sl(stack_limit)} {q(stat_1)} 및 {sl(stack_limit)} {q(stat_2)} 증가)
+passive_skill_40006_4<>{p(hp_limit)} 미만일 때 {q(heal_target_position)}에 대해 [{p(heal_percent)} 공격]의 HP를 회수하고 {q(buff_target_position)}에 대해 {p(buff_bonus)} {q(buff_stat)}와 {c(buff_power)}의 에너지를 증가시킵니다(매 경기 {c(trigger_limit)}회만 작용).
+active_skill_40007_1<>{q(damage_target_position)}에 [{p(damage)} 공격]을 가해 {c(stat_buff_duration)}회 동안 {q(stat_buff_target_position)} {q(stat_buff_amount)} {q(stat_buff_type)}에 대해 증가시킵니다.
+passive_skill_40007_2<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다. 스킬은 누적될 수 없습니다
+passive_skill_40007_4~effect_chance~0<>블러드가 {p(health_trigger)}이하일 경우 {c(effect_duration)}개 라운드에서 {q(effect_type)}이가 {q(buff_target_position)}로 변경합니다 (라운드마다 1회만 효과 발생)
+passive_skill_40007_4~effect_chance~1<>{p(health_trigger)} 미만일 경우 {c(effect_duration)}회 중 {q(effect_type)}에서 {q(buff_target_position)}에 대해 {p(effect_chance)}개의 확률로 확정한 결과가 있습니다. (경기당 한 번밖에 효과가 없음)
+active_skill_40008_1~silence_chance~0<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {q(effect_type)} [{p(effect_amount)} 공격] 상해를 각 회에 실시하여 {c(effect_duration)}회 지속하십시오. 적에게 {c(silence_duration)}차례의 일격을 가한 것에 침묵시키다.
+active_skill_40008_1~silence_chance~1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {q(effect_type)} [{p(effect_amount)} 공격] 상해를 각 회에 실시하여 {c(effect_duration)}회 지속하십시오. {c(silence_duration)}차례에 걸쳐 적에게 타격을 입힐 가능성이 {p(silence_chance)}개 있습니다
+passive_skill_40008_2<>심연, 불, 어두움 세대의 적에게 {p(stat_per_faction_buff_amount)} {q(stat_per_faction_buff_type)} 증가합니다.
+passive_skill_50005_2<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)}증가합니다 (Aura 종류가 동일할 경우 누적되지 않습니다)
+passive_skill_40008_3<>자연,물,라이트 세대의 동맹에게 {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)}을 증가합니다.
+passive_skill_40008_4<>{q(resistance_effect_type_1)}에게 {p(resistance_effect_rate_1)} 저항, {q(resistance_effect_type_2)}에게 {p(resistance_effect_rate_2)} 저항. 기본 공격은 라운드마다 [{p(effect_dot_amount)}공격] 살상 {q(effect_dot_type)}할 {p(effect_dot_chance)}확률이 있고 {c(effect_dot_duration)}개 라운드를 유지합니다. {c(silence_duration)}개 라운드에서 일격을 당한 적에게 조용하게 할 {p(silence_chance)}확률이 있습니다
+active_skill_40009_1<>{q(target_position)}에 [{p(damage)} 공격] 공격을 가하면 {c(number_round_can_not_be_targeted)}회 동안 적에게 목표물로 선택되지 않습니다.
+passive_skill_40009_3<>타격은 보통 {c(number_bonus_attack)}을공격하며, 그에 상당하는 {p(damage_multiplier_1)}, {p(damage_multiplier_2)}, {p(damage_multiplier_3)}.
+passive_skill_40009_4<>치명적인 공격을 할 때마다  다음 공격의 {p(bonus_damage_when_crit)}살상을 증가합니다.
+passive_skill_40010_3<>{q(effect_type)}효과를 받고 있는 적에게 [{p(bonus_damage_with_effect)}공격] 살상을 추가 줍니다.
+passive_skill_40010_4<>죽을 때마다 라운드마다 {q(effect_target_position)}에게 [{p(effect_amount)}공격] 살상 {q(effect_type)} 효과를 주고 {c(effect_duration)}개 라운드를 유지합니다 (라운드마다 1회만 효과 발생)
+passive_skill_40011_3<>앞줄에 있으면 {p(front_stat_amount)} {q(front_stat)} 증가하고 뒷줄에 있으면  {p(back_stat_amount_1)} {q(back_stat_1)}, {p(back_stat_amount_2)} {q(back_stat_2)}, {p(back_stat_amount_3)} {q(back_stat_3)} 증가합니다.
+passive_skill_40011_4<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가하고 [{p(heal_amount)}공격]만큼 HP량을 회복해 줍니다. 일격을 당한 적이 {q(cc_trigger_class)}클래스가이면 {q(cc_trigger_type)}할 {p(cc_trigger_chance)}확률이 있고 {c(cc_trigger_duration)}개 라운드를 유지합니다.
+passive_skill_40012_3~silence_chance~0<>치명타가 발생하면 흔히 치는데, {c(silence_duration)}이닝 동안 상대에게 맞는 상대를 침묵시킵니다.
+passive_skill_40012_3~silence_chance~1<>치명타가 일어나면, {c(silence_duration)}차례에 걸쳐 상대에게 타격을 입힐 가능성이 {p(silence_chance)}개 있습니다.
+passive_skill_40012_4<>통상적인 타격이나 스킬에 의한 공격 시, 적군이 {q(effect_check_type)}을 맞으면 [{p(bonus_damage)} 공격]을 더하십시오.
+active_skill_40016_1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하고, 적군이 {p(target_hp_percent)}HP 이상일 경우 {q(dot_type)} [{p(dot_amount)} 공격]을 차례대로 추가하며, {c(dot_duration)}회 상공을 유지합니다.
+active_skill_40017_1<>{q(target_position)}에 [{p(damage)} 공격]을 가하면, 적 {q(bonus_class_hero)}가 추가 [{p(bonus_damage_with_class)} 공격]
+passive_skill_40020_3~heal_chance~0<>통상적인 타격이나 스킬로 공격할 때는 {q(target_position_2)}에 대해 [{p(heal_percent)} 공격]의 일정량의 HP를 회수합니다
+passive_skill_40020_3~heal_chance~1<>기본 공격이나 스킬한 공격을 할 경우 {q(target_position_2)}에게 주는 [{p(heal_percent)}공격]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다
+passive_skill_40021_4_40023_2~counter_attack_chance~0<>기본 공격을 받을 시 공격한 적에게 [{p(counter_attack_damage)}공격] 살상을 응전합니다.
+passive_skill_40021_4_40023_2~counter_attack_chance~1<>기본 공격을 받을 시 공격한 적에게 [{p(counter_attack_damage)}공격] 살상을 응전할 {p(counter_attack_chance)}확률이 있습니다
+passive_skill_50010_2_60013_3~counter_attack_chance~0<>기본 공격이나 스킬한 공격을 받을 시 공격한  적에게 [{p(counter_attack_damage)}공격] 살상을 응전합니다.
+passive_skill_50010_2_60013_3~counter_attack_chance~1<>기본 공격이나 스킬한 공격을 받을 시 공격한  적에게 [{p(counter_attack_damage)}공격] 살상을 응전할 {p(counter_attack_chance)}확률이 있습니다
+passive_skill_40023_4<>블러드가 {p(health_trigger)}이하일 경우 {p(stat_1_buff_amount)} {q(stat_1_buff_type)}, {q(stat_2_buff_amount)} {q(stat_2_buff_type)} 증가합니다
+passive_skill_40024_3<>기본 공격은 라운드마다 [{p(effect_amount)}공격} 살상을 {q(effect_type)}할 {p(effect_chance_normal)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다. 일격을 당한 적이 {q(affected_hero_class)}클래스가 이면 {q(effect_type)}할 {p(effect_chance_special)}확률이 있습니다.
+passive_skill_40024_4<>블러드가 {p(hp_limit)}이하일 경우 {c(buff_duration)}개 라운드에서 {q(buff_target_position)}에게 {p(buff_amount)} {q(buff_type)}를 증가합니다. (경기마다 {c(trigger_limit)}회만 효과 발생)
+passive_skill_40025_4<>죽을 때 {q(heal_target_position)}에게 [{p(heal_amount)}공격]만큼 HP량을 회복해 줍니다 (라운드마다 {c(trigger_limit)}회만 효과 발생)
+passive_skill_40026_3<>기본 공격은 자기를 위한 {p(buff_amount)} {q(buff_type)} 증가합니다
+active_skill_50001_1~effect_chance~0<>{q(enemy_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {q(effect_type)} 효과를 {q(ally_target_position)}. {q(effect_type)} 효과는 {c(effect_duration)}회 동안 기존의 모든 유해 효과와 새로운 항효과를 위조하는 데 도움이 됩니다.
+active_skill_50001_1~effect_chance~1<>{q(enemy_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {p(effect_chance)}개의 확률로 {q(ally_target_position)}에 {q(effect_type)} 효과를 부여하십시오. {q(effect_type)} 효과는 {c(effect_duration)}회 동안 기존의 모든 유해 효과와 새로운 항효과를 위조하는 데 도움이 됩니다.
+passive_skill_50001_2<>각 라운드에 {q(enemy_target_position)}이 {c(effect_duration)}회 동안 {q(effect_type)}이 걸립니다. Amiable Angel이 이 적들을 공격하면 추가 [{p(bonus_damage)} 공격]이 발생하고 [{p(hp_percent_to_heal)} 공격]의 HP가 자신 및 {q(ally_target_position)}.
+passive_skill_50001_3<>취약점을 가진 경쟁자들에 의해 공격 받았을 때, Amiable Angel은 자신과 {q(target_position_2)}에 대해 [{p(damage_percent_to_heal)} 인수가격]의 HP를 회수습니다.
+passive_skill_50001_4~hp_limit~0<>이 영웅이 패배할 때 {q(target_position_2)}에게 HP량을 회복합니다. 블러드 회복량은 이 영웅의 최대 HP량 {p(max_hp_percent_to_heal)}이가 동맹 수량을 나누기입니다. 해당 효과는 경기마다 {c(trigger_limit)}회 활성화할 수 있습니다
+passive_skill_50001_4~hp_limit~1<>HP가 {p(hp_limit)}이하 감소할  경우 {q(target_position_2)}에게 HP량을 치료합니다. 블러드 회복량은 이 영웅의 최대 HP량 {p(max_hp_percent_to_heal)}이 받는 사람 수량을 나누기입니다. 해당  효과는 경기마다 {c(trigger_limit)}회  활성화할 수 있습니다
+active_skill_50002_1<>{q(target_position)}에 [{p(damage)} atk] 피해를줍니다. 대상의 {q(stat_debuff_type_1)} {p(stat_debuff_amount_1)}, {p(stat_debuff_amount_2)} {q(stat_debuff_type_2)}에 의해 {c(stat_debuff_duration)} 라운드 줄인다. 그 적들에게 {c(effect_duration)} 라운드 동안 {q(effect_type)}을 적용하십시오.
+passive_skill_50002_2<>액티브 스킬 및 기본 공격은 {q(effect_type)}로 표시된 대상에게 {p(bonus_damage)} 더 많은 피해를줍니다.
+passive_skill_50002_3~revive_chance~0<>적이 홀리 마킹될 경우 {p(revive_hp_percent)}HP로 자기를 회생합니다 (적마다1회 효과 발생)
+passive_skill_50002_3~revive_chance~1<>적이 홀리 마킹될 경우 {p(revive_hp_percent)}HP로 자기를 회생할 {p(revive_chance)} 확률이 있습니다 (적마다1회 효과 발생)
+passive_skill_50002_4<>공격 마킹된 적으로부터 공격을 받을 시 {c(duration)}개 라운드에서 {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)}증가합니다 (동일한 적으로 받은 효과일 경우 누적되지  않습니다)
+active_skill_50003_1<>{q(enemy_target_position)}에 [{p(damage)} 공격]을 가하여 {q(ally_target_position)}에 전달된 적군의 현재 최대 {p(stat_steal_amount)} {q(stat_to_steal)}을 도난합니다. 보스에게 효과가 없습니다.
+passive_skill_50003_3<>기본 공격은 공격력이 가장 높은 적에게 피해를줍니다. 기본 공격은 타겟의 현재 {p(steal_stat_amount)} {q(steal_stat_type)}을 훔칩니다
+passive_skill_50003_4~revive_chance~0<>자신을 제외한 한 명의 동맹이 죽을 때마다 {p(revive_hp_percent)}의 HP와 그 동맹을 부활시킵니다(매 경기 1회만 작용).
+passive_skill_50003_4~revive_chance~1<>자신을 제외한 한 동맹이 죽을 때마다 {p(revive_hp_percent)}의 HP로 그 동맹을 부활시킬 가능성이 {p(revive_chance)}개 있습니다다(매 경기 한 번만 작용).
+active_skill_50004_1<>{q(enemy_target_position)}에게 [{p(damage)}공격] 살상하고 [{p(effect_bonus_percent)} 공격] 상상을 받은 모든 동맹에게 총 방패를 만들어 주고 방패가 {c(effect_duration)}개 라운드 후 깨질 것입니다 (방패가 누적되지 않습니다)
+passive_skill_50004_3<>기본 공격은 대상에게 최대 {q(stat_convert)}의 추가 피해를 {p(stat_percent)} 줍니다. 이 {q(stat_convert)}은 모든 라운드가 시작될 때 계산됩니다.
+passive_skill_50004_4<>이 영웅의 턴에 {c(round_step)} 라운드마다 {c(effect_duration)} 라운드 동안 모든 아군에게 {q(effect_type)} 효과를 적용합니다. 이 영웅은 또한 {c(effect_duration)} 라운드 동안 {q(stat_buff_type)} {c(stat_buff_amount)}를 증가시킵니다. {q(effect_type)} 효과는 모든 부정적인 디버프를 즉시 해제하고 들어오는 모든 부정적인 디버프에 저항합니다.
+active_skill_50005_1<>{q(enemy_target_position)}에게 [{p(damage)}공격] 살상하고 {c(effect_duration)}개 라운드에서 {q(ally_target_position)}에게 라이트 방패를 선물합니다. 라이트 방패는 입은 {p(effect_percent)} 살상을 방패를 갖춘 영웅을 위한 회생 블러드로 전환해 줍니다 (라이트 방패가 누적되지 않습니다)
+passive_skill_50005_3~effect_chance~0<>타격은 일반적으로 {q(target_position_2)}에 대해 [{p(effect_bonus_percent)}의 총 상해 발생]과 같은 양의 HP를 회수합니다.
+passive_skill_50005_3~effect_chance~1<>일반적으로 때리기에는 {q(target_position_2)}에 대해 [{p(effect_bonus_percent)}의 총 상해 발생]과 같은 양의 HP가 회수될 가능성이 {p(effect_chance)}개 있습니다.
+passive_skill_50006_2<>Enule의 총알은 타겟 {c(number_bouncing)}을 튀어나올 수 있고 후 타겟의 입은 살상이 전  타겟대비 {p(damage_bouncing)}입니다. (모든 공격의 총알은 효과가 발생하지만 공격이 액티브 스킬이면 타겟이 어지럽지 않습니다
+passive_skill_50006_3~extra_turn_chance~0<>기본 공격이나 스킬한 공격을 할 경우 보충 공격이 [{p(damage_of_extra_turn)}공격] 살상하고 최대 1라운드 {c(extra_turn_limit)}회입니다
+passive_skill_50006_3~extra_turn_chance~1<>기본 공격이나 스킬한 공격을 할 경우 보충 공격이 [{p(damage_of_extra_turn)}공격] 살상할 {p(extra_turn_chance)}확률이 있고 최대 1라운드 {c(extra_turn_limit)}회입니다
+passive_skill_50006_4<>적군이 Enule에서 {c(number_take_damage_required)}차례나 부상을 입힐 때마다 {c(effect_duration)}차례에 걸쳐 {q(effect_type)}이 발생하게 됩니다.
+active_skill_50007_1<>{q(damage_target_position)}에게 [{p(damage)}공격]  살상하고 {p(heal_amount)} 최대 HP를 회복하고 {q(buff_target_position)}의 불리한 모든 효과를 제거합니다
+passive_skill_50007_2~steal_chance~0<>기본 공격은 {c(steal_duration)}개 라운드에서 타겟의 현재 {p(steal_stat_amount_1)} {q(steal_stat_type_1)}, {p(steal_stat_amount_2)} {q(steal_stat_type_2)}을 훔치고 {q(steal_buff_target_position)}에게 줍니다
+passive_skill_50007_2~steal_chance~1<>기본 공격은 {c(steal_duration)}개 라운드에서 타겟의 현재 {p(steal_stat_amount_1)} {q(steal_stat_type_1)}, {p(steal_stat_amount_2)} {q(steal_stat_type_2)}을 훔치고 {q(steal_buff_target_position)}에게 줄 {p(steal_chance)} 확률이 있습니다.
+passive_skill_50007_3<>1 동맹이 {p(health_trigger)} HP이하일 경우 즉시 그 동맹에게 [{p(heal_amount)}공격]만큼 HP량을 회복해 줍니다 (경기마다 1회만 효과 발생)
+passive_skill_50007_4<>일반적으로 타격은 {q(damage_target_position)}에게 치명적 [{p(damage)} 공격]을 발생시키는 것으로 변환합니다.
+passive_skill_50008_3<>타격은 대개 자신을 위해 그리고 {q(buff_target_position)} {c(power_buff_amount)}의 에너지를 증가시킵니다.
+passive_skill_50008_4<>사망 시 {q(damage_target_position)}에게 치명적 [{p(damage)} 공격]을 가하고 {c(stat_buff_duration)}회 중 {q(buff_target_position)}에 대해 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가시키십시오. (매 경기 1회만 가능)
+active_skill_50009_1<>{q(target_position)}에 [{p(damage)} 공격] 부상을 입히고 {q(bonus_damage_faction_type)} 시스템에 적을 타격할 경우 {p(bonus_damage_faction_value)}개의 부상을 입힙니다.
+active_skill_50009_3<>라이트 영웅의 경우 {p(stat_per_light_buff_amount)} {q(stat_per_light_buff_type)} 증가하고 어두움 영웅의 경우 {p(stat_per_dark_buff_amount)} {q(stat_per_dark_buff_type)} 증가합니다.
+passive_skill_50009_4~effect_chance~0<>기본공격은 {c(effect_duration)}개 라운드에서 {q(buff_target_position)}에게 {q(effect_type)}효과를 줍니다
+passive_skill_50009_4~effect_chance~1<>기본공격은 {c(effect_duration)}개 라운드에서 {q(buff_target_position)}에게 {q(effect_type)}효과를 줄 {p(effect_chance)}확률이 있습니다
+active_skill_50010_1~silence_chance_debuff_mage~0<>{q(target_enemy_min_max)}에게 [{p(damage_min)}-{p(damage_max)} 공격] 살상하고 일격을 당한 적이 마법사일 경우 조용하게 하고 타겟이 전병일 경우 {q(effect_type_debuff_warrior)}할 {p(silence_chance_debuff_mage)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+active_skill_50010_1~silence_chance_debuff_mage~1<>{q(target_enemy_min_max)}에게 [{p(damage_min)}-{p(damage_max)} 공격] 살상하고 일격을 당한 적이 마법사일 경우 조용하게 할 {p(silence_chance_debuff_mage)}확률이 있고 타겟이 전병일 경우 {q(effect_type_debuff_warrior)}할 {p(effect_chance_debuff_warrior)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다.
+passive_skill_50010_3~stat_buff_chance~0<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 {p(stat_buff_amount)} {q(stat_buff_type)}회 {c(number_buff)}증가하고 라운드마다 {q(buff_target_position)}에게 증가합니다.
+passive_skill_50010_3~stat_buff_chance~1<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 {p(stat_buff_amount)} {q(stat_buff_type)}회 {c(number_buff)}증가할 {p(stat_buff_chance)} 확률이 있고 라운드마다 {q(buff_target_position)}에게 증가합니다.
+passive_skill_50010_4<>타격은 대상 혈액이 최대 {p(health_bonus_trigger)} HP 이상일 경우 추가 [{p(bonus_damage)} 공격]을 유발합니다.
+passive_skill_50011_2<>어떠한 유해한 효과를 받을 때마다 {p(buff_amount)} {q(buff_stat)} 증가합니다 (최대 {c(max_stack)}회 누적 가능)
+passive_skill_50011_3<>기본 공격은 {p(bonus_basic_attack)} 더 많은 피해를 입히고 {c(effect_duration)} 라운드 동안 {q(effect_type)} 대상에게 {p(effect_chance)} 기회가 있습니다.
+passive_skill_50011_4~trigger_chance~0<>매 공격마다 성의를 받아 {c(buff_duration)}회 (최대 누적 횟수 {c(max_stack)}회) 동안 {p(buff_amount)} {q(buff_stat)}이 증가했습니다.
+passive_skill_50011_4~trigger_chance~1<>각 공격에는 {p(trigger_chance)}개의 감사 확인란이 있으며, {c(buff_duration)}회 중 {p(buff_amount)} {q(buff_stat)}개 증가(최대 {c(max_stack)}회 누적 가능).
+active_skill_50012_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입히고 [{p(heal_percent_of_damage)} 상해 발생]으로 자신과 {q(heal_target_position)}개의 HP를 회수합니다.
+passive_skill_50012_3<>기본 공격은 치명적인 공격이면 {c(stat_buff_duration)}개 라운드에서  {p(stat_buff_amount_1)} {q(stat_buff_type_1)} 및 {p(stat_buff_amount_2)} {q(stat_buff_type_2)} 증가합니다
+passive_skill_50012_4~heal_chance~0<>기본 공격은 적의 HP가 자기보다 크면 {p(bonus_damage)} 상살을 추가 주고 [{p(heal_percent_of_damage)}주는 살상]만큼 HP량을 회복해 줍니다
+passive_skill_50012_4~heal_chance~1<>기본 공격은 적의 HP가 자기보다 크면 {p(bonus_damage)} 상살을 추가 주고 [{p(heal_percent_of_damage)}주는 살상]만큼 HP량을 회복할 {p(heal_chance)} 확률이 있습니다
+passive_skill_50013_3~trigger_chance~0<>통상적인 타격이나 기량에 의해 공격을 받았을 때, {p(block_rate)}의 부상을 막아내고 {c(effect_duration)}회 동안 {q(effect_type)}명의 적군을 적중시켰습니다.
+passive_skill_50013_3~trigger_chance~1<>기본 공격이나 스킬한 공격을 받을 시 {p(block_rate)}살상을 차단하고 {c(effect_duration)}개 라운드에서 {q(effect_type)}적이 일격을 당하게 할 {p(trigger_chance)} 확률이 있습니다
+passive_skill_50013_4<>블러드가 {p(health_trigger)}이하일 경우 {q(heal_target_position)}에게 {p(heal_amount)}공격]만큼 HP량을 회복해 줍니다 (경기마다 1회만 효과 발생)
+passive_skill_50014_4~stat_buff_chance~0<>기본 공격은 타겟에 맞히면 즉시 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다
+passive_skill_50014_4~stat_buff_chance~1<>기본 공격은 타겟에 맞히면 즉시 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가할 {p(stat_buff_chance)}확률이 있습니다
+active_skill_50015_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {c(effect_duration)}개 라운드에서 {q(effect_faction)}장군들에게 {p(effect_amount)}살상을 추가 받게 합니다 (해당 효과는 누적되지 않습니다)
+passive_skill_50015_4<>블러드가 {p(health_trigger)}이하일 경우 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)}증가합니다
+active_skill_50017_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 유발하고 최대 {c(effect_duration)}회 동안 {p(bonus_1)} {q(stat_1)}을 자신에게 늘리십시오.
+passive_skill_50022_3<>경기 시작 시 {c(power_gain_start_battle)}에너지를 증가합니다
+passive_skill_50023_4<>통상적인 타격이나 스킬에 의해 공격을 받을 때, [{p(heal_percent)}에 의한 상해]의 일정량의 HP를 자신에게 회수합니다.
+passive_skill_50024_4~heal_chance~0<>기본 공격이나 스킬한 공격을 할 경우 자기를 위해 [{p(heal_percent)}입은 살상]만큼 HP량을 회복해 줍니다
+passive_skill_50024_4~heal_chance~1<>기본 공격이나 스킬한 공격을 할 경우 자기를 위해 [{p(heal_percent)}입은 살상]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다
+passive_skill_50025_3~bonus_attack_chance~0<>타격은 보통 [{p(bonus_attack_damage_multiplier)} 공격]을 치명적으로 가해지는 추가 공격을 유발합니다.
+passive_skill_50025_3~bonus_attack_chance~1<>기본 공격은 [{p(bonus_attack_damage_multiplier)}공격]상상의 추가 공격을 할 {p(bonus_attack_chance)}확률이 있습니다
+active_skill_50026_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다
+passive_skill_50026_3<>기본 공격이나 스킬한 공격을 할 경우 적이 {q(affected_faction)}세대일 경우 [{p(bonus_attack)}공격]살상을 추가 줍니다
+passive_skill_50026_4<>블러드가 {p(hp_limit)}이하일 경우 {c(stat_buff_duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다 (라운드마다 {c(trigger_limit)}회만 효과가 발생합니다)
+passive_skill_60001_4~extra_turn_chance_per_crit~0<>기본 공격은 치명적인 공격이면 보충 공격할 수 있으며 보충 공격마다 이전 공격의 {p(damage_per_extra_turn)}이고 최대 라운드마다 {c(extra_turn_limit)}보충 공격을 할 수 있습니다
+passive_skill_60001_4~extra_turn_chance_per_crit~1<>기본 공격은 치명적인 공격이면 보충 공격할 {p(extra_turn_chance_per_crit)}확률이 있으며 보충 공격마다 이전 공격의 {p(damage_per_extra_turn)}이고 최대 라운드마다 {c(extra_turn_limit)}보충 공격을 할 수 있습니다
+active_skill_60002_1<>{q(target_position)}에게 [{p(damage)}공격] 살상하고 일격을 당한 적의 현재 최대 {p(stat_steal_amount)} {q(stat_to_steal)}를 훔치고 {c(steal_duration)}개 라운드에서 자기에게 주고 다음에 되돌려줍니다 (해당 효과가 제거될 수 없습니다)
+passive_skill_60002_2<>적이 {p(hp_lower)}HP이하일 경우 Bloodseeker가 {q(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)} 증가 받습니다.
+passive_skill_60002_3<>적이 죽을 때마다 Bloodseeker가 적의 최대 {p(heal_percent)}HP로 회복합니다 (경기 참석 전 적의 최대 HP를 받습니다)
+passive_skill_60002_4<>동맹이 죽을 때마다 Bloodseeker가 {q(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)} 증가합니다
+active_skill_60003_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 우선 순위는 다음과 같습니다. {p(first_chance)}개의 치명타 발생 확률이 {c(first_multi_damage)}배이고, {c(second_multi_damage)}개의 치명타 발생 확률이 {p(second_chance)}개입니다.
+passive_skill_60003_3<>{p(percent_trigger)}HP가 떨어지면 {p(stat_buff_1_amount)} {q(stat_buff_1_type)}, {p(stat_buff_2_amount)} {q(stat_buff_2_type)} 및 {p(stat_buff_3_amount)} {q(stat_buff_3_type)}증가합니다.
+passive_skill_60003_4~heal_chance~0<>혈액이 {p(health_trigger)} 미만일 때 치명적인 타격은 [{p(heal_amount_by_damage)}개 그 타격의 치명적 상처]만큼 HP의 양을 회수합니다.
+passive_skill_60003_4~heal_chance~1<>블러드가 {p(health_trigger)}이하일 경우 치명적인 공격이 [해당 공격의 {p(heal_amount_by_damage)}살상]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다
+active_skill_60004_1~effect_chance~0<>{q(damage_target_position)}에 [{p(damage)}의 공격]을 가하여 {c(effect_duration)}회 동안 적군에게 {q(effect_type)}를 가하십시오. 모든 아군은 표식이 만료될 때까지 표식된 적에게 집중합니다. {q(effect_type)}은(는) 제거할 수 없는 효과입니다.
+active_skill_60004_1~effect_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상하고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 {q(effect_type)}발생시킬 {p(effect_chance)}확률이 있습니다. 모든 아군은 표식이 만료될 때까지 표식된 적에게 집중합니다. {q(effect_type)}은(는) 제거할 수 없는 효과입니다.
+passive_skill_60004_2~effect_chance~0<>기본 공격은 {q(damage_target_position)}을 공격하고 {c(effect_duration)}개 라운드에서 {q(effect_type)}발생시킵니다.  {q(effect_type)}발생하는 적에게 공격할 때 [자기의 {p(effect_amount)}공격]만큼 HP량을 회복해 줍니다
+passive_skill_60004_2~effect_chance~1<>기본 공격은 {q(damage_target_position)}을 공격하고 {c(effect_duration)}개 라운드에서 {q(effect_type)}발생시킬 {p(effect_chance)}확률이 있습니다.  {q(effect_type)}발생하는 적에게 공격할 때 [자기의 {p(effect_amount)}공격]만큼 HP량을 회복해 줍니다
+passive_skill_60004_3<>어둠에 찔린 적군으로부터 {p(reduce_damage_dark_mark)}의 교역을 축소합니다.
+passive_skill_60004_4~effect_chance~0<>이 영웅은 마법의 기운을 가지고 있습니다. 이 영웅이 패배하지 않을 때까지 아군이 기본 공격과 액티브 스킬의 공격을 받았을 때 받은 피해의 {p(effect_amount)}를 공격자에게 반영합니다. 피해만 반사됩니다.
+passive_skill_60004_4~effect_chance~1<>이 영웅은 마법의 기운을 가지고 있습니다. 이 영웅이 패배하지 않을 때까지 아군이 기본 공격과 액티브 스킬의 공격을 받았을 때 {p(effect_chance)} 확률로 공격자에게 받은 피해의 {p(effect_amount)}를 반사합니다. 피해만 반사됩니다.
+active_skill_60005_1~effect_chance~0<>{q(damage_target_position)}에 [{p(damage)} of ATK]의 피해를 입히고 {c(effect_duration)} 라운드 동안 {q(effect_type)}으로 대상을 표시합니다. 타겟의 현재 HP가 {p(hp_trigger_crit_rate)}보다 높으면 해당 공격이 치명적인 공격이 됩니다.모든 아군은 표식이 만료될 때까지 표식된 적에게 집중합니다. 공격받은 적이 {p(max_hp_to_kill)} HP 미만이면 즉시 처형됩니다(보스에게는 처형이 적용되지 않음).
+active_skill_60005_1~effect_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 라운드 종료 때까지 타겟을 {q(effect_type)}로 마킹할 {c(effect_duration)}확률이 있습니다. 타겟의 현재 HP가 {p(hp_trigger_crit_rate)}보다 높으면 해당 공격이 치명적인 공격이 됩니다.동맹의 모든 기본 공격은 마크가 만료될 때까지 마킹된 적에게 집중할 것입니다. 공격받은 적이 {p(max_hp_to_kill)} HP 미만이면 즉시 처형됩니다(보스에게는 처형이 적용되지 않음).
+passive_skill_60005_3~stat_debuff_chance~0<>기본 공격 Scathatch가 {q(damage_target_position)}을 공격하고 일격을 당한 적에게 {q(stat_debuff_amount)} {q(stat_debuff_type)} 감소하는 효과를 줍니다 (최대 {c(stat_debuff_duration)}개 라운드에서 {p(stat_debuff_max)} {p(stat_debuff_max)} 감소합니다) . 해당 효과는 다른 Scathatch 캐릭터 간에 누적될 수 있습니다). 또한 공격받은 적은 {c(effect_duration)} 라운드 동안 {q(effect_type)}됩니다.
+passive_skill_60005_3~stat_debuff_chance~1<>기본 공격 Scathatch가 {q(damage_target_position)}을 공격하고 일격을 당한 적에게 {q(stat_debuff_amount)} {q(stat_debuff_type)} 감소하는 효과를 줄 {q(effect_type)}확률이 있습니다 (최대 {c(stat_debuff_duration)}개 라운드에서 {p(stat_debuff_max)} {p(stat_debuff_max)} 감소합니다) . 해당 효과는 다른 Scathatch 캐릭터 간에 누적될 수 있습니다)
+passive_60005_4<>기본 공격은 {c(bonus_basic_attack_number_1)}회 공격할 {p(bonus_basic_attack_chance_1)}확률이 있고 {c(bonus_basic_attack_number_2)}회 공격할 {p(bonus_basic_attack_chance_2)}확률이 있고 {c(bonus_basic_attack_number_3)}회 공격할 {p(bonus_basic_attack_chance_3)}확률이 있고 {c(bonus_basic_attack_number_4)}회 공격할 {p(bonus_basic_attack_chance_4)}확률이 있습니다
+active_skill_60006_1~stat_debuff_chance~0<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 유발하여 {c(stat_debuff_duration)}회 동안 적군의 {p(stat_debuff_amount_1)} {q(stat_debuff_type_1)}, {q(stat_debuff_amount_2)} {q(stat_debuff_type_2)} 및 {q(stat_debuff_amount_3_1)} {q(stat_debuff_type_3)}을 감소시킵니다.
+active_skill_60006_1~stat_debuff_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {c(stat_debuff_duration)}개 라운드에서 일격을 당한 적의 {p(stat_debuff_amount_1)} {q(stat_debuff_type_1)}, {q(stat_debuff_amount_2)} {q(stat_debuff_type_2)} 및 {q(stat_debuff_amount_3_1)} {q(stat_debuff_type_3)} 감소할 {p(stat_debuff_chance)}확률이 있습니다
+passive_skill_60006_3<>기본 공격과 액티브 스킬은 {c(effect_duration)} 라운드 동안 대상에게 {q(effect_type)} 효과를 적용합니다. {q(effect_type)} 효과는 매 라운드 대상에게 [{p(effect_amount)} of ATK]의 피해를 줍니다. 또한 기본 공격은 {c(silence_duration)}라운드 동안 침묵 효과도 적용합니다.
+passive_skill_60006_4<>기본 공격은 {q(attack_target_position)}에 적중하고 {q(steal_stat_type)}의 {p(steal_stat_value)}를 훔친 다음 자신과 {q(buff_ally_position)}에게 이전합니다.\n특수 효과:\n그녀가 죽으면 {q(transfer_stat_type_1)} 및 {q(transfer_stat_type_2)} 중 {p(transfer_stat_percent)}가 {q(buff_ally_position)}에게 보내집니다. 이 효과는 경기당 한 번만 발동됩니다.
+active_skill_60007_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. {q(heal_target_position)}의 HP를  [{p(heal_percent)} 공격]만큼 회복합니다.
+passive_skill_60007_2<>펀치는 보통 적에게 타격을 입히며 {c(effect_duration)} 차례에 걸쳐 저주받은 흔적을 남깁니다. (초과할 수 없는 저주받은 자국)
+passive_skill_60007_3<>동맹이 질명 마킹된 적을 공격하면 [Evil Proffesor의 {p(heal_amount)}공격]만큼 HP량을 회복해 줍니다. Evil Proffesor가 많이 있을 경우 값이 가장 높은 액티브 스킬로 합니다.
+passive_skill_60007_4<>질병 마킹된 적은 자기를 공격할 때 즉시 {c(buff_duration)}개 라운드에서 {q(target_position_2)} {p(buff_amount)} {q(buff_stat)} 증가합니다
+passive_skill_60008_2~effect_chance~0<>타격은 흔히 상대편의 유익한 효과를 물리치고, 자신에게 되돌아오는 [{p(heal_percent_with_damage)}의 부상을 야기하는] 양의 HP를 변형시킵니다.
+passive_skill_60008_2~effect_chance~1<>액티브 스킬과 기본 공격은 일격을 당한 적의 유리한 효과를 제거하고 자기를 위한 [주는 {p(heal_percent_with_damage)}살상]만큼 HP량을 회복할 {p(effect_chance)}확률이 있습니다
+passive_skill_60008_4~trigger_chance~0<>블러드가 {p(health_trigger)}이하일 경우 자기를 위한 {p(heal_amount)}회복해 주고 {c(stat_buff_duration)}개 라운드에서 자기의 {q(stat_buff_type)}를 {p(stat_buff_amount)}으로 증가합니다 (경기마다 1회만 효과 발생)
+passive_skill_60008_4~trigger_chance~1<>블러드가 {p(health_trigger)}이하일 경우 자기를 위한 {p(heal_amount)}회복해 주고 {c(stat_buff_duration)}개 라운드에서 자기의 {q(stat_buff_type)}를 {p(stat_buff_amount)}으로 증가할 {p(trigger_chance)}확률이 있습니다 (경기마다 1회만 효과 발생)
+active_skill_60009_1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하여, 적의 병적을 우선시하고, [{p(damage_bonus_amount)} 공격] 상해를 당한 적에게 증가시킵니다.
+passive_skill_60009_3<>기본 공격은 {q(target_position)}공격하고 {c(mark_duration)}개 라운드에서 타겟을 질병 마크로 마킹합니다. 마킹된 타겟은 모든 자원에서 {p(damage_receive_debuff_amount)} 데미지를 추가 받습니다
+passive_skill_60009_4<>질병 마킹된 적은 죽을 때 {q(target_position)}에게 [{p(damage_multiplier)}공격]살상합니다 (경기마다 1회만 효과 발생)
+active_skill_60010_1~debuff_chance~0<>{q(damage_target_position)}에 대한 [{p(damage)} 공격] 상해를 유발하여 {q(stat_debuff_type)} {p(stat_debuff_amount)}을 줄이고 {c(debuff_duration)}차에서 {q(effect_type)}개 효과(이익있는 효과를 더 이상 받을 수 없음) 효과를 발생시킵니다.
+active_skill_60010_1~debuff_chance~1<>{q(damage_target_position)}에 대한 [{p(damage)} 공격] 상해를 유발하면 {c(debuff_duration)}차에서 적군의 {q(stat_debuff_type)} {p(stat_debuff_amount)} 감소 및 {q(effect_type)} 효과(이익있는 효과 해결, 추가 이로운 효과는 받을 수 없음)가 발생할 가능성이 {p(debuff_chance)}회차입니다.
+passive_skill_60010_2~effect_chance~0<>아군으로부터 유익한 효과를 받으면 {q(target_position)}에 {q(effect_type)}(소환사 포함되지 않음), {c(debuff_duration)} 라운드 동안 지속 {q(effect_type)} . Diadora의 활성 스킬에서 {q(effect_type)}을 잡은 적은이 스킬에서 {q(effect_type)}을 (를) 얻을 수 있습니다. 
+passive_skill_60010_2~effect_chance~1<>아군으로부터 유익한 효과를 받으면 Diadora는 {p(effect_chance)} 확률로 {q(target_position)}에 {q(effect_type)}을, {q(effect_type)}는 {c(debuff_duration)} 라운드 동안 지속됩니다. Diadora의 활성 스킬에서 {q(effect_type)}을 잡은 적은이 스킬에서 {q(effect_type)}을 (를) 얻을 수 있습니다. 
+passive_skill_60010_3~effect_chance~0<>기본 공격은 {q(effect_trigger)}마킹된 타겟을 공격하면 라운드마다 [{p(effect_amount)}공격]살상 {q(effect_type)}효과를 주고 {c(effect_duration)}개 라운드를 유지합니다
+passive_skill_60010_3~effect_chance~1<>기본 공격은 {q(effect_trigger)}마킹된 타겟을 공격하면 라운드마다 [{p(effect_amount)}공격]살상 {q(effect_type)}효과를 줄 {p(effect_chance)}확률이 있고 {c(effect_duration)}개 라운드를 유지합니다
+passive_skill_60010_4~stat_buff_chance~0<>사망 시 {q(effect_target_position)}에 {q(effect_type)}을 생성하고 {c(duration)}회 중 {q(stat_buff_target_position)}에 대해 {p(stat_buff_amount)} {q(stat_buff_type)}을 증가시키십시오.
+passive_skill_60010_4~stat_buff_chance~1<>죽을 때 {q(effect_target_position)}에게 {q(effect_type)}효과를 주고 {c(duration)}개 라운드에서 {q(stat_buff_target_position)}에게 {p(stat_buff_amount)} {q(stat_buff_type)}증가할 {p(stat_buff_chance)}확률이 있습니다
+passive_skill_60011_3<>타격은 보통 {q(damage_target_position)}에 대한 공격으로 전환되며, 목표의 수비가 자체 방어보다 높으면 {p(bonus_damage)}의 추가 살상을 유발합니다.
+passive_skill_60011_4<>동일한 적에게 기본 공격을 할 때마다 타겟의 {p(stat_debuff_amount)} {q(stat_debuff_type)} 감소합니다
+active_skill_60012_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 일격을 당한 적이 {q(effect_trigger_class)}이면 [{p(bonus_damage_with_class)}공격]살상을 추가 주고 {c(effect_duration)}개 라운드에서 {q(effect_type)}할 {p(effect_chance)}확률이 있습니다
+passive_60012_3<>치명적인 공격은 라운드마다 [{p(effect_dot_amount)}공격]살상 {q(effect_dot_type)}효과를 주고 {c(effect_dot_duration)}개 라운드를 유지합니다
+active_skill_60013_1<>{q(damage_target_position)}에 [{p(damage)} 공격]의 부상을 입히고, 자신에게 전달된 타격에 맞는 적군의 현재 {p(steal_stat_amount)} {q(steal_stat_type)}을 훔칩니다.
+passive_skill_60013_4<>동맹이 죽을 때마다 자신에게 {p(stat_buff_amount)} {q(stat_buff_type)}을 증액하십시오.
+active_skill_60014_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {c(bond_duration)}개 라운드에서 연결하고 연결된 적이 공격을 받을 때 살상을 동일하게 나눕니다.
+passive_skill_60015_3~effect_dot_chance~0<>기본 공격은 {q(damage_target_position)}을 공격하는 것으로 변경하고 라운드마다 [{p(effect_dot_amount)}공격]살상 {q(effect_dot_type)}효과를 주고 {c(effect_dot_duration)}개 라운드를 유지합니다
+passive_skill_60015_3~effect_dot_chance~1<>기본 공격은 {q(damage_target_position)}을 공격하는 것으로 변경하고 라운드마다 [{p(effect_dot_amount)}공격]살상 {q(effect_dot_type)}효과를 줄 {p(effect_dot_chance)}확률이 있고 {c(effect_dot_duration)}개 라운드를 유지합니다
+active_skill_60016_1<>[{p(damage)} 공격]을 {q(damage_target_position)}까지 상해를 유발하고 {c(effect_duration)}회 동안 {p(bonus_1)} {q(stat_1)}을 증가시키십시오.
+active_skill_60021_1~silent_chance~0<>상대가 시스템 {q(affected_hero_class)}에 속할 경우 {q(damage_target_position)}에 [{p(damage)} 공격] 부상을 입히고 {c(silent_duration)}회 동안 상대에게 침묵 효과를 부여하십시오.
+active_skill_60021_1~silent_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 적이 {q(affected_hero_class)}클래스가 이면 {c(silent_duration)}개 라운드에서 적에게 조용하게 하는 효과를 줄 {p(silent_chance)}확률이 있습니다
+passive_skill_60021_2~extra_turn_chance_per_crit~0<>기본 공격은 치명적인 공격이면 [{p(damage_per_extra_turn)}공격]살상을 추가하고 최대 라운드마다 {c(extra_turn_limit)}회 진행합니다
+passive_skill_60021_2~extra_turn_chance_per_crit~1<>기본 공격을 한 후 해당 공격이 치명적인 공격이면 영웅이 [{p(damage_per_extra_turn)}공격]살상으로 다음 기본 공격할 기회가 있고 최대 {c(extra_turn_limit)}라운드입니다.
+passive_skill_60022_4~effect_chance~0<>기본 공격은 라운드마다 {q(effect_type)} {p(effect_amount)} 살상하고 {c(effect_duration)}개 라운드를 유지합니다
+passive_skill_60022_4~effect_chance~1<>기본 공격이나 영웅 스킬이 {c(effect_duration)}개 라운드에서 타겟을 보기 위한 {q(effect_type)}효과를 적용할 {c(effect_duration)}기회가 있습니다. {q(effect_type)}효과는 라운드마다 타겟에게 [{p(effect_amount)}공격]살상합니다
+passive_skill_60024_2~heal_chance~0<>상해를 입을 때마다 [{p(heal_amount)} 부담 상계]만큼 자신에게 HP를 회수합니다.
+passive_skill_60024_2~heal_chance~1<>살상을 받을 때마다 자기를 위한 [받은 {p(heal_amount)}살상]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다
+passive_skill_60025_2<>자신이 수행하는 회생 효과에 대해 [{p(heal_bonus)} 공격]만큼 HP의 양을 늘립니다
+passive_skill_60026_4<>독효과로 받은 살상 {p(poison_damage_reduction)} 감소합니다
+active_skill_damage<>{q(damage_target_position)}에게 [{p(damage)}공격] 살상합니다
+passive_skill_30001_2<>적 한 명을 성공적으로 죽일 때마다 경기 동안 {q(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)} 증가합니다
+passive_skill_10008_4<>Mammusk가 적을 죽일 때마다 자기를 위한 {q(bonus_1)} {q(stat_1)} 증가합니다.
+active_skill_effect_buff_heal~heal_duration~0<>{q(target_position)}에게 [{p(damage)}공격]살상하고 {q(heal_target_position)}에게 [{p(heal_percent)} 공격]만큼 HP량을 치료해 줍니다.
+active_skill_30021_1<>{q(target_position)}에 [{p(damage)} 공격] 상해를 유발하고 {q(heal_target_position)}회당 최대 {p(heal_percent)}HP를 회수하여 {c(heal_duration)}회 유지하십시오.
+passive_skill_30004_3_40011_2_40019_4<>기본 공격이나 스킬한 공격을 받을 시 {c(effect_duration)}개 라운드에서 {q(effect_type)}할 {p(effect_chance)} 확휼이 있습니다
+passive_skill_20011_3~stat_buff_chance~0<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가합니다
+passive_skill_20011_3~stat_buff_chance~1<>기본 공격은 {c(stat_buff_duration)}개 라운드에서 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)} 증가할 {p(stat_buff_chance)} 확률이 있습니다
+passive_skill_30022_4<>기본 공격은 {q(target_position)}에게 [{p(damage)}공격] 살상합니다.
+active_skill_20008_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입히고 {c(stat_debuff_duration)}타수 동안 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}개 감소 효과를 발생시킵니다.
+active_skill_30024_1_50013_1~stat_debuff_chance~0<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}이 {c(stat_debuff_duration)}타수 감소 효과를 냈습니다.
+active_skill_30024_1_50013_1~stat_debuff_chance~1<>{q(damage_target_position)}에게 [{p(damage)} 공격] 살상하고 {c(stat_debuff_duration)}개 라운드에서 일격을 당한 적의 {p(stat_debuff_amount)} {q(stat_debuff_type)}을 감소하는 머는 효과를 발생할 {p(stat_debuff_chance)}확률이 있습니다.
+passive_skill_10010_4<>블러드가 {p(health_trigger)}이하일 경우 자기를 위한 {p(stat_buff_amount)} {q(stat_buff_type)}를 증가하고 {c(stat_buff_duration)}개 라운드를 유지합니다. 해당 효과는 해제, 축복 마크 또는 저주 마크로 제거될 수 없습니다.
+active_skill_30027_1<>{q(damage_target_position)}에 [{p(damage)} 공격] 상해를 입힙니다. 적군의 {p(stat_debuff_amount)} {q(stat_debuff_type)}이 {c(stat_debuff_duration)}타수 감소 효과를 냈습니다. 이 영웅은 또한 피해를 입은 {p(heal_amount_by_damage)}만큼 HP를 회복합니다.
+passive_skill_30027_2<>기본 공격과 액티브 스킬은 크리티컬이 될 수 없습니다. 그러나 각 {p(exchange_percent)} {q(exchange_stat)}(기본 통계 및 추가된 다른 모든 통계에서)는 {p(target_percent)} {q(target_stat)}으로 변환됩니다. 이 변환의 최대 금액은 {p(max_exchange)}입니다. 또한 기본 공격과 액티브 스킬은 적중당한 적의 에너지를 {c(deduct_power_amount)} 감소시킵니다.
+passive_skill_30027_3<>이 영웅의 생존한 아군 1명당 {p(bonus_stat_type_1)}이 {q(stat_1_buff_type_1)}, {p(stat_debuff_amount)}이 {q(stat_debuff_type)} 증가합니다.
+passive_skill_30027_4<>이 영웅이 처음 HP가 {c(trigger_hp)} 떨어지면 이 영웅은 투명화됩니다. {c(trigger_round)} 라운드 후 이 영웅은 시작의 {p(new_attack_percent)}와 동일한 ATK 제한으로 깨어납니다. 갑옷의 한계는 시작의 {p(new_defense_percent)}과 같고 HP의 한계는 시작의 {p(new_hp_percent)}와 같습니다.
+passive_skill_60003_2~chance~0<>기본 공격과 액티브 스킬은 {p(effect_chance)} 확률로 {c(effect_duration)} 라운드 동안 [{p(effect_amount)} ATK]와 동일한 {q(effect_type)}을 적용합니다.
+passive_skill_60003_2~chance~1<>기본 공격과 액티브 스킬은 {p(effect_chance)} 확률로 {c(effect_duration)} 라운드 동안 [{p(effect_amount)} ATK]와 동일한 {q(effect_type)}을 적용합니다.
+active_skill_40027_1<>그녀는 {c(transform_duration)}라운드 동안 용의 형태로 변신합니다. 침묵 효과를 받아도 변신이 일어난다. 변신 순간에 그녀는 3가지 효과를 적용합니다.\n1. {q(stun_target_position)}에게 [{p(skill_damage)} ATK]만큼 피해를 입힙니다.\n2. {c(stun_duration)} 라운드 동안 {q(stun_target_position)}에 {q(stun_effect_type)} 효과를 적용합니다.\n3. {q(enemy_bond_target_position)}과(와) 영적 유대감을 형성합니다. 결속이 남아 있으면 그녀가 입은 피해의 {p(bond_damage_percent)}가 결속을 맺은 적에게 이전됩니다.
+passive_skill_40027_2<>Dragon Tribe의 공주로서 그녀는 특별한 능력을 가진 인간 형태와 용 형태의 두 가지 형태를 가지고 있습니다.\n인간 형태: 그녀는 단일 대상을 명중하고 {c(human_stat_debuff_duration)}라운드 동안 대상의 {p(human_stat_debuff_amount)} {q(human_stat_debuff_type)}를 감소시킵니다. 최대 디버프는 {p(human_stat_debuff_max)}입니다.\n드래곤 형태: 그녀는 {q(dragon_target_position)}를 치고 모든 히트는 치명타입니다. 그녀의 {q(stat_1)}는 {p(bonus_1)}만큼 증가하고 공격할 때 입힌 피해의 {p(dragon_heal_percent)}만큼 자신을 치유합니다.
+passive_skill_40027_3<>그녀는 자신을 공격하거나 자신의 공격을 받는 적에게 {q(effect_type)} 효과를 적용합니다. {q(effect_type)} 효과는 [{p(effect_amount)} ATK]의 피해를 입히고 {c(effect_duration)} 라운드 동안 지속됩니다.
+passive_skill_40027_4<>인간 형태와 용 형태로 전환할 때 제거 가능한 모든 디버프를 해제하고 용의 축복을 받습니다. 드래곤의 축복은 변신 라운드에서 {c(trigger_hp)} HP에 도달하면 그녀의 {p(new_hp_percent)} HP를 치유합니다.
+passive_skill_40004_3<>기본 공격은 이제 {q(damage_target_position)}에게 [{p(damage_attack)} of ATK]의 피해를 입힙니다. {q(stat_1)}을(를) {p(bonus_1)} 늘립니다. {q(stat_2)}을(를) {p(bonus_2)} 늘립니다. 추가로 기본 공격은 [{p(heal_percent)} of ATK]를 곱한 적의 수만큼 자신을 회복합니다.

@@ -1,0 +1,4 @@
+name,stat_debuff_type,stat_debuff_amount,stat_debuff_calculation,stat_debuff_duration
+EarthMaster_Passive3,4,15,4,3
+EarthMaster_Passive3,4,20,4,3
+EarthMaster_Passive3,4,25,4,3

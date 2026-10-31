@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Fioneth_Active,1.5,21,4,1,1,10,2,0.15
+Fioneth_Active,1.7,21,4,1,1,10,2,0.15
+Fioneth_Active,1.9,21,4,1,1,10,2,0.15

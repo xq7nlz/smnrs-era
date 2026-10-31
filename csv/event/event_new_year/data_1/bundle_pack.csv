@@ -1,0 +1,12 @@
+id,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free,view_type
+1,com.fansipan.summoners.era.new_year_2022_bundle_pack_01,com.fansipan.summoners.era.new_year_2022_bundle_pack_01,2,1,20,,1,0.99,TRUE,
+,,,2,141,1,,,,,
+,,,2,230,8,,,,,
+2,com.fansipan.summoners.era.new_year_2022_bundle_pack_02,com.fansipan.summoners.era.new_year_2022_bundle_pack_02,2,1,60,,1,0.99,FALSE,
+,,,2,141,3,,,,,
+,,,2,2,50,,,,,
+,,,2,230,30,,,,,
+3,com.fansipan.summoners.era.new_year_2022_bundle_pack_03,com.fansipan.summoners.era.new_year_2022_bundle_pack_03,2,1,260,,1,4.99,FALSE,
+,,,17,203,12,,,,,
+,,,2,2,250,,,,,
+,,,2,230,100,,,,,

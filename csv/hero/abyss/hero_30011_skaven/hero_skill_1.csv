@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_amount,effect_type,effect_duration
+Skaven_Active,0.9,10,5,0.05,10,2
+Skaven_Active,1.05,10,5,0.075,10,2
+Skaven_Active,1.2,10,5,0.1,10,2

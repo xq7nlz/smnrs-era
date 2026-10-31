@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>VIPリワード\n
+vip_reward_content<>おめでとう！ VIP {1}に到達したことに対する報酬を受け取りました。
+friend_boss_last_hit_reward_subject<>フレンドボス報酬
+friend_boss_last_hit_reward_content<>おめでとう！フレンドボスの最後のヒット報酬があります。
+friend_boss_cleared_reward_subject<>フレンドボス報酬
+friend_boss_cleared_reward_content<>おめでとう！フレンドボスを倒すと報酬がもらえます。
+friend_season_ranking_reward_subject<>フレンドシーズンランキング
+friend_season_ranking_reward_content<>おめでとう！ランキングフレンドシーズン{1}の報酬を獲得しました。
+arena_season_ranking_reward_subject<>アリーナシーズンランキング
+arena_season_ranking_reward_content<>おめでとう！アリーナシーズンの{1}ランキング報酬を獲得しました。
+arena_team_season_ranking_reward_subject<>アリーナシーズンランキング
+arena_team_season_ranking_reward_content<>おめでとう！アリーナシーズンの{1}ランキング報酬を獲得しました。
+guild_boss_daily_reward_subject<>ギルドボスの毎日の報酬
+guild_boss_daily_reward_content<>おめでとう！あなたは毎日のギルドボスに参加するための報酬を持っています。
+guild_boss_monthly_reward_subject<>月刊ギルドボス報酬
+guild_boss_monthly_reward_content<>おめでとう！あなたはギルドボスで毎月の報酬を持っています。
+guild_dungeon_cleared_reward_subject<>ギルドダンジョン報酬
+guild_dungeon_cleared_reward_content<>おめでとう！ギルドダンジョンのステージ{1}のシーズン{2}を完了すると報酬を受け取りました
+guild_dungeon_season_reward_subject<>ギルドダンジョンシーズン報酬
+guild_dungeon_season_reward_content<>おめでとう！ギルドダンジョンでシーズン{1}を完了すると報酬を受け取りました。
+guild_war_battle_reward_subject<>ギルド戦争バトル報酬
+guild_war_battle_reward_content<>おめでとう！ギルド戦争でシーズン{1}の戦闘{2}を完了すると報酬を受け取ります。
+guild_war_season_reward_subject<>ギルド戦争シーズン報酬
+guild_war_season_reward_content<>おめでとう！ギルド戦争でシーズン{1}を完了すると報酬を受け取りました。
+purchase_raw_pack_subject<>生パック報酬
+purchase_raw_pack_content<>「おめでとうございます。パック{1}を購入すると、特典を受け取りました。\nトランザクションID：{2}\nトランザクション時間：{3} 
+purchase_subscription_pack_instant_subject<>サブスクリプションパック報酬
+purchase_subscription_pack_instant_content<>「おめでとうございます。サブスクリプションパック{1}を購入すると、特典を受け取りました。トランザクションID：{2}\nトランザクション時間：{3} 
+purchase_subscription_pack_daily_subject<>サブスクリプションパックの毎日の報酬
+purchase_subscription_pack_daily_content<>「おめでとうございます。サブスクリプションパック{1}から毎日特典を受け取りました。{2}日目
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>限定パック特典
+purchase_limited_pack_content<>「おめでとうございます。制限パック{1}を購入したことに対して報酬を受け取りました。\nトランザクションID：{2}\nトランザクション時間：{3} 
+purchase_event_bundle_pack_subject<>イベントバンドルパック
+purchase_event_bundle_pack_content<>「おめでとうございます。イベントバンドルパック{1}を購入して報酬を受け取りました。\nトランザクションID：{2}\nトランザクション時間：{3}
+purchase_event_hot_deal_subject<>イベントバンドルパック
+purchase_event_hot_deal_content<>「おめでとうございます。イベントバンドルパック{1}を購入して報酬を受け取りました。\nトランザクションID：{2}\nトランザクション時間：{3} 
+purchase_subscription_pack_trial_subject<>サブスクリプションパックの毎日の試用特典\n
+purchase_subscription_pack_trial_content<>「おめでとうございます。トライアルサブスクリプションパック{1}から毎日特典を受け取りました。\n{2}日目
+purchase_first_time_reward_subject<>初回パック特典
+purchase_first_time_reward_content<>おめでとう！ゲーム内での初回購入に対して初回特典を受け取りました
+event_arena_subject<>アリーナイベント
+event_arena_content<>おめでとう！アリーナイベントでシーズン{1}の報酬を受け取りました。
+event_casino_subject<>運命の輪 (イベント)
+event_casino_content<>おめでとう！ 運命の輪イベントでシーズン{1}の報酬を受け取りました。
+event_hero_collect_subject<>ヒーロー収集イベント
+event_hero_collect_content<>おめでとう！ヒーロー収集イベントでシーズン{1}の報酬を受け取りました。
+event_prophet_tree_subject<>古代の木のイベント
+event_prophet_tree_content<>おめでとう！ 古代の木イベントでシーズン{1}の報酬を受け取りました。
+event_summon_subject<>イベント召喚
+event_summon_content<>おめでとう！召喚イベントでシーズン{1}の報酬を受け取りました。
+event_tavern_subject<>居酒屋イベント
+event_tavern_content<>おめでとう！ 居酒屋イベントでシーズン{1}の報酬を受け取りました。
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>サモナー時代のメールパスワードを変更する
+email_change_password_content<>ユーザー名：{2}。パスワードリセットコード{1}、期限切れ：{3}
+email_validation_subject<>サモナー時代の検証メール
+email_validation_content<>検証コード{1}、期限切れ：{3}
+email_sender_name<>Zitgaサポート
+welcome_mail_title<>サモナー時代へようこそ！
+welcome_mail_content<>親愛なるサモナー、\n\nサモナー時代をプレイしていただきありがとうございます。 それを楽しんでいる間に素晴らしい瞬間があることを願っています。\n\n今後の冒険を応援するためのささやかな贈り物を差し上げます。\n\nあなたがサモナー時代の重要な一員となり、将来さらに良いものになることを願っています。\n\nありがとうございました！\nサモナーズ時代チーム。
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>ブラックフライデーカードの報酬
+event_black_friday_content<>おめでとう！ ブラックフライデーカード{1}から毎日の報酬を受け取りました。\n日：{2}\n
+event_new_year_subject<>祝福カードの報酬
+event_new_year_content<>おめでとう！ あなたはブレッシングカードから毎日の報酬を受け取りました。
+event_lunar_new_year_clear_boss_reward_subject<>旧正月は悪魔の報酬を追放する
+event_lunar_new_year_clear_boss_reward_content<>おめでとうございます！除名悪魔活動からこれらの報酬を受け取りました。
+event_new_hero_summon_subject<>伝説の召喚 報酬 
+event_new_hero_summon_content<>おめでとうございます！ 伝説の召喚 アクティビティからこれらの報酬を受け取りました 
+maintenance_inform_title<>サーバーメンテナンスの発表 
+maintenance_inform_title_content<>親愛なるサモナー、\n評議会は、サーバーが{1}でメンテナンス中になることを発表したいと思います。 この間、ログインできなくなります。\nメンテナンス期間中はゲームをプレイできませんのでご注意ください。
+maintence_reward_title<>メンテナンス完了 
+maintence_reward_content<>親愛なるサモナー、\nメンテナンスが完了しました。 私たちは、メンテナンス時間の間にあなたの忍耐に感謝としてあなたにこのギフトを送りたいです。\n楽しんで征服してください！
+event_easter_card_subject<>バニーカード報酬 
+event_easter_card_content<>おめでとう！ あなたはバニーカードから、毎日の報酬を受け取りました。\n日: %s
+event_easter_egg_hunt_subject<>イースターエッグコレクション報酬 
+event_easter_egg_hunt_content<>これらの報酬は、イベント活動でのパフォーマンスに対して送信されます。 
+event_new_hero_boss_ranking_subject<>トロフィーの名誉報酬
+event_new_hero_boss_ranking_content<>おめでとう！パワーコンテストで上位{1}に到達したことで、これらの報酬を受け取りました。
+domain_challenge_reward_subject<>ドメイン 報酬
+domain_challenge_reward_content<>おめでとう！ステージドメインで{1}を渡すと、これらの報酬を受け取りました。
+event_new_hero_release_subject<>伝説の召喚 報酬 
+event_new_hero_release_content<>おめでとうございます！ 伝説の召喚 アクティビティからこれらの報酬を受け取りました 
+purchase_event_hero_release_subject<>成功したトランザクション
+purchase_event_hero_release_content<>新しいヒーローイベントの時間中にパッケージを購入するためにこれらのアイテムを受け取ります。 いつも応援よろしくお願いします。
+premium_reward_subject<>プレミアムバージョンの報酬
+premium_reward_content<>우리게임의프리미엄버전을구매하기위해이러한항목을받습니다。 항상저희를지원해주셔서감사합니다。
+event_server_open_arena_subject<>土俵トップリーダーボード報酬
+event_server_open_arena_content<>おめでとうございます！ 土俵ランキングレースイベントからこれらの報酬を受け取りました！
+event_server_open_arena_2_subject<>マーシャルアリーナ トップリーダーボード報酬
+event_server_open_arena_2_content<>おめでとうございます！ マーシャルアリーナ ランキングレースイベントからこれらの報酬を受け取りました！
+event_unclaimed_reward<>これがあなたの未請求の報酬です。
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Destiny Warイベントの報酬
+event_birthday_dark_light_content<>おめでとう！ Destiny Warイベントの活動からこれらの報酬を受け取りました。\n - ライトの側：{1}ポイント\n-Dark's Side：{2}ポイント
+event_birthday_summon_subject<>報酬の誕生日イベント
+event_birthday_summon_content<>おめでとう！毎週のミッションに参加するためのこれらの報酬を受け取りました。
+event_birthday_prophet_tree_subject<>報酬の誕生日イベント
+event_birthday_prophet_tree_content<>おめでとう！毎週のミッションに参加するためのこれらの報酬を受け取りました。
+event_birthday_arena_subject<>報酬の誕生日イベント
+event_birthday_arena_content<>おめでとう！毎週のミッションに参加するためのこれらの報酬を受け取りました。
+event_birthday_casino_subject<>報酬の誕生日イベント
+event_birthday_casino_content<>おめでとう！毎週のミッションに参加するためのこれらの報酬を受け取りました。
+event_zodiac_exchange_subject<>干支イベント終了メール
+event_zodiac_exchange_content<>親愛なる召喚者、\n干支イベントは終了しました。 アストラルスターはこれらのリソースに変換されました。 イベントにご参加いただきありがとうございます。ゲームを楽しんでいただければ幸いです。
+purchase_subscription_pack_daily_bonus_subject<>干支イベント終了メール
+purchase_subscription_pack_daily_bonus_content<>干支イベント終了メール
+event_thanks_giving_subject<>干支イベント終了メール
+event_thanks_giving_content<>干支イベント終了メール
+event_christmas_subject<>干支イベント終了メール
+event_christmas_content<>干支イベント終了メール
+event_boss_challenge_ranking_subject<>干支イベント終了メール
+event_boss_challenge_ranking_content<>干支イベント終了メール
+event_valentine_subject<>干支イベント終了メール
+event_valentine_content<>干支イベント終了メール
+event_lunar_new_year_subject<>干支イベント終了メール
+event_lunar_new_year_content<>干支イベント終了メール
+event_summer_day_subject<>干支イベント終了メール
+event_summer_day_content<>干支イベント終了メール
+event_blossom_day_subject<>干支イベント終了メール
+event_blossom_day_content<>干支イベント終了メール
+event_qixi_festival_subject<>干支イベント終了メール
+event_qixi_festival_content<>干支イベント終了メール
+event_may_day_subject<>干支イベント終了メール
+event_may_day_content<>干支イベント終了メール

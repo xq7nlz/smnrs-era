@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,silent_chance,affected_hero_class,silent_duration
+DarkArcher_Active,0.89,10,5,0.2,1,3
+DarkArcher_Active,1.09,10,5,0.3,1,3
+DarkArcher_Active,1.29,10,5,0.4,1,3

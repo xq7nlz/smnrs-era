@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>Ganhe %s pontos VIP para alcançar
+vip_instant<>Alcance este nível VIP para coletar:
+vip_daily<>Recompensas diárias bônus para Cartão de Comandante e Cartão de Profeta:
+vip_point_required<>Pontos VIP necessários
+campaign_bonus_idle_time_max<>Recompensa por tempo máximo inativo: %s
+campaign_bonus_gold<>Bônus de %s em Ouro de Recompensa por Inatividade
+campaign_bonus_magic_potion<>Bónus de %s em EXP do Herói de Recompensa por Inatividade
+campaign_bonus_auto_train_slot<>Espaços de Treinamento: %s
+tavern_bonus_quest<>Missões bônus da Taverna: %s
+raid_bonus_turn_buy<>Tentativas diárias adicionais de compra Aventura: %s
+casino_unlock_multiple_spin<>Desbloquear a funcionalidade de rotação múltipla no Roda da Fortuna
+casino_unlock_premium_spin<>Desbloquear instantaneamente Roda do Destino
+casino_bonus_turn_buy_basic_chip<>Bónus diários de compra Pedra da Fortuna: %s
+battle_unlock_speed_up<>Desbloqueia instantâneamente Avançar Batalha
+battle_unlock_skip<>Desbloqueia instantâneamente Pular Batalha
+hand_of_midas_bonus_gold<>Ouro bônus em Mina de Ouro: %s
+summon_unlock_accumulate<>Desbloqueia instantâneamente Invocação Acumulada
+arena_bonus_ticket_buy<>Compra diária adicional Bilhete de Arena:  %s
+campaign_bonus_quick_battle_buy_turn<>Turnos compráveis de batalha rápida: %s
+current_vip<>Nível VIP atual
+campaign_bonus_exp_summoner<>Bônus %s EXP de Invocador de Campanha
+dungeon_challenge_increased<>Aumente a recompensa do estágio em Masmorra em %s
+allow_skip_ads<>Desbloquear ignorar anúncios
+allow_prophet_tree_use_gem<>Desbloqueie a invocação de Gema em Árvore Anciã
+battle_unlock_skip_arena<>Desbloqueie Pular batalha em Arena
+auto_next_battle<>Desbloquear recurso Auto Next Stage

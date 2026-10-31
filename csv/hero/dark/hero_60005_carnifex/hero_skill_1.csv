@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,hp_trigger_crit_rate,effect_chance,effect_type,effect_duration,max_hp_to_kill
+Carnifex_Active,2.5,30,1,0.7,1,109,2,0.1
+Carnifex_Active,3,30,1,0.55,1,109,3,0.12
+Carnifex_Active,3.5,30,1,0.4,1,109,4,0.15

@@ -1,0 +1,406 @@
+key<>value
+active_skill_effect_debuff_chance~effect_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、及び{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与えます
+active_skill_effect_debuff_chance~effect_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、及び{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります
+active_skill_effect_buff_heal~heal_duration~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、及び各ラウンドで{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻し、{c(heal_duration)}ツのラウンドに維持します
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。当てられる敵手が{q(effect_trigger_class)}クラスであれば、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与えます。
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。当てられる敵手が{q(effect_trigger_class)}クラスであれば、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+active_skill_effect_debuff_chance_amount~dot_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(dot_amount)}攻撃]の{q(dot_type)}ダメージを与え、{c(dot_duration)}ツのラウンドに維持します
+active_skill_effect_debuff_chance_amount~dot_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、及び各ラウンドで[{p(dot_amount)}攻撃]の{q(dot_type)}ダメージを与える{p(dot_chance)}ツのチャンスがあり{c(dot_duration)}ツのラウンドで維持します。
+active_skill_effect_buff_heal_chance~heal_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に対し[{p(heal_percent)} 攻撃]に相当するHP量を取り戻します、{c(heal_duration)}ツのラウンドで維持します
+active_skill_effect_buff_heal_chance~heal_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に対し[{p(heal_percent)} 攻撃]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあり、{c(heal_duration)}ツのラウンドで維持します
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~0<>{c(effect_duration)}ツのラウンドで当てられる敵手に{q(effect_type)}を与える通常の打撃
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~1<>基本攻撃は{q(effect_type)}に影響を与え、{p(effect_chance)}ラウンドをターゲットにします。 {q(effect_type)}効果は各ラウンドを対象として[{c(effect_duration)}の攻撃力]に等しいダメージを与える。
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~0<>当てられる敵手に各ラウンドで[{p(effect_amount)}攻撃]の{q(effect_type)}ダメージを与え、{c(effect_duration)}ツのラウンドで維持される通常の打撃
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~1<>当てられる敵手に各ラウンドで[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}の効果を与える{p(effect_chance)}ツのチャンスがあり、{q(effect_type)}の効果が{c(effect_duration)}ツのラウンドで維持される通常の打撃
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~0<>通常の打撃又はスキルで攻撃された時、攻撃したばかりの敵手に[{p(effect_dot_amount)}攻撃]の{q(effect_dot_type)}ダメージを与え、{c(effect_dot_duration)}ツのラウンドで維持します
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~1<>通常の打撃又はスキルで攻撃された時、攻撃したばかりの敵手に[{p(effect_dot_amount)}攻撃]の{q(effect_dot_type)}ダメージを与える{p(effect_dot_chance)}ツのチャンスがあり、{c(effect_dot_duration)}ツのラウンドで維持します
+passive_skill_effect_buff_2_stat<>{q(bonus_1)}で{q(stat_1)}を上げます。{q(bonus_2)}で{q(stat_2)}を上げます。
+passive_skill_effect_buff_front_back_line<>前列に立つと、{p(buff_amount_front_line)} {q(buff_stat_front_line)}を上げます。後列に立つと、{p(buff_amount_back_line)} {q(buff_stat_back_line)}上げます。
+passive_skill_effect_buff_3_stat<>{q(bonus_1)}で{q(stat_1)}を、{q(bonus_2)}で{q(stat_2)}を、{q(bonus_3)}で{q(stat_3)}を上げます。
+passive_skill_effect_buff_1_stat<>{q(bonus_1)}で{q(stat_1)}を上げます。
+passive_skill_if_hp_reduction<>血量が{p(health_trigger)}未満の場合、自分に{p(stat_buff_amount)} {q(stat_buff_type)}を上げ、{c(stat_buff_duration)}ツのラウンドで維持します。(各試合で一回しか使えません)
+active_skill<>アクティブスキル
+passive_skill<>パッシブスキル
+active_skill_10001_1~stat_debuff_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドでかれらの{p(stat_debuff_amount)} {q(stat_debuff_type)}を下げます。{c(effect_duration)}ツのラウンドで当てられる敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+active_skill_10001_1~stat_debuff_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドでかれらの{p(stat_debuff_amount)}{q(stat_debuff_type)}を下げる{p(stat_debuff_chance)}ツのチャンスがあります。{c(effect_duration)}ツのラウンドで当てられる敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+passive_skill_10001_2<>氷結された敵手に対する打撃に{p(bonus_damage)} {q(effect_type)}を上げます。
+passive_skill_10001_4~reflect_chance~0<>通常の打撃又はスキルで攻撃された時、{p(reflect_damage)}ダメージを返却し、攻撃した敵手に対する{q(effect_type)}の{p(effect_chance)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します。
+passive_skill_10001_4~reflect_chance~1<>通常の打撃又はスキルで攻撃された時、敵手に対する {p(reflect_damage)}ダメージを返却し、{p(reflect_chance)}ツのチャンスがあり。敵手に対する {q(effect_type)}の効果を与える{p(effect_chance)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します。
+active_skill_10002_1~stat_debuff_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで当てられる敵手に{q(stat_debuff_amount)} {q(stat_debuff_type)}を下げます。
+active_skill_10002_1~stat_debuff_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで当てられる敵手に{q(stat_debuff_amount)} {q(stat_debuff_type)}を下げる{p(stat_debuff_chance)}ツのチャンスがあります。
+passive_skill_10002_4<>{p(bonus_1)} で{q(stat_1)}を上げ、通常打撃を{q(target_position)}にダメージを与える
+active_skill_10003_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に[{p(heal_percent)} 攻撃]に相当するHP量を取り戻しますます。
+passive_skill_10003_2<>このヒーローは同盟にHP量を回復した時、{c(effect_1_duration)}ツのラウンドでその同盟に{q(effect_1_type)}を残します
+passive_skill_10003_3~effect_chance~0<>通常の打撃又はスキルで攻撃された時、{q(target_position_2)}に対し[{p(effect_amount)} 攻撃]に相当するHP量を取り戻します、{q(heal_mark_type)}がある同盟に{p(heal_mark_bonus_percent)}追加します
+passive_skill_10003_3~effect_chance~1<>通常の打撃又はスキルで攻撃された時、{q(target_position_2)}に対し[{p(effect_amount)} 攻撃]に相当するHP量を取り戻す{p(effect_chance)}つのチャンスがあり、{q(heal_mark_type)}がある同盟に{p(heal_mark_bonus_percent)} 攻撃に相当するHP量を追加します。
+passive_skill_10004_3<>基本攻撃は{p(effect_chance)}の確率で[ATKの{p(damage_bonus_percent)}]の追加ダメージをターゲットに与える。 また、{c(effect_duration)}ラウンドのターゲットに{q(effect_type)}効果を適用します。
+passive_skill_10004_4<>{p(bonus_1)}で{q(stat_1)}上げ、{q(immune_effect_type)}の効果免疫
+active_skill_10005_1~stat_debuff_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで敵手の{p(stat_debuff_amount)}で{q(stat_debuff_type)}を下げる
+active_skill_10005_1~stat_debuff_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げる{p(stat_debuff_chance)}ツのチャンスがあります
+passive_skill_10005_3~stat_debuff_chance~0<>{q(target_position)}に向けて{q(stat_debuff_amount)} {q(stat_debuff_type)} を下げるの効果を与える通常打撃で、{c(stat_debuff_duration)}ツのラウンドに維持します
+passive_skill_10005_3~stat_debuff_chance~1<>通常の打撃は{q(target_position)}に向けて、{c(stat_debuff_duration)}ツのラウンドで{q(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げる{p(stat_debuff_chance)}ツのチャンスがあります
+passive_skill_10005_4_20004_4~counter_attack_chance~0<>ヒーローは通常の打撃かアクティブスキルを使った時、それはブロック又はカウンター攻撃されない打撃です。通常の打撃又はスキルで攻撃された時、攻撃したばかり敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えます。
+passive_skill_10005_4_20004_4~counter_attack_chance~1<>ヒーローは通常の打撃かアクティブスキルを使った時、それはブロック又はカウンター攻撃されない打撃です。通常の打撃又はスキルで攻撃された時、攻撃したばかり敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えるチャンスが{p(counter_attack_chance)}あります
+active_skill_10006_1~stat_debuff_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{q(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げます
+active_skill_10006_1~stat_debuff_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{q(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げるチャンスが{p(stat_debuff_chance)}あります
+passive_skill_10006_2<>各ラウンドの始まりに、{c(bond_duration)}ラウンドでこのヒーローを{q(target_position_2)}と連結し、{p(damage_share_percent)}同盟のダメージはこのヒーローにシャア―します
+passive_skill_10006_4~trigger_chance~0<>{c(effect_duration)}ツのラウンドで{q(effect_target_position_2)}の血量が{p(hp_limit)}未満になる場合、{c(effect_duration)}ラウンドで{q(effect_target_position_2)}に{q(effect_type)}の効果を適用します各ラウンドの始めに[{p(effect_amount)}攻撃]に相当するHP量を{q(effect_type)}し、{c(trigger_limit)}ツのラウンドでしか使えません。
+passive_skill_10006_4~trigger_chance~1<>HPが{p(hp_limit)}未満にさげる場合、{c(effect_duration)}ツのラウンドに{q(effect_target_position_2)}をセットする{p(trigger_chance)}ツのチャンスがあり、各ラウンドで[{p(effect_amount)}攻撃]に相当するHP量を取り戻し、これは{c(trigger_limit)}回起こる
+passive_skill_10007_2<>この打撃が{q(target_position)}に[{p(damage_percent)}攻撃]のダメージを与えるし、{c(bond_duration)}ツのラウンドに彼らを互いに連結します。連結関係群に属する敵手が一人CCの効果が付けられた又は攻撃された時、ネクト関係群の残り敵手が各人に上記打撃{p(bond_damage_percent)}ダメージを受け、CCの効果が付けられる{p(bond_cc_chance)}ツのチャンスがあります。
+passive_skill_10007_3<>{q(effect_amount)}で連結される敵手{q(effect_affect_to_stat)}を下がります。
+passive_skill_10007_4<>血量が{p(hp_lower)}未満の場合、{c(bond_duration)}ツのラウンドで{q(target_position)}と連結し、{q(target_position)}ツのラウンドしか使えません。連結関係群に属する敵手が一人CCの効果が付けられた又は攻撃された時、ネクト関係群の残り敵手が各人に上記打撃{p(bond_damage_percent)}ダメージを受け、CCの効果が付けられる{p(bond_cc_chance)}ツのチャンスがあります。
+active_skill_10008_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます。
+passive_skill_10008_2<>この打撃が{c(power_gain_value)}のエネルギーを上げ、自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。(累計できます)
+passive_skill_10009_2<>この打撃が{c(number_bouncing)}ツ回まで目標に順番的にダメージを与え、次の目標がその前の目標と比べて{p(damage_bouncing)}ツのダメージを受けます。
+passive_skill_10009_3~heal_chance~0<>通常の打撃又はスキルで攻撃された時、[{p(heal_amount_by_damage)}攻撃]に相当するHP量を取り戻しますます。
+passive_skill_10009_3~heal_chance~1<>通常の打撃又はスキルで攻撃された時、[{p(heal_amount_by_damage)}攻撃]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあります。
+active_skill_10010_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{q(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げます。
+passive_skill_10010_2~stat_buff_chance~0<>通常の打撃又はスキルで攻撃された時、{c(stat_buff_duration)}ツのラウンドで{q(stat_buff_type)}が{p(stat_buff_amount)}で上がります(累計できません)
+passive_skill_10010_2~stat_buff_chance~1<>通常の打撃又はスキルで攻撃された時、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_type)}を上げる{p(stat_buff_chance)}ツのチャンスがります(累計できません)
+active_skill_10011_1~multi_damage_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(multi_damage_value)}で当てられた敵手にダメージを与えます。
+active_skill_10011_1~multi_damage_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(multi_damage_value)}で当てられた敵手にダメージを与えるチャンスが{p(multi_damage_chance)}ある
+passive_skill_10011_2~stat_buff_chance~0<>通常の打撃又はスキルで攻撃された時、ヒーローはダメージを与えて、{q(stat_buff_type)}が{p(stat_buff_amount)}上がります。このの効果は、払拭、祝福、呪印のの効果によって取り除くことはできません
+passive_skill_10011_2~stat_buff_chance~1<>通常の打撃又はスキルで攻撃された時、ヒーローはダメージを与えて、{p(stat_buff_amount)}で{q(stat_buff_type)}を上げるチャンスが{p(stat_buff_chance)}あります。このの効果は、払拭、祝福、呪印のの効果によって取り除くことはできません
+passive_skill_10011_4~extra_turn_chance~0<>クリティカルアタック（基本攻撃またはアクティブスキル）を行った後、このヒーローは追加のターンを行い、前の攻撃によって与えられた{p(damage_of_extra_turn)}のダメージ、各ラウンドで最大{c(extra_turn_limit)}の追加ターンを行います。
+passive_skill_10011_4~extra_turn_chance~1<>通常の打撃後に追加攻撃を行うチャンスが{p(extra_turn_chance)}あります(後打撃が前打撃の{p(damage_of_extra_turn)}と相当します)。各ラウンドで{c(extra_turn_limit)}回以下できます。
+active_skill_10012_1~effect_drowning_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、当てられた敵手に溺死マークを付けます。溺死マークを付けた敵手が付けたラウンドから{c(effect_drowning_duration)}ツのラウンド後に死にます。但し、ボスに対して無効です。
+active_skill_10012_1~effect_drowning_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、当てられた敵手に溺死マークを付ける{p(effect_drowning_chance)}ツのチャンスがあります。溺死マークを付けた敵手が付けたラウンドから{c(effect_drowning_duration)}ツのラウンド後に死にます。但し、ボスに対して無効です。
+passive_skill_10012_2<>{p(stat_per_faction_buff_amount)}で{q(faction_buff)}会派の同盟に対してこのヒーロー{q(stat_per_faction_buff_type)}を上げます。
+passive_skill_10012_3<>試合開始の時に{c(power_stat)}エネルギーを上げます。
+passive_skill_10012_4<>溺死マークは付いた敵手が負けなかったら、払拭、祝福、呪印のの効果によって削除できません。{q(bonus_1)}でこのヒーローの{q(stat_1)}を上げます
+active_skill_10013_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に対し[{p(heal_amount)} 攻撃]に相当するHP量を取り戻します。
+passive_skill_10013_2~effect_chance~0<>通常の打撃が[{p(bonus_basic_attack)}攻撃]のダメージを与えるし、{c(effect_duration)}ツのラウンドで{q(effect_trigger_class)}クラスに属する敵手に{q(effect_type)}を与えます。
+passive_skill_10013_2~effect_chance~1<>通常の打撃が[{p(bonus_basic_attack)}攻撃]のダメージを与えるし、{c(effect_duration)}ツのラウンドで{q(effect_trigger_class)}クラスに属する敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+passive_skill_10013_3<>通常の打撃が{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げます。オーシャンヒーローと累計ができません。
+passive_skill_10013_4<>通常の打撃又はスキルで攻撃された時、クリティカル打撃であれば、このヒーローと{q(heal_target_position)}には[受取った{p(heal_amount_by_damage)}ツダメージ]に相当するHP量を回復します。
+active_skill_10014_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。
+active_skill_10015_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えるし、{q(stat_buff_target_position)}の{q(stat_buff_type)}を{p(stat_buff_amount)}上げます。{c(stat_buff_duration)}ツのラウンドに維持します。
+active_skill_10016_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。当てられた敵手が{q(enemy_class)}であれば、各ラウンドで[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}の効果を与えます。{q(effect_type)}の効果{c(effect_duration)}がツのラウンドで維持します。
+passive_skill_10016_3<>当てられた敵手が{q(enemy_class)}クラスであれば、通常の打撃は[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}の効果を与えます。{q(effect_type)}の効果が{c(effect_duration)}ツのラウンドで維持します
+passive_skill_10016_4~block_chance~0<>通常の打撃又はスキルで攻撃された時、{p(block_amount)}のダメージをブロックします
+passive_skill_10016_4~block_chance~1<>通常の打撃又はスキルで攻撃された時、{p(block_amount)}のダメージをブロックする{p(block_chance)}ツのチャンスがあります。
+passive_skill_10017_4~stat_buff_chance~0<>通常の打撃はを{c(stat_buff_duration)}ツのラウンドで {p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}上げます。(累計できます)
+passive_skill_10017_4~stat_buff_chance~1<>通常の打撃はを{c(stat_buff_duration)}ツのラウンドで {p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}上げるチャンスが{p(stat_buff_chance)}あります。(累計できます)
+passive_skill_10018_4<>通常の打撃がクリティカルになった場合、直ちに自分に[{p(heal_amount)}攻撃]に相当するHP量を取り戻します
+passive_skill_10019_3~stat_debuff_chance~0<>通常の攻撃が{c(stat_debuff_duration)}ラウンドで{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げます
+passive_skill_10019_3~stat_debuff_chance~1<>通常の攻撃が{c(stat_debuff_duration)}ラウンドで{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げるチャンスが{p(stat_debuff_chance)}あります
+active_skill_10021_1_20011_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます。当てられた敵手が{q(bonus_class_hero)}クラスであれば{p(bonus_damage_with_class)}ツのダメージをプラスに与えます
+passive_skill_10022_4<>血量が{p(health_trigger)}未満になった場合、{c(stat_buff_duration)}ツのラウンドで{q(stat_buff_type)}は{q(stat_buff_amount)}上がります。
+active_skill_20001_1~effect_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。{q(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}が下げられ、各ラウンドで[{p(effect_debuff_amount)}攻撃]のダメージを与えられる{q(effect_debuff_type)}の効果が付けられ、{c(effect_duration)}ツのラウンドに維持します。
+active_skill_20001_1~effect_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。{q(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}が下げられ、各ラウンドで[{p(effect_debuff_amount)}攻撃]のダメージを与えられる{q(effect_debuff_type)}の効果が付けられるチャンスが{p(effect_chance)}あり、{c(effect_duration)}ツのラウンドに維持します。
+passive_skill_20001_2<>各ラウンドで敵手に[{p(effect_1_amount)}攻撃]の{q(effect_1_type)}ダメージを与え、{c(effect_1_duration)}ツのラウンドに維持します。
+passive_skill_20001_3<>{p(bonus_1)}で{q(stat_1)}を、{q(bonus_2)}で{q(stat_2)}を上げ、通常の攻撃又はアクティブスキルで攻撃する時、{q(effect_type)}の効果が付けられる敵手に[{p(effect_percent)}攻撃]のダメージをプラスに与えます
+passive_skill_20001_4<>死んだ後、Icarusはファイア卵になります。ファイア卵が{q(bonus_1)}で{q(stat_1)}、{q(bonus_2)}で{q(stat_2)}が上げられます。ファイア卵は攻撃ができません。{c(round_reborn)}ツのラウンド以内にファイア卵が破壊されないと、{c(effect_1_duration)}ツのに変換しますでIcarus、{q(effect_1_type)}と{q(target_position)}が回生されます。(各試合で{c(time_reborn)}回使えます)
+active_skill_20002_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げる{p(stat_debuff_chance)}ツのチャンスがあります。{q(power_buff_target_position)}(このヒーローを含める)に{c(power_buff_amount)}のエネルギーを上げる{p(power_buff_chance)}ツのチャンスがあり、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げる{p(stat_buff_chance)}ツのチャンスがあります。
+passive_skill_20002_2<>基本的な攻撃は、このヒーローと{q(effect_1_target_position_2)}のHPの量を癒します。治癒量は、ターゲットの最大HPの{p(effect_1_amount)}に等しくなります。
+passive_skill_20002_4<>血量が{p(health_trigger)}未満の場合、{q(heal_target_position)}に[{p(heal_amount)}攻撃]に相当するHP量を取り戻し、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(heal_target_position)}の{q(stat_buff_type)}を上げます(各試合で{p(heal_amount)}回しか使えません)
+active_skill_20003_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます。相手の装甲より高いこのヒーローの装甲の場合、{c(effect_duration)}ツのラウンドでその敵手{q(effect_type)}にチャンスが{p(effect_chance)}あります。
+passive_skill_20003_2<>通常の打撃又はスキルで攻撃された時、自分が付けられているCC制圧の効果を全て解除する{p(effect_chance)}ツのチャンスがあります。CC効果をうまく払拭した場合、このヒーローは最大HPの{p(heal_amount)}を回復します。
+passive_skill_20003_3<>通常の打撃が当てられた相手の{q(steal_stat_type)}現在{p(steal_stat_amount)}を取って自分に物にします
+passive_skill_20003_4<>血量が{p(health_trigger)}未満の場合、{p(stat_1_buff_amount)}で{q(stat_1_buff_type)}を、{p(stat_2_buff_amount)}で{q(stat_2_buff_type)}を上げます
+passive_skill_20004_2<>通常の打撃が{q(target_position)}に攻撃し、当てられた相手から{q(steal_stat_type)}の{p(steal_stat_amount)}を取って自分に物にします(このの効果はボスに無効です。バフとデバフの効果は、払拭、祝福、呪印のの効果によって取り除くことはできません
+passive_skill_20005_2<>{p(bonus_1)}で{q(stat_1)}を上げ、自分の[{p(bonus_dot_amount)}燃やし]のダメージを上げます。
+passive_skill_20005_3~dot_chance~0<>通常の打撃が{q(target_position)}に攻撃し、同列の隣の二人の敵手に{p(splash_damage)}ダメージを与えます。各ラウンドで当てられた敵手に[{p(dot_amount)}攻撃]のダメージの{q(effect_dot_type)}の効果を与え、{c(dot_duration)}ツのラウンドで維持します。
+passive_skill_20005_3~dot_chance~1<>通常の打撃が{q(target_position)}に攻撃し、同列の隣の二人の敵手に{p(splash_damage)}ダメージを与えます。各ラウンドで当てられた敵手に[{p(dot_amount)}攻撃]のダメージの{q(effect_dot_type)}の効果を与えるチャンスが{p(dot_chance)}あり、{c(dot_duration)}ツのラウンドで維持します。
+passive_skill_20005_4<>通常の打撃又はスキルによる攻撃の時、[{p(multi_bonus_damage_per_effect)}攻撃]を敵手の{q(effect_check_type)}の効果に付けている効果数に掛けるより多くのダメージを与えます
+active_skill_20006_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、及び{c(effect_duration)}ツのラウンドに当てられた敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。{c(power_receive_amount)}のエネルギーを受けます。
+passive_skill_20006_2~effect_chance~0<>通常の打撃又はスキルで攻撃された時、各ラウンドで攻撃する敵手が{q(effect_type)}に[{p(effect_dot_amount)} 攻撃]のダメージを与えられ、{p(effect_stat_debuff_amount)}で敵手の{q(effect_stat_debuff_type)}を下げ、{c(effect_duration)}ツのラウンドに維持します
+passive_skill_20006_2~effect_chance~1<>通常の打撃又はスキルで攻撃された時、各ラウンドで攻撃する敵手が{q(effect_type)}に[{p(effect_dot_amount)} 攻撃]のダメージを与えられ、{p(effect_stat_debuff_amount)}で敵手の{q(effect_stat_debuff_type)}を下げるチャンスが{p(effect_chance)}あり、{c(effect_duration)}ツのラウンドに維持します
+passive_skill_20006_3<>{c(number_round_to_buff)}ツのラウンドで{p(bonus_1)}で{q(stat_1)}を、{p(bonus_2)}で{q(stat_2)}、を{p(bonus_3)}で{q(stat_3)}を上げます。
+passive_skill_20006_4<>{p(resistance_dot_damage)}で経時的なダメージから受けるダメージを減らします。やけどマークは払拭、祝福、呪印の効果によって削除できません。{p(bonus_1)}で{q(stat_1)}を上げます。
+active_skill_20007_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻し、{c(buff_duration)}ツのラウンドで自分に{p(buff_amount)}で{q(buff_stat)}を上げます。
+passive_skill_20007_2<>通常の打撃が{q(basic_attack_target_position)}に与え、及び{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+passive_skill_20007_4<>ラウンド始めには{q(target_position_2)}に[{p(heal_amount_per_round)}攻撃]に相当するHP量を取り戻し、各ラウンドで取り戻す量は{p(heal_amount_increase_per_round)}で上がります。
+passive_skill_20008_2~stat_buff_chance~0<>通常の打撃が当てられた一人の敵手に応じて自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げ、{p(stat_buff_value_max)} {q(stat_buff_type)}までに上げられます。
+passive_skill_20008_2~stat_buff_chance~1<>通常の打撃が当てられた一人の敵手に応じて自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上ゲルチャンスが{p(stat_buff_chance)}あり、{p(stat_buff_value_max)} {q(stat_buff_type)}までに上げられます。
+passive_skill_20008_3<>通常の打撃が{q(damage_target_position)}に[{p(damage_attack)}攻撃]のダメージを与えように替えます。自分に{p(bonus_1)}で{q(stat_1)}を、{p(bonus_2)}で{q(stat_2)}を上げます。
+passive_skill_20008_4<>HPが{p(health_trigger_buff_2)}と{p(health_trigger_buff_1)}の間であれば、{p(stat_1_buff_amount_1)}で{q(stat_1_buff_type_1)}を、{p(stat_2_buff_amount_1)}で{q(stat_2_buff_type_1)}を上げます。HPが{p(health_trigger_buff_2)}未満であれば、{p(stat_1_buff_amount_2)}で{q(stat_1_buff_type_2)}を、{p(stat_2_buff_amount_2)}で{q(stat_2_buff_type_2)}を上げます。
+passive_skill_20009_4~trigger_chance~0<>血量が{p(hp_limit)}未満の場合、{q(target_position)}の有利な効果を全て解除します(各試合で{c(trigger_limit)}回しか使えません)。
+passive_skill_20009_4~trigger_chance~1<>血量が{p(hp_limit)}未満の場合、{q(target_position)}の有利な効果を全て解除する{p(trigger_chance)}チャンスがあります(各試合で{c(trigger_limit)}回しか使えません)。
+passive_skill_20010_2~heal_chance~0<>通常の打撃が{q(heal_target_position)}に[{p(heal_amount)}攻撃]に相当するHP量を取り戻します。
+passive_skill_20010_2~heal_chance~1<>通常の打撃が{q(heal_target_position)}に[{p(heal_amount)}攻撃]のダメージに相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあります。
+passive_skill_20010_4~heal_chance~0<>通常の打撃又はスキルで攻撃された時、自分に[{p(heal_amount)}攻撃]のダメージに相当するHP量を取り戻します。
+passive_skill_20010_4~heal_chance~1<>通常の打撃又はスキルで攻撃された時、自分に[{p(heal_amount)}攻撃]のダメージに相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがります。
+passive_skill_20011_2<>{p(bonus_1)}で{q(stat_1)}を、{p(bonus_2)}で{q(stat_2)}を上げ、攻撃又はスキルを使うとき、{q(bonus_class_hero)}クラスに属する敵手であれば、[{p(bonus_damage_with_class)}攻撃]のダメージをプラスに与えます
+active_skill_20012_1~effect_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げ、及び各ラウンドで[{p(effect_debuff_amount)}攻撃]に相当するHP量を下げる{q(effect_debuff_type)}効果を与えます。{c(effect_duration)}ツのラウンドで維持します。
+active_skill_20012_1~effect_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げ、及び各ラウンドで[{p(effect_debuff_amount)}攻撃]に相当するHP量を下げる{q(effect_debuff_type)}効果を与えるチャンスが{p(effect_chance)}あります。{c(effect_duration)}ツのラウンドで維持します。
+active_skill_20014_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(power_buff_target_position)} (自分を除き)に{c(power_buff_amount)}のエネルギーを上げます
+passive_skill_20014_3<>通常の打撃が{q(damage_target_position)}に[{p(damage_attack)}攻撃]のダメージを与えように替えます。
+passive_skill_20014_4<>血量が{p(health_trigger)}未満の場合、{q(power_buff_target_position)}に{c(power_buff_amount)}のエネルギーを上げます(各試合で一回しか使えません)。
+active_skill_20015_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻す。
+passive_skill_20015_4<>通常の打撃が{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻します。
+passive_skill_20016_2<>通常の打撃が自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません
+passive_skill_20016_4<>死んだ時は{c(stat_buff_duration)}ツのラウンドで{q(stat_buff_target_position)}に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます(各試合で{c(trigger_limit)}回しか使えません)。
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)} を下げ、{c(stat_debuff_duration)}ツのラウンドで維持します。
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)} を下げるチャンスが{p(stat_debuff_chance)}あり、{c(stat_debuff_duration)}ツのラウンドで維持します。
+active_skill_20022_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。{q(stat_debuff_amount)}で当てられた敵手{q(stat_debuff_type)}を下げ、{c(stat_debuff_duration)}ツのラウンドで維持します。
+active_skill_20023_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。{q(stat_debuff_amount)}で当てられた敵手{q(stat_debuff_type)}を下げ、{c(stat_debuff_duration)}ツのラウンドで維持します。
+passive_skill_20023_4<>血量が{p(health_trigger)}未満の場合、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます(各試合で一回しか使えません)。
+passive_skill_20024_4<>通常の打撃が{c(effect_duration)}ツのラウンドで当てられた敵手の{p(bonus_1)} {q(stat_1)}を下げます。
+active_skill_20025_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。敵手が{p(hp_trigger_limit)} HP超え残す場合、[{p(bonus_attack)}攻撃]のダメージをプラスに与えます。
+passive_skill_20025_4<>通常の打撃が{c(debuff_duration)}ツのラウンドに当てられた{p(bonus_1)}で敵手の{q(stat_1)}を下げる、自分に{p(bonus_2)}で{q(stat_2)}を上げる効果があり、{c(buff_duration)}ツのラウンドで維持します
+passive_skill_20026_2~heal_chance~0<>通常の打撃又はスキルで攻撃された時、{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を{q(heal_target_position)}にHP量を取り戻します
+passive_skill_20026_2~heal_chance~1<>通常の打撃又はスキルで攻撃された時、{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を{q(heal_target_position)}に回復する{p(heal_chance)}ツのチャンスがあります
+passive_skill_20026_3~heal_chance~0<>通常の打撃が{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻します。
+passive_skill_20026_3~heal_chance~1<>通常の打撃が{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあります
+active_skill_30001_1<>敵手のHPは{p(max_hp_to_kill)}未満の場合、すぐに敵手を殺して自分に{c(power_gain_when_kill)}のエネルギーをHP量を取り戻します。一方、{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。これはボスに対して無効です。
+passive_skill_30001_3<>死んだ各同盟に{p(bonus_1)}で{q(target_position)}の{q(stat_1)}が下がります。
+passive_skill_30001_4<>味方または敵手はいずれかの理由によりHPを失うたびに、{p(stat_bonus_amount)}でこのヒーローの{q(stat_type)}を上げます。この効果は{p(stat_bonus_limit)} {q(stat_type)}まで上がれ、払拭、祝福、呪印の効果によって取り除くことはできません
+active_skill_30002_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、自分に最高{p(heal_percent)} HPを回復します
+passive_skill_30002_3<>通常の打撃又はスキルで攻撃された時、敵手の最高HPの{p(hp_be_attacked)}を超えるダメージが与えられません
+passive_skill_30002_4<>死んだ時、生きている同盟に最高{p(hp_heal)} HPに相当する血量を回復してあげます。この血量は生きているあらゆる同盟に等分されます。
+active_skill_30003_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、自分に[{p(heal_percent)} 攻撃]に相当する HP量を取り戻します
+passive_skill_30003_2<>自分以外に同盟からHPが受けられません。通常の打撃又はスキルで攻撃された時[与えた{p(heal_percent)}ダメージ]に相当するHP量を取り戻します
+passive_skill_30003_3~heal_resistance_chance~0<>通常の打撃が{q(target_position)}打撃に替え、当てられた敵手は{c(heal_resistance_duration)}ツのラウンドで回復のためにHP量を取り戻しまさす
+passive_skill_30003_3~heal_resistance_chance~1<>通常の打撃が{q(target_position)}打撃に替え、当てられた敵手は{c(heal_resistance_duration)}ツのラウンドで回復のためにHP量を取り戻すチャンスが{p(heal_resistance_chance)}あります
+passive_skill_30003_4~revive_chance~0<>自分以外に同盟が死んだたびに、ヒーローがその同盟の日蔭を作り出します。この日蔭の攻撃指数、防御指数とHP指数は作り出したヒーローの{p(stat_percent)}指数です。その他の指数と作り出したヒーローの指数は等しいです。
+passive_skill_30003_4~revive_chance~1<>自分以外に同盟が死んだたびに、ヒーローがその同盟の日蔭を作り出す{p(revive_chance)}ツのチャンスがあります。この日蔭の攻撃指数、防御指数とHP指数は作り出したヒーローの{p(stat_percent)}指数です。その他の指数と作り出したヒーローの指数は等しいです。
+passive_skill_30004_2<>通常の打撃が{c(effect_duration)}ツのラウンドで{p(effect_percent)}攻撃に相当する{q(effect_type)}効果を与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_percent)}で敵手の{q(stat_debuff_type)}を下げます。
+passive_skill_30004_4<>各ラウンドの始めに、前のラウンドで受取った{p(heal_percent)}ダメージに相当するHP量を取り戻します。
+passive_skill_30005_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(number_stack)}蛇毒で敵手にマークを付けます。一つの蛇毒マークは各ラウンドで[{p(venom_stack_damage)}攻撃]を与え、{c(venom_stack_duration)}ツのラウンドで維持します。
+passive_skill_30005_3<>通常の打撃は{q(basic_attack_target_position)}に攻撃し、{c(number_stack)}蛇毒で敵手にマークを付けます。一つの蛇毒マークは各ラウンドで[{p(venom_stack_damage)}攻撃]を与え、{c(venom_stack_duration)}ツのラウンドで維持します。蛇毒は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_30005_4<>通常の打撃又はスキルで攻撃された時、{c(venom_stack_duration)}ツのラウンドで{c(number_stack)}蛇毒で敵手にマークを付けます。一つの蛇毒マークは各ラウンドで敵手に[{p(venom_stack_damage)}攻撃]を与え。死んだ時に敵手の蛇毒マークで{q(target_position)}に[{p(damage_per_stack_when_dead)}攻撃]のダメージを与えます。蛇毒は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_30006_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、敵手のHPが{p(enemy_hp_limit)}未満の場合自分にスキルの{p(skill_damage_bonus)}ダメージを上げます。
+passive_skill_30006_2<>攻撃する前に、各なくなった最高{p(hp_percent_lost_per_bonus)}HPには、このヒーローに{p(bonus_attack)}でATKを上げります。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_30006_3<>HPが{p(hp_limit)}を下回ると、このヒーローは{c(heal_duration)}つのラウンドでゴーストフォームに変わります。それで、最高{p(heal_amount)}HPと相当するHPを回復し、通常の攻撃またアクティブスキルにより攻撃されません。各試合で{c(trigger_limit)}回しかに使用されません
+passive_skill_30006_4<>{p(hp_limit_to_kill)}HP未満の敵手が出た場合、直ちに殺します。ボスに対し効果がありません。
+passive_skill_30007_3<>通常の打撃又はスキルで攻撃された時、{c(effect_duration)}ツのラウンドで{p(block_amount)}攻撃をブロックし、自分に攻撃した敵手に{q(effect_type)}効果を与える{p(passive_chance)}ツのチャンスがあります。
+passive_skill_30007_4<>死んだ時に爆発し{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、自分を{p(revive_hp_percent)}HPで再生します。各試合で一回しか使用されません。
+passive_skill_30008_3<>各深潭・火・冥会派の同盟ヒーローに{q(stat_1)}で{p(bonus_1)}、{q(stat_2)}で{p(bonus_2)}を上げます
+passive_skill_30008_4<>通常の打撃で攻撃された時、{c(cc_duration)}ツのラウンドで{q(cc_type)}になるために{p(cc_chance)}ツのチャンスがあります。
+passive_skill_30009_3<>通常の打撃が{q(target_position)}に攻撃し、同列の隣の二人敵手に{p(splash_damage)}ダメージを与えます。{c(effect_duration)}ツのラウンドで敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。
+passive_skill_30010_2~add_power_chance~0<>このヒーローにHPを受け取る同盟は{c(add_power_amount)}エネルギーを取り戻します
+passive_skill_30010_2~add_power_chance~1<>このヒーローにHPを受け取る同盟は{c(add_power_amount)}エネルギーを取り戻すチャンスが{p(add_power_chance)}あります
+passive_skill_30010_3<>通常の攻撃が{q(heal_target_position)}に[{p(basic_attack_damage_multiplier)}攻撃]のダメージを与え、[{p(heal_amount)} 攻撃]に相当するHP量を取り戻します。
+passive_skill_30010_4~block_chance~0<>このヒーローは倒さないと、同盟が攻撃されたたびに、その同盟が{p(block_rate)}ダメージをブロックします(累計できません)
+passive_skill_30010_4~block_chance~1<>このヒーローは倒さないと、同盟が攻撃されたたびに、その同盟が{p(block_rate)}ダメージをブロックするチャンスが{p(block_chance)}あります(累計できません)
+active_skill_30011_1<>{c(effect_duration)}ツのラウンドで{q(target_position)}と{q(effect_type)}の敵手に[{p(damage)}攻撃]のダメージを与えます。{q(effect_type)}効果は各ラウンドで敵手に[最高{p(effect_amount)}HP]のダメージを与えます。累計できません。
+passive_skill_30011_2<>通常の打撃又はスキルで攻撃された時、[{p(hp_heal_percent)}受けたダメージ]に相当するHP量が回復されます。
+passive_skill_30011_3<>一つの通常の打撃が{c(number_bonus_attack)}回攻撃し、一回は当てられた敵手に[{p(bonus_attack_damage_multiplier)}攻撃]のダメージを与えます．
+passive_skill_30011_4<>敵手が死んだたびに、{q(target_position)}に{q(effect_type)}の効果を与え、{c(effect_duration)}ツのラウンドに維持します。{q(effect_type)}効果は各ラウンドで敵手に[{p(effect_amount)}の最高のHP]のダメージを与えます。累計できません。
+active_skill_30012_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。{c(stat_buff_duration)}ツのラウンドに維持します。
+pasive_skill_30012_3<>通常の打撃又はスキルで攻撃した時、敵手が{q(effect_trigger_bonus)}になれば{p(bonus_damage)}ダメージをプラスに与えます。
+active_skill_30014_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、血マークを付けられている敵手に[{p(damage_bonus_amount)} 攻撃]のダメージを加えます。
+passive_skill_30014_2~blood_mark_chance~0<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手に{c(blood_mark_duration)}ツのラウンドに血マークを付けます。HPが{p(health_trigger)}未満の場合、{c(stat_buff_duration)}ツのラウンドで自分に{p(stat_buff_amount)} {q(stat_buff_type)}を上げます(各試合で一回しか使えません)
+passive_skill_30014_2~blood_mark_chance~1<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手に{c(blood_mark_duration)}ツのラウンドで血マークを付ける{p(blood_mark_chance)}ツのチャンスがあります。HPが{p(health_trigger)}未満の場合、{c(stat_buff_duration)}ツのラウンドで自分に{p(stat_buff_amount)} {q(stat_buff_type)}を上げます(試合毎に一回しか使えません)
+passive_skill_30014_4~counter_attack_chance~0<>敵手に{q(counter_attack_effect)}で攻撃された場合、[{q(counter_attack_effect)}{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃します。
+passive_skill_30014_4~counter_attack_chance~1<>敵手に{q(counter_attack_effect)}で攻撃された場合、[{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃する{p(counter_attack_chance)}ツのチャンスがあります。
+passive_skill_30019_2<>通常の打撃又はスキルで攻撃された時、敵手のHPが{p(heal_trigger)}未満残す場合、[{p(bonus_damage)}攻撃]のダメージをプラスに与えます。
+passive_skill_30019_4<>血が{p(health_trigger)}未満の場合、各ラウンドで{q(target_position)}に[{p(effect_amount)}攻撃]のダメージを下げる{q(effect_type)}効果を与え、{c(effect_duration)}ツのラウンドで維持します。(各試合で一回しか使えません)
+passive_skill_30020_4<>ヒーローが死んだたびに、自分に{p(stat_amount)}で{q(stat_type)}を上げます。
+passive_skill_30021_4<>通常の打撃が{c(stat_debuff_duration)}ツのラウンドで当てられた敵手の{q(stat_debuff_type)}を{q(stat_debuff_amount_1)}下げます
+active_skill_30022_1~effect_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを、{q(effect_type)}の効果を与え、各ラウンドで{q(effect_type)}の効果の[{p(effect_amount)}攻撃]のダメージである、{c(effect_duration)}ツのラウンドで維持します
+active_skill_30022_1~effect_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(effect_amount)}攻撃]のダメージである{q(effect_type)}効果も与える{p(effect_chance)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します
+active_skill_30025_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます。
+active_skill_30026_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、自分に[{p(heal_percent)}与えた総攻撃]に相当するHP量を取り戻します
+passive_skill_40001_2~heal_chance~0<>通常の打撃が各ラウンドで{q(target_position_2)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻し、{c(heal_duration)}ツのラウンドで維持します。
+passive_skill_40001_2~heal_chance~1<>通常の打撃が各ラウンドで{q(target_position_2)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあり、{c(heal_duration)}ツのラウンドで維持します。
+passive_skill_40001_4<>HPが{p(hp_limit)}未満の場合、{c(effect_duration)}ツのラウンドで{q(effect_target_position)}に{q(effect_type)}の効果を付ける{p(trigger_chance)}ツのチャンスがあります。{c(stat_buff_duration)}ツのラウンドで{q(stat_buff_target_position)}の{q(stat_buff_type)}を {p(stat_buff_amount)}で上げます(各試合で{c(trigger_limit)}回しか使えません)。
+passive_skill_40002_1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}を下げ、{p(stat_buff_amount)}で{c(stat_buff_duration)}ツのラウンドで{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます。
+passive_skill_40002_2<>通常の打撃が{p(effect_amount)}で当てられた敵手の{q(effect_affect_to_stat)}を{c(effect_duration)}ツのラウンドで下げます
+passive_skill_40002_3~block_chance~0<>通常の打撃又はスキルで攻撃された時、{p(bonus_1)}で{q(stat_1)}を上げ、{p(block_rate)}ダメージをブロックします。
+passive_skill_40002_3~block_chance~1<>通常の打撃又はスキルで攻撃された時、{p(bonus_1)}で{q(stat_1)}を上げ、{p(block_rate)}ダメージをブロックする{p(block_chance)}ツのチャンスがあります。
+passive_skill_40002_4<>HPが{p(hp_limit)}未満の場合、{p(stat_buff_amount_1)}で{q(stat_buff_target_position)}の{q(stat_buff_type_1)}をと{p(stat_buff_amount_2)}で{q(stat_buff_target_position)}の{q(stat_buff_type_2)}を{c(stat_buff_duration)}ツのラウンドで上げます(各試合に{c(trigger_limit)}回しか使えません)
+active_skill_40003_1~effect_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(effect_amount)}攻撃]のダメージである{q(effect_type)}効果も与えます。又{c(effect_duration)}ツのラウンドで当てられた敵手に森のフェアリーのマークを付けます。森のフェアリーのマークを付けられた敵手がHPを取り戻した時に取り戻したHP量の{p(effect_dryad_amount)}を戸って自分に{c(effect_dryad_duration)}ツのラウンドで分けられます。
+active_skill_40003_1~effect_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(effect_amount)}攻撃]のダメージである{q(effect_type)}効果も与える{p(effect_chance)}ツのチャンスがあります。又{c(effect_duration)}ツのラウンドに当てられた敵手に森のフェアリーのマークを付けます。森のフェアリーのマークを付けられた敵手がHPを取り戻した時にArrylは取り戻したHP量の{p(effect_dryad_amount)}を戸って自分自身に{c(effect_dryad_duration)}ツのラウンドで分けられます。
+passive_skill_40003_2~effect_chance~0<>通常の打撃が各ラウンドで[{p(effect_amount)}攻撃]のダメージである{q(effect_type)}効果を与え、{c(effect_duration)}ツのラウンドで当てられた敵手に森のフェアリーのマークを付けます。森のフェアリーのマークを付けられた敵手がHPを取り戻した時にArrylは取り戻したHP量の{p(effect_dryad_amount)}を戸って自分自身に{c(effect_dryad_duration)}ツのラウンドで分けられます。
+passive_skill_40003_2~effect_chance~1<>通常の打撃が各ラウンドで[{p(effect_amount)}攻撃]のダメージである{q(effect_type)}効果を与える{p(effect_chance)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで当てられた敵手に森のフェアリーのマークを付けます。森のフェアリーのマークを付けられた敵手がHPを取り戻した時にArrylは取り戻したHP量の{p(effect_dryad_amount)}を戸って自分自身に{c(effect_dryad_duration)}ツのラウンドで分けられます。
+passive_skill_40003_4~reflect_chance~0<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手にその打撃のダメージ{p(reflect_damage)}をカウンター攻撃します。
+passive_skill_40003_4~reflect_chance~1<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手にその打撃のダメージ{p(reflect_damage)}をカウンター攻撃する{p(reflect_chance)}ツのチャンスがあります
+passive_skill_40004_4<>HPが{p(health_trigger_1)}より大きい場合、{q(trigger_1_stat_1_buff_type)}を{p(trigger_1_stat_1_buff_amount)}増やし、{q(trigger_1_stat_2_buff_type)}を{p(trigger_1_stat_2_buff_amount)}増やします。 HPが{p(health_trigger_2)}を下回ったら、{q(trigger_2_stat_1_buff_type)}を{p(trigger_2_stat_1_buff_amount)}増やし、{q(trigger_2_stat_2_buff_type)}を{p(trigger_2_stat_2_buff_amount)}増やします。 この効果は、駆除、祝福、または呪いの印の効果によって取り除くことはできません。
+passive_skill_40005_2<>{p(bonus_1)}で{q(stat_1)}、{p(bonus_2)}で{q(stat_2)}を上げます。各通常打撃に{c(power_gain_per_basic_attack)}エネルギーを上げます。
+passive_skill_40005_3<>アクティブスキルを使用したたびに{p(stat_amount_per_use_skill)}で{q(stat_type)}を上げます
+passive_skill_40005_4<>{c(block_limit)}初回に受けられる{p(block_rate)}ダメージをブロックします(各試合で一回しか使えません)。
+active_skill_40006_1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで{q(ally_target_position)}ひっくり返す盾をサポートします。ひっくり返す盾は受けられ{p(effect_percent)}ダメージがHPに変換して所有者に返却します(ひっくり返す盾が解除できません)
+passive_skill_40006_2~effect_chance~0<>通常の打撃が{q(target_position_2)}に[与えた{p(effect_bonus_percent)}ダメージ]に相当するHP量を取り戻します。
+passive_skill_40006_2~effect_chance~1<>通常の打撃が{q(target_position_2)}に[与えた{p(effect_bonus_percent)}ダメージ]に相当するHP量を取り戻す{p(effect_chance)}ツのチャンスがあります
+passive_skill_40006_3<>自分が同盟に血を取り戻すたびに自分に{q(bonus_1)}で{q(stat_1)}をと{q(bonus_2)}で{q(stat_2)}を上げます。{sl(stack_limit)}まで上げられます)。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_40006_4<>HPが{p(hp_limit)}未満の場合、{q(heal_target_position)}に[{p(heal_percent)}攻撃]に相当するHPを取り戻し、{p(buff_bonus)}で{q(buff_stat)}を上げ、{q(buff_target_position)}で{c(buff_power)}エネルギーを{c(trigger_limit)}回復します。
+active_skill_40007_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}に{c(stat_buff_duration)}ツのラウンドで上げます
+passive_skill_40007_2<>通常の打撃が{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。スキルは累計できません。
+passive_skill_40007_4~effect_chance~0<>血量が{p(health_trigger)}未満の場合、{c(effect_duration)}ツのラウンドで{q(buff_target_position)}に{q(effect_type)}を与えます(各試合で一回のみ使えません)
+passive_skill_40007_4~effect_chance~1<>血量が{p(health_trigger)}未満の場合、{c(effect_duration)}ツのラウンドで{q(buff_target_position)}に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがります(各試合で一回のみ使えません)
+active_skill_40008_1~silence_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}効果も与え、{c(effect_duration)}ツのラウンドで維持します。当てられた敵手を{c(silence_duration)}ツのラウンドで不言にさせます。
+active_skill_40008_1~silence_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、各ラウンドで[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}効果も与え、{c(effect_duration)}ツのラウンドで維持します。当てられた敵手を{c(silence_duration)}ツのラウンドで不言にさせる{p(silence_chance)}ツのチャンスがあります。
+passive_skill_40008_2<>深潭、火と冥の破壊に属する各一人の敵手に{p(stat_per_faction_buff_amount)}で{q(stat_per_faction_buff_type)}を上げます。
+passive_skill_50005_2<>{p(bonus_1)}で{q(target_position_2)}の{q(stat_1)}を、{p(bonus_2)}で{q(stat_2)}を上げます(Aura同様は累計できません)
+passive_skill_40008_3<>天然、水、光に属する同盟に{p(bonus_1)}で{q(stat_1)}、{p(bonus_2)}で{q(stat_2)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。Aura同様は累計できません
+passive_skill_40008_4<>{q(resistance_effect_type_1)}に対し{p(resistance_effect_rate_1)}を抗し、{q(resistance_effect_type_2)}に対し{p(resistance_effect_rate_2)} を抗します。通常の打撃が各ラウンドで[{p(effect_dot_amount)}攻撃]の{q(effect_dot_type)}ダメージを与える{p(effect_dot_chance)}ツのチャンスがあり、{c(effect_dot_duration)}ツのラウンドで維持します。当てられた敵手を{c(silence_duration)}ツのラウンドで不言にさせる{p(silence_chance)}ツのチャンスがあります。
+active_skill_40009_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。その後、{c(number_round_can_not_be_targeted)}ツのラウンドで敵手が自分を目標に選べません。
+passive_skill_40009_3<>通常の打撃げ{c(number_bonus_attack)}回攻撃し、{p(damage_multiplier_1)} {p(damage_multiplier_2)} {p(damage_multiplier_3)}のダメージに相当しみあす。
+passive_skill_40009_4<>クリティカル打撃を与えてから、次の通常の打撃が{p(bonus_damage_when_crit)}のダメージを加えられます。
+passive_skill_40010_3<>{q(effect_type)}になっている敵手に[{p(bonus_damage_with_effect)}攻撃]のダメージをプラスに与えます。
+passive_skill_40010_4<>死んだ時、各ラウンドで{q(effect_target_position)}に[{p(effect_amount)}攻撃]のダメージの{q(effect_type)}効果を与え、{c(effect_duration)}ツのラウンドで維持します(各試合で一回使えません)
+passive_skill_40011_3<>前列に属すると{p(front_stat_amount)}で{q(front_stat)}を上げます。後列に属すると、{p(back_stat_amount_1)}で{q(back_stat_1)}を、{p(back_stat_amount_2)}で{q(back_stat_2)}を、{p(back_stat_amount_3)}で{q(back_stat_3)}を上げます。
+passive_skill_40011_4<>一つの通常の打撃{c(stat_buff_duration)}ツのラウンドで自分に{q(stat_buff_type)}で{p(stat_buff_amount)}を上げ、[{p(heal_amount)}攻撃]に相当するHP量を取り戻します。当てられた敵手が{q(cc_trigger_class)}クラスであれば、{q(cc_trigger_type)}を与える{p(cc_trigger_chance)}ツのチャンスがあり、{c(cc_trigger_duration)}ツのラウンドで維持します。
+passive_skill_40012_3~silence_chance~0<>通常の打撃がクリティカルになった場合、当てられた敵手を{c(silence_duration)}ツのラウンドで不言にさせます。
+passive_skill_40012_3~silence_chance~1<>通常の打撃がクリティカルになった場合、当てられた敵手を{c(silence_duration)}ツのラウンドで不言にさせる{p(silence_chance)}ツのチャンスがあります。
+passive_skill_40012_4<>通常の打撃又はスキルで攻撃された時、当てられた敵手が{q(effect_check_type)}になれば[{p(bonus_damage)}攻撃]のダメージをプラスに与えます。
+active_skill_40016_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。敵手が{p(target_hp_percent)}HP超え残す場合、各ラウンドで[{p(dot_amount)}攻撃]の{q(dot_type)}ダメージをプラスに与え、{c(dot_duration)}ツのラウンドで維持します。
+active_skill_40017_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。敵手が{q(bonus_class_hero)}であれば、[{p(bonus_damage_with_class)}攻撃]のダメージをプラスに受けます。
+passive_skill_40020_3~heal_chance~0<>通常の打撃又はスキルで攻撃された時、{q(target_position_2)}に[{p(heal_percent)}攻撃に相当するHP量を取り戻します・
+passive_skill_40020_3~heal_chance~1<>通常の打撃又はスキルで攻撃された時、{q(target_position_2)}に[{p(heal_percent)}攻撃]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあります
+passive_skill_40021_4_40023_2~counter_attack_chance~0<>通常の打撃に攻撃された時、自分に攻撃した敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃します
+passive_skill_40021_4_40023_2~counter_attack_chance~1<>通常の打撃に攻撃された時、自分に攻撃した敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃する{p(counter_attack_chance)}ツのチャンスがあります。
+passive_skill_50010_2_60013_3~counter_attack_chance~0<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃します
+passive_skill_50010_2_60013_3~counter_attack_chance~1<>通常の打撃又はスキルで攻撃された時、自分に攻撃した敵手に[{p(counter_attack_damage)}攻撃]のダメージを与えるようにカウンター攻撃する{p(counter_attack_chance)}ツのチャンスがあります。
+passive_skill_40023_4<>血量が{p(health_trigger)}未満の場合、{p(stat_1_buff_amount)}で{q(stat_1_buff_type)}と{q(stat_2_buff_amount)}で{q(stat_2_buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_40024_3<>通常の打撃が各ラウンドで[{p(effect_amount)}攻撃]の{q(effect_type)}のダメージを与える{p(effect_chance_normal)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します。当てられた敵手が{q(affected_hero_class)}クラスであれば、{q(effect_type)}を与える{p(effect_chance_special)}ツのチャンスがあります。
+passive_skill_40024_4<>HPが{p(hp_limit)}未満の場合、{c(buff_duration)}ツのラウンドで{p(buff_amount)}で{q(buff_target_position)}の{q(buff_type)}を上げます(各試合で{c(trigger_limit)}回しか使えません)。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_40025_4<>死んだ時、{q(heal_target_position)}に[{p(heal_amount)}攻撃]に相当するHPを取り戻します(各試合で{c(trigger_limit)}回しか使えません)
+passive_skill_40026_3<>一つの打撃が自分に{p(buff_amount)}で{q(buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_50001_1~effect_chance~0<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(ally_target_position)}に{q(effect_type)}効果も与えます。{q(effect_type)}効果は付けられているあらゆる有害な効果を解除し、{c(effect_duration)}ツのラウンドで新しい効果を抗します。
+active_skill_50001_1~effect_chance~1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(ally_target_position)}に{q(effect_type)}効果も与える{p(effect_chance)}ツのチャンスがあります。{q(effect_type)}効果は付けられているあらゆる有害な効果を解除し、{c(effect_duration)}ツのラウンドで新しい効果を抗します。
+passive_skill_50001_2<>各ラウンドで{q(effect_type)}を付けられる{q(enemy_target_position)}があり、{c(effect_duration)}ツのラウンドで維持します。この敵手に攻撃する時、その敵手は{q(effect_type)}でマークが付いたら、[{p(bonus_damage)}攻撃]のダメージをプラスに与え、自分と{q(ally_target_position)}に[{p(hp_percent_to_heal)}攻撃]に相当するHP量を取り戻します。
+passive_skill_50001_3<>弱点マークを付ける敵手に攻撃された時、自分と{q(target_position_2)}に[受けた{p(damage_percent_to_heal)}ダメージ]に相当するHP量を取り戻します
+passive_skill_50001_4~hp_limit~0<>このヒーローが負けた時、{q(target_position_2)}にHPを取り戻します。取り戻すHPはこのヒーローの{p(max_hp_percent_to_heal)}の最高のHPがあらゆふ同盟に分ける量とします。この効果は各試合で{c(trigger_limit)}回 使えます。
+passive_skill_50001_4~hp_limit~1<>HP量が{p(hp_limit)}未満下げた場合、{q(target_position_2)}に一定のHP量を取り戻します。取り戻すHP量はこのヒーローの最高HP量の{p(max_hp_percent_to_heal)}があらゆふ同盟に分ける量とします。この効果は各試合で{c(trigger_limit)}回 使えます。
+active_skill_50002_1<>{q(target_position)}に[{p(damage)} atk]のダメージを与える。 {c(stat_debuff_duration)}ラウンドで、ターゲットの{q(stat_debuff_type_1)}を{p(stat_debuff_amount_1)}減らし、{q(stat_debuff_type_2)}を{p(stat_debuff_amount_2)}減らします。 {c(effect_duration)}ラウンドでそれらの敵に{q(effect_type)}を適用します。
+passive_skill_50002_2<>アクティブスキルと基本攻撃は、{q(effect_type)}でマークされたターゲットに{p(bonus_damage)}以上のダメージを与えます。
+passive_skill_50002_3~revive_chance~0<>神マークを付ける敵手に殺された場合、自分を{p(revive_hp_percent)} HPで再生します（各一人の敵手に対し一回使えます)
+passive_skill_50002_3~revive_chance~1<>神マークを付ける敵手に殺された場合、自分を{p(revive_hp_percent)} HPで再生する{p(revive_chance)}ツのチャンスがあります(各一人の敵手に対し一回使えます)
+passive_skill_50002_4<>神マークを付ける敵手に攻撃された場合、{c(duration)}ツのラウンドで{p(bonus_1)}で{q(stat_1)}、{p(bonus_2)}で{q(stat_2)}を上げます(同じ敵手に与えられたマークは累計できません)
+active_skill_50003_1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(stat_to_steal)}当てられた敵手の現在最高を{p(stat_steal_amount)}盗んで{q(ally_target_position)}に加えます。ボスに対して無効です。
+passive_skill_50003_3<>基本攻撃は攻撃力が最も高い敵にダメージを与える. 通常の攻撃が{q(steal_stat_type)}現在の敵手を{p(steal_stat_amount)}盗みます
+passive_skill_50003_4~revive_chance~0<>自分以外の同盟が死んだたびその同盟を{p(revive_hp_percent)}HPで再生します(試合ごとに一回しか使えません)
+passive_skill_50003_4~revive_chance~1<>自分以外の同盟が死んだたびその同盟を{p(revive_hp_percent)}HPで再生する{p(revive_chance)}ツのチャンスがあります(試合ごとに一回しか使えません)
+active_skill_50004_1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、あらゆる同盟用の大盾を作って出し、[{p(effect_bonus_percent)} 攻撃]のダメージを取り込みます。大盾は{c(effect_duration)}ツのラウンド後に割れます(大盾は累計できません)
+passive_skill_50004_3<>基本攻撃は、最大{q(stat_convert)}の{p(stat_percent)}の追加ダメージをターゲットに与えます。この{q(stat_convert)}は、すべてのラウンドの開始時に計算されます。
+passive_skill_50004_4<>このヒーローのターンでは、{c(round_step)}ラウンドごとに、{c(effect_duration)}ラウンドのすべての味方に{q(effect_type)}効果を適用します。このヒーロー自身も{c(effect_duration)}ラウンドで{q(stat_buff_type)} {c(stat_buff_amount)}を増やします。 {q(effect_type)}効果は、すべての負のデバフを即座に払いのけ、入ってくるすべての負のデバフに抵抗します。
+active_skill_50005_1<>{q(enemy_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(ally_target_position)}に光の盾を{c(effect_duration)}ツのラウンドで贈ります。光の盾は受けた{p(effect_percent)}のダメージをHPに換えて盾を持っているヒーローに加えます。(光の盾は累計できません)
+passive_skill_50005_3~effect_chance~0<>通常の打撃が{q(target_position_2)}に[{p(effect_bonus_percent)}与えたあらゆるダメージ]に相当するHP量を取り戻します。
+passive_skill_50005_3~effect_chance~1<>通常の打撃が{q(target_position_2)}に[{p(effect_bonus_percent)}与えたあらゆるダメージ]に相当するHP量を取り戻す{p(effect_chance)}ツのチャンスがあります。
+passive_skill_50006_2<>Enuleの弾丸は{c(number_bouncing)}目標に弾め、後に当てられた目標のダメージは直前目標のダメージの{p(damage_bouncing)}に相当します(あらゆる打撃の弾丸は効力を持つが、打撃がパッシブスキルであるので目標をスタンにさせる事ができません)
+passive_skill_50006_3~extra_turn_chance~0<>通常の打撃又はスキルで攻撃した時、一つのラウンドで{c(extra_turn_limit)}回以下プラスに攻撃し[{p(damage_of_extra_turn)}攻撃]のダメージを与えます。
+passive_skill_50006_3~extra_turn_chance~1<>通常の打撃又はスキルで攻撃した時、一つのラウンドで{c(extra_turn_limit)}回以下プラスに攻撃し[{p(damage_of_extra_turn)}攻撃]のダメージを与える{p(extra_turn_chance)}ツのチャンスがあります。
+passive_skill_50006_4<>敵手はこのヒーローから一つのラウンドで{c(number_take_damage_required)}回ダメージを受け取ったら、{c(effect_duration)}ラウンドでその敵手を{q(effect_type)}にします
+active_skill_50007_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(heal_amount)}最高HPを取り戻し、{q(buff_target_position)}に有害の効果を全て素晴らしくします
+passive_skill_50007_2~steal_chance~0<>通常の打撃は敵手から{q(steal_stat_type_1)}の{p(steal_stat_amount_1)} 、 {q(steal_stat_type_2)}の{p(steal_stat_amount_2)}を盗み、{c(steal_duration)}ツのラウンドで{q(steal_buff_target_position)}に加えます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_50007_2~steal_chance~1<>通常の打撃は敵手から{q(steal_stat_type_1)}の{p(steal_stat_amount_1)} 、 {q(steal_stat_type_2)}の{p(steal_stat_amount_2)}を盗み、{c(steal_duration)}ツのラウンドで{q(steal_buff_target_position)}に加えるチャンスが{p(steal_chance)}あります。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_50007_3<>同盟は一人が{p(health_trigger)} HP未満になたたびに、その同盟に[{p(heal_amount)} 攻撃]に相当するHP量を取りもだます(各試合で一回しか使えません)
+passive_skill_50007_4<>通常の打撃は{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えるように換えます
+passive_skill_50008_3<>通常の打撃は自分と{q(buff_target_position)}に{c(power_buff_amount)}エネルギーを加えます。
+passive_skill_50008_4<>死んだ時に{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_buff_duration)}ツのラウンドで{q(buff_target_position)}の{q(stat_buff_type)}は{p(stat_buff_amount)}上がります(各試合で一回しか使えません)
+active_skill_50009_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、及び{p(bonus_damage_faction_value)}与えるダメージをあげます(当てられた敵手が{q(bonus_damage_faction_type)}会派に属する場合)
+active_skill_50009_3<>光会派に属する各一人の同盟に{p(stat_per_light_buff_amount)} {q(stat_per_light_buff_type)}を上げ、冥会派に属する同盟一人毎に{p(stat_per_dark_buff_amount)}で{q(stat_per_dark_buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_50009_4~effect_chance~0<>通常の打撃は{c(effect_duration)}ツのラウンドで{q(buff_target_position)}に{q(effect_type)}を与えます
+passive_skill_50009_4~effect_chance~1<>通常の打撃は{c(effect_duration)}ツのラウンドで{q(buff_target_position)}に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります
+active_skill_50010_1~silence_chance_debuff_mage~0<>{q(target_enemy_min_max)}に[{p(damage_min)} - {p(damage_max)} 攻撃]のダメージを与え、当てられた敵手が法師クラスであれば無言させ、目標が戦士クラスであれば{q(effect_type_debuff_warrior)}を与える{p(silence_chance_debuff_mage)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します。
+active_skill_50010_1~silence_chance_debuff_mage~1<>{q(target_enemy_min_max)}に[{p(damage_min)} - {p(damage_max)} 攻撃]のダメージを与え、当てられた敵手が法師クラスであれば無言させ{p(silence_chance_debuff_mage)}ツのチャンス、目標が戦士クラスであれば{q(effect_type_debuff_warrior)}を与える{p(effect_chance_debuff_warrior)}ツのチャンスがあり、{c(effect_duration)}ツのラウンドで維持します。
+passive_skill_50010_3~stat_buff_chance~0<>通常の攻撃を使用して攻撃する場合、強化されたスペルを{c(number_buff)}回キャストします。 この呪文が唱えられるたびに、{q(buff_target_position)}の{q(stat_buff_type)}を{c(stat_buff_duration)}ラウンドので{p(stat_buff_amount)}増加します。 この呪文の効果は累計できます
+passive_skill_50010_3~stat_buff_chance~1<>通常の攻撃を使用して攻撃する場合、強化されたスペルを{c(number_buff)}回キャストします。 この呪文が唱えられるたびに、{q(buff_target_position)}の{q(stat_buff_type)}を{c(stat_buff_duration)}ラウンドので{p(stat_buff_amount)}増加する、{p(stat_buff_chance)}ツのチャンスがあります。 この呪文の効果は累計できます
+passive_skill_50010_4<>目標の血量が{p(health_bonus_trigger)}最高HPを超える場合、通常の打撃が[{p(bonus_damage)} 攻撃]のダメージをプラスに与えます。
+passive_skill_50011_2<>いずれかの有害な効果を付けられたたびに{p(buff_amount)} {q(buff_stat)}を上げます{c(max_stack)}回以下累計できます
+passive_skill_50011_3<>通常攻撃は与えるダメージが {p(bonus_basic_attack)} 増加し、{c(effect_duration)} ラウンドの間、{p(effect_chance)} の確率で {q(effect_type)} をターゲットにします
+passive_skill_50011_4~trigger_chance~0<>攻撃毎に神マークを付けられます。{c(buff_duration)}ツのラウンドで{p(buff_amount)}で{q(buff_stat)}を上げます（{c(max_stack)}回以下累計できます)
+passive_skill_50011_4~trigger_chance~1<>神マークを{p(trigger_chance)}ツのチャンスがあり、付けられる攻撃は{c(buff_duration)}ツのラウンドで{p(buff_amount)}で{q(buff_stat)}を上げます（{c(max_stack)}回以下累計できます)
+active_skill_50012_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、自分と{q(heal_target_position)}に[{p(heal_percent_of_damage)}与えた総攻撃]に相当するHP量を取り戻します
+passive_skill_50012_3<>通常の打撃がクリティカルになった場合、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount_1)}で{q(stat_buff_type_1)}、{p(stat_buff_amount_2)}で{q(stat_buff_type_2)}を上げます
+passive_skill_50012_4~heal_chance~0<>敵手のHPが自分のより多い場合、通常の打撃が{p(bonus_damage)}ダメージを与え、[{p(heal_percent_of_damage)}の与えたダメージ]に相当するHPを取り戻します。
+passive_skill_50012_4~heal_chance~1<>敵手のHPが自分のより多い場合、通常の打撃が{p(bonus_damage)}ダメージを与え、[{p(heal_percent_of_damage)}の与えたダメージ]に相当するHPを取り戻す{p(heal_chance)}ツのチャンスがあります。
+passive_skill_50013_3~trigger_chance~0<>通常の打撃又はスキルで攻撃された時、{p(block_rate)}ダメージをブロックし、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与えます
+passive_skill_50013_3~trigger_chance~1<>通常の打撃又はスキルで攻撃された時、{p(block_rate)}ダメージをブロックし、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与える{p(trigger_chance)}ツのチャンスがあります
+passive_skill_50013_4<>血量が{p(health_trigger)}未満の場合、{q(heal_target_position)}に[{p(heal_amount)} 攻撃]に相当するHP量を取り戻します(各試合で一回しか使えません)
+passive_skill_50014_4~stat_buff_chance~0<>通常の打撃は目標に当てるすぐに自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_50014_4~stat_buff_chance~1<>通常の打撃は目標に当てるすぐに自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げる{p(stat_buff_chance)}ツのチャンスがあります。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_50015_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで敵手{q(effect_faction)}の会派の属する将軍から{p(effect_amount)}ダメージを受けさせます(この効果は累計できません)
+passive_skill_50015_4<>血量が{p(health_trigger)}未満の場合、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます
+active_skill_50017_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで{p(bonus_1)}で{q(stat_1)}}を最高に上げます
+passive_skill_50022_3<>試合開始の時{c(power_gain_start_battle)}エネルギーを上げます
+passive_skill_50023_4<>通常の打撃又はスキルで攻撃した時、自分に[与えた{p(heal_percent)}ダメージ]に相当するHP量を取り戻します
+passive_skill_50024_4~heal_chance~0<>通常の打撃又はスキルで攻撃された時、自分に[受けた{p(heal_percent)}ダメージ]に相当するHP量を取り戻します
+passive_skill_50024_4~heal_chance~1<>通常の打撃又はスキルで攻撃された時、自分に[受けた{p(heal_percent)}ダメージ]に相当するHP量を取り戻す{p(heal_chance)}ツのチャンスがあります
+passive_skill_50025_3~bonus_attack_chance~0<>通常の打撃は[{p(bonus_attack_damage_multiplier)}攻撃]のダメージを与える一つの打撃をプラスに作ります
+passive_skill_50025_3~bonus_attack_chance~1<>通常の打撃は[{p(bonus_attack_damage_multiplier)}攻撃]のダメージを与える一つの打撃をプラスに作る{p(bonus_attack_chance)}ツのチャンスがあります。
+active_skill_50026_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます。
+passive_skill_50026_3<>通常の打撃又はスキルで攻撃した時、相手が{q(affected_faction)}会派に属すると、[{p(bonus_attack)}攻撃]のダメージをプラスに与えます
+passive_skill_50026_4<>血量が{p(hp_limit)}未満の場合、{c(stat_buff_duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます(各試合で{c(trigger_limit)}回しか使えません)。
+passive_skill_60001_4~extra_turn_chance_per_crit~0<>巣の通常の打撃はクリティカルになれば追加打撃が作れます。一つの追加打撃は前攻撃のダメージの{p(damage_per_extra_turn)}に相当するダメージを与え、各ラウンドで{c(extra_turn_limit)}ツの追加打撃以上作れます。
+passive_skill_60001_4~extra_turn_chance_per_crit~1<>通常の打撃はクリティカルになれば追加打撃が作れる{p(extra_turn_chance_per_crit)}ツのチャンスがあります。一つの追加打撃は前攻撃のダメージの{p(damage_per_extra_turn)}に相当するダメージを与え、各ラウンドで{c(extra_turn_limit)}ツの追加打撃以上作れます。
+active_skill_60002_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、当てられた敵手の{p(stat_steal_amount)}の{q(stat_to_steal)}を盗んで自分に{c(steal_duration)}ツのラウンドで加えてから、返却します。(削除られない効果)
+passive_skill_60002_2<>HPが{p(hp_lower)}未満の敵手が出たたびにこのヒーローは{q(bonus_1)}で{q(stat_1)}を、 {q(bonus_2)}で{q(stat_2)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+passive_skill_60002_3<>敵手が死んだたびに、Bloodseekerが敵手の{p(heal_percent)}最高HPを取り戻します(敵手の最高HPは試合開始前に取ります)
+passive_skill_60002_4<>同盟が死んだたびに、このヒーローは{q(bonus_1)}で{q(stat_1)}を、 {q(bonus_2)}で{q(stat_2)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_60003_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、後列が優先されます。ダメージが{c(first_multi_damage)}倍になる打撃を作る{p(first_chance)}ツのチャンス、及びダメージが{c(second_multi_damage)}になる打撃を作る{p(second_chance)}ツのチャンスがあります。
+passive_skill_60003_3<>各失った{p(percent_trigger)}HPには{p(stat_buff_1_amount)}で{q(stat_buff_1_type)}を、{p(stat_buff_2_amount)}で{q(stat_buff_2_type)}を、{p(stat_buff_3_amount)}で{q(stat_buff_3_type)}が上げます。
+passive_skill_60003_4~heal_chance~0<>血量が{p(health_trigger)}未満の場合、クリティカルの打撃が[その打撃の{p(heal_amount_by_damage)}ダメージ]に相当するHP量を取り戻させます。
+passive_skill_60003_4~heal_chance~1<>血量が{p(health_trigger)}未満の場合、クリティカルの打撃が[その打撃の{p(heal_amount_by_damage)}ダメージ]に相当するHP量を取り戻させる{p(heal_chance)}ツのチャンスがあります。
+active_skill_60004_1~effect_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与えます。マークが期限切れになるまで、すべての味方はマークされた敵に焦点を合わせます。{q(effect_type)}は削除できない効果です。
+active_skill_60004_1~effect_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで当てられた敵手に{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。マークが期限切れになるまで、すべての味方はマークされた敵に焦点を合わせます。{q(effect_type)}は削除できない効果です。
+passive_skill_60004_2~effect_chance~0<>通常の打撃が{q(damage_target_position)}に攻撃し、{c(effect_duration)}ツのラウンドで{q(effect_type)}を与えます。{q(effect_type)}を受けた敵手に攻撃する場合、[自分の{p(effect_amount)}攻撃]に相当するHP量をとき戻します。
+passive_skill_60004_2~effect_chance~1<>通常の打撃が{q(damage_target_position)}に攻撃し、{c(effect_duration)}ツのラウンドで{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります。{q(effect_type)}を受けた敵手に攻撃する場合、[自分の{p(effect_amount)}攻撃]に相当するHP量をとき戻します。
+passive_skill_60004_3<>冥のマークを付けられている敵手から受けた{p(reduce_damage_dark_mark)}ダメージを下げます。
+passive_skill_60004_4~effect_chance~0<>このヒーローは魔法のオーラを持っています。 このヒーローが倒されなくなるまで、味方が基本攻撃とアクティブスキルで攻撃された場合、攻撃者に受けたダメージの{p(effect_amount)}を反映します。 ダメージのみが反映されます。
+passive_skill_60004_4~effect_chance~1<>このヒーローは魔法のオーラを持っています。 このヒーローが倒されなくなるまで、味方が基本攻撃とアクティブスキルで攻撃された場合、{p(effect_chance)}は、攻撃者に受けたダメージの{p(effect_amount)}を反映するチャンスがあります。 ダメージのみが反映されます。
+active_skill_60005_1~effect_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ラウンドの間ターゲットを{q(effect_type)}でマークします。 目標の現在HPが{p(hp_trigger_crit_rate)}より高い場合、この攻撃はクリティカルの打撃になるはずです。マークが期限切れになるまで、すべての味方はマークされた敵に焦点を合わせます。攻撃された敵が{p(max_hp_to_kill)}HPを下回っている場合、彼は即座に処刑されます（実行はボスに影響を与えません）。
+active_skill_60005_1~effect_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、本ラウンド最後まで目標に{q(effect_type)}マークを付ける{c(effect_duration)}ツのチャンスがあります。目標の現在HPが{p(hp_trigger_crit_rate)}より高い場合、この攻撃はクリティカルの打撃になるはずです。同盟のあらゆる基本打撃はマークを付けられた敵手にそのマークが無くなったまでに向きます。攻撃された敵が{p(max_hp_to_kill)}HPを下回っている場合、彼は即座に処刑されます（実行はボスに影響を与えません）。
+passive_skill_60005_3~stat_debuff_chance~0<>通常の打撃は{q(damage_target_position)}に攻撃し、{c(stat_debuff_duration)}ラウンドで当てられた敵手に{q(stat_debuff_amount)}で{q(stat_debuff_type)}を下げます。この効果は{p(stat_debuff_max)}まで累計できます。さらに、攻撃される敵は{c(effect_duration)}ラウンドで{q(effect_type)}になります。
+passive_skill_60005_3~stat_debuff_chance~1<>通常の打撃は{q(damage_target_position)}に攻撃し、{c(stat_debuff_duration)}ラウンドで当てられた敵手に{q(stat_debuff_amount)}で{q(stat_debuff_type)}を下げるチャンスが{q(effect_type)}あります。この効果は{p(stat_debuff_max)}まで累計できます。
+passive_60005_4<>通常の打撃が{c(bonus_basic_attack_number_1)}回に攻撃する{p(bonus_basic_attack_chance_1)}ツのチャンス、{c(bonus_basic_attack_number_2)}回に攻撃する{p(bonus_basic_attack_chance_2)}ツのチャンス、{c(bonus_basic_attack_number_3)}回に攻撃する{p(bonus_basic_attack_chance_3)}ツのチャンス、及び{c(bonus_basic_attack_number_4)}回に攻撃する{p(bonus_basic_attack_chance_4)}ツのチャンスがあります。
+active_skill_60006_1~stat_debuff_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount_1)}で当てられた敵手の{q(stat_debuff_type_1)}、{q(stat_debuff_amount_2)}で{q(stat_debuff_type_2)}を、{q(stat_debuff_amount_3_1)}で{q(stat_debuff_type_3)}を下げます。
+active_skill_60006_1~stat_debuff_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount_1)}で当てられた敵手の{q(stat_debuff_type_1)}、{q(stat_debuff_amount_2)}で{q(stat_debuff_type_2)}を、{q(stat_debuff_amount_3_1)}で{q(stat_debuff_type_3)}を下げるチャンスが{p(stat_debuff_chance)}あります
+passive_skill_60006_3<>基本攻撃とアクティブスキルは、{c(effect_duration)}ラウンドの間、ターゲットに{q(effect_type)}効果を適用します。 {q(effect_type)}の効果は、各ラウンドのターゲットに[攻撃力の{p(effect_amount)}]のダメージを与えます。さらに、基本攻撃も{c(silence_duration)}ラウンドの間沈黙効果を適用する。
+passive_skill_60006_4<>基本攻撃が {q(attack_target_position)} に命中し、{q(steal_stat_type)} の {p(steal_stat_value)} を奪ってから、自分と {q(buff_ally_position)} に転送します。\n特殊効果：\n彼女が死ぬと、彼女の{q(transfer_stat_type_1)}のうち{p(transfer_stat_percent)}と{q(transfer_stat_type_2)}が{q(buff_ally_position)}に送られます。 この効果は1試合につき1回のみ発動する。
+active_skill_60007_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます。[{p(heal_percent)}攻撃]に相当するHP量を{q(heal_target_position)}に取り戻します。
+passive_skill_60007_2<>通常の打撃は当てられた敵手に疫病マークを付け、該当敵手に{c(effect_duration)}ツのラウンドで呪詛マークを付けさせます(呪詛マークは累計できません)\n\n呪印は敵からの有益な効果をすべて排除し、敵が有益な効果を受けるのを防ぎます。特に、呪印は癒しや回復を防ぐ。
+passive_skill_60007_3<>同盟が疫病マークを付けられている敵手に攻撃すると、[Evil Professor の{p(heal_amount)}攻撃]に相当するHP量を取り戻します。Evil Professorが多い場合、価値が一番高いパッシブスキルを取ります。
+passive_skill_60007_4<>疫病マークを付けられている敵手が自分に攻撃する場合、{c(buff_duration)}ツのラウンドで{p(buff_amount)}で{q(target_position_2)}の{q(buff_stat)}に上げます。
+passive_skill_60008_2~effect_chance~0<>通常の打撃が当てられた敵手の有利な効果を晴らし、[与えた{p(heal_percent_with_damage)}攻撃]に相当するHP量に交換に自分に戻します。
+passive_skill_60008_2~effect_chance~1<>アクティブスキルと通常の打撃が当てられた敵手の有利な効果を晴らし、[与えた{p(heal_percent_with_damage)}攻撃]に相当するHP量に交換に自分に戻す{p(effect_chance)}ツのチャンスがあります。
+passive_skill_60008_4~trigger_chance~0<>血が{p(health_trigger)}未満の場合、自分に{p(heal_amount)}HPを取り戻し、{c(stat_buff_duration)}ツラウンドで自分の{q(stat_buff_type)}を{p(stat_buff_amount)}に上げます(試合毎に一回しか使えません)。
+passive_skill_60008_4~trigger_chance~1<>血が{p(health_trigger)}未満の場合、自分に{p(heal_amount)}HPを取り戻し、{c(stat_buff_duration)}ツラウンドで自分の{q(stat_buff_type)}を{p(stat_buff_amount)}に上げる{p(trigger_chance)}ツのチャンスがあります(各試合で一回しか使えません)。
+active_skill_60009_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、疫病マークを付けられている敵手を優先します。疫病マークを付けられている敵手に[{p(damage_bonus_amount)}攻撃]のダメージをプラスします
+passive_skill_60009_3<>{q(target_position)}に基本的に攻撃し、{c(mark_duration)}ツラウンドに疫病のマークを付けます。付けられた目標はあらゆる元から{p(damage_receive_debuff_amount)}ダメージを受けます。
+passive_skill_60009_4<>疫病マークを付けられている敵手が死んだ時、{q(target_position)}に[{p(damage_multiplier)}攻撃]のダメージを与えます(各試合で一回しか使えません)。
+active_skill_60010_1~debuff_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)} を下げ{q(effect_type)}の\n効果(有利な効果を解約し、敵手に{c(debuff_duration)}ツのラウンドでその他の有利化効果が加えられなくなる効果)を与えます。
+active_skill_60010_1~debuff_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(stat_debuff_type)}で敵手の{p(stat_debuff_amount)}でを下げ{q(effect_type)}の効果(有利な効果を解約し、敵手に{c(debuff_duration)}ツのラウンドでその他の有利化効果が加えられなくなる効果)を与える{p(debuff_chance)}ツのチャンスがあります。
+passive_skill_60010_2~effect_chance~0<>味方から有益な効果を受け取ったとき（サモナーは含まれていません）、{q(target_position)}に{q(effect_type)}を与え、{q(effect_type)}は{c(debuff_duration)}ラウンドの間最後に与えます。 Diadoraのアクティブスキルから{q(effect_type)}をキャッチした敵は、このスキルから{q(effect_type)}を取得できます。 
+passive_skill_60010_2~effect_chance~1<>味方から有益な効果を受け取ったとき（サモナーは含まれていません）、Diadoraは{p(effect_chance)}チャンスが{q(target_position)}に{q(effect_type)}を与え、{q(effect_type)}は{c(debuff_duration)}ラウンドの間最後になります。 Diadoraのアクティブスキルから{q(effect_type)}をキャッチした敵は、このスキルから{q(effect_type)}を取得できます。 
+passive_skill_60010_3~effect_chance~0<>通常の攻撃は{q(effect_trigger)}になっている目標に攻撃する場合、各ラウンドで{q(effect_type)}の効果の[{p(effect_amount)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで維持します
+passive_skill_60010_3~effect_chance~1<>通常の攻撃は{q(effect_trigger)}になっている目標に攻撃する場合、各グランドで{q(effect_type)}の効果の[{p(effect_amount)}攻撃]の{c(effect_duration)}ダメージを与える{p(effect_chance)}ツのチャンスがあります、{c(effect_duration)}ツのらラウンドで維持します
+passive_skill_60010_4~stat_buff_chance~0<>死んだ時、{q(effect_target_position)}に{q(effect_type)}を与えて、{c(duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げます。
+passive_skill_60010_4~stat_buff_chance~1<>死んだ時、{q(effect_target_position)}に{q(effect_type)}を与えて、{c(duration)}ツのラウンドで{p(stat_buff_amount)}で{q(stat_buff_target_position)}の{q(stat_buff_type)}を上げるチャンスが{p(stat_buff_chance)}あります
+passive_skill_60011_3<>通常の打撃が{q(damage_target_position)}に向く攻撃になり、目標の防御価値が自分のり高い場合、{p(bonus_damage)}ダメージをプラスに与えます
+passive_skill_60011_4<>敵手一人に通常の打撃を与えたたびに、 {p(stat_debuff_amount)}で敵手の{q(stat_debuff_type)}を下げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_60012_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます。当てられた敵手が{q(effect_trigger_class)}の場合、[{p(bonus_damage_with_class)}攻撃]のダメージをプラスに与え、及び{c(effect_duration)}ツのラウンドで{q(effect_type)}の{p(effect_chance)}ツのチャンスがあります。
+passive_60012_3<>クリティカル攻撃は各ラウンドで[{p(effect_dot_amount)} 攻撃]のダメージとの{q(effect_dot_type)}効果を与え、{c(effect_dot_duration)}ツのラウンドで維持します
+active_skill_60013_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、当てられた敵手の現在{q(steal_stat_type)}を{p(steal_stat_amount)}盗んで自分に加えます。
+passive_skill_60013_4<>同盟が死んだたびに自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_60014_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(bond_duration)}ツのラウンドでかれらを互いに連絡します。連絡された敵手は攻撃された時に受けたダメージを互いに等分されます。
+passive_skill_60015_3~effect_dot_chance~0<>通常の打撃が{q(damage_target_position)}に向く攻撃になり、各ラウンドで[{p(effect_dot_amount)} 攻撃]のダメージとの{q(effect_dot_type)}効果を与え、{c(effect_dot_duration)}ツのラウンドで維持します
+passive_skill_60015_3~effect_dot_chance~1<>通常の打撃が{q(damage_target_position)}に向く攻撃になり、各ラウンドで[{p(effect_dot_amount)} 攻撃]のダメージとの{q(effect_dot_type)}効果を与える{p(effect_dot_chance)}ツのチャンスがあり、{c(effect_dot_duration)}ツのラウンドで維持します
+active_skill_60016_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(effect_duration)}ツのラウンドで{p(bonus_1)}で{q(stat_1)}を上げます
+active_skill_60021_1~silent_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、敵手が{q(affected_hero_class)}会派であれば{c(silent_duration)}ツのラウンドで敵手に無言効果を付けます。
+active_skill_60021_1~silent_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、敵手が{q(affected_hero_class)}会派であれば{c(silent_duration)}ツのラウンドで敵手に無言効果を付ける{p(silent_chance)}ツのチャンスがあります
+passive_skill_60021_2~extra_turn_chance_per_crit~0<>通常の打撃はクリティカルになれば、[{p(damage_per_extra_turn)}攻撃]のダメージを与える追加打撃を作ります。各ラウンドで{c(extra_turn_limit)}回しか使えません。
+passive_skill_60021_2~extra_turn_chance_per_crit~1<>通常の攻撃を使った後、この打撃がクリティカルのであれば、該当ヒーローが[{p(damage_per_extra_turn)}攻撃]のダメージを持つ次の基本打撃を与えるツのチャンスがあり、{c(extra_turn_limit)}ツ以下のラウンドで維持します。
+passive_skill_60022_4~effect_chance~0<>打撃が各グランドで[{p(effect_amount)}攻撃]ダメージする{q(effect_type)}効果を与え、{c(effect_duration)}ツのラウンドで維持します
+passive_skill_60022_4~effect_chance~1<>通常の攻撃又はヒーロースキルは{c(effect_duration)}ツのラウンドで目標に向く{q(effect_type)}効果を付ける{c(effect_duration)}ツのチャンスがあります。各グランドで{q(effect_type)}効果が[{p(effect_amount)} 攻撃]のダメージを与えます
+passive_skill_60024_2~heal_chance~0<>ダメージを受けたたびに、自分に[受けた{p(heal_amount)}ダメージ]に相当するHP量をを取り戻します。
+passive_skill_60024_2~heal_chance~1<>ダメージを受けたたびに、自分に[受けた{p(heal_amount)}ダメージ]に相当するHP量をを取り戻す{p(heal_chance)}ツのチャンスがあります
+passive_skill_60025_2<>自分が実施したHP取り戻しの効果に当たる[{p(heal_bonus)}攻撃]に相当するHP量を上げます
+passive_skill_60026_4<>毒の効果により受けた{p(poison_damage_reduction)}のダメージを下げます
+active_skill_damage<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与えます
+passive_skill_30001_2<>敵手を一人殺したたびにその試合において{q(bonus_1)}で{q(stat_1)}、{q(bonus_2)}で{q(stat_2)}を上げます
+passive_skill_10008_4<>このヒーローが敵手を一人殺したたびに{q(bonus_1)}で{q(stat_1)}を上げます。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_effect_buff_heal~heal_duration~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}に[{p(heal_percent)} 攻撃]に相当するHP量を{q(heal_target_position)}に取り戻します
+active_skill_30021_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、各グランドで{q(heal_target_position)}に{p(heal_percent)}HPを取り戻し、{c(heal_duration)}ツのラウンドで維持します
+passive_skill_30004_3_40011_2_40019_4<>通常の打撃又はスキルで攻撃された時、{c(effect_duration)}ツのラウンドで{q(effect_type)}を与える{p(effect_chance)}ツのチャンスがあります
+passive_skill_20011_3~stat_buff_chance~0<>通常の打撃を与えたたびに{c(stat_buff_duration)}ツのラウンドで自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げます
+passive_skill_20011_3~stat_buff_chance~1<>通常の打撃を与えたたびに{c(stat_buff_duration)}ツのラウンドで自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げるチャンスが{p(stat_buff_chance)}あります
+passive_skill_30022_4<>通常の打撃が{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます
+active_skill_20008_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}を下げる盲の効果を与えます
+active_skill_30024_1_50013_1~stat_debuff_chance~0<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}を下げる盲の効果を与えます
+active_skill_30024_1_50013_1~stat_debuff_chance~1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}を下げる盲の効果を与えるチャンスが{p(stat_debuff_chance)}あります
+passive_skill_10010_4<>血量が{p(health_trigger)}未満の場合、自分に{p(stat_buff_amount)}で{q(stat_buff_type)}を上げ、{c(stat_buff_duration)}ツのラウンドで維持します。この効果は払拭、祝福、呪印の効果によって取り除くことはできません。
+active_skill_30027_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ツのラウンドで{p(stat_debuff_amount)}で当てられた敵手の{q(stat_debuff_type)}を下げる盲の効果を与えます. このヒーローは、与えたダメージの {p(heal_amount_by_damage)} に等しい量の HP を回復します。
+passive_skill_30027_2<>基本的な攻撃とアクティブなスキルは重要ではありません。 ただし、各{p(exchange_percent)} {q(exchange_stat)}（基本統計および追加された他のすべてから）は{p(target_percent)}{q(target_stat)}に変換されます。 この変換の最大量は{p(max_exchange)}です。 さらに、基本攻撃とアクティブスキルは、ヒットした敵の{c(deduct_power_amount)}エネルギーを減らします。
+passive_skill_30027_3<>このヒーローの生きている味方はそれぞれ{q(stat_1_buff_type_1)} {p(bonus_stat_type_1)}, {q(stat_1_buff_type_1)} {p(bonus_stat_type_1)}, {q(stat_debuff_type)} {p(stat_debuff_amount)}増加します。
+passive_skill_30027_4<>このヒーローが初めて{c(trigger_hp)}HPに落ちたとき、このヒーローは不可視になります。 {c(trigger_round)}ラウンド後、このヒーローは最初の{p(new_attack_percent)}に等しいATKの制限で目覚めます。 装甲の限界は最初の{p(new_defense_percent)}に等しく、HPの限界は最初の{p(new_hp_percent)}に等しい。
+passive_skill_60003_2~chance~0<>基本攻撃とアクティブスキルは、{c(effect_duration)}ラウンドの間、{p(effect_chance)}の確率で[{p(effect_amount)} ATK]に等しい{q(effect_type)}を適用します。
+passive_skill_60003_2~chance~1<>基本攻撃とアクティブスキルは、{c(effect_duration)}ラウンドの間、{p(effect_chance)}の確率で[{p(effect_amount)} ATK]に等しい{q(effect_type)}を適用します。
+active_skill_40027_1<>彼女は{c(transform_duration)}ラウンドの間ドラゴンの姿に変身する。 沈黙効果を得ても変身する。 変身の瞬間、彼女は3つの効果を適用します：\n1. [{p(skill_damage)} ATK]に等しいダメージを{q(stun_target_position)}に与える。\n2. {c(stun_duration)}ラウンドの間、{q(stun_target_position)}に{q(stun_effect_type)}効果を適用する。\n3. {q(enemy_bond_target_position)} との精神的な絆を築きます。 絆が残っているとき、彼女が受けたダメージの{p(bond_damage_percent)}が絆を持っている敵に転送されます。
+passive_skill_40027_2<>竜族の姫として、人型と竜型の2つの特殊能力を持つ。\n人間形態: 彼女は単一の標的を攻撃し、{c(human_stat_debuff_duration)} ラウンドの間標的の {p(human_stat_debuff_amount)} {q(human_stat_debuff_type)} を減少させます。 最大デバフは{p(human_stat_debuff_max)}です。\nドラゴンの形: 彼女は {q(dragon_target_position)} をヒットし、すべてのヒットがクリティカル ヒットになります。 彼女の{q(stat_1)}が{p(bonus_1)}増加し、攻撃時、彼女は与えたダメージの{p(dragon_heal_percent)}に等しい分だけ自分を回復する。   
+passive_skill_40027_3<>彼女は自分を攻撃した敵、または攻撃された敵に{q(effect_type)}の効果を適用します。 {q(effect_type)}効果は[{p(effect_amount)} ATK]のダメージを与え、{c(effect_duration)}ラウンド持続する。
+passive_skill_40027_4<>人型から竜型へ変化する際、解除可能なデバフを全てクリアし、竜の加護を受ける。 変身ラウンドでHPが{c(trigger_hp)}に達すると、ドラゴンの祝福が彼女のHPを{p(new_hp_percent)}回復します。
+passive_skill_40004_3<>基本攻撃が{q(damage_target_position)}に[攻撃力の{p(damage_attack)}]のダメージを与えるようになりました。 {q(stat_1)}を{p(bonus_1)}増やす。 {q(stat_2)}を{p(bonus_2)}増やす。 さらに、基本攻撃は、命中した敵の数に[攻撃力の{p(heal_percent)}]を掛けた数だけ自身を回復します。

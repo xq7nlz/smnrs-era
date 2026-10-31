@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,max_hp_to_kill,power_gain_when_kill
+Charon_Active,2.58,30,1,0.1,50
+Charon_Active,2.78,30,1,0.13,50
+Charon_Active,2.98,30,1,0.18,50

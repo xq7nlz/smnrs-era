@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>VIP награды
+vip_reward_content<>Поздравляем! Ты получил награды за достижение VIP {1}.
+friend_boss_last_hit_reward_subject<>Друг Босс Награда
+friend_boss_last_hit_reward_content<>Поздравляем! Ты получил Друг Босс награду за последний удар.
+friend_boss_cleared_reward_subject<>Друг Босс Награда
+friend_boss_cleared_reward_content<>Поздравляем! Ты получил награды за победу над Друг Босс.
+friend_season_ranking_reward_subject<>Рейтинг Сезона Друзей
+friend_season_ranking_reward_content<>Поздравляем! Ты получил {1} награды рейтинга сезона друзей.
+arena_season_ranking_reward_subject<>Арена Рейтинг Сезона
+arena_season_ranking_reward_content<>Поздравляем! Ты получил \ {1} наград рейтинга Арена сезона.
+arena_team_season_ranking_reward_subject<>Военная арена Рейтинг Сезона
+arena_team_season_ranking_reward_content<>Поздравляем! Ты получил \ {1} наград рейтинга Военная арена сезона.
+guild_boss_daily_reward_subject<>Ежедневная Награда Босса Гильдии
+guild_boss_daily_reward_content<>Поздравляем! Ты получил награды за присоединение к ежедневному Боссу Гильдии.
+guild_boss_monthly_reward_subject<>Ежемесячная Награда Босса Гильдии
+guild_boss_monthly_reward_content<>Поздравляем! Ты получил ежемесячные награды за Босса Гильдии.
+guild_dungeon_cleared_reward_subject<>Guild Dungeon Rewards
+guild_dungeon_cleared_reward_content<>Congratulations! You've received rewards for completing stage {1} of season {2} in the Guild Dungeon.
+guild_dungeon_season_reward_subject<>Подземелье Гильдии Награды Сезона
+guild_dungeon_season_reward_content<>Поздравляем! Ты получил награды за прохождение сезона {1} в Подземелье Гильдии.
+guild_war_battle_reward_subject<>Награды за Битву в Войне Гильдии
+guild_war_battle_reward_content<>Поздравляем! Ты получил награды за участие в битве {2} в сезоне {1} Войны Гильдии.
+guild_war_season_reward_subject<>Сезонные Награды за Битву в Войне Гильдии
+guild_war_season_reward_content<>Поздравляем! Ты получил награды за участие в сезоне {1} Войны Гильдии.
+purchase_raw_pack_subject<>Награды за Новое Снаряжение
+purchase_raw_pack_content<>Поздравляем! Ты получил награды за приобретение снаряжения {1}.\n ID Транзакции: {2}\n Время Транзакции: {3}
+purchase_subscription_pack_instant_subject<>Награды за Пакет Подписки
+purchase_subscription_pack_instant_content<>Поздравляем! Ты получил награды за покупку пакета подписки {1}.\n ID Транзакции: {2}\n Время Транзакции: {3}
+purchase_subscription_pack_daily_subject<>Ежедневная Награда за Пакет Подписки
+purchase_subscription_pack_daily_content<>Поздравляем! Ты получил ежедневные награды за пакет подписки {1}.\n День: {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>Награда за Лимитированное снаряжение
+purchase_limited_pack_content<>Поздравляем! Ты получил вознаграждение за покупку ограниченного пакета {1}.\n ID Транзакции: {2}\n Время Транзакции: {3}
+purchase_event_bundle_pack_subject<>Пакет Событий
+purchase_event_bundle_pack_content<>Поздравляем! Ты получил вознаграждение за покупку пакета событий {1}.\n ID Транзакции: {2}\n Время Транзакции: {3}
+purchase_event_hot_deal_subject<>Пакет Событий
+purchase_event_hot_deal_content<>Поздравляем! Ты получил вознаграждение за покупку пакета событий {1}.\n ID Транзакции: {2}\n Время Транзакции: {3}
+purchase_subscription_pack_trial_subject<>Награда за Пробный Ежедневный Пакет Подписки
+purchase_subscription_pack_trial_content<>Поздравляем! Ты получил ежедневные награды за пробный пакет подписки {1}.\n День: {2}
+purchase_first_time_reward_subject<>Приобрести первый раз вознаграждение
+purchase_first_time_reward_content<>Поздравляем! Вы впервые получили награды за покупку в игре в первый раз
+event_arena_subject<>Арена Событие
+event_arena_content<>Поздравляем! Ты получил награды за сезон {1} в событии Арена.
+event_casino_subject<>Колесо Судьбы Событие
+event_casino_content<>Поздравляем! Ты получил награду за сезон {1} в событии Подземелье Гильдии.
+event_hero_collect_subject<>Событие для Сбора Персонажей
+event_hero_collect_content<>Поздравляем! Ты получил награду за Сезон {1} в Событии для Сбора Персонажей.
+event_prophet_tree_subject<>Событие Древнего Древа
+event_prophet_tree_content<>Поздравляем! Ты получил награду за Сезон {1} в событии Война Гильдии.
+event_summon_subject<>Событие Заклинателей
+event_summon_content<>Поздравляем! Ты получил награду за Сезон {1} в Событии Заклинателей.
+event_tavern_subject<>событии Арена Гильдии
+event_tavern_content<>Поздравляем! Ты получил награду за Сезон {1} в событии Арена Гильдии.
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>Изменить пароль электронной почты для Summoner Era
+email_change_password_content<>Имя пользователя: {2}. Код сброса пароля {1}, Просрочен: {3}
+email_validation_subject<>Подтверждение по электронной почте для Summoner Era
+email_validation_content<>Код подтверждения {1}, Просрочен: {3}
+email_sender_name<>Поддержка Zitga
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Награда за Черную пятницу
+event_black_friday_content<>Поздравляю! Вы получили ежедневные награды от Black Friday Card {1}.\nДень: {2}\n
+event_new_year_subject<>Награда карты благословения
+event_new_year_content<>Поздравляю! Вы получили ежедневные награды от Карты Благословения.
+event_lunar_new_year_clear_boss_reward_subject<>Лунный Новый год Изгнать дьявола Награды
+event_lunar_new_year_clear_boss_reward_content<>Поздравляю! Вы имеете получить эти награды от Изгнать дьявола деятельности.
+event_new_hero_summon_subject<>Легендарный призыв  Награда 
+event_new_hero_summon_content<>Поздравляю! Вы получили эти награды за действие Легендарный призыв  
+maintenance_inform_title<>ОБЪЯВЛЕНИЕ ОБ ОБСЛУЖИВАНИИ СЕРВЕРА 
+maintenance_inform_title_content<>Дорогие призыватели,\nСовет хотел бы объявить, что сервер будет закрыт на техническое обслуживание {1}. В это время вы не сможете войти в систему.\nОбратите внимание, что в игру нельзя будет играть во время технического обслуживания. 
+maintence_reward_title<>ОБСЛУЖИВАНИЕ ВЫПОЛНЕНО
+maintence_reward_content<>Дорогие призыватели,\nТехническое обслуживание завершено. Мы хотели бы отправить вам этот подарок в качестве благодарности за ваше терпение во время технического обслуживания.\nПродолжайте наслаждаться и завоевывать! 
+event_easter_card_subject<>Банни Карточка Награда 
+event_easter_card_content<>Поздравляю! Вы получили ежедневные награды от Банни Карточка.\nДень: %s 
+event_easter_egg_hunt_subject<>Сбор пасхальных яиц Награда 
+event_easter_egg_hunt_content<>Эти награды отправляются вам за ваше участие в мероприятиях. 
+event_new_hero_boss_ranking_subject<>Награда за почетный трофей
+event_new_hero_boss_ranking_content<>Поздравляю! Вы получили эту награду за достижение{1} лучших в Power Contest.
+domain_challenge_reward_subject<>Домены Награды
+domain_challenge_reward_content<>Поздравляю! Вы получили эти награды за прохождение {1} на этапе Домены.
+event_new_hero_release_subject<>Легендарный призыв  Награда 
+event_new_hero_release_content<>Поздравляю! Вы получили эти награды за действие Легендарный призыв  
+purchase_event_hero_release_subject<>Успешная транзакция
+purchase_event_hero_release_content<>Вы получаете эти предметы за покупку пакетов во время нового события героя. Спасибо, что всегда поддерживаете нас.
+premium_reward_subject<>Награда за премиум-версию
+premium_reward_content<>Вы получаете эти предметы за покупку премиум-версии нашей игры. Спасибо, что всегда поддерживаете нас.
+event_server_open_arena_subject<>Арена Награда в таблице лидеров
+event_server_open_arena_content<>Поздравляю! Вы получили эти награды в рейтинговой гонке Арена!
+event_server_open_arena_2_subject<>Военная арена Награда в таблице лидеров
+event_server_open_arena_2_content<>Поздравляю! Вы получили эти награды в рейтинговой гонке Военная арена!
+event_unclaimed_reward<>Вот твоя невостребованная награда.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Награды военного мероприятия судьбы
+event_birthday_dark_light_content<>Поздравляю! Вы получили эту награду от деятельности Destiny War Event.\n- Сторона света: {1} баллы\n- Сторона Темного: {2} баллы
+event_birthday_summon_subject<>Вознаграждение за день рождения
+event_birthday_summon_content<>Поздравляю! Вы получили эти награды за участие в еженедельной миссии.
+event_birthday_prophet_tree_subject<>Вознаграждение за день рождения
+event_birthday_prophet_tree_content<>Поздравляю! Вы получили эти награды за участие в еженедельной миссии.
+event_birthday_arena_subject<>Вознаграждение за день рождения
+event_birthday_arena_content<>Поздравляю! Вы получили эти награды за участие в еженедельной миссии.
+event_birthday_casino_subject<>Вознаграждение за день рождения
+event_birthday_casino_content<>Поздравляю! Вы получили эти награды за участие в еженедельной миссии.
+event_zodiac_exchange_subject<>Zodiac Event Conding Mail
+event_zodiac_exchange_content<>Уважаемые призыватели!\nСобытие Зодиака завершилось. Астральная звезда было преобразовано в эти ресурсы. Благодарим вас за посещение мероприятия и надеемся, что вы хорошо проведете время, играя в игру.
+purchase_subscription_pack_daily_bonus_subject<>VIP ежедневные бонусные награды
+purchase_subscription_pack_daily_bonus_content<>Поздравляю! Вы получили эти награды в качестве VIP -бонусной выгоды ежемесячной карты.
+event_thanks_giving_subject<>Мероприятие День Благодарения
+event_thanks_giving_content<>Поздравляю! Вы закончили круг в игре в кости. Замените эту награду сейчас!
+event_christmas_subject<>Мероприятие Рождество
+event_christmas_content<>Поздравляю!
+event_boss_challenge_ranking_subject<>Boss Challenge Randing Rewards
+event_boss_challenge_ranking_content<>Поздравляю! Вы получили эти награды от деятельности Boss Challenge.
+event_valentine_subject<>Событие Валентина
+event_valentine_content<>Поздравляю!
+event_lunar_new_year_subject<>Событие Lunar Новый год
+event_lunar_new_year_content<>Поздравляю!
+event_summer_day_subject<>Событие летние каникулы
+event_summer_day_content<>Поздравляю!
+event_blossom_day_subject<>Мероприятие вишневого цвета
+event_blossom_day_content<>Поздравляю!
+event_qixi_festival_subject<>Событие Qixi Festival
+event_qixi_festival_content<>Поздравляю!
+event_may_day_subject<>Событие Мексика Фестиваль
+event_may_day_content<>Поздравляю!

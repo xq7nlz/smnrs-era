@@ -1,0 +1,4 @@
+name,hp_limit,trigger_chance,trigger_limit,target_position,target_number
+Fragnil_Passive3,0.5,0.5,1,10,5
+Fragnil_Passive3,0.5,0.75,1,10,5
+Fragnil_Passive3,0.5,1,1,10,5

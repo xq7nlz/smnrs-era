@@ -1,0 +1,4 @@
+name,effect_chance,effect_type,effect_amount,effect_duration
+DeadServant_Passive3,0.5,10,0.3,3
+DeadServant_Passive3,0.5,10,0.4,3
+DeadServant_Passive3,0.5,10,0.5,3

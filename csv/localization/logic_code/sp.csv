@@ -1,0 +1,322 @@
+key<>value
+0<>Esta acción se realizó sin causar ningún error
+1<>Se produjó un error.
+2<>El servidor no responde
+4<>No se han encontrado jugadores
+5<>Los datos de entrada no son válidos.
+6<>Los recursos no son suficientes
+10<>Sin apoyo
+11<>Ha ajustado la hora, por favor corríjala.
+12<>Esta version no es valida
+13<>El nombre del paquete no es válido
+14<>Este valor no es válido
+15<>Este valor no es válido
+16<>El número de archivos CSV no coincide
+17<>El archivo CSV no coincide
+30<>El registro ha sido confirmado
+31<>La cuenta ya ha sido iniciada por otro dispositivo
+32<>Esta cuenta tiene información de inicio de sesión duplicada
+33<>Se produjo un error.
+34<>Contraseña incorrecta
+35<>Confirme que el jugador ha sido bloqueado
+36<>Verificación de la identidad del servidor no válida
+37<>La cuenta verificada no tiene nombre de usuario
+38<>Contraseña incorrecta
+40<>Este valor ya existe
+41<>La contraseña verificada ha sido utilizada
+50<>El formato del nombre del jugador no es válido
+51<>El nombre del jugador ha sido prohibido
+52<>Nombre de usuario ya existe
+53<>El jugador ha sido bloqueado
+54<>El jugador ha sido desbloqueado
+55<>La lista de usuarios bloqueados está llena.
+56<>La identidad de Facebook del jugador ya existe
+57<>La identidad de Apple ya existe
+58<>El nombre de usuario no es válido.
+65<>Se ha producido un error
+70<>La colección de Héroes está llena.
+71<>El nivel de Héroe se limita
+72<>Las estrellas del Héroe se restringue
+73<>No se encuentra Ningún Héroe
+74<>Este héroe ha sido bloqueado
+75<>El material evolutivo no es válido.
+76<>Actualiza el héroe para lograr al nivel máximo.
+77<>Los materiales no son suficientes para evolucionar al héroe.
+78<>El héroe está siendo entrenado en el modo de entrenamiento.
+80<>Recibió recompensas diarias
+85<>Incapaz de desmontar el altar
+90<>Fragmentos de héroe no son suficientes
+91<>No se encontraron fragmentos de héroe.
+100<>El cambio falló
+101<>No se encuentra ningúno héroe para cambiar
+110<>No se pueden comprar los edictos imperiales de convocatoria
+120<>El nivel del articulo no es suficiente
+121<>El nivel del articulo ha alcanzado el límite.
+122<>Artículo no equipado
+123<>Artículo no encontrado
+124<>Artículo no adecuado
+130<>Las rondas de compra en el Raid han alcanzado su límite.
+131<>No se ha encontrado el modo Desafío
+132<>El nivel Desafío no es suficiente
+140<>El héroe ha ingresado Infierno
+141<>El héroe en Infierno está muerto
+142<>Necesitas seleccionar al menos 1 héroe
+143<>No se ha encontrado la Tienda de Mazmorra
+144<>Infierno se cerró
+145<>Seleccionar 5 héroes como máximo
+146<>La posición del héroe en Dungeon no es válida.
+148<>No se encontró ningún héroe en la Mazmorra
+149<>No se encontró poción en la Mazmorra
+150<>La etapa en Infierno alcanza el nivel máximo
+160<>Tabla suplementaria ha alcanzado el límite
+161<>Tabla suplementaria ha sido bloqueado
+162<>El reinicio falló
+163<>Reinstalado Tabla suplementaria
+170<>Seleccionado Invocador
+171<>No puedo elegir Invocador
+172<>No se pueden seleccionar las habilidades del Invocador
+173<>El número de estrellas del Invocador ha alcanzado el límite.
+180<>No se puede comprar más Piedras de destino
+181<>No se puede comprar más Piedras de deseos
+190<>No se puede recibir oro
+200<>Se ha alcanzado el límite de compra.
+201<>Torre del Dragón ha alcanzado el piso máximo
+210<>No hay misión para actualizar
+211<>No se pudo cambiar la clave de la misión.
+212<>No se puede cancelar la misión.
+213<>Incapaz de comenzar esta misión
+214<>No se ha encontrado ninguna misión.
+215<>Este héroe se ha unido a otra misión.
+216<>Este héroe no cumple con los requisitos de la misión.
+217<>La misión de la taberna no está completa.
+218<>La misión de la taberna está completa.
+219<>La misión de la taberna ha alcanzado su límite.
+220<>La misión de la taberna no se puede acelerar
+230<>La función está bloqueada
+240<>El entrenamiento automático está lleno
+241<>El período de Campaña ha sido limitado
+242<>No se ha encontrado la fase de campaña.
+243<>La fase de la campaña está bloqueada
+244<>El entrenamiento del Héroe no es válido
+245<>Por favor, seleccione Hero para participar en el entrenamiento
+246<>El nivel de la Campaña no es suficiente.
+250<>Los amigos ya existen
+251<>La solicitud ya ha sido enviada.
+252<>La lista de amigos está llena.
+253<>No se encontraron amigos.
+254<>No se encuentra la solicitud de amistad
+255<>Incapaz de reconocer
+256<>El reconocimiento falló
+257<>El jefe ya existe
+258<>No se ha encontrado Jefe de Amigos
+259<>La diferencia de nivel es demasiado grande.
+260<>Fuera de las redadas
+265<>Los puntos de amigos han alcanzado su límite
+266<>No hay puntos de amigos
+270<>Has alcanzado el límite para enviar correos
+271<>No se encontró correo
+272<>No se borró el correo
+273<>No se puede obtener una recompensa en correo
+274<>Longitud de correo inválida
+290<>No se encuentra ningún rival
+291<>Todavía no se crea una formación de Arena
+292<>Las compras de boletos de Arena han llegado al límite
+300<>No se encontró historia
+310<>Chat fallido
+311<>La longitud no es válida.
+312<>Mensaje de chat no encontrado
+320<>No se encontraron videos de recompensa.
+321<>Se ha alcanzado el límite para ver la recompensa de video
+350<>El jugador se ha unido a otro Gremio
+351<>No se ha encontrado ningún Gremio.
+352<>Acabas de salir del Gremio, Entrelo de nuevo  después de %s minutos
+353<>Los gremios están llenos
+354<>No se encontraron miembros del Gremio
+355<>No puedo abandonar el Gremio
+360<>Nombre de gremio no válido
+361<>El nombre del Gremio ha sido prohibido
+362<>El nombre del Gremio ya existe
+363<>La descripción de Gremio no válida
+364<>La descripción del Gremio ha sido prohibida
+370<>El nivel de maestría no es suficiente
+371<>No se puede cumplir la solicitud
+372<>Ya suficientes Maestros Adjuntos
+373<>Los miembros han sido revisados
+374<>Las rondas de inspección en el Gremio han alcanzado el límite
+375<>Las donaciones estatales han alcanzado su límite
+376<>El miembro ha estado inactivo durante demasiado tiempo.
+380<>Lista para unirse
+381<>La lista de solicitudes para unirse está llena
+382<>No se encontró una lista de unión
+390<>El nivel de construcción del Gremio ha alcanzado el límite
+391<>Por favor, espere hasta que la construcción esté completa.
+392<>No se puede actualizar la construcción del Gremio
+393<>El molinillo aún no se ha construido.
+394<>Incapaz de obtener recursos
+400<>No se encontró el Jefe del Gremio
+401<>Ha desafiado al Jefe del Gremio
+402<>No puede desafiar al Jefe de Gremio
+403<>No se puede seleccionar el Jefe del Gremio
+404<>No se encontraron estadísticas.
+410<>Desafiado Infierno de Gremio
+411<>Infierno de Gremio no encontrado
+412<>No se puede encontrar el modo Infierno de Gremio
+413<>Infierno de Gremio se ha cerrado
+422<>No se encuentra ningún rival en Guerra de gremio
+423<>No se puede seleccionar el Gremio del rival
+424<>Number member mismatched
+425<>No se encuentra ningún rival en Guerra de gremio
+426<>Alcanzó el límite de ataque durante la Guerra de Gremios
+427<>Unable to join due to not registering for guild war
+428<>Not participated
+430<>El registro para la Guerra de Gremios terminó
+431<>El registro para la Guerra de Gremios terminó
+450<>No se ha encontrado ninguna misión.
+451<>No se pueden reclamar recompensas de misiones
+452<>El desbloqueo de la misión falló
+460<>No se encontraron artículos en la tienda.
+461<>Agotado
+470<>La formación no es válida
+480<>Ningún avatar encontrado
+481<>No se ha encontrado el marco del avatar.
+490<>No se encontraron instrucciones.
+501<>Estos datos no se devuelven
+502<>Estos datos no se devuelven
+503<>La contraseña ha caducado
+504<>La contraseña no coincide
+510<>Correo enviado se limita
+511<>Código de correo electrónico se limita
+512<>El código de verificación de correo electrónico ha caducado
+513<>El código de verificación de correo electrónico no coincide
+514<>El correo electrónico ya existe
+515<>El correo electrónico no pudo ser enviado
+516<>El correo electrónico ha sido confirmado
+517<>Este correo electrónico no se puede encontrar
+518<>Este correo no ha sido confirmado
+600<>Este paquete de compra no se encuentra
+601<>La transacción de compra no es válida.
+602<>Vencimiento de la primera vez para comprar paquetes
+603<>Este paquete de compra no está disponible actualmente
+604<>Agotado
+605<>La compra ha sido procesada
+606<>Esta transacción de compra no es compatible
+607<>No se encuentra esta transacción de compra
+700<>Evento no abierto
+701<>No se encontraron eventos.
+740<>Recompensa de inicio de sesión de evento recibida
+741<>Recompensa de inicio de sesión de evento no encontrada
+750<>No se encontraron recompensas en el evento del festival.
+751<>Recibió una recompensa del evento de festival
+752<>No cumple con los requisitos del evento del festival.
+760<>El evento de intercambio ha alcanzado su límite.
+761<>Incapaz de hacer intercambio
+770<>No se encontraron recompensas de clasificación en la Arena
+771<>No se cumplieron los requisitos de calificación en la Arena
+772<>Recibió la recompensa de clasificación en la Arena.
+780<>El evento Rueda del Destino no se puede girar
+781<>El evento Rueda del Destino no se puede volver a hacer
+782<>Reorganización del evento se limita Rueda del Destino
+783<>El evento Rueda del Destino se ha completado
+784<>El evento de la rueda del destino no tiene misión asignada
+785<>El evento Rueda del Destino aún no se ha asignado
+786<>El evento Rueda del Destino no se ha completado
+262<>Los amigos del jugador están llenos
+414<>Etapa ha sido completada
+261<>El jefe ha sido derrotado
+60<>Google account already exists
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Fin de la Guerra de Gremios
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>El nombre del equipo no es válido.
+656<>El nombre del equipo ha sido prohibido.
+657<>La descripción del equipo no es válida.
+658<>La descripción del equipo ha sido prohibida.
+660<>Ya se ha unido a un equipo.
+661<>No se ha encontrado el equipo.
+662<>No estás en un equipo.
+663<>No encontrar este jugador.
+664<>
+665<>Este equipo está luchando.
+666<>Este equipo ha llegado a miembros de pleno derecho.
+667<>Este equipo se ha disuelto.
+668<>Some players have not been ready.
+670<>Este jugador ya ha sido invitado.
+671<>Limitar el número de invitaciones
+672<>La invitación se ha agotado porque el equipo se ha disuelto.
+673<>La invitación se ha agotado porque el equipo se ha disuelto.
+675<>Se ha enviado la solicitud para este equipo.
+676<>Limite el número de aplicaciones.
+677<>
+678<>
+679<>
+680<>Listo está en tiempo de recuperación. Se paciente.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Número de entradas al máximo
+669<>No hay suficientes miembros para empezar.
+357<>No has estado en un gremio.
+690<>No podía dejar el equipo ahora.
+151<>Manipula demasiado rápido. Vuelve a abrir el juego para resolver este problema.
+654<>Esta jugadora no ha guardado su formación.
+686<>Reduzca la velocidad, ha cambiado de líder demasiado rápido.
+616<>Aún no has elegido Hero o artefacto.
+1126<>Ha alcanzado el nivel máximo, por lo que no necesita comprar el nivel.
+1152<>No tienes más giros.
+1151<>No tienes más giros.
+1153<>Has alcanzado el máximo de tiradas.
+742<>No se pudo reclamar esta recompensa.
+1160<>Debes elegir un héroe para completar la compra.
+1163<>You need choose an item to claim.
+984<>Necesitas elegir un héroe antes de intercambiar.
+994<>Has recibido todas las recompensas.
+203<>Su nivel no se combina para asistir a este piso.
+1251<>Has redimido la recompensa máxima.
+1253<>No es suficiente recurso para unir a la estrella.
+1262<>Complete todos los requisitos para recibir.
+125<>Desbloquear cuando Hero alcanza las 14 estrellas

@@ -1,0 +1,4 @@
+name,stat_buff_type,stat_buff_duration,stat_buff_amount,heal_amount,cc_trigger_class,cc_trigger_chance,cc_trigger_type,cc_trigger_duration
+Neutar_Passive3,11,2,0.15,0.4,2,0.25,1,2
+Neutar_Passive3,11,2,0.15,0.6,2,0.25,1,2
+Neutar_Passive3,11,2,0.15,0.8,2,0.25,1,2

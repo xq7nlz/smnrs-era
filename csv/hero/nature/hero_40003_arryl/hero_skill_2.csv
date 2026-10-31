@@ -1,0 +1,4 @@
+name,effect_chance,effect_type,effect_duration,effect_amount,effect_dryad_duration,effect_dryad_amount
+Arryl_Passive1,1,10,2,0.15,2,0.15
+Arryl_Passive1,1,10,3,0.2,3,0.2
+Arryl_Passive1,1,10,4,0.3,4,0.25

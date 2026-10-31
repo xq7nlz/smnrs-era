@@ -1,0 +1,145 @@
+key<>value
+money_type_-1<>Zufällige Währung
+money_type_0<>Gold ist normale Währung.
+money_type_1<>Gems ist die seltenste Währung.
+money_type_2<>Verwendet werden, um deine Rechte zu aktualisieren
+money_type_10<>Verwendet werden, um das Level der Helden in der Heldentabelle zu erhöhen
+money_type_11<>Zur Entwicklung von Helden verwendet werden, im Suchen-Baum oder in Drachenturm gesammelt werden können
+money_type_20<>Verwendet werden, um Gegenstände in Schreinladen zu kaufen.
+money_type_30<>Verwendet zum Spinnen in Glücksrad werden
+money_type_31<>Verwendet zum Spinnen in Schicksalsrad werden
+money_type_32<>Verwendet werden, um Gegenstände in Wunschladen zu kaufen.\n
+money_type_40<>Verwendet werden, um Arena einzugeben.
+money_type_41<>Verwendet werden, um Gegenstände in Arena-Laden zu kaufen.
+money_type_50<>Zum Beschwören in Grundlegende Beschwörung verwendet werden
+money_type_51<>Zum Beschwören in Prämien-Beschwörung verwendet werden
+money_type_52<>Verwendet werden, um einen 5-Sterne-Held in Beschwörung zu erhalten
+money_type_60<>Zum Beschwören in Alter Baum verwendet werden
+money_type_61<>Verwendet werden, um den Held in Alter Baum zu ersetzen.
+money_type_70<>Zum Beschwören in Freundschaftsbeschwörung verwendet werden
+money_type_80<>Verwendet werden, um den Stein in der Ausrüstung des Helden zu verbessern.
+money_type_85<>Verwendet werden, um Drachenturm einzugeben.
+money_type_90<>Verwendet werden, um Aufgaben von 1 Stern ~ 7 Stern in Taverne zu initialisieren.
+money_type_91<>Verwendet werden, um Aufgaben von 4 Stern ~ 7 Stern in Taverne zu initialisieren.
+money_type_100<>Verwendet zum Upgrade in Beherrschung werden
+money_type_110<>Verwendet werden, um den Beschwörer in der Beschwörertabelle zu entwickeln
+money_type_120<>Verwendet werden, um Gegenstände in Vereinladen zu kaufen.
+money_type_121<>Verwendet werden, um Gegenstände in Vereinladen zu kaufen.
+money_type_8<>Verwendet zum Upgrade der Beschwörer werden
+money_type_140<>Für den Kauf der Helden im Seelenladen verwendet werden
+money_type_141<>Für den Kauf der Helden im Seelenladen verwendet werden
+money_type_142<>Für den Kauf der Helden im Seelenladen verwendet werden
+money_type_135<>Für das Ereignis Servereröffnung verwendet werden
+money_type_150<>Use for upgrading Arena Shop
+money_type_151<>Use for upgrading Guild Store
+money_type_152<>Use for upgrading Black Market Shop
+money_type_190<>Use for increasing Arena Pass Level
+money_type_191<>Use for increasing Daily Quest Pass Level
+money_type_180<>Verwenden Sie für die Wette auf die Veranstaltung Mitte im Auto
+money_type_181<>Zum Füttern der Bestie im Event Mid-Autumn
+money_type_210<>Use for playing game in Event Halloween
+money_type_211<>Use for exchanging reward in Event Halloween
+money_type_170<>Use for unlocking slot in Raise Hero Level
+money_type_200_unused<>Wird verwendet, um Strukturen von [Marrianna Bay] in [Fortress] zu verbessern.
+money_type_201<>Verwendet, um Material zu entwickeln
+money_type_202<>Verwendet, um Material zu entwickeln
+money_type_203<>Verwendet, um Material zu entwickeln
+money_type_204<>Verwendet, um Material zu entwickeln
+money_type_205<>Verwendet, um Material zu entwickeln
+money_type_206<>Verwendet, um Material zu entwickeln
+money_type_207<>Verwendet, um Material zu entwickeln
+money_type_208<>Used to upgrade structures of Spirit World in Fortress
+money_type_209<>Used to upgrade structures of Library of Time in Fortress
+money_type_220<>Verwenden Sie für den Segen im Weihnachtssegen
+money_type_221<>Verwenden Sie für Wetten in der Weihnachtsarena
+money_type_222<>Verwenden Sie zum Austausch von Belohnungen im Weihnachtsaustausch
+money_type_230<>Wird zum Spielen von Glückliche Wünsche verwendet.
+money_type_241<>Wird verwendet, um Gegenstände in Gott des wohlstands laden auszutauschen.
+money_type_240<>Wird verwendet, um Wohlhabende Allee zu spielen
+money_type_244<>Wird in Legendary Summon verwendet
+money_type_245<>Wird verwendet, um Teufel in Expel Teufel zu bekämpfen
+money_type_242<>Wird verwendet, um Level von Expel Teufel freizuschalten.
+money_type_243<>Wird verwendet, um Geschenke in Glückliches Geld auszutauschen.
+money_type_250<>Wird verwendet, um im Veranstaltung Valentine auszutauschen
+money_type_251<>Wird verwendet, um Love Box im Event Valentine zu öffnen
+money_type_165<>Wird verwendet, um Event zu spielen Grüße Neuen Helden 
+money_type_45<>Verwendet werden, um Martial Arena  einzugeben.
+money_type_46<>Wird verwendet, um Artikel in Ritterladen zu kaufen. 
+money_type_154<>Wird zum Upgrade verwendet Ritterladen 
+money_type_136<>Wird verwendet, um Belohnungen im Ereignis Server Merging zu erhalten
+money_type_12<>Used to awake Hero
+money_type_25<>Wird verwendet, um Hero zu regressieren
+money_type_235<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_236<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_237<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_238<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_239<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_166<>Wird verwendet, um Event zu spielen Grüße Neuen Helden 
+money_type_167<>Wird verwendet, um Belohnungen für den Kampf gegen Enule Boss auszutauschen
+money_type_225<>Wird verwendet, um das Rad beim Geburtstagsereignis zu drehen
+money_type_168<>Wird verwendet, um beim Geburtstagsereignis Schätze zu jagen
+money_type_115<>Erhalten bei Domain. Offen, um Belohnungen zu erhalten
+money_type_116<>Erhalten bei Domain. Offen, um Belohnungen zu erhalten
+money_type_117<>Erhalten bei Domain. Offen, um Belohnungen zu erhalten
+money_type_118<>Erhalten bei Domain. Offen, um Belohnungen zu erhalten
+money_type_119<>Erhalten bei Domain. Offen, um Belohnungen zu erhalten
+money_type_113<>Wird verwendet, um Artikel im Domain-Shop zu kaufen
+money_type_195<>Wird verwendet, um den Battle Pass-Fortschritt zu verbessern.
+money_type_15<>Wird verwendet, wenn Upgrade Ausrüstungen
+money_type_35<>Erhalten bei Arena. Offen, um Belohnungen zu erhalten
+money_type_36<>Erhalten bei Arena. Offen, um Belohnungen zu erhalten
+money_type_37<>Erhalten bei Arena. Offen, um Belohnungen zu erhalten
+money_type_248<>Wird verwendet, um an Aktivitäten bei der Veranstaltung Mondneujahr teilzunehmen.
+money_type_249<>Sammeln Sie, um Belohnungen beim Mondneujahr-Event zu erhalten.
+money_type_65<>Verwenden, um den Kazetsu-Boss-Eintrag zu erhöhen
+money_type_231<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_232<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_233<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_234<>Wird verwendet, um am Oster-Event teilzunehmen
+money_type_66<>Wird verwendet, um Finde Boss zu bekämpfen
+money_type_252<>Wird zur Teilnahme an {1}-Event verwendet
+money_type_226<>Wird verwendet, um an einer Geburtstagsereignis teilzunehmen.
+money_type_22<>Fragte den willigen Helden.
+money_type_23<>Fragte den willigen Helden.
+money_type_227<>Wird verwendet, um den Fortschritt des Legacy Pass zu erhöhen.
+money_type_26<>Wird verwendet, um dunkles, helles Fraktionartefakt zu empfangen.
+money_type_27<>Wird verwendet, um W/F/A/N-Fraktionsartefakte zu erhalten
+money_type_175<>Wird zum Spielen von Ereignissen verwendet.
+money_type_176<>Wird zum Spielen von Ereignissen verwendet.
+money_type_215<>Wird verwendet, um an der Skin Challenge -Veranstaltung teilzunehmen.
+money_type_196<>Wird verwendet, um Belohnungen im Battle Pass Shop auszutauschen.
+money_type_95<>Dieser Artikel wird zum Entsperren und Aktualisieren von Talenten verwendet.
+money_type_200<>Verwendet, um Material zu entwickeln
+money_type_253<>Wird verwendet, um Event Tower of Eitri zu spielen
+money_type_254<>Wird verwendet, um Belohnungen im Austauschbereich auszutauschen
+money_type_223<>Ich benutze, um beim Sommerfest zu spielen
+money_type_224<>Verwenden Sie, um Mojito für das Sommerfest zu machen
+money_type_125<>Offen für Wasserkugel
+money_type_126<>Ich benutze, um beim Sommerfest zu spielen
+money_type_127<>Ich benutze, um beim Sommerfest zu spielen
+money_type_128<>Ich benutze, um beim Sommerfest zu spielen
+money_type_129<>Ich benutze, um beim Sommerfest zu spielen
+money_type_137<>Verwenden Sie, um Boss im Bosskampf -Event herauszufordern
+money_type_182<>Zum Eintauschen von Belohnungen im Event Mid-Herbst
+money_type_255<>Verwendung zum Austausch von Gegenständen im Turm der Eitri -Veranstaltung
+money_type_185<>Verwenden Sie zum Austausch von Gegenständen in Piece Adventure Event
+money_type_186<>Verwenden Sie für offene Brust im Stück Abenteuerereignis
+money_type_101<>Verwenden Sie das Spielen bei Thanksgiving -Events
+money_type_102<>Verwenden Sie den Austausch von Belohnungen bei Thanksgiving -Events
+money_type_75<>Benutzer für das Spielen des Goldmodus im Abenteuer
+money_type_76<>Benutzer für das Spielen des Trankmodus im Abenteuer
+money_type_77<>Benutzer für das Spielen des Fragmentmodus im Abenteuer
+money_type_43<>Wird verwendet, um Artikel in Ritterladen zu kaufen. 
+money_type_229<>Wird zum Austausch im Event Neujahr gewohnt
+money_type_78<>Wird verwendet, um im Event -Mond Neujahr auszutauschen
+money_type_79<>Wird verwendet, um Bingo im Event Neujahr zu spielen
+money_type_217<>Wird an die Osterreise in Event Ostern Day gewöhnt
+money_type_218<>Wird zum Austausch in Event Ostern Day gewohnt
+money_type_81<>Es wurde gewohnt, Sommerferien in der Veranstaltung zu reisen, Sommerferien
+money_type_82<>Der Austausch in Events Sommerferien gewohnt
+money_type_62<>Wird verwendet, um die Blume im Event Kirschblüte anzusehen
+money_type_63<>Wird verwendet, um in der Veranstaltung Kirschblüte auszutauschen
+money_type_86<>Gewohnt, Liebe im Event Qixi Day zu wünschen
+money_type_87<>Wird verwendet, um im Event Qixi Day auszutauschen
+money_type_72<>Wird an Lucky Bingo im Event Mexico Festival gewohnt
+money_type_73<>Es wurde der Austausch auf dem Mexiko Festival des Events gewohnt

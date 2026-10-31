@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_type,stat_debuff_duration,stat_debuff_amount
+Japulan_Active,1.61,20,2,1,2,0.1
+Japulan_Active,2.01,20,2,1,2,0.15
+Japulan_Active,2.41,20,2,1,2,0.2

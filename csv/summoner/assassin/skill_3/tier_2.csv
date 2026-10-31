@@ -1,0 +1,5 @@
+name,star,target_position,target_number,target_class,bond_target_position,bond_target_number,bond_share_damage,bond_duration
+Main_Passive2,8,52,3,4,10,2,0.2,1
+Main_Passive2,9,52,3,4,10,2,0.25,1
+Main_Passive2,10,52,3,4,10,2,0.35,1
+Main_Passive2,11,52,3,4,10,2,0.5,1

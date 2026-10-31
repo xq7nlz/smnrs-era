@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration,effect_trigger_class
+Lith_Active,0.85,21,4,0.3,3,2,4
+Lith_Active,1,21,4,0.3,3,2,4
+Lith_Active,1.15,21,4,0.3,3,2,4

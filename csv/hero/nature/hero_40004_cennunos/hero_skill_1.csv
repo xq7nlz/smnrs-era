@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Cennunos_Active,1.3,20,4,0.8,40,2
+Cennunos_Active,1.5,20,4,0.9,40,3
+Cennunos_Active,1.7,20,4,1,40,3

@@ -1,0 +1,4 @@
+name,trigger_limit,stat_buff_type,stat_buff_amount,stat_buff_duration,stat_buff_target_position,stat_buff_target_number
+Ifrit_Passive3,1,1,0.2,2,10,5
+Ifrit_Passive3,1,1,0.3,2,10,5
+Ifrit_Passive3,1,1,0.4,2,10,5

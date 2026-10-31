@@ -1,0 +1,4 @@
+name,blood_mark_chance,blood_mark_duration,health_trigger,stat_buff_duration,stat_buff_type,stat_buff_amount
+Kargoth_Passive1,1,2,0.3,2,41,0.15
+Kargoth_Passive1,1,3,0.3,2,41,0.15
+Kargoth_Passive1,1,4,0.3,2,41,0.15

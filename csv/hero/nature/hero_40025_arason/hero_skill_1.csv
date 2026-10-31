@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_duration,stat_buff_type,stat_buff_amount
+Arason_Active,1.2,10,3,10,3,3,2,0.2
+Arason_Active,1.4,10,3,10,3,3,2,0.2
+Arason_Active,1.6,10,3,10,3,3,2,0.2

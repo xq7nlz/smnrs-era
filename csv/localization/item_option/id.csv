@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) dan ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) or ({4})
+1_1_2_power<> + {1} {2} Saat Mulai Pertempuran
+1_1_2_4_power<> + {1} {2} ({3}) Saat Mulai Pertempuran
+1_1_2_5_power<> + {1} {2} ({3}) Saat Mulai Pertempuran
+1_1_2_4_5_power<> + {1} {2} ({3}) dan ({4}) Saat Mulai Pertempuran
+1_1_2_4_5_power_or<> + {1} {2} ({3}) or ({4}) when battle starts
+2_1<> + {1} Kerusakan
+2_1_2<> + {1} Kerusakan untuk {2}
+2_1_3<> + {1} Kerusakan Terhadap {2}
+2_1_4<> + {1} Kerusakan Terhadap {2}
+2_1_2_3<> + {1} Kerusakan untuk {2} Saat Melawan {3}
+2_1_2_4<> + {1} Kerusakan untuk {2} Saat Melawan {3}
+2_1_2_3_4<> + {1} Kerusakan untuk {2} Saat Melawan {3} dan {4}
+2_1_2_3_4_or<> + {1} Damage for {2} Against {3} or {4}
+5_1_3<>+ Kurangi {1} kerusakan yang ditangani oleh kelas pahlawan {2}
+5_1_4<>+ Mengurangi {1} kerusakan yang ditangani oleh faksi pahlawan {2}

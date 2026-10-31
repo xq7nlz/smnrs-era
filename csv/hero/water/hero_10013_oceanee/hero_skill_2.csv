@@ -1,0 +1,4 @@
+name,bonus_basic_attack,effect_trigger_class,effect_type,effect_chance,effect_duration
+Oceanee_Passive1,0.2,2,1,0.35,2
+Oceanee_Passive1,0.25,2,1,0.45,2
+Oceanee_Passive1,0.3,2,1,0.55,2

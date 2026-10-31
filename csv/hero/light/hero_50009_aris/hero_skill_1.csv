@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,bonus_damage_faction_type,bonus_damage_faction_value
+Aris_Active,2.4,31,1,6,0.3
+Aris_Active,2.8,31,1,6,0.3
+Aris_Active,3.2,31,1,6,0.3

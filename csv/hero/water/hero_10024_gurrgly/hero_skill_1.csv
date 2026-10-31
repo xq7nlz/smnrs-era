@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Gurrgly_Active,0.9,10,2,1,0.1,2
+Gurrgly_Active,1.1,10,2,1,0.2,2
+Gurrgly_Active,1.3,10,2,1,0.3,2

@@ -1,0 +1,4 @@
+name,stat_buff_chance,stat_buff_type,stat_buff_amount,stat_buff_value_max
+Cennunos_Passive1,1,2,0.2,3
+Cennunos_Passive1,1,2,0.3,5
+Cennunos_Passive1,1,2,0.5,7

@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) und ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) oder ({4})
+1_1_2_power<> + {1} {2} Wenn die Schlacht beginnt
+1_1_2_4_power<> + {1} {2} ({3}) Wenn die Schlacht beginnt
+1_1_2_5_power<> + {1} {2} ({3}) Wenn die Schlacht beginnt
+1_1_2_4_5_power<> + {1} {2} ({3}) und ({4}) Wenn die Schlacht beginnt
+1_1_2_4_5_power_or<> + {1} {2} ({3}) oder ({4}) au début de la bataille
+2_1<> + {1} Schaden
+2_1_2<> + {1} Schaden für {2}
+2_1_3<> + {1} Schaden gegen {2}
+2_1_4<> + {1} Schaden gegen {2}
+2_1_2_3<> + {1} Schaden für {2} wenn gegen {3}
+2_1_2_4<> + {1} Schaden für {2} wenn gegen {3}
+2_1_2_3_4<> + {1} Schaden für {2} wenn gegen {3} und {4}
+2_1_2_3_4_or<> + {1} Dégâts causés par {2} contre {3} oder {4}
+5_1_3<>+ Reduzieren Sie {1} Schaden, der von der Hero Class {2} behoben wurde
+5_1_4<>Reduziere {1} von der Heldenfraktion {2} verursachten Schaden

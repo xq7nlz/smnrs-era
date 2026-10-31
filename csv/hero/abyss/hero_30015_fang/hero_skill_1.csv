@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_type,dot_chance,dot_duration,dot_amount
+Fang_Active,1.4,11,1,11,1,2,0.15
+Fang_Active,1.6,11,1,11,1,2,0.2
+Fang_Active,1.8,11,1,11,1,2,0.25

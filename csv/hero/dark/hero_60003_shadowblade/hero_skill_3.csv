@@ -1,0 +1,4 @@
+name,percent_trigger,stat_buff_1_type,stat_buff_1_amount,stat_buff_2_type,stat_buff_2_amount,stat_buff_3_type,stat_buff_3_amount
+ShadowBlade_Passive2,0.02,1,0.05,2,0.04,10,0.02
+ShadowBlade_Passive2,0.02,1,0.08,2,0.05,10,0.03
+ShadowBlade_Passive2,0.02,1,0.11,2,0.06,10,0.04

@@ -1,0 +1,145 @@
+key<>value
+money_type_-1<>隨機貨幣
+money_type_0<>普通貨幣
+money_type_1<>最有價值的稀有貨幣
+money_type_2<>用於提高貴賓等級
+money_type_10<>用於升級英雄
+money_type_11<>用於英雄進化。可以在任務樹或龍塔中索取
+money_type_20<>用於購買 神社商店中的物品。
+money_type_30<>用於在幸運輪中的旋轉
+money_type_31<>用於在命運之輪中的旋轉
+money_type_32<>用於購買 願望商店中的物品。
+money_type_40<>用於輸入競技場。
+money_type_41<>用於購買競技場商店中的物品。
+money_type_50<>用於在基本召喚召喚。
+money_type_51<>用於召喚高級召喚。
+money_type_52<>用於獲取召喚的5星英雄
+money_type_60<>用於在古樹召喚。
+money_type_61<>用於替換在古樹中的英雄。
+money_type_70<>用於在朋友召喚召喚。
+money_type_80<>用於在英雄裝備界面升級符文
+money_type_85<>用於輸入龍塔。
+money_type_90<>用於在酒館中創建1星〜7星任務
+money_type_91<>用於在酒館中創建4星〜7星任務
+money_type_100<>用於在補充表中進行升級。
+money_type_110<>用於召喚師面板中的進化召喚師
+money_type_120<>用於購買戰隊商店中的物品。
+money_type_121<>用於購買戰隊商店中的物品。
+money_type_8<>用於升級召喚師
+money_type_140<>用於在靈魂商店購買英雄
+money_type_141<>用於在靈魂商店購買英雄
+money_type_142<>用於在靈魂商店購買英雄
+money_type_135<>用於服務器打開事件
+money_type_150<>Use for upgrading Arena Shop
+money_type_151<>Use for upgrading Guild Store
+money_type_152<>Use for upgrading Black Market Shop
+money_type_190<>Use for increasing Arena Pass Level
+money_type_191<>Use for increasing Daily Quest Pass Level
+money_type_180<>用於在活動中下注
+money_type_181<>用於在中秋活動中餵養野獸
+money_type_210<>Use for playing game in Event Halloween
+money_type_211<>Use for exchanging reward in Event Halloween
+money_type_170<>Use for unlocking slot in Raise Hero Level
+money_type_200_unused<>用於升級[堡壘]中[Marrianna灣]的結構。
+money_type_201<>用於進化材料
+money_type_202<>用於進化材料
+money_type_203<>用於進化材料
+money_type_204<>用於進化材料
+money_type_205<>用於進化材料
+money_type_206<>用於進化材料
+money_type_207<>用於進化材料
+money_type_208<>Used to upgrade structures of Spirit World in Fortress
+money_type_209<>Used to upgrade structures of Library of Time in Fortress
+money_type_220<>聖誕節祝福
+money_type_221<>在聖誕節競技場投注
+money_type_222<>用於在聖誕節交流中交換獎勵
+money_type_230<>用於演奏幸運的祝愿
+money_type_241<>用於交換神靈商店中的物品
+money_type_240<>曾經玩過繁榮大道
+money_type_244<>用於傳奇召喚  
+money_type_245<>在驅逐魔鬼中用來與魔鬼戰鬥
+money_type_242<>用於解鎖等級驅逐魔鬼
+money_type_243<>用於交換幸運錢中的禮物
+money_type_250<>用於交換情人節
+money_type_251<>曾經打開愛情盒
+money_type_165<>用於播放事件禮炮新英雄
+money_type_45<>用於輸入武術競技場 。
+money_type_46<>用於在騎士店購買物品 
+money_type_154<>用於升級騎士店
+money_type_136<>用於在服務器合併事件中獲得獎勵
+money_type_12<>Used to awake Hero
+money_type_25<>用於回歸英雄
+money_type_235<>用於參加複活節活動
+money_type_236<>用於參加複活節活動
+money_type_237<>用於參加複活節活動
+money_type_238<>用於參加複活節活動
+money_type_239<>用於參加複活節活動
+money_type_166<>用於播放事件禮炮新英雄
+money_type_167<>用於戰鬥Enule老闆的交換獎勵
+money_type_225<>在生日活動中用於旋轉車輪
+money_type_168<>用於在生日活動中尋寶
+money_type_115<>在 領域 收到。開放領取獎勵
+money_type_116<>在 領域 收到。開放領取獎勵
+money_type_117<>在 領域 收到。開放領取獎勵
+money_type_118<>在 領域 收到。開放領取獎勵
+money_type_119<>在 領域 收到。開放領取獎勵
+money_type_113<>用於在 領域 商店購買商品
+money_type_195<>用於升級勇士令狀進程。
+money_type_15<>升級裝備時使用
+money_type_35<>在 競技場 收到。開放領取獎勵
+money_type_36<>在 競技場 收到。開放領取獎勵
+money_type_37<>在 競技場 收到。開放領取獎勵
+money_type_248<>用于参加 農曆新年 活动。
+money_type_249<>在農曆新年活動中收集以獲得獎勵。
+money_type_65<>用于增加Kazetsu Boss进入
+money_type_231<>用於參加複活節活動
+money_type_232<>用於參加複活節活動
+money_type_233<>用於參加複活節活動
+money_type_234<>用於參加複活節活動
+money_type_66<>用於與 Finde Boss 戰鬥
+money_type_252<>曾经参加过{1} 次活动
+money_type_226<>用於參加生日活動。
+money_type_22<>曾經接待願意的英雄。
+money_type_23<>曾經接待願意的英雄。
+money_type_227<>用於提高遺產通行證的進度。
+money_type_26<>用於接收黑暗的輕派偽像。
+money_type_27<>用於接收w/f/a/n派系文物。
+money_type_175<>曾經玩活動十二生肖。
+money_type_176<>曾經玩活動十二生肖。
+money_type_215<>用於參加皮膚挑戰事件。
+money_type_196<>用於在Battle Pass商店交換獎勵。
+money_type_95<>此項目用於解鎖和刷新才能。
+money_type_200<>用於進化材料
+money_type_253<>用於玩Eitri的活動塔
+money_type_254<>用於在交換區交換獎勵
+money_type_223<>曾在夏季節日玩
+money_type_224<>用於製作夏季音樂節的莫吉托
+money_type_125<>開放以接收水球
+money_type_126<>曾在夏季節日玩
+money_type_127<>曾在夏季節日玩
+money_type_128<>曾在夏季節日玩
+money_type_129<>曾在夏季節日玩
+money_type_137<>在老闆戰鬥活動中挑戰老闆
+money_type_182<>用于中秋活动兑换奖励
+money_type_255<>用於在Eitri塔中交換物品
+money_type_185<>用於交換物品中的物品冒險活動
+money_type_186<>在零件冒險活動中用於開放式胸部
+money_type_101<>在感恩節活動中用於玩遊戲
+money_type_102<>用於在感恩節活動中交換獎勵
+money_type_75<>在冒險中玩金模式的用戶
+money_type_76<>在冒險中演奏藥水模式的用戶
+money_type_77<>在冒險中玩碎片模式的用戶
+money_type_43<>用於在騎士店購買物品 
+money_type_229<>在新年換來交換
+money_type_78<>用來交換農曆新年
+money_type_79<>曾經玩賓果遊戲新年
+money_type_217<>在復活節那天，習慣了復活節旅程
+money_type_218<>用於在復活節期間交換
+money_type_81<>習慣於夏季假期夏季旅行
+money_type_82<>習慣於夏季假期交換
+money_type_62<>曾經看花櫻花
+money_type_63<>用於交換櫻花
+money_type_86<>曾經希望在qixi day的愛情中希望愛情
+money_type_87<>用於交換QIXI DAY
+money_type_72<>曾經在墨西哥音樂節中幸運的賓果遊戲
+money_type_73<>在墨西哥音樂節中曾經交換

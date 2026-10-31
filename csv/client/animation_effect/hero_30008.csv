@@ -1,0 +1,3 @@
+animation,frame,parent,effect_type,effect_name
+attack,25,Model/FootAnchor,HeroBattleEffect,hero_30008_attack_ground
+skill,18,Model/torso,HeroBattleEffect,hero_30008_skill_blood_foot

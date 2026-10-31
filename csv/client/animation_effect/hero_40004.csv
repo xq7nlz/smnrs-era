@@ -1,0 +1,4 @@
+animation,frame,parent,effect_type,effect_name
+attack,19,Model/FootAnchor,HeroBattleEffect,hero_40004_attack_slash
+skill,50,Model/FootAnchor,HeroBattleEffect,hero_40004_skill_slash
+skill,11,Model/FootAnchor,HeroBattleEffect,hero_40004_skill_castfx

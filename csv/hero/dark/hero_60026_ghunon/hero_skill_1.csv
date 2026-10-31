@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_duration,stat_debuff_amount
+Ghunon_Active,1.06,10,5,1,0.5,3,0.2
+Ghunon_Active,1.26,10,5,1,0.5,3,0.3
+Ghunon_Active,1.46,10,5,1,0.5,3,0.4

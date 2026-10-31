@@ -1,0 +1,518 @@
+key<>value
+10001_1<>Hiper sorteo
+10001_2<>Rompedor de hielo
+10001_3<>Armadura de hielo
+10001_4<>Mostrador congelado
+10002_1<>Tirar el mío
+10002_2<>Lacerar
+10002_3<>Pistola maléfica
+10002_4<>Vigota
+10003_1<>Flujo y reflujo
+10003_2<>Marca de curación
+10003_3<>Protección del agua
+10003_4<>Criatura mítica
+10004_1<>Congelar
+10004_2<>Glaseado
+10004_3<>Congelación
+10004_4<>Mujer de hielo
+10005_1<>Carrera
+10005_2<>Cuchillas brumosas
+10005_3<>Vínculos brumosos
+10005_4<>Velo brumoso
+10006_1<>Tiburón
+10006_2<>Vínculo protector
+10006_3<>Escudo de agua
+10006_4<>Autosanación
+10007_1<>Granizada
+10007_2<>Esparcidor de agua
+10007_3<>Restricción de agua
+10007_4<>Ira oceánica
+10008_1<>Juicio
+10008_2<>Instinto de lucha
+10008_3<>Cazador de la edad de hielo
+10008_4<>Racha de muertes
+10009_1<>Ciclón de agua
+10009_2<>Pelota que rebota
+10009_3<>Barrio de agua
+10009_4<>Cecaelia
+10010_1<>Aplastar frontal
+10010_2<>Furia de Shorty
+10010_3<>Armadura del océano
+10010_4<>Rabia
+10011_1<>Disparo crítico
+10011_2<>Venganza
+10011_3<>Arpón
+10011_4<>Arquero ágil
+10012_1<>Muerte lenta
+10012_2<>Banda de agua
+10012_3<>Preparación cuidadosa
+10012_4<>Fatal
+10013_1<>Ola del océano
+10013_2<>Guerrero's Doom
+10013_3<>Corrupción
+10013_4<>Personal del mar
+10014_1<>Aguja de hielo
+10014_3<>Potencia de hielo
+10015_1<>Tiro rápido
+10015_3<>Ancla
+10015_4<>Aturdir
+10016_1<>Saltar, saltar, saltar
+10016_2<>Piel dura
+10016_3<>Ruptura de Mage
+10016_4<>Bloque de daños
+10017_1<>El sacerdote tranquilo
+10017_2<>Espíritu de Glugrgly
+10017_4<>Potencia de rayo
+10018_1<>Adivinación
+10018_3<>Rotura de armadura
+10018_4<>Robo de vida crítico
+10019_1<>Ataque frontal
+10019_3<>Reducción de precisión
+10019_4<>Valentía
+10020_1<>Tiro de vuelta
+10020_3<>Adaptable
+10020_4<>Silencio
+10021_1<>Un ejercicio para asesinos
+10021_2<>Fornido
+10021_4<>Furia
+10022_1<>Stunball
+10022_2<>Fuerte
+10022_4<>Rabia de velocidad
+10023_1<>Ataque de clones de espalda
+10023_3<>Penetración
+10024_1<>Impresionante arpón
+10024_2<>Precisión
+10025_1<>Back Slash
+10026_1<>Atacar
+20001_1<>Alas ardientes
+20001_2<>Manos ardientes
+20001_3<>Fénix
+20001_4<>Renacimiento
+20002_1<>Fervor ardiente
+20002_2<>Toque sanador
+20002_3<>Percepción ardiente
+20002_4<>Escudo divino
+20003_1<>Nocaut frontal
+20003_2<>Limpiar
+20003_3<>Defensor
+20003_4<>Rabia berserker
+20004_1<>Silencio a los débiles
+20004_2<>Romper con el frágil
+20004_3<>Entrenamiento implacable
+20004_4<>Assassin's Creed
+20005_1<>Patadas frontales de llama
+20005_2<>Aura de llama roja
+20005_3<>Infierno en las puertas
+20005_4<>Alimentando el fuego
+20006_1<>Explosión de magma
+20006_2<>Combustión
+20006_3<>Cristal de magma
+20006_4<>Llama eterna
+20007_1<>Zorro de fuego
+20007_2<>Canción de cuna
+20007_3<>Zorro de nueve colas
+20007_4<>Fuego curativo
+20008_1<>Asalto cegador
+20008_2<>Guerrero
+20008_3<>Destructor de espalda
+20008_4<>Resolución crítica
+20009_1<>Aliento de fuego
+20009_2<>Bestia colosal
+20009_3<>Mayor golpe
+20009_4<>RAGE DE DISPEL
+20010_1<>Pico Lento
+20010_2<>Pico de curado
+20010_3<>Patas afiladas
+20010_4<>Capa de seda
+20011_1<>Sacerdote Stomper
+20011_2<>Minotauro Matasacerdote
+20011_3<>Huelgas consecutivas
+20011_4<>Regeneración carnosa
+20012_1<>Tala y quema
+20012_2<>Armadura ardiente
+20012_3<>Orce fundido
+20012_4<>Mates de lava
+20013_1<>Suministro de guerreros
+20013_2<>Escabroso
+20013_4<>Oportunidad de aturdimiento
+20014_1<>Trituración de espalda
+20014_2<>Constitución de lava
+20014_3<>Latigazo
+20014_4<>Rabia
+20015_1<>Volver incineración
+20015_2<>Eficiencia
+20015_4<>Ataque curativo
+20016_1<>Infierno
+20016_2<>Acumulación de calor
+20016_3<>Eterna voluntad
+20016_4<>Descarga fundida
+20017_1<>Hit final
+20018_1<>Piedra de fuego
+20019_1<>Tajo frontal
+20019_3<>Grande
+20020_1<>Hacer fuego
+20020_3<>Penetración de armadura
+20020_4<>Hecho de fuego
+20021_1<>Flecha de fuego
+20021_2<>Precisión
+20022_1<>Garra de espalda
+20022_3<>Manos de energía
+20023_1<>Explosión de espalda
+20023_3<>Esquivar oportunidad
+20023_4<>Rabia de agilidad
+20024_1<>Golpe de hoz
+20024_3<>Indomable
+20024_4<>Golpe corrosivo
+20025_1<>Asesino de gigantes
+20025_2<>Ecolocación
+20025_4<>Condenar
+20026_1<>Bola de curación de fuego
+20026_2<>Barrera curativa
+20026_3<>Golpe de recuperación
+30001_1<>Manera al infierno
+30001_2<>Tomador de vida
+30001_3<>Venganza del alma
+30001_4<>Cuernos de demonios
+30002_1<>Avalanza por delante
+30002_2<>Hecho de piedra
+30002_3<>Negación de daños
+30002_4<>Pases restaurativos
+30003_1<>Libro de la Muerte
+30003_2<>Muertos vivientes
+30003_3<>Manos ensangrentadas
+30003_4<>Desalmado
+30004_1<>Mirada petrificante
+30004_2<>Aguijón venenoso
+30004_3<>Garra petrificante
+30004_4<>Pueblo sin fin
+30005_1<>Devorar el mundo
+30005_2<>Enorme criatura
+30005_3<>Mordida venenosa
+30005_4<>Escamas venenosas
+30006_1<>Finalista
+30006_2<>Frenético
+30006_3<>Línea de vida de fantasma
+30006_4<>Lanza de sacrificio
+30007_1<>Aliento petrificante
+30007_2<>Dragón no muerto
+30007_3<>Huesos de cockatrice
+30007_4<>Renacimiento terroso
+30008_1<>Cristalización frontal
+30008_2<>Cuerpo gigantesco
+30008_3<>Resonancia en la oscuridad
+30008_4<>Cuentas cristalizadas
+30009_1<>Fuego de artillería
+30009_2<>Excelente cañón
+30009_3<>Enemigos explosivos
+30009_4<>Maestría de artillería
+30010_1<>Curación aplastante
+30010_2<>Magia de recuperación energizada
+30010_3<>Luz curativa
+30010_4<>Bloqueando las manos
+30011_1<>Enfermedad de propagación
+30011_2<>Sustento contagioso
+30011_3<>Transmisión
+30011_4<>Epidemia
+30012_1<>Cero absoluto
+30012_2<>Adaptable
+30012_3<>Interruptor de piedra
+30012_4<>Holgado
+30013_1<>Rayo de curación
+30013_2<>Sanitar
+30013_3<>Subsistencia duradera
+30013_4<>Rabia violenta
+30014_1<>Maldito
+30014_2<>Sangre por sangre
+30014_3<>Experiencia de parada
+30014_4<>Venganza sangrienta
+30015_1<>Corte de sangrado
+30015_4<>Holgado
+30016_1<>Disparos traseros
+30017_1<>Espalda de garra
+30018_1<>Rebanada de armadura
+30018_2<>Final
+30018_3<>Cosecha de sangrado
+30019_1<>Plumas venenosas
+30019_2<>Terminar el lesionado
+30019_4<>Rabia tóxica
+30020_1<>Espalda de guadaña
+30020_3<>Cuerpo erosionado
+30020_4<>Condenación
+30021_1<>Espíritu de gaia
+30021_2<>Escudo de piedra
+30021_4<>Desacelerar
+30022_1<>Flechas de sangrado
+30022_3<>Cazador experimentado
+30022_4<>Back Shooter
+30023_1<>Lámpara corrosiva
+30023_2<>Fumigación
+30023_4<>Térico
+30024_1<>Corte frontal
+30024_3<>Irrodía de ira
+30024_4<>Flexible
+30025_1<>Bola de espíritu
+30025_3<>Fortalecer la magia
+30026_1<>Sanguinario
+30026_3<>Pacto carmesí
+40001_1<>Bola de interés
+40001_2<>Toque curativo
+40001_3<>Personal lunar
+40001_4<>Rabia somnolienta
+40002_1<>Debilitando espinas
+40002_2<>Erosión
+40002_3<>Árbol joven
+40002_4<>Escudo de la naturaleza
+40003_1<>Toxinas naturales
+40003_2<>Marca de la dríada
+40003_3<>Defensa natural
+40003_4<>Estimación
+40004_1<>Silencio en el frente
+40004_2<>Mano guía
+40004_3<>Adherirse
+40004_4<>Esencia de la naturaleza
+40005_1<>Curación de bambú
+40005_2<>Cristal natural
+40005_3<>Echo hábil
+40005_4<>Negación de daños
+40006_1<>Escudo de remedio
+40006_2<>Golpe curativo
+40006_3<>Racha de bendición
+40006_4<>Rabia de la naturaleza
+40007_1<>Guerra relámpago
+40007_2<>Ataque de evasión
+40007_3<>Calma
+40007_4<>Bendición de rabia
+40008_1<>Flechas de veneno
+40008_2<>Enemigos mortales
+40008_3<>Venganza aura
+40008_4<>Desafío venenoso
+40009_1<>Huelga esquiva
+40009_2<>Vuelto Earthvessel
+40009_3<>Esgrima
+40009_4<>Perfección
+40010_1<>Granada de veneno
+40010_2<>Bolsa de veneno
+40010_3<>Toxicidad
+40010_4<>Liberación de veneno
+40011_1<>Puño de guerrero
+40011_2<>Desmayo
+40011_3<>Experto
+40011_4<>Bestia
+40012_1<>Silenciando la melodía
+40012_2<>Alegre
+40012_3<>Silencio crítico
+40012_4<>Etiqueta tranquila
+40013_1<>Juego de captura
+40014_1<>Puñalada
+40015_1<>Veneno
+40015_3<>HP arriba
+40016_1<>Veneno clon
+40016_2<>Atacar
+40017_1<>Aversión al asesino
+40017_4<>Daño de habilidades
+40018_1<>Barra precisa
+40018_3<>Una naturaleza rápida
+40018_4<>Agarre de sueño
+40019_1<>Asesino dormido
+40019_2<>Atacar
+40019_4<>Aspecto de sueño
+40020_1<>Brillo curativo
+40020_3<>Golpe de curación
+40020_4<>Atrevido
+40021_1<>Brote de bambú
+40021_2<>Duro
+40021_4<>Estocada
+40022_1<>Serenata
+40022_3<>Prosperar
+40022_4<>Dormir
+40023_1<>Mordedura sanguinaria
+40023_2<>Contraataque
+40023_3<>Salvaje
+40023_4<>Rabia salvaje
+40024_1<>Canción de toxina
+40024_2<>Brío
+40024_3<>Manicomio
+40024_4<>Rabia de sintonización
+40025_1<>Hechizo fortificante
+40025_2<>CC resistir
+40025_4<>Curación pasajera
+40026_1<>Pisar muy fuerte
+40026_2<>Astuto
+40026_3<>Racha de caramelo
+50001_1<>Luz de bendición
+50001_2<>Marca de debilitación
+50001_3<>Curación marcada
+50001_4<>Último deseo
+50002_1<>Marca santa
+50002_2<>Penitencia marcada
+50002_3<>Santa reencarnación
+50002_4<>Bendición marcada
+50003_1<>Transferencia de celo
+50003_2<>Conocimiento
+50003_3<>Robo de alma
+50003_4<>La luz revivir
+50004_1<>Escudo divino
+50004_2<>Cresta real
+50004_3<>Garra curva
+50004_4<>La bendición se dispara
+50005_1<>Espada de luz
+50005_2<>Escudo de luz
+50005_3<>Hendidura curativa
+50005_4<>Pacto de resplandor
+50006_1<>Glaive asombroso
+50006_2<>Arte de rebotes
+50006_3<>Giros adicionales
+50006_4<>Lunático
+50007_1<>Diosa de la victoria
+50007_2<>El espíritu roba
+50007_3<>Línea de vida
+50007_4<>Sanción divina
+50008_1<>Rayo
+50008_2<>Conductividad
+50008_3<>Energizado
+50008_4<>Liberación eléctrica
+50009_1<>Desterrar la oscuridad
+50009_2<>Luz penetrante
+50009_3<>Resonancia de luz
+50009_4<>Angel de bendición
+50010_1<>Ciclón santo
+50010_2<>Contraataque
+50010_3<>Chance de multi-golpe
+50010_4<>Luz punitiva
+50011_1<>Luz impactante
+50011_2<>Personal de retribución
+50011_3<>Guerrero
+50011_4<>Corolario sagrado
+50012_1<>Cuchillas curativas
+50012_2<>Cuerpo de sombra
+50012_3<>Ganancia crítica
+50012_4<>Brecha de potencia
+50013_1<>Back Blinder
+50013_2<>Santa armadura
+50013_3<>Chirrido
+50013_4<>Ayuda desesperada
+50014_1<>Marcador de asesino
+50014_3<>Consciencia
+50014_4<>Disparo emocionado
+50015_1<>Luz resonante
+50015_2<>Desplazamiento de Brio
+50015_4<>Rabia de habilidad
+50016_1<>Hechizo de curación
+50017_1<>Empuje sobre
+50018_1<>Sobretensión
+50018_4<>Focos
+50019_1<>Oración de curación
+50019_3<>Daño de habilidades
+50020_1<>Cargar
+50020_2<>Blindaje
+50021_1<>Disparar para sangrar
+50021_4<>Flechas ligeras
+50022_1<>Golpear nas costas
+50022_2<>Libro magico
+50022_3<>Enriquecer
+50023_1<>Barra rápida
+50023_3<>Oportunidad de aturdimiento
+50023_4<>Defensa curativa
+50024_1<>Golpe de escudo
+50024_3<>Preparado
+50024_4<>Guardia curativa
+50025_1<>Cuchillas de choque
+50025_2<>Danza de la cuchilla
+50025_3<>Hit
+50026_1<>Flechas críticas
+50026_2<>Punta
+50026_3<>Oscuro
+50026_4<>Rabia pura
+60001_1<>Granizo de conmoción
+60001_2<>Sentido ágil
+60001_3<>Resolver
+60001_4<>Seguimiento crítico
+60002_1<>Arma de alma
+60002_2<>Hojas de sangre
+60002_3<>Ladrón de vida
+60002_4<>Avenero sangriento
+60003_1<>Huelga de parpadeo
+60003_2<>Flebotomía
+60003_3<>Berserker's Blood
+60003_4<>Fúria Sanguinária
+60004_1<>Marca de enfoque
+60004_2<>Marca oscura
+60004_3<>Negación marcada
+60004_4<>Represalias
+60005_1<>Marca de muerte
+60005_2<>Juramento de sombra
+60005_3<>Espíritu atrevido
+60005_4<>Multigolpe
+60006_1<>Fuente de salpicaduras
+60006_2<>Footwork de la flota
+60006_3<>La rosa negra
+60006_4<>Rabia estoc
+60007_1<>Mirada oscura
+60007_2<>Marea
+60007_3<>Curación maldita
+60007_4<>Favor maldito
+60008_1<>Huelga de abismo
+60008_2<>Lanza de disipar
+60008_3<>Demonio de escarcha
+60008_4<>Forma definitiva
+60009_1<>Bola oscura
+60009_2<>Señor Oscuro
+60009_3<>Enfermedad de la enfermedad
+60009_4<>Liberación oscura
+60010_1<>Maldición del alma
+60010_2<>Presencia maldita
+60010_3<>Veneno Maldito
+60010_4<>Último silencio
+60011_1<>Rayo de corrosión
+60011_2<>Brazos hexa
+60011_3<>Estrago
+60011_4<>Triturar armadura
+60012_1<>Magebane
+60012_2<>Toque sanguíneo
+60012_3<>Sangrado crítico
+60012_4<>Cazador de sangre
+60013_1<>Sanguijuela de almas
+60013_2<>Armadura oscura
+60013_3<>Hélice
+60013_4<>Vengador
+60014_1<>Enlaces fatales
+60014_2<>Chica escorpión
+60014_4<>Oportunidad de aturdimiento
+60015_1<>Cuervo
+60015_3<>Sangrar el herido
+60015_4<>Soltado
+60016_1<>Borrar
+60017_1<>Mirada
+60018_1<>Bola de curación
+60018_4<>Ira
+60019_1<>Intención de matar
+60019_3<>Criticar
+60020_1<>Lanzar hacha
+60020_4<>Escabroso
+60021_1<>Silenciando flecha
+60021_2<>Disparo crítico
+60021_3<>Belleza mortal
+60022_1<>Navaja escondida
+60022_3<>Preciso
+60022_4<>Casualidad
+60023_1<>Golpe de hacha
+60023_2<>HP arriba
+60023_4<>Oportunidad de aturdimiento
+60024_1<>Sombra curativa
+60024_2<>Sala curativa
+60024_3<>Personal de juicio
+60025_1<>Trueno curativo
+60025_2<>Vitalidad
+60025_4<>Escudo de relámpagos
+60026_1<>Lámpara menguante
+60026_2<>Maestro de veneno
+60026_3<>La lámpara mágica
+60026_4<>Resistente al veneno
+30027_2<>Fuerza pura
+30027_3<>Bushido
+30027_4<>Samurai implacable
+30027_1<>Digno oponente
+40027_1<>Transformación del dragón
+40027_2<>Sangre de la tribu dragón
+40027_3<>Presión del dragón
+40027_4<>Dragón y humano

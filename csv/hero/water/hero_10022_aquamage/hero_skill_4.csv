@@ -1,0 +1,4 @@
+name,health_trigger,stat_buff_type,stat_buff_duration,stat_buff_calculation_type,stat_buff_amount
+AquaMage_Passive3,0.5,4,2,4,50
+AquaMage_Passive3,0.6,4,2,4,50
+AquaMage_Passive3,0.7,4,2,4,50

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Aesa_Active,1,21,2,10,3,20,2,0.15
+Aesa_Active,1.2,21,2,10,3,20,2,0.2
+Aesa_Active,1.4,21,2,10,3,20,2,0.25

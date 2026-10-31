@@ -1,0 +1,5 @@
+name,star,target_position,target_number,round_trigger_list,power_buff
+Main_Passive3,4,10,5,1;3;5;7;9;11;13;15,10
+Main_Passive3,5,10,5,1;3;5;7;9;11;13;15,15
+Main_Passive3,6,10,5,1;3;5;7;9;11;13;15,20
+Main_Passive3,7,10,5,1;3;5;7;9;11;13;15,25

@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>Взять %s VIP очков для получения
+vip_instant<>Дойдите до этого уровня VIP для сбора:
+vip_daily<>Бонусные ежедневные награды за Карту Командира и Карту Пророка:
+vip_point_required<>Необходимы VIP-баллы
+campaign_bonus_idle_time_max<>Максимальное время на награду Idle: %s
+campaign_bonus_gold<>Бонус %s Золото от награды Idle
+campaign_bonus_magic_potion<>Бонус %s Баллы EXP Персонажа от награды Idle
+campaign_bonus_auto_train_slot<>Слоты на обучение: %s
+tavern_bonus_quest<>Бонусы за квесты на таверну: %s
+raid_bonus_turn_buy<>Дополнительные ежедневно покупаемые Приключение попытки : %s
+casino_unlock_multiple_spin<>Разблокировать много-раундную функцию Колесо Фортуны
+casino_unlock_premium_spin<>Немедленно разблокировать Колесо Судьбы
+casino_bonus_turn_buy_basic_chip<>Ежедневно покупаемый бонус Камень Фортуны: %s
+battle_unlock_speed_up<>Немедленно разблокировать ускорение битвы
+battle_unlock_skip<>Немедленно разблокировать пропуск битвы
+hand_of_midas_bonus_gold<>Бонус Золото в Золотая Шахта: %s
+summon_unlock_accumulate<>Немедленно заблокировать Объединенный Призыв
+arena_bonus_ticket_buy<>Дополнительные ежедневно покупаемые Билет на Арену: %s
+campaign_bonus_quick_battle_buy_turn<>Покупаемые раунды быстрой битвы: %s
+current_vip<>Текущий VIP-уровень
+campaign_bonus_exp_summoner<>Бонусный %ss Summoner EXP от Кампания
+dungeon_challenge_increased<>Увеличьте награду за этап в Подземелье на %s
+allow_skip_ads<>Разблокировать пропуск рекламы
+allow_prophet_tree_use_gem<>Разблокировать вызов с помощью Драгоценный камень в Древнее Древо
+battle_unlock_skip_arena<>Разблокировать Пропустить битву в Арена
+auto_next_battle<>Разблокировать функцию автоматического следующего этапа

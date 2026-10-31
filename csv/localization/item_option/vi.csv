@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) và ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) hoặc ({4})
+1_1_2_power<> + {1} {2} khi bắt đầu trận đấu
+1_1_2_4_power<> + {1} {2} ({3}) khi bắt đầu trận đấu
+1_1_2_5_power<> + {1} {2} ({3}) khi bắt đầu trận đấu
+1_1_2_4_5_power<> + {1} {2} ({3}) và ({4}) khi bắt đầu trận đấu
+1_1_2_4_5_power_or<> + {1} {2} ({3}) hoặc ({4}) khi bắt đầu trận đấu
+2_1<> + {1} Sát Thương
+2_1_2<> + {1} Sát Thương cho {2}
+2_1_3<> + {1} Sát Thương đối với {2}
+2_1_4<> + {1} Sát Thương đối với {2}
+2_1_2_3<> + {1} Sát Thương cho {2} đối với {3}
+2_1_2_4<> + {1} Sát Thương cho {2} đối với {3}
+2_1_2_3_4<> + {1} Sát Thương cho {2} đối với {3} và {4}
+2_1_2_3_4_or<> + {1} Sát Thương cho {2} đối với {3} hoặc {4}
+5_1_3<>+ Giảm {1} sát thương gây ra bởi anh hùng tộc {2}
+5_1_4<>+ Giảm {1} sát thương gây ra bởi anh hùng hệ {2}

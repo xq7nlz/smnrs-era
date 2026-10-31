@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+AquaMage_Active,1.05,10,1,1,0.5,2
+AquaMage_Active,1.25,10,1,1,0.75,2
+AquaMage_Active,1.45,10,1,1,1,2

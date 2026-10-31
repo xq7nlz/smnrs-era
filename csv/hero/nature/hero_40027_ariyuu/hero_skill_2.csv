@@ -1,0 +1,4 @@
+name,human_stat_debuff_type,human_stat_debuff_calculation_type,human_stat_debuff_amount,human_stat_debuff_duration,human_stat_debuff_max,dragon_heal_percent,dragon_target_position,dragon_target_number,stat_1,bonus_1
+Ariyuu_Passive2,2,1,0.05,2,0.6,0.05,10,5,1,0.5
+Ariyuu_Passive2,2,1,0.08,2,0.65,0.07,10,5,1,0.8
+Ariyuu_Passive2,2,1,0.12,3,0.7,0.09,10,5,1,1.5

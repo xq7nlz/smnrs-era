@@ -1,0 +1,4 @@
+id,gem_price,res_type,res_id,res_number,res_data,refresh_interval,is_watch_ads
+1,0,2,0,summoner_level*1320,,28800,FALSE
+2,20,2,0,summoner_level*2640,,,TRUE
+3,50,2,0,summoner_level*6600,,,FALSE

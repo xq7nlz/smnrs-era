@@ -1,0 +1,4 @@
+name,damage_target_position,damage_target_number,effect_type,effect_chance,effect_duration,effect_amount
+Karos_Passive1,10,3,106,1,2,1
+Karos_Passive1,10,3,106,1,2,1.2
+Karos_Passive1,10,3,106,1,2,1.4

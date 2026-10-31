@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_chance,heal_percent,heal_target_position,heal_target_number,heal_duration
+Mace_Active,1.12,10,2,0.3,0.8,10,2,1
+Mace_Active,1.42,10,2,0.3,0.8,10,2,1
+Mace_Active,1.72,10,2,0.3,0.8,10,2,1

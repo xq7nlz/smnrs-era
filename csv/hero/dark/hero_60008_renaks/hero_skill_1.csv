@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_type,dot_chance,dot_duration,dot_amount
+Renaks_Active,1.2,21,4,11,0.5,3,0.3
+Renaks_Active,1.4,21,4,11,0.5,3,0.35
+Renaks_Active,1.6,21,4,11,0.5,3,0.4

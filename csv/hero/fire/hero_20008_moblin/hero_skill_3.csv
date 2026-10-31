@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,stat_2,bonus_2,damage_attack,damage_target_position,damage_target_number
+Moblin_Passive2,1,0.1,40,0.3,0.8,21,4
+Moblin_Passive2,1,0.15,40,0.45,0.8,21,4
+Moblin_Passive2,1,0.2,40,0.6,0.8,21,4

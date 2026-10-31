@@ -1,0 +1,12 @@
+id,name,condition_type,condition_number,stat_1,bonus_1,stat_2,bonus_2,stat_3,bonus_3,stat_4,bonus_4
+1,No same faction,2,5,1,0.05,3,0.05,2,0.05,,
+2,2 couple same faction and other,1,2,1,0.075,3,0.075,2,0.075,,
+,,1,2,,,,,,,,
+,,2,1,,,,,,,,
+3,3 same faction and other,1,3,1,0.1,3,0.1,2,0.1,,
+,,2,2,,,,,,,,
+4,3 same faction and 2 same faction,1,3,1,0.15,3,0.15,2,0.15,,
+,,1,2,,,,,,,,
+5,4 same faction and other,1,4,1,0.2,3,0.2,2,0.2,,
+,,2,1,,,,,,,,
+6,5 same faction,1,5,1,0.25,3,0.25,2,0.25,,

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_trigger_class,effect_type,effect_chance,effect_duration
+Neutar_Active,1,20,4,2,1,0.5,2
+Neutar_Active,1.2,20,4,2,1,0.5,2
+Neutar_Active,1.4,20,4,2,1,0.5,2

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Fanar_Active,1.2,10,5,1,0.15,2
+Fanar_Active,1.4,10,5,1,0.25,2
+Fanar_Active,1.6,10,5,1,0.35,2

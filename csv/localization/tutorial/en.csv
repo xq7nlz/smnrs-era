@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Greeting Summoner! Welcome to Holy Alliance of Light Order - legendary city of the most powerful spells on Earth!
+npc_rename<>What's your name, my friend?
+npc_summon_click<>Looks like you don't have any companions. Follow me to the Summon
+npc_summon_start<>Let's summon your first companion, my friend
+player_option1_1<>OK! Let's do it.
+player_option1<>I understand.
+player_option2<>Please show me?
+player_option2_1<>What is it?
+npc_basic_summon_info<><color=#d87909>Basic summon</color> - you can summon <color=#d87909>1 to 5-star</color> Heroes here by using Basic Summon Scroll.
+npc_heroic_summon_info<><color=#d87909>Premium Summon</color> - you can summon <color=#d87909>3 to 5-star</color> Heroes here by using Premium Summon Scroll or Gem.
+npc_friend_summon_info<><color=#d87909>Friendship Summon</color> - you can summon <color=#d87909>2 to 5-star</color> Heroes here by using Friend Point.
+npc_continue_campaign<>Wonderful! Time to explore the world!
+npc_select_hero_formation<>Please choose Heroes to join the battle.
+npc_formation_info_position<>Please remember that <color=#d87909>basic attacks</color> normally focus on the hero in position <color=#d87909>1 first</color>, then follow the order of position from <color=#d87909>2 to 5</color>.
+npc_auto_battle<>The battle is fully <color=#d87909>automatic. Heroes recover energy after using their basic attack</color>.
+npc_summoner_power<>Look! The <color=#d87909>energy bar</color> of your hero is <color=#d87909>full</color> now. With accumulated energy, they will release a powerful <color=#d87909>active skill</color> at the next turn.
+npc_formation_change_position<>One more thing, you can change the position of your heroes. 
+npc_formation_buff<>Good job! Heroes <color=#c21c1c>ATK will increase when they are in the back row</color>, and <color=#1750d1>HP will increase when they are in the front row</color>.
+npc_summoner_battle_info<>This is Summoner. Summoners <color=#d87909>cannot be targeted</color> (by enemies or even allies buff). They will increase power of heroes with incredible spells.
+npc_add_power_summoner<><color=#d87909>When a hero recovers energy, the summoner recovers too</color>. When the energy bar is full, all energies will be converted into a Flame.
+npc_summoner_skill<>Whenever a summoner has enough <color=#d87909>5 Flames</color>, they will release a <color=#d87909>special skill</color> immediately.
+npc_need_power<>Looks like we're not strong enough. Follow me, I will show you how to become stronger.
+npc_what_black_smith<>Have you known about <color=#d87909>equipments</color> and their advantages before, my friend?
+npc_weapon<><color=#d87909>Weapons increase ATK</color>. The higher ATK you have, the higher damage you deal.
+npc_armor<><color=#d87909>Armors increase HP and Damage Reduction</color>. Your heroes will become tougher.
+npc_helmet<><color=#d87909>Helmets increase HP and Armor</color>! Tougher is better.
+npc_ring<>Lastly, <color=#d87909>Jewelries increases Accuracy and Dodge</color>! Can't get hurt when you can't get hit.
+npc_black_smith<>But first, let's forge your weapon!
+npc_claim_black_smith<>You are so talented! That's how a powerful and lethal weapon is made.
+npc_black_market<>I've heard that they sell lots of useful stuffs in the <color=#d87909>Black Market</color>. Shall we go there?
+npc_buy_heroic_scroll<>So many useful stuffs are being sold here. I think you should visit here more often. Let's buy a <color=#d87909>Premium Summon Scroll</color>!
+npc_claim_black_market<>How lucky we are! Now we have enough resources to summon a new hero. Let's head back to <color=#d87909>Summon</color>, my friend!
+npc_continue_summon<>It's time to summon a new powerful hero.
+npc_equipment<>Incredible! It's a <color=#d87909>5-star Hero</color>. The higher star a hero has, the more powerful they are. Let's <color=#d87909>equip your new hero</color> with the weapon you've forged before.
+npc_continue_5<>Congratulations! Your team has become stronger.
+npc_continue<>It's time to test your new power. Let's continue our journey!
+npc_select_hero_continue<>Don't forget to put the new hero into your team.
+npc_drag_hero<>With this situation, I think you should place this hero in <color=#c21c1c>back row to increase their ATK</color>.
+npc_idle_reward<>Please claim your <color=#d87909>Idle Rewards</color> now. Your team keeps fighting in this area to gain more resources over time. Remember that idle rewards can only stack up to <color=#d87909>%s hours</color>.
+npc_upgrade_hero_success<>Fantastic! Faster than I thought! Time to move on, my friend!
+npc_level_up<>Well done! We have enough resources to level up your hero. Let me show you how to do it.
+npc_select_hero_upgrade<>Please choose this hero to start <color=#d87909>leveling up</color>.
+npc_continue_3<>Well done! Let's continue our journey!
+npc_stage_10<>LOOK! There is a <color=#d87909>5-star</color> hero awaiting to be recruited at <color=#d87909>stage 1-10</color>. Don't forget it!
+npc_list_tut<>I have prepared a list of quests for you. I call it the Quest Tree. This list is very helpful for your journey. Please open it!
+npc_quest<>This is the <color=#d87909>Quest Tree</color> I've mentioned! Lots of rewards are waiting for you when you complete quests in the list.
+npc_quest_complete<>Good job! You have completed the first quest. Time to claim your rewards!
+npc_end_tut<>Congratulations! You have completed the tutorial. It's time to say goodbye. I hope we will meet again soon, my dear friend!
+npc_claim_hero_5star<>Perfect! You have received a 5-star Hero.
+npc_go_evolve_summoner<>Good job! You have enough resources to <color=#d87909>evolve your summoner</color>. Let me show you how it works!
+npc_5summoner<>These are summoners of all classes!
+npc_summoner_class_1<><color=#d87909>Mage - Master of magic and affect immunity</color>
+npc_summoner_class_2<><color=#d87909>Warrior - High defense and damage reduction</color>
+npc_summoner_class_3<><color=#d87909>Priest - Healing and crowd control resistance</color>
+npc_summoner_class_4<><color=#d87909>Assassin - Master of strength, dodging and accuracy</color>
+npc_summoner_class_5<><color=#d87909>Ranger - Deadly ranged attacks and cumulative damage</color>
+npc_switch_summoner<>Tap here to choose your summoner
+npc_end_summoner<>Remember that your <color=#d87909>summoner can be swapped</color> to any other summoners. Summoners can give your heroes a huge advantage during the battle.
+npc_buy_scroll_success<>Very good! You are gradually getting used to the game already. This is a small gift for your familiarization with the game.
+victory_battle_tut<>Such a imposing battle, isn't it? You will experience battles like this in the game. Let's start the journey of discovery with me!
+npc_please_summon_heroic<>Let's summon your first companions, my friend!
+introduce_hero_summoned<>Congratulations! You have summoned a legendary 5* hero. The legendary hero is the most advanced hero you can get from summoning. 
+asking_continue_tutorial<>You have summoned your very first heroes. Do you want to continue the tutorial to learn more about game mechanic?
+yes<>Yes. I want to learn more.
+no<>No. I am familiar to these types of game.
+npc_introduce_auto_battle<>The battle is fully <color=#d87909>automatic. Heroes recover energy after using their basic attack</color>.
+npc_introduce_summoner<>This is Summoner. Summoners <color=#d87909>cannot be targeted</color> (by enemies or even allies buff). They will increase power of heroes with incredible spells.
+npc_let_battle_commence<>You have finished setting up the squad. Now let's go to battle!
+npc_introduce_turn_mechanic<>1 match consists of 15 rounds. The attacker will win if all of the opponent's heroes are defeated within 15 rounds.
+first_victory<>Congratulations! You got your first win. Get the following loot and continue to guide with me!
+npc_idle_reward_1<>Please claim your <color=#d87909>Idle Rewards</color> now. Your team keeps fighting in this area to gain more resources over time. Remember that idle rewards can only stack up to <color=#d87909>%s hours</color>.
+npc_idle_reward_2<>The further campaign you reach, the more idle reward could be held. In addition, raise your vip level to increase the maximum idle time. 
+npc_introduce_hero_upgrade_feature<>This is where you could check your heroes' information. You could level up, upgrade star and equip items to strengthen your hero.
+npc_introduce_four_equipment_slot<>There're 4 types of equipment.
+npc_click_level_up<>Now, let's level up your hero.
+congratulation_you_have_done<>Good job! You have completed the tutorial.  I believe you could become a great summoner. Let's continue exploring the game by your own way. 

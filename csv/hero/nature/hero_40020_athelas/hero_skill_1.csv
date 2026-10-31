@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_target_position,heal_target_number,heal_duration
+Athelas_Active,0.6,10,3,0.3,10,3,2
+Athelas_Active,0.8,10,3,0.3,10,3,2
+Athelas_Active,1,10,3,0.3,10,3,2

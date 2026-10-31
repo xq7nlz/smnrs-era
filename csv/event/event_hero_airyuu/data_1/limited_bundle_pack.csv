@@ -1,0 +1,15 @@
+id,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,reset_type,price_type,price
+1,com.fansipan.summoners.era.treasure.key.pack.free.ads,com.fansipan.summoners.era.treasure.key.pack.free.ads,2,200,2,,1,2,1,1
+2,com.fansipan.summoners.era.treasure.key.pack.gem,com.fansipan.summoners.era.treasure.key.pack.gem,2,200,2,,2,2,2,200
+3,com.fansipan.summoners.era.treasure.key.pack.1,com.fansipan.summoners.era.treasure.key.pack.1,2,200,10,,1,2,3,0.99
+,,,2,1,60,,,,,
+,,,2,2,50,,,,,
+4,com.fansipan.summoners.era.treasure.key.pack.2,com.fansipan.summoners.era.treasure.key.pack.2,2,200,15,,1,2,3,1.99
+,,,2,1,120,,,,,
+,,,2,2,100,,,,,
+5,com.fansipan.summoners.era.treasure.key.pack.3,com.fansipan.summoners.era.treasure.key.pack.3,2,200,30,,10,3,3,4.99
+,,,2,1,300,,,,,
+,,,2,2,250,,,,,
+6,com.fansipan.summoners.era.treasure.key.pack.4,com.fansipan.summoners.era.treasure.key.pack.4,2,200,60,,10,3,3,14.99
+,,,2,1,900,,,,,
+,,,2,2,750,,,,,

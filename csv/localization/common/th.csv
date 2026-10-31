@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50>%s Patch Note: </size>\n\n1. กิจกรรม:\n- บอสท้าทาย (เวอร์ชั่นใหม่)\n- หอคอยอีทรี\n2. การ์ดประจำเดือนปรับปรุง\n3. เกมที่ได้รับการปรับปรุงให้ดียิ่งขึ้น
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. กิจกรรม:\n- บอสท้าทาย (เวอร์ชั่นใหม่)\n- หอคอยอีทรี\n2. การ์ดประจำเดือนปรับปรุง\n3. เกมที่ได้รับการปรับปรุงให้ดียิ่งขึ้น
+version_notice_next<>หมายเหตุ: รายละเอียดอาจมีการเปลี่ยนแปลงตามแผนของทีมพัฒนา ข้อมูลด้านล่างนี้จึงไม่ถูกต้อง 100%\n\n1. กิจกรรมตามฤดูกาลใหม่\n2. ปรับปรุงประสิทธิภาพของเกม
+version_notice_maintenance<>การบำรุงรักษาสำหรับเวอร์ชัน %s\n\nโปรดติดตามแฟนเพจและดิสคอร์ดของเราเพื่อรับข้อมูลล่าสุด\n\nหมายเหตุ: แผนการบำรุงรักษาอาจมีการเปลี่ยนแปลงได้ตามแผนงานของทีมพัฒนา
+notice<>ประกาศ
+tap_to_play<>แตะเพื่อเริ่มเล่น
+setting<>การตั้งค่า
+account<>บัญชีผู้ใช้
+id<>ไอดี
+summoner<>ชื่อ
+register_account<>สมัครบัญชี
+change_password<>เปลี่ยนรหัสผ่าน
+switch_server<>เปลี่ยนเซิร์ฟเวอร์
+switch_account<>เปลี่ยนบัญชี
+email_verify<>ยืนยันอีเมล
+game_version<>เวอร์ชันเกม
+close<>ปิด
+closed<>ปิดอยู่
+sound<>เสียง
+music<>ดนตรี
+graphic_quality<>คุณภาพกราฟิก
+low<>ต่ำ
+medium<>กลาง
+high<>สูง
+language<>ภาษา
+language_setting<>การตั้งค่าภาษา
+password<>รหัสผ่าน
+enter_text<>ใส่ไอดีของเพื่อน
+forget<>จำไม่ได้?
+do_you_want_restore<>ต้องโหลดข้อมูลเก่าหรือไม่
+register<>สมัคร
+login<>เข้าสู่ระบบ
+restore<>โหลดข้อมูลเก่า
+confirm_password<>ยืนยันรหัสผ่าน
+cancel<>ยกเลิก
+confirm<>ยืนยัน
+new_password<>รหัสผ่านใหม่
+confirm_new_password<>ยืนยันรหัสผ่านใหม่
+please_select_language<>เลือกภาษา
+daily_checkin<>เช็คอิน
+mail<>จดหมาย
+friend<>เพื่อน
+shop<>ร้านค้า
+main_character<>ซัมมอนเนอร์
+mastery<>ความชำนาญ
+inventory<>กระเป๋า
+hero_list<>ฮีโร่
+event<>กิจกรรม
+daily_reward<>รางวัลของวัน
+checkin_progress<>เช็คอินสะสม %s
+reply<>ตอบ
+claim<>รับ
+mail_box<>ตู้จดหมาย
+claim_all<>รับทั้งหมด
+system_mail<>จดหมายจากระบบ
+player_mail<>จดหมายจากผู้เล่น
+mail_empty<>ตู้จดหมายว่าง
+received_applications<>คำขอที่ได้รับ
+recommended_friend<>แนะนำ
+claim_and_send<>รับและส่ง
+friend_list<>รายชื่อเพื่อน
+search<>ค้นหา
+friend_request<>คำขอเป็นเพื่อน
+help_fight<>ดู
+apply<>ใช้
+delete_all<>ลบทั้งหมด
+delete<>ลบ
+scout<>สำรวจ
+ranking_point<>คะแนนอันดับ
+ranking_reward<>รางวัลอันดับ
+battle_reward<>รางวัลการต่อสู้
+battle<>การต่อสู้
+smash<>ทุบทิ้ง
+preview<>ดูตัวอย่าง
+auto_fill<>กรอกอัตโนมัติ
+disassemble<>แยกชิ้นส่วน
+heroese<>ฮีโร่
+ok<>ตกลง
+yes<>ใช่
+no<>ไม่
+not_select_all_hero<>ไม่สามารถเลือกฮีโร่ทั้งหมดได้
+do_disassemble_hero_4_star<>คุณต้องการแยกชิ้นส่วนฮีโร่ระดับ %s ดาวขึ้นไปจริงหรือ?
+you_need_select_hero<>คุณต้องเลือกฮีโร่หนึ่งตัว
+do_you_want_disassemble<>คุณต้องการแยกชิ้นส่วนฮีโร่หรือไม่?
+basic<>ธรรมดา
+premium<>พิเศษ
+refresh<>รีเฟรช
+time<>เวลา
+forge<>สร้าง
+available_to_forge<>ที่สร้างได้
+weapon<>อาวุธ
+armor<>เกราะ
+helmet<>หมวก
+ring<>เครื่องประดับ
+rank_x<>อันดับ: %s
+season_ranking<>อันดับฤดูกาล
+point<>แต้ม
+group_ranking<>อันดับกลุ่ม
+score<>คะแนน
+reward<>รางวัล
+record<>บันทึก
+defense<>ทีมรับ
+choose_rival<>เลือกคู่ต่อสู้
+change<>การเปลี่ยนแปลง
+your_current_rank_x<>อันดับปัจจุบัน: %s
+reward_will_sent<>จะส่งรางวัลหลังจาก
+reward_will_sent_x<>จะส่งรางวัลหลังจาก: %s
+wave<>ชุด
+will_open_in<>เปิดใน:
+will_end_in<>ปิดใน:
+quick<>รวดเร็ว
+secret_shop<>ร้านพ่อค้า
+skip<>ข้าม
+buy<>ซื้อ
+primary_merchant<>พ่อค้าหลัก
+medium_merchant<>พ่อค้าปานกลาง
+senior_merchant<>พ่อค้าอาวุโส
+mysterious_merchant<>พ่อค้าลึกลับ
+primary<>เด็ก
+senior<>ผู้ใหญ่
+formation<>จัดทีม
+save<>บันทึก
+material<>วัสดุ
+upgrade<>อัพเกรด
+skip_battle<>ข้ามการต่อสู้
+back<>หลัง
+front<>หน้า
+gallery<>คลังภาพ
+linking<>การเชื่อมโยง
+sort<>จัดเรียง
+level<>เลเวล
+star<>ดาว
+select_hero_altar<>เลือกฮีโร่ที่จะแยกชิ้นส่วน
+replay<>บันทึกภาพย้อนหลัง
+reward_current_ranking<>รางวัลอันดับปัจจุบัน
+hero_shard<>ชิ้นส่วนฮีโร่
+tap_to_close<>แตะเพื่อปิด
+avatar<>อวตาร์
+border<>กรอบ
+avatar_border<>อวตาร์และกรอบ
+current_avatar<>อวตาร์และกรอบปัจจุบัน
+select_avatar<>โปรดเลือกอวตาร์
+select_border<>โปรดเลือกกรอบ
+world<>โลก
+send<>ส่ง
+chat_option_1<>ข้อมูลวีไอพี
+chat_option_2<>บล็อกแชทโลก
+chat_option_3<>บล็อกแชทในกิลด์
+chat_option_4<>บล็อกแชทการรับสมัคร
+select_hero_battle<>เลือกฮีโร่สำหรับการต่อสู้
+vs<>พบกับ
+hero_info<>ข้อมูล
+equip<>อุปกรณ์สวมใส่
+evolve<>วิวัฒนาการ
+skin<>ชุด
+level_to_max<>เพิ่มเลเวลสูงสุด
+level_up<>เพิ่มเลเวล
+unlock_level<>ปลดล็อกเลเวล %s
+unequip<>ถอดออก
+auto_equip<>ใส่อัตโนมัติ
+awaken<>ปลุก
+switch_character<>เปลี่ยนตัวละคร
+exp<>ค่าประสบการณ์
+free<>ฟรี
+free_x<>ฟรี %s
+summon<>อัญเชิญ
+summon_x<>อัญเชิญ %s
+storage<>คลัง
+fragment<>ชิ้นส่วน
+artifact<>เครื่องราง
+leaderboard<>กระดานอันดับ
+quest<>เควส
+damage_stat<>สถิติความเสียหาย
+notification<>การแจ้งเตือน
+spin_x<>หมุน %s
+next_force_refresh<>รีเฟรชใน:
+pack_of_item<>ชุดไอเท็ม
+congratulation<>ยินดีด้วย
+smash_title<>ต้องการท้ารบกี่ครั้ง
+select_heroes<>เลือกฮีโร่
+requirement<>ความต้องการ
+start<>เริ่ม
+quest_refresh_in<>เควส ({1}) จะถูกรีเซ็ตใน {2}
+speed_up<>เร่งความเร็ว
+complete<>เสร็จสิ้น
+block<>บล็อก
+unblock<>ปลดบล็อก
+send_mail<>ส่งจดหมาย
+refresh_in<>รีเฟรชใน: %s
+remaining_attempts<>จำนวนครั้งการต่อสู้ที่เหลือ
+challenge<>ท้ารบ
+rename<>เปลี่ยนชื่อ
+x_character<>%s ตัวละคร
+change_avatar<>ตั้งค่าอวตาร์และกรอบ
+vip<>ข้อมูลวีไอพี
+replace_hero<>เปลี่ยนฮีโร่
+select_your_hero<>เลือกฮีโร่
+please_select_hero_replace<>โปรดเลือกฮีโร่ที่จะเปลี่ยน
+convert<>แปลง
+lock_current_stat<>ล็อคค่าปัจจุบัน
+upgrade_artifact<>อัพเกรดเครื่องราง
+select_material_artifact<>โปรดเลือกวัตถุเครื่องราง
+training_hero<>การฝึกฝน
+to_complete_training<>จนกว่าฮีโร่ทุกตัวจะฝึกสำเร็จ
+select_item<>เลือกไอเท็ม
+map<>แผนที่
+select_material_hero<>โปรดเลือกฮีโร่ที่จะใช้เป็นวัสดุ
+select<>เลือก
+unlock_star<>ปลดล็อคที่ระดับ %s ดาว
+guild_application<>รายชื่อผู้สมัคร
+request_x<>มีผู้สมัคร %s คน
+accept<>ยอมรับ
+decline<>ปฏิเสธ
+guild_foundation<>การตั้งค่ากิลด์
+recommended<>แนะนำ
+enter_guild_name_id<>ป้อนชื่อกิลด์หรือ ID
+found<>สร้าง
+guild_content<>เข้ากิลด์หรือสร้างกิลด์เองเพื่อรับรางวัลมากมายจากกิจกรรมกิลด์
+member_x<>สมาชิก %s คน
+emblem<>สัญลักษณ์
+info<>ข้อมูล
+enter_guild_name<>ใส่ชื่อกิลด์
+enter_guild_info<>ใส่ข้อมูลกิลด์
+recruit<>รับสมัคร
+daily_boss<>บอสประจำวัน
+checkin<>เช็คอิน
+application<>รายชื่อผู้สมัคร
+input_recruit_info<>โปรดใส่ข้อความการรับสมัคร
+kick<>ไล่ออก
+demote<>ปลด
+promote<>เลื่อนขั้น
+season_reward<>รางวัลฤดูกาล
+self_damage<>ความเสียหายที่คุณทำได้:
+guild_damage<>ความเสียหายที่กิลด์ทำได้:
+level_boss_x<>เลเวลบอส: %s
+unlock_at_guild_x<>ปลดล็อคที่กิลด์เลเวล %s
+current_reward<>รางวัลปัจจุบัน
+next_reward<>รางวัลถัดไป
+guild_log<>บันทึกกิลด์
+stage_reward<>รางวัลด่าน
+map_stage<>แผนที่ {1}, ด่าน {2}, ระดับความยาก {3}
+need_input_code<>โปรดใส่รหัส
+need_input_mail<>โปรดกรอกอีเมลเพื่อกู้คืนบัญชี
+input_code_fail<>รหัสไม่ถูกต้อง
+confirm_new_password_fail<>ยืนยันรหัสผ่านไม่สำเร็จ
+need_input_new_password<>กรุณาใส่รหัสผ่านใหม่
+can_not_claim_reward<>ได้รับแล้ว
+max_buy_turn_daily<>จำนวนครั้งที่ซื้อได้สูงสุดต่อวัน
+coming_soon<>จะเปิดเร็วๆ นี้
+limit_purchase_this_pack<>วันนี้คุณซื้อชุดนี้ครบจำนวนสูงสุดแล้ว
+member_kick_guild<>สมาชิกถูกไล่ออกจากกิลด์
+failed_kick_member<>ไม่สามารถไล่สมาชิกนี้ออกจากกิลด์ได้
+login_current_account<>เข้าสู่ระบบด้วยบัญชีปัจจุบัน
+member_role_changed<>มีการเปลี่ยนบทบาทของสมาชิก
+guild_sub_leader_reached_limit<>รองหัวหน้ากิลด์ครบแล้ว
+failed_change_member_role<>ไม่สามารถเปลี่ยนอำนาจแก่สมาชิกนี้ได้
+input_password_failed<>รหัสผ่านไม่ถูกต้อง
+input_user_name_failed<>ชื่อผู้ใช้ไม่ถูกต้อง
+enter_recruit_info_please<>โปรดกรอกข้อมูลการรับสมัคร
+send_recruit_successful<>ส่งข้อความการรับสมัครสำเร็จแล้ว
+fail_send_recruit_info<>ไม่สามารถส่งข้อความการรับสมัครได้
+fail_get_data<>ไม่สามารถรับข้อมูลได้
+fail_refresh<>ไม่สามารถรีเฟรชข้อมูลได้
+player_joined_guild<>ผู้เล่นเข้าร่วมกิลด์แล้ว
+guild_limit_member<>สมาชิกเต็มแล้ว
+need_permission_perform_action<>คุณไม่ได้รับอนุญาตให้ดำเนินการนี้
+failed_get_dungeon_stage<>ไม่สามารถเรียกข้อมูลสถานะดันเจี้ยนได้
+send_request_successful<>ส่งคำขอสำเร็จแล้ว
+already_in_guild<>คุณอยู่ในกิลด์แล้ว
+please_enter_guild_name<>โปรดใส่ชื่อกิลด์
+create_guild_success<>การสร้างกิลด์สำเร็จ
+create_guild_failed<>การสร้างกิลด์ล้มเหลว
+upgrade_guild_success<>อัปเดตข้อมูลกิลด์แล้ว
+challenge_guild_dungeon_success<>ท้ารบกิลด์ดันเจี้ยนสำเร็จ
+guild_description_invalid<>รูปแบบคำอธิบายไม่ถูกต้อง
+failed_challenge_guild_dungeon<>ท้ารบกิลดันเจี้ยนล้มเหลว
+guild_description_bad_word<>ห้ามใช้คำต้องห้าม
+password_failed<>รหัสผ่านไม่ถูกต้อง
+try_again_few_seconds<>โปรดลองใหม่ภายหลัง
+need_input<>โปรดใส่ชื่อกิลด์หรือไอดี
+insert_least_one_hero<>โปรดเลือกฮีโร่อย่างน้อยหนึ่งตัว
+change_success<>สำเร็จ!
+email<>อีเมล์
+code_verify<>รหัสยืนยัน
+master_can_not_quit_guild<>หัวหน้ากิลด์ออกจากกิลด์ไม่ได้
+sure_leave_guild<>มั่นใจนะว่าคุณจะออกจากกิลด์นี้?
+have_left_guild<>ออกจากกิลด์แล้ว
+need_level_mastery<>คุณต้องอัพความชำนาญทุกด้านให้ถึงเลเวล %s
+login_failed<>ไม่สามาถเข้าสู่ระบบได้
+boss_died<>บอสถูกฆ่าแล้ว
+limit_level_x<>ไม่สามารถโจมตีได้เนื่องจากเลเวลห่างกันเกินกว่า %s
+continue_facebook<>ดำเนินการต่อด้วยเฟสบุ๊ค
+remove_friend_success<>ลบสำเร็จแล้ว!
+do_want_delete_mail<>ต้องการลบจดหมายนี้หรือไม่
+can_not_claim_mail<>การรับจดหมายไม่สำเร็จ
+send_success<>ส่งสำเร็จแล้ว!
+claim_success<>รับหัวใจสำเร็จแล้ว!
+claim_send_success<>รับและส่งสำเร็จแล้ว!
+can_not_claim_send<>ไม่มีหัวใจที่จะต้องรับหรือส่ง
+do_want_delete_all<>ต้องการลบทั้งหมดหรือไม่
+add_friend_success<>เพิ่มเพื่อนแล้ว
+hero_in_arena<>ฮีโร่อยู่ในลานประลอง
+hero_in_training<>ฮีโร่อยู่ระหว่างการฝึกอัตโนมัติ
+require_level_x<>ต้องมีเลเวล %s
+help<>ช่วยเหลือ
+guild_name_contain_banned_word<>ใช้ชื่อกิลด์นี้ไม่ได้
+guild_desc_contain_banned_word<>คำอธิบายกิลด์ไม่ถูกต้อง
+selected<>เลือกแล้ว
+not_enough_x<>ไม่เพียงพอ %s
+casino_shop<>ร้านแห่งความหวัง
+altar_shop<>ร้านประจำศาลเจ้า
+guild_shop<>ร้านประจำกิลด์
+arena_shop<>ร้านแห่งนักรบ
+want_to_buy<>แน่ใจแล้วใช่ไหม?
+require_tavern<>ฮีโร่ตัวนี้ไม่ตรงตามที่เควสกำหนด
+require_hero_star_x<>ต้องการฮีโร่ %s ดาว
+require_hero_faction_x<>ต้องการฮีโร่ธาตุ %s
+require_hero_class_x<>ต้องการฮีโร่อาชีพ %s
+want_to_cancel_quest<>ต้องการยกเลิกเควสนี้หรือไม่?
+want_to_speed_up<>ต้องการเร่งความเร็วหรือไม่?
+not_enough_equipment<>อุปกรณ์ไม่เพียงพอ
+noti_full_hero<>ช่องฮีโร่เต็ม
+unlock_new_function<>ฟังก์ชั่นใหม่
+reset<>รีเซ็ต
+mastery_skill<>สกิลความชำนาญ
+need_reset_main_mastery<>ต้องรีเซ็ตความชำนาญสูงสุดก่อน
+want_to_reset<>ต้องการรีเซ็ตหรือไม่?
+not_enough_resource<>ทรัพยากรไม่เพียงพอ
+user_profile<>ข้อมูลผู้เล่น
+fanpage<>เฟสบุ๊คเพจ
+go_to_fanpage_notice<>โปรดศึกษาเพิ่มเติมที่หน้าเว็บไซต์ของเรา
+want_to_switch_server<>ต้องการเปลี่ยนเซิร์ฟเวอร์หรือไม่
+want_to_new_server<>ต้องการสมัครโปรไฟล์ใหม่ในเซิร์ฟเวอร์นี้หรือไม่
+want_to_clear_data<>ต้องการล้างข้อมูลดาต้าหรือไม่
+connecting_server<>กำลังเชื่อมต่อกับเซิร์ฟเวอร์...
+init_service<>เริ่มโหลดบริการ...
+init_data_request<>เริ่มโหลดข้อมูล...
+init_resource_request<>เริ่มโหลดทรัพยากร...
+download_asset_bundle<>กำลังดาวน์โหลดแพทช์...
+next_scout<>สำรวจครั้งถัดไปใน: %s
+summoner_can_view<>นับธาตุของซัมมอนเนอร์แทนธาตุใดก็ได้
+require_stage_x<>เคลียร์ด่าน {1} {2}-{3} เพื่อปลดล็อก
+hero_info_max_level<>ฮีโร่มีเลเวลสูงสุดแล้ว
+daily_quest<>เควสประจำวัน
+hero_level_cap_to<>ขยายการจำกัดเลเวลเป็น %s
+bonus_class<>โบนัสสำหรับอาชีพ {1}
+bonus_faction<>โบนัสสำหรับธาตุ {1}
+bonus_class_faction<>โบนัสสำหรับอาชีพ {1} และธาตุ {2}
+free_gem<>เพชรฟรี
+skill_enhance<>อัพเกรดสกิล
+level_cap<>จำกัดเลเวล
+how_many_purchase<>โปรดป้อนจำนวน {1}
+sell<>ขาย
+vip_full<>ระดับวีไอพีสูงสุดแล้ว
+copy_to_clipboard<>คัดลอกเป็นคลิปบอร์ด
+player_blocked<>บล็อกผู้เล่นแล้ว
+hero_fragment_title_star<>ชิ้นส่วนฮีโร่ {1} ดาว
+hero_fragment_faction<>ชิ้นส่วนฮีโร่ {2} ระดับ {1} ดาว
+hero_fragment_name<>ชิ้นส่วน {1}
+hero_fragment_star<>ชิ้นส่วนฮีโร่ {1} ดาว
+hero_fragment_star_faction<>ชิ้นส่วนฮีโร่ {2} ระดับ {1} ดาว
+hero_fragment_info<>รวบรวมชิ้นส่วน {1} ชิ้นเพื่ออัญเชิญฮีโร่
+artifact_fragment_title_1<>เครื่องรางหายาก
+artifact_fragment_title_2<>เครื่องรางบรรพการ
+artifact_fragment_title_3<>เครื่องรางในตำนาน
+artifact_fragment_title_4<>เครื่องรางในตำนาน (พิเศษ)
+artifact_fragment_title_5<>เครื่องรางอมตะ
+artifact_fragment_title_6<>เครื่องรางอมตะ (พิเศษ)
+artifact_fragment_info<>รวบรวมชิ้นส่วน {1} ชิ้นเพื่อสุ่มประกอบเป็นเครื่องราง
+require_level_stage<>ต้องผ่านด่าน {2} {3}-{4} และมีเลเวล {1}
+require_vip_or_stage<>ต้องเป็นวีไอพีระดับ {1} หรือผ่านด่าน {2} {3}-{4}
+require_vip_or_level_stage<>ต้องเป็นวีไอพีระดับ {1} หรือเลเวล {2} และผ่านด่าน {4}-{5}
+achievement<>ความสำเร็จ
+quest_tree<>ต้นไม้เควส
+achievement_tittle_group_1<>เชื่อมพลัง
+achievement_tittle_group_2<>ชีวิตและความตาย
+achievement_tittle_group_3<>สูตรการอัญเชิญ
+achievement_tittle_group_4<>ความท้าทายที่ผ่านได้ยากยิ่ง
+achievement_tittle_group_5<>อื่นๆ
+quest_tree_tittle_group_1<>เริ่มการเดินทาง
+quest_tree_tittle_group_2<>พิชิตมอนสเตอร์
+quest_tree_tittle_group_3<>ความท้าทายที่ไม่มีวันจบ
+completed<>เสร็จสิ้น
+player_already_show_info<>แสดงข้อมูลผู้เล่นแล้ว
+in_progress<>กำลังดำเนินการ
+new_password_is_last<>รหัสผ่านซ้ำ
+new_password_failed<>ยืนยันรหัสผ่านใหม่ไม่สำเร็จ
+chat_delay<>โปรดรอ %s วินาทีแล้วจึงส่งข้อความอีกครั้ง
+search_failed<>การค้นหาล้มเหลว
+need_input_friend_id<>ต้องกรอกรหัสเพื่อน
+send_failed<>การส่งล้มเหลว
+warning_send_mail<>โปรดรอ %s วินาทีแล้วจึงส่งจดหมายอีกครั้ง
+mail_content<>ต้องกรอกเนื้อหาของจดหมาย
+max_hero<>ฮีโร่ถึงระดับสูงสุด!
+enough_hero_material<>วัสดุฮีโร่ไม่เพียงพอ!
+max_turn_bought<>ครบจำนวนจำกัดการซื้อแล้ว
+hero_max_star<>ฮีโร่มีระดับดาวสูงสุด
+need_up_max_level<>ฮีโร่ต้องมีเลเวลสูงสุดก่อน
+hero_is_training<>กำลังดำเนินการ
+hour_x<>%s ชั่วโมง
+min_x<>%s นาที
+smash_reward<>ทุบรับรางวัล
+refresh_x<>รีเฟรช: %s
+potion_1<>ฟื้นฟู: %s พลังชีวิต
+potion_2<>เพิ่ม: %s พลังงาน
+potion_3<>เพิ่ม: %s พลังชีวิตและ %s พลังงาน
+full_slot<>ช่องเต็ม
+want_to_use_potion<>ต้องการกินยาหรือไม่
+day_ago_format<>{0} วัน {1} ชั่วโมงที่ผ่านมา
+hour_ago_format<>{0} ชั่วโมง {1} นาทีที่ผ่านมา
+min_ago_format<>{0} นาที {1} วินาทีที่ผ่านมา
+second_ago_format<>{0} วินาทีที่ผ่านมา
+tower_record_error<>ไม่สามารถดูบันทึกภาพได้ โปรดลองตัวอื่น
+require_vip_or_level<>ต้องเป็นวีไอพีระดับ {1} หรือมีเลเวล {2}
+reach_limited_pack<>ครบตามจำวนชุดที่จำกัดแล้ว!
+all_heroes_were_killed<>ฮีโร่ทุกตัวพ่ายแพ้แล้ว!
+use_id_format<>ใช้รูปแบบไอดีแทน
+guild_not_found<>ไม่พบกิลด์
+recommend_guild_failed<>ไม่สามารถแสดงกิลด์แนะนำได้
+have_just_joined_guild<>เข้าร่วมกิลด์แล้ว
+boss_changed_successful<>เปลี่ยนบอสสำเร็จ
+select_boss_failed<>ไม่สามารถเลือกบอสได้
+challenge_guild_boss_successful<>ท้ารบบอสกิลด์สำเร็จ
+challenge_guild_boss_failed<>ท้ารบกิลด์ดันเจี้ยนล้มเหลว
+guild_was_kicked<>คุณถูกไล่ออกจากกิลด์
+check_in_successful<>เช็คอินเรียบร้อยแล้ว!
+restore_failed<>การคืนค่าล้มเหลว!
+play_record_failed<>เกิดความผิดพลาดในการบันทึก โปรดลองตัวอื่น
+need_clear_previous_stage<>จะต้องผ่านด่านที่แล้วเสียก่อน
+map_cleared<>เสร็จสิ้น
+no_video<>วิดีโอไม่พร้อมใช้งาน
+current_name<>ชื่อปัจจุบัน
+product_not_exist<>ไม่พบไอดีนี้
+purchase_processing<>กำลังประมวลผล
+register_account_success<>ลงทะเบียนสำเร็จ
+new_pass_limit<>จำกัด %s ตัวอักษร
+new_pass_special<>มีการใช้อักษรพิเศษ
+confirm_pass_fail<>ยืนยันรหัสผ่านล้มเหลว
+disconnect<>ตัดการเชื่อมต่อ!
+dungeon_time_up<>ดันเจี้ยนปิดแล้ว!
+change_language<>เปลี่ยนเป็นภาษา %s หรือไม่
+create_guild<>ต้องการสร้างกิลด์หรือไม่
+want_block<>ต้องการบล็อคหรือไม่
+want_unblock<>ต้องการปลดบล็อคหรือไม่
+want_delete_all_mail<>ต้องการลบจดหมายทั้งหมดหรือไม่
+want_refresh_tavern<>ต้องการรีเฟรชโรงเตี๊ยมหรือไม่
+remove_friend<>ต้องการลบเพื่อนคนนี้หรือไม่
+have_verified_email<>ยืนยันอีเมลแล้วหรือยัง
+quit_game<>ต้องการออกจากเกมหรือไม่
+want_refresh_shop<>ต้องการรีเฟรชร้านค้าหรือไม่
+all_hero_died<>ฮีโร่ทุกตัวพ่ายแพ้แล้ว!
+resend<>ส่งอีกครั้ง
+input_code<>ใส่รหัส
+noti_code<>เราได้ส่งข้อความไปทางอีเมลแล้ว
+update<>อัปเดต
+raw_pack_1<>เพชรหนึ่งกำมือ
+raw_pack_2<>เพชรหนึ่งกอง
+raw_pack_3<>เพชรหนึ่งถุง
+raw_pack_4<>เพชรหนึ่งกล่อง
+raw_pack_5<>เพชรหนึ่งหีบ
+limited_pack_1<>แพ็คเกจเหล็กประจำสัปดาห์
+limited_pack_2<>แพ็คเกจเหล็กกล้าประจำสัปดาห์
+limited_pack_3<>แพ็คเกจทองแดงประจำสัปดาห์
+limited_pack_4<>แพ็คเกจเงินประจำสัปดาห์
+limited_pack_5<>แพ็คเกจทองประจำสัปดาห์
+limited_pack_6<>แพ็คเกจเหล็กประจำเดือน
+limited_pack_7<>แพ็คเกจเหล็กกล้าประจำเดือน
+limited_pack_8<>แพ็คเกจทองแดงประจำเดือน
+limited_pack_9<>แพ็คเกจเงินประจำเดือน
+limited_pack_10<>แพ็คเกจทองประจำเดือน
+smash_many<>โปรดใส่จำนวน
+events<>กิจกรรม
+event_summon<>อัญเชิญ
+event_prophet_tree<>ต้นไม้โบราณ
+event_arena<>ลานประลอง
+event_wheel_of_fate<>กงล้อวัดใจ
+event_tavern<>โรงเตี๊ยม
+event_collection<>ของสะสม
+event_exchange<>แลกเปลี่ยน
+event_bundle<>แพ็คเกจ
+event_hot_deal<>ดีลเด็ด
+event_prophet_tree_info<>ในช่วงกิจกรรม อัญเชิญฮีโร่ที่ ต้นไม้โบราณ ให้ครบตามกำหนดเพื่อรับรางวัล
+event_wheel_of_fate_info<>ในช่วงกิจกรรม หมุนกงล้อที่ กงล้อวัดใจ ให้ครบตามกำหนดเพื่อรับรางวัล
+event_collection_info<>ในช่วงกิจกรรม สะสมฮีโร่ให้ครบตามจำนวนที่กำหนดเพื่อรับรางวัล
+event_tavern_info<>ในช่วงกิจกรรม ทำเควสที่ โรงเตี๊ยม ให้ครบตามกำหนดเพื่อรับรางวัล
+event_summon_info<>ในช่วงกิจกรรม อัญเชิญฮีโร่ที่ อัญเชิญ ให้ครบตามกำหนดเพื่อรับรางวัล
+event_arena_info<>ในช่วงกิจกรรม ต่อสู้ในลานประลองให้ครบตามกำหนดเพื่อรับรางวัล
+event_bundle_info<>ในช่วงกิจกรรม คุณสามารถซื้อแพ็คเกจจำกัดจำนวนได้
+event_hot_deal_info<>ในช่วงกิจกรรม คุณสามารถซื้อแพ็คเกจจำกัดจำนวนได้
+gate<>แผนที่
+enemy<>ศัตรู
+faction_restrain<>ความแพ้ทางของแต่ละธาตุ
+faction_restrain_info<>ธาตุที่ได้เปรียบจะสร้างความเสียหายมากขึ้น {1} และโจมตีแม่นยำขึ้น {2}
+round<>รอบ
+invite<>เชิญ
+name<>ชื่อ
+stock<>จำกัดจำนวน
+select_guild_logo<>เลือกโลโก้ของกิลด์
+member<>สมาชิก
+master<>หัวหน้า
+deputy<>รองหัวหน้า
+guild_notice<>ประกาศกิลด์
+season_end_in<>สิ้นสุดฤดูกาลใน:
+stage<>ด่าน
+hall_of_fame<>หอเกียรติยศ
+floor<>ชั้น
+remove_all<>ลบทั้งหมด
+enemy_team<>ทีมศัตรู
+go<>ไป
+save_point<>บันทึกจุด
+next_stage<>ด่านต่อไป
+attacker<>ทีมโจมตี
+defender<>ทีมรับ
+forge_equipment<>สร้างอุปกรณ์
+upgrade_hero<>อัพเกรดฮีโร่
+summon_hero<>อัญเชิญฮีโร่
+enter_redemption_code<>ใส่รหัสแลกของ
+gift_code<>รหัสของขวัญ
+current_ranking<>อันดับปัจจุบัน
+monthly_packs<>แพ็คเกจรายเดือน
+raw_packs<>แพ็คเกจเพชร
+limited_packs<>แพ็คเกจจำกัดการซื้อ
+total_reward<>รางวัลทั้งหมด
+instant_reward<>รางวัลที่ได้รับทันที
+weekly<>รายเดือน
+monthly<>รายเดือน
+premium_monthly<>พรีเมียมรายเดือน
+free_acquire_video_reward<>รางวัลฟรีจากการชมวิดีโอ
+limit_pack_per_week<>จำกัด %s แพ็ค/สัปดาห์
+limit_pack_per_month<>จำกัด %s แพ็ค/เดือน
+lock<>ล็อค
+edit_lock_heroes<>แก้ไขฮีโร่ที่ถูกล็อค
+back_to_current<>ย้อนกลับไปยังปัจจุบัน
+mastery_name<>{1} จาก {2}
+get_vip_point_to_reach<>เพิ่มคะแนนวีไอพีอีก %s คะแนนเพื่อรับสิทธิ์
+remove<>ลบ
+replace<>เปลี่ยน
+use<>ใช้
+add_one<>เพิ่ม x0
+add_ten<>เพิ่ม x10
+admin_mail<>จดหมายจากแอดมิน
+moderator_mail<>จดหมายจากผู้จัดการ
+merchant<>พ่อค้า
+enter_name_please<>โปรดใส่ชื่อ
+enter_chat<>ป้อนข้อความ
+chat<>พูดคุย
+join<>เข้าร่วม
+please_wait_for_seconds<>โปรดรอ %s วินาที
+max<>สูงสุด
+gold_mine<>เหมืองทองคำ
+friend_not_save_formation<>เพื่อนคนนี้ไม่ได้ตั้งทีมป้องกัน
+not_enough_quest_refresh<>ไม่มีเควสให้รีเฟรช
+do_you_want_use_resource<>ต้องการใช้ {1} {2} หรือไม่
+wanna_kick_member<>ต้องการไล่สมาชิกผู้นี้ออกหรือไม่
+special<>พิเศษ
+first_purchase<>ซื้อครั้งแรก
+account_limit_character<>ชื่อบัญชีต้องมีความยาวระหว่าง {1}-{2} ตัวอักษร
+hero_food_moon_title<>ดวงจันทร์
+hero_food_sun_info<>ใช้ในการเปลี่ยนวัสดุที่ต้องการเมื่อวิวัฒนาการฮีโร่ธาตุแสง/มืด
+hero_food_sun_title<>นั่ง
+hero_food_moon_info<>ใช้ในการเปลี่ยนวัสดุที่ต้องการเมื่อวิวัฒนาการฮีโร่ธาตุไฟ น้ำ ดิน และนรก
+boss<>บอส
+verify_email_success<>ยืนยันสำเร็จ
+level_up_reward<>รางวัลการเลื่อนเลเวล
+no_tavern_quest<>ยังไม่มีเควสในโรงเตี๊ยม
+season_open_in<>เปิดฤดูกาลใน:
+cleared<>เคลียร์แล้ว
+claim_reach_level<>รับรางวัลบอททันทีเพื่อเพิ่มเลเวลให้ถึงกำหนด
+more_time_reach_level<>ต้องการเพิ่มอีก {1} ถึงจะอัพเป็นเลเวล {2}
+claim_to_not_max<>อย่าลืมกดรับรางวัลบอทก่อนที่รางวัลสะสมจะเต็ม
+to_reach_level_x<>ต้องการอีก {1} ถึงจะอัพเป็นเลเวล {2}
+ranking_1<>เหล็ก II
+ranking_2<>เหล็ก I
+ranking_3<>ทองแดง
+ranking_4<>เงิน
+ranking_5<>ทองคำ
+ranking_6<>แพลทินัม
+ranking_top_11<>เพชร
+ranking_top_1<>ตำนาน
+ranking_top_2<>ผู้เชี่ยวชาญ
+ranking_top_3<>นักรบ
+ranking_top_6<>อาจารย์
+top_x<>{1} อันดับแรก
+top_x+<>อันดับ {1}+
+top_x_x<>{1} อันดับแรก - {2} อันดับแรก
+point_x-<>{1} แต้ม-
+point_x+<>{1} แต้ม+
+point_x_x<>{1} แต้ม - {2} แต้ม
+not_ranked<>ไม่ติดอันดับ
+version_outdate<>Your version %s is not up to date!
+role<>บทบาท
+ago<>มาแล้ว
+preload_resources<>เตรียมโหลดกราฟิค
+download_resource_complete<>ดาวน์โหลดดาต้าเสร็จแล้ว
+load_user_data<>กำลังดึงข้อมูลผู้ใช้...
+start_game<>เริ่มเกม
+under_maintenance<>เซิร์ฟเวอร์ปิดปรับปรุง
+no_data<>ไม่มีข้อมูล
+change_leader<>เปลี่ยนหัวหน้า
+set_as_leader<>ตั้งให้เป็นหัวหน้า
+guild_member_list<>รายชื่อสมาชิก
+confirm_change_leader<>มั่นใจนะว่าคุณจะตั้ง {1} เป็น {2}
+unblock_training_condition<>คุณจะเปลี่ยนฮีโร่ในการฝึกได้หลังจากกดรับรางวัล
+quick_battle<>ท้ารบแบบด่วน
+quick_battle_info<>คุณจะได้รับรางวัลบอทเป็นระยะเวลา %s นาทีหรือเท่ากับ ค่าประสบการณ์ฮีโร่ ค่าประสบการณ์ซัมมอนเนอร์ ทอง และไอเท็มต่างๆ
+monthly_reward<>รางวัลประจำเดือน
+max_quick_battle_turn<>จำนวนรอบการท้ารบแบบด่วนสูงสุด
+event_has_ended<>สิ้นสุดกิจกรรมแล้ว
+archived<>ประวัติ
+more_items<>อีก %s ไอเท็ม
+purchase_items<>ซื้อไอเท็ม
+limited_pack_desc_1<>ตัวเลือกสำหรับนักลงทุนที่มีวิสัยทัศน์
+limited_pack_desc_2<>ตัวเลือกนี้จะทำให้คุณมีชื่อเสียงมากขึ้น
+limited_pack_desc_3<>ตัวเลือกนี้จะให้สิ่งที่คุณคาดไม่ถึง
+limited_pack_desc_4<>เล่นใหญ่แบบนี้เอาใจพี่ไปเลย
+limited_pack_desc_5<>ตัวเลือกนี้มีแต่แชมป์ที่ได้ครอบครอง
+limited_pack_desc_6<>ตัวเลือกนี้สำหรับคนที่อยากเป็นผู้พิชิต
+limited_pack_desc_7<>คุ้มกว่านี้ไม่มีอีกแล้ว
+limited_pack_desc_8<>การลงทุนนี้จะเห็นผลทันที
+companion_buff<>บัฟจากสหาย
+total<>รวมทั้งหมด
+when_you_login<>เมื่อคุณเข้าสู่ระบบ
+claim_each_day<>ทุกวันจนครบ %s วัน
+day<>วัน
+speed_up_gold<>เร่ง ทอง
+speed_up_hero_exp<>เร่ง ค่าประสบการณ์ฮีโร่
+speed_up_summoner_exp<>เร่ง ค่าประสบการณ์ซัมมอนเนอร์
+speed_up_gold_info<>รับ %s ชั่วโมงมูลค่า ทอง ทันที\nเปิดใช้งานในหน้าจอ แคมเปญ
+speed_up_hero_exp_info<>รับทันที %s ชั่วโมงของ ค่าประสบการณ์ฮีโร่\nเปิดใช้งานในหน้าจอ แคมเปญ
+speed_up_summoner_exp_info<>รับ ค่าประสบการณ์ซัมมอนเนอร์ มูลค่า %s ชั่วโมงทันที\nเปิดใช้งานในหน้าจอ แคมเปญ
+all_received<>รับทั้งหมดแล้ว
+attack_success<>โจมตีสำเร็จ
+attack_fail<>โจมตีล้มเหลว
+defense_success<>ป้องกันสำเร็จ
+defense_fail<>ป้องกันล้มเหลว
+revenge<>แก้แค้น
+hide<>ซ่อน
+season_end_reward<>รางวัลสิ้นฤดูกาล
+champion<>ผู้ชนะ
+reward_area_end<>เปิดจดหมายเพื่อรับรางวัล
+go_to_mail<>ไปที่จดหมาย
+arena_point_reset<>คะแนนอันดับของคุณถูกรีเซ็ตเป็น %s
+rate_x<>อัตรา %s
+season_end<>สิ้นสุดฤดูกาล
+highest_ever<>สูงสุดที่เคยทำได้
+random_item_pool<>แสดงรายการไอเท็ม
+next_refresh<>บังคับรีเฟรชครั้งต่อไปใน:
+community<>ชุมชน
+guild_log_join<>{0} เข้ากิลด์แล้ว
+guild_log_leave<>{0} ออกจากกิลด์แล้ว
+guild_log_assign_leader<>{0} แต่งตั้งให้ {1} เป็นหัวหน้ากิลด์
+guild_log_assign_sub_leader<>{0} แต่งตั้งให้ {1} เป็นรองหัวหน้ากิลด์
+guild_log_kick_out<>{0} ถูกไล่ออกจากกิลด์แล้ว
+free_refresh<>รีเฟรชฟรีใน:
+flash_sale<>ขายด่วนลดราคา
+rate_title<>ชอบเกมนี้ไหม?
+not_rate_contain<>เราต้องขออภัยที่คุณไม่ได้รับความสะดวก โปรดไปที่หน้าแฟนเพจของเราและแสดงความคิดเห็น เราจะได้นำข้อมูลไปพัฒนาตัวเกมให้ดียิ่งๆ ขึ้นไป
+transaction_mail<>จดหมายธุรกรรม
+weekly_packs<>แพ็คเกจประจำสัปดาห์
+subscription_packs<>แพ็คเกจสมาชิก
+rate_content<>คุณชอบเล่น Summoner Era หรือเปล่า? ช่วยให้กำลังใจทีมงานด้วยการให้คะแนน 5 ดาวด้วยนะ!
+rate<>ให้คะแนนเลย
+not_rate<>ไม่เป็นไร ขอบคุณ
+go_to_fanpage<>ไปที่แฟนเพจ
+notice_watch_ads<>คุณจะรับชมโฆษณาเพื่อรับรางวัลหรือไม่?
+play_video<>เล่นวีดีโอ
+init_proceed_failed<>ไม่สามารถดำเนินการตามคำสั่งซื้อได้ด้วยบัญชีผู้ใช้นี้ โปรดตรวจสอบบัญชีแล้วลองอีกครั้ง
+start_free_trial<>เริ่มทดลองการใช้งานฟรี %s วัน
+trial_available<>ขอบคุณที่เริ่มทดลองใช้งาน
+warning_flash_sale<>คุณจะมีโอกาสเห็นแพ็คเกจนี้เพียงหนเดียว แน่ใจหรือไม่ว่าจะสละสิทธิ์
+warning_download_data<>ดาวน์โหลดดาต้า {1} MB\n<color=#{2}>แนะนำให้ต่อไวไฟ</color>
+not_enough_space_memory<>พื้นที่ไม่พอสำหรับการดาวน์โหลดดาต้า ต้องใช้พื้นที่ %sMB เพื่อดำเนินการต่อ
+retry<>ลองใหม่
+download<>ดาวน์โหลด
+event_login<>เข้าสู่ระบบกิจกรรม
+event_login_info<>ในช่วงกิจกรรม เข้าสู่ระบบสะสมให้ครบตามจำนวนที่กำหนดเพื่อรับรางวัล
+tip_1<>เมื่อรีเซ็ตหรือใช้ฮีโร่เป็นวัตถุดิบในการวิวัฒนาการ วัตถุดิบ 100% ที่ใช้ในการปรับระดับฮีโร่เหล่านั้นและวัสดุ 80% สำหรับการอัพเกรดรูนจะถูกส่งคืน
+tip_2<>แจ้งให้ทราบ! ฮีโร่ระดับดาวต่ำ (1-3) ไม่ได้ไร้ประโยชน์ พัฒนาและนำพวกมันมาเป็นอาหารฉุกเฉินให้กับฮีโร่หลักของคุณ
+tip_3<>พัฒนาการสเตตัสของฮีโร่ตามเลเวลจะสูงขึ้นมากหลังวิวัฒนาการ
+tip_4<>โปรดอย่าลืมสร้างผลงานเพื่อทำอันดับในลานประลอง คุณจะได้รับ “คะแนนความชำนาญ” ตามรางวัลอันดับประจำสัปดาห์
+tip_5<>การฝึกฮีโร่เป็นวิธีที่ดีที่สุดในการเพิ่มเลเวลให้ฮีโร่ระดับไม่เกิน 3 ดาว
+tip_6<>โปรดอย่าลืมลงทะเบียนบัญชีและยืนยันอีเมลเพื่อความปลอดภัย
+tip_7<>เมื่อรีเซ็ตหรือใช้ฮีโร่เป็นวัตถุดิบในการวิวัฒนาการ วัตถุดิบ 100% ที่ใช้ในการปรับระดับฮีโร่เหล่านั้นและวัสดุ 80% สำหรับการอัพเกรดรูนจะถูกส่งคืน
+notice_upgrade_stone_converting<>คุณเคยเปลี่ยนหินมาก่อน คุณแน่ใจแล้วหรือไม่ว่าจะทำการอัพเกรดต่อไป
+day_only<>วัน
+login_event_progress<>กำลังเข้าสู่ระบบ %s
+notice_switch_all_summoner<>ต้องการเปลี่ยนซัมมอนเนอร์ทั้งหมดหรือไม่
+not_enough_point<>แต้มไม่พอ
+event_arena_ranking<>อันดับลานประลอง
+event_arena_ranking_info<>ในช่วงกิจกรรม เพิ่มคะแนนอันดับของคุณเพื่อรับรางวัล คำนวนผลการแข่งขันตามอันดับในฤดูกาลก่อนหน้าที่มีการเข้าร่วมและจะส่งผลไปทางจดหมาย
+notice_reset_hero<>ปริมาณทรัพยากรรวมที่ถูกส่งคืนหลังจากการรีเซ็ตขึ้นอยู่กับเลเวลของฮีโร่
+guild_hall<>บ้านกิลด์
+guild_hall_info<>พื้นที่ตรงนี้ใช้สำหรับการจัดการกิลด์และดูข้อมูลสมาชิก
+join_now<>เข้าร่วมเลย
+are_you_sure<>แน่ใจแล้วใช่ไหม?
+registered_member<>สมาชิกที่ลงทะเบียน
+phase_message_tittle<>ผู้ช่วยกิลด์
+message_phase_1<>ต้องการสมาชิกลงทะเบียนอย่างน้อย {1} คนจึงจะสามารถเข้าร่วมรอบ {2} ได้
+message_phase_2<>Your guild can't join {1} because defense formation hasn't been set up. Only Leader & Vice-Leader could set up.
+change_formation<>เปลี่ยนรูปแบบการจัดทีม
+change_defender<>เปลี่ยนทีมป้องกัน
+guild_leader_benefit<>การลงทะเบียนสงครามกิลด์เป็นอำนาจของหัวหน้ากิลด์เท่านั้น
+notice_evolve_hero_converting<>กำลังแปลงฮีโร่นี้ แน่ใจหรือไม่ว่าจะเริ่มการวิวัฒนาการ
+unlock_previous_stage<>ปลดล็อกด่านก่อนหน้า
+missing_join_stage<>คุณพลาดโอกาสในการเข้าร่วมกิลด์ดันเจี้ยนนี้
+deal_damage_to_get_reward<>ทำดาเมจเพื่อรับรางวัลหายาก
+only_leader_can_change_boss<>การเปลี่ยนบอสเป็นอำนาจของหัวหน้ากิลด์เท่านั้น
+total_damage<>ความเสียหายรวม
+event_release_festival<>เทศกาลปล่อยของ
+event_release_festival_info<>ในช่วงกิจกรรม เมื่อได้จำนวนผู้เล่นในเซิร์ฟเวอร์ตามเป้าผู้เล่นทุกคนจะได้รับรางวัล
+player_join_server<>ผู้เล่นเข้าร่วมเซิร์ฟเวอร์
+skip_batte<>ข้ามการต่อสู้
+summoner_locked<>ยังไม่ได้ปลดล็อคซัมมอนเนอร์นี้
+member_has_registered<>สมาชิกได้ลงทะเบียนแล้ว
+not_eligible_to_join<>ไม่มีสิทธิ์เข้าร่วม
+guild_war_phase_1_name<>ขั้นตอนการลงทะเบียน
+guild_war_phase_2_name<>ขั้นตอนการตั้งค่าการป้องกัน
+guild_war_phase_3_name<>Battle phase
+random_boss<>Random Boss
+try_time<>Try time
+check_out_defenders<>Check out defenders
+limited_pack_11<>แพลตตินัมรายเดือน
+limited_pack_desc_11<>This investment's benefits will immediately be proven
+event_shop<>ร้านวิญญาณ
+mission<>ภารกิจกิจกรรม
+exchange<>แลกเปลี่ยน
+not_enough<>ไม่เพียงพอ
+limit_x<>Limit %s 
+soul_shop<>ร้านวิญญาณ
+hidden_deal<>ข้อตกลงที่ซ่อนอยู่
+owned<>เป็นเจ้าของ
+guild_owned<>กิลด์เป็นเจ้าของ
+not_in_guild<>คุณไม่ได้อยู่ในกิลด์
+new<>ใหม่
+out_of_turn<>ออกจากตา
+event_exchange_1<>แลกเปลี่ยนวีรบุรุษ
+event_exchange_1_info<>ในการทำภารกิจให้สำเร็จให้รวบรวมจำนวนวัสดุที่ต้องการเพื่อแลกเปลี่ยนฮีโร่
+event_exchange_2<>การแลกเปลี่ยนรายการ
+event_exchange_2_info<>เพื่อให้ภารกิจสำเร็จให้รวบรวมจำนวนวัสดุที่ต้องการเพื่อแลกเปลี่ยนไอเท็ม
+event_exchange_3<>พ่อค้าผู้ลึกลับ
+event_exchange_3_info<>คุณสามารถซื้อไอเท็มที่น่าสนใจจากผู้ขาย
+profit<>กำไร
+tilion_nick_name<>รักษาที่ดีที่สุด
+donate<>บริจาค
+guild_donate_history<>กิลด์บริจาคประวัติ
+defronowe_nick_name<>ฆาตกรบ้า
+first_time_reward_desc<>รับฮีโร่นี้เมื่อใดก็ตามที่คุณทำการเติมเงินครั้งแรก
+first_time_reward<>1st TopUp
+go_to_shop<>ไปที่ร้าน
+guild_donate_help<>Guild donate help
+guild_donate_title<>Guild donate
+starter_pack<>ชุดเริ่มต้น
+owned_x<>เป็นเจ้าของ: {1}
+starter_pack_name_1<>อุปกรณ์  
+starter_pack_desc_2<>ตัวแทนจำหน่าย AOE ความเสียหาย 
+starter_pack_desc_4<>หนึ่งนัดต่อหนึ่งชีวิต
+starter_pack_desc_3<>เผาศัตรูทั้งหมด 
+extra<>Extra
+quick_battle_ticket_2_0<>{1} Hour - speed up Gold
+quick_battle_ticket_2_10<>{1} Hour - speed up MagicPotion
+quick_battle_ticket_8_0<>{1} Hour - speed up Exp
+event_type_20<>Event Guild Quest
+event_type_20_info<>You need to complete the milestone in both Trophy gold and Trophy Silver to get the reward
+hero_lock_in_inventory<>Hero is locked in Inventory
+hero_in_guild_war<>Hero is in Guild War
+require_vip<>Require Vip %s
+received<>ที่ได้รับ
+final_reward<>รางวัลสุดท้าย
+day_x<>วัน %s
+buy_item_quest_name<>ซื้อสินค้า
+event_server_open<>ภารกิจมือใหม่
+item_loot<>Item Loot
+done<>เสร็จแล้ว
+support<>Support
+check_game_version<>Check Game Version
+check_game_logic<>Check Game Logic
+check_game_resources<>Check Game Resources
+check_resources_config<>Check Resources Config
+go_to_store<>Go to store
+switch_all<>Switch All
+server_open<>มิชชั่นมือใหม่
+login_summoner_era<>Login Summoner Era
+login_facebook<>Login Facebook
+login_google<>ลงชื่อเข้าใช้ด้วย Google
+login_apple<>Login Apple
+binding_summoner_era<>Binding Summoner Era
+binding_facebook<>Binding Facebook
+binding_google<>Binding Google
+binding_apple<>Binding Apple
+binded<>Binded
+noti_binding<>The account is a guest account, bind it to avoid losing your account
+mail_verified<>Recovery email: %s
+min_donate_event_guild_quest<>Min donation {1} {2} and {3} {4}
+player_banned<>Your account has been banned due to suspicious activity. Kindly contact to our customer service for more details.
+scroll_monthly<>Scrolls Card
+sale_off<>Sale Off
+hot<>Hot
+level_pass<>Level Pass
+unlock_level_pass<>Unlock Premium
+free_reward<>Free Reward
+premium_reward<>Premium Reward
+activated<>Unlocked
+reward_claimed<>Received
+summoner_exp<>Summoner EXP
+tap_to_claim<>Tap to claim
+growth_pack_lock<>After purchasing, reach the specified levels to claim massive amount of valuable rewards.
+noti_register<>คุณต้องการลงทะเบียนบัญชีใหม่หรือไม่?
+skip_cut_scene<>Skip cut scene
+turn_on_cut_scene<>Turn on cut scene
+select_hero_evolve<>Select hero to evolve %s
+noti_confirm_resource<>คุณแน่ใจหรือว่าจะใช้ทรัพยากรเหล่านี้ในตอนนี้
+noti_close_multi_evolve<>หากคุณยืนยันที่จะออกตอนนี้คุณจะต้องเติมฮีโร่ในครั้งต่อไป
+server_maintain_in_x<>Server maintenance will be implemented in next %s
+empty_hero_evolve<>Please select Hero to evolve
+multi_evolve<>Multi Evolve
+potion<>Potions
+collection_bag<>Buffs
+empty<>ว่างเปล่า
+remaining<>ที่เหลืออยู่
+unpack_resources<>Unpack Resources
+choose<>เลือก
+hero_alive<>ฮีโร่คนนี้ยังมีชีวิตอยู่
+hp_full<>The hero is full health
+power_full<>The hero is full power
+guild_war_season_ranking<>อันดับฤดูกาลสงครามกิลด์
+guild_war_member_setup_progress<>สมาชิกที่ลงทะเบียนไม่เพียงพอ
+guild_war_member_setup_successful<>ลงทะเบียนสมาชิกกิลด์วอร์สำเร็จ
+guild_war_setup_can_be_modified<>การก่อตัวทั้งหมดกำลังก่อตัว เฉพาะผู้นำและรองผู้นำเท่านั้นที่สามารถเปลี่ยนแปลงได้ก่อน {1}. อุปกรณ์ของฮีโร่ในทุกรูปแบบไม่สามารถเปลี่ยนแปลงได้ระหว่างการต่อสู้
+swap_member_successful<>สลับสมาชิกสำเร็จ
+ask_for_save_the_change_guild_war_defenders<>คุณเพิ่งเปลี่ยนแนวรับของคุณ คุณต้องการที่จะบันทึกในครั้งต่อไป?
+swap_member<>Swap member
+win<>Win
+your_guild_get<>Your guild get %s
+min_hero_dead_requirement<>Win with at least %s hero alive
+max_round_requirement<>Win in %s round(s)
+save_successful<>บันทึกเรียบร้อยแล้ว
+power<>Combat Power
+point_gained<>Point gained
+not_enough_member_registered<>Unable to join due to insufficient number of registered members.
+guild_war_point<>Guild War Ranking Point
+guild_war_season_end<>The new season of guild war is coming soon. Prepare yourself to conquer new enemies.
+guild_war_register_notification<>Castle Defense formation has just been changed by another person
+require_event_rate_up_point<>Event rate up point is not enough to summon
+summon_rate_up<>Guaranteed in %s Summon(s)
+guaranteed_requirement<>Rate-up Event Point
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>Summoner Level
+daily_packs<>แพ็ครายวัน
+5_star_hero_reward<>รางวัลฮีโร่ระดับ 5 ดาว
+clear_stage_to_get_reward<>เคลียร์ด่านนี้เพื่อรับรางวัลเมื่อสิ้นสุดฤดูกาล
+current_season_reward<>Current season reward
+artifact_fragment_title_7<>Immortal Artifact (Water)
+artifact_fragment_title_8<>Immortal Artifact (Fire)
+artifact_fragment_title_9<>Immortal Artifact (Abyss)
+artifact_fragment_title_10<>Immortal Artifact (Nature)
+artifact_fragment_title_11<>Immortal Artifact (Light)
+artifact_fragment_title_12<>Immortal Artifact (Dark)
+guild_market<>Guild Store
+market_upgrade_describe<>You will need the following resources to upgrade
+attack_log<>โจมตี
+defense_log<>ป้องกัน
+attack_count<>Attack Count
+special_offer<>ข้อเสนอพิเศษ
+master_blacksmith<>ช่างตีเหล็กที่เชี่ยวชาญ
+your_summoner_name<>ป้อนชื่อซัมมอนเนอร์ของคุณ
+when_upgrade<>อัปเกรดสถิติ
+material_refund<>Material Refund
+arena_pass<>Arena Pass
+daily_quest_pass<>Daily Quest Pass
+arena_pass_desc<>Arena Pass Point สามารถรับได้จากการเข้าร่วมในอารีน่า
+daily_quest_pass_desc<>Daily Quest Pass Point can be acquired from daily quest rewards.
+has_not_skin<>ฮีโร่ตัวนี้ไม่มีสกินใด ๆ
+select_hero<>Select Heros
+exit_guild<>Exit Guild
+event_golden_time_name<>งานกลางฤดูใบไม้ร่วง
+event_golden_time_desc<>ในช่วงระยะเวลากิจกรรมหลัก ผู้เล่นจะรับ โคมไฟ และ เค้กพระจันทร์ ใน แคมเปญ รางวัลเมื่อไม่ได้ใช้งาน ใช้เพื่อเล่นกิจกรรมและรับรางวัล\nโคมไฟ และ เค้กพระจันทร์ เป็นสกุลเงินของกิจกรรมช่วงกลางฤดูใบไม้ร่วง พวกเขาจะหายไปหลังจากสิ้นสุดระยะเวลากิจกรรม
+event_feed_beast_name<>เค้กพระจันทร์ งานเลี้ยง
+event_feed_beast_desc<>มอบ เค้กพระจันทร์ ให้กับ ไคลิน\nรับรางวัลพิเศษทุกรูปแบบวิวัฒนาการใหม่
+event_gem_box_name<>คืนพระจันทร์เต็มดวง
+event_gem_box_desc<>รับรางวัลในช่วงเวลากิจกรรม\nโคมไฟ เพิ่มเติม ของรางวัลเพิ่มเติม
+feed<>ให้อาหาร
+source_money_type_180<>∙ รางวัลที่ไม่ได้ใช้งานแคมเปญ\n∙ เทศกาลไหว้พระจันทร์\n∙ คืนพระจันทร์เต็มดวง
+source_money_type_181<>∙ รางวัลที่ไม่ได้ใช้งานแคมเปญ\n∙ เทศกาลไหว้พระจันทร์\n∙ คืนพระจันทร์เต็มดวง
+select_buff<>เลือกบัฟ
+drop_time<>13 วันนับตั้งแต่เริ่มงาน
+golden_time_drop_info<>∙ 1 โคมไฟ: 40 (sec)\n∙ 1 เค้กพระจันทร์: 240 (sec)
+event_midautumn_specialoffer<>เทศกาลไหว้พระจันทร์
+event_midautumn_checkin<>เทศกาลเช็คอิน
+event_midautumn_exchange_name<>แลกเปลี่ยนโคมไฟ
+event_midautumn_exchange_desc<>สะสม ทำให้โคมไฟสว่างขึ้น และแลกของรางวัลไม่จำกัดด้านล่าง
+no_limit<>ไม่มีขีด จำกัด
+mid_autumn_offer_1<>ลัคกี้แลนเทิร์น
+mid_autumn_offer_2<>ขนมไหว้พระจันทร์
+mid_autumn_offer_3<>ชาดบลูม
+item_exchange<>แลกเปลี่ยนไอเทม
+random_reward<>สุ่มรางวัล
+not_own_this_skin<>ยังไม่ได้เป็นเจ้าของสกินนี้
+arena_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+daily_quest_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+popup_context_need_resource<>Lack of resources. Collect these & come back.
+warning_you_need_more_resources<>ทรัพยากรไม่เพียงพอ. ความต้องการมากขึ้น
+town_center<>การก่อสร้างหลัก
+turret<>ปราการ
+event_golden_time_halloween_name<>เวลาฮาโลวีน
+event_golden_time_halloween_desc<>สะสม ลูกเต๋า และ ฟักทอง เพื่อแลกของรางวัล ไอเทมฮัลโลวีนจะหายไปหลังจากสิ้นสุดกิจกรรม\n12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ฟักทอง จะหยุดดรอปลงในกล่องว่าง
+source_money_type_210<>∙ แคมเปญ รางวัลเมื่อไม่ได้ใช้งาน\n∙ ข้อเสนอเทศกาล\n
+source_money_type_211<>∙ แคมเปญ รางวัลเมื่อไม่ได้ใช้งาน\n∙ ข้อเสนอเทศกาล\n∙ {3}\n∙ {1}/{2}
+drop_time_halloween<>13 วันนับตั้งแต่เริ่มงาน
+golden_time_halloween_drop_info<>∙ 10 ฟักทอง: {0} (s)
+dice_title<>เกมผีสิง
+dice_guide<>สะสมและหมุน ลูกเต๋า - รับรางวัลสุดเจ๋ง\nค้นหาเพิ่มเติมในภารกิจฮาโลวีน
+event_halloween_exchange_name<>ซื้อขายปีศาจ
+event_halloween_exchange_desc<>อย่าพลาด ฟักทอง แลกรางวัลเฉพาะวันฮาโลวีน\nรวบรวมเพิ่มเติมใน {1} รางวัลมากมายที่คุณต้องการรับ
+halloween_daily_checkin<>เทศกาลเช็คอิน
+event_halloween_specialoffer<>ข้อเสนอเทศกาล
+halloween_purchase_1<>ฟักทองฮาโลวีน
+halloween_purchase_2<>ลูกเต๋าพยากรณ์
+halloween_purchase_3<>วิญญาณแห่งความตาย
+roll<>ม้วน 
+lap_reward<>รอบโบนัส
+lap_x<>รอบ %s
+event_halloween_dice<>ลูกเต๋า
+hallo_ween<>Halloween
+next_free<>รางวัลต่อไป
+lap_completed<>ตักเสร็จ
+black_friday_remain_x<>บัตรนี้ใช้ได้สำหรับ %s
+black_friday_gem_pack<>ร้านแบล็คฟรายเดย์
+event_card_black_friday<>สมัครสมาชิกบัตร
+event_card_gem_pack<>แลกเปลี่ยนอัญมณี
+black_friday_card_content<>เข้าสู่ระบบทุกวันเป็นเวลา 7 วันเพื่อรับรางวัลรายวัน
+black_friday_card<>การ์ดวันศุกร์สีดำ
+black_friday<>Black Friday
+do_you_want_to<>Please confirm to use
+reset_this_slot<>to reset this slot?
+raised_list<>รายการยก Ra
+raise_hero_describe<>เลือกฮีโร่ที่คุณต้องการเสริมความแข็งแกร่งในรายการยก ระดับของพวกเขาจะเพิ่มขึ้นเท่ากับฮีโร่ระดับต่ำสุดของ Mighty Five ด้านล่าง
+describe_unbinding_raise_level<>การปลดฮีโร่ออกจากช่องนี้จะเปลี่ยนระดับที่เพิ่มเป็นระดับเดิม ช่องนี้จะสามารถใช้ได้หลังจาก
+hero_in_pentagram<>Hero is one of the Mighty Five
+hero_in_raise_level<>Hero is in Raised List
+hero_in_ancient_tree<>Hero is in Ancient Tree
+need_to_select<>You need to select a hero
+same_hero_id<>This hero has the same Hero ID with the other hero in Raised List
+revert_to<>Revert to
+binding_sungame<>Binding Sungame
+login_sungame<>Login Sungame
+open_slot_before<>Please open the previous slot first
+on_cooldown<>เย็นลง
+unlock_slot_success<>You've just opened extra slot
+tower<>Tower 
+defense_stage_reward<>Instant Reward
+failed<>Failed
+success<>Success
+require_login_sungame_to_purchase<>You need to login by Sungame account to occur this transaction
+event_shop_name<>โรงงานขนม
+event_frosty_ignatius<>Frosty Ignatius
+event_exclusive_offer<>ข้อเสนอพิเศษ
+event_xmas_daily_checkin<>เช็คอิน ระฆังกริ๊ง
+event_golden_time<>เต็มไปด้วยของขวัญ
+event_xmas_exchange_desc<>แลกเปลี่ยนลูกอมอ้อยสำหรับของขวัญ.
+xmas_purchase_1<>สุขสันต์วันคริสต์มาส
+xmas_purchase_2<>คริสต์มาสครึกครื้น
+xmas_purchase_3<>คริสต์มาสแฟนซี
+xmas<>คริสต์มาส
+need_login_by_sungame<>You need to login by Sungame account
+binding_success<>ผูกพันที่ประสบความสำเร็จ
+full_of_gift_name<>กระสอบซานตาคลอส
+full_of_gift_desc<>เปิดกระสอบซานตาคลอสเพื่อรับของขวัญสุดเซอร์ไพรส์.
+drop_time_xmas<>13 วันนับตั้งแต่เริ่มงาน
+full_of_gift_drop_info<>กระสอบซานตาคลอส 1 ใบจะลดลงทุกๆ 3600 วินาที
+reward_pool<>Ring-Ding-Dong 
+completed_level_x<>เก่งมาก! คุณได้เสร็จสิ้นระดับพาส %s
+need_reload_data<>จำเป็นที่จะต้องโหลดข้อมูล
+need_set_formation_road_x<>ต้องมีฮีโร่อย่างน้อยหนึ่งตัวสำหรับถนน %s
+wave_x<>คลื่น %s
+happy_new_year<>สวัสดีปีใหม่
+new_year_golden_time_name<>ช่วงเวลาแห่งความสุข
+new_year_golden_time_desc<>รวบรวมโปสการ์ดเพื่อเล่น ความปรารถนาโชคดี และรับรางวัลสุดพิเศษ สามารถรับโปสการ์ดได้จาก รางวัลที่ไม่ได้ใช้งาน แพ็ครายวัน และ ลาก่อนปีเก่า
+drop_time_new_year<>13 วันนับตั้งแต่เริ่มงาน
+event_new_year_card<>บัตรอวยพร
+new_year_remain_x<>คุณจะได้รับรางวัลอย่างต่อเนื่องในอีก %s วันถัดไป
+event_new_year_card_content<>เข้าสู่ระบบทุกวันเป็นเวลา 14 วันเพื่อรับรางวัลรายวัน
+event_new_year_lottery<>ความปรารถนาโชคดี
+event_new_year_exchange<>ลาก่อนปีเก่า
+new_year_golden_time_drop_info<>คูลดาวน์สำหรับการดรอป: %s วินาที โปสการ์ดสูงสุดที่ปล้นได้ขึ้นอยู่กับจำนวนชั่วโมงสูงสุดของหีบว่าง
+lottery_title<>ความปรารถนาโชคดี
+source_money_type_230<>โปสการ์ด
+event_ignatius_name<>FURY IN FREEZE
+event_ignatius_desc<>ท้าทาย Super Boss - Frosty Ignatius เพื่อรับรางวัลที่คุ้มค่า
+highest_damage<>มกุฎความเสียหาย
+new_year_card_title<>บัตรอวยพร
+xmas_daily_checkin_title<>เช็คอิน ระฆังกริ๊ง
+event_xmas_golden_time_name<>เต็มไปด้วยของขวัญ
+event_xmas_shop_name<>โรงงานขนม
+hero_linking_description<>เลือก {0} ฮีโร่ที่ติดตาม
+select_hero_for_linking<>วีรบุรุษที่เหมาะสม
+friend_hero_support<>แนะนำการสนับสนุนมิตรภาพ
+hero_linking_description_2<>ใช้งาน {0} ฮีโร่ที่ตามมาจาก {1} ดาว
+time_to_move_x<>เวลาที่เหลือในการเปลี่ยนฮีโร่:
+star_hero<>ดาว
+remove_hire_success<>ที่ประสบความสำเร็จนำฮีโร่จากการเชื่อมโยง
+hire_success<>ความสำเร็จของการปรับใช้ฮีโร่ในการเชื่อมโยง
+my_support_hero<>เปลี่ยนฮีโร่ที่รองรับ
+require_unique_hero_id<>ฮีโร่นี้หรือการอัพเกรดได้ถูกเลือกแล้ว
+describe_hero_for_hire<>เลือกฮีโร่สำหรับสนับสนุนเพื่อน
+require_at_least_one_your_hero_in_linking<>ต้องการฮีโร่อย่างน้อยหนึ่งตัวที่เป็นของคุณ
+data_updated<>อัปเดตข้อมูลแล้ว
+feature_maintain<>ฟีเจอร์อยู่ระหว่างการบำรุงรักษา
+hero_in_support_hero_linking<>ฮีโร่นี้อยู่ในรายชื่อฮีโร่ที่รองรับ
+hero_in_linking<>ฮีโร่นี้อยู่ในคุณสมบัติการเชื่อมโยง
+hero_support_for_friends<>รายชื่อฮีโร่ที่สนับสนุนของคุณ
+feature_available_in_s<>ฟีเจอร์นี้จะพร้อมใช้งานใน %s
+chest<>หีบ
+loose<>ความพ่ายแพ้
+event_lunar_new_year_login<>การเก็บหน่อฤดูใบไม้ผลิ
+event_lunar_new_year_login_title<>การเก็บหน่อฤดูใบไม้ผลิ
+lunar_path_dice_title<>เส้นทางรุ่งเรือง
+lunar_path_dice_desc<>ลูกเต๋าแดง สามารถหาได้จาก ก้าวแรกเควส และซื้อด้วยอัญมณี เมื่อหมุน ลูกเต๋าแดง คุณจะได้รับ พระเครื่อง 5 อันและกิลด์ของคุณจะได้รับ 1 แต้มกิจกรรม
+lunar_path_quest_title<>ก้าวแรกเควส
+lunar_path_quest_desc<>ทำเควสในเวลา จำกัด เพื่อรับโบนัส [ลูกเต๋าแดง] เควสจะถูกรีเซ็ตทุกวันในช่วงเวลาของกิจกรรม
+require_chap_boss<>ต้องการระดับ ขับไล่ปีศาจ %s
+new_year_golden_time_title<>ช่วงเวลาแห่งความสุข
+event_lottery_title<>ความปรารถนาโชคดี
+event_new_year_exchange_title<>ลาก่อนปีเก่า
+event_lunar_path_shop<>ร้านค้าเทพเจ้าแห่งความมั่งคั่ง
+event_lunar_path_exchange_name<>ร้านค้าเทพเจ้าแห่งความมั่งคั่ง
+event_lunar_path_exchange_desc<>รวบรวม พระเครื่อง เพื่อแลกเปลี่ยนรางวัล จำเป็นต้องไปให้ถึงระดับ ขับไล่ปีศาจ ที่เหมาะสมเพื่อปลดล็อกของขวัญที่เกี่ยวข้อง
+event_lunar_path_quest<>ก้าวแรกเควส
+lunar_new_year<>ปีใหม่ทางจันทรคติ
+lunar_path_dice<>ลูกเต๋าแดง
+lunar_new_year_path<>เส้นทางรุ่งเรือง
+event_lunar_path_boss<>ขับไล่ปีศาจ
+event_lunar_path_boss_title<>ขับไล่ปีศาจ
+event_lunar_path_boss_desc<>ต่อสู้กับความชั่วร้ายรับรางวัล ความชั่วร้ายสามารถต่อสู้ได้ก็ต่อเมื่อผู้เล่นเข้าร่วมกิลด์
+finish<>เสร็จสิ้น
+event_lunar_new_year_exchange<>เงินโชคดี
+event_lunar_new_year_exchange_title<>เงินโชคดี
+event_lunar_new_year_exchange_desc<>ใช้ซองจดหมายสีแดงเพื่อแลกเปลี่ยนของขวัญ
+event_lunar_elite_summon<>อัญเชิญชั้นสูง
+lunar_path_purchase_1<>ความร่ำรวยปีใหม่ทางจันทรคติ
+lunar_path_purchase_2<>สันติภาพปีใหม่ทางจันทรคติ
+lunar_path_purchase_3<>ความเจริญรุ่งเรืองปีใหม่ทางจันทรคติ
+event_lunar_path_bundle<>ช้อปปิ้งในฤดูใบไม้ผลิ
+golden_time_lunar_new_year<>เทศกาลฤดูใบไม้ผลิ
+golden_time_lunar_new_year_name<>เทศกาลฤดูใบไม้ผลิ
+golden_time_lunar_new_year_desc<>รวบรวมซองจดหมายสีแดงเพื่อแลกเปลี่ยนรางวัล ยิ่งซองจดหมายสีแดงของขวัญชิ้นใหญ่
+drop_time_lunar_new_year<>13 วันนับตั้งแต่เริ่มงาน
+golden_time_lunar_new_year_drop_info<>ซองจดหมายสีแดง จะลดลงทุก ๆ 1200 วินาที
+source_money_type_243<>ที่ได้รับรางวัลในแคมเปญ
+free_summon<>อัญเชิญฟรี
+select_elite_summon_wish<>รายชื่อฮีโร่อัญเชิญชั้นสูง
+gem_summon<>ยังคงเลี้ยว
+need_summon_more<>Guaranteed to receive in next
+event_lunar_new_year_bundle<>ของขวัญแห่งฤดูใบไม้ผลิ
+event_lunar_new_year_bundle_title<>ของขวัญแห่งฤดูใบไม้ผลิ
+event_lunar_new_year_bundle_desc<>ในช่วงเวลากิจกรรมซื้อแพ็คเหล่านี้เพื่อรับไอเท็มล้ำค่า
+summon_more_to_gain_reward<>Summon one more time to gain wish reward
+valentine_checkin<>นัดบอด
+valentine_checkin_title<>นัดบอด
+valentine_checkin_des<>ความรักไม่ควรพลาด เข้าสู่ระบบอย่างเต็มที่เพื่อรับของขวัญแห่งความรัก
+valentine_love_challenge<>คำท้าของกามเทพ
+valentine_love_challenge_title<>รักนิรนดร์
+valentine_love_challenge_des<>ต่อสู้กับเจ้านายและแสดงให้เห็นว่าความรักแข็งแกร่งแค่ไหน คุณจะได้รับผลตอบแทนที่คุ้มค่า
+valentine_store<>ของขวัญโรแมนติก
+valentine_store_des<>ทำไมคนดีๆอย่างคุณไม่ซื้อของขวัญให้ล่ะ?
+event_valentine_open_card<>รักแบบทดสอบ
+event_valentine_open_card_title<>รักแบบทดสอบ
+event_valentine_open_card_des<>ใช้ ช็อคโกแลต ปลดล็อกชิ้นส่วนของ รักแบบทดสอบ เพื่อรับของขวัญที่ต้องการ จบบทที่สองของ รักแบบทดสอบ เพื่อรับสกิน Entia
+valentine<>วาเลนไทน์
+event_lunar_skin_bundle<>ราชินีแห่งเผ่ามังกร
+event_lunar_skin_name<>Longmu Arryl
+select_wishing_reward_for_round<>ประการแรกเลือกของขวัญที่ต้องการของบทที่ %s
+select_card_wish_list<>รายการสินค้าที่ต้องการ
+item_lock<>บทก่อนที่สมบูรณ์เพื่อปลดล็อค
+unlock_round<>ความปรารถนาของบทที่ %s
+need_select_card_wish<>กรุณาเลือกรางวัลที่ต้องการแรก
+max_round<>รักแบบทดสอบ ได้รับสมบูรณ์
+item_not_select<>คุณได้รับรายการนี้
+round_x_wishing_reward<>บทที่ %s รายการรางวัล
+select_round<>Available Wishlist
+social_tab<>ชุมชน
+social_tab_title<>ชุมชน
+social_tab_des<>ขอบคุณที่ใช้เวลากับ Summoners Era เข้าร่วมช่องทางโซเชียลของเราเพื่อรับข้อมูลอัปเดตล่าสุด กิจกรรมและของขวัญมากมายรอคุณอยู่
+social_reward_desc<>เยี่ยมชมชุมชนของเราและรับ %s เป็นครั้งแรก
+can_not_claim<>ทรัพยากรถูกใช้ประโยชน์
+in_use_skill<>ในการใช้งาน
+use_skill<>ใช้
+detail<>รายละเอียด
+next_wave<>คลื่นลูกต่อไป
+stage_record<>คำแนะนำของผู้เล่น
+wave_x_record<>บันทึกคลื่น %s
+need_upgrade_main_construction<>ระดับของหอคอยไม่สูงกว่าระดับของโครงสร้างหลัก
+player_stage_record<>สงครามของคุณ
+price_open_card_x<>การเปิดแต่ละต้นทุน%s
+new_hero<>แสดงความยินดีกับฮีโร่ใหม่ 
+new_hero_quest_2<>ภารกิจต้อนรับ 
+select_hero_all_formation<>ผู้เล่นตัวจริงแต่ละคนต้องการฮีโร่อย่างน้อยหนึ่งตัว 
+arena_team_shop<>ร้านอัศวิน 
+arena_desc<>รบเดี่ยว 
+arena_3v3_desc<>การแข่งขันแบบทีม 
+team<>เข้าแถว
+defense_your_team<>กำหนด 
+defeat<>ความพ่ายแพ้
+victory<>ชัยชนะ
+do_you_want_save_formation<>คุณยังไม่ได้ช่วยทีมของคุณ คุณต้องการบันทึกไหม 
+hero_in_arena_team<>ฮีโร่อยู่ใน เวทีการต่อสู้  
+new_hero_bundle_title<>แพคเกจการสนับสนุน 
+event_merge_server_quest_tittle<>ภารกิจเริ่มต้นกระโดด 
+event_merge_server_quest_desc<>เนื่องจากกิจกรรมการรวมเซิร์ฟเวอร์จะมีกิจกรรมและของขวัญมากมายให้คุณ 
+merge_server_quest<>ภารกิจเริ่มต้นกระโดด 
+merge_server_check_in<>7 วันรวมกัน 
+merge_server_checkin_title<>7 วันรวมกัน  
+merge_server_exchange<>ผสานการแลกเปลี่ยนเซิร์ฟเวอร์ 
+merge_server_bundle<>แพ็คเกจจัดหา
+merge_server_accumulation<>จุดสะสม 
+event_merge_server<>ผสานเซิร์ฟเวอร์
+event_merge_server_accumulation_tittle<>จุดสะสม 
+event_merge_server_accumulation_desc<>ทำ ภารกิจเริ่มต้นกระโดดให้สำเร็จและรับ Union Point เพื่อรับรางวัล 
+event_merge_server_exchange_title<>ผสานการแลกเปลี่ยนเซิร์ฟเวอร์ 
+event_merge_server_exchange_desc<>รายการเหล่านี้จะช่วยคุณได้มากในเซิร์ฟเวอร์ใหม่
+new_hero_summon<>อัญเชิญในตำนาน 
+new_hero_spin<>บันไดแห่งเสน่ห์ 
+rose_spin<>บันไดแห่งเสน่ห์ 
+review_skin<>ฮีโร่ดูตัวอย่าง 
+new_hero_checkin_title<>อวยพรของพระเอกใหม่
+noti_binding_account<>คุณเล่นมาสักพักแล้วโดยไม่ได้เชื่อมโยงบัญชีของคุณ เพื่อหลีกเลี่ยงการสูญเสียข้อมูลทำไมคุณไม่เชื่อมโยงบัญชีของคุณตอนนี้? 
+binding_account_now<>ลิงค์ 
+hero_food_faction_info_5<>ใช้ในการเปลี่ยนวัสดุที่ต้องการเมื่อวิวัฒนาการฮีโร่ธาตุไฟ น้ำ ดิน และนรก
+hero_food_faction_title_11<>ดวงจันทร์ (น้ำ)
+hero_food_faction_info_11<>ใช้ในการพัฒนาฮีโร่ของฝ่าย น้ำ 
+hero_food_faction_title_12<>ดวงจันทร์ (ไฟ)
+hero_food_faction_info_12<>ใช้ในการพัฒนาฮีโร่ของฝ่าย ไฟ 
+hero_food_faction_title_13<>ดวงจันทร์ (นรก)
+hero_food_faction_info_13<>ใช้ในการพัฒนาฮีโร่ของฝ่าย นรก 
+hero_food_faction_title_14<>ดวงจันทร์ (ดิน)
+hero_food_faction_info_14<>ใช้ในการพัฒนาฮีโร่ของฝ่าย ดิน 
+hero_food_faction_title_15<>นั่ง (แสง)
+hero_food_faction_info_15<>ใช้ในการพัฒนาฮีโร่ของฝ่าย แสง
+hero_food_faction_title_16<>นั่ง (ความมืด)
+hero_food_faction_info_16<>ใช้ในการพัฒนาฮีโร่ของฝ่าย ความมืด 
+regression<>ถอยหลัง 
+regression_reward<>วัสดุที่ส่งคืน 
+event_merge_server_bundle_tittle<>แพ็คเกจจัดหา
+event_merge_server_bundle_desc<>คุณสามารถเลือกซื้อได้ 2 รายการจากสระว่ายน้ำ 
+select_item_pool<>รายการสินค้า 
+select_x_item<>กรุณาเลือก 2 รายการ 
+confirm_regression<>แน่ใจหรือว่าจะถอยหลังฮีโร่คนนี้ 
+evolve_invalid<>มีฮีโร่ไม่เพียงพอสำหรับการวิวัฒนาการหลายอย่าง
+device_not_support<>อุปกรณ์ของคุณไม่ได้รับการสนับสนุนให้เข้ากันได้กับเกม 
+not_register<>บัญชีไม่ได้ลงทะเบียน 
+event_easter_egg<>กิจกรรมอีสเตอร์ 
+easter_egg_check_in<>ของขวัญจากพระเจ้า 
+easter_egg_checkin_title<>ของขวัญจากพระเจ้า 
+easter_egg_bunny_card<>การ์ดกระต่าย
+event_easter_egg_bunny_tittle<>การ์ดกระต่าย
+event_easter_egg_bunny_desc<>คุณจะได้รับ เพชร, Titan Soul และ ทอง ตามระดับของคุณ ของขวัญจะถูกส่งทุกวันใน%sวัน 
+purchased<>ซื้อแล้ว 
+easter_egg_limited_offer<>Icarus Easter Bunny 
+event_easter_limited_offer_tittle<>ICARUS EASTER BUNNY 
+easter_egg_limited_offer_desc<>อย่าพลาดโอกาสที่จะได้รับผิว จำกัด เวลาของ Icarus 
+easter_egg_hunt<>การเก็บไข่อีสเตอร์ 
+easter_egg_break<>ทุบไข่อีสเตอร์
+egg_hun_name<>การเก็บไข่อีสเตอร์ 
+egg_hun_desc<>ไข่และค้อนสามารถหาได้จากหลายกิจกรรม ไปเก็บกันเถอะ
+egg_hun_drop_1<>- วาง แคมเปญ ทุกๆ 1200 วินาที\n- หลังจากชัยชนะทุกครั้งใน ลานประลอง และ เวทีการต่อสู้ \n- ทุกเควสประจำวัน 
+egg_hun_drop_2<>- ผ่าน ดันเจี้ยน ด่าน 100; 300.\n- ทำเควสรายวันให้เสร็จสิ้น\n- รวมทุกๆ 100 ไข่เงิน\n- ในแพ็คเกจกิจกรรม 
+egg_hun_drop_3<>- ในกรณีเช็คอินทุกวัน \n- รวม 10 ไข่ทองคำ\n- ในแพ็คเกจกิจกรรม
+hammer_drop_1<>- ผ่าน ดันเจี้ยน ด่าน 200, 400\n- ทุก {0} / 20 ชัยชนะใน ลานประลอง\n- ในแพ็คเกจกิจกรรม 
+hammer_drop_2<>- ในกรณีเช็คอินทุกวัน \n- ในแพคเกจที่จัดกิจกรรม
+new_hero_quest_tittle_2<>ภารกิจต้อนรับ 
+new_hero_quest_desc_2<>ทำภารกิจให้สำเร็จเพื่อรับ แอสทรัลสตาร์ เพิ่มเติมสำหรับกิจกรรมกิจกรรม 
+new_hero_spin_2<>การพิชิตจักรวาล
+new_hero_login_2<>อวยพรของพระเอกใหม่
+new_hero_bundle_2<>แพคเกจการสนับสนุน 
+new_hero_collection_2<>เงินรางวัลเฉพาะ 
+new_hero_collection_tittle_2<>เงินรางวัลเฉพาะ 
+new_hero_collection_desc_2<>ยิ่งคุณได้รับ Diadora มากเท่าไหร่คุณก็จะได้รับของขวัญมากขึ้นเท่านั้น 
+rose_spin_2<>การพิชิตจักรวาล
+smash_egg<>ชน 
+smash_egg_desc<>ทุบไข่และรับรางวัล คุณสามารถแตะที่ไข่เพื่อดูว่าคุณจะได้รับอะไรบ้าง 
+egg_combine<>แปลงไข่ 
+combine<>แปลง 
+max_item_select<>คุณสามารถเลือกได้สูงสุด 2 รายการ 
+hero_in_other_feature<>Hero available to regress is in other feature.
+term_of_use<>ข้อกำหนดการใช้งาน
+policy<>หมายเหตุนโยบาย 
+welcome_back_login<>ยินดีต้อนรับกลับเช็คอิน 
+welcome_back_login_title<>ยินดีต้อนรับกลับเช็คอิน 
+welcome_back_quest<>เข้าร่วมเควส
+welcome_back_quest_title<>เข้าร่วมเควส
+welcome_back_quest_desc<>เควสเหล่านี้จะสนับสนุนคุณให้ทันกับการเปลี่ยนแปลงเกมในช่วงเวลานานออฟไลน์ของคุณ 
+welcome_back<>ยินดีต้อนรับกลับ 
+idle_reward<>รางวัลที่ไม่ได้ใช้งาน 
+noti_term_of_use<>การแตะยอมรับแสดงว่าคุณยอมรับข้อกำหนดการใช้งานของเราและรับทราบว่าคุณได้อ่านหมายเหตุนโยบายอย่างละเอียด 
+cannot_purchase_in_pbe<>ไม่รองรับการซื้อในเวอร์ชัน PBE 
+new_hero_boss_challenge_3<>การประกวดพลัง
+new_hero_boss_challenge_tittle_3<>การประกวดพลัง
+new_hero_boss_challenge_desc_3<>คุณจะได้รับรางวัลทันที 2 ครั้งแรกต่อวัน โดยเฉพาะอย่างยิ่ง Charon จะสร้างความเสียหายให้กับบอส 300% และรับความเสียหายจากบอสเพียง 50% เท่านั้น
+new_hero_quest_3<>ภารกิจต้อนรับ 
+new_hero_quest_tittle_3<>ภารกิจต้อนรับ 
+new_hero_quest_desc_3<>ทำภารกิจให้สำเร็จเพื่อรับ ใบมีดของ Enule เพิ่มเติมสำหรับกิจกรรมกิจกรรม 
+new_hero_login_3<>อวยพรของพระเอกใหม่
+new_hero_bundle_3<>แพคเกจการสนับสนุน 
+new_hero_collection_3<>เงินรางวัลเฉพาะ 
+new_hero_collection_tittle_3<>เงินรางวัลเฉพาะ 
+new_hero_collection_desc_3<>ยิ่งคุณได้รับ Charon มากเท่าไหร่คุณก็จะได้รับของขวัญมากขึ้นเท่านั้น 
+new_hero_exchange_3<>แลกเปลี่ยนใบมีด
+event_new_hero_exchange_name<>แลกเปลี่ยนใบมีด
+event_new_hero_exchange_desc<>ใช้ ใบมีดของ Enule เพื่อแลกเปลี่ยนรางวัล
+new_hero_boss_leader_board_3<>ถ้วยรางวัลเกียรติยศ
+welcome_back_bundle<>แพคเกจซูเปอร์กำไร
+welcome_back_bundle_title<>แพคเกจซูเปอร์กำไร
+claimable_reward_turn<>รบกับของขวัญ
+new_hero_boss_leader_board_title_3<>ถ้วยรางวัลเกียรติยศ
+new_hero_boss_leader_board_desc_3<>การจัดอันดับนี้เป็นสถานที่เพื่อเป็นเกียรติแก่ผู้เล่นที่สร้างความเสียหายสูงสุดให้กับบอส Enule.
+chest_boss_challenge_damage_info<>ทำความเสียหาย%s ในการรบหนึ่งครั้งเพื่อรับหีบใบนี้
+birthday_check_in<>เช็คอินวันเกิด
+birthday_check_in_title<>เช็คอินวันเกิด
+even_birthday_golden_time_name<>Play more, more birthday gifts
+birthday<>สุขสันต์วันเกิด
+elune_journey<>แผนที่เกาะโจรสลัด
+birthday_treasure_map<>Hunting Treasure
+final_journey_reward<>หน้าอกล้ำค่า
+complete_journey_x<>เสร็จสมบูรณ์ %s ทิศทางที่จะได้รับ
+goal_x<>สมบัติ %s
+move<>เทเลพอร์ต
+need_complete_one_more_journey<>ต้องการอย่างน้อยหนึ่งทิศทางที่เสร็จสมบูรณ์ 
+need_claim_previous_reward<>จำเป็นต้องมีปลายทางก่อนหน้านี้เสร็จสมบูรณ์
+new_hero_collection_4<>เงินรางวัลเฉพาะ 
+new_hero_collection_tittle_4<>เงินรางวัลเฉพาะ 
+new_hero_bundle_4<>แพคเกจการสนับสนุน 
+new_hero_skin_bundle_4<>ปาร์ตี้ฤดูร้อน
+event_new_hero_skin_bundle_1_data_4<>Renaks Summer Party
+event_new_hero_skin_bundle_2_data_4<>Enule Summer Party
+new_hero_treasure_4<>แผนที่เกาะโจรสลัด
+unlock_super_monthly_card<>รับรางวัลเมื่อคุณซื้อพรีเมียมรายเดือน
+birthday_bundle<>ข้อเสนอครบรอบ
+event_birthday_bundle_1<>สุขสันต์วันเกิด
+event_birthday_bundle_2<>วันเกิดที่น่าจดจำ
+birthday_check_wheel<>การหมุนที่น่าอัศจรรย์
+birthday_exchange<>การแลกของขวัญ
+confirm_stop_spin<>คุณต้องการหยุดหมุนเพื่อรับรางวัลที่ได้รับทั้งหมดหรือไม่?
+event_birthday_exchange_title<>การแลกของขวัญ
+event_birthday_exchange_desc<>อย่าลืมแลกรางวัลเหล่านี้เพื่อช่วยเหลือคุณในงานนี้
+skin_bundle<>สกินช็อป
+skin_bundle_view_43<>สกินคอมโบ
+skin_bundle_view_44<>ค้าปลีกผิว
+stop<>หยุด
+spin<>หมุน
+noti_select_talent<>คุณต้องการเลือกตัวเลือกนี้หรือไม่?
+select_talent<>ตัวเลือกความสามารถพิเศษ
+noti_refresh_talent<>คุณต้องการต่ออายุตัวเลือกเหล่านี้ทั้งหมดหรือไม่?
+treasure_completed<>คุณได้เสร็จสิ้นการผจญภัยสมบัติ
+skin_bundle_1_desc<>ซื้อ 1 - แถม 11 เหลือเชื่อ!
+create_team<>สร้างทีมของคุณ
+create<>สร้าง
+allowed_class<>ใช้ได้เฉพาะฮีโร่ของคลาสเหล่านี้เท่านั้น
+your_team<>ฮีโร่ของคุณ
+lobby<>ล็อบบี้
+invitation<>คำเชิญ
+domain_chest_stage_x_name<>ด่าน %s
+domain_chest_stage_x_desc<>เคลียร์ด่าน %s เพื่อรับรางวัล
+block_domains_team_chat<>บล็อกการแชทของทีม
+block_domains_recruit_chat<>บล็อกแชทการรับสมัคร
+domains_team<>แชทเป็นทีม
+domains_recruit<>แชทรับสมัคร
+guild<>สมาชิกกิลด์
+verify<>แอปพลิเคชัน
+noti_change_leader<>แน่ใจหรือว่าต้องการให้ผู้เล่นคนนี้เป็นผู้นำ?
+noti_kick_member<>แน่ใจเหรอว่าจะเตะนักเตะคนนี้
+disband<>ยกเลิก
+noti_disband<>คุณแน่ใจหรือไม่ว่าจะยุบทีมของคุณ
+enter_team_name_id<>ป้อนชื่อทีมหรือ ID เพื่อค้นหา
+leave<>ออกจาก
+ready<>พร้อม
+unready<>ไม่พร้อม
+noti_leave<>คุณแน่ใจหรือไม่ที่จะออกจากทีมนี้
+domain_name_require<>กรุณากรอกชื่อทีมของคุณ
+domain_desc_require<>กรุณากรอกรายละเอียดทีมของคุณ
+crew_disbanded<>ทีมของคุณถูกยกเลิกโดยผู้นำ
+domain_leader_updated<>หัวหน้าทีมของคุณมีการเปลี่ยนแปลง
+fast_create<>สร้างด่วน
+default_team_desc<>รู้สึกอิสระที่จะเข้าร่วมทีมของฉัน!
+default_team_x<>ทีม_%s
+kicked_from_crew<>คุณถูกไล่ออกจากทีมของคุณ
+domain_challenge_over<>ความท้าทายที่ประสบความสำเร็จ
+domain_challenge_congrat<>ยอดเยี่ยม! ทีมของคุณมีความท้าทายในวันนี้
+has_sent_to_mail<>ของรางวัลได้ถูกส่งไปยังอีเมล
+synchronize<>ซิงโครไนซ์
+invitation_sent<>รับเชิญ
+beta<>เบต้า
+replay_domain<>นัดล่าสุด
+enter_domain_recruit<>ส่งข้อความเกี่ยวกับทีมของคุณที่นี่
+hot_deal<>Hot Deal
+hero_in_domain<>ฮีโร่อยู่ในโดเมน
+party<>ปาร์ตี้ฮีโร่
+lose<>แพ้การต่อสู้
+equipped<>อุปกรณ์ครบครัน
+show_skin<>โชว์ผิว
+hero_release_collection<>เควสรวบรวมฮีโร่ใหม่
+hero_release_bundle<>ชุดฮีโร่ใหม่
+event_hero_release_1<>บททดสอบแห่งถิ่นทุรกันดาร
+hero_release_collection_tittle_1<>เควสรวบรวมฮีโร่ใหม่
+event_hero_release_bundle_tittle_1<>ชุดฮีโร่ใหม่
+feature_open_at_version_s<>ฟีเจอร์นี้จะเปิดในเวอร์ชัน %s
+feature_open_at_version_s_time_s<>คุณลักษณะนี้จะเปิดในเวอร์ชัน %s หลังจาก %s
+event_hero_release_summon_1<>อัญเชิญในตำนาน 
+expire_in_s<>หมดอายุใน %s
+hero_release_collection_desc_1<>เรียก Cernunous เพื่อปลดล็อกความสำเร็จ
+hero_release_daily_quest_tittle_1<>อวยพรของพระเอกใหม่
+instantly_get<>รับสิทธิ์ทันที
+claim_daily<>รับสิทธิ์ทุกวัน
+bonus_login_days_s<>โบนัสล็อกอินใน %s วัน
+hero_release_daily_quest<>เควสรายวันของกิจกรรม
+subscription_packs_2<>การ์ดมือใหม่
+subscription_packs_3<>การ์ดทหารผ่านศึก
+subscription_packs_4<>การ์ดจักรพรรดิ
+require_unready<>คุณต้อง ไม่พร้อม เพื่อเปลี่ยนทีม
+summon_hero_release_reward<>รางวัลโบนัส
+rate_up<>อัตราการดรอปสูง
+overview_hero_40004<>ตั้งแต่เขาเกิด Cernunosมักจะมองตัวเองว่าเป็นผู้พิทักษ์ป่าและม้า หน้าที่ของเขาคือนำฝูงม้าไปยังสถานที่ศักดิ์สิทธิ์ที่ปลอดภัยจากนักล่า ในตำนานเล่าว่าคนที่โชคร้ายที่หลงทางอยู่ในป่าชั่วขณะหนึ่งจะได้พบและรับคำแนะนำกลับบ้านภายในปี Cernunosเสมอ\nCernunosได้รับพลังโจมตีต่อศัตรูทุกตัวที่โดนเขา ดังนั้นยิ่งศัตรูโดน Cernunosมากเท่าไหร่เขาก็ยิ่งแข็งแกร่งขึ้น
+hero_release_overview<>เรื่องฮีโร่
+guild_season<>แกรนด์ซีซั่น
+guild_grand_season<>แกรนด์ซีซั่น
+guild_season_in_tab<>ผู้เข้าร่วม
+guild_season_out_tab<>ไม่เข้าร่วม
+guild_leader<>หัวหน้ากิลด์
+guild_vice_leader<>รองหัวหน้า
+random_name<>สุ่มชื่อ
+delete_data<>โหลดข้อมูลใหม่
+warning_delete_data<>คุณต้องการโหลดข้อมูลซ้ำหรือไม่?
+first_Top_Up_Confirm_Choose_Reward<>รางวัลเติมเงินครั้งที่ 1
+overview_hero_50004<>เมื่อราชินีกำลังตั้งครรภ์ เธอหวังว่าลูกชายของเธอจะกล้าหาญเหมือนนกอินทรีและแข็งแรงเหมือนสิงโต เหล่าทวยเทพได้ยินความปรารถนาของนางและประทานให้ ดังนั้นกริมม์จึงถือกำเนิดขึ้น แทนที่จะเป็นเจ้าชายหนุ่มรูปงาม เขาเป็นสัตว์ประหลาดที่มีครึ่งนกอินทรีครึ่งสิงโต\nพระราชาทรงผิดหวังอย่างยิ่งที่ทรงถอดพระองค์ออกจากรายชื่อทายาทแห่งราชบัลลังก์ กริมม์เติบโตขึ้นมาด้วยความเหินห่างจากพ่อของเขา อับอายตัวเองเขาหนีออกจากบ้าน\nวันหนึ่ง อาณาจักรของพวกเขาพ่ายแพ้โดยกองทัพแห่งความมืด ศัตรูประหารกษัตริย์โดยปล่อยเขาจากกำแพงสูง โชคดีที่กริมม์ปรากฏตัวขึ้นทันใดและจับพ่อของเขาขึ้นไปในอากาศ เขาบินข้ามดินแดนและขอกำลังเสริมจากอาณาจักรอื่น ด้วยเหตุนี้กองทัพแห่งความมืดจึงพ่ายแพ้และต้องถอนตัว\nแม้ว่าจะยังไม่ได้สืบทอดบัลลังก์ แต่กริมม์ก็เป็นที่รักของทุกคน เขาทะยานขึ้นไปบนท้องฟ้า และภายใต้ปีกของเขา สิ่งมีชีวิตที่ไร้เดียงสาทุกคนได้รับการปกป้อง
+hero_release_daily_quest_tittle_2<>อวยพรของพระเอกใหม่
+hero_release_collection_tittle_2<>เควสรวบรวมฮีโร่ใหม่
+event_hero_release_bundle_tittle_2<>ชุดฮีโร่ใหม่
+event_hero_release_summon_2<>อัญเชิญในตำนาน 
+event_hero_release_2<>เสียงคำรามจากสวรรค์
+first_top_up_content_2<>เติมเงินตอนนี้และรับรางวัลไปเลย!
+first_top_up_content<>เลือกโบนัสของคุณ
+first_top_up_main<>รางวัลเติมเงินครั้งที่ 1
+hero_release_collection_desc_2<>Terima hadiah bonus untuk mendapatkan Grimm.
+Border_Limited_Duration<>หมดอายุใน %s วัน
+first_top_up_reward_confirm<>คุณจะไม่สามารถเลือกรางวัลการซื้อครั้งแรกได้อีกครั้ง คุณแน่ใจหรือไม่ว่าต้องการเลือกของขวัญเหล่านี้
+reset_talent_confirm<>คุณแน่ใจว่าจะรีเซ็ตความสามารถปัจจุบันหรือไม่?
+reset_talent<>รีเซ็ต
+change_crew<>เปลี่ยนผู้นำ
+crew<>ผู้นำ
+crew_promote<>การเปลี่ยนแปลง
+you_are_new_crew<>ลีดเดอร์ถูกเปลี่ยนให้คุณ
+first_top_up_content2<>คุณจะได้รับรางวัลเพิ่มเติมด้านล่าง
+selected_hero<>เลือกแล้ว
+customizeble_bundle_1<>แพ็คที่ปรับแต่งได้
+customizeble_bundle_2<>ชุดแพลตตินั่มที่ปรับแต่งได้
+select_2_reward<>เลือก 2 รายการ
+sold_out<>ขายหมดแล้ว
+customize_packs<>แพ็คที่ปรับแต่งได้
+selected_2_rewards<>เลือกแล้ว 2 รายการ
+select_2_rewards_before_purchase <>เลือกรางวัลของคุณก่อน
+flash_sale_new_13<>แพ็คต้อนรับ
+flash_sale_new_14<>แพ็คเกจซัมมอนเนอร์
+flash_sale_new_15<>แพ็คเกจที่เลือก
+flash_sale_new_16<>อัพเกรดแพ็คเกจ 1
+flash_sale_new_17<>หินโชคลาภ แพ็คเกจ
+flash_sale_new_18<>หินชะตา แพ็คเกจ
+flash_sale_new_19<>อัพเกรดแพ็คเกจ2
+buy_stock_remain_x<>ยอดซื้อคงเหลือ %s
+will_get_item<>คุณจะได้รับ
+auto<>อัตโนมัติ
+popup_confirm_auto_next_battle<>โปรดยืนยันว่าคุณต้องการใช้คุณสมบัตินี้! คุณลักษณะนี้จะหยุดเมื่อคุณแพ้การรบ
+auto_next_battle_off<>ออโต้สเตจถัดไป ปิดอยู่
+auto_battle_end_in<>ขั้นต่อไป {1} {2}-{3} ใน {4}
+button_auto_next_formation<>ออโต้สเตจถัดไป
+event_hero_release_3<>ฮีโร่ใหม่
+hero_release_daily_quest_tittle_3<>ความท้าทายสีแดง
+hero_release_collection_tittle_3<>โบนัสสัญญา
+event_hero_release_bundle_tittle_3<>โปรดปรานไฟศักดิ์สิทธิ์
+hero_release_collection_desc_3<>รวบรวม Moblin และรับรางวัลโบนัส
+event_hero_release_summon_3<>อัญเชิญในตำนาน 
+auto_battle<>การต่อสู้อัตโนมัติ
+overview_hero_20008<>Moblin เป็นคนตัวเล็ก ๆ ที่ต้องการอวดพลังของ Goblins ในการเดินทางเพื่อค้นหาความแข็งแกร่ง Goblin ได้พบกับช้างที่หลงทาง และสองชีวิตที่อ้างว้างได้กลายเป็นคู่ชีวิต Moblin ตั้งชื่อช้างว่า แฟนโต้.\nพระเจ้าไม่ได้ทำให้ผู้คนผิดหวัง ผ่านการเดินทางที่เต็มไปด้วยการทดลองและความยากลำบาก Moblin ได้รับความแข็งแกร่งจากการฝึกฝนและสัญญากับ Fire God แต่อย่างที่พวกเขาพูด อย่าเล่นกับไฟ เทพแห่งไฟได้ทรยศต่อสัญญาด้วยคำสาปแช่ง เพราะเดิมทีเขาไม่ชอบก็อบลิน แม้จะถือว่าก็อบลินเป็นเผ่าพันธุ์ที่ด้อยกว่า\nคำสาป Moblin ทนทุกข์ทรมานจากความเจ็บปวดทางร่างกายและจิตใจ Fanto ไม่มีพลังช่วยไม่ได้ Moblin สามารถอยู่ได้เพียงวันต่อวันกับเนื้อคู่ของเขา คำสาปนี้กินเวลานานหลายสิบปี ซึ่งเป็นเวลาหลายปีที่ Moblin และ Fanto ต่อสู้ด้วย Fanto ไปหาเทพเจ้าแห่งไฟและอาสาที่จะสาปแช่งเขาเพื่อช่วย Moblin เทพเจ้าแห่งอัคคีอนุมัติ และฟานโตก็อยู่ในร่างชั่วร้ายราวกับแมมมอธยุคก่อนประวัติศาสตร์ แต่ความเป็นมนุษย์ของ Fanto ยังคงอยู่เพราะมิตรภาพที่จริงใจของ Moblin ได้ช่วยชีวิต Fanto จากการทุจริต ในที่สุด เพื่อนทั้งสองก็ยังอยู่ด้วยกัน เดินทางต่อไปในดินแดนใหม่
+bundle_battle_pass_level<>แบทเทิลพาสบันเดิล
+purchase_battle_pass_level_1<>1 ระดับ
+purchase_battle_pass_level_2<>5 ระดับ
+purchase_battle_pass_level_3<>10 ระดับ
+battle_pass<>แบทเทิลพาส
+battle_pass_level<>ระดับแบทเทิลพาส
+battle_pass_purchase_level<>ซื้อระดับ
+battle_pass_title<>แบทเทิลพาส
+unlock_battle_pass_1<>แบทเทิลพาสบันเดิล
+unlock_battle_pass_2<>แพ็คเกจแบทเทิลพาสพรีเมียม
+battle_pass_tab_quest_title<>คำคม
+button_battle_pass_reward_preview<>ดูตัวอย่างรางวัล
+button_battle_pass_unlock_premium<>แพ็คเกจแบทเทิลพาสพรีเมียม
+battle_pass_claim_all<>อ้างสิทธิ์ทั้งหมด
+battle_pass_tab_reward_title<>รางวัล
+battle_pass_time_end<>ซีซั่นจะจบลงหลังจาก %s
+button_battle_pass_unlocked_premium<>ปลดล็อก พรีเมี่ยมแบทเทิลพาส แล้ว
+preview_battle_pass_reward<>รางวัลแบทเทิลพาส
+unlock_premium<>แพ็คเกจแบทเทิลพาสพรีเมียม
+week<>สัปดาห์
+battle_pass_unlocked<>ปลดล็อค แบทเทิลพาส แล้ว
+confirm_free_battle_reward<>รางวัลแบทเทิลพาส
+confirm_battle_pass_reward<>รางวัลสำหรับ คอมมอนแบทเทิลพาส
+claim_confirmed_battle_pass<>รับรางวัลที่มีให้
+confirm_premium_reward_battle_pass<>รางวัลสำหรับการรบพรีเมี่ยม
+battle_pass_cannot_purchase_level<>คุณถึงระดับสูงสุดแล้ว
+confirm_free_reward_battle_pass<>รางวัลฟรี
+overview_hero_60004<>คารอส นั่งเงียบ ๆ ที่กลางวัด\nอันที่จริง เขาจำไม่ได้ว่าครั้งสุดท้ายที่เขารู้สึกเงียบที่สุดรอบตัวเธอครั้งสุดท้าย Karos ได้รับเลือกให้เป็นนักบวชของพระเจ้าโบราณตั้งแต่วันแรกที่มนุษย์ตระหนักถึงการดำรงอยู่ของพระเจ้า เขาช่วยส่งข่าวสารของอาจารย์ คำพยากรณ์ และคำเตือนที่น่ากลัว เขาดื่มด่ำกับความรู้สึกมีพลังเมื่อใดก็ตามที่เธอเห็นมนุษย์คุกเข่าหลังจากได้ยินคำพยากรณ์หลุดจากริมฝีปากของเขา การเห็นพวกเขาสั่นสะท้านด้วยความกลัวทำให้เขายิ่งกระหายอำนาจมากขึ้นไปอีก บางทีเขาอาจจะโลภเกินไป เพื่อรักษาความรู้สึกนี้ไว้ เขาได้เผยแพร่คำพยากรณ์เท็จเกี่ยวกับโรคระบาด สงคราม และภัยพิบัติโดยไม่ได้รับคำสั่งจากพระเจ้าโบราณ ทำให้โลกกลับหัวกลับหางด้วยฝันร้ายที่ฝังอยู่ของเขาเอง\nเมื่อเขาค้นพบสิ่งที่คารอสทำลับหลัง เทพเจ้าโบราณจึงตัดสินใจนำของขวัญของคารอสไปในฐานะนักบวช เขาไม่ได้ยินเสียงของพระเจ้าอีกต่อไป มนุษย์ที่ถูกทรยศโดยความเชื่อที่คารอส พวกเขาละทิ้งวิหารและเป็นบาทหลวง ปล่อยให้มันพังทลายลงสู่ดินแดนแห่งผู้ถูกลืม\nเลขที่. ฉันปล่อยให้ตัวเองถูกลืมไม่ได้!\nด้วยความมุ่งมั่นในใจนั้น Karos สวมหน้ากากของอาจารย์เก่าของเธอและคทาแห่งเวทมนตร์แห่งความมืด เขาออกเดินทางเพื่อปลูกฝังฝันร้ายแห่งความเจ็บปวด ความขุ่นเคืองและความตายต่อมนุษยชาติ เช่นเดียวกับพระเจ้าที่เขาเคยรับใช้
+hero_release_daily_quest_tittle_4<>ความท้าทายด้านมืด
+event_hero_release_bundle_tittle_4<>ร้านลึกลับ
+hero_release_collection_tittle_4<>พลังงานสีดำ
+hero_release_collection_desc_4<>รวบรวม Karos และรับรางวัลโบนัส
+event_hero_release_4<>พระเจ้าจอมปลอม
+event_hero_release_summon_4<>อัญเชิญในตำนาน 
+starter_pack_new_23<>ชุดเกียร์
+starter_pack_new_24<>ซัมมอนเนอร์แพ็ค
+starter_pack_new_25<>ฮีโร่แพ็ค
+starter_pack_choose_hero_noti<>โปรดเลือกฮีโร่ที่จะซื้อในแพ็คนี้!
+starter_pack_sold_out<>ซื้อชุดนี้แล้ว
+first_top_up_choose_from<>โปรดเลือก 1 จาก %s ของรางวัลด้านล่าง
+first_top_up_desc<>รางวัลเหล่านี้เป็นโบนัสเมื่อคุณทำการซื้อใดๆ
+first_Top_Up_Confirm_Choose_Reward_New<>คุณแน่ใจหรือไม่ว่าต้องการเลือกของขวัญเหล่านี้
+free_gem_title<>ฟรี เพชร
+free_gem_details<>ดูโฆษณาฟรี เพชร
+or<>หรือ
+create_new_account<>เชื่อมต่อกระเป๋าเงินดิจิทัลของคุณเพื่อลงทะเบียนบนเว็บไซต์
+instant_unlock_ten_level<>รับทันที 10 ระดับ
+special_event<>ภารกิจจำกัดเวลา\n
+preview_reward<>ดูตัวอย่างรางวัล
+reward_info<>รับหลังจากจบโฆษณาทั้งหมด
+noti_next_battle_pass<>ค่าประสบการณ์ที่เหลืออีก %s รายการจากฤดูกาลที่แล้วได้ถูกส่งต่อไปยังฤดูกาลปัจจุบัน
+limit<>ขีดจำกัด
+out_of_buy_level_by_gem_time<>จำนวนการซื้อด้วย เพชร ถึงขีดจำกัดแล้ว
+buy_level_buy_gem<>ระดับการซื้อด้วย เพชร
+select_artifact<>เลือก เครื่องราง
+available_artifact<>พร้อมใช้งาน เครื่องราง
+select_an_artifact<>คุณต้องเลือก 1 เครื่องราง
+overview_hero_10011<>กลางมหาสมุทรลึกซึ่งมีกระแสน้ำวนขวางรอยเท้าของมนุษย์ มีเกาะที่มีอารยธรรมล้ำสมัย และเกาะนั้นนำโดย White Sharks นำโดย Jeronim\nฉลามขาวของเจอโรนิมซึ่งอาศัยอยู่ในแอตแลนติสของกษัตริย์ออสเซ อุทิศตนเพื่อความเจริญรุ่งเรืองของอาณาจักร ในทางกลับกัน โจรสลัดจากเมืองโพไซโดนิสมักมุ่งเป้าไปที่ทรัพย์สินของแอตแลนติส พร้อมที่จะจุดชนวนการปล้นนองเลือด ความจงรักภักดีต่อแอตแลนติส ฉลามขาวไม่กลัวที่จะเสียสละตัวเองเพื่อต่อสู้กับโจรสลัดที่โหดเหี้ยม เจอโรนิมและนักรบของเผ่าปกป้องแอตแลนติสอย่างกล้าหาญผ่านการพิชิตโจรสลัดหลายครั้ง แต่ราคาก็สูงเกินไป ฉลามขาวถูกโจรสลัดตามล่าอย่างต่อเนื่อง เพราะโจรสลัดจำนวนนับไม่ถ้วนได้เสียชีวิตลงก่อนอำนาจของเจอโรนิมและสหายของเขา หลายปีผ่านไป ฉลามขาวมีนักรบชั้นยอดเพียงไม่กี่คนและผู้อยู่อาศัยเพียงไม่กี่คนที่อาศัยอยู่ในป้อมปราการมังกร King Osse อกหักและต้องการปกป้องลูกหลานสุดท้ายของ White Sharks เขาสั่งให้ Jeronim พาชาวเผ่าไปยังสถานที่ที่ห่างไกลจาก Atlantis เยโรนิมไม่เห็นด้วยในขั้นต้น แต่เห็นด้วยกับคำสั่งของกษัตริย์ ก่อนออกเดินทาง Jeronim ยังคงไม่ลืมที่จะบอก King Osse: ฉันจะกลับมาเมื่อฉันแข็งแกร่งขึ้นเพื่อสร้าง Atlantis ร่วมกับคุณ
+hero_release_daily_quest_tittle_5<>ความท้าทายทางทะเล
+event_hero_release_bundle_tittle_5<>การสนับสนุนมหาสมุทร
+hero_release_collection_tittle_5<>สมบัติทางทะเล
+hero_release_collection_desc_5<>รวบรวม Jeronim และรับรางวัลโบนัส
+event_hero_release_5<>ฮีโร่ใหม่
+event_hero_release_summon_5<>อัญเชิญในตำนาน 
+event_grow_up<>เส้นทางซัมมอนเนอร์
+new_server_grow_up<>เส้นทางซัมมอนเนอร์
+event_campaign_boot<> ของแคมเปญค่ายฝึก
+new_server_campaign_boot<> ของแคมเปญค่ายฝึก
+new_server_campaign_boot_desc<>ทำภารกิจต่อไปนี้ให้สำเร็จเพื่อรับรางวัลใหญ่
+event_arena_boot<>อารีน่าค่ายฝึก
+vip_treasure<>สมบัติวีไอพี
+new_server_vip_treasure<>สมบัติวีไอพี
+new_server_vip_treasure_desc<>เพิ่มระดับบัตร VIP ของคุณและรับของขวัญสุดพิเศษ
+event_spin_new_server_week<>เมจิกสปิน
+have_no_done_quest_to_claim<>คุณต้องทำภารกิจทั้งหมดให้สำเร็จ
+new_server_arena_boot<>หอเกียรติยศ
+new_server_arena_boot_desc<>รางวัลจะถูกส่งทางไปรษณีย์ใน %s
+ended<>หมดอายุแล้ว
+server_open_week_arena_point<>%s คะแนน
+week_spin_available_dice<>สปินที่มีอยู่: 
+new_server_week_spin<>เมจิกสปิน
+server_week_spin_not_available<>คุณไม่มีสปินแล้ว
+ranking_NA<>ไม่ติดอันดับ
+new_server_grow_up_desc<>ยิ่งเลเวลสูง ยิ่งได้รับของขวัญมาก
+claim_all_desc<>พยายามทำภารกิจทั้งหมดให้สำเร็จ
+reach_level<>เลเวล %s
+select_item_server_week_bundle<>กรุณาเลือก %s รายการ 
+black_friday_purchase_1<>ข้อเสนอเล็กน้อย
+black_friday_purchase_2<>มัดกลาง
+black_friday_purchase_3<>แพ็คใหญ่
+event_black_friday_bundle_pack<>ข้อเสนอที่ดีที่สุด
+event_new_server_week_login<>เช็คอิน
+event_daily_black_friday<>เช็คอิน
+black_friday_gem_pack_desc<>ใช้ เพชร เพื่อแลกเปลี่ยนรางวัล
+event_bundle_new_server_week<>ชุดสนับสนุน
+select_hero_fragment<>เลือกฮีโร่
+available_hero_fragment<>รายชื่อฮีโร่
+server_open_week_no_arena_point<>คะแนนไม่พอให้คะแนน
+choose_arena_chest_reward<>เลือกรางวัล
+selected_item<>หน้าอกที่เลือก
+max_item_limit<>เกินจำนวนสูงสุด
+hero_release_daily_quest_tittle_6<>ภารกิจดั้งเดิม
+event_hero_release_bundle_tittle_6<>ไข่มังกร
+hero_release_collection_tittle_6<>ของขวัญมังกร
+hero_release_collection_desc_6<>รวบรวม Fragnil และรับรางวัลโบนัส
+event_hero_release_6<>ฮีโร่ใหม่
+event_hero_release_summon_6<>อัญเชิญในตำนาน 
+overview_hero_20009<>ย้อนกลับไปในป่า เผ่าพันธุ์มนุษย์และเผ่ามังกรเป็นเพื่อนสนิทกัน อาศัยอยู่อย่างกลมกลืนในอาณาจักรแห่งแสง Fragnil จักรพรรดิมังกรแห่งเผ่ามังกร และ Filde ผู้นำของเผ่าพันธุ์มนุษย์ในขณะนั้น เป็นคู่ของนักรบผู้กล้าหาญ หนึ่งคน หนึ่งมังกร พวกเขาพร้อมที่จะเสียสละตัวเองเพื่อต่อสู้เพื่อปกป้องความปลอดภัยของทั้งสองเผ่าต่อหน้าต่อตากองกำลังมืด\nรักษาสันติภาพ เผ่าพันธุ์มนุษย์ได้พัฒนากองทัพและอาวุธของตนในอัตราที่น่าปวดหัว และพวกเขาก็ค่อยๆ ลืมการดำรงอยู่ของเผ่ามังกร เหล่าวายร้ายค่อย ๆ เปลี่ยนมังกรให้เป็นงานอดิเรกสำหรับการล่าสัตว์ เหยื่อสำหรับการทดสอบอาวุธ อย่างไรก็ตาม เผ่าพันธุ์มังกรเป็นมิตรกับมนุษย์เสมอ ไม่เคยโจมตีเผ่าพันธุ์มนุษย์ เผ่ามังกรค่อยๆ ถูกฆ่า บังคับให้ Fragnil ออกไป แม้ว่า Filde เองก็พยายามปกป้องเพื่อนสนิทของเขาและเผ่ามังกร\nมิตรภาพระหว่าง Fragnil และ Filede ยังคงอยู่ที่นั่น แต่มันเป็นความโหดร้ายในหัวใจของผู้คนที่กลบความทรงจำที่สวยงามของทั้งสองเผ่าพันธุ์ไปในอดีต
+new_server_arena_boot_2_desc<>รางวัลจะถูกส่งทางไปรษณีย์ใน %s
+event_server_week_bundle_2_tittle<>ชุดสนับสนุน
+event_server_week_bundle_2_desc<>แพ็คเกจเหล่านี้จะเป็นประโยชน์กับคุณในการผจญภัยของเกม
+event_server_week_bundle_tittle<>ชุดสนับสนุน
+event_server_week_bundle_desc<>แพ็คเกจเหล่านี้จะเป็นประโยชน์กับคุณในการผจญภัยของเกม
+event_server_week_bundle_3_tittle<>ชุดสนับสนุน
+event_server_week_bundle_3_desc<>แพ็คเกจเหล่านี้จะเป็นประโยชน์กับคุณในการผจญภัยของเกม
+new_server_arena_boot_2<>แทคติคอล มาสเตอร์
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>เส้นทางสู่ความรุ่งโรจน์
+new_server_tower_bootcamp_desc<>ไปถึงชั้นเฉพาะใน หอคอยมังกร เพื่อรับรางวัลพิเศษ
+event_tower_bootcamp<>เส้นทางสู่ความรุ่งโรจน์
+event_arena_3v3_boot<>แทคติคอล มาสเตอร์
+event_server_open_2<>ภารกิจมือใหม่ 2
+event_server_open_3<>ภารกิจมือใหม่ 3
+new_server_grow_up_2<>เส้นทางซัมมอนเนอร์
+fortress<>การเดินทางที่อันตราย
+new_server_fortress<>การเดินทางที่อันตราย
+new_server_fortress_desc<>ท้าทาย ป้อม และรับโบนัสสำหรับชัยชนะ
+dungeon<>ดันเจี้ยนลึกลับ
+new_server_dungeon<>ดันเจี้ยนลึกลับ
+new_server_dungeon_desc<>ไปถึงชั้นเฉพาะใน ดันเจี้ยน เพื่อรับรางวัลพิเศษ
+idle_effect<>เทคนิคพิเศษ
+new_server_grow_up_3<>เส้นทางซัมมอนเนอร์
+note_register<>
+list_idle_effect<>รายการเอฟเฟกต์พิเศษ
+bundle_idle_effect<>เทคนิคพิเศษ
+idle_effect_bundle_1<>เอฟเฟกต์ทั้งหมด
+hero_recommend_game_mode_1_1<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ ธรรมดา
+hero_recommend_game_mode_1_2<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ ยาก
+hero_recommend_game_mode_1_3<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ โหด
+hero_recommend_game_mode_1_4<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ โหดจนฝันร้าย
+hero_recommend_game_mode_1_5<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ โหดบ้าคลั่ง
+hero_recommend_game_mode_1_6<>ฮีโร่ที่ใช้มากที่สุดใน: แคมเปญ โหดโลกแตก
+idle_effect_bundle_2<>ผลกระทบทั่วไป
+idle_effect_bundle_4<>เอฟเฟกต์แบบสุ่ม
+idle_effect_bundle_3<>เอฟเฟกต์ตำนาน
+select_item_idle_effect_bundle<>คุณต้องเลือก 1 เอฟเฟกต์ก่อนซื้อ
+select_idle_effect_fragment<>การเลือกเอฟเฟกต์
+available_idle_effect_fragment<>เอฟเฟกต์ที่มีจำหน่าย
+hero_recommend<>ฮีโร่แนะนำ
+hero_recommend_game_mode_2_-1<>ฮีโร่ที่ใช้มากที่สุดใน: หอคอยมังกร
+hero_recommend_game_mode_4_-1<>ฮีโร่ที่ใช้มากที่สุดใน: ดันเจี้ยน
+hero_recommend_game_mode_6_-1<>ฮีโร่ที่ใช้มากที่สุดใน: ลานประลอง
+hero_recommend_game_mode_most<>ฮีโร่ที่ใช้มากที่สุด
+wiki<>คู่มือหนังสือ
+empty_2<>คุณไม่มีเอฟเฟกต์พิเศษใด ๆ
+event_lunar_new_year_spring_bundle<>ร้านค้าเทพเจ้าแห่งความมั่งคั่ง
+event_lunar_2022_spring_bundle_1<>สันติภาพปีใหม่ทางจันทรคติ
+event_lunar_2022_spring_bundle_2<>ความเจริญรุ่งเรืองปีใหม่ทางจันทรคติ
+text_describe_reward<>สามารถรับไอเทมด้านล่างได้เลย
+water_box<>น้ำ กล่อง
+fire_box<>ไฟ กล่อง
+abyss_box<>นรก กล่อง
+nature_box<>ดิน กล่อง
+light_box<>แสง กล่อง
+dark_box<>ความมืด กล่อง
+event_lunar_new_year_spring_box<>สปริงบ็อกซ์
+event_lunar_new_year_exclusive_bundle<>ผู้พิทักษ์ดวงจันทร์
+overview_hero_30003<>ปีศาจ พวกเขาเป็นสิ่งมีชีวิตที่มองไม่เห็นที่ลี้ภัยในร่างกายของบุคคล ความหึงหวง ริษยา และความคิดชั่วร้ายของมนุษย์เป็นเงื่อนไขสำหรับมารที่จะเติบโตขึ้น เมื่อปีศาจเติบโตเต็มที่ พวกเขาได้รับพลังที่จะแยกตัวออกจากร่างกายมนุษย์ กลายเป็นสิ่งมีชีวิตที่เป็นอิสระ\nNero ปีศาจที่เกิดด้วยวิธีนี้มีพลังชั่วร้ายมหาศาล เขามีความสามารถในการทวีจำนวนปีศาจด้วยความทะเยอทะยานที่จะบุกโลกมนุษย์ มนุษย์ต้องถูกปกครองโดยปีศาจ Nero ประกาศอย่างดุเดือด
+hero_release_daily_quest_tittle_7<>การทดลองของปีศาจ
+hero_release_collection_tittle_7<>ดีหรือชั่ว?
+event_hero_release_bundle_tittle_7<>ค้าขายกับปีศาจ
+spring_box_limited<>คุณเปิดกล่องถึงจำนวนสูงสุดแล้ว
+buy_premium_to_get_this<>คุณต้องปลดล็อกพาสเพื่อรับรางวัลเหล่านี้
+event_lunar_new_year_tiger_path<>เส้นทางรุ่งเรือง
+tiger_path_decs<>ปลดล็อกบัตรผ่านพรีเมียมเพื่อรับรางวัลโบนัส
+event_lunar_new_year_tiger_path_guide<>ทำภารกิจรายวันให้สำเร็จเพื่อรับ จุดมั่งคั่ง เพิ่มความก้าวหน้าของคุณและรับรางวัล
+select_hero_bundle<>โปรดเลือกฮีโร่ 1 ตัวที่เป็นตัวแทนของ Premium Pass
+event_lunar_new_year_lion_dance<>เชิดสิงโตมังกร
+event_lunar_new_year_lion_dance_decs<>ทำภารกิจรายวันให้สำเร็จเพื่อรับ เหรียญนำโชค เพิ่มความก้าวหน้าของคุณและรับรางวัล
+lunar_new_year_tiger_path<>เส้นทางรุ่งเรือง
+hero_release_collection_desc_7<>รวบรวม Nero และรับรางวัลโบนัส
+event_hero_release_7<>ฮีโร่ใหม่
+event_hero_release_summon_7<>อัญเชิญในตำนาน 
+please_select_box<>กรุณาเลือกกล่องที่จะเปิด!
+resource_mapping<>แหล่งข้อมูล
+wiki_feature_unlock<>คุณสมบัติ
+lineup_recommend_1<>แนะนำต้นเกม
+lineup_recommend_2<>กลางเกมแนะนำ
+lineup_recommend_3<>ท้ายเกมแนะนำ
+desc_gem_feature<>สามารถรับได้จากกิจกรรมต่าง ๆ ในเกมและการซื้อในแอป
+please_chose_one_resource<>โปรดเลือกประเภทของทรัพยากรเพื่อดูข้อมูลเกี่ยวกับทรัพยากรนั้น!
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>วิถีแห่งซามูไร
+event_kazetsu_check_in<>การลงทะเบียนโดโจ
+event_kazetsu_gift<>การแก้ปัญหาของซามูไร
+event_kazetsu_gift_desc<>รวบรวม Kazetsu เพื่อรับรางวัล
+event_kazetsu_bundle<>หน้ากากแห่งความแข็งแกร่ง
+kazetsu_store_des<>เพิ่มพลังของคุณด้วยชุดจำกัด!
+hero_recommend_game_mode_13_-1<>ฮีโร่ที่ใช้มากที่สุดใน: เวทีการต่อสู้ 
+event_kazetsu_trial<>การพิจารณาคดีของคาเซ็ตสึ
+sign_in_apple<>ลงชื่อเข้าใช้ด้วย Apple
+you_must_have_a_lineup<>โปรดเลือกทีมของคุณก่อนเข้าสู่การทดลองใช้
+start_trial<>สู่การต่อสู้
+reroll<>สุ่มใหม่
+want_to_reroll<>คุณต้องการสุ่มใหม่หรือไม่?
+lineup_select<>เลือกฮีโร่เพื่อการต่อสู้
+cant_roll_after_confirm_lineup<>คุณมีไลน์อัพแล้ว
+noti_has_hero_selected<>โปรดยกเลิกการเลือกฮีโร่ทั้งหมดก่อน
+noti_full_hero_selected_for_trial<>โปรดเลือกฮีโร่ให้ครบ 6 ตัว
+want_to_start_trial<>ขั้นตอนการทดลองใช้ตอนนี้? คุณจะไม่สามารถเปลี่ยนฮีโร่เหล่านี้ได้
+cant_unpick_kazetsu<>คาเซทสึต้องเข้าแถว
+kazetsu_already_dead<>การพิจารณาคดีสิ้นสุดลง Kazetsu พ่ายแพ้
+revive_time<>โอกาสฟื้นคืนชีพเหลือ
+end_kazetsu_tower<>การทดลองเอาชนะ
+out_of_revive_turn<>ไม่มีโอกาสในการฟื้นคืนชีพอีกต่อไป
+continue_with_apple<>ต่อด้วยApple
+event_kazetsu_rate_up<>อัญเชิญในตำนาน 
+regular_pack<>แพ็คเกจทั่วไป
+event_kazetsu_boss<>การต่อสู้ที่สำคัญ
+kazetsu_boss_title<>การต่อสู้ที่สำคัญ
+kazetsu_boss_des<>ท้าทาย Kazetsu เพื่อแสดงความแข็งแกร่งของคุณและรับรางวัล
+get_limited_skin_now<>อย่าพลาดโอกาสที่จะได้รับผิว จำกัด เวลาของ Kazetsu
+guild_quest_end<>ภารกิจสิ้นสุดแล้ว
+bonus_hero<>โบนัสสำหรับฮีโร่ {1}
+customizeble_bundle_3<>แพ็คเกจปรับแต่งรายสัปดาห์
+customizeble_bundle_4<>แพ็คเกจปรับแต่งรายเดือน 1
+customizeble_bundle_5<>แพ็คเกจปรับแต่งรายเดือน 2
+easter_egg_exchange_reward<>จุดแลกเปลี่ยนอีสเตอร์
+easter_bundle<>แพ็คเกจอีสเตอร์
+event_easter_exclusive_bundle<>แพ็คเกจพิเศษสำหรับเทศกาลอีสเตอร์
+easter_egg_exclusive_bundle<>แพ็คเกจสุดพิเศษช่วงเทศกาลอีสเตอร์
+super_roll<>ม้วนพิเศษ
+skip_dice_anim<>ข้ามแอนิเมชั่นการกลิ้ง
+easter_egg_bundle<>แพ็คเกจอีสเตอร์
+easter_dice_guide<>ทอยลูกเต๋าเพื่อรับรางวัลทุกครั้งที่ทอยได้
+easter_egg_dice<>เกมลูกเต๋าอีสเตอร์
+tap_dice_to_roll<>แตะที่ลูกเต๋าเพื่อทอย
+normal_dice<>ลูกเต๋าวิเศษ
+super_dice<>ซุปเปอร์ลูกเต๋า
+event_hero_release_8<>เบลซ ไกเซอร์
+event_hero_release_summon_8<>อัญเชิญในตำนาน 
+hero_release_daily_quest_tittle_8<>ไฟลุกโชน
+hero_release_collection_tittle_8<>เชื่องเปลวไฟ
+hero_release_collection_desc_8<>รวบรวม Finde และรับรางวัลโบนัส
+event_hero_release_bundle_tittle_8<>เปลวไฟอันอบอุ่น
+overview_hero_20006<>ราคาที่ต้องจ่ายเพื่อช่วย Fragnil อพยพอย่างปลอดภัยยังคงตามหลอกหลอน Finde บัลลังก์ที่ไฟน์นั่งอยู่บนนั้นทำจากกระดูกและเลือดของนักรบที่ใกล้ชิดกับไฟน์เดและพันธมิตรเผ่ามังกรด้วย\nFinde ได้รับพลังแห่งไฟโดย Fire God ไม่เหมือนกับ Moblin พลังในมือของ Finde มอบพลังศักดิ์สิทธิ์ให้กับเขาโดยไม่มีฟันเฟืองใดๆ ยิ่งมีความสามารถมาก ความรับผิดชอบก็ยิ่งสูงขึ้น Finde ได้รับแต่งตั้งให้เป็นแม่ทัพเพื่อปกป้องความปลอดภัยของแหลมแห่งอาณาจักรแห่งแสง ในปีนั้น ขณะต่อสู้กับกองทัพของ Scathatch Finde ได้เรียนรู้ว่ากลุ่ม Dragon กำลังตกอยู่ในอันตราย เนื่องจากมิตรภาพของเขากับ Fragnil Finde จึงใช้ Fire Seal เพื่อเสริมการป้องกันของเขาในขณะที่เขารีบกลับไปช่วย Dragon Clan ด้วยความแข็งแกร่งที่โดดเด่น ไฟน์ซีลช่วยให้กองทัพแนวหน้าสามารถยับยั้ง Scathatch ได้แม้ว่าผู้บาดเจ็บจะยังมีจำนวนมาก สำหรับปัญหาของเผ่ามังกร ไฟน์เด้จัดการด้วยสติปัญญาอย่างชำนาญ นำ Fragnil และเผ่ามังกรมาลี้ภัยได้สำเร็จ แต่นั่นเป็นเพียงความสงบก่อนเกิดพายุ กองทัพของ Scathath ยังคงพยายามกลืนกิน Finde ทั้งเป็นเพื่อฝ่าแนวป้องกันและเข้าสู่อาณาจักรแห่งแสง
+hero_fragment_1705<>เศษเสี้ยวของวีรบุรุษในตำนาน
+easter_egg_dice_game<>เกมลูกเต๋าอีสเตอร์
+event_finde_boss<>บอสท้าทาย
+finde_boss_title<>ทายาทเทพอัคคี
+finde_boss_des<>ท้าทาย Finde เพื่อแสดงความแข็งแกร่งของคุณและรับรางวัล
+event_puzzle_era<>จิตรกรรมลึกลับ
+select_hero_pool<>เลือกฮีโร่
+noti_confirm_select_puzzle<>คุณจะเลือกปริศนานี้หรือไม่?
+event_puzzle<>จิตรกรรมลึกลับ
+can_not_change_hero_this_slot<>ช่องนี้เปลี่ยนไม่ได้
+need_fill_up_all_slot<>คุณต้องกรอกช่องทั้งหมดก่อนเริ่มไขปริศนา
+open<>เปิด
+event_puzzle_finished<>คุณได้เสร็จสิ้นกิจกรรมนี้
+hero_puzzle_complete<>ปริศนาทั้งหมดได้รับการแก้ไขแล้ว
+do_you_want_to_download_resource<>ประสบการณ์การเล่นเกมจะเหมาะสมที่สุดเมื่อทรัพยากรของเกมเต็ม นอกจากนี้ ในกรณีที่ไม่ได้ดาวน์โหลด คุณจะไม่สามารถเข้าสู่ระบบเกมได้ คุณต้องการดาวน์โหลดทรัพยากรในเกมหรือไม่?
+birthday_exclusive_bundle<>ชุดสุดพิเศษ
+puzzle<>ปริศนา
+hero_fragment_1805<>ชิ้นส่วนของฮีโร่ น้ำ, ไฟ, นรก, ดิน
+hero_fragment_1905<>ชิ้นส่วนของฮีโร่ แสง, ความมืด
+bundle<>เสนอ 
+dark_vs_light<>สงครามแห่งโชคชะตา
+birthday_legacy_path<>เส้นทางแห่งมรดก
+birthday_legacy_path_guide<>สะสม จุดผ่านมรดก เพื่อรับรางวัลจากบัตรผ่าน
+birthday_legacy_path_decs<>ปลดล็อกบัตรผ่านพรีเมียมเพื่อรับรางวัลโบนัส
+select_light_path<>เลือก
+select_dark_path<>เลือก
+light<>แสงสว่าง 
+dark<>มืด 
+select_side_confirm<>คุณแน่ใจหรือว่าจะเลือกฝั่งนี้? คุณไม่สามารถเปลี่ยนฝั่งได้หลังจากเลือกแล้ว
+select_artifact_pool<>รายชื่อสิ่งประดิษฐ์
+birthday_boss_title<>พระคุณหรือความชั่วร้าย
+birthday_boss_des<>ท้าทายบอสเพื่อรับรางวัล โดยเฉพาะอย่างยิ่ง เซเลสเทียและสกาแททช์จะสร้างความเสียหายให้บอสเป็นสองเท่า และรับความเสียหายจากบอสเพียงครึ่งเดียว
+birthday_boss<>บอสท้าทาย
+preboss_des<>คุณต้องเลือกฝ่ายใดฝ่ายหนึ่งเพื่อปลดล็อกการท้าทายบอส
+navigate_to_dark_light<>ไปเลือกฝั่ง
+hero_fragment_1605<>ชิ้นส่วนของฮีโร่ขอบแดง: ความมืด
+hero_fragment_1505<>ชิ้นส่วนของฮีโร่ขอบแดง: แสง
+hero_fragment_1405<>ชิ้นส่วนของฮีโร่ขอบแดง: ดิน
+hero_fragment_1305<>ชิ้นส่วนของฮีโร่ขอบแดง: นรก
+hero_fragment_1205<>ชิ้นส่วนของฮีโร่ขอบแดง: ไฟ
+hero_fragment_1105<>ชิ้นส่วนของฮีโร่ขอบแดง: ความมืด
+event_hero_release_9<>คู่แข่งตลอดกาล
+event_hero_release_summon_9<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_9<>ความท้าทายที่ยากลำบาก
+hero_release_collection_tittle_9<>พลังอันน่าเกรงขาม
+hero_release_collection_desc_9<>สะสม Celestia และ Scathatch เพื่อรับรางวัลพิเศษ
+event_hero_release_bundle_tittle_9<>อุปสรรคลดลง
+overview_hero_50007<>ทำไมเหล่าเทวดาต้องเชื่อฟังคำสั่งเสมอ แต่ไม่สามารถทำตามใจตัวเองได้? เซเลสเทียถามตัวเองต่อหน้าพี่น้องเทวดาองค์อื่นๆ แต่ไม่มีใครตอบ ในฐานะเทวดาผู้ซื่อสัตย์ เซเลสเทียเข้าใจว่าภารกิจของเธอคือการช่วยเหลือผู้ที่อ่อนแอ แต่ในใจเธอก็ยังมีความปรารถนาที่จะสำรวจสิ่งต่างๆ อย่างอิสระ ภารกิจ หน้าที่ ความรับผิดชอบ หลักคำสอน เซเลสเทียไม่ชอบสิ่งเหล่านี้ แต่ก็ไม่ละทิ้งเช่นกัน ท้ายที่สุดแล้ว เทวดาควรเข้าไปแทรกแซงในโลกมนุษย์หรือไม่? และในความมืดมิดนั้น อะไรทำให้เหล่าเทวดาต้องระแวดระวังอยู่เสมอ?
+overview_hero_60005<>หลายพันปีก่อน เมื่อสงครามระหว่างเหล่าปีศาจปะทุขึ้น มีนางฟ้าสาวคนหนึ่งบังเอิญติดอยู่ในวังวนแห่งการต่อสู้ เธอคือสกาแธทช์ นางฟ้าผู้ครอบครองพลังแห่งความมืด เรื่องเล่าเกี่ยวกับเทพีแห่งเงามืดนั้นไม่ค่อยมีใครรู้เรื่องราวเกี่ยวกับเธอมากนัก มีเพียงข่าวลือว่าเธอมีพลังอำนาจที่น่าสะพรึงกลัว ผู้ที่ตกเป็นเป้าสายตาของเธอต่างก็ปรารถนาว่าตนเองไม่เคยมีอยู่จริง\nความกลัวความมืดเป็นสิ่งที่น่ากลัวที่สุดหรือ? ไม่ สิ่งที่น่ากลัวในความมืดคือสกาแธทช์ผู้เย็นชา สำหรับเธอแล้ว ไม่มีดีหรือร้าย ทุกสิ่งที่ทำให้เธอไม่พอใจสมควรถูกกำจัดทิ้งไป
+legacy_point_desc<>เควสต์ประจำวันปกติ: 15 คะแนน\nทำเควสต์ประจำวันทั้งหมดสำเร็จ: 30 คะแนน
+summoner_lock<>ปลดล็อกหลังจากสะสมครบ 10 หนังสือโบราณ
+watch<>ดูโฆษณา
+watch_ads<>ดูโฆษณา
+new_server_grow_up_guide<>เพิ่มระดับบัญชีของคุณเพื่อรับรางวัล
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>ซื้อแพ็กเกจใดก็ได้เพื่อรับสิทธิพิเศษ
+first_purchase_nac_price<>ซื้อ 1 ชุดมากกว่า %s เพื่อรับ
+first_purchase_nac_price_global<>ซื้อ 1 ชุดมากกว่า %s เพื่อรับ
+first_purchase_reward_claimed<>รางวัลโบนัสทั้งหมดถูกรับไปแล้ว
+claimed<>อ้างสิทธิ์
+first_purchase_hero_desc_1<>ทายาทแห่งเทพแห่งไฟ
+first_purchase_hero_desc_50006<>เจ้าหญิงแห่งดวงจันทร์
+zodiac_bundle<>ชุดจักรราศี
+zodiac_constellations<>การทำแผนที่กลุ่มดาว
+zodiac_quest<>เควสต์
+zodiac_exchange<>พื้นที่แลกเปลี่ยน
+i_like_it<>กดไลค์และให้คะแนนด้วยนะครับ/ค่ะ
+need_improvements<>ภายหลัง 
+rate_content_2<>ความคิดเห็นของคุณมีค่าอย่างยิ่งสำหรับเราในการปรับปรุงประสบการณ์การเล่นเกม โปรดแจ้งให้เราทราบความคิดเห็นของคุณ!
+not_now<>ภายหลัง 
+quick_open_constellation_map<>แผนที่ฉบับย่อ
+overview_hero_20003<>ลึกเข้าไปในปล่องภูเขาไฟ มีชนเผ่าหนึ่งที่ดำรงชีวิตอย่างสงบสุขมานานหลายศตวรรษ พวกเขาอยู่ร่วมกับธรรมชาติอย่างกลมกลืน ใช้ประโยชน์จากธรรมชาติเป็นบ้านและแหล่งทำมาหากิน พวกเขาพัฒนาไปพร้อมกับธรรมชาติ แยกตัวออกจากมหาวิทยาลัยสมัยใหม่ อีทรี นักรบแห่งเผ่า เป็นชาวบ้านธรรมดาคนหนึ่ง เขามีทักษะและประสบการณ์การต่อสู้ของนักรบผู้เก่งกาจ แต่เขาปกปิดมันไว้ภายใต้คราบของชาวนา อีทรีเชื่อว่าความแข็งแกร่งเป็นแหล่งที่มาของความทะเยอทะยาน นำไปสู่สงคราม และเขาไม่ต้องการเข้าไปเกี่ยวข้องกับสงครามที่เจ็บปวด ซึ่งจะทำให้เผ่าของเขาต้องสูญเสียความสงบสุขไป
+event_hero_release_10<>นักรบลาวา
+event_hero_release_summon_10<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_10<>การผจญภัยภูเขาไฟ
+hero_release_collection_tittle_10<>การพิชิตเปลวไฟ
+hero_release_collection_desc_10<>สะสม Eitri แล้วรับรางวัลโบนัส
+event_hero_release_bundle_tittle_10<>แพ็คเกจที่รองรับ
+title_event_zodiac<>ความท้าทายจักรราศี
+event_zodiac<>กิจกรรมราศี
+event_zodiac_section_reward<>รางวัลส่วน
+rate_content_1<>เรียนท่านผู้เล่นทุกท่าน เราหวังว่าคุณจะสนุกกับเกม โปรดแจ้งให้เราทราบด้วย ความคิดเห็นของคุณจะเป็นแรงผลักดันให้เราพัฒนาผลิตภัณฑ์ให้ดียิ่งขึ้น
+complete_reward<>รางวัลการทำภารกิจกลุ่มดาวสำเร็จ
+star_reward_pool<>ระดับรางวัล
+tower_lock_level_require<>ถึงระดับ %s เพื่อปลดล็อกชั้นนี้
+tower_lock_out_of_ticket<>ตั๋วไม่เพียงพอสำหรับเข้าหอคอย
+star_reward_pool_condition<>ปลดล็อกเมื่อแลกเปลี่ยนสิ่งของที่มีระดับเดียวกัน
+collect_pearl_desc<>รวบรวมโบนัสไข่มุกจากการแลกเปลี่ยนรางวัล \nตอนนี้หุ้น:
+not_thing_to_claim<>ตอนนี้ไม่สามารถเรียกร้องอะไรได้แล้ว
+collect<>เก็บรวบรวม
+event_vip_treasure<>การยกระดับ VIP
+event_vip_treasure_content<>สะสมคะแนน VIP เพื่อรับรางวัลพิเศษเพิ่มเติม
+event_skin_challenge<>การทดสอบผิวหนัง
+title_event_skin_challenge<>การทดสอบผิวหนัง
+progress<>ความคืบหน้า
+confirm_select_skin<>คุณจะเลือกสกินนี้เป็นรางวัลสุดท้ายของคุณ คุณแน่ใจหรือว่าจะเลือกสกินนี้?
+not_available_day<>ทำภารกิจทั้งหมดของวันก่อนให้เสร็จ แล้วรอจนถึงวันพรุ่งนี้เพื่อปลดล็อก
+event_zodiac_map<>แผนที่ 
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>ซามูไรผู้ยิ่งใหญ่
+overview_hero_30027<>หลังจากเนโรปลดปล่อยปีศาจออกจากร่างมนุษย์ โลกก็ถูกปกคลุมไปด้วยความชั่วร้าย เสียงร่ำไห้และเสียงคร่ำครวญดังไปทั่วทุกหนแห่ง ความโกรธแค้น ความพยาบาท ความพินาศ การทำลายล้าง และความสิ้นหวัง คือคำที่ใช้อธิบายโลกในเวลานั้น\nในหมู่บ้านซามูไรโด มีเด็กชายคนหนึ่งชื่อคาเซ็ตสึ คาเซ็ตสึสูญเสียพ่อแม่ไปในสงครามระหว่างมนุษย์และปีศาจ การได้เห็นการเสียสละของคนที่เขารักด้วยตาตัวเอง ทำให้คาเซ็ตสึมีความเกลียดชังปีศาจอย่างรุนแรง และมุ่งมั่นที่จะแก้แค้น แต่พลังของมนุษย์มีจำกัด โลกก็เสื่อมโทรมลงภายใต้การปกครองที่โหดร้ายของปีศาจ คาเซ็ตสึจึงต้องทำสัญญากับปีศาจ ติดตามพวกมันไปเพื่อฝึกฝนพลัง เพื่อให้ได้รับความไว้วางใจจากปีศาจ คาเซ็ตสึถูกบังคับให้เลือกเส้นทางแห่งความชั่วร้าย ฆ่าอย่างบ้าคลั่งและควบคุมตัวเองไม่ได้\nโชคดีที่คาเซ็ตสึยังคงรักษาศักดิ์ศรีของซามูไรเอาไว้ และมุ่งมั่นที่จะแก้แค้นให้พ่อแม่ ดังนั้นในที่สุดเขาก็ได้ครอบครองพลังของปีศาจ คาเซ็ตสึผสานพลังนั้นเข้ากับจิตวิญญาณของซามูไร เขาสวมหน้ากากปีศาจ และทำลายล้างเหล่าปีศาจที่ปกครองหมู่บ้านของเขาด้วยตัวคนเดียว ช่วยเหลือชาวบ้านแล้ว คาเซ็ตสึจึงออกเดินทางเพื่อตามหาเนโร
+event_hero_release_11<>ซามูไรผู้ยิ่งใหญ่
+event_hero_release_summon_11<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_11<>เส้นทางการฝึกอบรม
+hero_release_collection_tittle_11<>แอลลี่ คองเกรเกชั่น
+hero_release_collection_desc_11<>สะสมคาเซ็ตสึและรับรางวัลพิเศษ
+event_hero_release_bundle_tittle_11<>แพ็คเกจที่รองรับ
+warning_delete_account<>บัญชีที่ถูกลบไปแล้วไม่สามารถกู้คืนได้ คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?
+event_skin_challenge_day_not_available<>เควสต์ต่างๆ จะเปิดให้เล่นในอีกไม่กี่วันข้างหน้า
+delete_account<>ลบบัญชีผู้ใช้
+delete_account_rule_1<>ข้อมูลในเกมทั้งหมดของคุณจะถูกลบอย่างถาวรและไม่สามารถกู้คืนได้เมื่อคุณเลือกที่จะลบบัญชีของคุณ คุณต้องการดำเนินการต่อหรือไม่?
+delete_account_warning_1<>เครือข่ายสังคมออนไลน์ทั้งหมดที่เชื่อมโยงกับบัญชีของคุณจะถูกลบออก
+delete_account_warning_2<>หลังจากลบแล้ว คุณจะไม่สามารถกู้คืนบัญชีได้ โปรดทราบ!
+delete_account_rule_2<>โปรดป้อน YES เพื่อยืนยันว่าคุณต้องการลบบัญชีของคุณ
+tap_here_to_type<>กรุณาป้อนข้อความที่นี่
+first_purchase_hero_desc_2<>เจ้าหญิงแห่งดวงจันทร์
+input_delete_failed<>คุณพิมพ์คำผิด โปรดพิมพ์ใหม่อีกครั้ง
+player_deactivated<>บัญชีนี้ถูกลบไปแล้ว
+event_skin_challenge_select_layout<>เลือกผิว
+please_select_1_skin<>โปรดเลือกสกิน 1 แบบเพื่อเริ่มการท้าทาย
+challenges<>การท้าทายการต่อสู้
+event_hero_release_12<>อัครทูตสวรรค์
+event_hero_release_summon_12<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_12<>คำแนะนำของเทวดา
+hero_release_collection_tittle_12<>พระคุณอันศักดิ์สิทธิ์
+hero_release_collection_desc_12<>สะสมเซเลสเทียและรับรางวัลโบนัส
+event_hero_release_bundle_tittle_12<>แพ็คเกจที่รองรับ
+flash_sale_new_1<>ซุปเปอร์ซัพพอร์ตแพ็ค 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>เรียนผู้เล่นทุกท่าน\nเพื่อให้มั่นใจในคุณภาพของเกมและประสบการณ์การใช้งานที่ปลอดภัยและมีประสิทธิภาพสูงสุด เราจึงตัดสินใจรวมเกมทั้งสองเวอร์ชันในตลาดเวียดนามและตลาดต่างประเทศเข้าด้วยกัน การรวมเวอร์ชันจะเกิดขึ้นในวันที่ 30 กันยายน 2565\n\nดังนั้น ทั้งเวอร์ชันต่างประเทศของ Summoners Era และ Summoners Era จะถูกปล่อยออกมาในเวอร์ชันเดียวคือ Summoners Era เพื่อให้สามารถเล่นต่อได้ ผู้เล่นจำเป็นต้องเชื่อมโยงบัญชีปัจจุบันของตนกับแพลตฟอร์มโซเชียลมีเดียและเข้าสู่ระบบในเวอร์ชันต่างประเทศของ Summoners Era ข้อมูลบัญชีและความคืบหน้าในเกมทั้งหมดของคุณจะถูกบันทึกและโหลดใหม่หลังจากกระบวนการเชื่อมโยงเสร็จสิ้น ดังนั้นโปรดเชื่อมโยงบัญชีของคุณโดยเร็วที่สุด!\n\nด้วยความเคารพ
+go_to_binding<>Liên kết
+flash_sale_new_2<>ซุปเปอร์ซัพพอร์ตแพ็ค 2
+flash_sale_new_3<>ซุปเปอร์ซัพพอร์ตแพ็ค 2
+flash_sale_new_4<>ซุปเปอร์ซัพพอร์ตแพ็ค 3
+flash_sale_new_5<>ซุปเปอร์ซัพพอร์ตแพ็ค 3
+flash_sale_new_6<>ซุปเปอร์ซัพพอร์ตแพ็ค 4
+flash_sale_new_7<>ซุปเปอร์ซัพพอร์ตแพ็ค 5
+event_mid_autumn<>กลางฤดูใบไม้ร่วง
+overview_hero_30008<>ในวันที่เนโรปลดปล่อยวิญญาณออกจากร่างมนุษย์ โลกก็ถูกปกคลุมไปด้วยซากปรักหักพังและก๊าซพิษ ผู้คนกระจัดกระจายไปทั่วโลก ธรรมชาติอบอวลไปด้วยกลิ่นเลือด วิญญาณของผู้ตายรวมตัวกันมากขึ้นเรื่อยๆ แม้กระทั่งสิงสถิตอยู่ในสิ่งไม่มีชีวิต โคซอร์ก เดิมทีเป็นควอตซ์แห่งห้วงเหว กลายเป็นอสูรกายเพราะวิญญาณแห่งความตาย อย่างไรก็ตาม ในบรรดาวิญญาณที่รวมตัวกันอยู่ในตัวโคซอร์ก ยังคงมีวิญญาณและจิตใจที่ดีอยู่ ทำให้เขาสามารถลุกขึ้นมาต่อสู้ได้ในยามสงบและครุ่นคิด ในช่วงเวลาเช่นนี้ โคซอร์กต้องการทำอะไรบางอย่างเพื่อช่วยมนุษยชาติ และเขาได้ติดต่อกับไอริว เจ้าหญิงมังกรผู้ซึ่งครั้งหนึ่งเคยหลับใหลอยู่ในห้วงเหวแห่งความตาย
+event_hero_release_13<>สปิริต สโตนแมน
+event_hero_release_summon_13<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_13<>ความท้าทายที่สำคัญ
+hero_release_collection_tittle_13<>การประกอบวิญญาณ
+hero_release_collection_desc_13<>สะสม Kozorg และรับรางวัลโบนัส
+event_hero_release_bundle_tittle_13<>แพ็คเกจที่รองรับ
+battle_pass_store<>ร้านค้า Battle Pass
+confirm_exchange<>คุณแน่ใจหรือว่าต้องการเปลี่ยนสินค้าชิ้นนี้?
+event_hero_boss_title_2<>การชำระล้างวิญญาณ
+event_hero_boss_des_2<>ท้าทายโคซอร์กผู้ชั่วร้ายเพื่อแสดงพลังของคุณและช่วยเขาเอาชนะเหล่าปีศาจ
+event_hero_boss_2<>บอสชาเลนจ์
+battle_pass_exchange<>พื้นที่แลกเปลี่ยน
+confirm_remove_food<>คุณแน่ใจแล้วหรือที่จะลบฮีโร่ตัวนี้ออกจากฟีเจอร์ต่อไปนี้เพื่อใช้เป็นอาหารอัปเกรด
+failed_quick_remove<>ฮีโร่ตัวนี้ไม่สามารถนำมาใช้เป็นอาหารได้ในขณะนี้ โปรดลบออกจากรายการด้วยตนเอง!
+price<>ราคา 
+popular<>ความหายาก
+recent<>วันที่วางจำหน่าย
+skin_shop<>ชุดบำรุงผิว
+there_is_no_current_sale<>ขออภัยค่ะ แพ็กเกจสินค้าลดราคาไม่พร้อมให้บริการในขณะนี้ สินค้าไม่อยู่ที่ร้าน แต่จะกลับมาเร็วๆ นี้ค่ะ
+confirm_remove_hero<>คุณแน่ใจแล้วหรือที่จะลบฮีโร่คนนี้ออกจากฟีเจอร์ต่อไปนี้
+failed_remove_hero<>ไม่สามารถลบฮีโร่ตัวนี้ออกได้อย่างรวดเร็ว โปรดลบออกด้วยตนเองจากฟีเจอร์นี้
+hero_lock_in_feature<>ฮีโร่ถูกล็อกไว้ในฟีเจอร์
+black_friday_bundle<>ลดราคาครั้งใหญ่ในวันแบล็กฟรายเดย์
+social<>เครือข่ายสังคม
+friends<>เพื่อน 
+guide_book<>คู่มือหนังสือ
+customer_service<>ฝ่ายบริการลูกค้า
+overview_hero_60003<>Zalidus ฆ่าแม่ของเขาเองตั้งแต่เกิด ส่งสัญญาณว่าทั้งชีวิตของเขาจะต้องจับคู่กับการฆ่าและการเข่นฆ่า\nZalidus เติบโตขึ้นมาท่ามกลาง Dark Pit ที่ซึ่งการเอาชีวิตรอดหมายถึงการฆ่าผู้อื่น Zalidus เป็นหนึ่งในกลุ่มที่ดีที่สุด เขาเริ่มจากทำทุกอย่างเพื่อเอาตัวรอด ในที่สุดก็ฆ่าใครก็ตามเพื่อเงิน ทำงานสกปรกและน่าขยะแขยงในฐานะนักฆ่า\nหากคุณเคยเดินไปใกล้ หลุมดำ และทันใดนั้นกากบาท X สว่างขึ้นในความมืด คุณรู้ว่า Zalidus กำลังส่งคุณไปยัง ชีวิตหลังความตาย
+overview_hero_60006<>ครั้งหนึ่งมีนักบวชผู้งดงามแห่ง Library of Light ชื่อ Hehta ซึ่งชื่อเสียงไม่เพียงแต่เกี่ยวกับความงามของเธอเท่านั้น แต่ยังรวมถึงความรู้อันยิ่งใหญ่ของเธอเกี่ยวกับเวทมนตร์ด้วย\nความหิวกระหายความรู้ของนักบวชนำเธอไปไกลขึ้นเรื่อยๆ สู่ดินแดนแห่งเวทมนตร์แห่งความมืด ยิ่งเธอได้รับคาถาโบราณมากเท่าไร ก็ยิ่งมีความวิตกกังวลมากขึ้นในหมู่เพื่อนนักปราชญ์ของเธอ จนกระทั่งวันหนึ่ง Hehta ถูกทดลองโดยสภาเวทมนตร์เพื่อค้นคว้าเกี่ยวกับเวทมนตร์ต้องห้าม น่าแปลกที่เธอไม่ได้อธิบายอะไรเลย เพียงแค่พยักหน้ารับทุกข้อกล่าวหาของเธอ Hehta รู้ว่าดินแดนแห่งนี้ไม่สามารถสนองความกระหายของเธอได้อีกต่อไป\nในวันที่เธอถูกตัดสินประหารชีวิต ไม่พบ Hehta ที่ไหน เหมือนกับว่าเธอเพิ่งหายตัวไปในอากาศ ไม่นานหลังจากนั้น ผู้คนลือกันว่าได้เห็นความงามที่ไม่คุ้นเคยโดยมีหูเอลฟ์เดินเตร่ไปทั่วปราสาททมิฬ...
+event_hero_release_14<>ดาบเงา
+event_hero_release_summon_14<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_14<>ความท้าทายของยมทูต
+hero_release_collection_tittle_14<>การรวมกลุ่มชั่วร้าย
+hero_release_collection_desc_14<>สะสม Zalidus และรับรางวัลโบนัส
+event_hero_release_bundle_tittle_14<>แพ็คเกจที่รองรับ
+event_hero_release_15<>นักดาบผู้มีเสน่ห์
+event_hero_release_summon_15<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_15<>การฝึกความอดทน
+hero_release_collection_tittle_15<>ของขวัญที่สร้างกำลังใจ
+hero_release_collection_desc_15<>สะสม Hehta แล้วรับรางวัลโบนัส
+event_hero_release_bundle_tittle_15<>แพ็คเกจที่รองรับ
+version_recent<>เวอร์ชันล่าสุด
+version_next<>เวอร์ชันถัดไป
+maintenance<>ประกาศการบำรุงรักษา
+event_skin_challenge_detail<>สะสมไอเทมกิจกรรมเพื่อแลกเปลี่ยนสกินที่คุณต้องการ
+already_exchange<>แลกเปลี่ยน
+go_event<>ดูรายละเอียด
+customer_service_content<>หากคุณประสบปัญหาใดๆ ในระหว่างการเล่นเกม โปรดอย่าลังเลที่จะติดต่อฝ่ายบริการลูกค้าของเรา พนักงานที่เอาใจใส่ของเราพร้อมให้ความช่วยเหลือคุณเสมอ
+included_free<>รวมรางวัลฟรี
+understand<>เข้าใจแล้ว
+event_airyuu<>แก่นแท้แห่งธรรมชาติ
+title_event_airyuu<>แก่นแท้แห่งธรรมชาติ
+airyuu_check_in<>แก่นแท้แห่งธรรมชาติ
+airyuu_checkin_title<>คำทักทายแบบเดเฟรนเชียล
+time_next_day<>วันถัดไปใน
+airyuu_treasure<>สมบัติมังกร
+airyuu_treasure_infor<>Usa ลูกแก้วน้ำ para abrir cofres y obtener recompensas sorprendentes.
+airyuu_quest<>การผจญภัยในดินแดนมังกร
+airyuu_quest_title<>การผจญภัยในดินแดนมังกร
+wait_check_in<>โปรดกลับมาอีกครั้งในวันพรุ่งนี้
+airyuu_bundle<>การเรียกมังกร
+airyuu_bundle_infor<>แอร์ริวจะมีความสุขมากเมื่อคุณซื้อแพ็คเกจเหล่านี้ให้เธอ
+airyuu_trial<>บันทึกประจำวันของป่าศักดิ์สิทธิ์
+airyuu_trial_infor<>ท้าทายเหล่าผู้รับใช้ของแอร์ริวเพื่อรับรางวัล
+airyuu_collection<>พรแห่งมังกร
+airyuu_evolution_title<>พรแห่งมังกร
+check_in<>คุณได้เช็คอินในวันนี้แล้ว
+recheckin<>ตรวจสอบซ้ำอีกครั้ง
+confirm_use_all<>คุณจะต้องใช้สิ่งของเหล่านี้ใช่ไหม
+open_x1<>เปิด 1
+open_all<>เปิดทั้งหมด
+airyuu_evolution_quest_title<>พรแห่งมังกร
+history<>ประวัติศาสตร์ 
+chance<>พยายาม 
+select_difficult<>เลือกความยาก
+difficult<>ความยากลำบาก
+patch<>แพทช์
+event_new_hero_rateup_summon_2<>อัญเชิญในตำนาน
+created_time<>เวลาที่เข้าร่วม
+enable_animation<>เปิดใช้งานแอนิเมชัน
+transform<>แบบฟอร์มสวิตช์
+confirm_use_resource<>คุณต้องการใช้รางวัลเหล่านี้หรือไม่
+event_new_year_bundle<>แพ็คเกจปีใหม่
+new_year_purchase_1<>แพ็คการ์ดขนาดเล็ก
+new_year_purchase_2<>แพ็คการ์ดขนาดกลาง
+new_year_purchase_3<>แพ็คการ์ดขนาดใหญ่
+event_lunar_2022_spring_bundle_<>ความสุขความเจริญ
+show_more_information<>รายละเอียดโบนัสฝ่าย
+event_community<>เหตุการณ์ชุมชน
+event_tower_of_eitri<>หอคอยแห่งอีทรี
+tower_of_eitri_tower<>หอคอยมังกร
+tower_of_eitri_tower_infor<>หอคอยมังกร
+tower_of_eitri_exchange<>พื้นที่แลกเปลี่ยน
+tower_of_eitri_exchange_infor<>พื้นที่แลกเปลี่ยน
+tower_of_eitri_bundle<>ชุดสร้างหอคอย
+tower_of_eitri_bundle_infor<>ชุดสร้างหอคอย
+tower_of_eitri_quest<>เควสต์ของอีทรี
+tower_of_eitri_quest_title<>เควสต์ของอีทรี
+tower_of_eitri_quest_infor<>เควสต์ของอีทรี
+current_floor<>ชั้นปัจจุบัน
+build<>สร้าง
+skip_animation<>ข้ามแอนิเมชัน
+normal_floor_reward<>รางวัลพื้นปกติ
+golden_floor_reward_bonus<>รางวัลชั้นทองคำ
+confirm_use<>คุณต้องการใช้หรือไม่
+hammer_in_pool<>รับค้อนของอีทรีหลังจากแลกรางวัล ยิ่งชั้นสูงขึ้น ก็ยิ่งได้รับรางวัลมากขึ้น ตอนนี้พร้อมให้บริการแล้ว:
+reach_limited_exchange<>จำนวนการแลกเปลี่ยนถึงขีดจำกัดแล้ว!
+reward_milestone<>จำนวนชั้นทั้งหมด
+claim_and_close<>รับรางวัล
+event_hero_release_16<>นรกนิรันดร์
+event_hero_release_summon_16<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_16<>ความท้าทายของไฟ
+hero_release_collection_tittle_16<>เปลวไฟเอเรียน
+hero_release_collection_desc_16<>สะสม Arien และรับรางวัลพิเศษ!
+event_hero_release_bundle_tittle_16<>แพ็คเกจที่รองรับ
+overview_hero_20002<>อาริเอนเป็นวีรสตรีแห่งไฟ ผู้เป็นที่รู้จักในฐานะหนึ่งในนักรบที่เก่งกาจที่สุดในอาณาจักรทางใต้ เป็นที่หวาดกลัวของศัตรูและเป็นที่เคารพนับถือของพันธมิตร แต่ถึงแม้จะมีชื่อเสียงที่ดุร้าย อาริเอนก็ไม่ได้ปราศจากความเมตตา เธอเดินทางไปยังหมู่บ้านใกล้เคียงบ่อยครั้ง ช่วยเหลือผู้คนด้วยเวทมนตร์ไฟของเธอ\n\nวันหนึ่ง ขณะที่ปฏิบัติภารกิจปกป้องหมู่บ้านจากพายุทรายที่รุนแรง อาริเอนได้พบกับอิคารัส นักรบฟีนิกซ์ไฟ พวกเขาต่อสู้เคียงข้างกัน เปลวไฟของพวกเขารวมเข้าด้วยกันอย่างงดงาม แสดงให้เห็นถึงพลังอันยิ่งใหญ่ พวกเขาตระหนักได้อย่างรวดเร็วว่าพวกเขามีสายสัมพันธ์พิเศษ ความรักที่ลุกโชนสว่างไสวราวกับเปลวไฟที่พวกเขาควบคุม\n\nนับจากวันนั้นเป็นต้นมา อาริเอนและอิคารัสก็แยกจากกันไม่ได้ เดินทางไปด้วยกันทั่วอาณาจักรและต่อสู้เพื่อส่วนรวม บุคลิกของอาริเอนถูกหล่อหลอมด้วยความรักที่มีต่อผู้คนของเธอ ความเชี่ยวชาญในเวทมนตร์ไฟ และสายสัมพันธ์ที่ไม่อาจแตกหักกับอิคารัส นักรบฟีนิกซ์ไฟ
+event_hero_release_17<>ผู้พิทักษ์มหาสมุทร
+event_hero_release_summon_17<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_17<>ความท้าทายของกระแสน้ำ
+hero_release_collection_tittle_17<>สมบัติออสเซ่
+hero_release_collection_desc_17<>สะสม Osse แล้วรับรางวัลพิเศษ!
+event_hero_release_bundle_tittle_17<>แพ็คเกจสนับสนุน
+overview_hero_10007<>ออสเซ่คือผู้พิทักษ์แห่งท้องทะเลในตำนาน ผู้เป็นที่เคารพนับถือของสิ่งมีชีวิตใต้ท้องทะเลทั้งปวง เขาเป็นมนุษย์ที่มีท่อนล่างเป็นงู เกิดจากก้นมหาสมุทร ออสเซ่ได้รับมอบหมายให้ปกป้องท้องทะเลจากผู้ที่พยายามจะแสวงหาประโยชน์จากทรัพยากรหรือทำร้ายสิ่งมีชีวิตในทะเล เขาเป็นนักรบที่ดุร้ายและทรงพลัง สามารถเรียกพลังแห่งท้องทะเลมาช่วยในการต่อสู้ได้\n\nในบรรดาเผ่าพันธุ์ต่างๆ ออสเซ่เป็นที่จดจำในเรื่องชื่อเสียงที่น่าเกรงขามของเขา แต่สิ่งมีชีวิตใดๆ ที่อาศัยอยู่ในมหาสมุทรต่างรู้ว่าออสเซ่มีความรักและความเคารพอย่างลึกซึ้งต่อพวกมัน ผู้พิทักษ์แห่งท้องทะเลจะไม่หยุดยั้งที่จะปกป้องมันจากอันตราย ดังนั้น ออสเซ่จึงมีหลักการของตนเองที่จะไม่ปล่อยให้ใครหรืออะไรก็ตามที่คุกคามความสงบสุขของอาณาจักรแห่งท้องทะเลรอดพ้นไปได้ โดยเฉพาะโจรสลัด
+event_hero_release_18<>หัวใจแห่งมหาสมุทร
+event_hero_release_summon_18<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_18<>การเดินทางล้างแค้น
+hero_release_collection_tittle_18<>โอเชียนฟิวรี่
+hero_release_collection_desc_18<>สะสมหมอกและรับรางวัลพิเศษ
+event_hero_release_bundle_tittle_18<>แพ็คเกจสนับสนุน
+overview_hero_10005<>ตำนานเล่าว่าลึกลงไปในมหาสมุทรมีอัญมณีล้ำค่าที่เรียกว่า “หัวใจแห่งมหาสมุทร” ซึ่งมีพลังมหาศาล ตำนานนี้แพร่กระจายไปไกล จนกระทั่งโจรสลัดจำนวนมากขึ้นเรื่อยๆ ออกเดินทางไปตามหาสมบัติชิ้นนี้อย่างไร้จุดหมาย\n\nมิสต์เกิดในครอบครัวโจรสลัด เติบโตมาบนท้องทะเลตั้งแต่ยังเล็ก พ่อแม่และพี่น้องของเธอเป็นลูกเรือที่รักกันมาก และความฝันของพวกเขาคือการครอบครอง “หัวใจแห่งมหาสมุทร” อันมหัศจรรย์นี้ แต่การไล่ล่าตำนานลึกลับก็มีราคาที่ต้องจ่าย โศกนาฏกรรมเกิดขึ้นเมื่อมิสต์ยังเด็ก ครอบครัวของเธอถูกโจมตีโดยสัตว์ประหลาดครึ่งมนุษย์ครึ่งงูขณะออกตามหาสมบัติ โชคร้ายที่มิสต์เป็นผู้รอดชีวิตเพียงคนเดียว ด้วยความทุกข์ทรมาน มิสต์จึงออกเดินทางเพื่อแก้แค้น มุ่งมั่นที่จะค้นหาหัวใจแห่งมหาสมุทรและใช้พลังของมันต่อต้านสัตว์ประหลาดที่พรากความสุขของเธอไป
+event_boost_first_purchase<>อัปเกรด
+boost_first_purchase_title_1<>อัปเกรด 1
+boost_first_purchase_title_2<>อัปเกรด 2
+boost_first_purchase_title_3<>อัปเกรด 3
+boost_first_purchase_title_4<>อัปเกรด 4
+boost_first_purchase_title_5<>อัปเกรด 5
+boost_first_purchase_title_6<>อัปเกรด 6
+boost_first_purchase_title_7<>อัปเกรด 7
+boost_first_purchase_title_8<>อัปเกรด 8
+boost_first_purchase_title_9<>อัปเกรด 9
+boost_first_purchase_title_10<>อัปเกรด 10
+boost_first_purchase_title_detail_1<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_2<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_3<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_4<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_5<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_6<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_7<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_8<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_9<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+boost_first_purchase_title_detail_10<>เสริมความแข็งแกร่งให้กับทีมของคุณตอนนี้เลย
+event_seasonal<>เทศกาลฤดูร้อน
+seasonal_check_in<>การเช็คอินช่วงฤดูร้อน
+seasonal_bundle<>ชุดของขวัญฤดูร้อน
+seasonal_daily_checkin<>การเช็คอินช่วงฤดูร้อน
+seasonal_firework_shop<>ชุดของขวัญฤดูร้อน
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>กิจกรรมใหม่กำลังจะมาเร็ว ๆ นี้
+more_detail<>รายละเอียด
+event_server_open_checkin<>การเช็คอินสำหรับสมาชิกใหม่
+seasonal_firework_exchange<>พื้นที่แลกเปลี่ยน
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 7
+seasonal_exchange<>พื้นที่แลกเปลี่ยน
+seasonal_firework_creator<>บาร์ชิลล์ลิ่ง
+seasonal_super_gift<>แบบทดสอบฤดูร้อน
+seasonal_royal_challenge<>ความท้าทายทางทะเล
+not_day_checkin<>รอถึงวันถัดไปจึงจะมีสิทธิ์เรียกร้องได้
+seasonal_summer_game_main_quest<>ทำภารกิจทั้งหมดให้สำเร็จเพื่อรับสกินสุดพิเศษ
+complete_%s_more_to_reward<>ทำภารกิจทั้งหมดให้สำเร็จเพื่อรับสกินสุดพิเศษ
+select_ball_to_exchange<>เลือกลูกบอลน้ำ
+select_ball_exchange_to<>เลือกลูกบอลน้ำ
+reselect_exchange_item<>คุณยังไม่ได้เลือกลูกบอลน้ำ
+you_have_no_this_resource<>คุณไม่มีสินค้าชิ้นนี้
+cant_not_exchange_same_item<>ไม่สามารถเลือกรายการเดิมซ้ำได้
+throw_single<>โยนครั้งที่ 1
+throw_all<>ทิ้งทั้งหมด
+throw_%s_time_execute_target<>โยน %s ครั้งเพื่อโจมตีเป้าหมายและรับรางวัล
+exchange_ball<>แลกเปลี่ยนลูกบอล
+seasonal_throw_ball<>แบบทดสอบฤดูร้อน
+can_not_reselect_hero<>คุณแน่ใจแล้วหรือว่าจะเลือกฮีโร่ตัวนี้?\nคุณไม่สามารถเปลี่ยนตัวเลือกได้อีกเมื่อเข้าร่วมเกมแล้ว
+make<>ทำ
+make_single_mojito<>ทำโมจิโต้ 1 แก้ว
+quick_make<>ทำเร็ว
+seasonal_summer_game_title_detail<>เปิดกล่องของขวัญฤดูร้อนเพื่อรับลูกบอลน้ำและร่วมสนุกกับแบบทดสอบ
+tap_for_more_information<>แตะที่แบนเนอร์เพื่อดูรายละเอียดเพิ่มเติม
+event_hero_release_summon_19<>คำทักทายอย่างนอบน้อม
+event_hero_release_19<>การผจญภัยในดินแดนมังกร
+overview_hero_40027<>เมื่อเผ่ามังกรถูกมนุษย์ไล่ล่า เจ้าหญิงแห่งเผ่ามังกร แอร์ริว ยังทรงพระเยาว์มาก แอร์ริวได้รับการคุ้มครองโดยฟินเดและเหล่าผู้ติดตามของเขาไปยังที่ปลอดภัย ซึ่งมีเพียงแอร์ริวอยู่ตามลำพัง หลายร้อยปีผ่านไป เจ้าหญิงน้อยแอร์ริวเติบโตเป็นหญิงสาวที่งดงาม เธอเดินทางไปมาระหว่างโลกมนุษย์ เรียนรู้ความรู้ และค้นหาต้นกำเนิดของตนเอง ด้วยความซื่อสัตย์ บริสุทธิ์ และไร้เดียงสา แอร์ริวจึงเป็นที่รักของทุกคนเสมอ เธอคิดว่าตัวเองเหมือนกับคนอื่นๆ รู้จักทั้งความสุขและความเศร้า เธอจะตอบสนองอย่างไรเมื่อได้รู้ถึงโศกนาฏกรรมของบรรพบุรุษของเธอ?
+hero_release_daily_quest_tittle_19<>บันทึกป่าศักดิ์สิทธิ์
+hero_release_collection_tittle_19<>พรแห่งมังกร
+hero_release_collection_desc_19<>สะสม Airyuu เพื่อรับรางวัลพิเศษ
+event_hero_release_bundle_tittle_19<>การเรียกมังกร
+first_purchase_hero_desc_20001<>ฟีนิกซ์เกิดใหม่
+first_purchase_hero_desc_40027<>เจ้าหญิงมังกร
+buy_point<>สะสมคะแนน
+birthday_buy_level<>รับคะแนน Legacy Pass
+birthday_level_bundle_1<>สร้างรายได้จากโฆษณา
+birthday_level_bundle_2<>สะสมคะแนน
+birthday_level_bundle_3<>สะสมคะแนน
+go_to_event<>เข้าร่วมกิจกรรม
+flash_sale_evolve_title<>แฟลชเซลล์ฮีโร่
+popup_not_appear_anymore<>คุณแน่ใจหรือไม่ว่าได้ปิดหน้าต่างป๊อปอัพแล้ว? คุณจะไม่สามารถเปิดแพ็กเกจนี้ขึ้นมาใหม่ได้หลังจากปิดไปแล้ว
+auto_next_battle_in<>ชั้นถัดไปเริ่มต้นที่
+event_hero_release_20<>พ่อมดศักดิ์สิทธิ์
+event_hero_release_summon_20<>อัญเชิญในตำนาน
+hero_release_daily_quest_tittle_20<>การฝึกฝนเวทมนตร์
+hero_release_collection_tittle_20<>รวบรวมเวทมนตร์
+hero_release_collection_desc_20<>สะสม Ignatius เพื่อรับรางวัลพิเศษ
+event_hero_release_bundle_tittle_20<>ฮัลโลว์ไลท์
+overview_hero_50011<>ในดินแดนแห่งโลกโบราณและลึกลับ ที่ซึ่งการต่อสู้ชั่วนิรันดร์ระหว่างแสงสว่างและความมืดมิดดำเนินไป สิ่งมีชีวิตที่ไม่เหมือนใครและทรงพลังดุจเทพเจ้าองค์หนึ่งได้โบยบินอยู่บนสรวงสวรรค์ นามว่า อิกเนเชียส รูปลักษณ์ของเขาคือนกที่สง่างาม ประดับประดาด้วยขนที่เปล่งประกายระยิบระยับราวกับแสงอาทิตย์ หลังจากได้รับการชักชวนจากเซเลสเทีย อัครเทวดา อิกเนเชียสได้รวมพลังพันธมิตรผู้ทรงพลังจากฝ่ายแสงสว่างเพื่อต่อต้านกองทัพของสกาธัตช์อย่างดุเดือด จากนั้นเขาก็ยืนหยัดเป็นแสงแห่งความหวัง ผู้พิทักษ์ฝ่ายแสงสว่างในการต่อสู้กับกองกำลังชั่วร้ายแห่งฝ่ายความมืดมิด
+not_have_hero_meet_requirement<>ไม่มีวีรบุรุษคนใดตรงตามข้อกำหนดของภารกิจนี้
+auto_rematch_in<>ประลองยุทธการอีกครั้งใน
+tower_progress<>ความคืบหน้าของหอคอย
+event_boss_challenge<>บอสชาเลนจ์
+event_boss_challenge_challenge_tower<>หอคอยแห่งความท้าทาย
+event_boss_challenge_boss_quest<>บอสเควสต์
+event_boss_challenge_shop<>บอสแพ็ค
+event_boss_challenge_quest_title<>ความท้าทายของโคซอร์ก
+event_boss_challenge_desc<>ทำภารกิจประจำวันให้สำเร็จเพื่อรับเหรียญรางวัลพิเศษ
+boss_challenge_shop_title_1<>ชุดประจำวัน
+boss_challenge_shop_title_2<>ชุดเอกสารกิจกรรม
+event_mid_autumn_quest_name<>ภารกิจประจำวัน
+event_mid_autumn_quest_title<>ภารกิจประจำวัน
+event_mid_autumn_quest_content<>ทำภารกิจให้สำเร็จเพื่อรับขนมไหว้พระจันทร์
+event_festival_market_name<>ตลาดเทศกาลไหว้พระจันทร์
+event_mid_autumn_market_title<>ตลาดเทศกาลไหว้พระจันทร์
+event_mid_autumn_market_des<>ซื้อแพ็กเกจเพื่อรับไอเทมกิจกรรม
+event_mid_autumn_special_offer_title<>เทศกาลไหว้พระจันทร์
+event_mid_autumn_text_quest_bet<>เดิมพัน {1} โคมไฟ ในเวทีกลางฤดูใบไม้ร่วง
+event_mid_autumn_arena_title<>สนามไหว้พระจันทร์
+event_mid_autumn_arena_name<>สนามไหว้พระจันทร์
+event_mid_autumn_arena_content<>เดิมพัน Lantern กับทีมที่แข็งแกร่งกว่าเพื่อเพิ่มโอกาสในการได้รับ Lighted Lantern หลายดวง\nคุณไม่สามารถเดิมพันได้ในช่วง 30 นาทีสุดท้ายของวันแข่งขัน
+event_mid_autumn_arena_item_text_attacker_team<>ผู้โจมตี
+event_mid_autumn_arena_item_text_defender_team<>ผู้พิทักษ์
+event_mid_autumn_arena_item_text_total_bet<>ยอดเดิมพันทั้งหมด
+event_mid_autumn_arena_item_text_battle_end<>การสู้รบสิ้นสุดลงแล้ว
+event_mid_autumn_arena_item_text_battle_time<>สิ้นสุดที่: %s
+event_mid_autumn_arena_item_text_day<>วัน
+event_mid_autumn_arena_item_text_bet<>เดิมพัน
+area_bet_title<>เดิมพัน
+area_bet<>เดิมพัน
+event_mid_autumn_arena_item_text_coming_soon<>เร็วๆ นี้
+bet_time_out<>เวลาเดิมพันสิ้นสุดลงแล้ว
+popup_exchange_tower_of_eitri_title_text<>ป๊อปอัพยืนยัน
+popup_exchange_tower_of_eitri_ask_text<>คุณแน่ใจหรือว่าจะใช้สิ่งของเหล่านี้ในการแลกเปลี่ยน?
+event_halloween_quest_title<>ภารกิจฮาโลวีน
+event_halloween_quest_desc<>ทำภารกิจประจำวันให้สำเร็จเพื่อรับสกุลเงินกิจกรรมฮาโลวีน
+event_halloween_shop_title<>ร้านขายของฮาโลวีน
+event_halloween_shop_des<>ซื้อแพ็คเกจเพื่อรับลูกเต๋าและหนังปั๊ม
+halloween_quest<>ภารกิจฮาโลวีน
+halloween_shop<>ร้านขายของฮาโลวีน
+want_to_roll_dice<>คุณแน่ใจหรือว่าต้องการทอยลูกเต๋าทั้งหมด?
+roll_all<>หมุนทั้งหมด
+event_halloween_quest_tavern_all_star<>ทำเควสต์ {1} ให้สำเร็จ ไม่ว่าจะเป็นดาวดวงไหนก็ได้ในโรงเตี๊ยม
+piece_adventure_floor<>ชั้นปัจจุบัน
+event_piece_adventure_quest_title<>เควสต์กิจกรรม
+event_piece_adventure_desc<>ทำภารกิจให้สำเร็จเพื่อรับกุญแจผจญภัย
+piece_adventure_card<>กิจกรรมผจญภัย
+event_piece_adventure_exchange_name<>การแลกเปลี่ยนกิจกรรม
+event_piece_adventure_exchange_desc<>ใช้ชิ้นส่วนสิ่งประดิษฐ์เพื่อแลกของขวัญ
+event_piece_adventure_shop_name<>ร้านจำหน่ายสินค้าสำหรับงานอีเวนต์
+event_piece_adventure_shop_desc<>ซื้อแพ็กเกจเพื่อรับกุญแจผจญภัยและชิ้นส่วนอาร์ติแฟกต์
+cannot_unlock_floor<>คุณต้องหาสิ่งของอย่างน้อย 1 ชิ้นเพื่อไปยังชั้นถัดไป
+want_to_unlock_floor<>คุณแน่ใจหรือว่าต้องการไปยังด่านต่อไปโดยที่ยังเก็บไอเท็มไม่ครบทุกชิ้น?
+piece_adventure_quest<>เควสต์กิจกรรม
+piece_adventure_exchange<>การแลกเปลี่ยนกิจกรรม
+piece_adventure_store<>ร้านจำหน่ายสินค้าสำหรับงานอีเวนต์
+floor_reward_list<>รายการชั้น
+event_piece_adventure<>ผจญภัยชิ้นส่วน
+piece_adventure_shop_title_1<>ข้อเสนอประจำวัน
+piece_adventure_shop_title_2<>ร้านจำหน่ายสินค้าสำหรับงานอีเวนต์
+next_floor<>ชั้นถัดไป
+want_to_open_all<>ระบบจะเปิดหีบสมบัติโดยอัตโนมัติจนกว่าจะพบไอเทมโบนัสหรือกุญแจหมด คุณแน่ใจหรือไม่ว่าต้องการทำเช่นนี้?
+open_all_card<>เปิดอัตโนมัติ
+claimed_all_card<>คุณเปิดหีบสมบัติทั้งหมดในชั้นนี้ไปแล้ว
+not_click_start<>คุณต้องคลิก เริ่ม เพื่อเล่น
+open_card_tut_text<>เลือกหีบสมบัติเพื่อค้นหาสมบัติ
+max_floor<>คุณมาถึงชั้นสุดท้ายของงานแล้ว พบกันใหม่ในงานครั้งต่อไป
+title_black_friday_sale_select_item<>โปรโมชั่นสุดคุ้ม แบล็กฟรายเดย์!!!
+select_5_reward<>เลือกสินค้า 5 รายการที่คุณต้องการซื้อ
+your_choice_text<>รายการที่เลือก
+get_bonus<>ยืนยัน
+need_select_5_reward<>คุณต้องเลือก 5 รายการ
+want_to_get_bonus<>ยืนยันรายการที่เลือก
+have_max_items<>คุณสามารถเลือกได้เพียง 5 รายการเท่านั้น
+black_friday_sale_1<>มัดรวมทั่วไป
+black_friday_sale_2<>ชุดสุดคุ้ม
+black_friday_sale_3<>อัลตร้าบันเดิล
+event_black_friday_new_version<>ชุดสุดคุ้มวันแบล็กฟรายเดย์
+title_black_friday_sale_super_deal<>โปรโมชั่นสุดคุ้ม แบล็กฟรายเดย์!!!
+drop_time_thanks_giving<>13 วันนับตั้งแต่เริ่มงาน
+thanks_giving_shop<>ร้านค้าวันขอบคุณพระเจ้า
+thanks_giving_dice_title<>เกมเก็บเกี่ยว
+event_golden_time_thanks_giving_name<>กิจกรรมช่วงเก็บเกี่ยว
+thanks_giving_quest<>ภารกิจวันขอบคุณพระเจ้า
+event_thanks_giving_exchange_name<>แลกเปลี่ยนฟักทอง
+event_thanks_giving_specialoffer<>ข้อเสนอพิเศษวันขอบคุณพระเจ้า
+golden_time_thanks_giving_drop_info<>∙ 10 ฟักทอง: {0} (s)
+event_golden_time_thanks_giving<>กิจกรรมช่วงเก็บเกี่ยว
+event_golden_time_thanks_giving_desc<>สะสมลูกเต๋าและฟักทองเพื่อแลกรับรางวัล ไอเทมวันขอบคุณพระเจ้าจะหายไปหลังจากกิจกรรมสิ้นสุดลง\n12 ชั่วโมงก่อนที่กิจกรรมจะสิ้นสุด ฟักทองจะหยุดดรอปในกล่องสมบัติที่ไม่ได้ใช้งาน
+thanks_giving_dice_guide<>สะสมและทอยลูกเต๋า - รับรางวัลสุดเจ๋ง!\nค้นหาเพิ่มเติมได้ในภารกิจวันขอบคุณพระเจ้า
+event_thanks_giving_quest_desc<>ทำภารกิจวันขอบคุณพระเจ้าให้สำเร็จเพื่อรับลูกเต๋าเพิ่ม
+event_thanks_giving_exchange_desc<>สะสมฟักทองและแลกรับรางวัลไม่จำกัดด้านล่าง
+event_thanks_giving_shop_des<>ซื้อแพ็คเกจเพื่อรับลูกเต๋าและหนังปั๊ม
+thanks_giving_purchase_1<>ชุดพักจิบชา
+thanks_giving_purchase_2<>ชุดอาหารค่ำ
+thanks_giving_purchase_3<>ชุดบันเควสต์
+event_thanks_giving<>วันขอบคุณพระเจ้า
+event_thanks_giving_shop_title<>ร้านค้าวันขอบคุณพระเจ้า
+event_thanks_giving_quest_title<>ภารกิจวันขอบคุณพระเจ้า
+source_money_type_102<>- เกมเก็บเกี่ยว\n- ข้อเสนอวันขอบคุณพระเจ้า\n- ร้านค้าวันขอบคุณพระเจ้า
+lock_level<>ล็อก
+raid_key_75<>ซื้อ Golden Key เพิ่ม
+raid_key_76<>ซื้อกุญแจแก้วเพิ่ม
+raid_key_77<>ซื้อ Fragment Key เพิ่มเติม
+limited<>จำกัด
+back_current<>กลับสู่ปัจจุบัน
+max_ads_turn_daily<>คุณใช้โฆษณาทั้งหมดในวันนี้หมดแล้ว
+recycle<>รีไซเคิล
+acquired_items<>สิ่งของที่ได้รับมา
+auto_select<>เลือกอัตโนมัติ
+nothing_to_recycle<>คุณต้องเลือกฮีโร่อย่างน้อย 1 ตัวเพื่อนำไปรีไซเคิล
+have_max_items_recycle<>ช่องรีไซเคิลเต็มแล้ว
+all_hero_recycle_selected<>ฮีโร่ทั้งหมดได้รับการคัดเลือกแล้ว
+recycle_four_star_hero<>คุณแน่ใจแล้วหรือว่าจะนำสินค้าไปรีไซเคิล?
+select_orb_title<>เลือกออร์บ
+can_not_select<>ช่องสำหรับใส่ลูกแก้วเต็มแล้ว
+not_have_enought_food<>คุณไม่มีลูกแก้วให้เลือก
+max_total_exp<>คุณเติมลูกแก้วได้เพียงพอแล้ว
+event_christmas_feed_name<>คำอวยพรวันคริสต์มาส
+event_christmas_feed_desc<>ใช้ไม้เท้าลูกอมเพื่ออวยพรให้อิกเนเชียสและรับของขวัญ
+blessing<>พร
+blessing_all<>ขอพระเจ้าอวยพรทุกท่าน
+event_christmas_arena_title<>คริสต์มาส อารีน่า
+event_christmas_arena_content<>ใช้เทียนเพื่อเดิมพันและรับเทียนที่จุดแล้วเพิ่มขึ้น
+event_christmas_quest_title<>ภารกิจคริสต์มาส
+event_christmas_quest_content<>ทำภารกิจให้สำเร็จเพื่อรับลูกอมไม้เท้า
+event_christmas_blessing_quest<>คำอวยพร {1} ลูกอมไม้เท้าสำหรับอิกเนเชียส
+event_christmas_text_quest_bet<>เดิมพันเทียน {1} เล่มในเวทีคริสต์มาส
+event_christmas_exchange_name<>การแลกเปลี่ยนของขวัญคริสต์มาส
+event_christmas_exchange_desc<>ใช้เทียนที่จุดไฟแล้วในการแลกเปลี่ยนสิ่งของ
+event_christmas_market_title<>ร้านขายของคริสต์มาส
+event_christmas_market_des<>ซื้อลูกอมรูปไม้เท้าและเทียนไขเพิ่ม
+event_christmas_specialoffer<>ข้อเสนอพิเศษช่วงคริสต์มาส
+event_christmas<>คริสต์มาส
+christmas_offer_1<>ข้อเสนอขนมหวาน
+christmas_offer_2<>ข้อเสนอสุดพิเศษ
+christmas_offer_3<>ข้อเสนอจากซานตาคลอส
+event_boss_challenge_leader_board_title<>ตารางคะแนน
+event_new_year_2023<>ปีใหม่
+drop_time_new_year_2023<>13 วันนับตั้งแต่เริ่มงาน
+new_year_shop<>ร้านค้าปีใหม่
+event_golden_time_new_year_2023_name<>ช่วงเวลาแห่งความสุข
+event_new_year_2023_wish_name<>โชคดี
+new_year_2023_quest<>ภารกิจปีใหม่
+event_new_year_2023_exchange_name<>การแลกเปลี่ยนปีใหม่
+event_new_year_2023_specialoffer<>โปรโมชั่นปีใหม่
+new_year_2023_shop<>ร้านค้าปีใหม่
+source_money_type_229<>- โชคดี\n- โปรโมชั่นปีใหม่\n- ร้านค้าปีใหม่
+event_new_year_2023_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับตั๋วปีใหม่
+event_golden_time_new_year_2023_desc<>เก็บโปสการ์ดในหีบสมบัติที่ไม่ได้ใช้งาน ไอเทมปีใหม่จะหายไปหลังจากกิจกรรมสิ้นสุดลง
+golden_time_new_year_2023_drop_info<>สะสมโปสการ์ดเพื่อแลกรับรางวัล กล่องสมบัติที่ไม่ได้ใช้งานจะดรอปโปสการ์ด 10 ใบทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด โปสการ์ดจะหยุดดรอปจากกล่องสมบัติที่ไม่ได้ใช้งาน
+text_chance_reset<>จำนวนครั้งก่อนที่จะรีเซ็ต
+event_new_year_2023_exchange_desc<>สะสมโปสการ์ดและแลกรับรางวัลได้ไม่จำกัดตามด้านล่าง
+new_year_2023_purchase_1<>ชุดพลุไฟมือถือ
+new_year_2023_purchase_2<>ชุดกองไฟ
+new_year_2023_purchase_3<>ชุดดอกไม้ไฟ
+event_new_year_2023_shop_des<>ซื้อโปสการ์ดและตั๋วปีใหม่เพื่อเข้าร่วมกิจกรรม
+want_to_wish_all<>คุณต้องการใช้ตั๋วทั้งหมดของคุณเพื่อเล่นพนันหรือไม่?
+event_golden_time_lunar_new_year_2024<>ทำภารกิจให้สำเร็จเพื่อรับเจด
+event_golden_time_lunar_new_year_2024_desc<>สะสมเหรียญแห่งโชคลาภในหีบสมบัติที่ไม่ได้ใช้งาน ไอเทมปีใหม่จะหายไปหลังจากกิจกรรมสิ้นสุดลง
+drop_time_lunar_new_year_2024<>13 วันนับตั้งแต่เริ่มงาน
+golden_time_lunar_new_year_2024_drop_info<>สะสมเหรียญแห่งโชคลาภเพื่อแลกรับรางวัล กล่องสมบัติที่ไม่ได้ใช้งานจะดรอปเหรียญแห่งโชคลาภ 10 เหรียญทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด เหรียญแห่งโชคลาภจะหยุดดรอปจากกล่องสมบัติที่ไม่ได้ใช้งาน
+source_money_type_78<>- บิงโกนำโชค\n- โปรโมชั่นตรุษจีน\n- โปรโมชั่นตรุษจีน
+event_lunar_new_year_2024<>ตรุษจีน
+bingo_count<>นับบิงโก
+extra_bingo_reward_text<>โบนัสความสำเร็จบิงโก
+bingo<>บิงโก
+bingo_reward_list<>รางวัลบิงโก
+bingo_title<>บิงโกนำโชค
+event_lunar_new_year_2024_bingo_name<>ลัคกี้บิงโก
+lunar_new_year_2024_quest<>ภารกิจปีใหม่
+event_lunar_new_year_2024_exchange_name<>การแลกเปลี่ยนปีใหม่
+event_lunar_new_year_2024_specialoffer<>โปรโมชั่นปีใหม่
+lunar_new_year_2024_shop<>ร้านค้าปีใหม่
+event_lunar_new_year_2024_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับเจด
+event_lunar_new_year_2024_exchange_desc<>สะสมเหรียญแห่งโชคลาภและแลกรับรางวัลไม่จำกัดด้านล่าง
+lunar_new_year_2024_purchase_1<>ชุดแห่งความเจริญรุ่งเรือง
+lunar_new_year_2024_purchase_2<>โชคลาภที่พบ แพ็คแห่งโชคลาภ
+lunar_new_year_2024_purchase_3<>แพ็คมังกรกลับมารวมตัวกัน
+event_lunar_new_year_2024_shop_des<>ซื้อเหรียญหยกและเหรียญโชคลาภเพื่อเข้าร่วมกิจกรรม
+event_golden_time_lunar_new_year_2024_name<>ช่วงเวลาแห่งปีใหม่
+bingo_tut_lunar_new_year_2024<>แตะที่หีบเพื่อเปิด
+event_valentine_2024<>กิจกรรมวันวาเลนไทน์
+drop_time_valentine_2024<>13 วันนับตั้งแต่เริ่มงาน
+source_money_type_250<>- ของขวัญสุดหวาน\n- ข้อเสนอวันวาเลนไทน์\n- ร้านค้าวันวาเลนไทน์
+event_golden_time_valentine_2024_name<>ช่วงเวลาแห่งความรัก
+event_valentine_2024_wish_name<>ของขวัญสุดหวาน
+valentine_2024_quest<>ความท้าทายสุดหวาน
+event_valentine_2024_exchange_name<>การแลกเปลี่ยนช็อกโกแลต
+event_valentine_2024_specialoffer<>ข้อเสนอวันวาเลนไทน์
+valentine_2024_shop<>ร้านวาเลนไทน์
+event_lottery_valentine_title<>ของขวัญสุดหวาน
+event_valentine_2024_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับลูกศรแห่งความรัก
+event_valentine_2024_exchange_desc<>สะสมช็อกโกแลตและแลกรับรางวัลไม่จำกัดด้านล่าง
+event_valentine_2024_shop_des<>ซื้อลูกศรแห่งความรักและช็อกโกแลตเพื่อเข้าร่วมกิจกรรม
+valentine_2024_purchase_1<>ชุดรักแรกพบ
+valentine_2024_purchase_2<>แพ็คแห่งความรักอันเร่าร้อน
+valentine_2024_purchase_3<>ชุดรักแท้
+event_golden_time_valentine_2024_desc<>เก็บช็อกโกแลตในหีบสมบัติที่ไม่ได้ใช้งาน ไอเทมวาเลนไทน์จะหายไปหลังจากกิจกรรมสิ้นสุดลง
+golden_time_valentine_2024_drop_info<>สะสมช็อกโกแลตเพื่อแลกรับรางวัล กล่องสมบัติที่ไม่ได้ใช้งานจะดรอปช็อกโกแลต 10 ชิ้นทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ช็อกโกแลตจะหยุดดรอปจากกล่องสมบัติที่ไม่ได้ใช้งาน
+subscription_packs_5<>บัตรผู้บัญชาการ
+subscription_packs_6<>ไพ่พยากรณ์
+sweep<>กวาด
+item_reward<>ทั่วไป
+item_reward_premium<>พรีเมียม
+event_boss_challenge_premium_pass<>การ์ดชาเลนเจอร์
+premium_pass_title_text<>การ์ดชาเลนเจอร์
+buy_now_text<>ซื้อเลย
+premium_pass_total_reward_text<>รางวัลรวม
+benefit_text<>ประโยชน์:\n- ปลดล็อกการข้ามการต่อสู้และใช้ตั๋วทั้งหมดในหอคอยท้าทายบอส\n- ปลดล็อกรางวัลพรีเมียม\n- ปลดล็อกรางวัลใหญ่ในชั้นสุดท้าย
+need_buy_boss_premium_pass<>คุณต้องซื้อบัตร Challenger ก่อนจึงจะสามารถใช้ฟีเจอร์นี้ได้
+quick_battle_title<>เลือกหมายเลขตั๋วที่คุณต้องการใช้
+event_easter_day<>วันอีสเตอร์
+easter_day_shop<>ร้านค้าอีสเตอร์
+drop_time_easter_day<>13 วันนับตั้งแต่เริ่มงาน
+easter_day_dice_title<>การเดินทางช่วงเทศกาลอีสเตอร์
+source_money_type_218<>- การเดินทางช่วงเทศกาลอีสเตอร์\n- โปรโมชั่นอีสเตอร์\n- ร้านค้าอีสเตอร์
+event_golden_time_easter_day_name<>การล่าไข่
+easter_day_quest<>ภารกิจอีสเตอร์
+event_easter_day_exchange_name<>การแลกเปลี่ยนไข่
+event_easter_day_specialoffer<>ข้อเสนอพิเศษช่วงเทศกาลอีสเตอร์
+event_golden_time_easter_day_desc<>เก็บไข่อีสเตอร์ในกล่องสมบัติที่ไม่ได้ใช้งาน ไอเทมวันอีสเตอร์จะหายไปหลังจากกิจกรรมสิ้นสุดลง
+easter_day_dice_guide<>สะสมและทอยลูกเต๋า - รับรางวัลสุดเจ๋ง!\nค้นหาเพิ่มเติมได้ใน Easter Quest
+event_easter_day_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับลูกเต๋า
+event_easter_day_exchange_desc<>สะสมไข่อีสเตอร์และแลกรับรางวัลมากมายได้ด้านล่าง
+easter_day_purchase_1<>ชุดไข่เงิน
+easter_day_purchase_2<>ชุดไข่ทองคำ
+easter_day_purchase_3<>ชุดไข่สีรุ้ง
+event_easter_day_shop_des<>ซื้อลูกเต๋าและไข่อีสเตอร์เพื่อใช้เล่นในกิจกรรม
+golden_time_easter_day_drop_info<>สะสมไข่อีสเตอร์เพื่อแลกรับรางวัล กล่องสมบัติอัตโนมัติจะดรอปไข่อีสเตอร์ 10 ฟองทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ไข่อีสเตอร์จะหยุดดรอปจากกล่องสมบัติอัตโนมัติ
+event_summer_day<>วันหยุดฤดูร้อน
+drop_time_summer_day<>13 วันนับตั้งแต่เริ่มงาน
+source_money_type_82<>- ท่องเที่ยวช่วงฤดูร้อน\n- โปรโมชั่นฤดูร้อน\n- ร้านค้าฤดูร้อน
+event_golden_time_summer_day_name<>พักผ่อนสบายๆ บนชายหาด
+event_golden_time_summer_day_desc<>สะสมลูกบอลชายหาดจากกล่องรางวัลที่ไม่ได้ใช้งานและกิจกรรมต่างๆ เพื่อแลกเปลี่ยนเป็นรางวัล
+summer_day_dice_title<>การท่องเที่ยวช่วงฤดูร้อน
+summer_day_quest<>ภารกิจฤดูร้อน
+event_summer_day_exchange_name<>โครงการแลกเปลี่ยนภาคฤดูร้อน
+event_summer_day_specialoffer<>โปรโมชั่นฤดูร้อน
+summer_day_shop<>ร้านค้าฤดูร้อน
+event_summer_day_shop_title<>ร้านค้าฤดูร้อน
+event_summer_day_quest_title<>ภารกิจฤดูร้อน
+event_summer_day_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับลูกเต๋า
+event_summer_day_exchange_desc<>สะสมลูกบอลชายหาดและแลกรับรางวัลไม่จำกัดด้านล่าง
+summer_day_purchase_1<>แพ็คทริปฤดูร้อน
+summer_day_purchase_2<>แพ็คเกจทัวร์ฤดูร้อน
+summer_day_purchase_3<>ชุดปาร์ตี้ฤดูร้อน
+golden_time_summer_day_drop_info<>สะสมลูกบอลชายหาดเพื่อแลกรับรางวัล กล่องสมบัติอัตโนมัติจะดรอป 10 ลูกบอลชายหาดทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ลูกบอลชายหาดจะหยุดดรอปจากกล่องสมบัติอัตโนมัติ
+summer_day_dice_guide<>สะสมและทอยลูกเต๋า - รับรางวัลสุดเจ๋ง!\nค้นหาเพิ่มเติมได้ในภารกิจฤดูร้อน (Summer Quest)
+event_blossom_day<>เทศกาลชมซากุระ
+drop_time_blossom_day<>13 วันนับตั้งแต่เริ่มงาน
+source_money_type_63<>- ดอกซากุระบาน\n- โปรโมชั่นเทศกาล\n- ร้านค้าเทศกาล
+golden_time_blossom_day_drop_info<>เก็บดอกซากุระเพื่อแลกรับรางวัล กล่องสมบัติที่ไม่ได้ใช้งานจะดรอปดอกซากุระ 10 ดอกทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ดอกซากุระจะหยุดดรอปจากกล่องสมบัติที่ไม่ได้ใช้งาน
+blossom_day_wish_name<>ดอกซากุระ
+blossom_day_quest<>เทศกาลล่าสมบัติ
+blossom_day_exchange_name<>การแลกเปลี่ยนดอกไม้
+event_blossom_day_specialoffer<>ข้อเสนอพิเศษช่วงเทศกาล
+blossom_day_shop<>ร้านค้าเทศกาล
+event_golden_time_blossom_day_desc<>เก็บดอกซากุระในกล่องสมบัติที่ไม่ได้ใช้งาน ไอเทมดอกซากุระจากกิจกรรมจะหายไปหลังจากกิจกรรมสิ้นสุดลง
+event_golden_time_blossom_day_name<>ต้นไม้แห่งความปรารถนา
+event_blossom_day_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับพัดดอกไม้
+event_blossom_day_exchange_name<>การแลกเปลี่ยนดอกไม้
+event_blossom_day_exchange_desc<>สะสมดอกซากุระและแลกรับรางวัลไม่จำกัดด้านล่าง
+event_blossom_day_shop_des<>ซื้อพัดดอกไม้และดอกซากุระเพื่อใช้ในงานกิจกรรม
+event_summer_day_shop_des<>ซื้อลูกเต๋าฤดูร้อนและลูกบอลชายหาดเพื่อใช้เล่นในงานกิจกรรม
+blossom_day_purchase_1<>ชุดกลีบดอกซากุระ
+blossom_day_purchase_2<>ชุดต้นซากุระ
+blossom_day_purchase_3<>แพ็คป่าซากุระ
+event_qixi_festival<>วันชีซี
+drop_time_qixi_festival<>13 วันนับตั้งแต่เริ่มงาน
+source_money_type_87<>- เกมซีซี\n- ข้อเสนอเทศกาล \n- ร้านขายของตามเทศกาล
+golden_time_qixi_festival_drop_info<>สะสมผ้าเช็ดหน้าเพื่อแลกรับรางวัล กล่องสมบัติที่ไม่ได้ใช้งานจะดรอปผ้าเช็ดหน้า 10 ชิ้นทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ผ้าเช็ดหน้าจะหยุดดรอปจากกล่องสมบัติที่ไม่ได้ใช้งาน
+event_qixi_festival_wish_name<>ขอให้มีความรัก
+qixi_festival_quest<>เทศกาลล่าสมบัติ
+event_qixi_festival_exchange_name<>การแลกเปลี่ยนเทศกาล
+event_qixi_festival_specialoffer<>ข้อเสนอพิเศษช่วงเทศกาล
+qixi_festival_shop<>ร้านค้าเทศกาล
+event_golden_time_qixi_festival_desc<>เก็บผ้าเช็ดหน้าในหีบสมบัติที่ไม่ได้ใช้งาน ไอเทมเทศกาลฉีซีจะหายไปหลังจากเทศกาลสิ้นสุดลง
+event_golden_time_qixi_festival_name<>ช่วงเวลาแห่งความรัก
+event_qixi_festival_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับขลุ่ยไม้ไผ่
+event_qixi_festival_exchange_desc<>สะสมผ้าเช็ดหน้าและแลกรับรางวัลไม่จำกัดด้านล่าง
+event_qixi_festival_shop_des<>ซื้อขลุ่ยไม้ไผ่และผ้าเช็ดหน้าเพื่อใช้บรรเลงในงาน
+qixi_festival_purchase_1<>ชุดเอกสารสำหรับการประชุม
+qixi_festival_purchase_2<>แพ็คหาคู่
+qixi_festival_purchase_3<>แพ็คสุดยอดเยี่ยม
+event_golden_time_may_day<>ทำภารกิจให้สำเร็จเพื่อเข้าคลับปินาต้า
+event_golden_time_may_day_desc<>เก็บลูกอมในกล่องสมบัติที่ไม่ได้ใช้งาน ไอเทมเทศกาลเม็กซิโกจะหายไปหลังจากเทศกาลสิ้นสุดลง
+drop_time_may_day<>13 วันนับตั้งแต่เริ่มงาน
+golden_time_may_day_drop_info<>สะสมลูกอมเพื่อแลกรับรางวัล กล่องสมบัติอัตโนมัติจะดรอปลูกอม 10 เม็ดทุกๆ 1 ชั่วโมง 12 ชั่วโมงก่อนกิจกรรมสิ้นสุด ลูกอมจะหยุดดรอปจากกล่องสมบัติอัตโนมัติ
+source_money_type_73<>- บิงโกนำโชค\n- ข้อเสนอเทศกาลเม็กซิโก\n- ร้านค้าเทศกาลเม็กซิโก
+event_may_day<>เทศกาลเม็กซิโก
+event_may_day_bingo_name<>ลัคกี้บิงโก
+may_day_quest<>เทศกาลเม็กซิโก
+event_may_day_exchange_name<>เทศกาลแลกเปลี่ยนเม็กซิโก
+event_may_day_specialoffer<>ข้อเสนอเทศกาลเม็กซิโก
+may_day_shop<>ร้านค้าเทศกาลเม็กซิโก
+event_may_day_quest_desc<>ทำภารกิจให้สำเร็จเพื่อรับไม้ตีปินาตา
+event_may_day_exchange_desc<>สะสมลูกอมและแลกรับรางวัลไม่จำกัดด้านล่าง
+may_day_purchase_1<>นาโชแพ็ค
+may_day_purchase_2<>ชุดทาโก้
+may_day_purchase_3<>เบอร์ริโต้แพ็ค
+event_may_day_shop_des<>ซื้อไม้ตีปินาตาและลูกอมเพื่อใช้เล่นในงานอีเวนต์
+event_golden_time_may_day_name<>ช่วงเวลาเทศกาลเม็กซิโก
+bingo_tut_may_day<>แตะที่หีบเพื่อเปิด
+form<>กรอกแบบฟอร์ม
+confirm_download_asset_bundle<>ยืนยัน
+download_asset_bundle_noti<>หากคุณไม่ดาวน์โหลดเนื้อหาใหม่ คุณจะไม่สามารถเดินทางต่อได้\nมาอัปเดตเกมและผจญภัยไปกับสิ่งมหัศจรรย์ยิ่งขึ้นกันเถอะ

@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>要达到%s VIP点
+vip_instant<>达到此VIP级别即可收集：
+vip_daily<>指挥官卡和先知卡每日额外奖励：
+vip_point_required<>贵宾积分
+campaign_bonus_idle_time_max<>空闲时间上限奖励：%s
+campaign_bonus_gold<>从空闲奖励中获得%s金币
+campaign_bonus_magic_potion<>从空闲奖励中获得%s的英雄经验值
+campaign_bonus_auto_train_slot<>培训位置：%s
+tavern_bonus_quest<>小酒馆奖励任务：%s
+raid_bonus_turn_buy<>每日额外可购买的冒险尝试次数：%s
+casino_unlock_multiple_spin<>解锁命运之轮中的多旋转功能
+casino_unlock_premium_spin<>即时解锁命运之轮
+casino_bonus_turn_buy_basic_chip<>每日可购买的幸运石奖金：%s
+battle_unlock_speed_up<>立即解锁快速攻击功能
+battle_unlock_skip<>立即解锁战斗跳过
+hand_of_midas_bonus_gold<>金矿中的黄金：%s
+summon_unlock_accumulate<>立即解锁召唤
+arena_bonus_ticket_buy<>每日额外购买的竞技场门票：%s
+campaign_bonus_quick_battle_buy_turn<>战斗中可购买的快速回合：%s
+current_vip<>目前VIP等级
+campaign_bonus_exp_summoner<>来自 战役 的额外 %s 召唤师经验
+dungeon_challenge_increased<>将 地牢 中的阶段奖励提高 %s
+allow_skip_ads<>解锁跳过广告
+allow_prophet_tree_use_gem<>在 古树 中通过 玉 解锁召唤
+battle_unlock_skip_arena<>解锁 竞技场 中的跳过战斗
+auto_next_battle<>解锁自动下一阶段功能

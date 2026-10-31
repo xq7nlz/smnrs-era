@@ -1,0 +1,5 @@
+name,star,damage,target_position,target_number,damage_receive_debuff_amount,damage_receive_debuff_duration
+Main_Active,8,1.5,10,4,0.2,2
+Main_Active,9,1.8,10,4,0.22,2
+Main_Active,10,2.1,10,4,0.25,2
+Main_Active,11,2.4,10,4,0.3,3

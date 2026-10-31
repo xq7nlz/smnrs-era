@@ -1,0 +1,5 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE116,com.se.sungame.arryl_skin,com.sungame.summoners.era.arryl_skin,com.fansipan.summoners.era.arryl_skin,com.fansipan.summoners.era.arryl_skin,14,40003001,1,,1,49.99,FALSE
+,,,,,,2,1,2600,,,,
+,,,,,,2,244,20,,,,
+,,,,,,2,2,2500,,,,

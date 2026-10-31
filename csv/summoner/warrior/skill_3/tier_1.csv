@@ -1,0 +1,5 @@
+name,star,target_position,target_number,reduce_damage_amount
+Main_Passive2,4,10,5,0.15
+Main_Passive2,5,10,5,0.18
+Main_Passive2,6,10,5,0.21
+Main_Passive2,7,10,5,0.24

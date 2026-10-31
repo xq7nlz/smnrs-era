@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。
+summoner_1_1_1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ラウンドの間、ターゲットの{q(stat_debuff_type)}を{q(stat_debuff_amount_3)}減らします。
+summoner_1_1_2~stat_debuff_chance~1<>{q(target_position)}に[{p(damage)}のATK]ダメージを与える。 {c(stat_debuff_duration)}ラウンドで{q(stat_debuff_amount_3)} {q(stat_debuff_type)}を減らす{p(stat_debuff_chance)}チャンスがあります。
+summoner_1_1_2~stat_debuff_chance~0<>後列の{q(target_position)}ランダムな敵に[{p(damage)} ATK]のダメージを与え、{c(stat_debuff_duration)}ラウンドでそれらの敵の{q(stat_debuff_amount_3)} {q(stat_debuff_type)}を減らします。
+summoner_1_1_3~dispel_chance~0<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、ターゲットのすべてのポジティブバフを払いのけます。すべての敵ヒーローを対象とする[{p(damage_bonus_per_die)}攻撃]の追加ダメージを無効にしました。
+summoner_1_1_3~dispel_chance~1<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与えます。死んだすべての敵に対して、残りの敵に[{p(damage_bonus_per_die)}攻撃]のダメージを与え、{p(dispel_chance)}チャンスをそれらのバフを取り除く。
+summoner_1_2_1<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}、{q(stat_2)} {p(bonus_2)}を{p(bonus_2)}増やします。
+summoner_1_2_2<>{q(target_position_2)}の{p(bonus_1)} {q(stat_1)}を増やします
+remove_summoner_1_2_2~passive_chance~1<>味方のヒーローが基本攻撃またはアクティブスキルで攻撃された場合、{p(passive_chance)}攻撃の機会に[{p(damage)}攻撃]のダメージを与えるチャンスがあります。
+summoner_1_2_3<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}、{q(stat_2)} {p(bonus_2)}を{p(bonus_2)}増やします。
+summoner_1_3_1~blessing_chance~0<>各試合の開始時に、{q(target_position_2)}は{c(blessing_duration)}ラウンドのすべての負の影響を受けなくなります。
+summoner_1_3_1~blessing_chance~1<>各試合の開始時に、{q(target_position_2)}は{c(blessing_duration)}ラウンドの負の影響に抵抗する{p(blessing_chance)}チャンスがあります。
+summoner_1_3_2~buff_chance~1<>すべての奇数ラウンドの開始時に、{q(buff_target_position)}位のヒーローの{q(stat_buff_1_amount)} {q(stat_buff_1_type)}と{q(stat_buff_2_amount)} {q(stat_buff_2_type)}を増やす{p(buff_chance)}チャンスがあります。 この効果は{c(buff_duration)}ラウンド持続します。
+summoner_1_3_2~buff_chance~0<>すべての奇数ラウンドの開始時に、{q(buff_target_position)}番目の位置にいるヒーローの{q(stat_buff_1_amount)} {q(stat_buff_1_type)}と{q(stat_buff_2_amount)} {q(stat_buff_2_type)}を増やします。 この効果は{c(buff_duration)}ラウンド持続します。
+summoner_1_3_3~buff_chance~0<>敗北した味方のヒーローごとに、{q(buff_target_position)}の場合、{q(stat_buff_1_type)}を{q(stat_buff_1_amount)}増やし、{q(stat_buff_2_type)}を{q(stat_buff_2_amount)}増やします。この効果は、各マッチの味方ごとに1回のみトリガーできます。
+summoner_1_3_3~buff_chance~1<>敗北した味方のヒーロー1人につき、{c(buff_duration)}の機会に{q(buff_target_position)}に{q(stat_buff_1_type)}を{q(stat_buff_1_amount)}増やし、{q(stat_buff_2_type)}を{q(stat_buff_2_amount)}増やす。この効果は、各マッチの味方ごとに1回のみトリガーできます。
+summoner_1_4_1~block_chance~0<>ポジション{s(target_number)}の味方は、基本攻撃またはアクティブスキルで攻撃されたときに受けるダメージをブロック{p(block_rate)}します。
+summoner_1_4_1~block_chance~1<>ポジション{s(target_number)}の味方は、基本攻撃またはアクティブスキルで攻撃されたときに受けるダメージの{p(block_chance)}をブロックする可能性があります{p(block_rate)}。
+summoner_1_4_2<>すべてのラウンドの開始時に、位置{q(target_position_2)}のヒーローは{c(power_buff)} エネルギーを獲得します
+summoner_1_4_3<>{q(buff_target_position)}の{q(stat_buff_type)}を{q(stat_buff_amount_3)}増やします。これらの同盟国による{c(count_trigger)}攻撃（基本攻撃またはアクティブスキル）のたびに、[このヒーローの{p(damage)}攻撃]ダメージを{q(damage_target_position)}に与えます。
+summoner_2_1_1~stat_debuff_chance~0<>{q(target_position)}に[{p(damage)}攻撃]のダメージを与え、{c(stat_debuff_duration)}ラウンドの間、ターゲットの{q(stat_debuff_type)}を{q(stat_debuff_amount_3)}減らします。
+summoner_2_1_1~stat_debuff_chance~1<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{p(stat_debuff_chance)}の確率で{c(stat_debuff_duration)}ラウンドの間、ターゲットの{q(stat_debuff_type)}を{q(stat_debuff_amount_3)}削減します。
+summoner_2_1_2~stat_buff_chance~0<>{q(damage_target_position)}に[{p(damage)}のATK]ダメージを与え、{q(buff_target_position)}の間{q(stat_buff_amount_3)} {q(stat_buff_type)}を増やし、{c(stat_buff_duration)}ラウンド持続します。
+summoner_2_1_2~stat_buff_chance~1<>[{p(damage)}攻撃]のダメージを{q(damage_target_position)}に与え、{p(stat_buff_chance)}の確率で{q(stat_buff_amount_3)} {q(stat_buff_type)}を{q(buff_target_position)}増やし、{c(stat_buff_duration)}ラウンド持続します。
+summoner_2_1_3<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与えます。{c(effect_duration)}ラウンドのターゲットに{q(effect_type)}効果を適用するチャンスが{p(effect_chance)}つあります
+summoner_2_2_1<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}、{q(stat_2)} {p(bonus_2)}を{p(bonus_2)}増やします。
+summoner_2_2_2<>{q(target_position_2)}の場合は{q(bonus_1)} {q(stat_1)}を増やし、{q(debuff_amount_1)} {q(debuff_stat_1)}を減らします。
+summoner_2_2_3~buff_chance~0<>敗北した味方ごとに、残りの同盟国の{q(stat_buff_type)}を{q(stat_buff_amount_3)}増やします。
+summoner_2_2_3~buff_chance~1<>味方を倒したときに、残りの仲間の{p(buff_chance)}を{q(stat_buff_type)}増やすことができます{q(stat_buff_amount_3)}。
+summoner_2_3_1<>{q(target_position_2)}がCC効果の影響を受けている場合、受けるダメージの{p(reduce_damage_amount)}を減らします。
+summoner_2_3_2~block_chance~0<>味方が基本攻撃またはアクティブスキルで攻撃されたときはいつでも、{c(block_duration)}ラウンドの間{q(target_position_2)}にシールド効果を適用する{p(buff_chance)}ツのチャンスがあります。シールド効果は[受けるダメージの{p(block_amount)}]をブロックします。この効果はスタックしません。
+summoner_2_3_2~block_chance~1<>味方が基本攻撃またはアクティブスキルで攻撃されたときはいつでも、{c(block_duration)}ラウンドの間{q(target_position_2)}にシールド効果を適用する{p(buff_chance)}ツのチャンスがあります。シールド効果は[受けるダメージの{p(block_amount)}]を{p(block_chance)}の確率でブロックします。この効果はスタックしません。
+summoner_2_3_3<>味方が致命的なダメージを受けると、彼らは{p(last_chance_rate)} 1 HPで生き残り、{c(power_gain)}エネルギーを回復するチャンスがあります。この効果は、各マッチの味方ごとに1回のみトリガーできます。
+summoner_2_4_1~block_chance~0<>ポジション{s(target_number)}の味方は、基本攻撃またはアクティブスキルによって攻撃されたときに[受けるダメージの{p(block_rate)}]をブロックします。
+summoner_2_4_1~block_chance~1<>ポジション{s(target_number)}の味方は、基本攻撃またはアクティブスキルによって攻撃されたときに、{p(block_chance)}受けるダメージの{p(block_rate)}をブロックするチャンスがあります。
+summoner_2_4_2<>ラウンド{c(round_trigger_list)}の開始時に、{q(tanker_target_position)}と{q(target_position_3)}の間にリンクを作成します。 リンクされているすべての味方のダメージは{p(damage_share_percent)}が{q(tanker_target_position)}に転送されます。 この効果は{c(bond_duration)}ラウンド持続します。
+summoner_2_4_3<>{q(buff_target_position)}の{q(stat_buff_amount_3)} {q(stat_buff_type)}を増やします。このヒーローが受けた3つの攻撃（基本攻撃またはアクティブスキル）ごとに、すぐに反撃し、[この味方のHPの{p(damage_percent_hp)}]ダメージを{q(damage_target_position)}に与えます。
+summoner_3_1_1<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(heal_target_position)}の[{p(heal_percent)}攻撃]に等しいHPを回復します。
+summoner_3_1_2<>[{p(damage)}攻撃]のダメージを{q(damage_target_position)}に与え、{c(effect_duration)}ラウンドのターゲットに{p(effect_chance)} {q(effect_type)}効果を適用するチャンスがあります。
+summoner_3_1_3<>{q(damage_target_position)}に[{p(damage)}攻撃]のダメージを与え、{q(bond_target_position)}を{c(bond_duration)}ラウンドの間バインドします。基本攻撃またはアクティブスキルで攻撃されている場合、受けたダメージは分割され、いずれか1つのターゲットではなく、バインドされたすべてのターゲットに割り当てられます。
+summoner_3_2_1<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}増やし、{q(stat_2)}を{q(bonus_2)}増やします。
+summoner_3_2_2<>{q(target_position_2)}の{q(bonus_1)} {q(stat_1)}を増やします
+remove_summoner_3_2_2~heal_chance~1<>味方が基本攻撃またはアクティブスキルで攻撃された場合、[{p(heal_amount)}攻撃]と等しい味方のHP量を回復するチャンスが{p(heal_chance)}あります。
+summoner_3_2_3<>各マッチの開始時に、{c(power_stat)}ポジションの同盟者のエネルギーを{s(target_number)}回復します。
+summoner_3_3_1<>{q(target_position_2)}の{q(stat_1)}を{q(bonus_1)}増やします。
+summoner_3_3_2<>以下の各ラウンドの開始時に：{c(round_trigger_list)}、{c(stat_buff_duration)}ラウンドの{q(target_position_2)}の{q(stat_buff_type)}を{q(stat_buff_amount)}増やします。
+summoner_3_3_3<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}、{q(stat_2)}を{q(bonus_2)}増やします。
+summoner_3_4_1<>すべての奇数ラウンドの開始時、{q(target_position_2)}の{c(power_buff)}エネルギーを回復します。
+summoner_3_4_2<>すべての奇数ラウンドの開始時に、{q(target_position_2)}のすべての悪影響を払拭します
+summoner_3_4_3~heal_chance~0<>味方のHPが{p(heal_trigger)}を下回ると、この味方の[{p(heal_amount)}攻撃]に等しいHPを回復します。この効果は、試合ごとに1回だけ誘発できます。
+summoner_3_4_3~heal_chance~1<>味方のHPが{p(heal_trigger)}を下回ったときに、{p(heal_chance)}味方の[{p(heal_amount)}攻撃]に等しいHPを回復するチャンスがあります。この効果は、試合ごとに1回だけ誘発できます。
+summoner_4_1_1~debuff_chance~0<>{c(debuff_duration)}ラウンドの間、{q(target_position)}および{q(debuff_type)}ターゲットに[{p(damage)}攻撃]のダメージを与えます。 {q(debuff_type)}効果は、各ラウンドをターゲットするために[{p(debuff_amount)}攻撃]のダメージを与えます。
+summoner_4_1_1~debuff_chance~1<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{p(debuff_chance)}の機会に{q(debuff_type)}効果を適用して{c(debuff_duration)}ラウンドのターゲットに与えます。 {q(debuff_type)}効果は、各ラウンドをターゲットするために[{p(debuff_amount)}攻撃]のダメージを与えます。
+summoner_4_1_2<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{p(debuff_chance)}チャンスとして{c(debuff_duration)}ラウンドで{q(debuff_type)}を狙います。
+summoner_4_1_3<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{c(buff_duration)}ラウンドの間、{q(buff_target_position)}の{q(buff_type)}を{p(buff_amount)}増加させます。
+summoner_4_2_1<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}増やし、{q(stat_2)}を{p(bonus_2)}増やします。
+summoner_4_2_2<>{q(target_position_2)}の場合、{q(stat_1)}を{q(bonus_1)}増やします。
+summoner_4_2_3<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}増やし、{q(stat_2)}を{q(bonus_2)}増やします。
+summoner_4_3_1<>{q(target_position_2)}の{q(stat_1)}を{q(bonus_1)}増やします。
+summoner_4_3_2<>各ラウンドの開始時に、{c(bond_duration)}ラウンドの{q(target_position_2)}と{q(bond_target_position)}をバインドします。 バインドされた味方に与えられたダメージの{p(bond_share_damage)}は転送され、{q(bond_target_position)}間で均等に分割されます。
+summoner_4_3_3<>味方がターゲットにCC効果を適用する場合、前のCC効果と同じ期間、出血効果をターゲットに適用します。ブリード効果は、各ラウンドをターゲットするために[{p(damage)}攻撃]のダメージを与えます。
+summoner_4_4_1<>味方の攻撃（基本攻撃またはアクティブスキル）がクリティカルヒットである場合、{c(buff_duration)}ラウンドで{p(bonus_1)}を{q(target_position_2)}から{q(stat_1)}増加します。この効果は重ねることができます。
+summoner_4_4_2<>味方が攻撃をうまくかわすと、{c(buff_duration)}ラウンドで{q(buff_type)}を{q(buff_amount)}増やします。 この効果は積み重ねることができません。
+summoner_4_4_3<>サモナーの{c(buff_per_power)}エネルギーごとに、{p(buff_amount)}を{q(target_position_2)}の{q(buff_type)}増加させます。
+summoner_5_1_1~stat_debuff_chance~0<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{c(stat_debuff_duration)}ラウンドの間、ターゲットの{q(stat_debuff_type)}を{p(stat_debuff_amount)}減らします。
+summoner_5_1_1~stat_debuff_chance~1<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{p(stat_debuff_chance)}の確率で、ターゲットの{p(stat_debuff_amount)}を{c(stat_debuff_duration)}ラウンドの間{q(stat_debuff_type)}だけ減らします。
+summoner_5_1_2<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{c(damage_receive_debuff_duration)}ラウンドの間、すべてのソースから受けるターゲットのダメージを{p(damage_receive_debuff_amount)}増やします。
+summoner_5_1_3~debuff_chance~0<>{c(debuff_duration)}ラウンドの間、{q(target_position)}および{q(debuff_type)}ターゲットに[{p(damage)}攻撃 ]のダメージを与えます。 {q(debuff_type)}効果は、各ラウンドをターゲットするために[{p(debuff_amount)}攻撃]のダメージを与えます。
+summoner_5_1_3~debuff_chance~1<>[{p(damage)}攻撃]のダメージを{q(target_position)}に与え、{p(debuff_chance)}の確率で{q(debuff_type)}効果を{c(debuff_duration)}ラウンドのターゲットに適用します。 {q(debuff_type)}効果は、各ラウンドをターゲットするために[{p(debuff_amount)}攻撃]のダメージを与えます。
+summoner_5_2_1<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}増やし、{q(stat_2)}を{p(bonus_2)}増やします。
+summoner_5_2_2<>{q(target_position_2)}の場合、{q(stat_1)}を{p(bonus_1)}増やし、{q(stat_2)}を{p(bonus_2)}増やします。
+summoner_5_2_3<>{q(target_position_2)}の{q(stat_1)}を{p(bonus_1)}増やします。
+summoner_5_3_1<>味方が敵を攻撃するか、スキルを唱えるとき、CC効果の影響を受けている場合、ターゲットにさらに{p(bonus_damage_receive)}のダメージを与えます。
+summoner_5_3_2<>以下の各ラウンドの開始時に:{c(round_trigger_list)}、{c(debuff_duration)}ラウンドの{q(target_position)}の{q(debuff_amount_1)}を{q(debuff_stat_1)}減らします。
+summoner_5_3_3<>味方が追加のターンで攻撃を行うと、この攻撃は{p(bonus_damage_extra_turn)}の追加ダメージを与えます。
+summoner_5_4_1<>ポジション{s(target_number)}の味方の{q(stat_1)}を{p(bonus_1)}増加させ、{q(stat_2)}を{p(bonus_2)}増加させます。
+summoner_5_4_2<>{q(target_position_2)}の{q(stat_1)}を{q(bonus_1)}増やします。
+summoner_5_4_3<>味方が追加ターンで攻撃を行う{c(number_extra_turn_affect)}番目の時間に、この攻撃はより{p(bonus_damage_extra_turn)}多くのダメージを与え、{c(effect_duration)}ラウンドのターゲットに{q(effect_type)}効果を適用します。
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

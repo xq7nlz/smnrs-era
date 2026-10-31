@@ -1,0 +1,6 @@
+game_mode,required,number_recommend_hero
+1,5,5
+2,100,
+4,200,
+6,3000,
+13,3000,

@@ -1,0 +1,4 @@
+name,effect_amount,effect_type,effect_duration,target_position,target_number
+Skaven_Passive3,0.05,10,2,10,5
+Skaven_Passive3,0.07,10,2,10,5
+Skaven_Passive3,0.09,10,2,10,5

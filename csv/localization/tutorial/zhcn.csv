@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>欢迎您来到 Holy Alliance of Light Order-传奇城市，拥有星球最强大的法术的城市！
+npc_rename<>请告诉我你的名字！
+npc_summon_click<>邀请您参加召唤战！
+npc_summon_start<>现在召唤你的第一个英雄！
+player_option1_1<>可以了！
+player_option1<>我明白了
+player_option2<>给我看看！
+player_option2_1<>那是什么？
+npc_basic_summon_info<>基本召唤-召唤1至5星的英雄
+npc_heroic_summon_info<>高级召唤-召唤3到5星的英雄
+npc_friend_summon_info<>朋友召唤-召唤2到5星的英雄
+npc_continue_campaign<>精彩！出去探索世界吧！
+npc_select_hero_formation<>请选择参加战斗的英雄。
+npc_formation_info_position<>精彩！ 注意正常攻击所造成的损坏将位于1、2、3、4、5的顺序中。
+npc_auto_battle<>这是全自动比赛
+npc_summoner_power<>当英雄的能量棒已满时，该英雄会自动使用技能
+npc_formation_change_position<>您可以随意更改英雄的位置
+npc_formation_buff<>很好！ 注意：后排英雄会增加攻击力，前排英雄会增加HP
+npc_summoner_battle_info<>这是召唤师，它将在战斗中支持您的英雄。 请注意，召唤师不会受到攻击！
+npc_add_power_summoner<>当英雄增加怒气时，召唤师也会增加怒气。当能量条充满时，所有能量都将转换为火焰
+npc_summoner_skill<>当有5个火焰时，召唤师也会自动使用技能
+npc_need_power<>赶快！ 我们需要更多的力量
+npc_what_black_smith<>我的朋友，您以前知道过武器及其优势吗？
+npc_weapon<>增加攻击力的武器
+npc_armor<>增加HP并减少伤害的护甲
+npc_helmet<>增加HP和防御指数的头盔！
+npc_ring<>提高准确性和闪避能力的戒指
+npc_black_smith<>首先，制造武器
+npc_claim_black_smith<>太棒了！ 您刚刚收到了非常强大的武器
+npc_black_market<>好！ 现在去黑市吧
+npc_buy_heroic_scroll<>在这里您可以购买稀有物品。 现在购买1个高级召唤卷轴吧！
+npc_claim_black_market<>我们真幸运！ 现在我们有足够的资源来召唤新英雄。
+npc_continue_summon<>精彩！现在该召唤一个新的强大英雄了。
+npc_equipment<>恭喜您拥有四星级英雄。 现在继续装备武器
+npc_continue_5<>恭喜你！ 您的团队变得更加强大。
+npc_continue<>现在该测试您的新功能了。 让我们继续前进！
+npc_select_hero_continue<>不要忘记将新英雄加入您的团队。
+npc_drag_hero<>将英雄放在后排有助于增加对该英雄的攻击
+npc_idle_reward<>获取您的自动奖励，您的团队将随着时间自动战斗并获得奖励，请记住奖励箱最多只能容纳%s个小时
+npc_upgrade_hero_success<>太棒了！ 比我想的要快！  继续前进，我的朋友！
+npc_level_up<>做得好！ 我们有足够的资源来升级您的英雄。 让我告诉你如何做。
+npc_select_hero_upgrade<>选择一个四星级英雄进行升级
+npc_continue_3<>很好！ 继续
+npc_stage_10<>努力走到1-10，奖励是1个5星英雄在等着你
+npc_list_tut<>我准备了一份清单，以指导您的旅程！
+npc_quest<>这是我提到的任务树！ 当您完成列表中的任务时，许多奖励正在等着您。
+npc_quest_complete<>做得好！ 您已经完成了第一个任务。 是领取奖励的时候了！
+npc_end_tut<>恭喜你！ 您已经完成了本教程。 该说再见了。 亲爱的朋友，我希望我们能再见面！
+npc_claim_hero_5star<>
+npc_go_evolve_summoner<>恭喜！ 您已获得5星级英雄。
+npc_5summoner<>这是所有召唤师！
+npc_summoner_class_1<>倾于免效应和专有力量的 法师-魔法大师
+npc_summoner_class_2<>倾于防御并减少伤害的战士-召唤师
+npc_summoner_class_3<>倾于康复和
+npc_summoner_class_4<>倾于力量，闪避和精准的杀手-召唤师
+npc_summoner_class_5<>倾于力量和伤害敌人的枪手-召唤师
+npc_switch_summoner<>点击此处更改召唤师
+npc_end_summoner<>您可以选择任何召唤师加入战斗
+npc_buy_scroll_success<>挺好！ 你已经在逐渐习惯这个游戏了。 这是您熟悉游戏的小礼物。
+victory_battle_tut<>如此戏剧性的战斗，不是吗？ 您将在游戏中体验这样的战斗。 和我一起开启探索之旅吧！
+npc_please_summon_heroic<>现在召唤你的第一个英雄！
+introduce_hero_summoned<>恭喜！您已经召集了一个传奇的5*英雄。传奇的英雄是您从召唤中获得的最先进的英雄。
+asking_continue_tutorial<>你已经召唤了你的第一批英雄。 您想继续本教程以了解有关游戏机制的更多信息吗？
+yes<>是的。 我想了解更多。
+no<>不，我对这些类型的游戏很熟悉。
+npc_introduce_auto_battle<>这是全自动比赛
+npc_introduce_summoner<>这是召唤师，它将在战斗中支持您的英雄。 请注意，召唤师不会受到攻击！
+npc_let_battle_commence<>你已经完成了小队的设置。 现在让我们去战斗吧！
+npc_introduce_turn_mechanic<>1场比赛由15轮组成。 如果在 15 回合内击败对手的所有英雄，则进攻方获胜。
+first_victory<>恭喜！ 你贏得了第一場胜利。 獲得以下戰利品並繼續與我指導！
+npc_idle_reward_1<>获取您的自动奖励，您的团队将随着时间自动战斗并获得奖励，请记住奖励箱最多只能容纳%s个小时
+npc_idle_reward_2<>您到达的活动越多，可以持有的闲置奖励就越多。 此外，提高您的贵宾等级以增加最大空闲时间。
+npc_introduce_hero_upgrade_feature<>在这里你可以查看你的英雄信息。 你可以升级，升级明星和装备物品来加强你的英雄。
+npc_introduce_four_equipment_slot<>有4种装备。
+npc_click_level_up<>现在，让我们升级你的英雄。
+congratulation_you_have_done<>做得好！ 您已完成本教程。 我相信你可以成为一个伟大的召唤师。 让我们继续以自己的方式探索游戏。

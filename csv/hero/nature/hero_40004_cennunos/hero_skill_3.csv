@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,stat_2,bonus_2,damage_attack,damage_target_position,damage_target_number,heal_percent
+Cennunos_Passive2,41,0.15,3,0.1,0.8,20,4,0.8
+Cennunos_Passive2,41,0.25,3,0.15,0.8,20,4,0.8
+Cennunos_Passive2,41,0.35,3,0.2,0.8,20,4,0.8

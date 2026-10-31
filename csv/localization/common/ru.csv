@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50>Примечание к патчу %s: </size>\n\n1. Событие:\n- Испытание босса (новая версия)\n- Башня Эйтри\n2. Карта месяца корректировок\n3. Оптимизированная игра
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. Событие:\n- Испытание босса (новая версия)\n- Башня Эйтри\n2. Карта месяца корректировок\n3. Оптимизированная игра
+version_notice_next<>Внимание: Информация может быть изменена в соответствии с планами команды разработчиков, приведенные ниже сведения не являются на 100% точными.\n\n1. Новое сезонное событие\n2. Оптимизация игры
+version_notice_maintenance<>Техническое обслуживание версии %s\n\nПожалуйста, подпишитесь на нашу страницу в Facebook и Discord, чтобы получать самую свежую информацию.\n\nПримечание: План технического обслуживания может быть изменен в зависимости от планов команды разработчиков.
+notice<>Объявление
+tap_to_play<>Нажмите для начала игры
+setting<>Настройки
+account<>Профиль
+id<>ID
+summoner<>Имя
+register_account<>Зарегистрировать учётную запись
+change_password<>Сменить пароль
+switch_server<>Переключение сервера
+switch_account<>Переключение учётной записи
+email_verify<>Проверка электронной почты
+game_version<>Версия игры
+close<>Закрыть
+closed<>Закрытый
+sound<>Звук
+music<>Музыка
+graphic_quality<>Качество графики
+low<>Низкий
+medium<>Средний
+high<>Высокие
+language<>Язык
+language_setting<>Языковые настройки
+password<>Пароль
+enter_text<>Введите ID друга
+forget<>Забыли?
+do_you_want_restore<>Вы хотите восстановить?
+register<>Регистрация
+login<>Авторизация
+restore<>Восстановить
+confirm_password<>Подтверждение пароля
+cancel<>Отмена
+confirm<>Подтвердить
+new_password<>Новый пароль
+confirm_new_password<>Подтвердите новый пароль
+please_select_language<>Пожалуйста, выберите язык
+daily_checkin<>Регистрация
+mail<>Почта
+friend<>Друг
+shop<>Магазин
+main_character<>Заклинатель
+mastery<>Мастерство
+inventory<>Сумка
+hero_list<>Герои
+event<>Событие
+daily_reward<>Ежедневная награда
+checkin_progress<>Процесс регистрации %s
+reply<>Ответить
+claim<>Получить
+mail_box<>Почтовый ящик
+claim_all<>Получить все
+system_mail<>Системные сообщения
+player_mail<>Сообщения игрока
+mail_empty<>Пустой почтовый ящик
+received_applications<>Получен запрос
+recommended_friend<>Рекомендуется
+claim_and_send<>Получить и Отправить
+friend_list<>Список друзей
+search<>Поиск
+friend_request<>Запрос в друзья
+help_fight<>Просмотр
+apply<>Применение
+delete_all<>Удалить всё
+delete<>Удалить
+scout<>Скаут
+ranking_point<>Рейтинг
+ranking_reward<>Награда за рейтинг
+battle_reward<>Награда за битву
+battle<>Битва
+smash<>Разбить
+preview<>Предварительный просмотр
+auto_fill<>Автозаполнение
+disassemble<>Разобрать
+heroese<>Герои
+ok<>OK
+yes<>Да
+no<>Нет
+not_select_all_hero<>Нельзя выбрать всех Героев
+do_disassemble_hero_4_star<>Вы хотите разобрать героя %s* или выше?
+you_need_select_hero<>Вам нужно выбрать Героев
+do_you_want_disassemble<>Вы желаете разобрать?
+basic<>Основной
+premium<>Премиальный
+refresh<>Обновить
+time<>Время
+forge<>Кузница
+available_to_forge<>Кузница имеется в наличии
+weapon<>Оружие
+armor<>Броня
+helmet<>Шлем
+ring<>Драгоценности
+rank_x<>Ранг: %s
+season_ranking<>Сезонный Рейтинг
+point<>Единиц
+group_ranking<>Рейтинг Группы
+score<>Счёт
+reward<>Награда
+record<>Запись
+defense<>Защитники
+choose_rival<>Выбрать соперника
+change<>Изменить
+your_current_rank_x<>Текущий ранг: %s
+reward_will_sent<>Награды будут высланы после
+reward_will_sent_x<>Награды будут высланы после: %s
+wave<>Волна
+will_open_in<>Открыть в:
+will_end_in<>Закрыть в:
+quick<>Быстрый
+secret_shop<>Магазин Купца
+skip<>Пропустить
+buy<>Купить
+primary_merchant<>Главный Купец
+medium_merchant<>Средний Купец
+senior_merchant<>Старший Купец
+mysterious_merchant<>Таинственный Купец
+primary<>Младший
+senior<>Старший
+formation<>Формация
+save<>Сохранить
+material<>Материал*
+upgrade<>Улучшить
+skip_battle<>Пропустить битву
+back<>Назад
+front<>Вид спереди
+gallery<>Галерея
+linking<>Связь
+sort<>Сортировать
+level<>Уровень
+star<>Звезда
+select_hero_altar<>Выберите Героя для разоружения
+replay<>Повтор
+reward_current_ranking<>Награды за текущий рейтинг
+hero_shard<>Шард героя
+tap_to_close<>Нажмите для закрытия
+avatar<>Аватар
+border<>Граница
+avatar_border<>Аватар и граница
+current_avatar<>Текущий аватар и граница
+select_avatar<>Пожалуйста выберите аватар
+select_border<>Пожалуйста выберите аватар
+world<>Мир
+send<>Отправить
+chat_option_1<>Информация по VIP
+chat_option_2<>Заблокировать чат мира
+chat_option_3<>Заблокировать чат гильдии
+chat_option_4<>Заблокировать чат рекрутинга
+select_hero_battle<>Выберите Героя для битвы
+vs<>VS
+hero_info<>Информация
+equip<>Снарядить
+evolve<>Развивать
+skin<>Скин
+level_to_max<>Макс.Уровень
+level_up<>Уровень Выше
+unlock_level<>Разблокировать Уровень %s
+unequip<>Снять снаряжение
+auto_equip<>Снарядить автоматически
+awaken<>Разбудить
+switch_character<>Переключить персонаж
+exp<>ОПТ
+free<>Бесплатный
+free_x<>Бесплатный %s
+summon<>Призыв
+summon_x<>Призыв %s
+storage<>Хранилище
+fragment<>Фрагмент
+artifact<>Артефакт
+leaderboard<>Cписок лидеров
+quest<>Квест
+damage_stat<>Характеристики урона
+notification<>Уведомление
+spin_x<>Раунд %s
+next_force_refresh<>Обновить в:
+pack_of_item<>Комплект предметов
+congratulation<>Поздравление
+smash_title<>Сколько раз вы хотите пройти испытание?
+select_heroes<>Выбор Героя
+requirement<>Требования
+start<>Начать
+quest_refresh_in<>Квест ({1}) будет перезапущен в {2}
+speed_up<>Ускорение
+complete<>Завершить
+block<>Блокировать
+unblock<>Разблокировать
+send_mail<>Отправить Почту
+refresh_in<>Обновить в: %s
+remaining_attempts<>Оставшаяся Битва
+challenge<>Испытание
+rename<>Переименовать
+x_character<>%s символов
+change_avatar<>Настроить аватар и границу
+vip<>Информация по VIP
+replace_hero<>Смена Героя
+select_your_hero<>Выберите своего Героя
+please_select_hero_replace<>Выберите Героя для замены
+convert<>Преобразование
+lock_current_stat<>Заблокировать текущие характеристики
+upgrade_artifact<>Прокачать артефакт
+select_material_artifact<>Выбери материальный артефакт
+training_hero<>Обучение
+to_complete_training<>Пока все герои не закончат обучение
+select_item<>Выбери предмет
+map<>Карта
+select_material_hero<>Выбери материального героя
+select<>Выбери
+unlock_star<>Разблокировать на уровне %s звёзд
+guild_application<>Список приложений
+request_x<>Запрос %s
+accept<>Принять
+decline<>Отклонить
+guild_foundation<>Настройки гильдии
+recommended<>Рекомендуется
+enter_guild_name_id<>Введите имя Гильдии или ID
+found<>Создать
+guild_content<>Присоединитесь к гильдии или создайте гильдию сами, чтобы получать большое количество наград от её деятельности
+member_x<>Участник %s
+emblem<>Эмблема
+info<>Информация
+enter_guild_name<>Введите имя гильдии
+enter_guild_info<>Введите информацию о гильдии
+recruit<>Рекрутинг
+daily_boss<>Ежедневный Босс
+checkin<>Регистрация
+application<>Список приложений
+input_recruit_info<>Введите рекрутинговое сообщение
+kick<>Исключить
+demote<>Понизить
+promote<>Повысить
+season_reward<>Сезонная награда
+self_damage<>Ваш урон:
+guild_damage<>Урон гильдии:
+level_boss_x<>Босс Уровень: %s
+unlock_at_guild_x<>Разблокировать при уровне гильдии %s
+current_reward<>Текущая награда
+next_reward<>Следующая награда
+guild_log<>Журнал Гильдии
+stage_reward<>Награды за этап
+map_stage<>Карта {1}, этап {2}, сложность {3}
+need_input_code<>Введите код
+need_input_mail<>Введите адрес электронной почты для восстановления учетной записи
+input_code_fail<>Неверный код
+confirm_new_password_fail<>Ошибка подтверждения нового пароля
+need_input_new_password<>Введите новый пароль
+can_not_claim_reward<>Получено
+max_buy_turn_daily<>Максимальное количество покупок в день
+coming_soon<>Скоро
+limit_purchase_this_pack<>Вы совершили максимальное количество покупок на этот комплект
+member_kick_guild<>Участника исключили из гильдии
+failed_kick_member<>Ошибка исключения участника из гильдии
+login_current_account<>Войдите в текущую учётную запись
+member_role_changed<>Роль участника была изменена
+guild_sub_leader_reached_limit<>Количество вице-лидеров достигло лимита
+failed_change_member_role<>Ошибка изменения роли участника
+input_password_failed<>Неверный пароль
+input_user_name_failed<>Неверное имя пользователя
+enter_recruit_info_please<>Введите информацию по рекрутингу
+send_recruit_successful<>Сообщение по рекрутингу успешно отправлено
+fail_send_recruit_info<>Ошибка отправки сообщения по рекрутингу
+fail_get_data<>Ошибка получения данных
+fail_refresh<>Ошибка обновления
+player_joined_guild<>Игрок уже присоединился к гильдии
+guild_limit_member<>Количество участников достигло лимита
+need_permission_perform_action<>У вас нет разрешения совершать это действие
+failed_get_dungeon_stage<>Ошибка получения данных по состоянию подземелья
+send_request_successful<>Запрос успешно отправлен
+already_in_guild<>Вы уже являетесь членом гильдии
+please_enter_guild_name<>Введите имя гильдии
+create_guild_success<>Гильдия успешно создана
+create_guild_failed<>Ошибка создания гильдии
+upgrade_guild_success<>Информация о гильдии обновлена
+challenge_guild_dungeon_success<>Испытание Подземелье Гильдии - успешно
+guild_description_invalid<>Неверный формат описания
+failed_challenge_guild_dungeon<>Испытание Подземелье Гильдии - ошибка
+guild_description_bad_word<>Нельзя использовать запрещённые слова
+password_failed<>Неверный пароль
+try_again_few_seconds<>Попробуйте еще раз позже
+need_input<>Введите имя или ID Гильдии
+insert_least_one_hero<>Выберите хотя бы одного Героя
+change_success<>Удачи!
+email<>Email
+code_verify<>Проверочный код
+master_can_not_quit_guild<>Лидер не может покинуть гильдию
+sure_leave_guild<>Вы уверены, что хотите покинуть эту гильдию?
+have_left_guild<>Вы покинули гильдию
+need_level_mastery<>Вам нужно прокачать все Мастерства до уровня %s
+login_failed<>Ошибка входа
+boss_died<>Босс был повержен
+limit_level_x<>Атаковать невозможно, потому что уровень отличается больше чем на %s
+continue_facebook<>Войти через Facebook
+remove_friend_success<>Удалить успех!
+do_want_delete_mail<>Вы хотите удалить эту почту?
+can_not_claim_mail<>Ошибка получения почты
+send_success<>Отправить успех!
+claim_success<>Получить успех!
+claim_send_success<>Получить и отправить успех!
+can_not_claim_send<>Сердечки для получения и отправки недоступны
+do_want_delete_all<>Вы хотите удалить всё?
+add_friend_success<>Друзья добавлены
+hero_in_arena<>Герои на Арене
+hero_in_training<>Герои на самообучении
+require_level_x<>Требуется уровень %s
+help<>Помощь
+guild_name_contain_banned_word<>Неприемлемое имя гильдии
+guild_desc_contain_banned_word<>Неприемлемо описание гильдии
+selected<>Выбрано
+not_enough_x<>Недостаточно %s
+casino_shop<>Хранилище Желаний
+altar_shop<>Хранилище Гробницы
+guild_shop<>Хранилище Гильдии
+arena_shop<>Хранилище испытуемого
+want_to_buy<>Вы уверены?
+require_tavern<>Этот герой не соответствует требованиям квеста
+require_hero_star_x<>Требует %s* героя
+require_hero_faction_x<>Требует героя фракции %s
+require_hero_class_x<>Требе героя класса %s
+want_to_cancel_quest<>Вы хотите отменить этот квест?
+want_to_speed_up<>Вы хотите ускориться?
+not_enough_equipment<>Недостаточно снаряжения
+noti_full_hero<>Места для героев заполнены
+unlock_new_function<>Новая функция
+reset<>Сброс
+mastery_skill<>Навыки Мастерства
+need_reset_main_mastery<>Прежде всего необходимо перевести Высшее Мастерство в исходное состояние
+want_to_reset<>Вы хотите выполнить сброс?
+not_enough_resource<>Недостаточно ресурсов
+user_profile<>Профиль Пользователя
+fanpage<>Страница Facebook
+go_to_fanpage_notice<>Для получения дополнительной информации посетите наш веб-сайт
+want_to_switch_server<>Вы хотите переключить сервер?
+want_to_new_server<>Вы хоте зарегистрировать новый профиль на этом сервере?
+want_to_clear_data<>Вы хотите удалить данные?
+connecting_server<>Подключение к серверу...
+init_service<>Инициализация Службы ...
+init_data_request<>Инициализация Запроса на получение Данных ...
+init_resource_request<>Инициализация Запроса на получение Ресурсов ...
+download_asset_bundle<>Скачивание Набора Объектов
+next_scout<>Следующий Скаут в: %s
+summoner_can_view<>Считается, что фракция призывателей используется как любая другая фракция
+require_stage_x<>Очистить этап {1} {2}-{3} для разблокировки
+hero_info_max_level<>Герой достиг максимального уровня
+daily_quest<>Ежедневный квест
+hero_level_cap_to<>Максимальный уровень повышается до %s
+bonus_class<>Бонус за класс {1}
+bonus_faction<>Бонус за фракцию {1}
+bonus_class_faction<>Бонус за класс {1} и фракцию {2}
+free_gem<>Бесплатные Драгоценности
+skill_enhance<>Повысить навык
+level_cap<>Максимальный уровень
+how_many_purchase<>Введите номер {1}
+sell<>Продать
+vip_full<>VIP достиг максимального уровня
+copy_to_clipboard<>Скопировать в буфер обмена
+player_blocked<>Игрок уже заблокирован
+hero_fragment_title_star<>Фрагмент {1}* Героя
+hero_fragment_faction<>Фрагмент {1}* Героя {2}
+hero_fragment_name<>Фрагмент {1}
+hero_fragment_star<>Фрагмент {1}* Героя
+hero_fragment_star_faction<>Фрагмент {1}* Героя {2}
+hero_fragment_info<>Соберите {1} фрагментов, чтобы призвать Героя
+artifact_fragment_title_1<>Редкий Артефакт
+artifact_fragment_title_2<>Мифический Артефакт
+artifact_fragment_title_3<>Легендарный Артефакт
+artifact_fragment_title_4<>Легендарный Артефакт (Особый)
+artifact_fragment_title_5<>Бессмертный Артефакт
+artifact_fragment_title_6<>Бессмертный Артефакт (Особый)
+artifact_fragment_info<>Соберите {1} фрагментов, чтобы собрать случайный Артефакт
+require_level_stage<>Требуется Этап {2} {3}-{4} и Уровень {1}
+require_vip_or_stage<>Требуется VIP {1} или Этап {2} {3}-{4}
+require_vip_or_level_stage<>Требуется VIP {1} или Уровень {2} и Этап {4}-{5}
+achievement<>Достижения
+quest_tree<>Дерево квеста
+achievement_tittle_group_1<>Связь силы
+achievement_tittle_group_2<>Жизнь и Смерть
+achievement_tittle_group_3<>Стратегия призывания
+achievement_tittle_group_4<>Чрезвычайно трудное испытание
+achievement_tittle_group_5<>Прочее
+quest_tree_tittle_group_1<>Вход в Путешествие
+quest_tree_tittle_group_2<>Завоевание монстрами
+quest_tree_tittle_group_3<>Бесконечное испытание
+completed<>Завершён
+player_already_show_info<>Игро уже просматривал информацию
+in_progress<>В процессе
+new_password_is_last<>Дублирование пароля
+new_password_failed<>Ошибка подтверждения нового пароля
+chat_delay<>Отправьте сообщение ещё раз через %s секунд
+search_failed<>Ошибка поиска
+need_input_friend_id<>ID друга не может быть пустым
+send_failed<>Ошибка поиска
+warning_send_mail<>Отправьте письмо ещё раз через %s секунд
+mail_content<>Содержимое письма не может быть пустым
+max_hero<>Макс. Герой!
+enough_hero_material<>Недостаточно материалов для Героя!
+max_turn_bought<>Количество покупок достигло лимита
+hero_max_star<>Герой с максимальным количеством звёзд
+need_up_max_level<>Прежде всего герой должен достичь максимального уровня
+hero_is_training<>В процессе
+hour_x<>%sh
+min_x<>%sm
+smash_reward<>Награда за: Разбить
+refresh_x<>Обновить: %s
+potion_1<>Восстановить: HP %s
+potion_2<>Увеличить: Энергию %s
+potion_3<>Увеличить: HP %s и Энергию %s
+full_slot<>Все слоты
+want_to_use_potion<>Хотите использовать зелье?
+day_ago_format<>{0}д {1}ч назад
+hour_ago_format<>{0}ч {1}м назад
+min_ago_format<>{0}м {1}с назад
+second_ago_format<>{0}с назад
+tower_record_error<>Ошибка повтора записи Попробуйте другую
+require_vip_or_level<>Требует VIP {1} или Уровень {2}
+reach_limited_pack<>Достигли лимитированных комплектов!
+all_heroes_were_killed<>Все герои были повержены!
+use_id_format<>Лучше использовать формат ID
+guild_not_found<>Гильдия не найдена
+recommend_guild_failed<>Ошибка показа рекомендованных гильдий
+have_just_joined_guild<>Вы присоединились к гильдии
+boss_changed_successful<>Босс изменён успешно!
+select_boss_failed<>Ошибка выбора Босса!
+challenge_guild_boss_successful<>Испытание Босс Гильдии - успешно!
+challenge_guild_boss_failed<>Испытание Босс Гильдии - ошибка!
+guild_was_kicked<>Вас исключили из гильдии!
+check_in_successful<>Регистрация прошла успешно!
+restore_failed<>Ошибка восстановления!
+play_record_failed<>Ошибка записи. Попробуйте другую!
+need_clear_previous_stage<>Сначала нужно очистить предыдущий этап!
+map_cleared<>Завершён
+no_video<>Видео недоступно
+current_name<>Текущее имя
+product_not_exist<>Такого ID не существует!
+purchase_processing<>Переработка
+register_account_success<>Регистрация прошла успешно!
+new_pass_limit<>Ограничение %s символов
+new_pass_special<>Содержит особый символ
+confirm_pass_fail<>Ошибка подтверждения пароля!
+disconnect<>Отключено!
+dungeon_time_up<>Подземелье закрыто!
+change_language<>Вы хотите поменять язык на %s
+create_guild<>Вы хотите создать свою гильдию?
+want_block<>Вы хотите заблокировать?
+want_unblock<>Вы хотите разблокировать?
+want_delete_all_mail<>Вы хотите удалить все письма?
+want_refresh_tavern<>Вы хотите обновить таверну?
+remove_friend<>Вы хотите удалить этого друга?
+have_verified_email<>Вы подтвердили свою электронную почту?
+quit_game<>Вы хотите выйти из игры?
+want_refresh_shop<>Вы хотите обновить магазин?
+all_hero_died<>Все герои были повержены!
+resend<>Отправить заново
+input_code<>Введите код
+noti_code<>На вашу почту было отправлено сообщение!
+update<>Обновить
+raw_pack_1<>Горсть драгоценных камней
+raw_pack_2<>Груда драгоценных камней
+raw_pack_3<>Сумка драгоценных камней
+raw_pack_4<>Мешок драгоценных камней
+raw_pack_5<>Сундук драгоценных камней
+limited_pack_1<>Еженедельный набор железа
+limited_pack_2<>Еженедельный набор стали
+limited_pack_3<>Еженедельный набор бронзы
+limited_pack_4<>Еженедельный набор серебра
+limited_pack_5<>Еженедельный набор золота
+limited_pack_6<>Ежемесячный набор железа
+limited_pack_7<>Ежемесячный набор стали
+limited_pack_8<>Ежемесячный набор бронзы
+limited_pack_9<>Ежемесячный набор серебра
+limited_pack_10<>Ежемесячный набор золота
+smash_many<>Введите номер
+events<>События
+event_summon<>Призыв
+event_prophet_tree<>Орба провидца
+event_arena<>Арена
+event_wheel_of_fate<>Колесо Судьбы
+event_tavern<>Таверна
+event_collection<>Коллекция
+event_exchange<>Обмен
+event_bundle<>Набор
+event_hot_deal<>Горячие предложения
+event_prophet_tree_info<>Во время события, завершите необходимое число призываний в Древнее Древо для получения награды.
+event_wheel_of_fate_info<>Во время события, завершите необходимое число раундов в Колесо Судьбы для получения награды.
+event_collection_info<>Во время события, соберите необходимое число Героев для получения награды.
+event_tavern_info<>Во время события, завершите необходимое число квестов в Таверна для получения награды.
+event_summon_info<>Во время события, завершите необходимое число призываний в Призыв для получения награды.
+event_arena_info<>Во время события, завершите необходимое число игр на Арене для получения награды.
+event_bundle_info<>Во время события, вы можете купить ограниченные наборы.
+event_hot_deal_info<>Во время события, вы можете купить ограниченные наборы.
+gate<>Карта
+enemy<>Враг
+faction_restrain<>Сдерживание фракций
+faction_restrain_info<>Сдерживание фракций - даёт на {1} больше урона и увеличение точности на {2}
+round<>Раунд
+invite<>Пригласить
+name<>Имя
+stock<>Лимит
+select_guild_logo<>Выберите эмблему вашей гильдии
+member<>Участник
+master<>Лидер
+deputy<>Вице-лидер
+guild_notice<>Девиз гильдии
+season_end_in<>Сезон заканчивается в:
+stage<>Этап
+hall_of_fame<>Зал Славы
+floor<>Пол
+remove_all<>Удалить всё
+enemy_team<>Вражеская команда
+go<>Перейти
+save_point<>Точка сохранения
+next_stage<>Следующий этап
+attacker<>Атакующий
+defender<>Защитник
+forge_equipment<>Снаряжение кузницы
+upgrade_hero<>Прокачать героя
+summon_hero<>Призвать героя
+enter_redemption_code<>Ввести код искупления
+gift_code<>Подарочный код
+current_ranking<>Текущий ранг
+monthly_packs<>Ежемесячные комплекты
+raw_packs<>Комплекты гемов
+limited_packs<>Лимитированные комплекты
+total_reward<>Полная награда
+instant_reward<>Мгновенная награда
+weekly<>Ежемесячно
+monthly<>Ежемесячно
+premium_monthly<>Премиально ежемесячно
+free_acquire_video_reward<>Награда бесплатного получения видео
+limit_pack_per_week<>Ограничение %s комплектов/неделю
+limit_pack_per_month<>Ограничение %s комплектов/месяц
+lock<>Заблокировать
+edit_lock_heroes<>Редактировать заблокированных Героев
+back_to_current<>Обратное течение
+mastery_name<>{1} из {2}
+get_vip_point_to_reach<>Взять %s VIP очков для получения
+remove<>Удалить
+replace<>Заменить
+use<>Использовать
+add_one<>Добавить x0
+add_ten<>Добавить x10
+admin_mail<>Почта администратора
+moderator_mail<>Почта модератора
+merchant<>Купец
+enter_name_please<>Введите имя
+enter_chat<>Введите текст
+chat<>Чат
+join<>Присоединяйтесь
+please_wait_for_seconds<>Подождите %s секунд
+max<>Макс
+gold_mine<>Золотая Шахта
+friend_not_save_formation<>Этот друг не выставил группу защитников
+not_enough_quest_refresh<>Нет квестов для обновления
+do_you_want_use_resource<>Вы хотите использовать {1} {2}
+wanna_kick_member<>Вы хотите исключить этого участника?
+special<>Особый
+first_purchase<>Первая покупка
+account_limit_character<>Учетная запись должна содержать от {1} до {2} символов.
+hero_food_moon_title<>Луна
+hero_food_sun_info<>Используется для замены требуемого материала при развитии героев фракции Света/ Тьмы
+hero_food_sun_title<>Sat
+hero_food_moon_info<>Используется для замены необходимых материалов при развитии героев фракций: Огонь, Вода, Природа и Бездна
+boss<>Босс
+verify_email_success<>Подтвердить успех
+level_up_reward<>Награда - повышение уровня
+no_tavern_quest<>Квест на таверну отсутствует
+season_open_in<>Сезон открывается в:
+cleared<>Очищено
+claim_reach_level<>Немедленно получить награду Idle для достижения необходимого уровня
+more_time_reach_level<>Требуется на {1} больше для достижения уровня {2}
+claim_to_not_max<>Не забудьте получить Idle награду прежде достижения лимита
+to_reach_level_x<>Требуется {1} для достижения уровня {2}
+ranking_1<>Железо II
+ranking_2<>Железо I
+ranking_3<>Бронза
+ranking_4<>Серебро
+ranking_5<>Золото
+ranking_6<>Платина
+ranking_top_11<>Бриллиант
+ranking_top_1<>Легенда
+ranking_top_2<>Эксперт
+ranking_top_3<>Испытуемый
+ranking_top_6<>Магистр
+top_x<>Лучшие {1}
+top_x+<>Лучшие {1}+
+top_x_x<>Лучшие {1} - Лучшие {2}
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>Ранг отсутствует
+version_outdate<>Your version %s is not up to date!
+role<>Роль
+ago<>назад
+preload_resources<>Предварительно загружаемые текстуры
+download_resource_complete<>Загрузка ресурсов завершена
+load_user_data<>Загрузка пользовательских данных...
+start_game<>Начать игру
+under_maintenance<>Сервер на техническом обслуживании
+no_data<>Данные отсутствуют
+change_leader<>Сменить лидера
+set_as_leader<>Назначить лидером
+guild_member_list<>Список участников
+confirm_change_leader<>Вы уверены, что хотите назначить {1} в качестве {2}?
+unblock_training_condition<>Вы можете сменить героя для обучения после получения
+quick_battle<>Быстрая Битва
+quick_battle_info<>Вы получите награду Idle в %s минут стоимостью Баллы EXP Персонажа, Баллы EXP Заклинателя, Золото и предметы.
+monthly_reward<>Месячная награда
+max_quick_battle_turn<>Максимальная скорость раундов битвы
+event_has_ended<>Событие завершилось
+archived<>Архивное
+more_items<>На %s больше предметов
+purchase_items<>Предметы для покупки
+limited_pack_desc_1<>Выбор проницательного инвестора
+limited_pack_desc_2<>Этот выбор увеличит вашу славу
+limited_pack_desc_3<>Этот выбор принесёт неожиданную выгоду
+limited_pack_desc_4<>Рискованные, но в то же время гениальные инвестиции
+limited_pack_desc_5<>Этот выбор принесёт вам славу чемпиона
+limited_pack_desc_6<>Завоеватель является одним из основных вариантов для выбора
+limited_pack_desc_7<>Самое лучше капиталовложение
+limited_pack_desc_8<>Эффективность этих инвестиций сразу же подтвердится
+companion_buff<>Поклонник
+total<>Итого
+when_you_login<>При авторизации
+claim_each_day<>Каждый день на %s дней
+day<>День (дни)
+speed_up_gold<>Увеличить скорость Золото
+speed_up_hero_exp<>Увеличить скорость Баллы EXP Персонажа
+speed_up_summoner_exp<>Увеличить скорость Баллы EXP Заклинателя
+speed_up_gold_info<>Мгновенно приобретите Золото на %s часов. Активируйте на экране Кампания
+speed_up_hero_exp_info<>Мгновенно заработайте %s часов Баллы EXP Персонажа\nАктивируйте его на экране Кампания
+speed_up_summoner_exp_info<>Немедленно получить %s часов стоимостью Баллы EXP Заклинателя\nАктивируйте его на экране Кампания
+all_received<>Все полученные
+attack_success<>Атака - успех
+attack_fail<>Атака - поражение
+defense_success<>Защита - успех
+defense_fail<>Защита - поражение
+revenge<>Месть
+hide<>Скрыться
+season_end_reward<>Окончательная награда сезона
+champion<>Чемпион
+reward_area_end<>Откройте почту для получения награды
+go_to_mail<>Перейдите в почту
+arena_point_reset<>Количество очков вашего рейтинга было сброшено до %s
+rate_x<>рейтинг %s
+season_end<>Завершение сезона
+highest_ever<>Достигнут самый высокий
+random_item_pool<>Позиция списка
+next_refresh<>Следующее обновление силы в:
+community<>Сообщество
+guild_log_join<>{0} присоединилось к нашей гильдии
+guild_log_leave<>{0} покинуло нашу гильдию
+guild_log_assign_leader<>{0} назначил {1} лидером гильдии
+guild_log_assign_sub_leader<>{0} назначил {1} вице-лидером
+guild_log_kick_out<>{0} был исключен из гильдии
+free_refresh<>Бесплатное обновление в:
+flash_sale<>Распродажа
+rate_title<>Нравится эта игра?
+not_rate_contain<>Мы извиняемся за полученные вами неприятные ощущения Посетите страницу наших поклонников и оставьте свой отзыв там. Это очень поможет нашей игре становиться лучше и лучше.
+transaction_mail<>Сообщения о транзакциях
+weekly_packs<>Еженедельные комплекты
+subscription_packs<>Пакеты Подписки
+rate_content<>Понравилась Summoner Era? Простимулируйте нашу команду рейтингом в 5-звезд
+rate<>Укажите рейтинг прямо сейчас!
+not_rate<>Нет, спасибо
+go_to_fanpage<>Перейти на страницу поклонников
+notice_watch_ads<>Не хотите ли посмотреть рекламу за награду?
+play_video<>Запустить видео
+init_proceed_failed<>Оформление заказа на покупку не может продолжаться с использованием учётной записи магазина. Проверьте ваш счёт и попробуйте ещё раз
+start_free_trial<>Начните бесплатный ознакомительные период использования на %s дней
+trial_available<>Благодарим за начало бесплатного ознакомительного использования
+warning_flash_sale<>Этот комплект появляется только один раз. Вы уверены, что не хотите воспользоваться этим предложением?
+warning_download_data<>Загрузите {1}Мб данных.\n<color=#{2}>Рекомендуется соединение по Wi-Fi</color>
+not_enough_space_memory<>Здесь не хватает свободного места для загрузки данных. Для продолжения необходимо %sМб свободного места.
+retry<>Еще раз
+download<>Скачать
+event_login<>Авторизация события
+event_login_info<>Во время события, соберите необходимое число авторизаций для получения награды.
+tip_1<>При сбросе или использовании Героев в качестве материала для эволюции будет возвращено 100% материалов, используемых для повышения уровня этих Героев, и 80% материалов для улучшения рун.
+tip_2<>Замечать! Герои с низкими звёздами (1-3) не бесполезны. Развиваться и довести их до ваших главных героев как чрезвычайная пищи.
+tip_3<>Характеристики героев базового уровня будут заметно увеличены после развития.
+tip_4<>Пожалуйста не забудьте, что необходимо достичь наивысшего рейтинга на Арене. Вы можете получать много «Очков Мастерства» в качестве еженедельной награды за рейтинг.
+tip_5<>Обучение героя - лучший путь для увеличения уровня героев на 3 звезды или ниже.
+tip_6<>Не забудьте зарегистрировать учётную запись и подтвердить адрес электронной почты для вашей безопасности.
+tip_7<>При сбросе или использовании Героев в качестве материала для эволюции будет возвращено 100% материалов, используемых для повышения уровня этих Героев, и 80% материалов для улучшения рун.
+notice_upgrade_stone_converting<>Ранее вы уже преображали камень Вы уверены, что хотите продолжить прокачку?
+day_only<>Сут.
+login_event_progress<>Процесс авторизации %s
+notice_switch_all_summoner<>Вы хотите поменять всех призывателей?
+not_enough_point<>Недостаточно очков
+event_arena_ranking<>Рейтинг Арены
+event_arena_ranking_info<>Во время события, необходимо повысить количество очков вашего рейтинга для получения награды. Подсчёт результата события проводится в соответствии с рейтингом последнего завершённого сезона и будет отправлен по почте.
+notice_reset_hero<>Общее количество использованных ресурсов возвращаемых после сброса зависит от уровня героя.
+guild_hall<>Зал Гильдии
+guild_hall_info<>Это место, в котором проводятся административные работы и деятельность участников гильдии.
+join_now<>Присоединяйтесь сейчас
+are_you_sure<>Вы уверены?
+registered_member<>Зарегистрированный пользователь
+phase_message_tittle<>Помощник гильдии
+message_phase_1<>Необходимо по крайней мере {1} зарегистрированных участников чтобы присоединиться к {2} раундам
+message_phase_2<>Your guild can't join {1} because defense formation hasn't been set up. Only Leader & Vice-Leader could set up.
+change_formation<>Изменить порядок
+change_defender<>Сменить защитника
+guild_leader_benefit<>Только лидер Гильдии может регистрироваться для Войны Гильдий
+notice_evolve_hero_converting<>Этот Герой был преобразован Вы уверены, что хотите развивать их?
+unlock_previous_stage<>Разблокировать предыдущий этап
+missing_join_stage<>Вы упустили шанс присоединиться к этой Гильдии Подземелье
+deal_damage_to_get_reward<>Нанесите урон для получения редких наград.
+only_leader_can_change_boss<>Только Лидер Гильдии может менять Босса
+total_damage<>Общий урон
+event_release_festival<>Запуск события Фестиваль
+event_release_festival_info<>Во время события, когда когда количество игроков на сервере достигает определённой величины, все игроки на этом сервере получат награду.
+player_join_server<>Игроки заходят на сервер
+skip_batte<>Пропустить битву
+summoner_locked<>Призыватели не были разблокированы
+member_has_registered<>Участники зарегистрировались
+not_eligible_to_join<>Не подходят для участия
+guild_war_phase_1_name<>Стадия регистрации
+guild_war_phase_2_name<>Стадия настройки защиты
+guild_war_phase_3_name<>Стадия битвы
+random_boss<>Рандомный босс
+try_time<>Время попробовать
+check_out_defenders<>Check out defenders
+limited_pack_11<>Ежемесячный Платиновый Пакет
+limited_pack_desc_11<>This investment's benefits will immediately be proven
+event_shop<>Магазин души
+mission<>Событие Миссия
+exchange<>обмен
+not_enough<>недостаточное
+limit_x<>Limit %s 
+soul_shop<>Магазин души
+hidden_deal<>Скрытая сделка
+owned<>Принадлежит
+guild_owned<>Гильдия принадлежит
+not_in_guild<>Ты не в гильдии
+new<>новый
+out_of_turn<>Вне очереди
+event_exchange_1<>Обмен Героев
+event_exchange_1_info<>Чтобы выполнить миссию, соберите необходимое количество Материалов для обмена Героев.
+event_exchange_2<>Обмен предметами
+event_exchange_2_info<>Чтобы выполнить миссию, соберите необходимое количество материалов для обмена предметов.
+event_exchange_3<>Таинственный Торговец
+event_exchange_3_info<>Вы можете купить интересные вещи у Торговца.
+profit<>прибыль
+tilion_nick_name<>Лучший целитель
+donate<>дарить
+guild_donate_history<>Гильдия пожертвует историю
+defronowe_nick_name<>Безумный убийца
+first_time_reward_desc<>Получите этого героя, когда вы делаете первый пополнение
+first_time_reward<>1st TopUp
+go_to_shop<>Идти в магазин
+guild_donate_help<>Guild donate help
+guild_donate_title<>Guild donate
+starter_pack<>Стартовый набор
+owned_x<>Владелец: {1}
+starter_pack_name_1<>Оборудование  
+starter_pack_desc_2<>Дилер по урону AOE 
+starter_pack_desc_4<>Один выстрел один труп
+starter_pack_desc_3<>Сжигание всех врагов 
+extra<>бонус
+quick_battle_ticket_2_0<>{1} Hour - speed up Gold
+quick_battle_ticket_2_10<>{1} Hour - speed up MagicPotion
+quick_battle_ticket_8_0<>{1} Hour - speed up Exp
+event_type_20<>Event Guild Quest
+event_type_20_info<>You need to complete the milestone in both Trophy gold and Trophy Silver to get the reward
+hero_lock_in_inventory<>Hero is locked in Inventory
+hero_in_guild_war<>Hero is in Guild War
+require_vip<>Require Vip %s
+received<>Получил
+final_reward<>Финальная награда
+day_x<>День %s
+buy_item_quest_name<>Купить вещи
+event_server_open<>Misiunea Rookie
+item_loot<>Item Loot
+done<>Законченный
+support<>Support
+check_game_version<>Check Game Version
+check_game_logic<>Check Game Logic
+check_game_resources<>Check Game Resources
+check_resources_config<>Check Resources Config
+go_to_store<>Go to store
+switch_all<>Switch All
+server_open<>Misiunea Rookie
+login_summoner_era<>Login Summoner Era
+login_facebook<>Login Facebook
+login_google<>Войти через Google
+login_apple<>Login Apple
+binding_summoner_era<>Binding Summoner Era
+binding_facebook<>Binding Facebook
+binding_google<>Войти через Google
+binding_apple<>Binding Apple
+binded<>Binded
+noti_binding<>The account is a guest account, bind it to avoid losing your account
+mail_verified<>Recovery email: %s
+min_donate_event_guild_quest<>Min donation {1} {2} and {3} {4}
+player_banned<>Your account has been banned due to suspicious activity. Kindly contact to our customer service for more details.
+scroll_monthly<>Scrolls Card
+sale_off<>Sale Off
+hot<>Hot
+level_pass<>Level Pass
+unlock_level_pass<>Unlock Premium
+free_reward<>Free Reward
+premium_reward<>Premium Reward
+activated<>Unlocked
+reward_claimed<>Received
+summoner_exp<>Summoner EXP
+tap_to_claim<>Tap to claim
+growth_pack_lock<>After purchasing, reach the specified levels to claim massive amount of valuable rewards.
+noti_register<>Вы хотите зарегистрировать новую учетную запись?
+skip_cut_scene<>Skip cut scene
+turn_on_cut_scene<>Turn on cut scene
+select_hero_evolve<>Select hero to evolve %s
+noti_confirm_resource<>Вы уверены, что будете потреблять эти ресурсы сейчас?
+noti_close_multi_evolve<>Если вы подтвердите уход сейчас, вам придется пополнить запасы Героев в следующий раз.
+server_maintain_in_x<>Server maintenance will be implemented in next %s
+empty_hero_evolve<>Please select Hero to evolve
+multi_evolve<>Multi Evolve
+potion<>Potions
+collection_bag<>Buffs
+empty<>Пустой
+remaining<>Оставшийся
+unpack_resources<>Unpack Resources
+choose<>Выбирать
+hero_alive<>Этот герой все еще жив.
+hp_full<>The hero is full health
+power_full<>The hero is full power
+guild_war_season_ranking<>Рейтинг сезона войны гильдий
+guild_war_member_setup_progress<>Недостаточно зарегистрированного участника
+guild_war_member_setup_successful<>Регистрация участника для участия в войне гильдий прошла успешно
+guild_war_setup_can_be_modified<>Все формации строятся. Только руководитель и вице-руководитель могли сменить до {1}. Снаряжение героя во всех формациях не может быть изменено во время боя.
+swap_member_successful<>Заменить участника успешно
+ask_for_save_the_change_guild_war_defenders<>Вы только что сменили состав защиты. Хотите сэкономить на следующий раз?
+swap_member<>Swap member
+win<>Win
+your_guild_get<>Your guild get %s
+min_hero_dead_requirement<>Win with at least %s hero alive
+max_round_requirement<>Win in %s round(s)
+save_successful<>Сохраните успешно
+power<>Combat Power
+point_gained<>Point gained
+not_enough_member_registered<>Unable to join due to insufficient number of registered members.
+guild_war_point<>Guild War Ranking Point
+guild_war_season_end<>The new season of guild war is coming soon. Prepare yourself to conquer new enemies.
+guild_war_register_notification<>Castle Defense formation has just been changed by another person
+require_event_rate_up_point<>Event rate up point is not enough to summon
+summon_rate_up<>Guaranteed in %s Summon(s)
+guaranteed_requirement<>Rate-up Event Point
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>Summoner Level
+daily_packs<>Ежедневные пакеты
+5_star_hero_reward<>Награда героя 5 звезд
+clear_stage_to_get_reward<>Пройдите этот этап, чтобы получить награды в конце сезона.
+current_season_reward<>Current season reward
+artifact_fragment_title_7<>Immortal Artifact (Water)
+artifact_fragment_title_8<>Immortal Artifact (Fire)
+artifact_fragment_title_9<>Immortal Artifact (Abyss)
+artifact_fragment_title_10<>Immortal Artifact (Nature)
+artifact_fragment_title_11<>Immortal Artifact (Light)
+artifact_fragment_title_12<>Immortal Artifact (Dark)
+guild_market<>Guild Store
+market_upgrade_describe<>You will need the following resources to upgrade
+attack_log<>Атака
+defense_log<>Защита
+attack_count<>Attack Count
+special_offer<>горячая Сделка
+master_blacksmith<>искусный кузнец
+your_summoner_name<>Введите ваше имя Summoner
+when_upgrade<>Улучшение статистики
+material_refund<>Material Refund
+arena_pass<>Arena Pass
+daily_quest_pass<>Daily Quest Pass
+arena_pass_desc<>Очки пропуска арены можно получить, участвуя в арене.
+daily_quest_pass_desc<>Daily Quest Pass Point can be acquired from daily quest rewards.
+has_not_skin<>У этого героя нет скинов
+select_hero<>Select Heros
+exit_guild<>Exit Guild
+event_golden_time_name<>Событие Середина осени
+event_golden_time_desc<>Во время основного события игроки получают фонарь и Лунный торт в награде Кампания за бездействие. Используйте их, чтобы играть в событие и получать награды.\nфонарь и Лунный торт - валюта события середины осени. Они исчезнут после окончания периода события.
+event_feed_beast_name<>Лунный торт Пир
+event_feed_beast_desc<>Отдайте Лунный торт Святому Зверю.\nПолучайте эксклюзивную награду за каждую новую форму эволюции.
+event_gem_box_name<>Ночь полнолуния
+event_gem_box_desc<>Получите награду в период события.\nЕще фонарь, больше наград.
+feed<>Кормить
+source_money_type_180<>∙ Награда за бездействие кампании\n∙ праздник середины осени\n∙ Ночь полнолуния
+source_money_type_181<>∙ Награда за бездействие кампании\n∙ праздник середины осени
+select_buff<>Выберите Buff
+drop_time<>13 дней с начала мероприятия
+golden_time_drop_info<>∙ 1 фонарь: 40 (sec)\n∙ 1 Лунный торт: 240 (sec)
+event_midautumn_specialoffer<>праздник середины осени
+event_midautumn_checkin<>Фестивальный заезд
+event_midautumn_exchange_name<>Фонарь Обмен
+event_midautumn_exchange_desc<>Соберите Фонарь и обменяйте неограниченные награды ниже
+no_limit<>Безлимитный
+mid_autumn_offer_1<>Счастливый Фонарь
+mid_autumn_offer_2<>Веселый лунный пирог
+mid_autumn_offer_3<>Киноварь Цветение
+item_exchange<>Обмен предметов
+random_reward<>Случайная награда
+not_own_this_skin<>Еще не владею этим скином
+arena_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+daily_quest_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+popup_context_need_resource<>Lack of resources. Collect these & come back.
+warning_you_need_more_resources<>Недостаточно ресурсов. Нужно больше
+town_center<>Основное Строительство
+turret<>Турель
+event_golden_time_halloween_name<>Время Хэллоуина
+event_golden_time_halloween_desc<>Соберите Игральная кость и Тыква, чтобы обменять награды. Предметы Хэллоуина исчезнут после окончания события.\nЗа 12 часов до окончания мероприятия Тыква перестанет падать в свободный сундук.
+source_money_type_210<>∙ Кампания Награда за бездействие\n∙ Фестивальные предложения\n
+source_money_type_211<>∙ Кампания Награда за бездействие\n∙ Фестивальные предложения\n∙ {3}\n
+drop_time_halloween<>13 дней с начала мероприятия
+golden_time_halloween_drop_info<>∙ 10 Тыква: {0} (s)
+dice_title<>Призрачная игра
+dice_guide<>Собери и брось Игральная кость - получи классные призы.\nПодробности можно найти в Хэллоуинской миссии.
+event_halloween_exchange_name<>Дьявол Торговля
+event_halloween_exchange_desc<>Не пропустите Тыква. Обменивайте награды только на Хэллоуин.\nСоберите больше в {1}. Тонны наград, которые вы хотите получить.
+halloween_daily_checkin<>Фестивальный заезд
+event_halloween_specialoffer<>Фестивальные предложения
+halloween_purchase_1<>Джек-фонарь
+halloween_purchase_2<>Пророческие кости
+halloween_purchase_3<>Дух смерти
+roll<>Рулон 
+lap_reward<>Бонусный раунд
+lap_x<>Круг %s
+event_halloween_dice<>Бросок костей
+hallo_ween<>Halloween
+next_free<>Next rewards
+lap_completed<>Круг завершен
+black_friday_remain_x<>Карта действительна: %s
+black_friday_gem_pack<>МАГАЗИН ЧЕРНОЙ ПЯТНИЦЫ
+event_card_black_friday<>Карта подписки
+event_card_gem_pack<>Обмен драгоценных камней
+black_friday_card_content<>Входите в систему каждый день в течение 7 дней, чтобы получить ежедневное вознаграждение
+black_friday_card<>ЧЕРНАЯ ПЯТНИЧНАЯ КАРТА
+black_friday<>Black Friday
+do_you_want_to<>Please confirm to use
+reset_this_slot<>to reset this slot?
+raised_list<>Поднятый список
+raise_hero_describe<>Выберите героя, которого хотите усилить, в повышенном списке. Их уровень будет повышен до самого низкого уровня Героя Могучей Пятерки ниже.
+describe_unbinding_raise_level<>Отмена привязки героя из этого слота вернет поднятый уровень к исходному уровню. Этот слот будет доступен после
+hero_in_pentagram<>Hero is one of the Mighty Five
+hero_in_raise_level<>Hero is in Raised List
+hero_in_ancient_tree<>Hero is in Ancient Tree
+need_to_select<>You need to select a hero
+same_hero_id<>This hero has the same Hero ID with the other hero in Raised List
+revert_to<>Revert to
+binding_sungame<>Binding Sungame
+login_sungame<>Login Sungame
+open_slot_before<>Please open the previous slot first
+on_cooldown<>Остывать
+unlock_slot_success<>You've just opened extra slot
+tower<>Tower 
+defense_stage_reward<>Instant Reward
+failed<>Failed
+success<>Success
+require_login_sungame_to_purchase<>You need to login by Sungame account to occur this transaction
+event_shop_name<>ФАБРИКА СЛАДОСТЕЙ
+event_frosty_ignatius<>Морозный Игнатий
+event_exclusive_offer<>Эксклюзивное предложение
+event_xmas_daily_checkin<>Jingle Bells Checkin
+event_golden_time<>ПОЛНЫЙ ПОДАРКОВ
+event_xmas_exchange_desc<>Обменяйте леденцы на подарки.
+xmas_purchase_1<>счастливого Рождества
+xmas_purchase_2<>Веселое Рождество
+xmas_purchase_3<>Необычное Рождество
+xmas<>Рождество
+need_login_by_sungame<>You need to login by Sungame account
+binding_success<>Связывание успеха
+full_of_gift_name<>МЕШОК САНТА-КЛАУСА
+full_of_gift_desc<>Откройте мешок Санта-Клауса, чтобы получить удивительные подарки.
+drop_time_xmas<>13 дней с начала мероприятия
+full_of_gift_drop_info<>1 мешок Санта-Клауса выпадает каждые 3600 секунд.
+reward_pool<>Ринг-Дин-Донг
+completed_level_x<>Хорошая работа! Вы завершили уровень проходят %s 
+need_reload_data<>Нужна перезагрузка данных
+need_set_formation_road_x<>По крайней мере один герой требуется для дорожных %s
+wave_x<>Волна %s
+happy_new_year<>С новым годом
+new_year_golden_time_name<>Радостный момент
+new_year_golden_time_desc<>Собирайте открытки, чтобы сыграть в Lucky Wishes и выиграть суперпризы. Открытки можно получить в разделе «Награда за бездействие».
+drop_time_new_year<>13 дней с начала мероприятия
+event_new_year_card<>Карта благословения
+new_year_remain_x<>Вы будете постоянно получать вознаграждение следующего %s дней.
+event_new_year_card_content<>Входите в систему каждый день в течение 14 дней, чтобы получить ежедневное вознаграждение
+event_new_year_lottery<>Удачные пожелания
+event_new_year_exchange<>прощание со старыми
+new_year_golden_time_drop_info<>Перезарядка дропа: %s сек. Максимальное количество собранных открыток зависит от максимального количества часов простоя сундука.
+lottery_title<>Удачные пожелания
+source_money_type_230<>Открытка
+event_ignatius_name<>FURY IN FREEZE
+event_ignatius_desc<>Вызов Супер Босс - Морозный Игнатий, чтобы получить достойные призы
+highest_damage<>Самый высокий урон
+new_year_card_title<>КАРТА БЛАГОСЛОВЕНИЯ
+xmas_daily_checkin_title<>JINGLE BELLS CHECKIN
+event_xmas_golden_time_name<>полная подарков
+event_xmas_shop_name<>кондитерская фабрика
+hero_linking_description<>Разверните {0} следующих героев
+select_hero_for_linking<>Подходящие герои
+friend_hero_support<>Поддержка Дружба Предложить
+hero_linking_description_2<>Развертывание {0} Герои с {1} звезда
+time_to_move_x<>Время осталось переключить герой:
+star_hero<>звезда
+remove_hire_success<>Успех Удалить герой из Linking
+hire_success<>Успешно разверните героя для связи
+my_support_hero<>Изменить поддерживаемого героя
+require_unique_hero_id<>Выбран этот герой или его улучшение.
+describe_hero_for_hire<>Select a hero for supporting friends.
+require_at_least_one_your_hero_in_linking<>Выберите героя для поддержки друзей.
+data_updated<>Данные обновлены.
+feature_maintain<>Функция находится на обслуживании.
+hero_in_support_hero_linking<>Этот герой находится в списке поддерживаемых героев.
+hero_in_linking<>Этот герой находится в Linking Feature.
+hero_support_for_friends<>Ваш список поддерживающих героев
+feature_available_in_s<>Эта функция будет доступна в %s
+chest<>Cундук
+loose<>Поражение
+event_lunar_new_year_login<>Весенний бутон Сбор урожая
+event_lunar_new_year_login_title<>ВЕСЕННИЙ БУТОН СБОР УРОЖАЯ
+lunar_path_dice_title<>ПРОЦВЕТАЮЩИЙ ПРОСПЕКТ
+lunar_path_dice_desc<>Красный кубик можно было получить в Первый квест и купить за драгоценные камни. Бросив Красный кубик, вы получите 5 Амулет, а ваша гильдия получит 1 очко события.
+lunar_path_quest_title<>ПЕРВЫЙ КВЕСТ
+lunar_path_quest_desc<>Выполняйте ограниченные по времени квесты, чтобы получить бонус Красный кубик. Задания сбрасываются ежедневно в течение времени события.
+require_chap_boss<>Требуется уровень Изгнание дьявола %s
+new_year_golden_time_title<>РАДОСТНЫЙ МОМЕНТ
+event_lottery_title<>УДАЧНЫЕ ПОЖЕЛАНИЯ
+event_new_year_exchange_title<>ПРОЩАНИЕ СО СТАРЫМИ
+event_lunar_path_shop<>Бог богатства магазин
+event_lunar_path_exchange_name<>БОГ БОГАТСТВА МАГАЗИН
+event_lunar_path_exchange_desc<>Соберите Амулет, чтобы обменять награды. Необходимо достичь соответствующего уровня Изгнать дьявола, чтобы разблокировать соответствующие подарки.
+event_lunar_path_quest<>Первый квест
+lunar_new_year<>Лунный Новый год\n
+lunar_path_dice<>Красный кубик
+lunar_new_year_path<>Процветающий проспект
+event_lunar_path_boss<>Изгнать дьявола
+event_lunar_path_boss_title<>ИЗГНАТЬ ДЬЯВОЛА
+event_lunar_path_boss_desc<>Боритесь со злом, получайте награды. Со злом можно было бороться только тогда, когда игроки вступали в гильдию.
+finish<>Конец
+event_lunar_new_year_exchange<>Счастливые деньги
+event_lunar_new_year_exchange_title<>СЧАСТЛИВЫЕ ДЕНЬГИ
+event_lunar_new_year_exchange_desc<>Используйте Красный конверт для обмена подарками
+event_lunar_elite_summon<>элита Призвать
+lunar_path_purchase_1<>Достаток Лунный Новый год
+lunar_path_purchase_2<>Мирный лунный Новый год
+lunar_path_purchase_3<>Лунный Новый год процветания
+event_lunar_path_bundle<>Весенний шоппинг
+golden_time_lunar_new_year<>Весенний фестиваль
+golden_time_lunar_new_year_name<>ВЕСЕННИЙ ФЕСТИВАЛЬ
+golden_time_lunar_new_year_desc<>Соберите Красный конверт, чтобы обменять награды. Чем больше Красных конвертов, тем больше подарков.
+drop_time_lunar_new_year<>13 дней с начала мероприятия
+golden_time_lunar_new_year_drop_info<>Красный конверт выпадает каждые 1200 секунд.
+source_money_type_243<>Получено в награде за кампанию
+free_summon<>Свободное Призвать в
+select_elite_summon_wish<>Список элитных героев призыва
+gem_summon<>поворот остаются
+need_summon_more<>Гарантированно получить в следующем
+event_lunar_new_year_bundle<>Дары весны
+event_lunar_new_year_bundle_title<>ПОДАРКИ ВЕСНЫ
+event_lunar_new_year_bundle_desc<>Во время событий, приобрести эти пакеты, чтобы получить драгоценные предметы.
+summon_more_to_gain_reward<>Призвать один больше времени, чтобы получить награду желания
+valentine_checkin<>Свидание в слепую
+valentine_checkin_title<>СВИДАНИЕ В СЛЕПУЮ
+valentine_checkin_des<>Любовь не должна быть упущена. Войдите полностью, чтобы получить подарок любви.
+valentine_love_challenge<>Купидона вызов
+valentine_love_challenge_title<>ВЕЧНАЯ ЛЮБОВЬ
+valentine_love_challenge_des<>Сразитесь с боссом и покажите, насколько сильна любовь. Вы получите достойные награды.
+valentine_store<>Романтический подарок
+valentine_store_des<>Почему такой приятный человек, как ты, не купит эти подарки?
+event_valentine_open_card<>Любовная викторина
+event_valentine_open_card_title<>ЛЮБОВНАЯ ВИКТОРИНА
+event_valentine_open_card_des<>Используйте Шоколад Разблокировка штук Любовная викторина, чтобы получить желаемый подарок. Выполните вторую главу Любовная викторина, чтобы получить Entia кожу.
+valentine<>Валентина
+event_lunar_skin_bundle<>Королева племени драконов
+event_lunar_skin_name<>Longmu Arryl
+select_wishing_reward_for_round<>Во-первых, выберите желаемый подарок главы %s
+select_card_wish_list<>Список желаний
+item_lock<>Завершите предыдущую главу, чтобы разблокировать
+unlock_round<>Пожелания главы %s
+need_select_card_wish<>Пожалуйста, сначала выберите желаемую награду.
+max_round<>Любовь Викторина была решена.
+item_not_select<>Вы получили этот товар.
+round_x_wishing_reward<>Список наград главы %s
+select_round<>Available Wishlist
+social_tab<>Сообщество
+social_tab_title<>СООБЩЕСТВО
+social_tab_des<>Спасибо, что провели время с Summoners Era. Присоединяйтесь к нашему социальному каналу, чтобы получать последние обновления. Вас ждет огромное количество активностей и подарков.
+social_reward_desc<>Посетите наше сообщество и получите %s впервые.
+can_not_claim<>Ресурсы эксплуатируются.
+in_use_skill<>В использовании
+use_skill<>Использовать
+detail<>Деталь
+next_wave<>Следующая волна
+stage_record<>Предложение игрока
+wave_x_record<>Wave %s Result
+need_upgrade_main_construction<>Уровень Башни не выше уровня Основного Строения.
+player_stage_record<>Ваша война
+price_open_card_x<>Каждое открытие стоит %s
+new_hero<>Приветствуйте нового героя 
+new_hero_quest_2<>Приветственная миссия 
+select_hero_all_formation<>В каждом составе нужен хотя бы один герой 
+arena_team_shop<>Рыцарский магазин
+arena_desc<>Одиночный бой 
+arena_3v3_desc<>Командные матчи 
+team<>Состав
+defense_your_team<>Определить 
+defeat<>Поражение
+victory<>Победа
+do_you_want_save_formation<>Вы не спасли свою команду. Вы хотите его сохранить? 
+hero_in_arena_team<>Герой находится в Военная арена.
+new_hero_bundle_title<>СИНЕРГЕТИЧЕСКИЙ ПАКЕТ 
+event_merge_server_quest_tittle<>МИССИЯ БЫСТРОГО СТАРТА
+event_merge_server_quest_desc<>Благодаря событию слияния серверов вам будет доступно множество мероприятий и подарков. 
+merge_server_quest<>Миссия быстрого старта
+merge_server_check_in<>7-дневный Unite
+merge_server_checkin_title<>7-ДНЕВНЫЙ UNITE
+merge_server_exchange<>Сервер слияния Exchange
+merge_server_bundle<>Дополнение Пакет
+merge_server_accumulation<>Точка накопления
+event_merge_server<>Слияние серверов
+event_merge_server_accumulation_tittle<>ТОЧКА НАКОПЛЕНИЯ
+event_merge_server_accumulation_desc<>Complete Миссия быстрого старта и получить Union Point, чтобы получить вознаграждение.
+event_merge_server_exchange_title<>СЕРВЕР СЛИЯНИЯ EXCHANGE
+event_merge_server_exchange_desc<>Эти предметы очень помогут вам на новом сервере.
+new_hero_summon<>Легендарный призыв 
+new_hero_spin<>Лестница очарования
+rose_spin<>ЛЕСТНИЦА ОЧАРОВАНИЯ 
+review_skin<>Предварительный просмотр героя 
+new_hero_checkin_title<>БЛАГОСЛОВИ НОВОГО ГЕРОЯ
+noti_binding_account<>Вы играли некоторое время, не связывая свой счет. Чтобы избежать потери данных, почему бы вам не привязать свою учетную запись сейчас? 
+binding_account_now<>Ссылка
+hero_food_faction_info_5<>Используется для замены необходимых материалов при развитии героев фракций: Огонь, Вода, Природа и Бездна
+hero_food_faction_title_11<>Луна (Вода)
+hero_food_faction_info_11<>Используется для развития героев фракции Вода 
+hero_food_faction_title_12<>Луна (Огонь)
+hero_food_faction_info_12<>Используется для развития героев фракции Огонь 
+hero_food_faction_title_13<>Луна (Бездна)
+hero_food_faction_info_13<>Используется для развития героев фракции Бездна 
+hero_food_faction_title_14<>Луна (Природа)
+hero_food_faction_info_14<>Используется для развития героев фракции Природа 
+hero_food_faction_title_15<>Sat (Свет)
+hero_food_faction_info_15<>Используется для развития героев фракции Свет
+hero_food_faction_title_16<>Sat (Тьма)
+hero_food_faction_info_16<>Используется для развития героев фракции Тьма 
+regression<>Регресс 
+regression_reward<>Возвращенные материалы 
+event_merge_server_bundle_tittle<>ДОПОЛНЕНИЕ ПАКЕТ
+event_merge_server_bundle_desc<>Вы можете выбрать 2 предмета из пула для покупки.
+select_item_pool<>Список предметов 
+select_x_item<>Пожалуйста, выберите 2 предмета 
+confirm_regression<>Вы уверены, что регрессируете этого Героя? 
+evolve_invalid<>Не хватает героев для мультиэволюции 
+device_not_support<>Ваше устройство не поддерживается, чтобы быть совместимым с игрой.
+not_register<>Аккаунт не зарегистрирован. 
+event_easter_egg<>Пасхальное событие 
+easter_egg_check_in<>Дары от Бога 
+easter_egg_checkin_title<>ПОДАРКИ ОТ БОГА 
+easter_egg_bunny_card<>Банни Карточка
+event_easter_egg_bunny_tittle<>БАННИ КАРТОЧКА
+event_easter_egg_bunny_desc<>Вы получите Драгоценный камень, Titan Soul и Золото, соответствующие вашему уровню. Подарки будут отправляться ежедневно через %s дней.
+purchased<>Куплено
+easter_egg_limited_offer<>Icarus Easter Bunny 
+event_easter_limited_offer_tittle<>ICARUS EASTER BUNNY 
+easter_egg_limited_offer_desc<>Не упустите свой шанс, чтобы получить ограниченное время кожи Icarus.
+easter_egg_hunt<>Сбор пасхальных яиц
+easter_egg_break<>Разбить пасхальное яйцо 
+egg_hun_name<>СБОР ПАСХАЛЬНЫХ ЯИЦ
+egg_hun_desc<>Яйца и молотки можно было получить с помощью множества действий. Пойдем собирать.
+egg_hun_drop_1<>- брошено в Кампания каждые 1200 секунд.\n- После каждой победы в Арена и Военная арена.\n- Через каждые ежедневные квесты.
+egg_hun_drop_2<>- Пройден Подземелье этап 100; 300.\n- Завершите все ежедневные квесты.\n- Объедините каждые 100 Серебряное яйцо\n- В пакете Event.
+egg_hun_drop_3<>- В случае ежедневного заселения \n- Объедините 10 Золотое яйцо\n- В пакете Event.
+hammer_drop_1<>- Пройден Подземелье этап 200, 400.\n- Каждая {0} / 20 победа в Арена\n- В пакете событий 
+hammer_drop_2<>- В случае ежедневного заселения \n- В пакете событий 
+new_hero_quest_tittle_2<>Приветственная миссия 
+new_hero_quest_desc_2<>Завершите этот квест, чтобы получить больше Астральная звезда за действия по событию. 
+new_hero_spin_2<>Завоевание вселенной 
+new_hero_login_2<>Благослови нового героя 
+new_hero_bundle_2<>Синергетический пакет 
+new_hero_collection_2<>Выделенная награда 
+new_hero_collection_tittle_2<>ВЫДЕЛЕННАЯ НАГРАДА
+new_hero_collection_desc_2<>Чем больше Diadora вы получите, тем больше подарков получите.
+rose_spin_2<>ЗАВОЕВАНИЕ ВСЕЛЕННОЙ 
+smash_egg<>Разгромить 
+smash_egg_desc<>Разбивайте яйцо и получайте награды. Вы можете нажать на яйцо, чтобы увидеть, что вы можете получить.
+egg_combine<>Конвертировать яйцо
+combine<>Конвертировать
+max_item_select<>Вы можете выбрать не более 2 элементов.
+hero_in_other_feature<>Hero available to regress is in other feature.
+term_of_use<>Условия использования
+policy<>Примечание о политике 
+welcome_back_login<>Добро пожаловать Назад Checkin
+welcome_back_login_title<>ДОБРО ПОЖАЛОВАТЬ НАЗАД CHECKIN
+welcome_back_quest<>Повторное присоединение к квестам 
+welcome_back_quest_title<>ПОВТОРНОЕ ПРИСОЕДИНЕНИЕ К КВЕСТАМ 
+welcome_back_quest_desc<>Эти квесты будут поддерживать вас, чтобы догнать изменения игры во время длительного автономного времени.
+welcome_back<>С возвращением
+idle_reward<>Награды за бездействие 
+noti_term_of_use<>Нажимая «Принять», вы соглашаетесь с нашими Условиями использования и подтверждаете, что внимательно прочитали Политику.
+cannot_purchase_in_pbe<>Покупка не поддерживается в версии PBE.
+new_hero_boss_challenge_3<>Соревнование силы
+new_hero_boss_challenge_tittle_3<>СОРЕВНОВАНИЕ СИЛЫ
+new_hero_boss_challenge_desc_3<>Вы будете получать мгновенные награды первые 2 раза в день. В частности, Charon наносит 300% урона боссу и получает только 50% урона от босса.
+new_hero_quest_3<>Приветственная миссия 
+new_hero_quest_tittle_3<>Приветственная миссия 
+new_hero_quest_desc_3<>Завершите этот квест, чтобы получить больше Лезвие Enule в за действия по событию. 
+new_hero_login_3<>Благослови нового героя 
+new_hero_bundle_3<>Синергетический пакет 
+new_hero_collection_3<>Выделенная награда 
+new_hero_collection_tittle_3<>ВЫДЕЛЕННАЯ НАГРАДА
+new_hero_collection_desc_3<>Чем больше Charon вы получите, тем больше подарков получите.
+new_hero_exchange_3<>Обмен лезвий
+event_new_hero_exchange_name<>ОБМЕН ЛЕЗВИЙ
+event_new_hero_exchange_desc<>Используйте Лезвие Enule в для обмена наград.
+new_hero_boss_leader_board_3<>Почетный трофей
+welcome_back_bundle<>Пакет сверхприбыли
+welcome_back_bundle_title<>ПАКЕТ СВЕРХПРИБЫЛИ
+claimable_reward_turn<>Битва с подарками
+new_hero_boss_leader_board_title_3<>ПОЧЕТНЫЙ ТРОФЕЙ
+new_hero_boss_leader_board_desc_3<>В этом рейтинге отмечают игроков, которые наносят наибольший урон боссу Enule.
+chest_boss_challenge_damage_info<>Чтобы получить этот сундук, нанесите %s урона за один бой
+birthday_check_in<>День рождения Заезд
+birthday_check_in_title<>ДЕНЬ РОЖДЕНИЯ ЗАЕЗД
+even_birthday_golden_time_name<>Play more, more birthday gifts
+birthday<>С днем ​​рождения
+elune_journey<>Карта пиратского острова
+birthday_treasure_map<>Hunting Treasure
+final_journey_reward<>Драгоценный сундук
+complete_journey_x<>Завершите %s направления, чтобы получить
+goal_x<>Сокровище %s
+move<>Телепорт
+need_complete_one_more_journey<>Требуется, по крайней мере в одном направлении завершена.
+need_claim_previous_reward<>Требовать завершения предыдущего пункта назначения.
+new_hero_collection_4<>Выделенная награда 
+new_hero_collection_tittle_4<>ВЫДЕЛЕННАЯ НАГРАДА
+new_hero_bundle_4<>Синергетический пакет 
+new_hero_skin_bundle_4<>Летняя вечеринка
+event_new_hero_skin_bundle_1_data_4<>Renaks Summer Party
+event_new_hero_skin_bundle_2_data_4<>Enule Summer Party
+new_hero_treasure_4<>Карта пиратского острова
+unlock_super_monthly_card<>Получайте награды при покупке Премиально ежемесячно
+birthday_bundle<>Юбилейное предложение
+event_birthday_bundle_1<>Радостный День Рождения
+event_birthday_bundle_2<>Памятный День Рождения
+birthday_check_wheel<>Маракулярная ротация
+birthday_exchange<>Погашение подарков
+confirm_stop_spin<>Хотели бы вы прекратить вращение, чтобы получить все полученные награды?
+event_birthday_exchange_title<>ПОГАШЕНИЕ ПОДАРКОВ
+event_birthday_exchange_desc<>Хотели бы вы прекратить вращение, чтобы получить все полученные награды?
+skin_bundle<>Магазин Кожи
+skin_bundle_view_43<>Кожаный комбо
+skin_bundle_view_44<>Розничная кожа
+stop<>Стоп
+spin<>Вращаться
+noti_select_talent<>Вы хотите выбрать этот вариант?
+select_talent<>Варианты талантов
+noti_refresh_talent<>Вы хотите обновить все эти опции?
+treasure_completed<>Вы завершили приключение с сокровищами.
+skin_bundle_1_desc<>Купи 1 - получи 11. Невероятно!
+create_team<>Создайте свой отряд
+create<>Создавать
+allowed_class<>Можно было использовать только героев этих классов.
+your_team<>Твои герои
+lobby<>Лобби
+invitation<>Приглашение
+domain_chest_stage_x_name<>Этап %s
+domain_chest_stage_x_desc<>Пройдите этап %s, чтобы получить награды
+block_domains_team_chat<>Заблокировать командный чат
+block_domains_recruit_chat<>Заблокировать чат по набору персонала
+domains_team<>Командный чат
+domains_recruit<>Чат найма
+guild<>Член гильдии
+verify<>Заявление
+noti_change_leader<>Вы уверены, что хотите сделать этого игрока лидером?
+noti_kick_member<>Вы уверены, что выкинете этого игрока?
+disband<>Расформировать
+noti_disband<>Вы уверены, что распустите свою команду?
+enter_team_name_id<>Введите название или идентификатор команды для поиска
+leave<>Покинуть
+ready<>готовы
+unready<>Не готов
+noti_leave<>Вы уверены, что покинете эту команду?
+domain_name_require<>Пожалуйста, введите название вашей команды
+domain_desc_require<>Пожалуйста, введите описание вашей команды
+crew_disbanded<>Ваша команда распущена лидером.
+domain_leader_updated<>Ваш руководитель группы был изменен.
+fast_create<>Быстрое создание
+default_team_desc<>Не стесняйтесь присоединяться к моей команде!
+default_team_x<>Команда_%s
+kicked_from_crew<>Вас выгнали из вашей команды.
+domain_challenge_over<>ВЫЗОВ УСПЕШНО
+domain_challenge_congrat<>Отлично! Ваша команда выполнила сегодня задачу.
+has_sent_to_mail<>Награды отправлены на почту.
+synchronize<>Синхронизировать
+invitation_sent<>Приглашен
+beta<>бета
+replay_domain<>недавний матч
+enter_domain_recruit<>Текст кое-что о вашей команде здесь.
+hot_deal<>Hot Deal
+hero_in_domain<>Герой в домене
+party<>Вечеринка героев
+lose<>Битва проиграна
+equipped<>Оборудован
+show_skin<>Показать скин
+hero_release_collection<>Коллекция Quest
+hero_release_bundle<>Набор нового героя
+event_hero_release_1<>Испытание пустыни
+hero_release_collection_tittle_1<>КОЛЛЕКЦИЯ QUEST
+event_hero_release_bundle_tittle_1<>НАБОР НОВОГО ГЕРОЯ
+feature_open_at_version_s<>Эта функция будет открыта в версии %s
+feature_open_at_version_s_time_s<>Эта функция будет открыта в версии %s после %s
+event_hero_release_summon_1<>Легендарный призыв 
+expire_in_s<>Срок действия истекает через %s
+hero_release_collection_desc_1<>Вызов Cernunous, чтобы разблокировать достижения
+hero_release_daily_quest_tittle_1<>Благослови нового героя 
+instantly_get<>Заявить немедленно
+claim_daily<>Заявить ежедневно
+bonus_login_days_s<>Бонус за вход через %s дней
+hero_release_daily_quest<>Ежедневный квест события
+subscription_packs_2<>КАРТА НОВИЧКА
+subscription_packs_3<>КАРТА ВЕТЕРАНА
+subscription_packs_4<>КАРТА ИМПЕРАТОРА
+require_unready<>Вы должны быть «неготовым» в команду изменения.
+summon_hero_release_reward<>Бонусные награды
+rate_up<>Высокая Частота выпадения
+overview_hero_40004<>С момента своего рождения Cernunos всегда считает себя хранителем джунглей и лошадей. Его обязанность - вести табуны лошадей к убежищу, безопасному от охотников. Легенда гласит, что незадачливые люди, заблудившиеся на время в лесу, всегда встречались и направлялись домой к Cernunos.\nCernunos получает силу атаки за каждого пораженного им врага. Следовательно, чем больше врагов поражает Cernunos, тем сильнее он становится. 
+hero_release_overview<>История героя
+guild_season<>Большой сезон
+guild_grand_season<>Большой сезон
+guild_season_in_tab<>Участник
+guild_season_out_tab<>Неучастник
+guild_leader<>Лидер гильдии
+guild_vice_leader<>Вице-лидер
+random_name<>Случайное имя
+delete_data<>Перезагрузка данных
+warning_delete_data<>Вы хотите перезагрузить данные?
+first_Top_Up_Confirm_Choose_Reward<>Награда за 1-е пополнение
+overview_hero_50004<>Когда королева была беременна, ей хотелось, чтобы ее сын был храбрым, как орел, и сильным, как лев. Боги услышали ее желание и исполнили его. Так родился мальчик Гримм, вместо красивого юного принца он был чудовищем с наполовину орлом и наполовину львом.\nКороль был так разочарован, что исключил его из списка наследников престола. Гримм вырос в отчуждении от отца. Позор самому себе, он сбежал из дома.\nОднажды их королевство было разбито армией тьмы. Враги казнили короля, сбросив его с высокой стены. К счастью, внезапно появился Гримм и поймал отца в воздухе. Он летал по землям и просил подкрепление у других королевств. Благодаря этому армия тьмы была разбита и вынуждена была отступить.\nХотя Гримм все еще не унаследовал трон, его любили все. Он парит высоко в небе, и под его крыльями защищено каждое невинное существо.
+hero_release_daily_quest_tittle_2<>НЕБЕСНЫЕ ВЫЗОВЫ
+hero_release_collection_tittle_2<>КОЛЛЕКЦИЯ QUEST
+event_hero_release_bundle_tittle_2<>НАБОР НОВОГО ГЕРОЯ
+event_hero_release_summon_2<>Легендарный призыв 
+event_hero_release_2<>Рев с небес
+first_top_up_content_2<>Пополните сейчас и получите свои награды!
+first_top_up_content<>Выберите свой бонус
+first_top_up_main<>НАГРАДЫ ЗА ПЕРВОЕ ПОПОЛНЕНИЕ
+hero_release_collection_desc_2<>Получайте бонусные подарки за получение Grimm.
+Border_Limited_Duration<>Срок действия истекает через %s день
+first_top_up_reward_confirm<>Вы не сможете повторно выбрать награду за первую покупку. Вы уверены, что хотите выбрать эти подарки?
+reset_talent_confirm<>Вы уверены, что сбросите текущий талант?
+reset_talent<>Сброс
+change_crew<>Сменить лидера
+crew<>Лидер
+crew_promote<>Изменить
+you_are_new_crew<>Лидер был изменен на вас.
+first_top_up_content2<>Ниже вы получите дополнительные награды.
+selected_hero<>Выбрано
+customizeble_bundle_1<>Настраиваемый пакет
+customizeble_bundle_2<>Платиновый настраиваемый набор
+select_2_reward<>Выберите 2 предмета
+sold_out<>Распроданный
+customize_packs<>Настраиваемый пакет
+selected_2_rewards<>Выбрано 2 объекта
+select_2_rewards_before_purchase <>Сначала выберите свои награды
+flash_sale_new_13<>Приветственный пакет
+flash_sale_new_14<>Пакет Призывателя
+flash_sale_new_15<>Выбранный пакет
+flash_sale_new_16<>Пакет обновлений 1
+flash_sale_new_17<>Пакет Камень Фортуны
+flash_sale_new_18<>Пакет Камень Судьбы
+flash_sale_new_19<>Пакет обновлений 2
+buy_stock_remain_x<>Покупка остаются %s
+will_get_item<>Ты получишь
+auto<>автоматическая
+popup_confirm_auto_next_battle<>Подтвердите, что хотите использовать эту функцию! Эта функция отключится, когда вы проиграете битву.
+auto_next_battle_off<>Авто Следующий этапвыключен.
+auto_battle_end_in<>Следующий этап {1} {2}-{3} через {4}
+button_auto_next_formation<>Авто Следующий этап
+event_hero_release_3<>Новый герой
+hero_release_daily_quest_tittle_3<>КРАСНЫЙ ВЫЗОВ
+hero_release_collection_tittle_3<>БОНУСНАЯ ВЫПЛАТА
+event_hero_release_bundle_tittle_3<>СВЯЩЕННОЕ ОГНЕННОЕ СЛОВА
+hero_release_collection_desc_3<>Собирайте Моблина и получайте бонусные награды.
+event_hero_release_summon_3<>Легендарный призыв 
+auto_battle<>Авто Битва
+overview_hero_20008<>Moblin крохотный парень, желающий продемонстрировать силу гоблинов. В пути, чтобы найти силы, Гоблин встречает потерянного слона, и две одинокие жизни стали родственными душами. Moblin назвал слона Фанто.\nБог не разочаровывает людей, проходя через путешествие, полное испытаний и невзгод, Moblin набрался сил благодаря тренировкам и контракту с Богом Огня. Но, как говорится, не играйте с огнем, Бог Огня предательски вложил в договор контрпроклятие. Потому что изначально он не одобрял гоблинов, даже считая гоблинов низшей расой.\nПроклятие, Moblin страдает физической и душевной болью. У Фанто нет силы, он не может помочь Moblin, может только день за днем ​​проводить со своей второй половинкой. Проклятие длилось десятилетия, как и многие годы, с которыми боролись Моблин и Фанто. Фанто отправился к богу огня и вызвался взять на себя проклятие, чтобы спасти Моблина. Бог Огня одобрил, и Фанто принял злую форму, подобную доисторическому мамонту. Но человечность Фанто осталась, потому что искренняя дружба Moblin спасла душу Фанто от порчи. В конце концов, двое друзей все еще были вместе, продолжая путешествовать по новым землям.
+bundle_battle_pass_level<>Уровень покупки
+purchase_battle_pass_level_1<>1 уровень
+purchase_battle_pass_level_2<>5 уровней
+purchase_battle_pass_level_3<>10 уровней
+battle_pass<>Уровень боевого пропуска
+battle_pass_level<>Уровень боевого пропуска
+battle_pass_purchase_level<>Уровень покупки
+battle_pass_title<>Боевой пропуск
+unlock_battle_pass_1<>Набор боевого пропуска
+unlock_battle_pass_2<>Премиум Набор боевого пропуска
+battle_pass_tab_quest_title<>Посмотреть миссии
+button_battle_pass_reward_preview<>Награда за предварительный просмотр
+button_battle_pass_unlock_premium<>Премиум Набор боевого пропуска
+battle_pass_claim_all<>Заявить все
+battle_pass_tab_reward_title<>Награды
+battle_pass_time_end<>Сезон заканчивается после %s
+button_battle_pass_unlocked_premium<>Премиум боевой пропуск разблокирован
+preview_battle_pass_reward<>Награда боевого пропуска
+unlock_premium<>Премиум Набор боевого пропуска
+week<>Неделя
+battle_pass_unlocked<>Боевой пропуск был разблокирован.
+confirm_free_battle_reward<>Награда боевого пропуска
+confirm_battle_pass_reward<>Награды за обычный боевой пропуск
+claim_confirmed_battle_pass<>Получить доступные награды
+confirm_premium_reward_battle_pass<>Награды за премиум-бой
+battle_pass_cannot_purchase_level<>Вы достигли максимального уровня.
+confirm_free_reward_battle_pass<>Бесплатные награды
+overview_hero_60004<>Карос молча сидит в центре храма.\nФактически, он не мог вспомнить, когда в последний раз ощущал эту крайнюю тишину вокруг нее. Карос был избран священником Древнего Бога с того дня, когда люди впервые узнали о существовании Бога. Он помог доставить послание своего Учителя, пророчество и устрашающие слова предупреждения. Он предавался чувству силы всякий раз, когда она видела людей, преклонивших колени после того, как услышала, как оракул упал с его губ, вид, как они дрожат от страха, сделал его еще более жаждущим власти. Возможно, он стал слишком жадным. Чтобы сохранить это ощущение, он без указаний Древнего Бога распространял лжепророчества о бедствиях, войнах и бедствиях, переворачивая мир своим собственным вышитым кошмаром.\nКогда он обнаружил, что Карос делал за его спиной, Древний Бог решил отобрать у Кароса дар священника, он больше не слышал голос Бога. Что касается людей, преданных своей верой в Карос, они покинули храм и его жреца, позволив ему рухнуть в Страну Забытых.\nНет. Я не могу позволить себе забыться! \nИмея в виду эту решимость, Карос надела маску своего старого Учителя и скипетр Темной магии, он отправился в путешествие, чтобы сеять кошмары боли, негодования и смерти на человечество, точно так же, как Бог, которому он когда-то служил.
+hero_release_daily_quest_tittle_4<>ТЕМНЫЕ ИСПЫТАНИЯ
+event_hero_release_bundle_tittle_4<>МИСТИЧЕСКИЙ МАГАЗИН
+hero_release_collection_tittle_4<>ЧЕРНЫЙ ИСТОЧНИК
+hero_release_collection_desc_4<>Собирайте Моблина и получайте бонусные награды.
+event_hero_release_4<>Самозванец
+event_hero_release_summon_4<>Легендарный призыв 
+starter_pack_new_23<>Пакет снаряжения
+starter_pack_new_24<>Набор призывателя
+starter_pack_new_25<>Набор героев
+starter_pack_choose_hero_noti<>Пожалуйста, выберите героя, которого хотите купить в этом наборе!
+starter_pack_sold_out<>Этот пакет был куплен.
+first_top_up_choose_from<>Пожалуйста, выберите 1 из %s наград ниже.
+first_top_up_desc<>Эти награды являются бонусом при совершении любой покупки.
+first_Top_Up_Confirm_Choose_Reward_New<>Вы уверены, что хотите выбрать эти подарки?
+free_gem_title<>Бесплатно Драгоценный камень
+free_gem_details<>Смотрите рекламу бесплатно Драгоценный камень
+or<>Или же
+create_new_account<>Подключитесь к своему кошельку, чтобы зарегистрироваться на сайте.
+instant_unlock_ten_level<>Сразу получить еще 10 уровней
+special_event<>Ограниченный по времени квест
+preview_reward<>Награда за предварительный просмотр
+reward_info<>Получите после завершения всех объявлений
+noti_next_battle_pass<>%s оставшихся опыта прошлого сезона перенесены в текущий сезон.
+limit<>Предел
+out_of_buy_level_by_gem_time<>Количество покупок за Драгоценный камень достигло предела.
+buy_level_buy_gem<>Уровень покупки за Драгоценный камень
+select_artifact<>Выберите Артефакт
+available_artifact<>Доступно Артефакт
+select_an_artifact<>Вам нужно выбрать 1 Артефакт.
+overview_hero_10011<>Посреди глубокого океана, где кружащиеся водовороты преграждают путь людям, находится остров с развитой цивилизацией. И этот остров возглавляют Белые акулы во главе с Иеронимом.\nБелые акулы Иеронима, жившие в Атлантиде царя Оссе, посвятили себя процветанию королевства. С другой стороны, пираты из города Посейдонис всегда нацелены на владения Атлантиды, готовые спровоцировать кровавое разграбление. Верные Атлантиде, Белые акулы не боятся жертвовать собой в борьбе с жестокими пиратами. Иероним и воины клана героически защищали Атлантиду через множество завоеваний пиратов, но цена была слишком высока. Белые акулы постоянно преследуются пиратами, потому что бесчисленное количество пиратов также погибло перед властью Иеронима и его товарищей. Прошло много лет, а у Белых акул осталось всего несколько элитных воинов и несколько жителей, живущих в Цитадели Дракона. Король Оссе был так убит горем и хотел защитить последних потомков Белых акул, что приказал Иерониму увести жителей племени в место, далеко от Атлантиды. Иероним сначала не согласился, но согласился с приказом царя. Перед отъездом Иероним не забыл сказать королю Оссе: «Я вернусь, когда стану сильнее, чтобы вместе с тобой построить Атлантиду».
+hero_release_daily_quest_tittle_5<>МОРСКИЕ ПРОБЛЕМЫ
+event_hero_release_bundle_tittle_5<>ПОДДЕРЖКА ОКЕАНА
+hero_release_collection_tittle_5<>МОРСКИЕ СОКРОВИЩА
+hero_release_collection_desc_5<>Собирайте Моблина и получайте бонусные награды.
+event_hero_release_5<>Новый герой
+event_hero_release_summon_5<>Легендарный призыв 
+event_grow_up<>Путь призывателя
+new_server_grow_up<>ПУТЬ ПРИЗЫВАТЕЛЯ
+event_campaign_boot<>Кампания \nучебный лагерь
+new_server_campaign_boot<>КАМПАНИЯ \nУЧЕБНЫЙ ЛАГЕРЬ
+new_server_campaign_boot_desc<>Завершите следующие квесты, чтобы получить большие награды
+event_arena_boot<>Тренировочный лагерь арены
+vip_treasure<>VIP сокровище
+new_server_vip_treasure<>VIP СОКРОВИЩЕ
+new_server_vip_treasure_desc<>Повышайте уровень своего VIP-пропуска и получайте эксклюзивные подарки
+event_spin_new_server_week<>Волшебное вращение
+have_no_done_quest_to_claim<>Вам необходимо выполнить все квесты.
+new_server_arena_boot<>зал славы
+new_server_arena_boot_desc<>Награды будут отправлены по почте в %s
+ended<>Истекший.
+server_open_week_arena_point<>%s баллов
+week_spin_available_dice<>Доступное вращение: 
+new_server_week_spin<>Волшебное вращение
+server_week_spin_not_available<>Спинов больше нет.
+ranking_NA<>Ранг отсутствует
+new_server_grow_up_desc<>Чем выше уровень, тем больше подарков вы получите.
+claim_all_desc<>Постарайтесь выполнить все квесты.
+reach_level<>Уровень %s
+select_item_server_week_bundle<>Пожалуйста, выберите %s предмета 
+black_friday_purchase_1<>Небольшое предложение
+black_friday_purchase_2<>Средний пакет
+black_friday_purchase_3<>Огромный пакет
+event_black_friday_bundle_pack<>Лучшая сделка
+event_new_server_week_login<>Регистрация
+event_daily_black_friday<>Регистрация
+black_friday_gem_pack_desc<>Используйте Драгоценный камень для обмена наград.
+event_bundle_new_server_week<>Пакет поддержки
+select_hero_fragment<>Выберите Героев
+available_hero_fragment<>Список героев
+server_open_week_no_arena_point<>Не хватает баллов для оценки.
+choose_arena_chest_reward<>Выберите награды
+selected_item<>Выбранный сундук
+max_item_limit<>Превышено максимально допустимое количество.
+hero_release_daily_quest_tittle_6<>ПЕРВИЧНЫЕ МИССИИ
+event_hero_release_bundle_tittle_6<>ЯЙЦА ДРАКОНА
+hero_release_collection_tittle_6<>ДРАГОНИЧЕСКИЕ ПОДАРКИ
+hero_release_collection_desc_6<>Собирайте Fragnil и получайте бонусные награды.
+event_hero_release_6<>Новый герой
+event_hero_release_summon_6<>Легендарный призыв 
+overview_hero_20009<>В дикой природе человеческая раса и клан Дракона были близкими друзьями, живущими в гармонии в Царстве Света. Фрагнил, Император Драконов клана Драконов, и Фильд, лидер Человеческой расы в то время, были парой героических воинов. Один человек, один дракон, они готовы пожертвовать собой, чтобы сражаться, чтобы защитить безопасность двух племен перед глазами темных сил.\nМир был поддержан, человеческая раса с головокружительной скоростью развивала свою армию и оружие, и они также постепенно забыли о существовании клана драконов. Злодеи постепенно превратили Драконов в хобби для охоты, добычу для испытаний оружия. Однако раса драконов всегда дружелюбна к людям, никогда не нападая на человеческую расу. Клан драконов был постепенно убит, вынудив Фрагнила уйти, хотя сам Филд пытался защитить своего близкого друга и племя драконов.\nДружба между Фрагнилем и Филедой все еще существует, но именно жестокость в сердцах людей заглушает прекрасные воспоминания о двух расах в прошлом.
+new_server_arena_boot_2_desc<>Награды будут отправлены по почте в %s
+event_server_week_bundle_2_tittle<>ПАКЕТ ПОДДЕРЖКИ
+event_server_week_bundle_2_desc<>Эти пакеты будут вам полезны в игровом приключении.
+event_server_week_bundle_tittle<>ПАКЕТ ПОДДЕРЖКИ
+event_server_week_bundle_desc<>Эти пакеты будут вам полезны в игровом приключении.
+event_server_week_bundle_3_tittle<>ПАКЕТ ПОДДЕРЖКИ
+event_server_week_bundle_3_desc<>Эти пакеты будут вам полезны в игровом приключении.
+new_server_arena_boot_2<>ТАКТИЧЕСКИЙ МАСТЕР
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>ПУТЬ К СЛАВЕ
+new_server_tower_bootcamp_desc<>Достигните определенного этажа в Драконья Башня, чтобы получить дополнительные награды.
+event_tower_bootcamp<>Путь к славе
+event_arena_3v3_boot<>Тактический мастер
+event_server_open_2<>Misiunea Rookie 2
+event_server_open_3<>Misiunea Rookie 3
+new_server_grow_up_2<>ВЫЗОВ ПУТЬ
+fortress<>Опасная экспедиция
+new_server_fortress<>ОПАСНАЯ ЭКСПЕДИЦИЯ
+new_server_fortress_desc<>Бросьте вызов Крепость и получите бонус за победы.
+dungeon<>Таинственное подземелье
+new_server_dungeon<>ТАИНСТВЕННОЕ ПОДЗЕМЕЛЬЕ
+new_server_dungeon_desc<>Достигните определенного этажа в Подземелье, чтобы получить дополнительные награды.
+idle_effect<>Особенный эффект
+new_server_grow_up_3<>ВЫЗОВ ПУТЬ
+note_register<>
+list_idle_effect<>Список спецэффектов
+bundle_idle_effect<>Особенный эффект
+idle_effect_bundle_1<>Все эффекты
+hero_recommend_game_mode_1_1<>Самые используемые герои в: Кампания Нормальный
+hero_recommend_game_mode_1_2<>Самые используемые герои в: Кампания Трудный
+hero_recommend_game_mode_1_3<>Самые используемые герои в: Кампания Экстремальный
+hero_recommend_game_mode_1_4<>Самые используемые герои в: Кампания Кошмарный
+hero_recommend_game_mode_1_5<>Самые используемые герои в: Кампания Сумасшедший
+hero_recommend_game_mode_1_6<>Самые используемые герои в: Кампания Хаос
+idle_effect_bundle_2<>Общие эффекты
+idle_effect_bundle_4<>Случайный эффект
+idle_effect_bundle_3<>Эффект легенды
+select_item_idle_effect_bundle<>Перед покупкой необходимо выбрать 1 эффект.
+select_idle_effect_fragment<>Выбор эффекта
+available_idle_effect_fragment<>Доступный эффект
+hero_recommend<>Рекомендация героя
+hero_recommend_game_mode_2_-1<>Самые используемые герои в: Драконья Башня
+hero_recommend_game_mode_4_-1<>Самые используемые герои в: Подземелье
+hero_recommend_game_mode_6_-1<>Самые используемые герои в: Арена
+hero_recommend_game_mode_most<>Самые используемые герои
+wiki<>Путеводитель
+empty_2<>У вас нет никаких спецэффектов.
+event_lunar_new_year_spring_bundle<>Бог богатства магазин
+event_lunar_2022_spring_bundle_1<>Мирный лунный Новый год
+event_lunar_2022_spring_bundle_2<>Лунный Новый год процветания
+text_describe_reward<>Можно получить эти предметы ниже
+water_box<>Коробка Вода
+fire_box<>Коробка Огонь
+abyss_box<>Коробка Бездна
+nature_box<>Коробка Природа
+light_box<>Коробка Свет
+dark_box<>Коробка Тьма
+event_lunar_new_year_spring_box<>Весенняя коробка
+event_lunar_new_year_exclusive_bundle<>Лунный Страж
+overview_hero_30003<>Демоны, это невидимые существа, которые укрываются в теле человека. Ревность, зависть и злые мысли людей - это условия для взросления дьявола. Когда демоны повзрослели, они обрели способность отделяться от человеческого тела, становясь независимыми живыми существами.\nNero, рожденный таким образом демон обладает огромной злой силой. У него есть способность умножать количество демонов с амбициями вторгнуться в человеческий мир. «Людьми должны править демоны», - яростно заявил Nero.
+hero_release_daily_quest_tittle_7<>Испытание дьявола
+hero_release_collection_tittle_7<>Добро или зло?
+event_hero_release_bundle_tittle_7<>Торговля с демонами
+spring_box_limited<>Вы открыли максимальное количество ящиков.
+buy_premium_to_get_this<>Чтобы получить эти награды, вам нужно разблокировать пропуск.
+event_lunar_new_year_tiger_path<>Процветающий проспект
+tiger_path_decs<>Разблокируйте премиум-пропуск, чтобы получить бонусные награды.
+event_lunar_new_year_tiger_path_guide<>Выполняйте ежедневные задания, чтобы получить Точка богатства, повысить свой прогресс и получить награды.
+select_hero_bundle<>Выберите 1 героя, представляющего Премиум-пропуск.
+event_lunar_new_year_lion_dance<>Первый звонивший Китти
+event_lunar_new_year_lion_dance_decs<>Выполняйте ежедневные задания, чтобы получить Счастливая монета, повысить свой прогресс и получить награды.
+lunar_new_year_tiger_path<>ПРОЦВЕТАЮЩИЙ ПРОСПЕКТ
+hero_release_collection_desc_7<>Собирайте Nero и получайте бонусные награды.
+event_hero_release_7<>Новый герой
+event_hero_release_summon_7<>Легендарный призыв 
+please_select_box<>Выберите поле, которое нужно открыть!
+resource_mapping<>Ресурсы
+wiki_feature_unlock<>Особенность
+lineup_recommend_1<>Рекомендация по ранней игре
+lineup_recommend_2<>Рекомендация в середине игры
+lineup_recommend_3<>Рекомендация поздней игры
+desc_gem_feature<>Можно получить за различные действия в игре и внутриигровые покупки.
+please_chose_one_resource<>Пожалуйста, выберите любой тип ресурса, чтобы увидеть информацию об этом ресурсе!
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>Путь самурая
+event_kazetsu_check_in<>Регистрация в додзё
+event_kazetsu_gift<>Решимость самурая
+event_kazetsu_gift_desc<>Собирайте Казецу, чтобы получить награды.
+event_kazetsu_bundle<>Маска силы
+kazetsu_store_des<>Увеличьте свою силу с ограниченным набором!
+hero_recommend_game_mode_13_-1<>Самые используемые герои в: Военная арена
+event_kazetsu_trial<>Испытание Казецу
+sign_in_apple<>Войти через Apple
+you_must_have_a_lineup<>Пожалуйста, выберите свою команду перед входом в пробную версию
+start_trial<>Сражаться
+reroll<>Реролл
+want_to_reroll<>Хотите переиграть?
+lineup_select<>Выберите героя для битвы
+cant_roll_after_confirm_lineup<>У вас уже есть состав
+noti_has_hero_selected<>Сначала снимите выделение со всех героев
+noti_full_hero_selected_for_trial<>Выберите ровно 6 героев
+want_to_start_trial<>Процесс до суда сейчас? Вы не сможете изменить этих героев.
+cant_unpick_kazetsu<>Казецу должен быть в составе
+kazetsu_already_dead<>Суд окончен, Казецу побежден
+revive_time<>Шанс на реанимацию остался
+end_kazetsu_tower<>Испытание побеждено
+out_of_revive_turn<>Нет больше шанса оживить
+continue_with_apple<>Продолжить с Apple
+event_kazetsu_rate_up<>Легендарный призыв 
+regular_pack<>Общий пакет
+event_kazetsu_boss<>Жизненная битва
+kazetsu_boss_title<>ЖИЗНЕННАЯ БИТВА
+kazetsu_boss_des<>Бросьте вызов Kazetsu, чтобы показать свою силу и получить награды.
+get_limited_skin_now<>Не упустите свой шанс, чтобы получить ограниченное время кожи Kazetsu.
+guild_quest_end<>Квест завершен.
+bonus_hero<>Бонус для героя {1}
+customizeble_bundle_3<>Еженедельный пакет настроек
+customizeble_bundle_4<>Ежемесячный пакет настройки 1
+customizeble_bundle_5<>Ежемесячный пакет настройки 2
+easter_egg_exchange_reward<>Обмен пасхальной точкой
+easter_bundle<>ПАСХАЛЬНЫЙ НАБОР
+event_easter_exclusive_bundle<>Эксклюзивный пасхальный пакет
+easter_egg_exclusive_bundle<>Эксклюзивный пасхальный пакет
+super_roll<>Специальный рулон
+skip_dice_anim<>Пропустить анимацию перекатывания
+easter_egg_bundle<>Пасхальный набор
+easter_dice_guide<>Бросьте кубик, чтобы получить награду за каждый бросок.
+easter_egg_dice<>Пасхальная игра в кости
+tap_dice_to_roll<>Нажмите на кубик, чтобы бросить его.
+normal_dice<>Волшебные кости
+super_dice<>Супер Кости
+event_hero_release_8<>Блейз Кайзер
+event_hero_release_summon_8<>Легендарный призыв 
+hero_release_daily_quest_tittle_8<>ОГНЕВОЕ ВОСПЛАМЕНИЕ
+hero_release_collection_tittle_8<>ПРИРУЧИТЕ ПЛАМЯ
+hero_release_collection_desc_8<>Собирайте Finde и получайте бонусные награды.
+event_hero_release_bundle_tittle_8<>ТЕПЛО ПЛАМЕНИ
+overview_hero_20006<>Цена, которую приходится платить за помощь Фрагнилу в безопасной эвакуации, до сих пор не дает покоя Финде. Трон, на котором сидел Финде, был сделан из костей и крови воинов, близких к Финде, а также его союзников-драконов.\nФинде получил силу Огня от Бога Огня. В отличие от Моблина, сила в руке Финде дает ему божественную силу без какой-либо ответной реакции. Чем больше способности, тем выше ответственность. Финде был назначен генералом для защиты безопасности мыса царства света. В том же году, сражаясь с армией Ската, Финде узнал, что клан Дракона в опасности. Из-за своей дружбы с Фрагнилом, Финде использовал Печать Огня, чтобы укрепить свою защиту, когда он бросился назад, чтобы спасти клан Дракона. Обладая выдающейся силой, Огненная Печать Финде помогла передовой армии сдержать Скатача, несмотря на то, что потери по-прежнему были огромными. Что касается проблемы клана Дракона, то Финде с его интеллектом умело справился с ней, успешно приведя Фрагнила и клан Дракона в убежище. Но это было только затишье перед бурей, армия Ската все еще пыталась поглотить Финде заживо, чтобы прорвать оборону и войти в царство света».
+hero_fragment_1705<>Фрагмент легендарного героя
+easter_egg_dice_game<>Пасхальная игра в кости
+event_finde_boss<>Вызов босса
+finde_boss_title<>Наследник бога огня
+finde_boss_des<>Бросьте вызов Finde, чтобы показать свою силу и получить награды.
+event_puzzle_era<>ТАИНСТВЕННАЯ КАРТИНА
+select_hero_pool<>Выберите Героев
+noti_confirm_select_puzzle<>Вы выберете эту головоломку?
+event_puzzle<>Таинственная картина
+can_not_change_hero_this_slot<>Этот слот нельзя изменить
+need_fill_up_all_slot<>Вам нужно заполнить все слоты перед началом головоломки
+open<>Открытым
+event_puzzle_finished<>Вы завершили это событие
+hero_puzzle_complete<>Все головоломки решены
+do_you_want_to_download_resource<>Игровой процесс наиболее оптимален, когда ресурсы игры загружены полностью. Кроме того, в случае не скачивания вы не сможете войти в игру. Хотите скачать внутриигровые ресурсы?
+birthday_exclusive_bundle<>Эксклюзивный комплект
+puzzle<>Головоломка
+hero_fragment_1805<>Фрагмент героя Вода, Огонь, Бездна, Природа
+hero_fragment_1905<>Фрагмент героя Свет, Тьма
+bundle<>Предложение 
+dark_vs_light<>Война Судьбы
+birthday_legacy_path<>Путь Наследия
+birthday_legacy_path_guide<>Соберите Устаревший пропускной пункт, чтобы получить награду от пропуска.
+birthday_legacy_path_decs<>Разблокируйте премиум-пропуск, чтобы получить бонусные награды.
+select_light_path<>Выбери
+select_dark_path<>Выбери
+light<>Свет 
+dark<>Темный 
+select_side_confirm<>Вы уверены, что выбрали именно эту сторону? После выбора стороны изменить её будет невозможно.
+select_artifact_pool<>Список артефактов
+birthday_boss_title<>Благодать или злоба
+birthday_boss_des<>Бросьте вызов боссу, чтобы получить награды. В частности, Celestia и Scathath наносят в два раза больше урона Боссу и получают вдвое меньше урона от Босса.
+birthday_boss<>Вызов босса
+preboss_des<>Бросьте вызов боссу, чтобы получить награды. В частности, Celestia и Scathath наносят в два раза больше урона Боссу и получают вдвое меньше урона от Босса.
+navigate_to_dark_light<>Бросьте вызов боссу, чтобы получить награды. В частности, Celestia и Scathath наносят в два раза больше урона Боссу и получают вдвое меньше урона от Босса.
+hero_fragment_1605<>Фрагмент героя с красной рамкой: Тьма
+hero_fragment_1505<>Фрагмент героя с красной рамкой: Свет
+hero_fragment_1405<>Фрагмент героя с красной рамкой: Природа
+hero_fragment_1305<>Фрагмент героя с красной рамкой: Бездна
+hero_fragment_1205<>Фрагмент героя с красной рамкой: Огонь
+hero_fragment_1105<>Фрагмент героя с красной рамкой: Вода
+event_hero_release_9<>Вечные соперники
+event_hero_release_summon_9<>Легендарный призыв
+hero_release_daily_quest_tittle_9<>СЛОЖНОЕ ИСПЫТАНИЕ
+hero_release_collection_tittle_9<>Грозная мощь
+hero_release_collection_desc_9<>Соберите Селестию и Скатч и получите бонусные награды.
+event_hero_release_bundle_tittle_9<>УМЕНЬШЕНИЕ ПРЕПЯТСТВИЙ
+overview_hero_50007<>Почему ангелы всегда должны подчиняться приказам, но не могут действовать по собственной воле? — спросила себя Селестия перед другими ангельскими братьями и сестрами, но никто не ответил. Будучи честным ангелом, Селестия понимает, что ее миссия — помогать слабым, но в ней всегда есть стремление к свободному исследованию. Миссия, долг, долг, догма — Селестия не любила их, но и не отказывалась от них. Должны ли ангелы вмешиваться в мир людей? И что же заставляет ангелов всегда быть начеку в этой тьме?
+overview_hero_60005<>Тысячи лет назад, когда разразилась война между демонами, в боевой вихрь случайно попала девочка-фея. Это была Скатах, фея, обладающая силой тьмы. Существуют анекдоты о богине теней. О ночи известно немногое, ходят лишь слухи о том, что она обладает ужасающей силой. Все, кто попадал ей в глаза, жалели, что когда-либо существовали.\nСтрах темноты — самое страшное? Нет, самым страшным в темноте была холодная Скатах. Для неё нет добра и зла, всё, что её расстраивает, заслуживает того, чтобы быть отброшенным.
+legacy_point_desc<>Обычное ежедневное задание: 15 очков\nВыполнение всех ежедневных заданий: 30 очков
+summoner_lock<>Разблокировать после сбора 10 Древняя Книга
+watch<>Смотрите рекламу
+watch_ads<>Смотрите рекламу
+new_server_grow_up_guide<>Повышайте уровень своего аккаунта, чтобы получать вознаграждения.
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>Приобретите любой комплект, чтобы получить
+first_purchase_nac_price<>Купите на 1 комплект больше, чем %s, чтобы получить
+first_purchase_nac_price_global<>Купите на 1 комплект больше, чем %s, чтобы получить
+first_purchase_reward_claimed<>Все бонусные вознаграждения получены
+claimed<>Заявлено
+first_purchase_hero_desc_1<>Наследник Бога Огня
+first_purchase_hero_desc_50006<>Принцесса Луны
+zodiac_bundle<>Набор знаков зодиака
+zodiac_constellations<>Картирование созвездий
+zodiac_quest<>Задание
+zodiac_exchange<>Зона обмена
+i_like_it<>Поставьте лайк и оцените.
+need_improvements<>Позже 
+rate_content_2<>Ваши комментарии очень важны для нас в улучшении игрового процесса. Поделитесь своим мнением!
+not_now<>Позже 
+quick_open_constellation_map<>Быстрая карта
+overview_hero_20003<>В глубине вулкана живет бесчисленное племя, мирно сосуществующее веками. Они живут в гармонии с природой, используя ее как дом и средство существования. Они развиваются вместе с природой, отдельно от современных университетов. Эйтри, воин этого племени, — самый обычный его житель. Он обладает мастерством и боевым опытом опытных воинов, которые всегда скрывал под маской крестьянина. Эйтри верит, что сила — источник амбиций, направляющий войну. И он не хочет быть вовлеченным в мучительные войны, которые могут лишить его племя мира.
+event_hero_release_10<>Воин Магмы
+event_hero_release_summon_10<>Легендарный призыв
+hero_release_daily_quest_tittle_10<>Приключение на вулкане
+hero_release_collection_tittle_10<>Завоевание Пламени
+hero_release_collection_desc_10<>Собирайте Эйтри и получайте бонусные награды.
+event_hero_release_bundle_tittle_10<>Поддерживаемый пакет
+title_event_zodiac<>Зодиакальный вызов
+event_zodiac<>Событие Зодиак
+event_zodiac_section_reward<>Награда за раздел
+rate_content_1<>Уважаемый игрок! Мы надеемся, что вам понравится игра, пожалуйста, сообщите нам об этом. Ваше мнение станет для нас мотивацией для улучшения продукта.
+complete_reward<>Награда за завершение созвездия
+star_reward_pool<>Уровень вознаграждения
+tower_lock_level_require<>Достигните уровня %s, чтобы разблокировать этот этаж
+tower_lock_out_of_ticket<>Билета недостаточно для входа в башню.
+star_reward_pool_condition<>Разблокируется при обмене любых предметов определенного уровня.
+collect_pearl_desc<>Соберите бонусную жемчужину от обмена вознаграждениями.\nТеперь запасы:
+not_thing_to_claim<>В настоящее время ничего не подлежит возмещению.
+collect<>Собирать
+event_vip_treasure<>VIP-улучшение
+event_vip_treasure_content<>Зарабатывайте VIP-баллы, чтобы получать дополнительные награды.
+event_skin_challenge<>Вызов для кожи
+title_event_skin_challenge<>ВЫЗОВ ДЛЯ КОЖИ
+progress<>Прогресс
+confirm_select_skin<>Вы выберете этот скин в качестве финальной награды. Вы уверены, что выбрали именно этот скин?
+not_available_day<>Выполните все задания предыдущего дня и дождитесь завтрашнего дня, чтобы разблокировать доступ.
+event_zodiac_map<>Карта
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>Могучий самурай
+overview_hero_30027<>После того как Нерон освободил демона из человеческого тела, мир был охвачен злом, и повсюду раздавались крики и стенания. Гнев, негодование, разрушение, гибель и отчаяние — вот слова, описывающие мир того времени.\nВ деревне Самурандо жил мальчик по имени Казэцу. Казэцу потерял родителей в войне между людьми и демонами. Став свидетелем жертвы своих близких, Казэцу затаил крайнюю ненависть к дьяволу и решил отомстить. Но человеческие силы ограничены, мир также пришел в упадок под жестоким правлением демонов, и Казэцу нужно было лишь заключить с демонами договор, следуя за ними, чтобы тренировать свою силу. Чтобы завоевать доверие демонов, Казэцу был вынужден выбрать путь зла, безумно убивая и не в силах даже контролировать себя.\nК счастью, Казэцу сохранил гордость самурая, решив отомстить за своих родителей, и в конце концов обрел силу демона. Казэцу объединил это с духом самурая, надел маску демона и в одиночку уничтожил всех демонов, правивших его деревней. Спасая жителей деревни, Казэцу отправляется на поиски Неро.
+event_hero_release_11<>Могучий самурай
+event_hero_release_summon_11<>Легендарный призыв
+hero_release_daily_quest_tittle_11<>Путь обучения
+hero_release_collection_tittle_11<>Союзническая община
+hero_release_collection_desc_11<>Собирайте Казэцу и получайте бонусные награды.
+event_hero_release_bundle_tittle_11<>Поддерживаемый пакет
+warning_delete_account<>Удалённый аккаунт восстановить невозможно. Вы уверены, что хотите удалить свой аккаунт?
+event_skin_challenge_day_not_available<>Задания будут разблокированы в ближайшие дни.
+delete_account<>Удалить аккаунт
+delete_account_rule_1<>Все ваши внутриигровые данные будут безвозвратно удалены и не подлежат восстановлению после удаления учетной записи. Вы хотите продолжить?
+delete_account_warning_1<>Все социальные сети, связанные с вашей учетной записью, будут удалены.
+delete_account_warning_2<>После удаления аккаунт восстановить невозможно. Имейте это в виду!
+delete_account_rule_2<>Пожалуйста, введите «YES», чтобы подтвердить, что вы хотите удалить свою учетную запись.
+tap_here_to_type<>Пожалуйста, введите текст здесь
+first_purchase_hero_desc_2<>Принцесса Луны
+input_delete_failed<>Вы ввели неправильное слово. Пожалуйста, введите его снова.
+player_deactivated<>Этот аккаунт уже удалён.
+event_skin_challenge_select_layout<>Выберите кожу
+please_select_1_skin<>Пожалуйста, выберите 1 скин, чтобы начать испытание.
+challenges<>Боевой вызов
+event_hero_release_12<>Ангел-Ковчег
+event_hero_release_summon_12<>Легендарный призыв
+hero_release_daily_quest_tittle_12<>Руководство Ангела
+hero_release_collection_tittle_12<>Святая Благодать
+hero_release_collection_desc_12<>Собирайте Селестию и получайте бонусные награды.
+event_hero_release_bundle_tittle_12<>Поддерживаемый пакет
+flash_sale_new_1<>Супер пакет поддержки 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>Уважаемые игроки!\nЧтобы обеспечить качество игры и максимально безопасный и эффективный пользовательский опыт, мы решили объединить две версии игры на вьетнамском и международном рынках. Объединение двух версий состоится 30 сентября 2022 года.\n\nТаким образом, международные версии Summoners Era и Summoners Era будут выпущены в рамках одной версии – Summoners Era. Для продолжения участия игрокам необходимо связать свои текущие учетные записи с платформами социальных сетей и войти в международную версию Summoners Era. Все данные вашей учетной записи и игровой прогресс будут сохранены и загружены после процесса привязки. Поэтому, пожалуйста, свяжите свои учетные записи как можно скорее!\n\nС уважением,
+go_to_binding<>Liên kết
+flash_sale_new_2<>Супер пакет поддержки 2
+flash_sale_new_3<>Супер пакет поддержки 2
+flash_sale_new_4<>Супер пакет поддержки 3
+flash_sale_new_5<>Супер пакет поддержки 3
+flash_sale_new_6<>Супер пакет поддержки 4
+flash_sale_new_7<>Супер пакет поддержки 5
+event_mid_autumn<>Середина осени
+overview_hero_30008<>В тот день, когда Неро освободил призрака из человеческого тела, мир был погребен под обломками и заполнен газом. Люди повсюду, природа пропитана запахом крови. Души мертвых все больше и больше концентрируются, вселяясь даже в неодушевленные предметы. Козорг, изначально кварц из Бездны, стал чудовищем из-за духа смерти. Однако среди душ, собранных в Козорге, все еще есть души и добрые духи, позволяющие ему пребывать в мире и созерцании. В такие моменты Козорг хотел сделать что-то для спасения человечества и связался с Айрюу, принцессой-драконом, которая когда-то погрузилась в глубокий сон в Мертвой Бездне.
+event_hero_release_13<>Духовный Каменщик
+event_hero_release_summon_13<>Легендарный призыв
+hero_release_daily_quest_tittle_13<>Вызов сущности
+hero_release_collection_tittle_13<>Сборка душ
+hero_release_collection_desc_13<>Собирайте Козорга и получайте бонусные награды.
+event_hero_release_bundle_tittle_13<>Поддерживаемый пакет
+battle_pass_store<>Магазин боевого пропуска
+confirm_exchange<>Вы уверены, что обменяете этот товар?
+event_hero_boss_title_2<>Очищение духа
+event_hero_boss_des_2<>Бросьте вызов злому Козоргу, покажите свою силу и помогите ему одолеть демонов.
+event_hero_boss_2<>Испытание босса
+battle_pass_exchange<>Зона обмена
+confirm_remove_food<>Вы уверены, что удалите этого героя из списка персонажей, которых можно использовать в качестве еды для улучшения?
+failed_quick_remove<>Этот герой теперь не может использоваться в качестве еды. Пожалуйста, удалите его из списка доступных функций вручную!
+price<>Цена 
+popular<>Редкость
+recent<>Дата выпуска
+skin_shop<>Скинпак
+there_is_no_current_sale<>Ой. Акционные предложения сейчас недоступны. Они временно отсутствуют, но скоро появятся.
+confirm_remove_hero<>Вы уверены, что хотите удалить этого героя из списка следующих персонажей?
+failed_remove_hero<>Удалить этого героя быстро невозможно. Пожалуйста, удалите его вручную.
+hero_lock_in_feature<>Герой заблокирован в функции
+black_friday_bundle<>Суперраспродажа в Черную пятницу
+social<>Социальная сеть
+friends<>Друг
+guide_book<>Путеводитель
+customer_service<>Обслуживание клиентов
+overview_hero_60003<>Залидус убил свою собственную маму, когда родился, сигнализируя о том, что вся его жизнь будет сочетаться с убийствами и резней.\nВыросший посреди Темной Ямы, где выживание означает убийство других, Залидус был одним из лучших. Он начал с того, что просто делал все, что ему было нужно, чтобы выжить, в конце концов стал убивать кого угодно ради денег, выполняя грязную и отвратительную работу убийцы.\nЕсли вы когда-нибудь блуждали возле Темной Ямы, и вдруг в темноте загорелся яркий крест X, знайте, что Залидус отправляет вас в Загробную жизнь.
+overview_hero_60006<>Жила-была красивая жрица Библиотеки Света по имени Хехта, слава которой заключалась не только в ее красоте, но и в ее огромных познаниях в магии.\nЖажда знаний уводила жрецу все дальше и дальше, в страну Темной магии. Чем больше древних заклинаний она приобретала, тем больше беспокойства росло среди ее коллег-ученых. Пока в один назначенный день Хехта не предстал перед судом Магического Совета за исследование Запретной магии. Как ни странно, она не выдвигала никаких объяснений, просто кивала на каждое обвинение в ее адрес, Хехта знала, что эта земля больше не может утолить ее жажду.\nВ день вынесения смертного приговора Хехты нигде не было, как будто она растворилась в воздухе. Вскоре после этого, по слухам, по Темному замку бродила незнакомая красавица с эльфийскими ушами...
+event_hero_release_14<>Теневой клинок
+event_hero_release_summon_14<>Легендарный призыв
+hero_release_daily_quest_tittle_14<>Вызовы Жнеца
+hero_release_collection_tittle_14<>Злое скопление
+hero_release_collection_desc_14<>Собирайте Залидуса и получайте бонусные награды.
+event_hero_release_bundle_tittle_14<>Поддерживаемый пакет
+event_hero_release_15<>Очаровательный мечник
+event_hero_release_summon_15<>Легендарный призыв
+hero_release_daily_quest_tittle_15<>Тренировка выносливости
+hero_release_collection_tittle_15<>Подарки, которые трогают до глубины души.
+hero_release_collection_desc_15<>Собирайте Хехту и получайте бонусные награды.
+event_hero_release_bundle_tittle_15<>Поддерживаемый пакет
+version_recent<>Последняя версия
+version_next<>Следующая версия
+maintenance<>Объявление о техническом обслуживании
+event_skin_challenge_detail<>Собирайте предметы события, чтобы обменять их на желаемый скин.
+already_exchange<>Обмен
+go_event<>Просмотреть подробности
+customer_service_content<>Если у вас возникнут какие-либо проблемы во время игры, не стесняйтесь обращаться в нашу службу поддержки клиентов. Наши внимательные сотрудники всегда готовы вам помочь.
+included_free<>Включено бесплатное вознаграждение
+understand<>Понял
+event_airyuu<>Квинтэссенция природы
+title_event_airyuu<>Квинтэссенция природы
+airyuu_check_in<>КВИНТЭССЕНЦИЯ ПРИРОДЫ
+airyuu_checkin_title<>ОТСТУПНОЕ ПРИВЕТСТВИЕ
+time_next_day<>На следующий день в
+airyuu_treasure<>Сокровища Дракона
+airyuu_treasure_infor<>Пользователь Водяной шар открывает сундуки и получает удивительные награды.
+airyuu_quest<>Приключение в Драконьей стране
+airyuu_quest_title<>ПРИКЛЮЧЕНИЕ В ДРАКОНЬЕЙ СТРАНЕ
+wait_check_in<>Пожалуйста, приходите завтра.
+airyuu_bundle<>Вызов Дракона
+airyuu_bundle_infor<>Эйрюу будет очень рада, если вы купите ей эти наборы.
+airyuu_trial<>Дневник Священных лесов
+airyuu_trial_infor<>Бросьте вызов слугам Айрю, чтобы получить награду.
+airyuu_collection<>Благословение Дракона
+airyuu_evolution_title<>БЛАГОСЛОВЕНИЕ ДРАКОНА
+check_in<>Вы зарегистрировались сегодня.
+recheckin<>Повторная регистрация
+confirm_use_all<>Вы ведь будете пользоваться этими предметами, правда?
+open_x1<>Открыть 1
+open_all<>Открыть все
+airyuu_evolution_quest_title<>БЛАГОСЛОВЕНИЕ ДРАКОНА
+history<>История
+chance<>Пытаться 
+select_difficult<>Выберите уровень сложности
+difficult<>Сложность
+patch<>Пластырь
+event_new_hero_rateup_summon_2<>Легендарный призыв
+created_time<>Время присутствия
+enable_animation<>Включить анимацию
+transform<>Форма переключения
+confirm_use_resource<>Вы хотите использовать эти награды
+event_new_year_bundle<>Новогодний пакет
+new_year_purchase_1<>Маленький набор карт
+new_year_purchase_2<>Средний набор карт
+new_year_purchase_3<>Большой набор карт
+event_lunar_2022_spring_bundle_<>Счастья и процветания
+show_more_information<>Детали бонуса фракции
+event_community<>Мероприятие сообщества
+event_tower_of_eitri<>Башня Эйтри
+tower_of_eitri_tower<>Башня Дракона
+tower_of_eitri_tower_infor<>Башня Дракона
+tower_of_eitri_exchange<>Зона обмена
+tower_of_eitri_exchange_infor<>Зона обмена
+tower_of_eitri_bundle<>Наборы для строительства башен
+tower_of_eitri_bundle_infor<>Наборы для строительства башен
+tower_of_eitri_quest<>Приключения Эйтри
+tower_of_eitri_quest_title<>Приключения Эйтри
+tower_of_eitri_quest_infor<>Приключения Эйтри
+current_floor<>Текущий этаж
+build<>Строить
+skip_animation<>Пропустить анимацию
+normal_floor_reward<>Обычная награда за этаж
+golden_floor_reward_bonus<>Награда за золотой этаж
+confirm_use<>Вы хотите использовать?
+hammer_in_pool<>Получите Молот Эйтри после обмена награды. Чем выше этаж, тем больше Молотов вы получите. Доступно сейчас:
+reach_limited_exchange<>Достигнут лимит количества обменов!
+reward_milestone<>Общее количество этажей
+claim_and_close<>Получите вознаграждение
+event_hero_release_16<>Вечный Ад
+event_hero_release_summon_16<>Легендарный призыв
+hero_release_daily_quest_tittle_16<>Проблемы пожаров
+hero_release_collection_tittle_16<>Пламя Ариана
+hero_release_collection_desc_16<>Собирайте Ариена и получайте бонусные награды.
+event_hero_release_bundle_tittle_16<>Поддерживаемый пакет
+overview_hero_20002<>Ариен была героиней огня, известной как одна из самых искусных воительниц в южном королевстве, внушавшая страх врагам и уважение союзникам. Но, несмотря на свою грозную репутацию, Ариен не была лишена сострадания. Она часто путешествовала по окрестным деревням, помогая людям своей огненной магией.\n\nОднажды, во время миссии по защите деревни от бушующей песчаной бури, Ариен встретила Икара, воина-феникса огня. Они сражались плечом к плечу, их пламя слилось воедино в ослепительном проявлении силы. Они быстро поняли, что их связывает особая связь, любовь, которая горела так же ярко, как пламя, которым они управляли.\n\nС того дня Ариен и Икар стали неразлучны, путешествуя вместе по королевству и сражаясь за общее благо. Характер Ариен сформировался под влиянием её любви к своему народу, её мастерства в огненной магии и её нерушимой связи с Икаром, воином-фениксом огня.
+event_hero_release_17<>Хранитель океана
+event_hero_release_summon_17<>Легендарный призыв
+hero_release_daily_quest_tittle_17<>Испытание приливов
+hero_release_collection_tittle_17<>Сокровища Оссе
+hero_release_collection_desc_17<>Собирайте Osse и получайте бонусные награды.
+event_hero_release_bundle_tittle_17<>Пакет поддержки
+overview_hero_10007<>Оссе — легендарный хранитель моря, почитаемый всеми, кто обитает под волнами. Он — человек с нижней частью тела змеи. Рожденный из глубин океана, Оссе был призван защищать море от тех, кто стремится эксплуатировать его ресурсы или причинить вред его обитателям. Он — свирепый и могущественный воин, способный призвать на помощь в битве сами силы моря.\n\nСреди других рас Оссе известен своей устрашающей репутацией. Но любое существо, называющее океан своим домом, знает, что Оссе питает к ним глубокую любовь и уважение; хранитель океана не остановится ни перед чем, чтобы защитить его от зла. Поэтому у Оссе есть свой принцип: не позволять никому и ничему, угрожающему миру океанского царства, уйти на свободу, особенно пиратам.
+event_hero_release_18<>Сердце океана
+event_hero_release_summon_18<>Легендарный призыв
+hero_release_daily_quest_tittle_18<>Путешествие мести
+hero_release_collection_tittle_18<>Океанская Ярость
+hero_release_collection_desc_18<>Собирайте туман и получайте бонусные награды.
+event_hero_release_bundle_tittle_18<>Пакет поддержки
+overview_hero_10005<>Легенда гласит, что глубоко в океане находится драгоценный камень, называемый «сердцем океана», обладающий огромной силой. Миф распространился повсюду, и всё больше пиратов отправляются в бессмысленные экспедиции в поисках этого сокровища.\n\nМист родилась в семье пиратов, с самого раннего детства проводя время в открытом море. Её родители и братья с сёстрами были сплочённой командой, и их мечтой было завладеть волшебным «сердцем океана». Но погоня за таинственной легендой имеет свою цену: трагедия постигла Мист ещё в юном возрасте. Её семья подверглась нападению получеловека-полузмея, когда преследовала сокровище, и, к несчастью, Мист оказалась единственной выжившей. Оставшись ни с чем, кроме страдающей души, Мист отправилась на поиски мести, полная решимости найти сердце океана и использовать его силу против монстра, лишившего её счастья.
+event_boost_first_purchase<>Обновление
+boost_first_purchase_title_1<>Обновление 1
+boost_first_purchase_title_2<>Обновление 2
+boost_first_purchase_title_3<>Обновление 3
+boost_first_purchase_title_4<>Обновление 4
+boost_first_purchase_title_5<>Обновление 5
+boost_first_purchase_title_6<>Обновление 6
+boost_first_purchase_title_7<>Обновление 7
+boost_first_purchase_title_8<>Обновление 8
+boost_first_purchase_title_9<>Обновление 9
+boost_first_purchase_title_10<>Обновление 10
+boost_first_purchase_title_detail_1<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_2<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_3<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_4<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_5<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_6<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_7<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_8<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_9<>Укрепите свой состав прямо сейчас!
+boost_first_purchase_title_detail_10<>Укрепите свой состав прямо сейчас!
+event_seasonal<>Летний фестиваль
+seasonal_check_in<>Летняя регистрация
+seasonal_bundle<>Летний набор
+seasonal_daily_checkin<>Летняя регистрация
+seasonal_firework_shop<>Летний набор
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>скоро новые события
+more_detail<>Деталь
+event_server_open_checkin<>Регистрация новичков
+seasonal_firework_exchange<>Зона обмена
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 6
+seasonal_exchange<>Зона обмена
+seasonal_firework_creator<>Бар для отдыха
+seasonal_super_gift<>Летняя викторина
+seasonal_royal_challenge<>Океанский вызов
+not_day_checkin<>Подождите до следующего дня, чтобы подать заявку.
+seasonal_summer_game_main_quest<>Выполните все задания, чтобы получить эксклюзивный скин.
+complete_%s_more_to_reward<>Выполните все задания, чтобы получить эксклюзивный скин.
+select_ball_to_exchange<>Выберите водяной шар
+select_ball_exchange_to<>Выберите водяной шар
+reselect_exchange_item<>Вы ещё не выбрали водный шар.
+you_have_no_this_resource<>У вас нет этого товара.
+cant_not_exchange_same_item<>Невозможно выбрать один и тот же товар.
+throw_single<>Бросок 1
+throw_all<>Выбросить все
+throw_%s_time_execute_target<>Бросьте %s чтобы выполнить вознаграждение цели и претендовать на вознаграждение
+exchange_ball<>обмен мячами
+seasonal_throw_ball<>Летняя викторина
+can_not_reselect_hero<>Вы уверены, что выбрали этого героя?\nВы ​​не сможете изменить свой выбор после начала игры.
+make<>Делать
+make_single_mojito<>Приготовьте 1 мохито
+quick_make<>Быстрое приготовление
+seasonal_summer_game_title_detail<>Откройте летнюю подарочную коробку, чтобы получить водный мяч и принять участие в викторине.
+tap_for_more_information<>Нажмите на баннер для получения более подробной информации.
+event_hero_release_summon_19<>Почтительное приветствие
+event_hero_release_19<>Приключение в Драконьей стране
+overview_hero_40027<>Когда племя Драконов подвергалось преследованиям со стороны людей, принцесса Драконов, Айрю, была совсем юной. Айрю была сопровождена Финде и его приближенными в безопасное место, где осталась только она. За сотни лет маленькая принцесса Айрю превратилась в прекрасную девушку. Она путешествует между миром людей, познавая знания и разыскивая свои корни. Благодаря своей честности, невинности и чистоте, Айрю всегда любима всеми. Она считает себя такой же, как и все остальные, познавая и радость, и печаль. Как она отреагирует, узнав о трагедии своих предков?
+hero_release_daily_quest_tittle_19<>Дневник священного леса
+hero_release_collection_tittle_19<>Благословение Дракона
+hero_release_collection_desc_19<>Собирайте Airyuu, чтобы получить бонусные награды.
+event_hero_release_bundle_tittle_19<>Вызов дракона
+first_purchase_hero_desc_20001<>Феникс Возрождённый
+first_purchase_hero_desc_40027<>Принцесса Дракона
+buy_point<>Заработать балл
+birthday_buy_level<>Заработайте бонусные баллы за участие в программе Наследие
+birthday_level_bundle_1<>Зарабатывайте на рекламе
+birthday_level_bundle_2<>Заработать балл
+birthday_level_bundle_3<>Заработать балл
+go_to_event<>Присоединиться к мероприятию
+flash_sale_evolve_title<>Герой мгновенной распродажи
+popup_not_appear_anymore<>Вы уверены, что закрыли всплывающее окно? После закрытия вы не сможете повторно открыть пакет.
+auto_next_battle_in<>Следующий этаж начинается в
+event_hero_release_20<>Святой Волшебник
+event_hero_release_summon_20<>Легендарный призыв
+hero_release_daily_quest_tittle_20<>Обучение магии
+hero_release_collection_tittle_20<>Собирайте магию
+hero_release_collection_desc_20<>Собирайте Игнатия, чтобы получить бонусные награды.
+event_hero_release_bundle_tittle_20<>Полый Свет
+overview_hero_50011<>В мистическом и древнем мире, где разворачивается вечная битва между Светом и Тьмой, в небесах парит уникальное богоподобное существо, известное как Игнатий. Он предстает в образе величественной птицы, блистательной в сияющих перьях, переливающихся солнечным светом. Поддавшись убеждению архангела Селестии, Игнатий объединил грозную армию могущественных союзников из фракции Света, чтобы стать непримиримыми противниками армии Скатах. Теперь он стоит как маяк надежды, защитник фракции Света в борьбе со злобными силами фракции Тьмы.
+not_have_hero_meet_requirement<>Ни один герой не соответствует требованиям задания.
+auto_rematch_in<>Повторное сражение в
+tower_progress<>Строительство башни продолжается
+event_boss_challenge<>Испытание босса
+event_boss_challenge_challenge_tower<>Башня испытаний
+event_boss_challenge_boss_quest<>Задание босса
+event_boss_challenge_shop<>Набор босса
+event_boss_challenge_quest_title<>Вызов Козорга
+event_boss_challenge_desc<>Выполните ежедневное задание, чтобы получить монету испытания.
+boss_challenge_shop_title_1<>Ежедневный набор
+boss_challenge_shop_title_2<>Пакет событий
+event_mid_autumn_quest_name<>Ежедневное задание
+event_mid_autumn_quest_title<>Ежедневное задание
+event_mid_autumn_quest_content<>Выполните задание, чтобы получить лунный пирог.
+event_festival_market_name<>Рынок середины осени
+event_mid_autumn_market_title<>Рынок середины осени
+event_mid_autumn_market_des<>Приобретайте комплекты, чтобы получить товары для мероприятия.
+event_mid_autumn_special_offer_title<>праздник середины осени
+event_mid_autumn_text_quest_bet<>Bet {1} фонарь на средней обзоре арены
+event_mid_autumn_arena_title<>Арена Середины Осени
+event_mid_autumn_arena_name<>Арена Середины Осени
+event_mid_autumn_arena_content<>Сделайте ставку на более сильную команду, чтобы получить шанс на появление нескольких зажжённых фонарей.\nСтавки нельзя делать в последние 30 минут игрового дня.
+event_mid_autumn_arena_item_text_attacker_team<>Нападающий
+event_mid_autumn_arena_item_text_defender_team<>Защитник
+event_mid_autumn_arena_item_text_total_bet<>Общая сумма ставки
+event_mid_autumn_arena_item_text_battle_end<>Битва закончилась.
+event_mid_autumn_arena_item_text_battle_time<>Заканчивается на: %s
+event_mid_autumn_arena_item_text_day<>День
+event_mid_autumn_arena_item_text_bet<>Ставка
+area_bet_title<>Ставка
+area_bet<>Ставка
+event_mid_autumn_arena_item_text_coming_soon<>Вскоре
+bet_time_out<>Время ставок истекло
+popup_exchange_tower_of_eitri_title_text<>Всплывающее подтверждение
+popup_exchange_tower_of_eitri_ask_text<>Вы уверены, что можете использовать эти товары для обмена?
+event_halloween_quest_title<>Хэллоуинская миссия
+event_halloween_quest_desc<>Выполняйте ежедневные задания, чтобы получить внутриигровую валюту Хэллоуинского события.
+event_halloween_shop_title<>Магазин товаров для Хэллоуина
+event_halloween_shop_des<>Приобретите набор, чтобы получить игральные кости и тыкву.
+halloween_quest<>Хэллоуинская миссия
+halloween_shop<>Магазин товаров для Хэллоуина
+want_to_roll_dice<>Вы уверены, что хотите бросить все кубики?
+roll_all<>Бросьте все кубики
+event_halloween_quest_tavern_all_star<>Выполните задание {1} с любой звездой в Таверне
+piece_adventure_floor<>Текущий этаж
+event_piece_adventure_quest_title<>Событие-квест
+event_piece_adventure_desc<>Выполните задание, чтобы получить Ключ Приключения.
+piece_adventure_card<>Приключенческое мероприятие
+event_piece_adventure_exchange_name<>Обмен событиями
+event_piece_adventure_exchange_desc<>Используйте артефакт для обмена подарками.
+event_piece_adventure_shop_name<>Магазин мероприятий
+event_piece_adventure_shop_desc<>Приобретите комплект, чтобы получить ключ к приключению и фрагмент артефакта.
+cannot_unlock_floor<>Чтобы перейти на следующий этаж, вам нужно найти хотя бы один предмет.
+want_to_unlock_floor<>Вы уверены, что хотите перейти на следующий уровень, не собрав все предметы?
+piece_adventure_quest<>Событие-квест
+piece_adventure_exchange<>Обмен событиями
+piece_adventure_store<>Магазин мероприятий
+floor_reward_list<>Список этажей
+event_piece_adventure<>Приключение из кусочков
+piece_adventure_shop_title_1<>Ежедневное предложение
+piece_adventure_shop_title_2<>Магазин мероприятий
+next_floor<>Следующий этаж
+want_to_open_all<>Система будет автоматически открывать сундук, пока не доберётся до бонусного предмета или не закончатся ключи. Вы уверены, что хотите это сделать?
+open_all_card<>Автоматическое открытие
+claimed_all_card<>Вы уже открыли все сундуки на этом этаже.
+not_click_start<>Для начала игры необходимо нажать кнопку «Начать».
+open_card_tut_text<>Выберите сундук, чтобы найти сокровища.
+max_floor<>Вы достигли заключительного этажа мероприятия. До встречи на следующем мероприятии!
+title_black_friday_sale_select_item<>Супервыгодное предложение в Черную пятницу!!!
+select_5_reward<>Выберите 5 товаров, которые вы хотите приобрести.
+your_choice_text<>Выбранные товары
+get_bonus<>Подтверждать
+need_select_5_reward<>Вам необходимо выбрать 5 товаров.
+want_to_get_bonus<>Подтвердите выбранные элементы
+have_max_items<>Вы можете выбрать только 5 товаров.
+black_friday_sale_1<>Общий комплект
+black_friday_sale_2<>Супер-набор
+black_friday_sale_3<>Ультра-комплект
+event_black_friday_new_version<>Набор «Черная пятница»
+title_black_friday_sale_super_deal<>Супервыгодное предложение в Черную пятницу!!!
+drop_time_thanks_giving<>13 дней с начала мероприятия
+thanks_giving_shop<>Магазин товаров ко Дню благодарения
+thanks_giving_dice_title<>Игра «Урожай»
+event_golden_time_thanks_giving_name<>События во время сбора урожая
+thanks_giving_quest<>Поиски ко Дню благодарения
+event_thanks_giving_exchange_name<>Обмен тыквами
+event_thanks_giving_specialoffer<>Предложение ко Дню благодарения
+golden_time_thanks_giving_drop_info<>∙ 10 Тыква: {0} (s)
+event_golden_time_thanks_giving<>События во время сбора урожая
+event_golden_time_thanks_giving_desc<>Собирайте кубики и тыквы, чтобы обменивать их на награды. Предметы, связанные с Днем благодарения, исчезнут после окончания события.\nЗа 12 часов до окончания события тыквы перестанут выпадать из сундука бездействия.
+thanks_giving_dice_guide<>Собирайте и бросайте кубики — получайте потрясающие призы!\nПодробнее в игре Thanksgiving Quest.
+event_thanks_giving_quest_desc<>Выполните задание на День благодарения, чтобы получить больше кубиков.
+event_thanks_giving_exchange_desc<>Собирайте тыквы и обменивайте их на неограниченное количество наград ниже.
+event_thanks_giving_shop_des<>Приобретите набор, чтобы получить игральные кости и тыкву.
+thanks_giving_purchase_1<>Набор для перерыва на чай
+thanks_giving_purchase_2<>Набор для ужина
+thanks_giving_purchase_3<>Комплект Banquest
+event_thanks_giving<>День благодарения
+event_thanks_giving_shop_title<>Магазин товаров ко Дню благодарения
+event_thanks_giving_quest_title<>Поиски ко Дню благодарения
+source_money_type_102<>- Игра Урожай\n- Предложение ко Дню благодарения\n- Магазин ко Дню благодарения
+lock_level<>Заблокировано
+raid_key_75<>Купите больше золотых ключей
+raid_key_76<>Купить больше стеклянных ключей
+raid_key_77<>Купить больше фрагментных ключей
+limited<>Ограниченный
+back_current<>Вернуться к текущему
+max_ads_turn_daily<>Вы сегодня посмотрели все рекламные объявления.
+recycle<>Переработка
+acquired_items<>Приобретенные товары
+auto_select<>Автоматический выбор
+nothing_to_recycle<>Вы должны выбрать как минимум одного героя для переработки.
+have_max_items_recycle<>Ячейки для переработки заполнены.
+all_hero_recycle_selected<>Все герои отобраны.
+recycle_four_star_hero<>Вы уверены, что сдадите мусор на переработку?
+select_orb_title<>Выберите шар
+can_not_select<>Слоты для сфер заполнены.
+not_have_enought_food<>У вас нет сферы для выбора.
+max_total_exp<>Вы заполнили достаточно сфер.
+event_christmas_feed_name<>Рождественское благословение
+event_christmas_feed_desc<>Используйте леденец-трость, чтобы благословить Игнатия и получить подарок.
+blessing<>Благословение
+blessing_all<>Благословения всем
+event_christmas_arena_title<>Рождественская арена
+event_christmas_arena_content<>Используйте свечу для ставок и получите больше зажжённых свечей.
+event_christmas_quest_title<>Рождественский квест
+event_christmas_quest_content<>Выполните задание, чтобы получить леденец-трость.
+event_christmas_blessing_quest<>Благословение {1} Леденец-трость для Игнатия
+event_christmas_text_quest_bet<>Ставка {1} на свечу на рождественской арене
+event_christmas_exchange_name<>Рождественский обмен
+event_christmas_exchange_desc<>Используйте зажжённую свечу для обмена предмета.
+event_christmas_market_title<>Рождественский магазин
+event_christmas_market_des<>Купите больше леденцов-тростей и зажжённых свечей.
+event_christmas_specialoffer<>Рождественское предложение
+event_christmas<>Рождество
+christmas_offer_1<>Предложение конфет
+christmas_offer_2<>Веселое предложение
+christmas_offer_3<>Предложение Санты
+event_boss_challenge_leader_board_title<>Таблица лидеров
+event_new_year_2023<>Новый год
+drop_time_new_year_2023<>13 дней с начала мероприятия
+new_year_shop<>Новогодний магазин
+event_golden_time_new_year_2023_name<>Радостный момент
+event_new_year_2023_wish_name<>Пожелайте удачи!
+new_year_2023_quest<>Новогоднее приключение
+event_new_year_2023_exchange_name<>Новогодний обмен
+event_new_year_2023_specialoffer<>Новогоднее предложение
+new_year_2023_shop<>Новогодний магазин
+source_money_type_229<>- Счастливое пожелание\n- Новогоднее предложение\n- Новогодний магазин
+event_new_year_2023_quest_desc<>Выполните задания, чтобы получить новогодний билет.
+event_golden_time_new_year_2023_desc<>Соберите открытку в сундуке бездействия. Новогодние предметы исчезнут после окончания события.
+golden_time_new_year_2023_drop_info<>Собирайте открытки, чтобы обменивать их на награды. В сундуке бездействия будет выпадать 10 открыток каждый час. За 12 часов до окончания события выпадение открыток из сундука бездействия прекратится.
+text_chance_reset<>Количество попыток до сброса
+event_new_year_2023_exchange_desc<>Собирайте открытки и обменивайте их на неограниченное количество наград, представленных ниже.
+new_year_2023_purchase_1<>Набор ручных бенгальских огней
+new_year_2023_purchase_2<>Набор для костра
+new_year_2023_purchase_3<>Набор фейерверков
+event_new_year_2023_shop_des<>Купите открытку и новогодний билет, чтобы принять участие в мероприятии.
+want_to_wish_all<>Вы хотите использовать все свои билеты для переката?
+event_golden_time_lunar_new_year_2024<>Выполните задания, чтобы забрать Нефрит.
+event_golden_time_lunar_new_year_2024_desc<>Собирайте монеты удачи в сундуке в режиме ожидания. Новогодние предметы исчезнут после окончания события.
+drop_time_lunar_new_year_2024<>13 дней с начала мероприятия
+golden_time_lunar_new_year_2024_drop_info<>Собирайте Монеты Удачи, чтобы обменять их на награды. В сундуке бездействия будет выпадать 10 Монет Удачи каждый час. За 12 часов до окончания события выпадение Монет Удачи из сундука бездействия прекратится.
+source_money_type_78<>- Счастливое бинго\n- Предложение к Китайскому Новому году\n- Предложение к Китайскому Новому году
+event_lunar_new_year_2024<>Лунный Новый год
+bingo_count<>Количество бинго
+extra_bingo_reward_text<>Бонус за успех в игре в бинго
+bingo<>Бинго
+bingo_reward_list<>Награда за игру в бинго
+bingo_title<>Счастливое Бинго
+event_lunar_new_year_2024_bingo_name<>Счастливое бинго
+lunar_new_year_2024_quest<>Новогоднее приключение
+event_lunar_new_year_2024_exchange_name<>Новогодний обмен
+event_lunar_new_year_2024_specialoffer<>Новогоднее предложение
+lunar_new_year_2024_shop<>Новогодний магазин
+event_lunar_new_year_2024_quest_desc<>Выполните задания, чтобы забрать Нефрит.
+event_lunar_new_year_2024_exchange_desc<>Собирайте монеты удачи и обменивайте их на неограниченные награды, указанные ниже.
+lunar_new_year_2024_purchase_1<>Пакет «Процветание»
+lunar_new_year_2024_purchase_2<>Найденное богатство, Набор удачи
+lunar_new_year_2024_purchase_3<>Набор «Воссоединение драконов»
+event_lunar_new_year_2024_shop_des<>Приобретайте нефритовые и фортужные монеты, чтобы участвовать в событии.
+event_golden_time_lunar_new_year_2024_name<>Новогодний момент
+bingo_tut_lunar_new_year_2024<>Нажмите на сундук, чтобы открыть его.
+event_valentine_2024<>Мероприятие ко Дню святого Валентина
+drop_time_valentine_2024<>13 дней с начала мероприятия
+source_money_type_250<>- Сладкий подарок\n- Предложение ко Дню святого Валентина\n- Магазин ко Дню святого Валентина
+event_golden_time_valentine_2024_name<>Моменты любви
+event_valentine_2024_wish_name<>Сладкий подарок
+valentine_2024_quest<>Сладкий вызов
+event_valentine_2024_exchange_name<>Шоколадный обмен
+event_valentine_2024_specialoffer<>Предложение ко Дню святого Валентина
+valentine_2024_shop<>Магазин товаров ко Дню святого Валентина
+event_lottery_valentine_title<>Сладкий подарок
+event_valentine_2024_quest_desc<>Выполните задание, чтобы забрать Стрелу Любви.
+event_valentine_2024_exchange_desc<>Собирайте шоколад и обменивайте его на неограниченное количество наград ниже.
+event_valentine_2024_shop_des<>Купите Love Arrow и Chocolate, чтобы принять участие в мероприятии.
+valentine_2024_purchase_1<>Набор «Первая любовь»
+valentine_2024_purchase_2<>Набор страстной любви
+valentine_2024_purchase_3<>Набор «Истинная любовь»
+event_golden_time_valentine_2024_desc<>Собирайте шоколад в сундуке в режиме ожидания. Предметы ко Дню святого Валентина исчезнут после окончания события.
+golden_time_valentine_2024_drop_info<>Собирайте шоколад, чтобы обменять его на награды. В сундуке бездействия будет выпадать 10 шоколадок каждый час. За 12 часов до окончания события шоколад перестанет выпадать из сундука бездействия.
+subscription_packs_5<>КОМАНДНАЯ КАРТОЧКА
+subscription_packs_6<>КАРТА ПРОРОКА
+sweep<>Мести
+item_reward<>Общий
+item_reward_premium<>Премиум
+event_boss_challenge_premium_pass<>Карта претендента
+premium_pass_title_text<>Карта претендента
+buy_now_text<>Купить сейчас
+premium_pass_total_reward_text<>Общая сумма вознаграждения
+benefit_text<>Преимущества:\n- Разблокировка пропуска битвы и использование всех билетов в Башне испытаний боссов\n- Разблокировка премиум-награды\n- Разблокировка большой награды на последнем этаже
+need_buy_boss_premium_pass<>Для использования этой функции необходимо приобрести карту Challenger Card.
+quick_battle_title<>Выберите номер билета, который вы хотите использовать.
+event_easter_day<>Пасхальный день
+easter_day_shop<>Пасхальный магазин
+drop_time_easter_day<>13 дней с начала мероприятия
+easter_day_dice_title<>Пасхальное путешествие
+source_money_type_218<>- Пасхальное путешествие\n- Пасхальное предложение\n- Пасхальный магазин
+event_golden_time_easter_day_name<>Охота за яйцами
+easter_day_quest<>Пасхальный квест
+event_easter_day_exchange_name<>Обмен яйцами
+event_easter_day_specialoffer<>Пасхальное предложение
+event_golden_time_easter_day_desc<>Собирайте пасхальные яйца в сундуке в режиме ожидания. Пасхальные предметы исчезнут после окончания события.
+easter_day_dice_guide<>Собирайте и бросайте кубики — получайте потрясающие призы!\nПодробнее в Пасхальном квесте.
+event_easter_day_quest_desc<>Выполняйте задания, чтобы получить игральные кости.
+event_easter_day_exchange_desc<>Собирайте пасхальные яйца и обменивайте их на неограниченное количество наград ниже.
+easter_day_purchase_1<>Набор серебряных яиц
+easter_day_purchase_2<>Набор золотых яиц
+easter_day_purchase_3<>Набор радужных яиц
+event_easter_day_shop_des<>Купите игральные кости и пасхальные яйца, чтобы принять участие в мероприятии.
+golden_time_easter_day_drop_info<>Собирайте пасхальные яйца, чтобы обменивать их на награды. В сундуке бездействия будет выпадать 10 пасхальных яиц каждый час. За 12 часов до окончания события пасхальные яйца перестанут выпадать из сундука бездействия.
+event_summer_day<>Летние каникулы
+drop_time_summer_day<>13 дней с начала мероприятия
+source_money_type_82<>- Летние путешествия\n- Летнее предложение\n- Летний магазин
+event_golden_time_summer_day_name<>Отдых на пляже
+event_golden_time_summer_day_desc<>Собирайте пляжные мячи из сундуков в режиме ожидания и участвуйте в событиях, чтобы обменивать их на награды.
+summer_day_dice_title<>Летние путешествия
+summer_day_quest<>Летний квест
+event_summer_day_exchange_name<>Летний обмен
+event_summer_day_specialoffer<>Летнее предложение
+summer_day_shop<>Летний магазин
+event_summer_day_shop_title<>Летний магазин
+event_summer_day_quest_title<>Летний квест
+event_summer_day_quest_desc<>Выполняйте задания, чтобы получить игральные кости.
+event_summer_day_exchange_desc<>Собирайте пляжные мячи и обменивайте их на неограниченное количество наград ниже.
+summer_day_purchase_1<>Набор для летней поездки
+summer_day_purchase_2<>Летний туристический пакет
+summer_day_purchase_3<>Набор для летней вечеринки
+golden_time_summer_day_drop_info<>Собирайте пляжные мячи, чтобы обменивать их на награды. В сундуке бездействия будет выпадать 10 пляжных мячей каждый час. За 12 часов до окончания события выпадение пляжных мячей из сундука бездействия прекратится.
+summer_day_dice_guide<>Собирайте и бросайте кубики — получайте потрясающие призы!\nПодробнее в Summer Quest.
+event_blossom_day<>Фестиваль цветения сакуры
+drop_time_blossom_day<>13 дней с начала мероприятия
+source_money_type_63<>- Цветущая сакура\n- Предложение фестиваля\n- Магазин фестиваля
+golden_time_blossom_day_drop_info<>Собирайте вишневые цветы, чтобы обменять их на награды. В сундуке бездействия будет выпадать 10 вишневых цветов каждый час. За 12 часов до окончания события выпадение вишневых цветов из сундука бездействия прекратится.
+blossom_day_wish_name<>Цветущая вишня
+blossom_day_quest<>Фестивальный квест
+blossom_day_exchange_name<>Цветочный обмен
+event_blossom_day_specialoffer<>Фестивальное предложение
+blossom_day_shop<>Фестивальный магазин
+event_golden_time_blossom_day_desc<>Собирайте цветы вишни в сундуке в режиме ожидания. Предметы, связанные с цветением вишни, исчезнут после окончания события.
+event_golden_time_blossom_day_name<>Дерево желаний
+event_blossom_day_quest_desc<>Выполните задания, чтобы получить веера цветов.
+event_blossom_day_exchange_name<>Цветочный обмен
+event_blossom_day_exchange_desc<>Собирайте вишневые цветы и обменивайте их на неограниченные награды, указанные ниже.
+event_blossom_day_shop_des<>Приобретите веера из цветов и вишневые цветы для выступления на мероприятии.
+event_summer_day_shop_des<>Купите летние игральные кости и пляжные мячи для игры на мероприятии.
+blossom_day_purchase_1<>Набор лепестков вишневых цветов
+blossom_day_purchase_2<>Набор «Вишневые деревья»
+blossom_day_purchase_3<>Набор «Вишневый лес»
+event_qixi_festival<>День Циси
+drop_time_qixi_festival<>13 дней с начала мероприятия
+source_money_type_87<>- Игра Циси\n- Фестивальное предложение \n- Фестивальный магазин
+golden_time_qixi_festival_drop_info<>Собирайте платки, чтобы обменивать их на награды. В сундуке бездействия будет выпадать 10 платков каждый час. За 12 часов до окончания события выпадение платков из сундука бездействия прекратится.
+event_qixi_festival_wish_name<>Желаю любви
+qixi_festival_quest<>Фестивальный квест
+event_qixi_festival_exchange_name<>Фестивальный обмен
+event_qixi_festival_specialoffer<>Фестивальное предложение
+qixi_festival_shop<>Фестивальный магазин
+event_golden_time_qixi_festival_desc<>Собирайте платки из сундука в режиме ожидания. Предметы, относящиеся к событию «Фестиваль Циси», исчезнут после его окончания.
+event_golden_time_qixi_festival_name<>Момент любви
+event_qixi_festival_quest_desc<>Выполните задания, чтобы получить бамбуковую флейту.
+event_qixi_festival_exchange_desc<>Собирайте платки и обменивайте их на неограниченное количество наград ниже.
+event_qixi_festival_shop_des<>Купите бамбуковую флейту и платки, чтобы играть на мероприятии.
+qixi_festival_purchase_1<>Пакет материалов для совещания
+qixi_festival_purchase_2<>Набор для свиданий
+qixi_festival_purchase_3<>Великолепный набор
+event_golden_time_may_day<>Выполните задания, чтобы захватить Клуб Пиньяты.
+event_golden_time_may_day_desc<>Собирайте конфеты в сундуке в режиме ожидания. Предметы с Мексиканского фестиваля исчезнут после окончания события.
+drop_time_may_day<>13 дней с начала мероприятия
+golden_time_may_day_drop_info<>Собирайте конфеты, чтобы обменять их на награды. В сундуке бездействия будет выпадать 10 конфет каждый час. За 12 часов до окончания события выпадение конфет из сундука бездействия прекратится.
+source_money_type_73<>- Удачное бинго\n- Предложение фестиваля в Мексике\n- Магазин фестиваля в Мексике
+event_may_day<>Фестиваль Мексики
+event_may_day_bingo_name<>Счастливое бинго
+may_day_quest<>Фестивальный квест в Мексике
+event_may_day_exchange_name<>Фестивальный обмен в Мексике
+event_may_day_specialoffer<>Предложение фестиваля в Мексике
+may_day_shop<>Магазин на фестивале в Мексике
+event_may_day_quest_desc<>Выполняйте задания, чтобы получить клюшки для пиньяты.
+event_may_day_exchange_desc<>Собирайте конфеты и обменивайте их на неограниченное количество наград ниже.
+may_day_purchase_1<>Начос Пак
+may_day_purchase_2<>Набор тако
+may_day_purchase_3<>Набор для буррито
+event_may_day_shop_des<>Купите пиньяту, булавки и конфеты для игры на мероприятии.
+event_golden_time_may_day_name<>Момент фестиваля в Мексике
+bingo_tut_may_day<>Нажмите на сундук, чтобы открыть его.
+form<>Заполните форму
+confirm_download_asset_bundle<>Подтверждать
+download_asset_bundle_noti<>Если вы не загрузите новый контент, вы не сможете продолжить своё путешествие.\nДавайте обновим игру и насладимся ещё большим количеством замечательных приключений.

@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>Obtain {c(1)} hero(es)
+quest_100_1_2<>Obtain {c(1)} {c(2)}-star hero(es)
+quest_100_1_3<>Obtain {c(1)} level {c(3)} hero(es)
+quest_100_1_4<>Obtain {c(1)} {e(class_type_~4)} class hero(es)
+quest_100_1_5<>Obtain {c(1)} {e(faction_type_~5)} faction hero(es)
+quest_100_1_2_3<>Obtain {c(1)} {c(2)}-star hero(es), level {c(3)}
+quest_100_1_2_4<>Obtain {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class
+quest_100_1_2_5<>Obtain {c(1)} {c(2)}-star hero(es) of {e(faction_type_~5)} faction
+quest_100_1_3_4<>Obtain {c(1)} {e(class_type_~4)} class hero(es), level {c(3)}
+quest_100_1_3_5<>Obtain {c(1)} {e(faction_type_~5)} faction hero(es), level {c(3)}
+quest_100_1_4_5<>Obtain {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_100_1_2_3_4<>Obtain {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class
+quest_100_1_2_3_5<>Obtain {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(faction_type_~5)} faction
+quest_100_1_2_4_5<>Obtain {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_100_1_2_3_4_5<>Obtain {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_101_1<>Evolve {c(1)} hero(es)
+quest_101_1_2<>Evolve {c(1)} hero(es) to {c(2)}-star
+quest_101_1_3<>Evolve {c(1)} hero(es) level {c(3)}
+quest_101_1_4<>Evolve {c(1)} {e(class_type_~4)} class hero(es)
+quest_101_1_5<>Evolve {c(1)} {e(faction_type_~5)} faction hero(es)
+quest_101_1_2_3<>Evolve {c(1)} level {c(3)} hero(es) to {c(2)}-star
+quest_101_1_2_4<>Evolve {c(1)} {e(class_type_~4)} class hero(es) to {c(2)}-star
+quest_101_1_2_5<>Evolve {c(1)} {e(faction_type_~5)} faction hero(es) to {c(2)}-star
+quest_101_1_3_4<>Evolve {c(1)} level {c(3)} hero(es) of {e(class_type_~4)} class
+quest_101_1_3_5<>Evolve {c(1)} level {c(3)} hero(es) of {e(faction_type_~5)} faction
+quest_101_1_4_5<>Evolve {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_101_1_2_3_4<>Evolve {c(1)} level {c(3)} hero(es) of {e(class_type_~4)} class to {c(2)}-star
+quest_101_1_2_3_5<>Evolve {c(1)} level {c(3)} hero(es) of {e(faction_type_~5)} faction to {c(2)}-star
+quest_101_1_2_4_5<>Evolve {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction to {c(2)}-star
+quest_101_1_2_3_4_5<>Evolve {c(1)} level {c(3)} hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction to {c(2)}-star
+quest_102_1<>Upgrade hero {c(1)} time(s)
+quest_102_1_2<>Upgrade {c(1)} {c(2)}-star hero(es)
+quest_102_1_3<>Upgrade {c(1)} hero(es) to level {c(3)}
+quest_102_1_4<>Upgrade {c(1)} {e(class_type_~4)} class hero(es)
+quest_102_1_5<>Upgrade {c(1)} {e(faction_type_~5)} faction hero(es)
+quest_102_1_2_3<>Upgrade {c(1)} {c(2)}-star hero(es) to level {c(3)}
+quest_102_1_2_4<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class
+quest_102_1_2_5<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(faction_type_~5)} faction
+quest_102_1_3_4<>Upgrade {c(1)} {e(class_type_~4)} class hero(es) to level {c(3)}
+quest_102_1_3_5<>Upgrade {c(1)} {e(faction_type_~5)} faction hero(es) to level {c(3)}
+quest_102_1_4_5<>Upgrade {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_102_1_2_3_4<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class to level {c(3)}
+quest_102_1_2_3_5<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(faction_type_~5)} faction to level {c(3)}
+quest_102_1_2_4_5<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_102_1_2_3_4_5<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction to level {c(3)}
+quest_103_1<>Upgrade {c(1)} hero(es) to level max
+quest_103_1_2<>Upgrade {c(1)} {c(2)}-star hero(es) to level max
+quest_103_1_3<>Upgrade {c(1)} {e(class_type_~3)} class hero(es) to level max
+quest_103_1_4<>Upgrade {c(1)} {e(faction_type_~4)} faction hero(es) to level max
+quest_103_1_2_3<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~3)} class to level max
+quest_103_1_2_4<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(faction_type_~4)} faction to level max
+quest_103_1_3_4<>Upgrade {c(1)} {e(class_type_~3)} class hero(es) of {e(faction_type_~4)} faction to level max
+quest_103_1_2_3_4<>Upgrade {c(1)} {c(2)}-star hero(es) of {e(class_type_~3)} class and {e(faction_type_~4)} faction to level max
+quest_104_1<>Dismantle {c(1)} hero(es)
+quest_104_1_2<>Dismantle {c(1)} {c(2)}-star hero(es)
+quest_104_1_3<>Dismantle {c(1)} hero(es) level {c(3)}
+quest_104_1_4<>Dismantle {c(1)} {e(class_type_~4)} class hero(es)
+quest_104_1_5<>Dismantle {c(1)} {e(faction_type_~5)} faction hero(es)
+quest_104_1_2_3<>Dismantle {c(1)} {c(2)}-star hero(es), level {c(3)}
+quest_104_1_2_4<>Dismantle {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class
+quest_104_1_2_5<>Dismantle {c(1)} {c(2)}-star hero(es) of {e(faction_type_~5)} faction
+quest_104_1_3_4<>Dismantle {c(1)} level {c(3)} hero(es) of {e(class_type_~4)} class
+quest_104_1_3_5<>Dismantle {c(1)} level {c(3)} hero(es) of {e(faction_type_~5)} faction
+quest_104_1_4_5<>Dismantle {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_104_1_2_3_4<>Dismantle {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class
+quest_104_1_2_3_5<>Dismantle {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(faction_type_~5)} faction
+quest_104_1_2_4_5<>Dismantle {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_104_1_2_3_4_5<>Dismantle {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_150_1<>Obtain {c(1)} hero(es)
+quest_150_1_2<>Obtain {c(1)} {c(2)}-base star hero(es)
+quest_150_1_3<>Obtain {c(1)} hero(es) of {e(faction_type_~3)} faction
+quest_150_1_4<>Obtain {c(1)} hero(es) of {e(class_type_~4)} class
+quest_150_1_5<>Obtain {c(1)} hero(es) of {e(faction_type_~5)} faction
+quest_150_1_2_3<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(faction_type_~3)} faction
+quest_150_1_2_4<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(class_type_~4)} class
+quest_150_1_2_5<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(faction_type_~5)} faction
+quest_150_1_3_4<>Obtain {c(1)} {e(faction_type_~3)} faction hero(es) of {e(class_type_~4)} class
+quest_150_1_3_5<>Obtain {c(1)} {e(faction_type_~3)} faction hero(es) or {e(faction_type_~5)} faction
+quest_150_1_4_5<>Obtain {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_150_1_2_3_4<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(faction_type_~3)} faction and {e(class_type_~4)} class
+quest_150_1_2_3_5<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(faction_type_~3)} faction or {e(faction_type_~5)} faction
+quest_150_1_2_4_5<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_150_1_2_3_4_5<>Obtain {c(1)} {c(2)}-base star hero(es) of {e(class_type_~4)} class and {e(faction_type_~3)} faction or {e(faction_type_~5)} faction
+quest_151_1<>Obtain all {c(1)}-base star hero(es)
+quest_151_1_2<>Obtain all {c(1)}-base star hero(es), level {c(2)}
+quest_151_1_3<>Obtain all {c(1)}-base star hero(es) of {e(class_type_~3)} class
+quest_151_1_4<>Obtain all {c(1)}-base star hero(es) of {e(faction_type_~4)} faction
+quest_151_1_2_3<>Obtain all {c(1)}-base star hero(es), level {c(2)} of {e(class_type_~3)} class
+quest_151_1_2_4<>Obtain all {c(1)}-base star hero(es), level {c(2)} of {e(faction_type_~4)} faction
+quest_151_1_3_4<>Obtain all {c(1)}-base star hero(es) of {e(class_type_~3)} class and {e(faction_type_~4)} faction
+quest_151_1_2_3_4<>Obtain all {c(1)}-base star hero(es), level {c(2)} of {e(class_type_~3)} class and {e(faction_type_~4)} faction
+quest_200_1<>Use Gold Mine {c(1)} time(s)
+quest_200_1_2<>Use Gold Mine {c(2)} {c(1)} time(s)
+quest_201_1<>Use Gold Mine for {c(1)} consecutive days
+quest_201_1_2<>Use Gold Mine {c(2)} time(s) per day for {c(1)} consecutive days
+quest_201_1_3<>Use Gold Mine {c(3)} for {c(1)} consecutive days
+quest_201_1_2_3<>Use Gold Mine {c(3)}, per day {c(2)} time(s) for {c(1)} consecutive days
+quest_300_1<>Complete {c(1)} Tavern quest(s)
+quest_300_1_2<>Complete {c(1)} {c(2)}-star Tavern quest(s)
+quest_400_1<>Challenge {c(1)} time(s) in Arena
+quest_401_1<>Win {c(1)} time(s) in Arena
+quest_402_1<>Reach {c(1)} Points in Arena
+quest_500_1<>Complete Campaign Stage: {m(1)}
+quest_501_1<>Claim idle rewards {c(1)} time(s) in Campaign
+quest_504_1<>Reach {c(1)} second(s) of Auto Training in Campaign
+quest_503_1<>Claim {c(1)} Gold in Idle Rewards
+quest_600_1<>Spin {c(1)} time(s) in Wheel Of Fate
+quest_600_1_2<>Spin {c(1)} time(s) in {e(casino_type_~2)}
+quest_600_1_3<>Spin {c(1)} time(s) in Wheel Of Fate and receive {c(3)}-star Hero Fragment
+quest_600_1_2_3<>Spin {c(1)} time(s) in {e(casino_type_~2)} and receive {c(3)}-star Hero Fragment 
+quest_601_1<>Spin {c(1)} time(s) in Wheel Of Fate
+quest_601_1_2<>Spin {c(1)} time(s) in {e(casino_type_~2)}
+quest_601_1_3<>Spin {c(1)} time(s) in Wheel Of Fate and receive {e(money_type_~3)}
+quest_601_1_2_3<>Spin {c(1)} time(s) in {e(casino_type_~2)} and receive {e(money_type_~3)}
+quest_650_1<>Spin {c(1)} continuous time(s) in Wheel Of Fate
+quest_650_1_2<>Spin {c(1)} continuous time(s) in {e(casino_type_~2)}
+quest_650_1_3<>Spin {c(1)} continuous time(s) in Wheel Of Fate doesn't receive {c(3)}-star Hero Fragment
+quest_650_1_2_3<>Spin {c(1)} continuous time(s) in {e(casino_type_~2)} and doesn't receive {c(3)}-star Hero Fragment 
+quest_651_1<>Spin {c(1)} continuous time(s) in Wheel Of Fate
+quest_651_1_2<>Spin {c(1)} continuous time(s) in {e(casino_type_~2)}
+quest_651_1_3<>Spin {c(1)} continuous time(s) in Wheel Of Fate and doesn't receive {e(money_type_~3)}
+quest_651_1_2_3<>Spin {c(1)} continuous time(s) in {e(casino_type_~2)} doesn't receive {e(money_type_~3)}
+quest_700_1<>Purchase item(s) in Black Market {c(1)} time(s)
+quest_700_1_2<>Purchase {c(2)}-star Hero Fragment in Black Market {c(1)} time(s)
+quest_701_1<>
+quest_701_1_2<>Purchase {c(1)} {e(money_type_~2)} in Black Market
+quest_750_1<>
+quest_750_1_2<>Spend {c(1)} {e(money_type_~2)} in Black Market
+quest_800_1<>Join Guild {c(1)} time(s)
+quest_801_1<>Challenge Daily Boss {c(1)} time(s)
+quest_801_1_2<>Challenge Daily Boss level {c(2)} for {c(1)} time(s)
+quest_801_1_3<>Challenge Daily Boss {c(1)} time(s), each time deal at least {c(3)} damage
+quest_801_1_2_3<>Challenge Daily Boss level {c(2)} for {c(1)} time(s) and deal at least {c(3)} damage in each time
+quest_802_1<>Challenge Daily Boss for {c(1)} consecutive days
+quest_802_1_2<>Challenge Daily Boss {c(2)} time(s) per day for {c(1)} consecutive days
+quest_802_1_3<>Challenge Daily Boss level {c(3)} for {c(1)} consecutive days
+quest_802_1_4<>Challenge Daily Boss for {c(1)} consecutive days, each time deal at least {c(4)} damage
+quest_802_1_2_3<>Challenge Daily Boss level {c(3)} {c(2)} time(s) per day for {c(1)} consecutive days
+quest_802_1_2_4<>Challenge Daily Boss {c(2)} time(s) per day for {c(1)} consecutive days, each time deal at least {c(4)} damage
+quest_802_1_3_4<>Challenge Daily Boss level {c(3)} for {c(1)} consecutive days, each time deal at least {c(4)} damage
+quest_802_1_2_3_4<>Challenge Daily Boss level {c(3)} {c(2)} time(s) per day for {c(1)} consecutive days, each time deal at least {c(4)} damage
+quest_803_1<>Guild deals damage to Daily Boss for {c(1)} time(s)
+quest_803_1_2<>Guild deals damage to Daily Boss level {c(2)} for {c(1)} time(s)
+quest_803_1_3<>Guild deals at least {c(3)} damage to Daily Boss for {c(1)} time(s)
+quest_803_1_2_3<>Guild deals at least {c(3)} damage to Daily Boss level {c(2)} for {c(1)} time(s)
+quest_820_1<>Challenge Guild Dungeon stage: {c(1)}
+quest_821_1<>Complete {c(1)} season(s) of Guild Dungeon
+quest_841_1<>Purchase {c(1)} Artifact(s) in Guild Store
+quest_841_1_2<>Purchase {c(1)} {e(artifact_type_~2)} Artifact(s) in Guild Store
+quest_900_1<>Obtain {c(1)} Items
+quest_900_1_2<>Obtain {c(1)} items with rarity is {e(equip_rarity_~2)} or higher
+quest_901_1<>Equip {c(1)} Items
+quest_901_1_2<>Equip {c(1)} {e(equip_rarity_~2)} Items
+quest_902_1<>Upgrade {c(1)} Items
+quest_902_1_2<>Upgrade {c(1)} Items to {e(equip_rarity_~2)} rarity
+quest_902_1_3<>Upgrade {c(1)} Items to {c(3)}-star
+quest_902_1_2_3<>Upgrade {c(1)} items to {e(equip_rarity_~2)} rarity and {c(3)}-star
+quest_950_1<>Obtain {c(1)} completed set(s) of items
+quest_950_1_2<>Obtain {c(1)} completed set(s) of {e(equip_rarity_~2)} items
+quest_1000_1<>Upgrade the Summoner to level {c(1)}
+quest_1001_1<>Evolve the Summoner to {c(1)}-star
+quest_1100_1<>Summon {c(1)} time(s) in Ancient Tree
+quest_1100_1_2<>Summon {c(1)} time(s) in Ancient Tree and receive {c(2)}-star Hero
+quest_1100_1_3<>Summon {c(1)} time(s) in Ancient Tree and reveive Hero belongs to {e(class_type_~3)} class
+quest_1100_1_4<>Summon {c(1)} time(s) in Ancient Tree and receive Hero belongs to {e(faction_type_~4)} faction
+quest_1100_1_2_3<>Summon {c(1)} time(s) in Ancient Tree and receive {c(2)}-star Hero belongs to {e(class_type_~3)} class
+quest_1100_1_2_4<>Summon {c(1)} time(s) in Ancient Tree and receive {c(2)}-star Hero belongs to {e(faction_type_~4)} faction
+quest_1100_1_3_4<>Summon {c(1)} time(s) in Ancient Tree and receive {e(class_type_~3)} Hero bleongs to {e(faction_type_~4)} faction
+quest_1100_1_2_3_4<>Summon {c(1)} time(s) in Ancient Tree and receive {c(2)}-star {e(class_type_~3)} Hero belongs to {e(faction_type_~4)} faction
+quest_1101_1<>Replace any Hero in Ancient Tree {c(1)} time(s)
+quest_1101_1_2<>Replace any {c(2)}-star Hero in Ancient Tree {c(1)} time(s)
+quest_1101_1_3<>Replace any Hero belongs to {e(class_type_~3)} class in Ancient Tree {c(1)} time(s)
+quest_1101_1_4<>Replace any Hero belongs to {e(faction_type_~4)} faction in Ancient Tree {c(1)} time(s)
+quest_1101_1_2_3<>Replace any {c(2)}-star Hero belongs to {e(class_type_~3)} class in Ancient Tree {c(1)} time(s)
+quest_1101_1_2_4<>Replace any {c(2)}-star Hero belongs to {e(faction_type_~4)} faction in Ancient Tree {c(1)} time(s)
+quest_1101_1_3_4<>Replace any {e(class_type_~3)} Hero belongs to {e(faction_type_~4)} faction in Ancient Tree {c(1)} time(s)
+quest_1101_1_2_3_4<>Replace any {c(2)}-star {e(class_type_~3)} hero(es) belongs to {e(faction_type_~4)} faction in Ancient Tree {c(1)} time(s)
+quest_1150_1<>Summon {c(1)} time(s) in Ancient Tree consecutively
+quest_1150_1_2<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive {c(2)}-star Hero
+quest_1150_1_3<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive Hero belongs to {e(class_type_~3)} class
+quest_1150_1_4<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive Hero belongs to {e(faction_type_~4)} faction
+quest_1150_1_2_3<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive {c(2)}-star Hero belongs to {e(class_type_~3)} class
+quest_1150_1_2_4<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive {c(2)}-star Hero belongs to {e(faction_type_~4)} faction
+quest_1150_1_3_4<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive {e(class_type_~3)} Hero belongs to {e(faction_type_~4)} faction
+quest_1150_1_2_3_4<>Summon {c(1)} time(s) in Ancient Tree consecutively and doesn't receive {c(2)}-star {e(class_type_~3)} Hero belongs to {e(faction_type_~4)} faction
+quest_1200_1<>Have {c(1)} Friends
+quest_1201_1<>Send Friend Point {c(1)} time(s)
+quest_1202_1<>Receive {c(1)} Friend Point(s) from your friends
+quest_1250_1<>Scout Friend Boss {c(1)} time(s)
+quest_1251_1<>Defeat your Friend Boss {c(1)} time(s)
+quest_1300_1<>Unlock Rune {c(1)} time(s)
+quest_1301_1<>Upgrade Rune {c(1)} time(s)
+quest_1301_1_2<>Upgrade {e(stone_rarity_~2)} Rune {c(1)} time(s)
+quest_1302_1<>Convert Rune {c(1)} time(s)
+quest_1400_1<>Obtain {c(1)} Artifact(s)
+quest_1400_1_2<>Obtain {c(1)} Artifact(s) with rarity is {e(artifact_type_~2)} or higher
+quest_1401_1<>Equip {c(1)} Artifact(s)
+quest_1401_1_2<>Equip {c(1)} {e(artifact_type_~2)} Artifact(s)
+quest_1402_1<>Upgrade {c(1)} Artifact(s)
+quest_1402_1_2<>Upgrade {c(1)} {e(artifact_type_~2)} Artifact(s)
+quest_1500_1<>Login {c(1)} consecutive days
+quest_1600_1<>Pass Dragon Tower floor: {c(1)}
+quest_1700_1<>Summon {c(1)} time(s)
+quest_1700_1_2<>Summon {c(1)} time(s) and receive {c(2)}-star Hero
+quest_1700_1_3<>Summon {c(1)} time(s) and receive level {c(3)} Hero  
+quest_1700_1_4<>Summon {c(1)} time(s) and receive Hero belongs to {e(class_type_~4)} class
+quest_1700_1_5<>Summon {c(1)} time(s) and receive Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_2_3<>Summon {c(1)} time(s) and receive level {c(3)} {c(2)}-star Hero
+quest_1700_1_2_4<>Summon {c(1)} time(s) and receive {c(2)}-star Hero belongs to {e(class_type_~4)} class
+quest_1700_1_2_5<>Summon {c(1)} time(s) and receive {c(2)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_3_4<>Summon {c(1)} time(s) and receive level {c(3)}Hero belongs to {e(class_type_~4)} class
+quest_1700_1_3_5<>Summon {c(1)} time(s) and receive level {c(3)} Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_4_5<>Summon {c(1)} time(s) and receive {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_2_3_4<>Summon {c(1)} time(s) and receive level {c(3)} {c(2)}-star Hero belongs to {e(class_type_~4)} class
+quest_1700_1_2_3_5<>Summon {c(1)} time(s) and receive level {c(3)} {c(2)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_2_4_5<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1700_1_2_3_4_5<>Summon {c(1)} time(s) and receive level {c(3)} {c(2)}-star {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1701_1<>Use Basic Summon {c(1)} time(s)
+quest_1701_1_2<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero
+quest_1701_1_3<>Use Basic Summon {c(1)} time(s) and receive Hero level {c(3)}
+quest_1701_1_4<>Use Basic Summon {c(1)} time(s) and receive Hero {e(class_type_~4)} class
+quest_1701_1_5<>Use Basic Summon {c(1)} time(s) and receive Hero {e(faction_type_~5)} faction
+quest_1701_1_2_3<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)}
+quest_1701_1_2_4<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(class_type_~4)} class
+quest_1701_1_2_5<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(faction_type_~5)} faction
+quest_1701_1_3_4<>Use Basic Summon {c(1)} time(s) and receive Hero level {c(3)} of {e(class_type_~4)} class
+quest_1701_1_3_5<>Use Basic Summon {c(1)} time(s) and receive Hero level {c(3)} of {e(faction_type_~5)} faction
+quest_1701_1_4_5<>Use Basic Summon {c(1)} time(s) and receive Hero {e(class_type_~4)} class of {e(faction_type_~5)} faction
+quest_1701_1_2_3_4<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(class_type_~4)} class
+quest_1701_1_2_3_5<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(faction_type_~5)} faction
+quest_1701_1_2_4_5<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1701_1_2_3_4_5<>Use Basic Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1702_1<>Use Premium Summon {c(1)} time(s)
+quest_1702_1_2<>Use Premium Summon {c(1)} time(s) and receives {c(2)}-star Hero
+quest_1702_1_3<>Use Premium Summon {c(1)} time(s) and receive Hero level {c(3)}
+quest_1702_1_4<>Use Premium Summon {c(1)} time(s) and receive Hero {e(class_type_~4)} class
+quest_1702_1_5<>Use Premium Summon {c(1)} time(s) and receive Hero {e(faction_type_~5)} faction
+quest_1702_1_2_3<>Use Premium Summon {c(1)} time(s) receive {c(2)}-star Hero, level {c(3)}
+quest_1702_1_2_4<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(class_type_~4)} class
+quest_1702_1_2_5<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(faction_type_~5)} faction
+quest_1702_1_3_4<>Use Premium Summon {c(1)} time(s) and receive Hero level {c(3)} of {e(class_type_~4)} class
+quest_1702_1_3_5<>Use Premium Summon {c(1)} time(s) and receive Hero level {c(3)} of {e(faction_type_~5)} faction
+quest_1702_1_4_5<>Use Premium Summon {c(1)} time(s) and receive Hero {e(class_type_~4)} class of {e(faction_type_~5)} faction
+quest_1702_1_2_3_4<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(class_type_~4)} class
+quest_1702_1_2_3_5<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(faction_type_~5)} faction
+quest_1702_1_2_4_5<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1702_1_2_3_4_5<>Use Premium Summon {c(1)} time(s) and receive {c(2)}-star Hero, level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1703_1<>Use Friend Summon {c(1)} time(s)
+quest_1703_1_2<>Use Friendship Summon {c(1)} time(s) and receive a {c(2)}-star Hero
+quest_1703_1_3<>Use Friendship Summon {c(1)} time(s) and receive a Hero level {c(3)}
+quest_1703_1_4<>Use Friendship Summon {c(1)} time(s) and receive a Hero belongs to {e(class_type_~4)} class
+quest_1703_1_5<>Use Friendship Summon {c(1)} time(s) and receive a Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_2_3<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} {c(2)}-star Hero
+quest_1703_1_2_4<>Use Friendship Summon {c(1)} time(s) and receive a {c(2)}-star Hero belongs to {e(class_type_~4)} class
+quest_1703_1_2_5<>Use Friendship Summon {c(1)} time(s) and receive a {c(2)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_3_4<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} Hero belongs to {e(class_type_~4)} class
+quest_1703_1_3_5<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_4_5<>Use Friendship Summon {c(1)} time(s) and receive a {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_2_3_4<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} {c(2)}-star Hero belongs to {e(class_type_~4)} class
+quest_1703_1_2_3_5<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} {c(2)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_2_4_5<>Use Friendship Summon {c(1)} time(s) and receive a {c(2)}-star {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1703_1_2_3_4_5<>Use Friendship Summon {c(1)} time(s) and receive a level {c(3)} {c(2)}-star {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1<>Summon {c(1)} time(s) consecutively
+quest_1750_1_2<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)}
+quest_1750_1_3<>Summon {c(1)} time(s) consecutively and doesn't receive any {c(3)}-star Hero
+quest_1750_1_4<>Summon {c(1)} time(s) consecutively and doesn't receive any Hero belongs to {e(class_type_~4)} class
+quest_1750_1_5<>Summon {c(1)} time(s) consecutively and doesn't receive any Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_2_3<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any belongs to {c(3)}-star Hero
+quest_1750_1_2_4<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any Hero belongs to{e(class_type_~4)} class
+quest_1750_1_2_5<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_3_4<>Summon {c(1)} time(s) consecutively and doesn't receive any {c(3)}-star Hero belongs to {e(class_type_~4)} class
+quest_1750_1_3_5<>Summon {c(1)} time(s) consecutively and doesn't receive any {c(3)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_4_5<>Summon {c(1)} time(s) consecutively and doesn't receive any {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_2_3_4<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any {c(3)}-star Hero belongs to {e(class_type_~4)} class
+quest_1750_1_2_3_5<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any {c(3)}-star Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_2_4_5<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1750_1_2_3_4_5<>Summon {c(1)} time(s) consecutively in {e(summon_type_~2)} and doesn't receive any {c(3)}-star {e(class_type_~4)} Hero belongs to {e(faction_type_~5)} faction
+quest_1800_1<>Complete {c(1)} daily quest(s) in a day
+quest_1801_1<>Complete any daily quest in {c(1)} consecutive days
+quest_1801_1_2<>Complete {c(2)} daily quest(s) in {c(1)} consecutive days
+quest_1802_1<>Complete {c(1)} daily quest(s)
+quest_1900_1<>Reach VIP level {c(1)}
+quest_2000_1<>
+quest_2000_1_2<>Earn {c(1)} {e(money_type_~2)}
+quest_2001_1<>
+quest_2001_1_2<>Spend {c(1)} {e(money_type_~2)}
+quest_2100_1<>Pass Dungeon wave {c(1)}
+quest_2101_1<>Select {c(1)} hero(es) to join Dungeon
+quest_2102_1<>Use Potion {c(1)} time(s)  in Dungeon
+quest_2102_1_2<>Use {e(potion_type_~2)} {c(1)} time(s) in Dungeon
+quest_2103_1<>Purchase {c(1)} item(s) from Merchant Shop in Dungeon
+quest_2104_1<>Purchase {c(1)} item(s) from Mysterious Merchant in Dungeon
+quest_2200_1<>Add recovery email successfully {c(1)} time(s)
+quest_2300_1<>Select {c(1)} hero(es) to join battle
+quest_2300_1_2<>Select {c(1)} hero(es) to join {e(game_mode_~2)}
+quest_2300_1_3<>Select {c(1)} {c(3)}-star hero(es)
+quest_2300_1_2_3<>Select {c(1)} {c(3)}-star hero(es) to join {e(game_mode_~2)}
+quest_2301_1<>Select {c(1)} hero(es) same faction to join the Battle
+quest_2301_1_2<>Select {c(1)} hero(es) to join {e(game_mode_~2)}
+quest_2301_1_3<>Select {c(1)} {c(3)}-star hero(es)
+quest_2301_1_4<>Select {c(1)} hero(es) belongs to {e(faction_type_~4)} faction
+quest_2301_1_2_3<>Select {c(1)} {c(3)}-star hero(es) to join {e(game_mode_~2)}
+quest_2301_1_2_4<>Select {c(1)} hero(es) belongs to {e(faction_type_~4)} faction to join {e(game_mode_~2)}
+quest_2301_1_3_4<>Select {c(1)} {c(3)}-star hero(es) belongs to {e(faction_type_~4)} faction
+quest_2301_1_2_3_4<>Select {c(1)} {c(3)}-star hero(es) belongs to {e(faction_type_~4)} faction to join {e(game_mode_~2)}
+quest_2302_1<>Select formation {c(1)} time(s)
+quest_2302_1_2<>Select formation other than {e(formation_type_~2)} formation {c(1)} time(s) 
+quest_2303_1<>Activate companion buff {c(1)} time(s)
+quest_2303_1_2<>Activate {e(companion_type_~2)} companion buff {c(1)} time(s)
+quest_2400_1<>Upgrade Mastery {c(1)} time(s) 
+quest_2400_1_2<>Upgrade any {e(mastery_type_~2)} in Mastery {c(1)} time(s) 
+quest_2400_1_3<>Upgrade Mastery of {e(class_type_~3)} class {c(1)} time(s) 
+quest_2400_1_4<>Upgrade a Mastery to level {c(4)} {c(1)} time(s) 
+quest_2400_1_2_3<>Upgrade any {e(mastery_type_~2)} in Mastery of {e(class_type_~3)} class {c(1)} time(s) 
+quest_2400_1_2_4<>Upgrade any {e(mastery_type_~2)} in Mastery to level {c(4)} {c(1)} time(s) 
+quest_2400_1_3_4<>Upgrade any Mastery in {e(class_type_~3)} class to level {c(4)} {c(1)} time(s)
+quest_2400_1_2_3_4<>Upgrade {e(mastery_type_~2)} in Mastery of {e(class_type_~3)} class to level {c(4)} {c(1)} time(s) 
+quest_2500_1<>Win Adventure {c(1)} time(s)
+quest_2500_1_2<>Win {e(raid_type_~2)} {c(1)} time(s)
+quest_2600_1<>Join facebook page
+quest_505_1<>Challenge Campaign {c(1)} time(s)
+quest_1601_1<>Challenge Dragon Tower {c(1)} time(s)
+quest_201_1_2_3_1<>Use Gold Mine {c(3)} {c(2)} times each day for {c(1)} day(s)
+quest_822_1<>Challenge guild dungeon {c(1)} times
+quest_822_1_2<>Challenge guild dungeon stage {c(2)} {c(1)} times
+quest_830_1<>Check in guild {c(1)} times
+quest_105_1<>Reset {c(1)} hero(es)
+quest_105_1_2<>Reset {c(1)} {c(2)}-star hero(es)
+quest_105_1_3<>Reset {c(1)} hero(es) level {c(3)}
+quest_105_1_4<>Reset {c(1)} {e(class_type_~4)} class hero(es)
+quest_105_1_5<>Reset {c(1)} {e(faction_type_~5)} faction hero(es)
+quest_105_1_2_3<>Reset {c(1)} {c(2)}-star hero(es), level {c(3)}
+quest_105_1_2_4<>Reset {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class
+quest_105_1_2_5<>Reset {c(1)} {c(2)}-star hero(es) of {e(faction_type_~5)} faction
+quest_105_1_3_4<>Reset {c(1)} level {c(3)} hero(es) of {e(class_type_~4)} class
+quest_105_1_3_5<>Reset {c(1)} level {c(3)} hero(es) of {e(faction_type_~5)} faction
+quest_105_1_4_5<>Reset {c(1)} {e(class_type_~4)} class hero(es) of {e(faction_type_~5)} faction
+quest_105_1_2_3_4<>Reset {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class
+quest_105_1_2_3_5<>Reset {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(faction_type_~5)} faction
+quest_105_1_2_4_5<>Reset {c(1)} {c(2)}-star hero(es) of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_105_1_2_3_4_5<>Reset {c(1)} {c(2)}-star hero(es), level {c(3)} of {e(class_type_~4)} class and {e(faction_type_~5)} faction
+quest_1700_1_6<>Summon {c(1)} times by {e(summon_type_~6)}
+quest_1700_1_2_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero by {e(summon_type_~6)}
+quest_1700_1_3_6<>Summon {c(1)} time(s) and receive Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_2_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_3_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_3_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_5_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_3_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)} faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_507_1<>Campaign quick battle {c(1)} time(s)
+quest_2701_1<>Top-up {c(1)} time(s)
+quest_2701_1_2<>Top-up {c(1)} time(s)
+quest_152_1_2_3<>Obtain {n(2)} {c(3)} star {c(1)} time(s)
+quest_3000_1<>Battle Fortress {c(1)} time(s)
+quest_3000_1_2<>Battle Fortress {c(1)} time(s)
+quest_3000_1_2_3<>Win battle in Fortress {c(1)} time(s)
+quest_3001_1<>Claim idle rewards in Fortress {c(1)} times
+quest_3001_1_2<>Claim idle rewards in Fortress {c(1)} times
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>Pass stage {c(1)} in {c(2)}
+quest_3002_1_2_3<>Pass stage {c(1)} in {c(2)}
+quest_1804_1<>Complete {c(1)} event quest(s) in a day.
+quest_450_1<>Challenge {c(1)} time(s) in Martial Arena
+quest_450_1_2<>Challenge {c(1)} time(s) in Martial Arena
+quest_451_1<>Win {c(1)} time(s) in Martial Arena
+quest_452_1<>Reach {c(1)} Points in Martial Arena
+quest_453_1<>challenge arena 3v3 consecutive times is {c(1)}
+quest_453_1_2<>challenge arena 3v3 consecutive times is {c(1)}
+quest_1501_1<>Login game.
+quest_751_1<>Refresh Black Market {c(1)} times.
+quest_152_1_3<>Obtain {c(1)} hero(es) {c(3)} star(s).
+quest_460_1<>Challenge Arena {c(1)} times.
+quest_460_1_2<>{c(2)} Arena {c(1)} times.
+quest_1850_1<>Complete {c(1)} weekly quest(s).
+quest_1850_1_2<>Complete {c(1)} weekly quest(s) in week {c(2)}.
+quest_2751_1<>Claim free bundle {c(1)} time(s).
+quest_1950_1<>Watch video to earn Gem {c(1)} time(s).
+quest_310_1<>Pass stage {c(1)} in Domains
+quest_310_1_2<>Pass stage {c(2)} {c(1)} times in Domains \n
+quest_311_1<>Participate in Domains {c(1)} time(s)
+quest_312_1<>Complete all stages on day {c(1)} in Domains. (Day 1: Monday; day 2: Tuesday; day 3: Wednesday; day 4: Thursday; day 5: Friday)
+quest_312_1_2<>Complete all stages on day {c(2)} in Domains {c(1)} time(s). (Day 1: Monday; day 2: Tuesday; day 3: Wednesday; day 4: Thursday; day 5: Friday)
+quest_2701_1_3<>Top up {c(1)} time(s), each time more than ${c(3)} (USD)
+quest_1810_1<>Complete {c(1)} daily quest(s) in a day
+quest_1820_1<>Complete {c(1)} event quests
+quest_1815_1_2<>Light up a star {c(1)} times
+quest_1855_1<>Participate in battle challenge {c(1)} time
+quest_1816_1<>Open {c(1)} chests in Dragon's Treasure.
+quest_1817_1_2<>Spent total {c(1)} Eitri Hammers
+quest_508_1<>Claim idle rewards {t(1)} in Campaign
+quest_2901_1<>Feed the Qilin {c(1)} Mooncake

@@ -1,0 +1,4 @@
+name,effect_type,effect_chance,effect_duration,reflect_chance,reflect_damage
+ColdAxe_Passive3,2,0.2,2,1,0.62
+ColdAxe_Passive3,2,0.3,2,1,0.72
+ColdAxe_Passive3,2,0.4,2,1,0.82

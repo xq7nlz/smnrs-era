@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Willkommen bei Holy Alliance of Light Order - die legendäre Stadt, die die mächtigsten Zauber der Welt hat!
+npc_rename<>Wie heißt du?
+npc_summon_click<>Folge mir zur Beschwörung!
+npc_summon_start<>Lass uns deine ersten Helden beschwören!
+player_option1_1<>OK! Machen wir das.
+player_option1<>Ich verstehe.
+player_option2<>Bitte zeig es mir.
+player_option2_1<>Was ist das?
+npc_basic_summon_info<>Grundbeschwörung - Helden mit 1 bis 5 Sternen beschwören
+npc_heroic_summon_info<>Prämien-Beschwörung - Helden mit 3 bis 5 Sternen beschwören
+npc_friend_summon_info<>Freundschaftsbeschwörung -Helden mit 2 bis 5 Sternen beschwören
+npc_continue_campaign<>Wunderbar! Es ist die Zeit, um die Welt zu erkunden
+npc_select_hero_formation<>Bitte wähle Helden, um an der Schlacht teilzunehmen.
+npc_formation_info_position<>Toll! Bitte denk daran, grundlegende Angriffe konzentrieren sich normalerweise auf den Helden in Position 1 und folgen dann der Reihenfolge der Position von 2 bis 5 .
+npc_auto_battle<>Die Schlacht ist voll automatisch.
+npc_summoner_power<>Wenn die Energieanzeige deines Helden voll ist, wird in der nächsten Runde eine mächtige aktive Fertigkeit freigesetzt.
+npc_formation_change_position<>Du kannst die Position deiner Helden ändern.
+npc_formation_buff<>Gut gemacht! ATK der Helden erhöht sich, wenn die  Helden sich in der hinteren Reihe befinden, und HP erhöht sich,  wenn die Helden sich in der vorderen Reihe befinden.
+npc_summoner_battle_info<>Das ist Beschwörer, der deine Helden im Match unterstützen wird. Beschwörer können nicht als Ziel ausgewählt werden!
+npc_add_power_summoner<>Wenn ein Held Energie zurückgewinnt, erholt sich auch der Beschwörer. Wenn die Energieanzeige voll ist, werden alle Energien in eine Flamme umgewandelt.
+npc_summoner_skill<>Immer wenn ein Beschwörer genug 5 Flammen hat, gibt er sofort eine Spezialfähigkeit frei.
+npc_need_power<>Beeile dich! Wir brauchen mehr Kraft.
+npc_what_black_smith<>Hast du schon über die Waffen und ihre Vorteile gewusst?
+npc_weapon<>Waffen erhöhen ATK.
+npc_armor<>Rüstungen erhöhen HP und die Schadensreduzierung.
+npc_helmet<>Helme erhöhen HP und Rüstung.
+npc_ring<>Schmucke erhöhen die Genauigkeit und das Ausweichen.
+npc_black_smith<>Aber zuerst schmieden wir deine Waffe.
+npc_claim_black_smith<>Du bist so talentiert! So entsteht eine mächtige und tödliche Waffe.
+npc_black_market<>OK! Lassen wir jetzt zum Schwarzmarkt gehen.
+npc_buy_heroic_scroll<>Hier werden so viele nützliche Dinge verkauft. Du kaufst jetzt eine Prämienbeschwörungsschriftrolle!
+npc_claim_black_market<>Was für ein Glück! Jetzt haben wir genug Ressourcen, um einen neuen Helden zu beschwören.
+npc_continue_summon<>Es ist Zeit, einen neuen mächtigen Helden zu beschwören.
+npc_equipment<>Unglaublich! Das ist ein 4-Sterne-Held. Nun rüste die Waffen weiter aus.
+npc_continue_5<>Herzliche Glückwünsche! Du bist so stark geworden.
+npc_continue<>Toll! Lasst uns unsere Reise fortsetzen!
+npc_select_hero_continue<>Bitte wähle weiterhin einen neuen Helden im deinen Team.
+npc_drag_hero<>In dieser Situation solltest du diesen Held in der hinteren Reihe stellen, um seine ATK zu erhöhen.
+npc_idle_reward<>Bitte erhalt jetzt deine Leerlaufbelohnungen. Dein Team kämpft in diesem Bereich weiter, um im Laufe der Zeit mehr Ressourcen zu gewinnen. Denk daran, dass Leerlaufbelohnungen nur bis zu %s Stunden stapeln können.
+npc_upgrade_hero_success<>Fantastisch! Schneller als ich gedacht habe!
+npc_level_up<>Gut gemacht! Wir haben genug Ressourcen, um deinen Held zu verbessern.
+npc_select_hero_upgrade<>Bitte wähle diesen Held, um mit dem Levelaufstieg zu beginnen.
+npc_continue_3<>Gut gemacht! Lasst uns unsere Reise fortsetzen!
+npc_stage_10<>Es gibt einen 5-Sterne-Held, der darauf wartet, in der Phase 1-10 rekrutiert zu werden.
+npc_list_tut<>Ich habe eine Liste mit Suchen für dich vorbereitet. Diese Liste ist sehr hilfreich für deine Reise.
+npc_quest<>Dies ist der Suchen-Baum.  Viele Belohnungen warten auf dich, wenn du die Suchen in der Liste abschließt.
+npc_quest_complete<>Gut gemacht! Du hast die erste Suche abgeschlossen.
+npc_end_tut<>Herzlichen Glückwunsch! Du hast das Tutorial abgeschlossen. Ich hoffe wir sehen uns bald wieder!
+npc_claim_hero_5star<>Perfekt! Du hast einen 5-Sterne-Held erhalten.
+npc_go_evolve_summoner<>Gut gemacht! Du hast genug Ressourcen, um deinen Beschwörer weiterzuentwickeln.
+npc_5summoner<>Das sind alle Beschwörer!
+npc_summoner_class_1<>Magier - Beschwörer handeln mehr von Macht und Immunität.
+npc_summoner_class_2<>Krieger - Beschwörer handeln mehr von Verteidige und Reduzierung der Schaden.
+npc_summoner_class_3<>Priester - Beschwörer handeln mehr von Heilung und Gruppenkontrolle-Widerstand.
+npc_summoner_class_4<>Attentäter - Beschwörer handeln mehr von Stärke, Ausweichen und Genauigkeit.
+npc_summoner_class_5<>Schütze - Beschwörer handeln mehr von tödlichen Angriffe und kumulativen Schaden.
+npc_switch_summoner<>Tipp hier, um deinen Beschwörer auszuwählen
+npc_end_summoner<>Du kannst einen Beschwörer auswählen, um an der Schlacht teilzunehmen.
+npc_buy_scroll_success<>Sehr gut! Nach und nach gewöhnt man sich schon an das Spiel. Dies ist ein kleines Geschenk für Ihre Einarbeitung in dem Spiel.
+victory_battle_tut<>Solch ein dramatischer Kampf, nicht wahr? Sie werden Schlachten wie diese im Spiel erleben. Lasst uns mit mir auf Entdeckungsreise gehen!
+npc_please_summon_heroic<>Lass uns deine ersten Helden beschwören!
+introduce_hero_summoned<>Glückwunsch! Sie haben einen legendären 5* Helden beschworen. Der legendäre Held ist der fortschrittlichste Held, den Sie durch Beschwören erhalten können.
+asking_continue_tutorial<>Du hast deine allerersten Helden beschworen. Möchten Sie mit dem Tutorial fortfahren, um mehr über die Spielmechanik zu erfahren?
+yes<>Ja. Ich möchte mehr lernen.
+no<>Nein. Ich kenne diese Spielarten.
+npc_introduce_auto_battle<>Die Schlacht ist voll automatisch.
+npc_introduce_summoner<>Das ist Beschwörer, der deine Helden im Match unterstützen wird. Beschwörer können nicht als Ziel ausgewählt werden!
+npc_let_battle_commence<>Sie haben die Aufstellung des Kaders beendet. Jetzt lass uns in die Schlacht ziehen!
+npc_introduce_turn_mechanic<>1 Spiel besteht aus 15 Runden. Der Angreifer gewinnt, wenn alle Helden des Gegners innerhalb von 15 Runden besiegt werden.
+first_victory<>Herzliche Glückwünsche! Du hast deinen ersten Sieg errungen. Holen Sie sich die folgende Beute und führen Sie weiter mit mir!
+npc_idle_reward_1<>Bitte erhalt jetzt deine Leerlaufbelohnungen. Dein Team kämpft in diesem Bereich weiter, um im Laufe der Zeit mehr Ressourcen zu gewinnen. Denk daran, dass Leerlaufbelohnungen nur bis zu %s Stunden stapeln können.
+npc_idle_reward_2<>Je weiter Sie die Kampagne erreichen, desto mehr Leerlaufbelohnung könnte gehalten werden. Erhöhen Sie außerdem Ihr VIP-Level, um die maximale Leerlaufzeit zu erhöhen.
+npc_introduce_hero_upgrade_feature<>Hier können Sie die Informationen Ihrer Helden überprüfen. Sie können aufsteigen, Sterne verbessern und Gegenstände ausrüsten, um Ihren Helden zu stärken.
+npc_introduce_four_equipment_slot<>Es gibt 4 Arten von Ausrüstung.
+npc_click_level_up<>Lassen Sie uns jetzt Ihren Helden aufleveln.
+congratulation_you_have_done<>Gut gemacht! Sie haben das Lernprogramm abgeschlossen. Ich glaube, du könntest ein großartiger Beschwörer werden. Lassen Sie uns das Spiel auf Ihre Weise weiter erkunden.

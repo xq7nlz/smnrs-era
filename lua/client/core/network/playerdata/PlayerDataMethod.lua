@@ -1,0 +1,105 @@
+--- @class PlayerDataMethod
+PlayerDataMethod = {
+    HERO_COLLECTION = 0,
+    ITEM_COLLECTION = 1, -- tat ca item chua equip
+
+    CAMPAIGN = 2,
+    TOWER = 3,
+    RAID = 4,
+    DUNGEON = 5,
+
+    MARKET = 6,
+
+    MASTERY = 7,
+    SUMMONER = 8,
+
+    SUMMON = 9,
+
+    CASINO = 10,
+    HERO_FRAGMENT_COLLECTION = 11,
+    HERO_EVOLVE_FOOD = 12,
+
+    BASIC_INFO = 13,
+
+    AUTHENTICATION = 14,
+    ALTAR_MARKET = 15,
+    DEFENSE_MODE = 16,
+
+    PROPHET_TREE = 17,
+    RAISE_HERO = 18,
+    HAND_OF_MIDAS = 19,
+    CAMPAIGN_DETAIL_FORMATION = 20,
+
+    SERVER_LIST = 21,
+    SEED = 22,
+
+    TAVERN = 23,
+
+    QUEST = 24,
+    DAILY_REWARD = 25,
+
+    MAIL = 26,
+
+    EVENT_TIME = 27,
+
+    CAMPAIGN_RANKING = 28,
+    TOWER_RANKING = 29,
+    DUNGEON_RANKING = 30,
+
+    BLOCKED_PLAYER_LIST = 31,
+
+    FRIEND = 32,
+    FRIEND_RANKING = 33,
+
+    CHAT_WORLD = 34,
+    CHAT_GUILD = 35,
+    CHAT_RECRUIT = 36,
+    CHAT_SYSTEM = 37,
+
+    ARENA_GROUP_RANKING = 38,
+    ARENA_SERVER_RANKING = 39,
+    ARENA = 40,
+    ARENA_MARKET = 41,
+
+    GUILD_BASIC_INFO = 42,
+    GUILD_APPLICATION = 43,
+
+    FEATURE_CONFIG = 44,
+
+    GUILD_MARKET = 45,
+
+    GUILD_LOG = 46,
+
+    GUILD_BOSS = 47,
+
+    GUILD_DUNGEON = 48,
+    GUILD_DUNGEON_RANKING = 49,
+    GUILD_DUNGEON_HALL_OF_FAME = 50,
+
+    GUILD_WAR = 51,
+    GUILD_WAR_TIME = 52,
+    GUILD_WAR_RANKING = 53,
+
+    IAP = 54,
+    TUTORIAL = 55,
+    STATISTICS = 56,
+
+    REWARD_VIDEO = 57,
+
+    CHAT_CREATED_TIME = 58,
+    REMOTE_CONFIG = 59,
+
+    HERO_LINKING = 60,
+    ARENA_TEAM = 61,
+    ARENA_TEAM_MARKET = 62,
+
+    COMEBACK = 63,
+
+
+    DOMAIN = 64,
+
+    DOMAINS_CHAT_CREW = 65,
+    DOMAINS_CHAT_RECRUIT = 66,
+
+    SERVER_OPEN = 68,
+}

@@ -1,0 +1,566 @@
+key<>value
+feature_1<>Campanha
+feature_2<>Invocação
+feature_4<>Ferreiro
+feature_5<>Torre do Dragão
+feature_6<>Mercado Negro
+feature_7<>Taverna
+feature_8<>Árvore Anciã
+feature_9<>Masmorra
+feature_10<>Guilda
+feature_11<>Roda do Destino
+feature_12<>Arena
+feature_13<>Mina de Ouro
+feature_14<>Sacola
+feature_15<>Invocador
+feature_16<>Maestria
+feature_17<>Amigo
+feature_18<>Aventura
+feature_20<>Aumentar o nível
+feature_21<>Fortaleza
+feature_22<>Ligando
+feature_23<>Arena Martial
+feature_24<>Regressar 
+feature_25<>Hero Super Awaken
+feature_26<>Domínios
+feature_28<>Item Revolution
+feature_32<>Suporte de link de herói
+feature_33<>Guerra de Guildas 
+feature_34<>Evolução de 14 estrelas
+faction_type_1<>Água
+faction_type_2<>Fogo
+faction_type_3<>Abismo
+faction_type_4<>Natureza
+faction_type_5<>Luz
+faction_type_6<>Escuridão
+class_type_1<>Mago
+class_type_2<>Guerreiro
+class_type_3<>Padre
+class_type_4<>Assassino
+class_type_5<>Guarda
+stat_type_1<>ATQ
+stat_type_2<>Armadura
+stat_type_3<>PV
+stat_type_4<>Velocidade
+stat_type_10<>Índice Crítico
+stat_type_11<>Dano Crítico
+stat_type_20<>Precisão
+stat_type_21<>Desvio
+stat_type_30<>Dano Puro
+stat_type_31<>Dano de Habilidade
+stat_type_32<>Penetração da Armadura
+stat_type_40<>Resistência a CC
+stat_type_41<>Redução de Danos
+stat_type_50<>Energia
+effect_type_1<>Atordoar
+effect_type_2<>Congelar
+effect_type_3<>Dormir
+effect_type_4<>Petrificar
+effect_type_10<>Veneno
+effect_type_11<>Sangrar
+effect_type_12<>Queimar
+effect_type_30<>Maldição
+effect_type_31<>Marca da Maldição
+effect_type_40<>Silenciar
+effect_type_50<>Invulnerável
+effect_type_100<>Marca de Ponto Fraco
+effect_type_101<>Marca Sagrada
+effect_type_102<>Marca Amigo da Água
+effect_type_103<>Escudo Leve
+effect_type_104<>Escudo Divino
+effect_type_105<>Marca Dríade
+effect_type_106<>Marca Negra
+effect_type_107<>Escudo Refletor
+effect_type_108<>Marca de Foco
+effect_type_109<>Marca de Taunt
+effect_type_110<>Acúmulo de Veneno
+effect_type_111<>Marca de Queimadura
+effect_type_112<>Escudo Mágico
+effect_type_113<>Marca de Afogamento
+effect_type_114<>Marca de Sangue
+effect_type_191<>Marca de Doença
+effect_type_192<>Marca de Cura de Doença 
+effect_type_200<>Efeito de Vínculo
+effect_type_500<>Abençoar
+effect_type_501<>Marca de Bênção
+effect_type_510<>Curar
+effect_type_511<>Resistir à Cura
+effect_type_530<>Renascer
+effect_type_531<>Invocar
+effect_type_600<>Contra-Ataque
+effect_type_612<>Última Chance
+casino_type_0<>Roda da Fortuna
+casino_type_1<>Roda do Destino
+money_type_-1<>Aleatório
+money_type_0<>Ouro
+money_type_1<>Gema
+money_type_2<>Pontos VIP
+money_type_10<>EXP do Herói
+money_type_11<>Poção Antiga
+money_type_20<>Pedra da Alma
+money_type_30<>Pedra da Fortuna
+money_type_31<>Pedra do Destino
+money_type_32<>Moeda da Sorte
+money_type_40<>Bilhete de Arena
+money_type_41<>Moeda da Arena
+money_type_50<>Pergaminho de Invocação Básico
+money_type_51<>Pergaminho de Invocação Premium
+money_type_52<>Ponto Acumulado
+money_type_60<>Relíquia Antiga
+money_type_61<>Bênção de Agtiz
+money_type_70<>Ponto Amigo
+money_type_71<>Estamina
+money_type_80<>Pó Mágico
+money_type_85<>Bilhete da Torre
+money_type_90<>Baú Básico
+money_type_91<>Baú Premium
+money_type_100<>Ponto de Maestria
+money_type_110<>Livro Antigo
+money_type_120<>Moeda da Guilda
+money_type_121<>Moeda Avançada da Guilda
+money_type_122<>Bilhete Diário do Chefão
+money_type_123<>Bilhete da Masmorra da Guilda
+money_type_8<>EXP do Invocador
+artifact_type_1<>Comum
+artifact_type_2<>Raro
+artifact_type_3<>Místico
+artifact_type_4<>Lendário
+artifact_type_5<>Imortal
+stone_rarity_1<>Comum
+stone_rarity_2<>Incomum
+stone_rarity_3<>Raro
+stone_rarity_4<>Místico
+stone_rarity_5<>Lendário
+stone_rarity_6<>Imortal
+potion_type_0<>Poção Vermelha
+potion_type_1<>Poção Amarela
+potion_type_2<>Poção Roxa
+game_mode_1<>Campanha
+game_mode_2<>Torre do Dragão
+game_mode_3<>Aventura
+game_mode_4<>Calabouço
+game_mode_5<>Duelo Amigável
+game_mode_6<>Arena
+game_mode_7<>Arena de Guilda
+game_mode_8<>Guerra de Guilda
+game_mode_9<>Chefão Amigo
+game_mode_10<>Chefão Diário
+game_mode_11<>Masmorra da Guilda
+raid_type_0<>Aventura de Ouro
+raid_type_1<>Poção de Aventura
+raid_type_2<>Aventura do Tesouro
+mastery_type_0<>ATQ
+mastery_type_1<>DEF
+mastery_type_2<>PV
+mastery_type_3<>ACC
+mastery_type_4<>DOD
+companion_type_1<>Implante 5 heróis de diferentes facções para obter a recompensa bônus
+companion_type_2<>Implante 3 heróis da mesma facção + 2 heróis de outra facção para obter a recompensa bônus
+companion_type_3<>Implante 3 heróis da mesma facção + 2 heróis da mesma facção para obter a recompensa bônus
+companion_type_4<>Implante 4 heróis da mesma facção para obter a recompensa de bônus
+companion_type_5<>Implante 5 heróis da mesma facção para obter a recompensa bônus
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>Invocação Básica
+summon_type_1<>Invocação Premium
+summon_type_2<>Invocação de Amizade
+difficult_type_1<>Normal
+difficult_type_2<>Difícil
+difficult_type_3<>Extremo
+difficult_type_4<>Pesadelo
+difficult_type_5<>Louco
+difficult_type_6<>Caos
+difficult_type_7<>Universo
+difficult_type_8<>Godz
+equip_rarity_1<>Comum
+equip_rarity_2<>Incomum
+equip_rarity_3<>Raro
+equip_rarity_4<>Místico
+equip_rarity_5<>Lendário
+equip_rarity_6<>Imortal
+resource_type_1<>Herói
+resource_type_2<>Moeda
+resource_type_3<>Equipamentos
+resource_type_4<>Artefato
+resource_type_5<>Runas
+resource_type_6<>Fragmento de Artefato
+resource_type_7<>Fragmento de Herói
+resource_type_12<>Margem
+resource_type_13<>Material de Evolução de Herói
+resource_type_2_12<>Recurso
+resource_type_2_40<>Recurso
+resource_type_2_71<>Recurso
+resource_type_2_85<>Recurso
+resource_type_2_122<>Recurso
+resource_type_2_123<>Recurso
+resource_type_17<>Bilhete de Batalha Rápida
+linking_1<>Amor Eterno
+linking_2<>União Justiça
+linking_3<>Piratas Femininas
+linking_4<>Lembrete Morte
+linking_5<>Shifter Mentalidade
+linking_6<>Vida Eterna
+linking_7<>Warlike Blades
+linking_8<>Diamante
+linking_9<>Poder Congelado 
+linking_10<>Maldição das Trevas 
+linking_11<>Colecionador de almas
+linking_12<>Lâmina da Lua - Lança Negra
+linking_13<>Guardiões da Selva Sagrada
+linking_14<>Benção do céu
+linking_15<>Flame Servant
+linking_16<>Magia negra
+linking_17<>História do Oceano
+ally_target_position_1<>próprio
+ally_target_position_10_5<>Todos os aliados
+ally_target_position_10<>{0} aliado(s) aleatórios
+ally_target_position_11_5<>Todos os aliados
+ally_target_position_11<>{0} aliado(s)
+ally_target_position_20_4<>todos os aliados da linha de frente
+ally_target_position_20<>{0} aliado(s) da linha de frente aleatória
+ally_target_position_21_4<>todos os aliados da linha de trás
+ally_target_position_21<>{0} aliado(s) de linha de fundo aleatória
+ally_target_position_30<>{0} aliado(s) com o PV mais baixo
+ally_target_position_31<>{0} aliado(s) com o ATQ mais alto
+ally_target_position_32<>{0} aliado(s) com a armadura mais baixa
+ally_target_position_33<>{0} aliado(s) com a %PV mais alta
+ally_target_position_34<>{0} aliado(s) com a armadura mais alta
+ally_target_position_35<>{0} aliado(s) com o PV mais alto
+ally_target_position_36<>{0} aliado(s) com a %PV mais baixa
+ally_target_position_41<>{0} aliado(s) na mesma linha
+ally_target_position_41_4<>todos os aliados na mesma linha
+ally_target_position_45<>{0} aliado(s) em linha diferente
+ally_target_position_45_4<>todos os aliados em linhas diferentes
+ally_target_position_51<>{0} aliado(s) com efeito
+enemy_target_position_10_5<>todos os inimigos
+enemy_target_position_10<>{0} inimigo(s) aleatório(s)
+enemy_target_position_11_5<>todos os inimigos
+enemy_target_position_11<>{0} inimigo(s)
+enemy_target_position_20_4<>todos os inimigos da linha de frente
+enemy_target_position_20<>{0} inimigo(s) aleatório(s) da linha de frente
+enemy_target_position_21_4<>todos os inimigos da linha de trás
+enemy_target_position_21<>{0} inimigo(s) aleatório(s) na linha de trás
+enemy_target_position_30<>{0} inimigo(s) com o PV mais baixo
+enemy_target_position_31<>{0} inimigo(s) com o ATQ mais alto
+enemy_target_position_32<>{0} inimigo(s) com a armadura mais baixa
+enemy_target_position_33<>{0} inimigo(s) com a %PV mais alta
+enemy_target_position_34<>{0} Inimigo(s) com a Armadura mais alta
+enemy_target_position_35<>{0} inimigo(s) com o PV mais alto
+enemy_target_position_36<>{0} inimigo(s) com a%PV mais baixa
+enemy_target_position_41<>{0} inimigo(s) na mesma linha
+enemy_target_position_45<>{0} inimigo(s) em linha diferente
+enemy_target_position_51<>{0} inimigo(s) aleatório(s)
+enemy_target_position_62<>o inimigo no slot mais alto
+money_type_140<>Elder Titan Soul
+money_type_141<>Titan Soul
+money_type_142<>Hero Soul
+money_type_130<>Gold Trophy
+money_type_131<>Silver Trophy
+money_type_135<>Zitga crachá
+resource_type_8<>Summoner EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>Rate Up
+money_type_190<>Arena Pass Point
+money_type_191<>Daily Quest Pass Point
+resource_type_14<>Fantasia
+money_type_180<>Lanterna
+money_type_181<>Mooncake
+resource_type_11<>Avatar
+money_type_75<>Chave Dourada
+money_type_76<>Chave de vidro
+money_type_77<>Chave do Tesouro
+money_type_210<>Dados
+money_type_211<>Abóbora
+money_type_170<>Raising Star
+land_1<>Marianna Bay
+land_2<>Continente Ardente
+land_3<>Deserto Hellhal
+land_4<>Selva Wildwood
+land_5<>Sunfield Valley
+land_6<>Evermist Peak
+land_7<>Dreamland
+land_8<>Caos
+land_9<>Mundo Espiritual
+land_10<>Biblioteca Tempo
+restrict_type_1<>Somente heróis da água são permitidos
+restrict_type_2<>Somente Fire Heroes são permitidos
+restrict_type_3<>Apenas Abyss Heroes permitidos
+restrict_type_4<>Somente heróis da natureza são permitidos
+restrict_type_5<>Apenas Light Heroes são permitidos
+restrict_type_6<>Apenas Dark Heroes são permitidos
+restrict_type_7<>Não é permitido invocador
+restrict_type_8<>Sem regras. Liberte sua mente.
+restrict_type_9<>Sem Maestria permitida. Cuidado!
+restrict_type_10<>Запрещено использование снаряжения, руны и артефакта.
+money_type_200_unused<>Encanto água
+money_type_201<>Orbe de Fogo
+money_type_202<>Orbe do Abismo
+money_type_203<>Orbe da Natureza
+money_type_204<>Orbe de Luz
+money_type_205<>Orbe Negro
+money_type_206<>Orbe Solar
+money_type_207<>Orbe da Lua
+money_type_208<>Charme Unborn
+money_type_209<>Pesona Waktu
+money_type_220<>Bastão de doces
+money_type_221<>Vela
+money_type_222<>Vela acesa
+money_type_230<>Bilhete de Ano Novo
+linking_18<>Chama Feroz
+linking_19<>Demônio vivo
+money_type_240<>Dados Vermelhos
+money_type_241<>Amuleto
+money_type_242<>Fogo de artifício
+money_type_245<>Papel Vermelho
+money_type_244<>Rolagem Elite
+money_type_243<>Envelope vermelho
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>Chocolate
+money_type_251<>Seta
+ally_target_position_52<>Herói Aliado da classe {0}
+enemy_target_position_52<>Herói inimigo da classe {0}
+ally_target_position_61<>Herói Aliado na posição {0}
+enemy_target_position_61<>Herói inimigo na posição {0}
+money_type_45<>Brave Badge
+money_type_165<>Rosa 
+game_mode_14<>Arena Martial
+money_type_46<>Brave Coin
+money_type_154<>Brave EXP
+summon_type_7<>Invocação lendária
+money_type_136<>Union Point
+money_type_12<>Awaken Book
+money_type_25<>Água Benta 
+money_type_231<>Ponto de Páscoa
+money_type_232<>Magic Dice
+money_type_233<>Super Dice
+money_type_234<>Martelo de madeira
+money_type_235<>Ovo de Prata
+money_type_236<>Ovo de Ouro
+money_type_237<>Ovo arco-íris
+money_type_238<>Martelo de Ouro
+money_type_239<>Martelo Arco-Íris 
+money_type_166<>Estrela astral
+companion_type_remake_1<>Implante 5 heróis de diferentes facções para obter a recompensa bônus
+companion_type_remake_2<>Implante 2 pares de heróis com a mesma facção e o herói final com facções diferentes de 2 desses casais. 
+companion_type_remake_3<>Implante 3 heróis da mesma facção + 2 heróis de outra facção para obter a recompensa bônus
+companion_type_remake_4<>Implante 3 heróis da mesma facção + 2 heróis da mesma facção para obter a recompensa bônus
+companion_type_remake_5<>Implante 4 heróis da mesma facção para obter a recompensa de bônus
+companion_type_remake_6<>Implante 5 heróis da mesma facção para obter a recompensa bônus
+money_type_167<>Lâmina de Enule
+money_type_225<>Chave Mágica
+money_type_168<>Bússola 
+resource_type_20<>Talento
+talent_1000101<>Twokai poderoso
+talent_1000201<>Evolução de força
+talent_1000301<>Escudo Divino
+talent_1000401<>Vitalidade abundante
+talent_1000501<>Sangrento assustador
+talent_1000601<>Flash Incrível
+talent_1000701<>Tiro Crítico
+talent_1000801<>Explodir em danos
+talent_1000901<>Não pode faltar
+talent_1001001<>Movimento Extraordinário
+talent_1001101<>Indômito
+talent_1001201<>Completa-Power Non-Stop
+talent_1001301<>Roubo de alma
+talent_1001401<>Perto de Imune
+talent_1001501<>Escolta
+talent_2000101<>Proteção impecável 
+talent_2000201<>Explosão 
+talent_2000301<>Morte Súbita
+talent_2000401<>Refusão do Ceifador 
+talent_2000501<>Vários DOT
+talent_2000601<>Assombração Crítica
+talent_2000701<>Não há silêncio sobre mim 
+talent_2000801<>Diminuição crítica 
+talent_2000901<>Menos potência
+talent_2001001<>Mais poder
+money_type_115<>Baú de recompensa comum
+money_type_116<>Tesouro incomum
+money_type_117<>Baú Raro
+money_type_118<>Epic Chest 
+money_type_119<>Legend Baú
+money_type_113<>Moeda Misteriosa
+avatar_121<>Lucky Jade Holder
+avatar_frame_101<>Fronteira de Ferro
+avatar_frame_102<>Borda de Bronze
+avatar_frame_103<>Silver Border
+avatar_frame_104<>Borda Dourada
+avatar_frame_105<>Platium Border
+avatar_frame_106<>Borda Diamante
+avatar_frame_107<>Master Border
+avatar_frame_108<>Grande Mestre
+avatar_frame_109<>Challenger
+avatar_109<>Brave Qilin
+avatar_108<>Travesso Qilin
+avatar_107<>Pequeno Qilin
+avatar_frame_110<>Fronteira do meio do outono
+money_type_195<>Battle Pass Exp
+avatar_110<>Legend Qilin
+money_type_15<>Cristal Mágico
+equip_rarity_7<>Revolução
+talent_1001601<>Lightning Spell
+stat_type_33<>Reduzir Redução de Danos
+avatar_frame_111<>Temporada assustador
+avatar_111<>Abóbora louca
+avatar_122<>Legend Power
+avatar_123<>Estrategista lenda
+avatar_frame_122<>Quadro da Legenda
+money_type_35<>Arena baú de tesouro I
+money_type_36<>Arena baú de tesouro II
+money_type_37<>Arena baú de tesouro III
+resource_type_24<>Efeito especial
+avatar_112<>Christmas
+avatar_frame_112<>Christmas
+money_type_248<>Moeda da Sorte
+avatar_113<>Ano Novo Lunar
+avatar_frame_113<>Ano Novo Lunar
+money_type_182<>Iluminar Lanterna
+money_type_249<>Ponto Riqueza
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>Prova de Samurai
+avatar_124<>Defensor da Fortaleza
+avatar_125<>Limpador de Fortaleza
+avatar_frame_124<>Desafiador Implacável
+avatar_frame_125<>Guerreiro Imparável
+avatar_frame_126<>O buscador
+avatar_frame_127<>O conquistador
+linking_21<>Monarca soberano
+money_type_65<>Bilhete de chefe
+linking_20<>Triturador do Céu e da Terra
+avatar_126<>O Grande Samurai
+avatar_127<>Ovos Felizes
+avatar_frame_128<>Feliz Páscoa
+money_type_252<>Peça de quebra-cabeça
+money_type_66<>Bilhete de chefe
+money_type_226<>Ponto rival 
+money_type_22<>Baú de Seleção de Herói W/F/A/N
+money_type_23<>Baú de Seleção de Herói D/L
+avatar_129<>2º aniversário
+avatar_frame_129<>2º aniversário
+linking_22<>O legado do ódio
+money_type_227<>Ponto de passagem legado
+item_option_5_1_3<>Reduz o dano recebido {2}
+item_option_5_1_4<>Reduz o dano recebido {2}
+money_type_26<>Baú de artefatos da facção Luz e Escuridão
+money_type_27<>Baú de artefatos da facção W/F/A/N
+money_type_175<>Pérola superior 
+money_type_176<>Estrela astral
+money_type_215<>Emblema de pele
+avatar_130<>Meados do outono de 2022 
+avatar_131<>Meados do outono de 2022 
+avatar_132<>Meados do outono de 2022 
+linking_23<>Ascensão do Monstro 
+money_type_196<>Ponto de pele
+money_type_95<>Núcleo de talentos 
+avatar_133<>Dia das Bruxas 2022
+avatar_frame_131<>Dia das Bruxas 2022
+money_type_200<>Orbe de Água
+linking_24<>Tribo do Dragão 
+avatar_134<>Natal de 2022
+avatar_frame_134<>Natal de 2022
+avatar_135<>Ano Novo Lunar 2023
+avatar_frame_135<>Ano Novo Lunar 2023
+money_type_253<>Martelo Eitri
+money_type_254<>Moeda Eitri
+hero_detail_1<>Petroleiro
+hero_detail_2<>Ligação
+hero_detail_3<>Assassino
+hero_detail_4<>Contra-dano
+hero_detail_5<>Área de efeito
+hero_detail_6<>Controle de multidão
+hero_detail_7<>Guarda-florestal
+hero_detail_8<>Dano de explosão
+hero_detail_9<>Cura
+hero_detail_10<>Executar
+hero_detail_11<>Apoiar
+hero_detail_12<>Mago
+hero_detail_13<>Reviver
+hero_detail_14<>Lutador
+hero_detail_15<>Danos ao longo do tempo
+hero_detail_16<>Transformar
+hero_detail_17<>Bênção
+hero_detail_18<>Xingamento
+hero_detail_19<>Silêncio
+hero_detail_20<>Contra-ataque
+money_type_223<>Moeda de verão
+money_type_224<>Ingrediente Mojito
+money_type_125<>Caixa de presente de verão
+money_type_126<>Bola de água vermelha
+money_type_127<>Bola de água azul
+money_type_128<>bola de água verde
+money_type_129<>Bola de água cinza
+money_type_216<>Mojito
+month_january<>Janeiro
+month_february<>Fevereiro
+month_march<>Marchar
+month_april<>abril
+month_may<>Poderia
+month_june<>Junho
+month_july<>Julho
+month_august<>Agosto
+month_september<>Setembro
+month_october<>outubro
+month_november<>novembro
+month_december<>dezembro
+avatar_136<>3º aniversário
+avatar_frame_136<>3º aniversário
+hero_desc_20001<>Fênix Renascida
+hero_desc_20002<>Inferno Eterno
+hero_desc_10004<>Coração do oceano
+hero_desc_10011<>Oceano Deus Feroz
+hero_desc_30027<>Poderoso samurai
+hero_desc_30003<>O Necromante
+hero_desc_40008<>Flecha da Natureza
+hero_desc_40027<>Princesa do Dragão
+hero_desc_50003<>Bênção de Luz
+hero_desc_50007<>O anjo do arco
+hero_desc_50004<>O príncipe sem coroa
+hero_desc_50006<>Princesa da Lua
+hero_desc_60003<>Um golpe, uma morte
+hero_desc_60004<>Avatar de Anúbis
+hero_desc_60005<>Ângulo da Morte
+hero_desc_60006<>Espadachim Encantadora
+linking_25<>Luz Sagrada
+money_type_137<>Moeda do Desafio
+avatar_137<>Avatar 1, meados do outono de 2023
+avatar_138<>Avatar 2, meados do outono de 2023
+avatar_139<>Avatar 3, meados do outono de 2023
+money_type_255<>Moeda infinita
+money_type_186<>Chave de aventura
+money_type_185<>Peça de artefato
+money_type_101<>Dados
+money_type_102<>Abóbora
+money_type_43<>Moeda da Arena Marcial
+avatar_115<>Enule Guardião da Neve
+feature_35<>Reciclar
+money_type_229<>Cartão postal
+money_type_78<>Moedas da Fortuna
+money_type_79<>Jade
+money_type_217<>Dados de Páscoa
+money_type_218<>Ovos de Páscoa
+money_type_81<>Dados de verão
+money_type_82<>Bolas de praia
+money_type_62<>Leques de flores
+money_type_63<>Flores de cereja
+money_type_86<>Flautas de Bambu
+money_type_87<>Lenços
+money_type_72<>Clubes de Pinata
+money_type_73<>Doces Pinata
+avatar_140<>4º aniversário
+avatar_frame_137<>4º aniversário

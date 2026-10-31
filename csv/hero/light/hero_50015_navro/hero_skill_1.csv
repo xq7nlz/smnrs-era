@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,effect_faction,effect_type,effect_amount,effect_duration
+Navro_Active,0.96,10,4,5,182,0.1,2
+Navro_Active,1.16,10,4,5,182,0.15,2
+Navro_Active,1.36,10,4,5,182,0.2,2

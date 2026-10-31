@@ -1,0 +1,4 @@
+name,health_trigger_1,trigger_1_stat_1_buff_type,trigger_1_stat_1_buff_amount,trigger_1_stat_2_buff_type,trigger_1_stat_2_buff_amount,health_trigger_2,trigger_2_stat_1_buff_type,trigger_2_stat_1_buff_amount,trigger_2_stat_2_buff_type,trigger_2_stat_2_buff_amount
+Cennunos_Passive3,0.5,2,0.2,41,0.2,0.5,2,0.1,41,0.1
+Cennunos_Passive3,0.4,2,0.3,41,0.25,0.4,2,0.15,41,0.125
+Cennunos_Passive3,0.3,2,0.4,41,0.3,0.3,2,0.2,41,0.15

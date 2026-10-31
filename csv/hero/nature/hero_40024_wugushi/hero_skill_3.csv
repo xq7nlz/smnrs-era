@@ -1,0 +1,4 @@
+name,effect_chance_normal,effect_chance_special,affected_hero_class,effect_type,effect_amount,effect_duration
+Wugushi_Passive2,0.5,1,2,10,0.2,3
+Wugushi_Passive2,0.5,1,2,10,0.25,3
+Wugushi_Passive2,0.5,1,2,10,0.3,3

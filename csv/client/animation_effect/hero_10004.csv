@@ -1,0 +1,4 @@
+animation,frame,parent,effect_type,effect_name
+attack,20,Model/FootAnchor,HeroBattleEffect,hero_10004_attack_shot
+skill,6,Model/FootAnchor,HeroBattleEffect,hero_10004_skill_fx
+skill,42,Model/FootAnchor,HeroBattleEffect,hero_10004_skill_ice

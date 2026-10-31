@@ -1,0 +1,18 @@
+id,name,affected_hero,stat_1,bonus_1,calculation_type_1,faction_1,stat_2,bonus_2,calculation_type_2,faction_2
+1,Fairy Tail,10003;50007,1,0.15,2,,2,0.15,2,
+2,Women of Deepsea,10004;10013,1,0.1,2,1,,,,
+3,Bloody Game,30014;60002,3,0.15,2,3,3,0.15,2,6
+4,Old Friends,50012;60003,1,0.15,2,5,11,0.3,1,6
+5,Forbiden Desire,20001;20002,21,0.15,2,2,,,,
+6,Forever Love,20005;40005,1,0.15,2,2,3,0.15,2,4
+7,Undead Gods,30020;30001,1,0.15,2,,,,,
+8,Banana Lovers,40014;40016;40021,4,20,3,,,,,
+9,Son of Ifrit,20022;20018;20020,1,0.05,2,,,,,
+10,Faraway Sea,10026;10024;10017,2,0.05,2,,,,,
+11,Burning Hunters,20025;20024,2,0.1,2,2,,,,
+12,Water Brohood,10006;10019,1,0.1,2,,3,0.1,2,
+13,Blood Friends,20012;20026,1,0.1,2,,3,0.1,2,
+14,Abyss's Weapons,30010;30021,1,0.1,2,,3,0.1,2,
+15,Jungle Hermits,40023;40026,1,0.1,2,,3,0.1,2,
+16,Guardians of the Church,50013;50015,1,0.1,2,,3,0.1,2,
+17,Brothers of Dark,60026;60015,1,0.1,2,,3,0.1,2,

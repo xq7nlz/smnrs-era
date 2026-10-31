@@ -1,0 +1,4 @@
+name,damage,ally_target_position,ally_target_number,enemy_target_position,enemy_target_number,effect_bonus_percent,effect_duration
+Grimm_Active,1.7,41,4,20,4,8,3
+Grimm_Active,1.9,41,4,20,4,11,3
+Grimm_Active,2.1,41,4,20,4,15,3

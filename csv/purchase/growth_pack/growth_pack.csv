@@ -1,0 +1,3 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,price,profit,stock
+1,SE039,com.se.sungame.idle_7,com.sungame.summoners.era.idle_levelpass_1,com.fansipan.summoners.era.idle_7,com.fansipan.summoners.era.idle_levelpass_1,2,2,750,,14.99,721,1
+2,SE040,com.se.sungame.idle_8,com.sungame.summoners.era.idle_levelpass_2,com.fansipan.summoners.era.idle_8,com.fansipan.summoners.era.idle_levelpass_2,2,2,750,,14.99,721,1

@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,power_buff_target_position,power_buff_target_number,power_buff_amount
+Khezzec_Active,1.15,21,4,10,5,15
+Khezzec_Active,1.35,21,4,10,5,25
+Khezzec_Active,1.55,21,4,10,5,35

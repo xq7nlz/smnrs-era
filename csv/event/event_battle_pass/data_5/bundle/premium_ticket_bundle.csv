@@ -1,0 +1,4 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE357,WEB_SE357,com.se.sungame.normal_battle_pass.ss5,com.sungame.summoners.era.normal_battle_pass.ss5,com.fansipan.summoners.era.normal_battle_pass.ss5,com.fansipan.summoners.era.normal_battle_pass.ss5,2,2,750,,1,14.99,FALSE
+2,SE358,WEB_SE358,com.se.sungame.premium_battle_pass.ss5,com.sungame.summoners.era.premium_battle_pass.ss5,com.fansipan.summoners.era.premium_battle_pass.ss5,com.fansipan.summoners.era.premium_battle_pass.ss5,2,195,1000,,1,19.99,FALSE
+,,,,,,,2,2,1000,,,,

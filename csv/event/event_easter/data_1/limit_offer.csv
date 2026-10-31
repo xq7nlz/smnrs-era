@@ -1,0 +1,7 @@
+id,sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE132,com.se.sungame.icarus_bunny_skin,com.sungame.summoners.era.icarus_bunny_skin,com.fansipan.summoners.era.icarus_bunny_skin,com.fansipan.summoners.era.icarus_bunny_skin,14,20001002,1,,2,19.99,FALSE
+,,,,,,2,237,1,,,,
+,,,,,,2,239,1,,,,
+,,,,,,2,236,1,,,,
+,,,,,,2,238,1,,,,
+,,,,,,2,2,1000,,,,

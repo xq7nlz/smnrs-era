@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) et ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) ou ({4})
+1_1_2_power<> + {1} {2} au début de la bataille
+1_1_2_4_power<> + {1} {2} ({3}) au début de la bataille
+1_1_2_5_power<> + {1} {2} ({3}) au début de la bataille
+1_1_2_4_5_power<> + {1} {2} ({3}) et ({4}) au début de la bataille
+1_1_2_4_5_power_or<> + {1} {2} ({3}) ou ({4}) au début de la bataille
+2_1<> + {1} Dégâts
+2_1_2<> + {1} Dégâts causés par {2}
+2_1_3<> + {1} Dégâts pour {2}
+2_1_4<> + {1} Dégâts pour {2}
+2_1_2_3<> + {1} Dégâts causés par {2} contre {3}
+2_1_2_4<> + {1} Dégâts causés par {2} contre {3}
+2_1_2_3_4<> + {1} Dégâts causés par {2} contre {3} et {4}
+2_1_2_3_4_or<> + {1} Dégâts causés par {2} contre {3} ou {4}
+5_1_3<>+ Réduire {1} Dommages infligés par la classe de héros {2}
+5_1_4<>+ Réduire {1} Dommages infligés à la faction héros {2}

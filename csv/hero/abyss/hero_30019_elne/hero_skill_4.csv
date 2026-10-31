@@ -1,0 +1,4 @@
+name,health_trigger,target_position,target_number,effect_type,effect_amount,effect_duration
+Elne_Passive3,0.4,10,5,10,0.3,3
+Elne_Passive3,0.4,10,5,10,0.4,3
+Elne_Passive3,0.4,10,5,10,0.5,3

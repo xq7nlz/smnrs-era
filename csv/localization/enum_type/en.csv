@@ -1,0 +1,566 @@
+key<>value
+feature_1<>Campaign
+feature_2<>Summon
+feature_4<>Blacksmith
+feature_5<>Dragon Tower
+feature_6<>Black Market
+feature_7<>Tavern
+feature_8<>Ancient Tree
+feature_9<>Dungeon
+feature_10<>Guild
+feature_11<>Wheel Of Fate
+feature_12<>Arena
+feature_13<>Gold Mine
+feature_14<>Bag
+feature_15<>Summoner
+feature_16<>Mastery
+feature_17<>Friend
+feature_18<>Adventure
+feature_20<>Raise Level
+feature_21<>Fortress
+feature_22<>Linking
+feature_23<>Martial Arena
+feature_24<>Regress
+feature_25<>Hero Super Awaken 
+feature_26<>Domains
+feature_28<>Item Revolution
+feature_32<>Hero linking support
+feature_33<>Guild War 
+feature_34<>14-star Evolution
+faction_type_1<>Water
+faction_type_2<>Fire
+faction_type_3<>Abyss
+faction_type_4<>Nature
+faction_type_5<>Light
+faction_type_6<>Dark
+class_type_1<>Mage
+class_type_2<>Warrior
+class_type_3<>Priest
+class_type_4<>Assassin
+class_type_5<>Ranger
+stat_type_1<>ATK
+stat_type_2<>Armor
+stat_type_3<>HP
+stat_type_4<>Speed
+stat_type_10<>Crit Rate
+stat_type_11<>Crit Damage
+stat_type_20<>Accuracy
+stat_type_21<>Dodge
+stat_type_30<>Pure Damage
+stat_type_31<>Skill Damage
+stat_type_32<>Armor Penetration
+stat_type_40<>CC Resist
+stat_type_41<>Damage Reduction
+stat_type_50<>Energy
+effect_type_1<>Stun
+effect_type_2<>Freeze
+effect_type_3<>Sleep
+effect_type_4<>Petrify
+effect_type_10<>Poison
+effect_type_11<>Bleed
+effect_type_12<>Burn
+effect_type_30<>Curse
+effect_type_31<>Curse Mark
+effect_type_40<>Silence
+effect_type_50<>Invulnerable
+effect_type_100<>Weak Point Mark
+effect_type_101<>Holy Mark
+effect_type_102<>Water Friendly Mark
+effect_type_103<>Light Shield
+effect_type_104<>Divine Shield
+effect_type_105<>Dryad Mark
+effect_type_106<>Dark Mark
+effect_type_107<>Reflect Shield
+effect_type_108<>Focus Mark
+effect_type_109<>Taunt Mark
+effect_type_110<>Venom Stack
+effect_type_111<>Burning Mark
+effect_type_112<>Magic Shield
+effect_type_113<>Drowning Mark
+effect_type_114<>Blood Mark
+effect_type_191<>Disease Mark
+effect_type_192<>Disease Heal Mark 
+effect_type_200<>Bond Effect
+effect_type_500<>Bless
+effect_type_501<>Blessing Mark
+effect_type_510<>Heal
+effect_type_511<>Heal Resist
+effect_type_530<>Reborn
+effect_type_531<>Summon
+effect_type_600<>Counter Attack
+effect_type_612<>Last Chance
+casino_type_0<>Fortune Wheel
+casino_type_1<>Destiny Wheel
+money_type_-1<>Random
+money_type_0<>Gold
+money_type_1<>Gem
+money_type_2<>VIP Points
+money_type_10<>Hero EXP
+money_type_11<>Ancient Potion
+money_type_20<>Soul Stone
+money_type_30<>Fortune Stone
+money_type_31<>Destiny Stone
+money_type_32<>Lucky Coin
+money_type_40<>Arena Ticket
+money_type_41<>Arena Coin
+money_type_50<>Basic Summon Scroll
+money_type_51<>Premium Summon Scroll
+money_type_52<>Accumulate Point
+money_type_60<>Ancient Relic
+money_type_61<>Agtiz's Blessing
+money_type_70<>Friend Point
+money_type_71<>Stamina
+money_type_80<>Magic Powder
+money_type_85<>Tower Ticket
+money_type_90<>Basic Quest
+money_type_91<>Premium Quest
+money_type_100<>Mastery Point
+money_type_110<>Ancient Book
+money_type_120<>Guild Coin
+money_type_121<>Advance Guild Coin
+money_type_122<>Daily Boss Ticket
+money_type_123<>Guild Dungeon Ticket
+money_type_8<>Summoner EXP
+artifact_type_1<>Common
+artifact_type_2<>Rare
+artifact_type_3<>Mythical
+artifact_type_4<>Legendary
+artifact_type_5<>Immortal
+stone_rarity_1<>Common
+stone_rarity_2<>Uncommon
+stone_rarity_3<>Rare
+stone_rarity_4<>Mythical
+stone_rarity_5<>Legendary
+stone_rarity_6<>Immortal
+potion_type_0<>Red Potion
+potion_type_1<>Yellow Potion
+potion_type_2<>Purple Potion
+game_mode_1<>Campaign
+game_mode_2<>Dragon Tower
+game_mode_3<>Adventure
+game_mode_4<>Dungeon
+game_mode_5<>Friendly Duel
+game_mode_6<>Arena
+game_mode_7<>Guild Arena
+game_mode_8<>Guild War
+game_mode_9<>Friend Boss
+game_mode_10<>Daily Boss
+game_mode_11<>Guild Dungeon
+raid_type_0<>Gold Adventure
+raid_type_1<>Potion Adventure
+raid_type_2<>Treasure Adventure
+mastery_type_0<>ATK
+mastery_type_1<>DEF
+mastery_type_2<>HP
+mastery_type_3<>ACC
+mastery_type_4<>DOD
+companion_type_1<>Deploy 5 Heroes of different factions to obtain bonus attribute
+companion_type_2<>Deploy 3 Heroes of the same faction + 2 Heroes of another faction to obtain bonus attribute
+companion_type_3<>Deploy 3 Heroes of the same faction + 2 Heroes of the same faction to obtain bonus attribute
+companion_type_4<>Deploy 4 Heroes of the same faction to obtain bonus attribute
+companion_type_5<>Deploy 5 Heroes of the same faction to obtain bonus attribute
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>Basic Summon
+summon_type_1<>Premium Summon
+summon_type_2<>Friendship Summon
+difficult_type_1<>Normal
+difficult_type_2<>Hard
+difficult_type_3<>Extreme
+difficult_type_4<>Nightmare
+difficult_type_5<>Crazy
+difficult_type_6<>Chaos
+difficult_type_7<>Universe
+difficult_type_8<>Godz
+equip_rarity_1<>Common
+equip_rarity_2<>Uncommon
+equip_rarity_3<>Rare
+equip_rarity_4<>Mythical
+equip_rarity_5<>Legendary
+equip_rarity_6<>Immortal
+resource_type_1<>Hero
+resource_type_2<>Currency
+resource_type_3<>Equipment
+resource_type_4<>Artifact
+resource_type_5<>Rune
+resource_type_6<>Artifact Fragment
+resource_type_7<>Hero Fragment
+resource_type_12<>Border
+resource_type_13<>Hero Evolution Material
+resource_type_2_12<>Resource
+resource_type_2_40<>Resource
+resource_type_2_71<>Resource
+resource_type_2_85<>Resource
+resource_type_2_122<>Resource
+resource_type_2_123<>Resource
+resource_type_17<>Quick Battle Ticket
+linking_1<>Eternal Love
+linking_2<>Justice Union
+linking_3<>Female Pirates
+linking_4<>Death Reminder
+linking_5<>Mentality Shifter
+linking_6<>Eternal Life
+linking_7<>Warlike Blades
+linking_8<>Diamond
+linking_9<>Frozen Power
+linking_10<>Darkness Curse
+linking_11<>Soul Collector
+linking_12<>Moon Blade - Black Spear 
+linking_13<>Sacred Jungle Guardians
+linking_14<>Bless of Heaven
+linking_15<>Flame Servant
+linking_16<>Black Magic
+linking_17<>Ocean History
+ally_target_position_1<>self
+ally_target_position_10_5<>all allies
+ally_target_position_10<>{0} random alli(es)
+ally_target_position_11_5<>all allies
+ally_target_position_11<>{0} alli(es)
+ally_target_position_20_4<>all front-line alli(es)
+ally_target_position_20<>{0} random front-line alli(es)
+ally_target_position_21_4<>all back-line alli(es)
+ally_target_position_21<>{0} random back-line alli(es)
+ally_target_position_30<>{0} alli(es) with the lowest HP
+ally_target_position_31<>{0} alli(es) with the highest ATK
+ally_target_position_32<>{0} alli(es) with the lowest armor
+ally_target_position_33<>{0} alli(es) with the highest %HP
+ally_target_position_34<>{0} alli(es) with the highest armor
+ally_target_position_35<>{0} alli(es) with the highest HP
+ally_target_position_36<>{0} alli(es) with the lowest %HP
+ally_target_position_41<>{0} alli(es) in the same row
+ally_target_position_41_4<>all allies in the same row
+ally_target_position_45<>{0} alli(es) in different row
+ally_target_position_45_4<>all allies in different row
+ally_target_position_51<>{0} alli(es) having effect
+enemy_target_position_10_5<>all enemies
+enemy_target_position_10<>{0} random enemi(es)
+enemy_target_position_11_5<>all enemies
+enemy_target_position_11<>{0} enemi(es)
+enemy_target_position_20_4<>all front-line enemi(es)
+enemy_target_position_20<>{0} random front-line enemi(es)
+enemy_target_position_21_4<>all back-line enemi(es)
+enemy_target_position_21<>{0} random back-line enemi(es)
+enemy_target_position_30<>{0} enemi(es) with the lowest HP
+enemy_target_position_31<>{0} enemi(es) with the highest ATK
+enemy_target_position_32<>{0} enemi(es) with the lowest Armor
+enemy_target_position_33<>{0} enemi(es) with the highest %HP
+enemy_target_position_34<>{0} enemi(es) with the highest Armor
+enemy_target_position_35<>{0} enemi(es) with the highest HP
+enemy_target_position_36<>{0} enemi(es) with the lowest %HP
+enemy_target_position_41<>{0} enemi(es) in the same row
+enemy_target_position_45<>{0} enemi(es) in different row
+enemy_target_position_51<>{0} random enemi(es)
+enemy_target_position_62<>the enemy on the highest slot 
+money_type_140<>Elder Titan Soul
+money_type_141<>Titan Soul
+money_type_142<>Hero Soul
+money_type_130<>Gold Trophy
+money_type_131<>Silver Trophy
+money_type_135<>Zitga Badge
+resource_type_8<>Summoner EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>Rate Up
+money_type_190<>Arena Pass Point
+money_type_191<>Daily Quest Pass Point
+resource_type_14<>Skin
+money_type_180<>Lantern
+money_type_181<>Mooncake
+resource_type_11<>Avatar
+money_type_75<>Golden Key
+money_type_76<>Glass Key
+money_type_77<>Treasure Key
+money_type_210<>Dice
+money_type_211<>Pumpkin
+money_type_170<>Raising Star
+land_1<>Marianna Bay
+land_2<>Burning Continent
+land_3<>Hellhal Desert
+land_4<>Wildwood Jungle
+land_5<>Sunfield Valley
+land_6<>Evermist Peak
+land_7<>Dreamland
+land_8<>Chaos
+land_9<>Spirit World
+land_10<>Library of Time
+restrict_type_1<>Only Water Heroes allowed
+restrict_type_2<>Only Fire Heroes allowed
+restrict_type_3<>Only Abyss Heroes allowed
+restrict_type_4<>Only Nature Heroes allowed
+restrict_type_5<>Only Light Heroes allowed
+restrict_type_6<>Only Dark Heroes allowed
+restrict_type_7<>No Summoner allowed
+restrict_type_8<>No rules. Free your mind
+restrict_type_9<>No Mastery allowed. Beware!
+restrict_type_10<>No Equipment, Rune, Artifact, Skin, Talent allowed
+money_type_200_unused<>Water Charm
+money_type_201<>Fire Orb
+money_type_202<>Abyss Orb
+money_type_203<>Nature Orb
+money_type_204<>Light Orb
+money_type_205<>Dark Orb
+money_type_206<>Sun Orb
+money_type_207<>Moon Orb
+money_type_208<>Unborn Charm
+money_type_209<>Time Charm
+money_type_220<>Candy Cane
+money_type_221<>Candle
+money_type_222<>Lighted Candle
+money_type_230<>New Year Ticket
+linking_18<>Ferocious Flame
+linking_19<>Live Devil
+money_type_240<>Red Dice
+money_type_241<>Amulet
+money_type_242<>Firecracker
+money_type_245<>Red Paper
+money_type_244<>Elite Scroll
+money_type_243<>Red Envelop
+resource_type_18<>Growth Pack
+resource_type_19<>Wish
+money_type_250<>Chocolate
+money_type_251<>Arrow
+ally_target_position_52<>Allied Hero(es) of class {0}
+enemy_target_position_52<>Enemy Hero(es) of class {0}
+ally_target_position_61<>Allied Hero in position {0}
+enemy_target_position_61<>Enemy Hero in position {0}
+money_type_45<>Brave Badge
+money_type_165<>Rose
+game_mode_14<>Martial Arena
+money_type_46<>Brave Coin
+money_type_154<>Brave EXP
+summon_type_7<>Legendary Summon
+money_type_136<>Union Point
+money_type_12<>Awaken Book
+money_type_25<>Holy Water
+money_type_231<>Easter Point
+money_type_232<>Magic Dice
+money_type_233<>Super Dice
+money_type_234<>Wood Hammer
+money_type_235<>Silver Egg
+money_type_236<>Gold Egg
+money_type_237<>Rainbow Egg
+money_type_238<>Gold Hammer
+money_type_239<>Rainbow Hammer 
+money_type_166<>Astral Star
+companion_type_remake_1<>Deploy 5 Heroes of different factions to obtain bonus attribute
+companion_type_remake_2<>Deploy 2 couple of hero with the same faction and the final hero with different faction from 2 those couples.
+companion_type_remake_3<>Deploy 3 Heroes of the same faction + 2 Heroes of another faction to obtain bonus attribute
+companion_type_remake_4<>Deploy 3 Heroes of the same faction + 2 Heroes of the same faction to obtain bonus attribute
+companion_type_remake_5<>Deploy 4 Heroes of the same faction to obtain bonus attribute
+companion_type_remake_6<>Deploy 5 Heroes of the same faction to obtain bonus attribute
+money_type_167<>Enule's Blade
+money_type_225<>Magic Key
+money_type_168<>Compass
+resource_type_20<>Talent
+talent_1000101<>Powerful Twokai
+talent_1000201<>Strength Evolution 
+talent_1000301<>Divine Shield
+talent_1000401<>Abundant Vitality
+talent_1000501<>Bloody Scary
+talent_1000601<>Incredible Flash
+talent_1000701<>Critical Shot
+talent_1000801<>Burst into Damage
+talent_1000901<>Can not miss
+talent_1001001<>Extraordinary Movement
+talent_1001101<>Untamed
+talent_1001201<>Full-Power Non-Stop
+talent_1001301<>Soul Steal
+talent_1001401<>Close to Immune
+talent_1001501<>Bodyguard
+talent_2000101<>Impeccable Protection 
+talent_2000201<>Explosion 
+talent_2000301<>Sudden Death
+talent_2000401<>Reaper Refusion 
+talent_2000501<>Multiple DOT
+talent_2000601<>Critical Haunt
+talent_2000701<>No silence on me 
+talent_2000801<>Crit Decrease 
+talent_2000901<>Less power
+talent_2001001<>More power
+money_type_115<>Common Chest
+money_type_116<>Uncommon Chest
+money_type_117<>Rare Chest
+money_type_118<>Epic Chest 
+money_type_119<>Legend Chest
+money_type_113<>Mystery Coin
+avatar_121<>Lucky Jade Holder
+avatar_frame_101<>Iron Border
+avatar_frame_102<>Bronze Border
+avatar_frame_103<>Silver Border
+avatar_frame_104<>Gold Border
+avatar_frame_105<>Platium Border
+avatar_frame_106<>Diamond Border
+avatar_frame_107<>Master Border
+avatar_frame_108<>Grand Master 
+avatar_frame_109<>Challenger
+avatar_109<>Brave Qilin
+avatar_108<>Mischievious Qilin
+avatar_107<>Little Qilin
+avatar_frame_110<>Mid-Autumn Border
+money_type_195<>Battle Pass Exp
+avatar_110<>Legend Qilin
+money_type_15<>Magical Crystal
+equip_rarity_7<>Revolution
+talent_1001601<>Lightning Spell
+stat_type_33<>Reduce Damage Reduction
+avatar_frame_111<>Spooky Season
+avatar_111<>Crazy Pumpkin
+avatar_122<>Legend Power
+avatar_123<>Legend Strategist
+avatar_frame_122<>Legend Frame
+money_type_35<>Arena Chest I
+money_type_36<>Arena Chest II
+money_type_37<>Arena Chest III
+resource_type_24<>Special effect
+avatar_112<>Christmas
+avatar_frame_112<>Christmas
+money_type_248<>Lucky Coin
+avatar_113<>Lunar New Year
+avatar_frame_113<>Lunar New Year
+money_type_182<>Lighten Lantern
+money_type_249<>Wealth point
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>Samurai Proof
+avatar_124<>Fortress Defender 
+avatar_125<>Fortress Cleaner
+avatar_frame_124<>Relentless Challenger
+avatar_frame_125<>Unstoppabble Warrior
+avatar_frame_126<>The seeker
+avatar_frame_127<>The conqueror
+linking_21<>Sovereign monarch
+money_type_65<>Boss ticket
+linking_20<>Heaven and Earth Crusher
+avatar_126<>The Great Samurai
+avatar_127<>Happy Eggs
+avatar_frame_128<>Happy Easter
+money_type_252<>Piece of puzzle
+money_type_66<>Boss ticket
+money_type_226<>Rival point 
+money_type_22<>W/F/A/N Hero Selection Chest
+money_type_23<>D/L Hero Selection Chest
+avatar_129<>2nd birthday
+avatar_frame_129<>2nd birthday
+linking_22<>The legacy of hatred
+money_type_227<>Legacy pass point
+item_option_5_1_3<>Reduce damage taken {2}
+item_option_5_1_4<>Reduce damage taken {2}
+money_type_26<>Dark, Light faction artifact chest
+money_type_27<>W/F/A/N faction artifact chest
+money_type_175<>Superior pearl 
+money_type_176<>Astral star
+money_type_215<>Skin badge
+avatar_130<>Mid-autumn 2022 
+avatar_131<>Mid-autumn 2022 
+avatar_132<>Mid-autumn 2022 
+linking_23<>Rise of Monster 
+money_type_196<>Skin point
+money_type_95<>Talent core 
+avatar_133<>Halloween 2022
+avatar_frame_131<>Halloween 2022
+money_type_200<>Water Orb
+linking_24<>Dragon Tribe 
+avatar_134<>Christmas 2022
+avatar_frame_134<>Christmas 2022
+avatar_135<>Lunar New Year 2023
+avatar_frame_135<>Lunar New Year 2023
+money_type_253<>Eitri hammer
+money_type_254<>Eitri coin
+hero_detail_1<>Tanker
+hero_detail_2<>Power-Up
+hero_detail_3<>Assassin
+hero_detail_4<>Counter Damage
+hero_detail_5<>Area Of Effect
+hero_detail_6<>Crowd Control
+hero_detail_7<>Ranger
+hero_detail_8<>Burst Damage
+hero_detail_9<>Healing
+hero_detail_10<>Execute
+hero_detail_11<>Support
+hero_detail_12<>Mage
+hero_detail_13<>Revive
+hero_detail_14<>Fighter
+hero_detail_15<>Damage Over Time
+hero_detail_16<>Transform
+hero_detail_17<>Blessing
+hero_detail_18<>Curse
+hero_detail_19<>Silence
+hero_detail_20<>Counter Attack
+money_type_223<>Summer Coin
+money_type_224<>Mojito Ingredient
+money_type_125<>Summer Giftbox
+money_type_126<>Red Water Ball
+money_type_127<>Blue Water Ball
+money_type_128<>Green Water Ball
+money_type_129<>Grey Water Ball
+money_type_216<>Mojito
+month_january<>January
+month_february<>February
+month_march<>March
+month_april<>April
+month_may<>May
+month_june<>June
+month_july<>July
+month_august<>August
+month_september<>September
+month_october<>October
+month_november<>November
+month_december<>December
+avatar_136<>3rd birthday
+avatar_frame_136<>3rd birthday
+hero_desc_20001<>Phoenix Reborn
+hero_desc_20002<>Eternal Inferno
+hero_desc_10004<>Heart Of The Ocean
+hero_desc_10011<>Ocean Ferocious God
+hero_desc_30027<>Mighty samurai
+hero_desc_30003<>The Necromancer
+hero_desc_40008<>Arrow of Nature
+hero_desc_40027<>Dragon's Princess
+hero_desc_50003<>Light Blessing
+hero_desc_50007<>The Arc Angel
+hero_desc_50004<>The Uncrowned Prince
+hero_desc_50006<>Princess of the Moon
+hero_desc_60003<>One Hit One Kill
+hero_desc_60004<>Anubis's avatar
+hero_desc_60005<>Angle of Death
+hero_desc_60006<>Charming Swordgirl
+linking_25<>Holy Light
+money_type_137<>Challenge Coin
+avatar_137<>Avatar 1 Mid-Autumn 2023
+avatar_138<>Avatar 2 Mid-Autumn 2023
+avatar_139<>Avatar 3 Mid-Autumn 2023
+money_type_255<>Infinity coin
+money_type_186<>Adventure key
+money_type_185<>Artifact piece
+money_type_101<>Dice
+money_type_102<>Pumpkin
+money_type_43<>Martial Arena Coin
+avatar_115<>Enule Snow Guardian
+feature_35<>Recycle
+money_type_229<>Postcard
+money_type_78<>Fortune Coins
+money_type_79<>Jade
+money_type_217<>Easter Dice
+money_type_218<>Easter Eggs
+money_type_81<>Summer Dice
+money_type_82<>Beach Balls
+money_type_62<>Flower Fans
+money_type_63<>Cherry Flowers
+money_type_86<>Bamboo Flutes
+money_type_87<>Handkerchiefs
+money_type_72<>Pinata Clubs
+money_type_73<>Candys Pinata
+avatar_140<>4th birthday
+avatar_frame_137<>4th birthday

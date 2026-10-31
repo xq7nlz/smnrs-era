@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_target_position,heal_target_number,heal_duration
+LightMage_Active,1.5,10,4,0.5,10,4,0
+LightMage_Active,1.8,10,4,0.7,10,4,0
+LightMage_Active,2.1,10,4,0.9,10,4,0

@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,heal_amount,buff_target_position,buff_target_number
+Celestia_Active,1.11,10,5,0.2,20,2
+Celestia_Active,1.31,10,5,0.35,20,2
+Celestia_Active,1.51,10,5,0.5,20,2

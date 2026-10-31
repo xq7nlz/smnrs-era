@@ -1,0 +1,10 @@
+id,rate,res_type,res_id,res_number,res_data,is_reward_rate
+1,10,2,1,100,,TRUE
+2,25,2,1,20,,TRUE
+3,15,2,1,50,,TRUE
+4,10,17,202,2,,TRUE
+5,10,17,203,1,,TRUE
+6,10,17,203,2,,TRUE
+7,10,2,11,100,,TRUE
+8,10,2,51,1,,TRUE
+-1,-1,2,254,5,,FALSE

@@ -1,0 +1,4 @@
+name,stat_1,bonus_1,calculation_type_1,stat_2,bonus_2,calculation_type_2,stack_limit
+Oropher_Passive2,1,0.1,1,2,0.1,1,5
+Oropher_Passive2,1,0.15,1,2,0.15,1,5
+Oropher_Passive2,1,0.2,1,2,0.2,1,5

@@ -1,0 +1,4 @@
+name,target_position,target_number,splash_damage,splash_vertical_range,effect_dot_type,dot_chance,dot_duration,dot_amount
+Yin_Passive2,20,1,0.5,1,12,0.4,2,0.35
+Yin_Passive2,20,1,0.7,1,12,0.4,2,0.5
+Yin_Passive2,20,1,0.9,1,12,0.4,2,0.65

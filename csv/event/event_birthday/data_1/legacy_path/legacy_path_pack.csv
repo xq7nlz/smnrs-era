@@ -1,0 +1,2 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,price,profit,stock
+1,SE431,WEB_SE431,com.se.sungame.2nd_birthday_legacy_path,com.sungame.summoners.era.2nd_birthday_legacy_path,com.fansipan.summoners.era.2nd_birthday_legacy_path,com.fansipan.summoners.era.2nd_birthday_legacy_path,2,2,1000,,19.99,721,1

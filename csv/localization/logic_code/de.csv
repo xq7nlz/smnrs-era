@@ -1,0 +1,322 @@
+key<>value
+0<>Die Haltung wird erfolgreich ausgeführt
+1<>Entschuldigung, ein Fehler ist aufgetreten
+2<>Der Server antwortet leider nicht.
+4<>Spieler nicht gefunden
+5<>Ungültige Eingabedaten
+6<>Nicht genug Ressource
+10<>Diese Funktion wird nicht unterstützt.
+11<>Du hast die Zeit eingestellt, bitte überprüf sie erneut
+12<>Ungültige Clientversion
+13<>Ungültiger Paketename
+14<>Ungültiger Wert
+15<>Ungültiger Wert
+16<>Nicht übereinstimmende CSV-Dateinummer
+17<>Nicht übereinstimmende CSV-Datei
+30<>Die Authentifizierung wurde gemacht.
+31<>Dieses Konto wurde bereits auf einem anderen Gerät eingeloggt.
+32<>Doppelte Anmeldeinformationen. Bitte überprüf noch einmal.
+33<>Entschuldigung, ein Fehler ist aufgetreten
+34<>Bitte überprüf dein Passwort.
+35<>Authentifizierung-Spieler wurde blockiert.
+36<>Entschuldigung, Server-ID ist ungültig.
+37<>Dem Authentifizierungskonto fehlt ein Benutzername.
+38<>Bitte überprüf dein Passwort.
+40<>Vorhandener Wert
+41<>Authentifizierungskennwort wurde bereits verwendet.
+50<>Entschuldigung, ungültiges Spielernamen-Format
+51<>Der Spielername wurde gesperrt.
+52<>Vorhandener Benutzername
+53<>Der Spieler wurde blockiert.
+54<>Der Spieler wurde entsperrt.
+55<>Die Liste der blockierten Benutzer ist voll.
+56<>Die Facebook-ID des Spielers war bereits vorhanden.
+57<>Die Apple-ID des Spielers war bereits vorhanden.
+58<>Entschuldigung, ungültiger Benutzername
+65<>Entschuldigung, ein Fehler ist aufgetreten
+70<>Die Helden-Sammlung ist voll
+71<>Dieser Held hat das maximale Level erreicht
+72<>Dieser Held hat den maximalen Stern erreicht
+73<>Held nicht gefunden
+74<>Dieser Held wurde gesperrt
+75<>Ungültiges Evolutionsmaterial
+76<>Bitte verbessere diesen Helden auf das maximale Level.
+77<>Nicht genug Material für die Heldenentwicklung
+78<>Der Held ist derzeit im Trainingsmodus
+80<>Tägliche Belohnungen erhalten
+85<>Der Altar kann nicht zerlegt werden
+90<>Nicht genug Heldenfragmente
+91<>Heldenfragment nicht gefunden
+100<>Die Konvertierung ist leider fehlgeschlagen
+101<>Helden haben nicht gefunden, um zu konvertieren
+110<>Beschwörungsrolle kann nicht gekauft werden
+120<>Nicht genug Gegenstandsstufe
+121<>Die Gegenstandsstufe hat die Grenze erreicht
+122<>Gegenstand wird nicht ausgerüstet
+123<>Gegenstand nicht gefunden
+124<>Gegenstand stimmt nicht überein
+130<>Einkäufe haben die Grenze erreicht
+131<>Modus Abenteuer nicht gefunden
+132<>Nicht genug Abenteuer-Level
+140<>Der Held hat Verlies eingegeben
+141<>Der Held ist tot in Verlies
+142<>Bitte wähle mindestens einen Held aus
+143<>Verlies-Laden nicht gefunden
+144<>Verlies geschlossen
+145<>Maximal 5 Helden
+146<>Entschuldigung, ungültiger Heldenplatz
+148<>Held nicht gefunden
+149<>Trank nicht gefunden
+150<>Phase in Verlies hat die Grenze erreicht
+160<>Beherrschung hat die Grenze erreicht
+161<>Beherrschung gesperrt
+162<>Entschuldigung, Zurücksetzen fehlgeschlagen
+163<>Beherrschung wurde bereits zurückgesetzt
+170<>Beschwörerin ausgewählt
+171<>Der Beschwörer kann nicht ausgewählt werden
+172<>Die Fähigkeit Beschwörer kann nicht ausgewählt werden
+173<>Der Stern des Beschwörers hat das Maximum erreicht
+180<>Nicht mehr Schicksalsstein kaufen können
+181<>Nicht mehr Wunschstein kaufen können
+190<>Gold kann nicht erhalten werden
+200<>Einkäufe haben die Grenze erreicht
+201<>Drachenturm hat die maximale Etage erreicht
+210<>Es gibt keine Aufgabe zum Aktualisieren
+211<>Die Sperre der Suche kann nicht geändert werden.
+212<>Die Suche kann nicht abgebrochen werden
+213<>Diese Suche kann nicht gestartet werden
+214<>Suche nicht gefunden
+215<>Dieser Held hat sich einer anderen Quest angeschlossen.
+216<>Dieser Held erfüllt die Suche-Anforderungen nicht
+217<>Die Suche kann nicht beendet werden
+218<>Die Taverne-Suche ist bereits beendet
+219<>Die Taverne-Suche hat die Grenze erreicht
+220<>Nicht beschleunigen können
+230<>Entschuldigung, Funktion nicht verfügbar
+240<>Der automatische Trainingsplatz ist voll
+241<>Die Phase Feldzug war begrenzt
+242<>\nPhase Feldzug nicht gefunden
+243<>Die Phase Feldzug wurde gesperrt
+244<>Bitte wähle 1-3-Sterne-Helden
+245<>Bitte wähle Held für Training
+246<>Nicht genug Feldzug-Level
+250<>Freund existiert bereits
+251<>Anfrage wurde bereits gesendet.
+252<>Deine Freundesliste ist voll
+253<>Freund nicht gefunden
+254<>Freundschaftsanfrage nicht gefunden
+255<>Erkundung kann nicht ausgeführt werden
+256<>Entschuldigung, Erkundung ist fehlgeschlagen
+257<>Boss existiert bereits
+258<>Freund-Boss nicht gefunden
+259<>Der Unterschied im Level ist zu groß
+260<>Die Anzahl der Überfälle hat die Grenze erreicht
+265<>Freundpunkt hat das Maximum erreicht
+266<>Kein Freundpunkt
+270<>Das Senden der E-Mail hat das Maximum erreicht
+271<>E-Mail nicht gefunden
+272<>E-Mail kann nicht gelöscht werden
+273<>E-Mail-Belohnungen können nicht erhalten werden
+274<>Ungültige Länge des E-Mail-Inhalts
+290<>Gegner nicht gefunden
+291<>Bitte erstelle einen Kader in der Arena
+292<>Arena-Tickets haben die Grenze erreicht
+300<>Aufnahme nicht gefunden
+310<>Entschuldigung, Chat fehlgeschlagen
+311<>Ungültige Länge der Chat-Nachricht
+312<>Chat-Nachricht nicht gefunden
+320<>Belohnungsvideo nicht gefunden
+321<>Belohnungsvideo hat die Grenze erreicht
+350<>Der Spieler ist einem anderen Verein beigetreten
+351<>Verein nicht gefunden
+352<>Du hast gerade einen Verein verlassen, bitte warte auf %s Minuten
+353<>Der Verein ist voll
+354<>Vereinsmitglied nicht gefunden
+355<>Den Verein nicht verlassen werden können
+360<>Ungültiger Vereinsname
+361<>Der Vereinsname wurde verboten
+362<>Der Vereinsname existiert bereits
+363<>Entschuldigung, ungültige Vereinsbeschreibung
+364<>Die Vereinsbeschreibung wurde verboten
+370<>Level des Leiters ist nicht genug
+371<>Entschuldigung, die Suche konnte leider nicht abgeschlossen werden
+372<>Schon genug Co-Leiter haben
+373<>Vereinsmitglied hat bereits eingecheckt
+374<>Die Check-in-Nummer des Vereins hat die Grenze erreicht
+375<>Vereins-Spende hat die Grenze erreicht
+376<>Vereinsmitglied zu lange inaktiv
+380<>Antrag auf Beitritt vorhanden
+381<>Antrag auf Beitritt ist voll
+382<>Antrag auf Beitritt nicht gefunden
+390<>Das Level der Vereinsgebäude hat die Grenze erreicht
+391<>Bitte warte bis der Bau abgeschlossen ist.
+392<>Die Vereinsgebäude kann nicht verbessert werden
+393<>Mühle wurde nicht gebaut
+394<>Ressource kann nicht erhalten werden
+400<>Verein-Boss nicht gefunden
+401<>Verein-Boss wurde bereits herausgefordert
+402<>Verein-Boss kann nicht herausgefordert werden
+403<>Verein-Boss kann nicht ausgewählt werden
+404<>Statistik nicht gefunden
+410<>Verein-Verlies wurde bereits herausgefordert
+411<>Verein-Verlies nicht gefunden
+412<>Modus Verein-Verlies nicht gefunden
+413<>Verein-Verlies bereits geschlossen
+422<>Vereinskrieg wurde bereits registriert
+423<>Nicht genug Mitglieder für den Vereinskrieg
+424<>Nicht registriert
+425<>Gegner nicht gefunden
+426<>Die Angriffschancen haben die Grenze erreicht
+427<>Die Anzahl der Mitglieder hat die Grenze erreicht
+428<>Gegnerverein kann nicht ausgewählt werden
+430<>Vereinskrieg beendet
+431<>Die Registrierung für den Vereinskrieg ist abgelaufen
+450<>Suche nicht gefunden
+451<>Suche-Belohnung kann nicht erhalten werden
+452<>Entschuldigung, Suche-Freischaltung ist fehlgeschlagen
+460<>Gegenstand nicht gefunden
+461<>Ausverkauft
+470<>Entschuldigung, ungültige Form
+480<>Avatar nicht gefunden
+481<>Avatar-Rahmen nicht gefunden
+490<>Anweisung nicht gefunden
+501<>Authentifizierungs-E-Mail hat die Grenze erreicht
+502<>Authentifizierungscode hat die Grenze erreicht
+503<>Authentifizierungscode ist abgelaufen
+504<>Bitte überprüfe den Authentifizierungscode erneut
+510<>Senden von E-Mail hat die Grenze erreicht
+511<>E-Mail-Code hat die Grenze erreicht
+512<>Authentifizierungscode des E-Mails abgelaufen
+513<>Authentifizierungscode des E-Mails stimmt nicht überein
+514<>E-Mail war bereits vorhanden
+515<>E-Mail kann nicht gesendet werden
+516<>E-Mail wurde bereits verifiziert
+517<>Email nicht gefunden
+518<>E-Mail wurde nicht verifiziert
+600<>Kaufpaket nicht gefunden
+601<>Entschuldigung, ungültige Kauftransaktion
+602<>Erstkaufpaket abgelaufen
+603<>Dieses Paket ist nicht verfügbar
+604<>Ausverkauft
+605<>Kauf wurde bearbeitet
+606<>Dieser Kauf wird leider nicht unterstützt
+607<>Dieser Kauf wurde nicht gefunden
+700<>Ereignis geschlossen
+701<>Ereignis nicht gefunden
+740<>Belohnung für Login-Ereignis erhalten
+741<>Belohnung für Login-Ereignis nicht gefunden
+750<>Belohnung für Festival-Ereignis nicht gefunden
+751<>Belohnung für Festival-Ereignis bereits erhalten
+752<>Anforderungen des Festival-Ereignisses werden nicht erfüllt
+760<>Austausch-Erreignis hat die Grenze erreicht
+761<>Entschuldigung, Austausch ist fehlgeschlagen
+770<>Belohnung für Arena-Ranking nicht gefunden
+771<>Anforderungen von Arena-Ranking werden nicht erfüllt
+772<>Belohnung für Arena-Ranking bereits erhalten
+780<>Erreignis Rad des Schicksals kann sich nicht drehen
+781<>Erreignis Rad des Schicksals kann nicht wiederholen
+782<>Erreignis Rad des Schicksals hat die maximale Anzahl von Wiederholung erreicht
+783<>Erreignis Rad des Schicksals abgeschlossen
+784<>Erreignis Rad des Schicksals keine Mission zugewiesen
+785<>Erreignis Rad des Schicksals nicht zugewiesen
+786<>Erreignis Rad des Schicksals nicht abgeschlossen
+262<>Die Freunde des Spielers erreicht maximal Nummer
+414<>Phase ist bereits abgeschlossen
+261<>Boss wurde bereits besiegt
+60<>Google-Konto wurde bereits existiert
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Guild war battle phase closed
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>Der Teamname ist ungültig.
+656<>Der Teamname wurde gesperrt.
+657<>Die Teambeschreibung ist ungültig.
+658<>Teambeschreibung wurde gesperrt.
+660<>Sind bereits einem Team beigetreten.
+661<>Team wurde nicht gefunden.
+662<>Sie sind nicht in einem Team.
+663<>Finde diesen Player nicht.
+664<>
+665<>Dieses Team kämpft.
+666<>Dieses Team hat Vollmitglieder erreicht.
+667<>Dieses Team wurde aufgelöst.
+668<>Einige Spieler waren nicht bereit.
+670<>Dieser Spieler wurde bereits eingeladen.
+671<>Anzahl der Einladungen begrenzen
+672<>L'invitation n'a pas eu lieu car l'équipe a été dissoute.
+673<>L'invitation n'a pas eu lieu car l'équipe a été dissoute.
+675<>Die Bewerbung für dieses Team wurde gesendet.
+676<>Begrenzen Sie die Anzahl der Bewerbungen.
+677<>
+678<>
+679<>
+680<>Bereit ist in der Abklingzeit. Sei geduldig.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Anzahl der Einträge maximiert
+669<>Nicht genug Mitglieder, um zu starten.
+357<>Du warst noch nicht in einer Gilde.
+690<>Konnte das Team jetzt nicht verlassen.
+151<>Sie manipulieren zu schnell. Öffnen Sie das Spiel erneut, um dieses Problem zu lösen.
+654<>Dieser Spieler hat seine Formation nicht gespeichert
+686<>Verlangsamen Sie, Sie haben den Anführer zu schnell gewechselt.
+616<>Du hast Hero oder Artefakt noch nicht ausgewählt.
+1126<>Sie haben das maximale Level erreicht, müssen also kein Level kaufen.
+1152<>Du hast keine Spins.
+1151<>Du hast keine Spins.
+1153<>Sie haben die maximalen Spins erreicht.
+742<>Diese Prämie kann nicht beansprucht werden.
+1160<>Sie müssen einen Helden auswählen, um den Kauf abzuschließen.
+1163<>Sie müssen einen Artikel auswählen, den Sie beanspruchen möchten.
+984<>Sie müssen vor dem Austausch einen Helden wählen.
+994<>Legacy Pass
+203<>Ihr Level ist nicht für die Teilnahme an dieser Etage überein.
+1251<>Sie haben die maximale Belohnung eingelöst.
+1253<>Nicht genug Ressource, um den Stern zu vereinen.
+1262<>Füllen Sie alle Anforderungen ab, um zu empfangen.
+125<>Freischaltung, wenn der Held 14 Sterne erreicht

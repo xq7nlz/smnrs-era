@@ -1,0 +1,11 @@
+id,sg_product_id,web_sg_product_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,profit,price,is_free
+1,,,,,com.fansipan.summoners.era.event.lunar.2023.skin.pack.01,com.fansipan.summoners.era.event.lunar.2023.skin.pack.01,14,20001004,1,,1,800,49.99,FALSE
+,,,,,,,2,1,2600,,,,,
+,,,,,,,2,51,60,,,,,
+,,,,,,,2,248,30,,,,,
+,,,,,,,2,2,2500,,,,,
+2,,,,,com.fansipan.summoners.era.event.lunar.2023.skin.pack.02,com.fansipan.summoners.era.event.lunar.2023.skin.pack.02,14,60006004,1,,1,800,49.99,FALSE
+,,,,,,,2,1,2600,,,,,
+,,,,,,,2,51,60,,,,,
+,,,,,,,2,248,30,,,,,
+,,,,,,,2,2,2500,,,,,

@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} .
+summoner_1_1_1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} dan mengurangi {q(stat_debuff_type)} target sebanyak {q(stat_debuff_amount_3)} untuk {c(stat_debuff_duration)} ronde.
+summoner_1_1_2~stat_debuff_chance~1<>Menghasilkan [{p(damage)} ATK] kerusakan pada {q(target_position)}. Memiliki {p(stat_debuff_chance)} peluang untuk menurunkan {q(stat_debuff_amount_3)} {q(stat_debuff_type)} musuh selama {c(stat_debuff_duration)} putaran.
+summoner_1_1_2~stat_debuff_chance~0<>Memberikan [{p(damage)} ATK] kerusakan pada {q(target_position)} musuh acak di baris belakang dan menurunkan {q(stat_debuff_type)} musuh sebanyak {q(stat_debuff_amount_3)} dalam {c(stat_debuff_duration)} putaran.
+summoner_1_1_3~dispel_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} dan menghilangkan semua buff positif pada target. Menghasilkan kerusakan tambahan sebesar [{p(damage_bonus_per_die)} dari SERANGAN] kepada target untuk setiap musuh yang telah dikalahkan Pahlawan.
+summoner_1_1_3~dispel_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} . Untuk setiap musuh yang dikalahkan, menghasilkan kerusakan sebesar [{p(damage_bonus_per_die)} dari SERANGAN] kepada {p(dispel_chance)} musuh yang tersisa , dan memiliki kemungkinan untuk menghapus buff.
+summoner_1_2_1<>Meningkatkan {q(stat_1)} sebanyak {p(bonus_1)}, {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_1_2_2<>Meningkatkan {p(bonus_1)} {q(stat_1)} untuk {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Ketika Pahlawan kawan diserang dengan serangan dasar atau skill aktif, punya {p(passive_chance)} kemungkinan untuk mengembalikan kerusakan sebesar [{p(damage)} dari SERANGAN]  kepada penyerang.
+summoner_1_2_3<>Meningkatkan {q(stat_1)} sebanyak {p(bonus_1)}, {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>Pada awal pertarungan, {q(target_position_2)} menjadi kebal terhadap semua efek negatif selama {c(blessing_duration)} ronde.
+summoner_1_3_1~blessing_chance~1<>Pada awal pertarungan, {q(target_position_2)} memiliki {p(blessing_chance)} kemungkinan untuk kebal terhadap semua efek negatif selama {c(blessing_duration)} ronde.
+summoner_1_3_2~buff_chance~1<>Di awal setiap ronde ganjil, dapatkan {p(buff_chance)} peluang untuk meningkat {q(stat_buff_1_amount)} {q(stat_buff_1_type)} dan {q(stat_buff_2_amount)} {q(stat_buff_2_type)} untuk Pahlawan di posisi ke-{q(buff_target_position)}. Efek ini berlangsung selama {c(buff_duration)} ronde.
+summoner_1_3_2~buff_chance~0<>Di awal setiap putaran ganjil, naikkan {q(stat_buff_1_amount)} {q(stat_buff_1_type)} dan {q(stat_buff_2_amount)} {q(stat_buff_2_type)} untuk Pahlawan di posisi {q(buff_target_position)}. Efek ini berlangsung selama {c(buff_duration)} ronde.
+summoner_1_3_3~buff_chance~0<>Untuk setiap Pahlawan kawan yang kalah, tingkatkan {q(stat_buff_1_type)} sebanyak {q(stat_buff_1_amount)}, {q(stat_buff_2_type)} sebanyak {q(stat_buff_2_amount)} untuk {q(buff_target_position)}. Efek ini hanya dapat digunakan sekali untuk setiap kawan per pertandingan
+summoner_1_3_3~buff_chance~1<>Untuk setiap Pahlawan kawan yang kalah, punya {c(buff_duration)} kemungkinan untuk meningkatkan {q(stat_buff_1_type)} sebanyak {q(stat_buff_1_amount)}, {q(stat_buff_2_type)} sebanyak {q(stat_buff_2_amount)} untuk {q(buff_target_position)}. Efek ini hanya dapat digunakan sekali untuk setiap kawan per pertandingan
+summoner_1_4_1~block_chance~0<>Kawan di posisi {s(target_number)} menangkis {p(block_rate)} dari kerusakan yang diterima ketika diserang dengan serangan dasar atau skill aktif
+summoner_1_4_1~block_chance~1<>Kawan di posisi {s(target_number)} memiliki {p(block_chance)} kemungkinan untuk menangkis {p(block_rate)} dari kerusakan yang diterima ketika diserang dengan serangan dasar atau skill aktif
+summoner_1_4_2<>Pada awal setiap putaran, pahlawan di posisi {q(target_position_2)} mendapat {c(power_buff)} energi
+summoner_1_4_3<>Meningkatkan {q(stat_buff_type)} sebanyak {q(stat_buff_amount_3)} selama {q(buff_target_position)}. Setelah setiap serangan {c(count_trigger)} (serangan dasar atau skill aktif) dilakukan oleh kawan ini, menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN Hero ini] kepada {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} dan mengurangi {q(stat_debuff_type)} dari target sebanyak {q(stat_debuff_amount_3)} untuk {c(stat_debuff_duration)} ronde.
+summoner_2_1_1~stat_debuff_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)} dan memiliki {p(stat_debuff_chance)} kemungkinan untuk mengurangi {q(stat_debuff_type)} dari target sebanyak {q(stat_debuff_amount_3)} untuk {c(stat_debuff_duration)} ronde.
+summoner_2_1_2~stat_buff_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(damage_target_position)}. Meningkatkan {q(stat_buff_amount_3)} {q(stat_buff_type)} untuk {q(buff_target_position)}, bertahan selama {c(stat_buff_duration)} ronde.
+summoner_2_1_2~stat_buff_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(damage_target_position)} dan memiliki {p(stat_buff_chance)} kemungkinan untuk meningkatkan {q(stat_buff_amount_3)} {q(stat_buff_type)} untuk {q(buff_target_position)}, bertahan selama {c(stat_buff_duration)} ronde.
+summoner_2_1_3<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(target_position)}, memiliki {p(effect_chance)} kemungkinan untuk memberikan efek {q(effect_type)} kepada target untuk {c(effect_duration)} ronde.
+summoner_2_2_1<>Meningkatkan {q(stat_1)} sebanyak {p(bonus_1)}, {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_2_2_2<>Tingkatkan {q(bonus_1)} {q(stat_1)} dan turunkan {q(debuff_amount_1)} {q(debuff_stat_1)} untuk {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>Meningkatkan {q(stat_buff_type)} dari kawan yang tersisa sebanyak {q(stat_buff_amount_3)} untuk setiap kawan yang dikalahkan.
+summoner_2_2_3~buff_chance~1<>Memiliki {p(buff_chance)} kemungkinan untuk meningkatkan {q(stat_buff_type)} dari kawan yang tersisa sebanyak {q(stat_buff_amount_3)} untuk setiap kawan yang dikalahkan.
+summoner_2_3_1<>Ketika {q(target_position_2)} dipengaruhi oleh efek Pengendali Massa, kurangi {p(reduce_damage_amount)} dari kerusakan yang mereka terima.
+summoner_2_3_2~block_chance~0<>Setiap kali kawan diserang dengan serangan dasar atau skill aktif, ada {p(buff_chance)} kemungkinan untuk menggunakan efek Perisai kepada {q(target_position_2)} selama {c(block_duration)} ronde. Efek Perisai menghalangi [{p(block_amount)} dari kerusakan yang diterima]. Efek ini tidak menumpuk.
+summoner_2_3_2~block_chance~1<>Setiap kali kawan diserang dengan serangan dasar atau skill aktif, ada {p(buff_chance)} kemungkinan untuk menggunakan efek Perisai kepada {q(target_position_2)} selama {c(block_duration)} ronde. Efek Perisai memiliki {p(block_chance)} kemungkinan untuk menghalangi [{p(block_amount)} dari kerusakan yang diterima]. Efek ini tidak menumpuk.
+summoner_2_3_3<>Ketika kawan menerima kerusakan yang fatal, mereka memiliki {p(last_chance_rate)} kemungkinanan untuk bertahan hidup dengan 1 Darah dan memulihkan {c(power_gain)} energi. Efek ini hanya bisa digunakan satu kali untuk setiap kawan pada setiap pertandingan.
+summoner_2_4_1~block_chance~0<>kawan pada posisi {s(target_number)} menghalangi [{p(block_rate)} dari kerusakan yang diterima] ketika diserang dengan serangan dasar atau skill aktif.
+summoner_2_4_1~block_chance~1<>kawan pada posisi {s(target_number)} memiliki {p(block_chance)} kemungkinan untuk menghalangi [{p(block_rate)} dari kerusakan yang diterima] ketika diserang dengan serangan dasar atau skill aktif.
+summoner_2_4_2<>Di awal babak {c(round_trigger_list)}, buat tautan antara {q(tanker_target_position)} dan {q(target_position_3)}. Kerusakan yang terjadi dari semua sekutu tertaut akan {p(damage_share_percent)} ditransfer ke {q(tanker_target_position)}. Efek ini berlangsung selama {c(bond_duration)} putaran.
+summoner_2_4_3<>Tingkatkan {q(stat_buff_amount_3)} {q(stat_buff_type)} selama {q(buff_target_position)}. Untuk setiap 3 serangan (serangan dasar atau skill aktif ) yang diterima pahlawan ini, segera serang balik dan berikan kerusakan sebesar [{p(damage_percent_hp)} dari Darah kawan] kepada {q(damage_target_position)}.
+summoner_3_1_1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(damage_target_position)} dan memulihkan sejumlah Darah setara dengan [{p(heal_percent)} dari SERANGAN] selama {q(heal_target_position)}.
+summoner_3_1_2<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] kepada {q(damage_target_position)} dan memiliki {p(effect_chance)} kemungkinan untuk memberi efek {q(effect_type)} kepada target untuk {c(effect_duration)} ronde.
+summoner_3_1_3<>Menghasilkan kerusakan sebesar [{p(damage)} dari serangan] kepada {q(damage_target_position)}, dan mengikat {q(bond_target_position)} menjadi satu selama {c(bond_duration)} ronde. Ketika diserang dengan serangan dasar atau skill aktif, kerusakan yang diterima dibagi dan diberikan kepada semua target yang terikat daripada hanya kepada salah satunya.
+summoner_3_2_1<>Meningkatkan {q(stat_1)} sebanyak {p(bonus_1)}, dan {q(stat_2)} sebanyak {q(bonus_2)} untuk {q(target_position_2)}.
+summoner_3_2_2<>Meningkatkan {q(bonus_1)} {q(stat_1)} untuk {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Ketika kawan diserang dengan serangan dasar atau skill aktif, memiliki {p(heal_chance)} kesempatan untuk memulihkan Darah kawan ini setara dengan [{p(heal_amount)} dari SERANGAN].
+summoner_3_2_3<>Di awal setiap pertandingan, pulihkan {c(power_stat)} energi untuk kawan di posisi {s(target_number)}.
+summoner_3_3_1<>Tingkatkan {q(stat_1)} sebanyak {q(bonus_1)} selama {q(target_position_2)}.
+summoner_3_3_2<>Di awal setiap ronde di bawah ini: {c(round_trigger_list)}, Tingkatkan {q(stat_buff_type)} dari {q(target_position_2)} sebanyak {q(stat_buff_amount)} untuk {c(stat_buff_duration)} ronde.
+summoner_3_3_3<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)}, {q(stat_2)} sebanyak {q(bonus_2)} untuk {q(target_position_2)}.
+summoner_3_4_1<>Di awal setiap ronde ganjil, pulihkan {c(power_buff)} energi untuk {q(target_position_2)}.
+summoner_3_4_2<>Di awal setiap ronde ganjil, hilangkan semua efek negatif untuk {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>Ketika Darah kawan kurang dari {p(heal_trigger)}, pulihkan sejumlah Darah setara dengan [{p(heal_amount)} dari SERANGAN] untuk kawan ini. Efek ini hanya dapat digunakan sekali per pertandingan.
+summoner_3_4_3~heal_chance~1<>Ketika Darah kawan kurang dari {p(heal_trigger)}, ada {p(heal_chance)} kesempatan untuk memulihkan sejumlah Darah setara dengan [{p(heal_amount)} dari SERANGAN] untuk kawan ini. Efek ini hanya dapat digunakan sekali per pertandingan.
+summoner_4_1_1~debuff_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan {q(debuff_type)} target selama {c(debuff_duration)} ronde. Efek {q(debuff_type)} menghasilkan kerusakan sebesar [{p(debuff_amount)} dari SERANGAN]  pada target setiap ronde.
+summoner_4_1_1~debuff_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan memiliki {p(debuff_chance)} kemungkinan untuk {q(debuff_type)} target selama {c(debuff_duration)} ronde. Efek {q(debuff_type)} menghasilkan kerusakan sebesar [{p(debuff_amount)} dari SERANGAN]  pada target setiap ronde.
+summoner_4_1_2<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan memiliki {p(debuff_chance)} kemungkinan untuk {q(debuff_type)} target selama {c(debuff_duration)} ronde.
+summoner_4_1_3<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan meningkatkan {q(buff_type)} dari {q(buff_target_position)} sebanyak {p(buff_amount)} selama {c(buff_duration)} ronde.
+summoner_4_2_1<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} dan {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_4_2_2<>Meningkatkan {q(stat_1)} oleh {q(bonus_1)} untuk {q(target_position_2)}.
+summoner_4_2_3<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} dan {q(stat_2)} sebanyak {q(bonus_2)} untuk {q(target_position_2)}.
+summoner_4_3_1<>Tingkatkan {q(stat_1)} sebanyak {q(bonus_1)} untuk {q(target_position_2)}.
+summoner_4_3_2<>Di awal setiap babak, ikat {q(target_position_2)} dan {q(bond_target_position)} untuk babak {c(bond_duration)}. {p(bond_share_damage)} kerusakan yang diterima oleh sekutu yang terikat akan ditransfer dan dibagi rata antara {q(bond_target_position)}. 
+summoner_4_3_3<>Ketika kawan menggunakan efek PENGENDALI MASSA ke target, berikan efek Berdarah ke target selama durasi yang sama dengan efek PENGENDALI MASSA sebelumnya. Efek berdarah menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada target setiap ronde.
+summoner_4_4_1<>Ketika serangan kawan (serangan dasar atau keterampilan aktif) menjadi serangan kritis, tingkatkan {p(bonus_1)} dari {q(target_position_2)} sebanyak {q(stat_1)} selama {c(buff_duration)} ronde. Efek ini bisa ditumpuk.
+summoner_4_4_2<>Ketika sekutu berhasil menghindari serangan, naikkan {q(buff_type)} sebanyak {q(buff_amount)} untuk {c(buff_duration)} babak. Efek ini tidak dapat ditumpuk.\n
+summoner_4_4_3<>Untuk setiap {c(buff_per_power)} energi dari Pemanggil, tingkatkan {p(buff_amount)} dari {q(target_position_2)} sebanyak {q(buff_type)}.
+summoner_5_1_1~stat_debuff_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)}, dan mengurangi {q(stat_debuff_type)} dari target sebanyak {p(stat_debuff_amount)} selama {c(stat_debuff_duration)} ronde.
+summoner_5_1_1~stat_debuff_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan memiliki {p(stat_debuff_chance)} kemungkinan untuk mengurangi {p(stat_debuff_amount)} dari target sebanyak {q(stat_debuff_type)} selama {c(stat_debuff_duration)} ronde.
+summoner_5_1_2<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan meningkatkan kerusakan yang diterima target dari semua sumber sebanyak {p(damage_receive_debuff_amount)} selama {c(damage_receive_debuff_duration)} ronde.
+summoner_5_1_3~debuff_chance~0<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan {q(debuff_type)} target selama {c(debuff_duration)} ronde. Efek {q(debuff_type)} menghasilkan kerusakan sebesar [{p(debuff_amount)} dari SERANGAN] pada target setiap ronde.
+summoner_5_1_3~debuff_chance~1<>Menghasilkan kerusakan sebesar [{p(damage)} dari SERANGAN] pada {q(target_position)} dan memiliki {p(debuff_chance)} kemungkinan untuk memberikan efek {q(debuff_type)} ke target selama {c(debuff_duration)} ronde. Efek {q(debuff_type)} menghasilkan kerusakan sebesar [{p(debuff_amount)} dari SERANGAN] pada target setiap ronde.
+summoner_5_2_1<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} dan {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_5_2_2<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} dan {q(stat_2)} sebanyak {p(bonus_2)} untuk {q(target_position_2)}.
+summoner_5_2_3<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} untuk {q(target_position_2)}.
+summoner_5_3_1<>Ketika kawan menyerang musuh atau menggunakan skill, hasilkan {p(bonus_damage_receive)} kerusakan lebih banyak ke target jika mereka telah dipengaruhi oleh efek PENGENDALI MASSA.
+summoner_5_3_2<>Pada awal setiap putaran bawah: {c(round_trigger_list)}, penurunan {q(debuff_amount_1)} oleh {q(debuff_stat_1)} untuk {q(target_position)} di {c(debuff_duration)} putaran(s).
+summoner_5_3_3<>Ketika kawan melakukan serangan dengan giliran tambahan, serangan ini memberikan {p(bonus_damage_extra_turn)} kerusakan lebih banyak .
+summoner_5_4_1<>Tingkatkan {q(stat_1)} sebanyak {p(bonus_1)} dan {q(stat_2)} sebanyak {p(bonus_2)} untuk kawan di posisi {s(target_number)}.
+summoner_5_4_2<>Tingkatkan {q(stat_1)} sebanyak {q(bonus_1)} untuk {q(target_position_2)}.
+summoner_5_4_3<>Pada saat kawan melakukan serangan dengan giliran tambahan yang ke-{c(number_extra_turn_affect)}, serangan ini menghasilkan {p(bonus_damage_extra_turn)} kerusakan lebih banyak dan memberikan efek {q(effect_type)} ke target selama {c(effect_duration)} ronde.
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

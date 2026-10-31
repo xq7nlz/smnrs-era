@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,effect_chance,effect_type,effect_duration,effect_amount,effect_dryad_duration,effect_dryad_amount
+Arryl_Active,0.92,10,3,1,10,3,0.4,3,0.15
+Arryl_Active,1.12,10,4,1,10,4,0.5,4,0.2
+Arryl_Active,1.32,10,5,1,10,5,0.6,5,0.25

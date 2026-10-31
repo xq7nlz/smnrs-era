@@ -1,0 +1,4 @@
+name,effect_type,effect_affect_to_stat,effect_amount,effect_duration
+Yggra_Passive1,20,2,0.15,2
+Yggra_Passive1,20,2,0.2,2
+Yggra_Passive1,20,2,0.25,2

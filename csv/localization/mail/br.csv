@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>Recompensas VIP
+vip_reward_content<>Parabéns! Você recebeu recompensas por ser VIP {1}.
+friend_boss_last_hit_reward_subject<>Recompensa do Chefão Amigo
+friend_boss_last_hit_reward_content<>Parabéns! Você tem a recompensa do Chefão Amigo pelo último acerto
+friend_boss_cleared_reward_subject<>Recompensa do Chefão Amigo
+friend_boss_cleared_reward_content<>Parabéns! Você tem recompensas por derrotar o Chefão Amigo
+friend_season_ranking_reward_subject<>Ranking de Amizade da Temporada
+friend_season_ranking_reward_content<>Parabéns! Você conseguiu {1} recompensa do Ranking de Amizade da Temporada
+arena_season_ranking_reward_subject<>Ranking da Temporada da Arena
+arena_season_ranking_reward_content<>Parabéns! Você conseguiu {1} recompensa do Ranking da Arena da temporada
+arena_team_season_ranking_reward_subject<>Ranking da Temporada da Arena
+arena_team_season_ranking_reward_content<>Parabéns! Você conseguiu {1} recompensa do Ranking da Arena da temporada
+guild_boss_daily_reward_subject<>Recompensa do Chefão diário da Guilda
+guild_boss_daily_reward_content<>Parabéns! Você tem Recompensas por entrar no Chefão diário da Guilda
+guild_boss_monthly_reward_subject<>Recompensa mensal do Chefão da Guilda
+guild_boss_monthly_reward_content<>Parabéns! Você tem recompensas mensais no Chefão da Guilda.
+guild_dungeon_cleared_reward_subject<>Guild Dungeon Rewards
+guild_dungeon_cleared_reward_content<>Congratulations! You've received rewards for completing stage {1} of season {2} in the Guild Dungeon.
+guild_dungeon_season_reward_subject<>Recompensas da temporada da Masmorra da Guilda
+guild_dungeon_season_reward_content<>Parabéns! Você recebeu recompensas por completar a {1} temporada da Masmorra da Guilda
+guild_war_battle_reward_subject<>Recompensas da Batalha da Guerra da Guilda
+guild_war_battle_reward_content<>Parabéns! Você recebeu recompensas por completar a batalha {2} da temporada {1} na Guerra da Guilda.
+guild_war_season_reward_subject<>Recompensas da temporada da Guerra da Guilda
+guild_war_season_reward_content<>Parabéns! Você recebeu recompensas por ter completado a temporada {1} na Guerra da Guilda.
+purchase_raw_pack_subject<>Pacote Bruto de Recompensas
+purchase_raw_pack_content<>Parabéns! Você recebeu prêmios por comprar o pacote {1}.\nID da transação: {2}.\nHora da Transação: {3}.
+purchase_subscription_pack_instant_subject<>Pacote de Prêmios de Assinatura
+purchase_subscription_pack_instant_content<>Parabéns! Você recebeu prêmios por adquirir o pacote de assinatura {1}.\nID da transação: {2}.\nHora da Transação: {3}.
+purchase_subscription_pack_daily_subject<>Recompensa diária do Pacote de Assinatura
+purchase_subscription_pack_daily_content<>Parabéns! Recebeu prémios diários do pacote de assinatura {1}.\nDia: {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>Recompensa de Pacote Limitado
+purchase_limited_pack_content<>Parabéns! Você recebeu uma recompensa por comprar um pacote limitado {1}.\nID da transação: {2}.\nHora da transação: {3}.
+purchase_event_bundle_pack_subject<>Pacote de Eventos
+purchase_event_bundle_pack_content<>Parabéns! Você recebeu uma recompensa pela compra do pacote de eventos {1}.\nID da transação: {2}.\nHora da Transação: {3}.
+purchase_event_hot_deal_subject<>Pacote de Eventos
+purchase_event_hot_deal_content<>Parabéns! Você recebeu uma recompensa pela compra do pacote de eventos {1}.\nID da transação: {2}.\nHora da transação: {3}.
+purchase_subscription_pack_trial_subject<>Recompensa do Pacote Teste de Assinatura Diário
+purchase_subscription_pack_trial_content<>Parabéns! Recebeu prémios diários do pacote teste de assinatura {1}.\nDia: {2}
+purchase_first_time_reward_subject<>Recompensa pela Primeira Compra
+purchase_first_time_reward_content<>Parabéns! Você recebeu pela primeira vez recompensas por comprar pela primeira vez no jogo
+event_arena_subject<>Evento Arena
+event_arena_content<>Parabéns! Recebeu prêmios da temporada {1} no evento Arena.
+event_casino_subject<>Evento Roda do Destino
+event_casino_content<>Parabéns! Recebeu prêmios da temporada {1} no evento Roda do Destino.
+event_hero_collect_subject<>Evento de Coleta de Heróis
+event_hero_collect_content<>Parabéns! Recebeu uma recompensa na Temporada {1} no Evento de Coleta de Heróis.
+event_prophet_tree_subject<>Evento Árvore Antiga
+event_prophet_tree_content<>Parabéns! Você recebeu uma recompensa na Temporada {1} no evento Árvore Anciã.
+event_summon_subject<>Evento de Invocação
+event_summon_content<>Parabéns! Você recebeu uma recompensa de Temporada {1} no Evento de Convocação.
+event_tavern_subject<>Evento Taverna
+event_tavern_content<>Parabéns! Você recebeu uma recompensa na Temporada {1} no evento Taverna.
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>Alterar senha e e-mail para a Era de Invocador
+email_change_password_content<>Nome de usuário: {2}. Código de redefinição de senha {1}, Expirado: {3}
+email_validation_subject<>E-mail de validação para a Era de Invocação
+email_validation_content<>Código de validação {1}, Expirado: {3}
+email_sender_name<>Suporte Zitga
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Recompensa do cartão Black Friday
+event_black_friday_content<>Parabéns! Você recebeu recompensas diárias do Black Friday Card {1}.\nDia: {2}\n
+event_new_year_subject<>Recompensa do cartão de bênção
+event_new_year_content<>Parabéns! Você recebeu recompensas diárias do Cartão de Bênção.
+event_lunar_new_year_clear_boss_reward_subject<>Ano Novo Lunar Expel Diabo Reward
+event_lunar_new_year_clear_boss_reward_content<>Parabéns! Você recebeu essas recompensas da atividade Expelir Diabo.
+event_new_hero_summon_subject<>Recompensa de Invocação lendária 
+event_new_hero_summon_content<>Parabéns! Você recebeu essas recompensas da atividade Invocação lendária 
+maintenance_inform_title<>SERVER MAINTENANCE ANNOUCEMENT
+maintenance_inform_title_content<>Caros invocadores,\nO Conselho gostaria de anunciar que o servidor entrará em manutenção em {1}. Você não poderá fazer o login durante este tempo.\nObserve que o jogo não poderá ser reproduzido durante o período de manutenção. 
+maintence_reward_title<>MANUTENÇÃO CONCLUÍDA 
+maintence_reward_content<>Caros invocadores,\nA manutenção foi concluída. Gostaríamos de enviar este presente como agradecimento por sua paciência durante o tempo de manutenção.\nContinue curtindo e conquistando! 
+event_easter_card_subject<>Cartão de Coelho Recompensa 
+event_easter_card_content<>Parabéns! Você recebeu recompensas diárias de Cartão de Coelho .\nDia: %s
+event_easter_egg_hunt_subject<>Coleta de ovos de páscoa Recompensa 
+event_easter_egg_hunt_content<>Essas recompensas são enviadas a você pelo seu desempenho na atividade do evento. 
+event_new_hero_boss_ranking_subject<>Recompensa de troféu de honra
+event_new_hero_boss_ranking_content<>Parabéns! Você recebeu esta recompensa por alcançar o top {1} no Power Contest.
+domain_challenge_reward_subject<>Domínios Recompensas
+domain_challenge_reward_content<>Parabéns! Você recebeu essas recompensas por passar {1} no estágio Domínios.
+event_new_hero_release_subject<>Recompensa de Invocação lendária 
+event_new_hero_release_content<>Parabéns! Você recebeu essas recompensas da atividade Invocação lendária 
+purchase_event_hero_release_subject<>Transação Bem Sucedida
+purchase_event_hero_release_content<>Você recebe esses itens para comprar pacotes durante o novo evento de herói. Obrigado por sempre nos apoiar.
+premium_reward_subject<>Recompensa da versão premium
+premium_reward_content<>Você recebe esses itens ao adquirir a versão premium do nosso jogo. Obrigado por sempre nos apoiar.
+event_server_open_arena_subject<>Arena Recompensa do placar
+event_server_open_arena_content<>Parabéns! Você recebeu essas recompensas do evento de corrida de classificação Arena!
+event_server_open_arena_2_subject<>Arena Martial Recompensa do placar
+event_server_open_arena_2_content<>Parabéns! Você recebeu essas recompensas do evento de corrida de classificação Arena Martial!
+event_unclaimed_reward<>Aqui está sua recompensa não reclamada.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Destiny War Event Rewards
+event_birthday_dark_light_content<>Parabéns! Você recebeu essas recompensas da atividade de eventos de guerra de Destiny.\n- Lado da luz: {1} pontos\n- Lado de Dark: {2} pontos
+event_birthday_summon_subject<>Recompensa o evento de aniversário
+event_birthday_summon_content<>Parabéns! Você recebeu essas recompensas por participar da missão semanal.
+event_birthday_prophet_tree_subject<>Recompensa o evento de aniversário
+event_birthday_prophet_tree_content<>Parabéns! Você recebeu essas recompensas por participar da missão semanal.
+event_birthday_arena_subject<>Recompensa o evento de aniversário
+event_birthday_arena_content<>Parabéns! Você recebeu essas recompensas por participar da missão semanal.
+event_birthday_casino_subject<>Recompensa o evento de aniversário
+event_birthday_casino_content<>Parabéns! Você recebeu essas recompensas por participar da missão semanal.
+event_zodiac_exchange_subject<>Evento do Zodiac Ending Mail
+event_zodiac_exchange_content<>Caros Invocadores,\nO Evento do Zodíaco terminou. Estrela astral foi convertido nesses recursos. Obrigado por participar do evento e espero que você tenha um bom tempo jogando.
+purchase_subscription_pack_daily_bonus_subject<>Recompensas de bônus diário VIP
+purchase_subscription_pack_daily_bonus_content<>Parabéns! Você recebeu essas recompensas como benefício de bônus VIP do cartão mensal.
+event_thanks_giving_subject<>Ação de Graças do evento
+event_thanks_giving_content<>Parabéns! Você terminou uma volta no jogo de dados. Reivindique estas recompensa agora!
+event_christmas_subject<>Evento Natal
+event_christmas_content<>Parabéns!
+event_boss_challenge_ranking_subject<>Recompensas de ranking de desafio do chefe
+event_boss_challenge_ranking_content<>Parabéns! Você recebe essas recompensas da atividade do Boss Challenge.
+event_valentine_subject<>Evento Valentine
+event_valentine_content<>Parabéns!
+event_lunar_new_year_subject<>Evento Lunar Ano Novo
+event_lunar_new_year_content<>Parabéns!
+event_summer_day_subject<>Evento Holida de verão
+event_summer_day_content<>Parabéns!
+event_blossom_day_subject<>Blossom de cerejeira de evento
+event_blossom_day_content<>Parabéns!
+event_qixi_festival_subject<>Evento Festival Qixi
+event_qixi_festival_content<>Parabéns!
+event_may_day_subject<>Evento Festival do México
+event_may_day_content<>Parabéns!

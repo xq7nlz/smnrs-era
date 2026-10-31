@@ -1,0 +1,322 @@
+key<>value
+0<>Tindakan berhasil dilakukan
+1<>Error telah terjadi
+2<>Server tidak merespon
+4<>Pemain tidak ditemukan
+5<>Input data tidak valid
+6<>Sumber daya tidak cukup
+10<>Fungsi ini tidak didukung
+11<>Kamu telah mengatur waktu, silakan perbaiki.
+12<>Versi klien tidak valid
+13<>Nama bundel tidak valid
+14<>Nilai tidak valid
+15<>Nilai tidak valid
+16<>Nomor file csv tidak cocok
+17<>FIle csv tidak cocok
+30<>Autentikasi telah terdaftar
+31<>Akun ini telah di sign-in pada perangkat lain
+32<>Informasi login digandakan
+33<>Error telah terjadi
+34<>Kata Sandi salah
+35<>Autentikasi pemain telah diblok
+36<>Autentikasi ID server tidak valid
+37<>Autentikasi Akun tidak memiliki nama pengguna
+38<>Kata Sandi salah
+40<>Nilai ini sudah ada
+41<>Autentikasi kata sandi telah digunakan
+50<>Format nama pemain tidak valid
+51<>Nama pemain telah di-ban
+52<>Nama sudah ada
+53<>Pemain telah diblok
+54<>Pemain tidak lagi diblok
+55<>Daftar pengguna yang diblok sudah penuh
+56<>ID Facebook pemain ini sudah ada
+57<>ID Apple ini sudah ada
+58<>Nama Pengguna tidak valid
+65<>Error telah terjadi
+70<>Koleksi Pahlawan sudah penuh
+71<>Pahlawan telah mencapai tingkat maksimum
+72<>Pahlawan telah mencapai bintang maksimum
+73<>Pahlawan tidak ditemukan
+74<>Pahlawan ini telah dikunci
+75<>Bahan evolusi tidak valid
+76<>Silakan tingkatkan pahlawan ini hingga tingkat maksimum
+77<>Bahan evolusi tidak cukup
+78<>Pahlawan sedang dalam Latihan otomatis
+80<>Menerima hadiah harian
+85<>Tidak bisa membongkar Altar
+90<>Pecahan Pahlawan tidak cukup
+91<>Pecahan Pahlawan tidak ditemukan
+100<>Percakapan gagal
+101<>Tidak menemukan Pahlawan untuk dikonversikan
+110<>Tidak bisa membeli Gulungan Surat Panggilan
+120<>Level item tidak cukup
+121<>Level item telah mencapai batas
+122<>Item belum dikenakan
+123<>Item tidak ditemukan
+124<>Item tidak cocok
+130<>Pembelian telah mencapai batas
+131<>Stage Petualangan tidak ditemukan
+132<>Level Petualangan tidak cukup
+140<>Pahlawan  telah bergabung dalam Dungeon
+141<>Pahlawan di Dungeon telah kalah
+142<>Silakan pilih paling kurang satu pahlawan
+143<>Pedagang tidak ditemukan
+144<>Dungeon ditutup
+145<>Maksimum 5 Pahlawan
+146<>Slot pahlawan tidak valid
+148<>Pahlawan tidak ditemukan
+149<>Obat tidak ditemukan
+150<>Stage Dungeon sudah mencapai maksimum
+160<>Tingkat Keahlian mencapai batas
+161<>Keahlian terkunci
+162<>Reset gagal
+163<>Keahlian telah diatur ulang
+170<>Kelas Keahlian telah terpilih
+171<>Tidak bisa memilih kelas Pemanggil
+172<>Tidak bisa memilih tier skill Pemanggil
+173<>Bintang Pemanggil telah mencapai maksimum
+180<>Pembelian telah mencapai batas
+181<>Pembelian telah mencapai batas
+190<>Tidak bisa mengambil Emas
+200<>Pembelian telah mencapai batas
+201<>Lantai Menara Naga paling atas telah tercapai
+210<>Tidak ada tugas untuk di-refresh
+211<>Tidak bisa mengubah kunci dari tugas
+212<>Tidak bisa membatalkan tugas
+213<>Tidak bisa memulai tugas
+214<>Tugas tidak ditemukan
+215<>Pahlawan ini telah bergabung dalam tugas lain
+216<>Pahlawan ini tidak memenuhi persyaratan tugas
+217<>Tugas tidak bisa diselesaikan
+218<>Tugas Kedai telah diselesaikan
+219<>Tugas Kedai telah mencapai batas
+220<>Tidak bisa dipercepat
+230<>Fitur tidak tersedia
+240<>Slot Latihan otomatis penuh
+241<>Stage Perjalanan telah mencapai batas
+242<>Stage Perjalanan tidak ditemukan
+243<>Stage Perjalanan telah dikunci
+244<>Hanya bisa melatih pahlawan bintang 1 hingga 3
+245<>Silahakan memilih pahlawan untuk dilatih
+246<>Stage Perjalanan tidak cukup
+250<>Teman sudah ada
+251<>Permintaan telah dikirim.
+252<>Daftar temanmu sudah penuh
+253<>Teman tidak ditemukan
+254<>Permintaan Teman tidak ditemukan
+255<>Tidak bisa mengintai
+256<>Pengintaian gagal
+257<>Boss sudah ada
+258<>Boss kawan tidak ditemukan
+259<>Perbedaan level terlalu besar
+260<>Jumlah penyeruan telah mencapai batas
+265<>Poin Teman telah mencapai maksimum
+266<>Tidak ada Poin Teman
+270<>Kamu telah mencapai pengiriman surat maksimum
+271<>Surat  tidak ditemukan
+272<>Tidak bisa menghapus surat
+273<>Tidak bisa mendapatkan surat hadiah
+274<>Panjang isi surat tidak valid
+290<>Lawan tidak ditemukan
+291<>Silhkan membuat pasukan dalam Arena
+292<>Pembelian telah mencapai batas
+300<>Rekaman tidak ditemukan
+310<>Percakapan gagal
+311<>Panjang pesan percakapan tidak valid
+312<>Pesan percakapan tidak ditemukan
+320<>Hadiah video tidak ditemukan
+321<>Hadiah video telah mencapai batas
+350<>Pemain telah bergabung dengan Perkumpulan lain
+351<>Perkumpulan tidak ditemukan
+352<>Kamu telah meninggalkan Perkumpulan, silakan tunggu %s menit
+353<>Perkumpulan sudah penuh
+354<>Anggota perkumpulan tidak ditemukan
+355<>Tidak bisa meninggalkan perkumpulan
+360<>Nama perkumpulan tidak valid
+361<>Nama bersekutuan dilarang
+362<>Nama perkumpulan sudah ada
+363<>Keterangan perkumpulan tidak valid
+364<>Keterangan perkumpulan telah dilarang
+370<>Level ketua tidak cukup
+371<>Tidak bisa menyelesaikan permintaan
+372<>Sudah memiliki cukup banyak Wakil ketua
+373<>Anggota Perkumpulan telah check-in
+374<>Jumlah check-in perkumpulan telah tercapai
+375<>Sumbangan perkumpulan telah mencapai batas.
+376<>Anggota perkumpulan terlalu lama tidak aktif
+380<>Aplikasi perkumpulan ada
+381<>Aplikasi perkumpulan sudah penuh
+382<>Aplikasi perkumpulan tidak ditemukan
+390<>Level gedung Perkumpulan telah mencapai batas
+391<>Silakan tunggu hingga pembangunan selesai
+392<>Tidak bisa meng-upgrade gedung Perkumpulan
+393<>Pabrik Perkumpulan telah dibangun
+394<>Tidak bisa mendapatkan sumber daya
+400<>Boss Perkumpulan tidak ditemukan
+401<>Boss Perkumpulan telah ditantang
+402<>Tidak bisa menantang Boss Perkumpulan
+403<>Tidak bisa memilih Boss Perkumpulan
+404<>Statistik tidak ditemukan
+410<>Sudah menantang Dungeon Perkumpulan
+411<>Dungeon Perkumpulan tidak ditemukan
+412<>Tahap Dungeon Perkumpulan tidak ditemukan
+413<>Dungeon Perkumpulan telah ditutup
+422<>Lawan tidak ditemukan
+423<>Tidak bisa memilih lawan perkumpulan
+424<>Number member mismatched
+425<>Lawan tidak ditemukan
+426<>Kesempatan menyerang telah mencapai batas
+427<>Unable to join due to not registering for guild war
+428<>Not participated
+430<>Pendaftaran Perang Perkumpulan kadarluarsa
+431<>Pendaftaran Perang Perkumpulan kadarluarsa
+450<>Pencarian tidak ditemukan
+451<>Tidak bisa mengambil hadiah pencarian
+452<>Pembukaan pencarian gagal
+460<>Barang tidak ditemukan
+461<>Habis terjual
+470<>Formasi tidak valid
+480<>Avatar tidak ditemukan
+481<>Bingkai Avatar tidak ditemukan
+490<>Pengajaran tidak ditemukan
+501<>Batas lupa kata sandi email telah tercapai
+502<>Batas memasukan kode lupa kata sandi telah tercapai
+503<>Kode lupa kata sandi telah kedaluwarsa
+504<>Kode lupa kata sandi tidak cocok
+510<>Pengiriman email telah mencapai batas
+511<>Batas memasukkan kode email telah tercapai
+512<>Kode validasi email telah kedaluwarsa
+513<>Kode validasi email tidak cocok
+514<>Email sudah ada
+515<>Tidak dapat mengirimkan email
+516<>Email sudah diverifikasi
+517<>Email tidak ditemukan
+518<>Email belum diverifikasi
+600<>Paket pembelian tidak ditemukan
+601<>Transaksi pembelian tidak valid
+602<>Paket pembelian pertama telah kedaluwarsa
+603<>Paket ini tidak tersedia
+604<>Habis terjual
+605<>Pembelian telah diproses
+606<>Pembelian tidak didukung
+607<>Pembelian tidak ditemukan
+700<>Event ditutup
+701<>Event tidak ditemukan
+740<>Telah menerima Hadiah Login Event
+741<>Hadiah Login Event tidak ditemukan
+750<>Hadiah Event Festival tidak ditemukan
+751<>Telah mengambil hadiah Event Festival
+752<>Persyaratan Event Festival tidak terpenuhi
+760<>Event Pertukaran telah mencapai batas
+761<>Pertukaran gagal
+770<>Hadiah Peringkat Arena tidak ditemukan
+771<>Hadiah Peringkat Arena telah diambil
+772<>Sudah mengambil hadiah Peringkat Arena
+780<>Tidak bisa memutar Event Roda Takdir
+781<>Tidak bisa memutar Event Roda Takdir
+782<>Batas Putar ulang Event Roda Takdir telah dicapai
+783<>Event Roda Takdir sudah selesai
+784<>Tidak ada tugas dari Event Roda Takdir yang dipilih
+785<>Event Roda Takdir belum dipilih
+786<>Event Roda Takdir belum selesai
+262<>Teman pemain sudah penuh
+414<>Tahap Dungeon telah diselesaikan
+261<>Boss telah dikalahkan
+60<>Google account already exists
+158<>Buff can't use
+420<>Your opponent did not register
+421<>You already registered
+432<>Perang perkumpulan telah selesai
+570<>This feature will unlock after passing Campaign Hard 5-15
+571<>Hero can not be register in this slot
+573<>Hero is in Raised List
+574<>Hero is one of the Mighty Five
+79<>Hero is in Raised List
+102<>Hero is in Ancient Tree
+248<>Hero is in Raised List
+263<>Friend list is full
+294<>Opponent bot not found 
+356<>Player has already left guild
+463<>Market level is invalid
+762<>Duplicate hero id
+763<>Hero is not matched
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Hero is in linking. Countdown is not completed
+870<>
+871<>Maximum exchanges
+872<>
+873<>Please Fulfill Team Formation
+874<> Not enough Ignatius Bauble
+880<>Maximum exchanges 
+881<>
+893<>Someone in your Guild has defeated this boss.
+902<>You have exceeded Gems Summon.
+912<>Not enough Arrow to fight boss
+918<>
+562<>Server takes too much time to respond. Need to reload game.
+930<>You have received all rewards.
+650<>
+651<>
+652<>
+653<>Heroes' class is not suitable.
+655<>Nama tim tidak valid.
+656<>Nama tim telah dilarang.
+657<>Deskripsi tim tidak valid.
+658<>Deskripsi tim telah dilarang.
+660<>Sudah bergabung dengan tim.
+661<>Tim belum ditemukan.
+662<>Anda tidak berada dalam tim.
+663<>Tidak menemukan pemain ini.
+664<>
+665<>Tim ini sedang berjuang.
+666<>Tim ini telah mencapai anggota penuh.
+667<>Tim ini telah dibubarkan.
+668<>Beberapa pemain belum siap.
+670<>Pemain ini telah diundang.
+671<>Batasi jumlah undangan
+672<>Undangan telah habis karena tim telah dibubarkan.
+673<>Undangan telah habis karena tim telah dibubarkan.
+675<>Aplikasi untuk tim ini telah dikirim.
+676<>Batasi jumlah aplikasi.
+677<>
+678<>
+679<>
+680<>Siap dalam waktu cooldown. Sabar.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Jumlah Entri dimaksimalkan
+669<>Tidak cukup anggota untuk memulai.
+357<>Anda belum pernah bergabung dalam Persekutuan.
+690<>Tidak dapat meninggalkan tim sekarang.
+151<>Anda memanipulasi terlalu cepat. Buka kembali game untuk mengatasi masalah ini.
+654<>Pemain ini belum menyimpan formasinya
+686<>Pelan-pelan, Anda telah mengubah pemimpin terlalu cepat.
+616<>Anda belum memilih Pahlawan atau Artefak.
+1126<>Anda telah mencapai level maksimum sehingga Anda tidak perlu membeli level.
+1152<>Anda tidak lagi berputar.
+1151<>Anda tidak lagi berputar.
+1153<>Anda telah mencapai putaran maksimum.
+742<>Tidak dapat mengklaim hadiah ini.
+1160<>Anda harus memilih pahlawan untuk menyelesaikan pembelian.
+1163<>Anda perlu memilih item untuk diklaim.
+984<>Anda perlu memilih pahlawan sebelum bertukar.
+994<>Anda telah menerima semua hadiah.
+203<>Level Anda tidak cocok untuk menghadiri lantai ini.
+1251<>Anda telah menebus hadiah maksimal.
+1253<>Sumber daya tidak cukup untuk menyatukan bintang.
+1262<>Lengkapi semua persyaratan untuk diterima.
+125<>Buka kunci saat pahlawan mencapai 14 bintang

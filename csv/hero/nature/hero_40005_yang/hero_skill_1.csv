@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_target_position,heal_target_number,heal_duration
+Yang_Active,1.6,10,2,0.5,1,1,2
+Yang_Active,1.8,10,2,0.5,1,1,2
+Yang_Active,2,10,2,0.5,1,1,2

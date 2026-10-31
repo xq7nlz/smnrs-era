@@ -1,0 +1,4 @@
+name,effect_type,effect_chance,effect_duration,effect_amount
+DeathJester_Passive3,11,0.5,2,0.6
+DeathJester_Passive3,11,0.75,2,0.7
+DeathJester_Passive3,11,1,2,0.8

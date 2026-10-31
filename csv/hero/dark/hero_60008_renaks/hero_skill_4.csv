@@ -1,0 +1,4 @@
+name,health_trigger,trigger_chance,stat_buff_duration,stat_buff_type,stat_buff_amount,heal_amount
+Renaks_Passive3,0.3,1,4,41,0.3,0.6
+Renaks_Passive3,0.3,1,4,41,0.4,0.8
+Renaks_Passive3,0.3,1,4,41,0.5,1

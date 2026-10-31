@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Haiyaa! Selamat datang di Persekutuan Suci Orde Cahaya - kota legendaris dari sihir terkuat diseluruh dunia!
+npc_rename<>Namamu siapa, kawan?
+npc_summon_click<>Sepertinya kamu belum memiliki pendamping. Ikuti aku ke Panggil
+npc_summon_start<>Ayo panggil pendamping pertamamu, kawan
+player_option1_1<>OK! Ayo lakukan.
+player_option1<>Paham!
+player_option2<>Tolong tunjukkan kepadaku?
+player_option2_1<>Ada apa?
+npc_basic_summon_info<>Panggilan Dasar - kamu dapat panggil Pahlawan bintang 1 hingga 5 dengan menggunakan Surat Gulungan Panggilan Dasar
+npc_heroic_summon_info<>Panggilan Premium - kamu dapat memanggil pahlawan bintang 3 hingga 5 dengan menggunakan Surat Gulungan Panggilan Premium atau Permata
+npc_friend_summon_info<>Panggilan Perkawanan - kamu dapat panggil Pahlawan bintang 2 hingga 5 dengan menggunakan Poin kawan
+npc_continue_campaign<>Bagus sekal! Saatnya untuk menjelajahi dunia!
+npc_select_hero_formation<>Silahkan pilih Hero untuk ikut bertarung.
+npc_formation_info_position<>Ingat bahwa serangan dasar biasanya fokus pada Pahlawan di posisi pertama, kemudian terus mengikuti posisi 2 hingga 5.
+npc_auto_battle<>Pertarungan sepenuhnya otomatis. Pahlawan memulihkan energi setelah menggunakan serangan dasar.
+npc_summoner_power<>LIHAT! Baris energi Pahlawanmu sekarang sudah penuh. Dengan energi ini, diakan menggunakan kemampuan aktif yang kuat ketika gilirannya tiba.
+npc_formation_change_position<>Satu hal lagi, kamu dapat mengubah posisi dari Pahlawanmu.
+npc_formation_buff<>Bagus! SERANGAN Pahlawan akan megningkat ektika mereka berada dilini belakang, dan Nyawa mereka akan meningkat ketika mereka berada dilini depan.
+npc_summoner_battle_info<>Ini adalah Pemanggil. Pemanggil tidak dapat ditarget (oleh lawan mupun buff kawan). Mereka akan meningkatkan kekuatan Pahlawan dengan sihir luar biasa.
+npc_add_power_summoner<>Ketika Pahlawan memulihkan energi, Pemanggil juga pulih. Ketika baris energi penuh, semua energi dikonversikan menjadi Api.
+npc_summoner_skill<>Ketika Pemanggil memiliki 5 Api, Pemanggil ini akan segera menggunakan kemampuan khusus yang kuat.
+npc_need_power<>Sepertinya kita belum cukup kuat. Ikuti aku! Aku akan menunjukkan cara untuk menjadi lebih kuat.
+npc_what_black_smith<>Apakah kamu tau tentang perlengkapan dan keuntungannya kawanku?
+npc_weapon<>Senjata meningkatkan SERANGAN. Semakin tinggi SERANGAN, semakin tinggi cedera yang dihasilkan.
+npc_armor<>Armor meningkatkan Darah dan Mengurangi Kerusakan. Pahlawanmu menjadi lebih tangguh.
+npc_helmet<>Helm meningkatkan Darah dan Armor! Lebih tangguh lebih baik.
+npc_ring<>Terakhir, Perhiasan meningkatkan Akurasi dan Kemampuan Menghindar! Tidak akan sakit bila tidak kena.
+npc_black_smith<>Tetapi pertama-tama, mari tempa senjatamu!
+npc_claim_black_smith<>Kamu sangat berbakat! Begitulah senjata kuat dan berbahaya dibuat.
+npc_black_market<>Aku dengar mereka menjual banyak barang-barang berguna di Pasar Gelap. Kamu mau ke sana?
+npc_buy_heroic_scroll<>Sangat banyak barang-barang berguna dijual disini. Menurutku kamu harus kunjungi lebih sering. Mari kita beli Surat Gulungan Panggilan Premium.
+npc_claim_black_market<>Kita sungguh beruntung! Sekarang kita memiliki sumber daya yang cukup untuk memanggil pahlawan baru. Ayo kembali ke Pemanggilan, kawanku!.
+npc_continue_summon<>Saatnya untuk memanggil Pahlawan kuat yang baru.
+npc_equipment<>Luar biasa! Pahlawan bintang 5. Semakin tinggi jumlah bintang pahlawan, semakin kuat mereka. Ayo pasangkan senjata yang baru saja kamu tempa kepada pahlawan barumu.
+npc_continue_5<>Selamat! Tim-mu menjadi lebih kuat.
+npc_continue<>Saatnya untuk menguji kekuatan barumu. Ayo lanjutkan perjalanan kita!
+npc_select_hero_continue<>Jangan lupa untuk memasukkan Pahlawan baru ke dalam tim-mu.
+npc_drag_hero<>Dengan situasi ini, Aku rasa kamu lebih baik memasang Pahlawan ini di lini belakang untuk meningkatkan SERANGAN Pahlawan ini.
+npc_idle_reward<>Silahkan ambil Hadiah Idle-mu sekarang. Tim-mu akan terus bertarung di arena ini untuk mendapatkan sumber daya lebih banyak lagi seiring dengan waktu. Ingat bahwa Hadiah Idle dapat dikumpulkan hingga %s Jam.
+npc_upgrade_hero_success<>Fantastis! Lebih cepat dari pada yang aku kira! Saatnya untuk melanjutkan, kawan!
+npc_level_up<>Bagus! Kita memiliki sumber daya yang cukup untuk meningkatkan pahlawan-mu. Sini aku tunjukan bagaimana caranya.
+npc_select_hero_upgrade<>Silahkan pilih Pahlawan ini untuk mulai meningkatkan level-nya.
+npc_continue_3<>Bagus! Mari lanjutkan perjalanan kita!
+npc_stage_10<>LIHAT! Ada pahlawan bintang 5 yang menunggu untuk kamu rekrut pada Tahap 1-10. Jangan lupa!
+npc_list_tut<>Aku telah mempersiapkan daftar tugas untukmu. Aku sebut ini sebagai Pohon Tugas. Daftar ini akan sangat membantu dalam perjalananmu. Silahkan dibuka!
+npc_quest<>Inilah Pohon Tugas yang aku sebutkan tadi! Banyak sekali hadiah yang menantimu ketika tugas pada daftar ini diselesaikan.
+npc_quest_complete<>Bagus sekal! Kamu telah menyelesaikan tugas pertama. Saatnya untuk mengambil hadiah!
+npc_end_tut<>Selamat! Kamu telah menyelesaikan tutorial. Saatnya untuk berpisah. Semoga kita bertemu lagi, kawanku!
+npc_claim_hero_5star<>Sempurna! Kamu telah mendapatkan Pahlawan bintang 5.
+npc_go_evolve_summoner<>Bagus sekali! Kamu memiliki sumber daya yang cukup untuk mengevolusi pemanggilmu. Biar kutunjukan cara kerjanya!
+npc_5summoner<>Ini adalah kelas-kelas Pemanggil!
+npc_summoner_class_1<>Ahli Sihir - Ahli sihir dan kekebalan.
+npc_summoner_class_2<>Kesatria - Pertahanan tinggi dan pengurangan kerusakan
+npc_summoner_class_3<>Pendeta - Penyembuhan dan tahan pengendali massa
+npc_summoner_class_4<>Pembunuh Bayaran - Ahli kekuatan, menghindar dan akurasi.
+npc_summoner_class_5<>Pasukan Keamanan - Serangan jarak jauh yang mematikan dan kerusakan bertumpuk
+npc_switch_summoner<>Ketuk disini untuk memilih Pemanggilmu.
+npc_end_summoner<>Ingat bahwa pemanggilmu dapat diganti kapan saja dengan pemanggil lain. Pemanggil dapat memberikan keuntungan yang besar ketika bertarung.
+npc_buy_scroll_success<>Baik sekali! Anda secara bertahap mulai terbiasa dengan permainan. Ini adalah hadiah kecil untuk familiarisasi Anda dengan permainan.
+victory_battle_tut<>Uma batalha tão dramática, não é? Você experimentará batalhas como esta no jogo. Vamos começar a jornada de descoberta comigo!
+npc_please_summon_heroic<>Ayo panggil pendamping pertamamu, kawan
+introduce_hero_summoned<>Selamat! Anda telah memanggil pahlawan 5* legendaris. Pahlawan legendaris adalah pahlawan paling canggih yang bisa Anda dapatkan dari pemanggilan.
+asking_continue_tutorial<>Anda telah memanggil pahlawan pertama Anda. Apakah Anda ingin melanjutkan tutorial untuk mempelajari lebih lanjut tentang mekanik game?
+yes<>Ya. Saya ingin belajar lebih banyak.
+no<>Tidak. Saya akrab dengan jenis permainan ini.
+npc_introduce_auto_battle<>Pertarungan sepenuhnya otomatis. Pahlawan memulihkan energi setelah menggunakan serangan dasar.
+npc_introduce_summoner<>Ini adalah Pemanggil. Pemanggil tidak dapat ditarget (oleh lawan mupun buff kawan). Mereka akan meningkatkan kekuatan Pahlawan dengan sihir luar biasa.
+npc_let_battle_commence<>Anda telah selesai menyiapkan skuad. Sekarang mari kita pergi berperang!
+npc_introduce_turn_mechanic<>1 pertandingan terdiri dari 15 putaran. Penyerang akan menang jika semua hero lawan dikalahkan dalam waktu 15 ronde.
+first_victory<>Selamat! Anda mendapatkan kemenangan pertama Anda. Dapatkan loot berikut dan terus guide bersama saya!
+npc_idle_reward_1<>Silahkan ambil Hadiah Idle-mu sekarang. Tim-mu akan terus bertarung di arena ini untuk mendapatkan sumber daya lebih banyak lagi seiring dengan waktu. Ingat bahwa Hadiah Idle dapat dikumpulkan hingga %s Jam.
+npc_idle_reward_2<>Kampanye lebih lanjut yang Anda capai, semakin banyak hadiah menganggur yang bisa diadakan. Selain itu, naikkan level vip Anda untuk meningkatkan waktu idle maksimum.
+npc_introduce_hero_upgrade_feature<>Di sinilah Anda dapat memeriksa informasi pahlawan Anda. Anda bisa naik level, meningkatkan bintang, dan melengkapi item untuk memperkuat pahlawan Anda.
+npc_introduce_four_equipment_slot<>Ada 4 jenis peralatan.
+npc_click_level_up<>Sekarang, mari naikkan level pahlawan Anda.
+congratulation_you_have_done<>Kerja bagus! Anda telah menyelesaikan tutorial. Saya percaya Anda bisa menjadi pemanggil yang hebat. Mari kita lanjutkan menjelajahi permainan dengan cara Anda sendiri.

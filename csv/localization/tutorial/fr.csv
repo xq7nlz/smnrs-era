@@ -1,0 +1,77 @@
+key<>value
+npc_hello<>Bienvenue à Holy Alliance of Light Order - ville légendaire des sorts les plus puissants de la Terre!
+npc_rename<>Quel est votre nom?
+npc_summon_click<>Suivez-moi à l'Invocation!
+npc_summon_start<>Invoquez votre premier compagnon!
+player_option1_1<>OK! Allons-y
+player_option1<>J'ai compris
+player_option2<>Veuillez me montrer!
+player_option2_1<>Qu'est-ce que c'est?
+npc_basic_summon_info<>Invocation de base - Invoquer des héros de 1 à 5 étoiles
+npc_heroic_summon_info<>Invocation premium - Invoquer des héros de 3 à 5 étoiles
+npc_friend_summon_info<>Invocation amicale - Invoquer des héros de 2 à 5 étoiles
+npc_continue_campaign<>Merveilleux! Il est temps d'explorer le monde!
+npc_select_hero_formation<>Veuillez choisir des héros pour rejoindre la bataille.
+npc_formation_info_position<>N'oubliez pas que les attaques de base se concentrent normalement sur le héros en position 1 en premier, puis suivent l'ordre de position de 2 à 5.
+npc_auto_battle<>La bataille est entièrement automatique
+npc_summoner_power<>Lorsque la barre d'énergie d'un héros est pleine, ce héros utilise automatiquement les compétences
+npc_formation_change_position<>Vous pouvez changer la position de vos héros.
+npc_formation_buff<>Bon travail! L'attaque des héros qui seront à la ligne arrière augmentera et leur PV augmentera avec ceux qui seront à la ligne première.
+npc_summoner_battle_info<>Voici l'Invocateur, qui soutiendra vos héros au combat. Il est à noter que l'Invocateur ne sera pas attaqué!
+npc_add_power_summoner<>Lorsqu'un héros récupère de l'énergie, l'Invocateur en récupère également. Lorsque la barre d'énergie est pleine, toutes les énergies seront converties en une flamme.
+npc_summoner_skill<>Lorsqu'il y a 5 flammes, l'Invocateur utilise automatiquement la compétence
+npc_need_power<>Dépêchez-vous! Nous avons besoin de plus de force
+npc_what_black_smith<>Connaissez-vous des avantages des armes?
+npc_weapon<>Les armes augmentent la puissance d'attaque
+npc_armor<>L'armure augmente le PV et réduire les dégâts
+npc_helmet<>Le casque augmente le PV et la défense
+npc_ring<>Les bagues augmentent la précision et l'esquive
+npc_black_smith<>Mais d'abord, forgez votre arme!
+npc_claim_black_smith<>Génial! Vous venez de recevoir une arme très puissante
+npc_black_market<>Ok! Maintenant, allez au Marché Noir
+npc_buy_heroic_scroll<>Ici, vous pouvez acheter des choses utiles. Achetez maintenant 1 Parchemin d'Invocation Premium!
+npc_claim_black_market<>Heureusement, nous avons assez de ressources pour continuer à invoquer le héros
+npc_continue_summon<>Génial! Invoquez les puissants héros
+npc_equipment<>Félicitations pour la possession d'un héros 4 étoiles. Continuez maintenant à équiper les armes
+npc_continue_5<>Félicitations pour votre force
+npc_continue<>Génial! Continuons le voyage
+npc_select_hero_continue<>Veuillez continuer à choisir un nouveau héros pour l'équipe
+npc_drag_hero<>Mettre le héros à la ligne arrière pour augmenter l'attaque
+npc_idle_reward<>Obtenez votre récompense. Votre équipe se battra automatiquement et recevra des récompenses régulières au fil du temps. N'oubliez pas que le coffre contient les récompenses seulement dans %s heures
+npc_upgrade_hero_success<>Fantastique! Plus vite que je ne le pensais
+npc_level_up<>Bon travail! Avec cette récompense, vous pouvez améliorer la puissance de votre héros
+npc_select_hero_upgrade<>Choisissez un héros 4 étoiles à améliorer
+npc_continue_3<>Très bien! Continuez le voyage
+npc_stage_10<>Il y a un héros 5 étoiles qui vous attend au stade 1-10
+npc_list_tut<>J'ai préparé une liste pour vous guider dans votre voyage!
+npc_quest<>Voici l'Arbre de Quête, complétez-le pour recevoir des récompenses
+npc_quest_complete<>Génial! Vous avez terminé la quête
+npc_end_tut<>Félicitations pour l'achèvement du tutoriel, j'espère que nous nous reverrons!
+npc_claim_hero_5star<>Félicitations! Vous avez reçu un héros 5 étoiles
+npc_go_evolve_summoner<>Génial! Vous pouvez maintenant faire évoluer l'Invocateur
+npc_5summoner<>Ce sont tous des Invocateurs!
+npc_summoner_class_1<>Mage - Maître de la magie et l'immunité
+npc_summoner_class_2<>Guerrier - Haute défense et capacité de réduction des dégâts
+npc_summoner_class_3<>Prêtre - Guérison et résistance au contrôle
+npc_summoner_class_4<>Assassin - Maître de la force, de l'esquive et de la précision
+npc_summoner_class_5<>Archer - Attaques à distance mortelles et dégâts cumulatifs
+npc_switch_summoner<>Appuyez ici pour changer votre Invocateur
+npc_end_summoner<>Vous pouvez choisir n'importe quel Invocateur pour rejoindre la bataille
+npc_buy_scroll_success<>Très bon! Vous vous habituez déjà progressivement au jeu. Ce petit cadeau pour votre familiarisation avec le jeu.
+victory_battle_tut<>Une bataille si dramatique, n'est-ce pas ? Vous ferez l'expérience de batailles comme celle-ci dans le jeu. Commençons le voyage de découverte avec moi !
+npc_please_summon_heroic<>Invoquez votre premier compagnon!
+introduce_hero_summoned<>Toutes nos félicitations! Vous avez convoqué un héros légendaire 5 *. Le héros légendaire est le héros le plus avancé que vous puissiez obtenir de l'invocation.
+asking_continue_tutorial<>Vous avez invoqué vos tout premiers héros. Voulez-vous continuer le didacticiel pour en savoir plus sur la mécanique du jeu ?
+yes<>Oui. Je veux en apprendre plus.
+no<>Non. Je connais ces types de jeux.
+npc_introduce_auto_battle<>La bataille est entièrement automatique
+npc_introduce_summoner<>Voici l'Invocateur, qui soutiendra vos héros au combat. Il est à noter que l'Invocateur ne sera pas attaqué!
+npc_let_battle_commence<>Vous avez terminé la mise en place de l'équipe. Passons maintenant au combat !
+npc_introduce_turn_mechanic<>1 match se compose de 15 rounds. L'attaquant gagnera si tous les héros de l'adversaire sont vaincus dans les 15 rounds.
+first_victory<>Toutes nos félicitations! Vous avez obtenu votre première victoire. Obtenez le butin suivant et continuez à guider avec moi !
+npc_idle_reward_1<>Obtenez votre récompense. Votre équipe se battra automatiquement et recevra des récompenses régulières au fil du temps. N'oubliez pas que le coffre contient les récompenses seulement dans %s heures
+npc_idle_reward_2<>Plus vous atteignez la campagne, plus la récompense inactive pourrait être détenue. De plus, augmentez votre niveau vip pour augmenter le temps d'inactivité maximum.
+npc_introduce_hero_upgrade_feature<>C'est ici que vous pouvez vérifier les informations de vos héros. Vous pouvez monter de niveau, améliorer l'étoile et équiper des objets pour renforcer votre héros.
+npc_introduce_four_equipment_slot<>Il existe 4 types d'équipements.
+npc_click_level_up<>Maintenant, nivelons votre héros.
+congratulation_you_have_done<>Bon travail! Vous avez terminé le didacticiel. Je crois que tu pourrais devenir un grand invocateur. Continuons à explorer le jeu à votre manière.

@@ -1,0 +1,17 @@
+key<>value
+10_2000101_1_2_3<>Le héros portant ce talent bloquera tous les dommages au premier tour de bataille.
+10_2000201_1_2<>L'attaque de base du héros portant ce talent a {1} la chance de faire plus de dégâts {2} aux ennemis.
+10_2000301_1_2<>La compétence active du héros portant ce talent a {1} la chance d'exécuter la cible. Cette action se produit une fois par bataille.
+10_2000401_1_2<>Le héros portant ce talent a 1 temps pour empêcher l'exécution. Si cela se produit, ce héros se rétablit {1} HP dans ce tour.
+10_2000501_1<>Le héros portant ce talent inflige {1} plus de dégâts au fil du temps aux ennemis.
+10_2000601_1<>Le héros portant ce talent, lorsqu'il traite un coup critique, a {1} la chance d'appliquer un effet de silence aux ennemis.
+10_2000701_1<>Le héros portant ce talent a {1} la chance de lancer un effet au début de chaque ronde qui l'aide à être à l'abri de l'effet de silence.
+10_2000801_1_2<>Lors de l'attaque, le héros portant ce talent abaisse le {2} de la cible par {1} dans le tour d'attaque.
+10_2000901_1<>Lorsque le héros portant ce talent effectue une attaque de base pour cibler un effet négatif, il donne à la cible {1} moins d'énergie.
+10_2001001_1<>La compétence active du héros portant ce talent lui donne {1} plus d'énergie.
+10_290401_1_2<>Le héros portant cet équipement se soigne lui-même {1} PV au début du round {2}
+10_290402_1_2<>Au début de la bataille, le héros portant cet équipement applique l'effet Brûlure à tous les ennemis en première ligne. La brûlure cause [{1} ATK] de dégâts et dure {2} rounds.
+10_290403_1_2_3<>Le héros portant cet équipement inflige plus de {2} dégâts et se soigne {1} PV lorsqu'il attaque des ennemis en obtenant {3}.
+10_290404_1_2<>Le héros portant cet équipement reçoit plus de {1} quantité de soins de la part de ses alliés. De plus, l'effet Poison appliqué aux ennemis augmente {2} dégâts.
+10_290405_1<>Le héros portant cet équipement se soigne {1} HP (calculé à partir de ses HP de base) lorsqu'il reçoit des buffs amovibles. Cet effet se déclenche une fois par round.
+10_290406_1<>Le héros portant cet équipement se soigne lui-même {1} HP (calculé à partir de ses HP de base) lorsqu'il attaque des ennemis en obtenant l'effet Saignement.

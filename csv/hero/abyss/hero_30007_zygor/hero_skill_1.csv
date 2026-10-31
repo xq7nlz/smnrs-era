@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Zygor_Active,0.83,10,5,0.15,4,2
+Zygor_Active,1.03,10,5,0.25,4,2
+Zygor_Active,1.23,10,5,0.35,4,2

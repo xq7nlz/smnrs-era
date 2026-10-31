@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,hp_trigger_limit,bonus_attack
+Yirlal_Active,1.55,35,1,0.6,0.5
+Yirlal_Active,1.75,35,1,0.6,0.5
+Yirlal_Active,1.95,35,1,0.6,0.5

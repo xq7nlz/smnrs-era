@@ -1,0 +1,9 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,SE181,WEB_SE181,com.se.sungame.renaks_summer_skin,com.sungame.summoners.era.renaks_summer_skin,com.fansipan.summoners.era.renaks_summer_skin,com.fansipan.summoners.era.renaks_summer_skin,14,60008001,1,,1,19.99,FALSE
+,,,,,,,2,168,200,,,,
+,,,,,,,2,1,520,,,,
+,,,,,,,2,2,1000,,,,
+2,SE182,WEB_SE182,com.se.sungame.enule_summer_skin,com.sungame.summoners.era.enule_summer_skin,com.fansipan.summoners.era.enule_summer_skin,com.fansipan.summoners.era.enule_summer_skin,14,50006001,1,,1,29.99,FALSE
+,,,,,,,2,168,300,,,,
+,,,,,,,2,1,1520,,,,
+,,,,,,,2,2,1500,,,,

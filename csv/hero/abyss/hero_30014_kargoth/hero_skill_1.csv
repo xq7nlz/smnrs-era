@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,damage_bonus_amount
+Kargoth_Active,1.12,20,2,0.3
+Kargoth_Active,1.37,20,2,0.35
+Kargoth_Active,1.62,20,2,0.4

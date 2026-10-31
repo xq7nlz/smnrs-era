@@ -1,0 +1,7 @@
+animation,frame,parent,effect_type,effect_name
+attack,13,Model/FootAnchor,HeroBattleEffect,hero_30001_attack_slash
+skill,63,Model/FootAnchor,HeroBattleEffect,hero_30001_skill_slash
+skill,64,Model/FootAnchor,HeroBattleEffect,hero_30001_slash_dust
+skill,37,Model/FootAnchor,HeroBattleEffect,hero_30001_teleport
+skill,49,Model/FootAnchor,HeroBattleEffect,hero_30001_skill_weapon
+skill,1,Model/FootAnchor,HeroBattleEffect,hero_30001_skill_tu

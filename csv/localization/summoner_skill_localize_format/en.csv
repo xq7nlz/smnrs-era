@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Deal [{p(damage)} of ATK] damage to {q(target_position)}.
+summoner_1_1_1<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and reduce {q(stat_debuff_type)} of target by {q(stat_debuff_amount_3)} for {c(stat_debuff_duration)} round(s).
+summoner_1_1_2~stat_debuff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)}. Have {p(stat_debuff_chance)} chance to decrease {q(stat_debuff_amount_3)} {q(stat_debuff_type)} in {c(stat_debuff_duration)} round(s).
+summoner_1_1_2~stat_debuff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)} random enemies in the back row and decrease those enemies' {q(stat_debuff_amount_3)} {q(stat_debuff_type)} in {c(stat_debuff_duration)} rounds.
+summoner_1_1_3~dispel_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and dispel all positive buffs on target. Deal [{p(damage_bonus_per_die)} of ATK] extra-damage to target for every enemy Hero has been defeated.
+summoner_1_1_3~dispel_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)}. For every dead enemy, deal [{p(damage_bonus_per_die)} of ATK] damage to remaining enemies, and have {p(dispel_chance)} chance to remove their buffs.
+summoner_1_2_1<>Increase {q(stat_1)} by {p(bonus_1)}, {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_1_2_2<>Increase {p(bonus_1)} {q(stat_1)} for {q(target_position_2)}.
+remove_summoner_1_2_2~passive_chance~1<>When ally Hero is attacked by basic attack or active skill, have {p(passive_chance)} chance to deal [{p(damage)} of ATK] damage back to the attacker.
+summoner_1_2_3<>Increase {q(stat_1)} by {p(bonus_1)}, {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>At start of each match, {q(target_position_2)} become immune to all negative effects for {c(blessing_duration)} round(s).
+summoner_1_3_1~blessing_chance~1<>At start of each match, {q(target_position_2)} have {p(blessing_chance)} chance to resist negative effects for {c(blessing_duration)} round(s).
+summoner_1_3_2~buff_chance~1<>At start of every odd round, there is a {p(buff_chance)} chance  to increase {q(stat_buff_1_amount)} {q(stat_buff_1_type)} and {q(stat_buff_2_amount)} {q(stat_buff_2_type)} for {q(buff_target_position)}. This effect lasts {c(buff_duration)} round.
+summoner_1_3_2~buff_chance~0<>At start of every odd round, increase {q(stat_buff_1_amount)} {q(stat_buff_1_type)} and {q(stat_buff_2_amount)} {q(stat_buff_2_type)} for {q(buff_target_position)}. This effect lasts {c(buff_duration)} round.
+summoner_1_3_3~buff_chance~0<>For each defeated ally Hero, increase {q(stat_buff_1_type)} by {q(stat_buff_1_amount)} and {q(stat_buff_2_type)} by {q(stat_buff_2_amount)} for {q(buff_target_position)}. This effect can only be triggered once per ally each match.
+summoner_1_3_3~buff_chance~1<>For each defeated ally Hero , have {c(buff_duration)} chance to increase {q(stat_buff_1_type)} by {q(stat_buff_1_amount)} and {q(stat_buff_2_type)} by {q(stat_buff_2_amount)} for {q(buff_target_position)}. This effect can only be triggered once per ally each match.
+summoner_1_4_1~block_chance~0<>Allies in position {s(target_number)} block {p(block_rate)} of damage taken when being attacked by basic attack or active skill.
+summoner_1_4_1~block_chance~1<>Allies in position {s(target_number)} have {p(block_chance)} chance to block {p(block_rate)} of damage taken when being attacked by basic attack or active skill.
+summoner_1_4_2<>At the start of every rounds, {q(target_position_2)} gets more {c(power_buff)} energy.
+summoner_1_4_3<>Increase {q(stat_buff_type)} by {q(stat_buff_amount_3)} for {q(buff_target_position)}. After each {c(count_trigger)} attack (basic attack or active skill) made by these allies, deal [{p(damage)} of this Hero's ATK] damage to {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and reduce {q(stat_debuff_type)} of target by {q(stat_debuff_amount_3)} for {c(stat_debuff_duration)} round(s).
+summoner_2_1_1~stat_debuff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and have {p(stat_debuff_chance)} chance to reduce {q(stat_debuff_type)} of target by {q(stat_debuff_amount_3)} for {c(stat_debuff_duration)} round(s).
+summoner_2_1_2~stat_buff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(damage_target_position)} and increase {q(stat_buff_amount_3)} {q(stat_buff_type)} for {q(buff_target_position)}, lasts {c(stat_buff_duration)} rounds.
+summoner_2_1_2~stat_buff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(damage_target_position)} and have {p(stat_buff_chance)} chance to increase {q(stat_buff_amount_3)} {q(stat_buff_type)} for {q(buff_target_position)}, lasts {c(stat_buff_duration)} round(s).
+summoner_2_1_3<>Deal [{p(damage)} of ATK] damage to {q(target_position)}, have {p(effect_chance)} chance to apply {q(effect_type)} effect to target for {c(effect_duration)} round(s).  
+summoner_2_2_1<>Increase {q(stat_1)} by {p(bonus_1)}, {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_2_2_2<>Increase {q(bonus_1)} {q(stat_1)} and decrease {q(debuff_amount_1)} {q(debuff_stat_1)} for {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>Increase {q(stat_buff_type)} of remaining allies by {q(stat_buff_amount_3)} for every defeated ally.
+summoner_2_2_3~buff_chance~1<>Have {p(buff_chance)} chance to increase {q(stat_buff_type)} of remaining allies by {q(stat_buff_amount_3)} when an ally is defeated.
+summoner_2_3_1<>When {q(target_position_2)} are affected by a CC effect, reduce {p(reduce_damage_amount)} of their damage taken.
+summoner_2_3_2~block_chance~0<>Whenever an ally is attacked by basic attack or active skill, have {p(buff_chance)} chance to apply Shield effect to {q(target_position_2)} for {c(block_duration)} round(s). Shield effect blocks [{p(block_amount)} of damage taken]. This effect does not stack.
+summoner_2_3_2~block_chance~1<>Whenever an ally is attacked by basic attack or active skill, have {p(buff_chance)} chance to apply Shield effect to {q(target_position_2)} for {c(block_duration)} round(s). Shield effect has {p(block_chance)} chance to block [{p(block_amount)} of damage taken]. This effect does not stack.
+summoner_2_3_3<>When an ally takes fatal damage, they have {p(last_chance_rate)} chance to survive with 1 HP and recover {c(power_gain)} energy. This effect can only be triggered once per ally each match.
+summoner_2_4_1~block_chance~0<>Allies in position {s(target_number)} block [{p(block_rate)} of damage taken] when being attacked by basic attack or active skill.
+summoner_2_4_1~block_chance~1<>Allies in position {s(target_number)} have {p(block_chance)} chance to block [{p(block_rate)} of damage taken] when being attacked by basic attack or active skill.
+summoner_2_4_2<>At the start of round {c(round_trigger_list)}, create link among {q(tanker_target_position)} and {q(target_position_3)}. Damage taken of all linked allies will be {p(damage_share_percent)} transfered to {q(tanker_target_position)}. This effect lasts {c(bond_duration)} rounds.
+summoner_2_4_3<>Increase {q(stat_buff_amount_3)} {q(stat_buff_type)} for {q(buff_target_position)}.Each 3 attacks (basic attack or active skill) this hero received, immediately counter-attack and deal [{p(damage_percent_hp)} of this ally's HP] damage to {q(damage_target_position)}.
+summoner_3_1_1<>Deal [{p(damage)} of ATK] damage to {q(damage_target_position)} and heal an amount of HP equal to [{p(heal_percent)} of ATK] for {q(heal_target_position)}.
+summoner_3_1_2<>Deals [{p(damage)} of ATK] damage to {q(damage_target_position)} and has {p(effect_chance)} chance to apply {q(effect_type)} effect to target for {c(effect_duration)} round(s).  
+summoner_3_1_3<>Deal [{p(damage)} attack] damage to {q(damage_target_position)}, and bind {q(bond_target_position)} together for {c(bond_duration)} round(s). When being attacked by basic attack or active skill, damage taken is divided and deal to all bound targets instead of dealing to one of them.
+summoner_3_2_1<>Increase {q(stat_1)} by {p(bonus_1)}, and {q(stat_2)} by {q(bonus_2)} for {q(target_position_2)}.
+summoner_3_2_2<>Increase {q(bonus_1)} {q(stat_1)} for {q(target_position_2)}.
+remove_summoner_3_2_2~heal_chance~1<>When an ally is attacked by basic attack or active skill, has {p(heal_chance)} chance to heal this ally amount of HP equal to [{p(heal_amount)} of ATK].
+summoner_3_2_3<>At start of each match, recover {c(power_stat)} energy for allies in position {s(target_number)}.
+summoner_3_3_1<>Increases {q(stat_1)} by {q(bonus_1)} for {q(target_position_2)}.
+summoner_3_3_2<>At start of each round below: {c(round_trigger_list)}, Increase {q(stat_buff_type)} of {q(target_position_2)} by {q(stat_buff_amount)} for {c(stat_buff_duration)} round(s).
+summoner_3_3_3<>Increase {q(stat_1)} by {p(bonus_1)}, {q(stat_2)} by {q(bonus_2)} for {q(target_position_2)}.
+summoner_3_4_1<>At start of every odd rounds, recover {c(power_buff)} energy for {q(target_position_2)}.
+summoner_3_4_2<>At the start of every odd round, dispel all negative effects for {q(target_position_2)}.
+summoner_3_4_3~heal_chance~0<>When an ally's HP  falls below {p(heal_trigger)}, heals amount of HP equal to [{p(heal_amount)} of ATK] for this ally. This effect can only be triggered once per match.
+summoner_3_4_3~heal_chance~1<>When HP of an ally falls below {p(heal_trigger)}, have {p(heal_chance)} chance to heal an amount of HP equal to [{p(heal_amount)} of ATK] for this ally. This effect can only be triggered once per match.
+summoner_4_1_1~debuff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and {q(debuff_type)} target for {c(debuff_duration)} round(s). {q(debuff_type)} effect deals [{p(debuff_amount)} of ATK] damage to target each round.
+summoner_4_1_1~debuff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and have {p(debuff_chance)} chance to apply {q(debuff_type)} effect to target for {c(debuff_duration)} round(s). {q(debuff_type)} effect deals [{p(debuff_amount)} of ATK] damage to target each round.
+summoner_4_1_2<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and have {p(debuff_chance)} chance to {q(debuff_type)} target for {c(debuff_duration)} round(s).  
+summoner_4_1_3<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and increase {q(buff_type)} of {q(buff_target_position)} by {p(buff_amount)} for {c(buff_duration)} round(s).
+summoner_4_2_1<>Increase {q(stat_1)} by {p(bonus_1)} and {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_4_2_2<>Increase {q(stat_1)} by {q(bonus_1)} for {q(target_position_2)}.
+summoner_4_2_3<>Increase {q(stat_1)} by {p(bonus_1)} and {q(stat_2)} by {q(bonus_2)} for {q(target_position_2)}.
+summoner_4_3_1<>Increase {q(stat_1)} by {q(bonus_1)} for {q(target_position_2)}.
+summoner_4_3_2<>At start of each round, bind {q(target_position_2)} and {q(bond_target_position)} for {c(bond_duration)} round. {p(bond_share_damage)} of damage taken to bound allies will be transfered and divided equally between {q(bond_target_position)}.
+summoner_4_3_3<>When an ally applies CC effect to target, apply Bleed effect to target for the same duration of previous CC effect. Bleed effect deals [{p(damage)} of ATK] damage to target each round. 
+summoner_4_4_1<>When an ally's attack (basic attack or active skill) is a critical hit, increase {p(bonus_1)} of {q(target_position_2)} by {q(stat_1)} for {c(buff_duration)} round(s). This effect can be stacked.
+summoner_4_4_2<>When an ally successfully dodges an attack, increase {q(buff_type)} by {q(buff_amount)} for {c(buff_duration)} round(s). This effect cannot be stacked.
+summoner_4_4_3<>For every {c(buff_per_power)} energy of the Summoner, increase {p(buff_amount)} of {q(target_position_2)} by {q(buff_type)}.
+summoner_5_1_1~stat_debuff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)}, and reduce {q(stat_debuff_type)} of target by {p(stat_debuff_amount)} for {c(stat_debuff_duration)} round(s).
+summoner_5_1_1~stat_debuff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and have {p(stat_debuff_chance)} chance to reduce {p(stat_debuff_amount)} of target by {q(stat_debuff_type)} for {c(stat_debuff_duration)} round(s).
+summoner_5_1_2<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and increase target's damage taken from all sources by {p(damage_receive_debuff_amount)} for {c(damage_receive_debuff_duration)} round(s).
+summoner_5_1_3~debuff_chance~0<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and {q(debuff_type)} target for {c(debuff_duration)} round(s). {q(debuff_type)} effect deals [{p(debuff_amount)} of ATK] damage to target each round.
+summoner_5_1_3~debuff_chance~1<>Deal [{p(damage)} of ATK] damage to {q(target_position)} and has {p(debuff_chance)} chance to apply {q(debuff_type)} effect to target for {c(debuff_duration)} round(s). {q(debuff_type)} effect deals [{p(debuff_amount)} of ATK] damage to target each round.
+summoner_5_2_1<>Increase {q(stat_1)} by {p(bonus_1)} and {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_5_2_2<>Increase {q(stat_1)} by {p(bonus_1)} and {q(stat_2)} by {p(bonus_2)} for {q(target_position_2)}.
+summoner_5_2_3<>Increase {q(stat_1)} by {p(bonus_1)} for {q(target_position_2)}.
+summoner_5_3_1<>When an ally attacks an enemy or casts a skill, deal {p(bonus_damage_receive)} more damage to target if they have been affected by a CC effect.
+summoner_5_3_2<>At start of each round below: {c(round_trigger_list)}, decrease {q(debuff_amount_1)} by {q(debuff_stat_1)} for {q(target_position)} in {c(debuff_duration)} round(s).
+summoner_5_3_3<>When an ally makes an attack by extra turn, this attack deals {p(bonus_damage_extra_turn)} more damage.
+summoner_5_4_1<>Increases {q(stat_1)} by {p(bonus_1)} and {q(stat_2)} by {p(bonus_2)} for allies in position {s(target_number)}.
+summoner_5_4_2<>Increase {q(stat_1)} by {q(bonus_1)} for {q(target_position_2)}.
+summoner_5_4_3<>At the {c(number_extra_turn_affect)}rd time an ally makes an attack by extra turn, this attack deal {p(bonus_damage_extra_turn)} more damage and apply {q(effect_type)} effect to target for {c(effect_duration)} round(s).
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

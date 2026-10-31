@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,heal_percent_of_damage,heal_target_position,heal_target_number
+Alvar_Active,2.3,10,2,0.5,10,2
+Alvar_Active,2.5,10,2,0.6,10,2
+Alvar_Active,2.7,10,2,0.7,10,2

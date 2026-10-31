@@ -1,0 +1,14 @@
+key<>value
+1_1_2<>Este aliado gana {1}
+1_1_2_4<>Todos los {2} aliados ganan {1}
+1_1_2_5<>Todos los {2} aliados ganan {1}
+1_1_2_4_5<>Todos los {2} / {3} aliados obtienen {1}
+1_1_2_4_5_or<>Todos los {2} aliados, {3} los aliados obtienen {1}
+2_1<> + {1} Daño
+2_1_2<> + {1} Daño por {2}
+2_1_3<> + {1} Daño contra {2}
+2_1_4<> + {1} Daño contra {2}
+2_1_2_3<> + {1} Daño para {2} Contra {3}
+2_1_2_4<> + {1} Daño para {2} Contra {3}
+2_1_2_3_4<> + {1} Daño para {2} Contra {3} y {4}
+2_1_2_3_4_or<> + {1} Daño para {2} Contra {3} o {4}

@@ -1,0 +1,145 @@
+key<>value
+money_type_-1<>Tiền ngẫu nhiên
+money_type_0<>Vàng là tiền thông thường.
+money_type_1<>Ngọc là tiền quý hiếm nhất.
+money_type_2<>Được sử dụng để nâng cấp quyền lợi của bạn
+money_type_10<>Được sử dụng để tăng cấp độ Anh hùng trong bảng Anh hùng
+money_type_11<>Dùng để tiến hóa anh hùng, có thể thu thập được ở trong cây nhiệm vụ hoặc Tháp Rồng
+money_type_20<>Được sử dụng để mua vật phẩm trong Cửa hàng Điện Thờ.
+money_type_30<>Được sử dụng để quay trong Vòng quay Nguyện ước.
+money_type_31<>Được sử dụng để quay trong Vòng quay Vận mệnh.
+money_type_32<>Được sử dụng để mua vật phẩm trong Cửa hàng Mong Ước.
+money_type_40<>Được sử dụng để vào Đấu Trường.
+money_type_41<>Được sử dụng để mua vật phẩm trong Cửa hàng Đấu Trường.
+money_type_50<>Được sử dụng để triệu hồi trong Triệu Hồi Cơ Bản.
+money_type_51<>Được sử dụng để triệu hồi trong Triệu Hồi Cao Cấp.
+money_type_52<>Được sử dụng để nhận Anh hùng 5 sao trong Trận Pháp Triệu Hồi
+money_type_60<>Được sử dụng để triệu hồi trong Cây Tiên Tri.
+money_type_61<>Được sử dụng để thay thế Anh hùng trong Cây Tiên Tri.
+money_type_70<>Được sử dụng để triệu hồi trong Triệu Hồi Bằng Hữu.
+money_type_80<>Được sử dụng để nâng cấp Dị thạch trong phần trang bị của Anh hùng.
+money_type_85<>Được sử dụng để vào Tháp Rồng.
+money_type_90<>Được sử dụng để khởi tạo nhiệm vụ từ 1-star~7-star trong Hội quán
+money_type_91<>Được sử dụng để khởi tạo nhiệm vụ từ 4-star~7-star trong Hội quán
+money_type_100<>Được sử dụng để nâng cấp trong Bảng bổ trợ.
+money_type_110<>Được sử dụng để tiến hóa Triệu hồi sư trong Bảng Triệu Hồi Sư.
+money_type_120<>Được sử dụng để mua vật phẩm trong Cửa hàng Bang Hội.
+money_type_121<>Được sử dụng để mua vật phẩm trong Cửa hàng Bang Hội.
+money_type_8<>Được sử dụng để nâng cấp Triệu Hồi Sư
+money_type_140<>Dùng để mua mảnh anh hùng trong Cửa Hàng Linh Hồn
+money_type_141<>Dùng để mua mảnh anh hùng trong Cửa Hàng Linh Hồn
+money_type_142<>Dùng để mua mảnh anh hùng trong Cửa Hàng Linh Hồn
+money_type_135<>Dùng trong sự kiện mừng sever mới
+money_type_150<>Sử dụng để nâng cấp cửa hàng Đấu trường
+money_type_151<>Sử dụng để nâng cấp cửa hàng Bang hội
+money_type_152<>Sử dụng để nâng cấp Tiệm tạp hoá
+money_type_190<>Sử dụng để tăng cấp Arena Pass
+money_type_191<>Sử dụng để nâng cấp cấp độ Nhật ký Nhiệm vụ
+money_type_180<>Sử dụng để đặt cược trong sự kiện Trung Thu
+money_type_181<>Sử dụng để nuôi thú trong sự kiện Trung Thu
+money_type_210<>Sử dụng để tham gia sự kiện Halloween
+money_type_211<>Sử dụng để đồi quả trong sự kiện Halloween
+money_type_170<>Sử dụng để mở khoá ô mới trong Danh sách Tiến cấp
+money_type_200_unused<>Sử dụng để nâng cấp các công trình tại Vịnh Marianna trong Pháo Đài.
+money_type_201<>Sử dụng làm nguyên liệu tiến hóa
+money_type_202<>Sử dụng làm nguyên liệu tiến hóa
+money_type_203<>Sử dụng làm nguyên liệu tiến hóa
+money_type_204<>Sử dụng làm nguyên liệu tiến hóa
+money_type_205<>Sử dụng làm nguyên liệu tiến hóa
+money_type_206<>Sử dụng làm nguyên liệu tiến hóa
+money_type_207<>Sử dụng làm nguyên liệu tiến hóa
+money_type_208<>Sử dụng để nâng cấp các công trình tại Thế giới linh hồn trong Pháo Đài
+money_type_209<>Sử dụng để nâng cấp các công trình tại Thư viện Thời gian trong Pháo Đài
+money_type_220<>Sử dụng để chúc phúc trong Chúc Phúc Giáng Sinh
+money_type_221<>Sử dụng để cược trong Đấu Trường Giáng Sinh
+money_type_222<>Sử dụng để đổi vật phẩm trong Đổi Thưởng Giáng Sinh
+money_type_230<>Sử dụng để tham gia Lời chúc may mắn
+money_type_241<>Sử dụng để đổi thưởng trong Cửa hàng Thần tài
+money_type_240<>Sử dụng để tham gia Cung đường Tài lộc
+money_type_244<>Sử dụng trong Triệu hồi Truyền thuyết
+money_type_245<>Sử dụng để đánh quỷ trong hoạt động Xua đuổi Tà Ma
+money_type_242<>Sử dụng để mở khoá các cấp quỷ trong hoạt động Xua đuổi Tà Ma
+money_type_243<>Sử dụng để đổi quà trong cửa hàng Lì Xì
+money_type_250<>Sử dụng để tham gia Câu đố Tình yêu Valentine
+money_type_251<>Sử dụng để mở Hộp quà tình yêu trong sự kiện Lễ Tình Nhân
+money_type_165<>Sử dụng để tham gia sự kiện Đón chào Tân Anh hùng
+money_type_45<>Sử dụng để tham gia Đấu Trường Trí Dũng.
+money_type_46<>Sử dụng để mua vật phẩm trong Cửa hàng Kị sĩ
+money_type_154<>Sử dụng để nâng cấp Cửa hàng kị sĩ
+money_type_136<>Dùng để nhận quà trong sự kiện Gộp máy chủ
+money_type_12<>Sử dụng để tiến hoá anh hùng 14 sao
+money_type_25<>Sử dụng để phân rã Anh hùng
+money_type_235<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_236<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_237<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_238<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_239<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_166<>Sử dụng để tham gia sự kiện Đón chào Tân Anh hùng
+money_type_167<>Sử dụng để đổi thưởng từ hoạt động đánh boss Enule
+money_type_225<>Sử dụng để quay vòng quay tại sự kiện Sinh Nhật
+money_type_168<>Sử đụng để tham gia Đảo kho báu tại sự kiện Sinh Nhật
+money_type_115<>Nhận được trong Bí cảnh. Mở để nhận quà
+money_type_116<>Nhận được trong Bí cảnh. Mở để nhận quà
+money_type_117<>Nhận được trong Bí cảnh. Mở để nhận quà
+money_type_118<>Nhận được trong Bí cảnh. Mở để nhận quà
+money_type_119<>Nhận được trong Bí cảnh. Mở để nhận quà
+money_type_113<>Sử dụng để mua vật phẩm trong Cửa hàng Bí cảnh
+money_type_195<>Sử dụng để nâng cấp tiến trình Battle Pass.
+money_type_15<>Sử dụng khi nâng cấp Trang bị. Nhận được trong Đấu trường trí dũng, sự kiện đặc biệt và gói tháng trong Cửa hàng.
+money_type_35<>Nhận được trong Đấu Trường. Mở để nhận quà
+money_type_36<>Nhận được trong Đấu Trường. Mở để nhận quà
+money_type_37<>Nhận được trong Đấu Trường. Mở để nhận quà
+money_type_248<>Sử dụng để tham gia các hoạt động trong sự kiện Tết nguyên đán
+money_type_249<>Thu thập để nhận phần thưởng tại sự kiện Tết Nguyên đán.
+money_type_65<>Sử dụng để tăng lượt đánh trùm Kazetsu
+money_type_231<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_232<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_233<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_234<>Sử dụng để tham gia sự kiện Lễ Phục Sinh
+money_type_66<>Sử dụng để đánh Boss Finde
+money_type_252<>Sử dụng để tham gia {1}
+money_type_226<>Sử dụng để tham gia sự kiện sinh nhật
+money_type_22<>Sử dụng để nhận anh hùng mong muốn
+money_type_23<>Sử dụng để nhận anh hùng mong muốn
+money_type_227<>Sử dụng để tăng tiến trình Pass di sản
+money_type_26<>Sử dụng để nhận cổ vật của hệ Quang, Ám
+money_type_27<>Sử dụng để nhận cổ vật của hệ Thuỷ, Hoả, Vực thẳm, Tự nhiên
+money_type_175<>Sử dụng để tham gia sự kiện Cung hoàng đạo
+money_type_176<>Sử dụng để tham gia sự kiện Cung hoàng đạo
+money_type_215<>Sử dụng để tham gia sự kiện Thử thách trang phục
+money_type_196<>Sử dụng để đổi thưởng trong cửa hàng Battle Pass
+money_type_95<>Vật phẩm này được sử dụng để mở khoá và làm mới Thiên phú
+money_type_200<>Sử dụng làm nguyên liệu tiến hóa
+money_type_253<>Sử dụng để tham gia sự kiện Tháp của Eitri
+money_type_254<>Sử dụng để trao đổi phần thưởng trong Khu vực đổi quà
+money_type_223<>Sử dụng để chơi trong lễ hội mùa hè
+money_type_224<>Sử dụng để làm mojito cho lễ hội mùa hè
+money_type_125<>Mở để nhận bóng nước
+money_type_126<>Sử dụng để chơi trong lễ hội mùa hè
+money_type_127<>Sử dụng để chơi trong lễ hội mùa hè
+money_type_128<>Sử dụng để chơi trong lễ hội mùa hè
+money_type_129<>Sử dụng để chơi trong lễ hội mùa hè
+money_type_137<>Sử dụng để khiêu chiến trong sự kiện thử thách đánh boss
+money_type_182<>Sử dụng để đồi quà trong sự kiện Trung Thu
+money_type_255<>Sử dụng để đồi vật phẩm trong sự kiện Tháp của Eitri
+money_type_185<>Sử dụng để đổi vật phẩm trong sự kiện Truy tìm kho báu
+money_type_186<>Sử dụng để mở rương trong sự kiện Truy tìm kho báu
+money_type_101<>Sử dụng để tham gia sự kiện Lễ Tạ Ơn
+money_type_102<>Sử dụng để đổi quà trong sự kiện Lễ Tạ Ơn
+money_type_75<>Sử dụng để chơi trong chế độ Thách đấu Vàng
+money_type_76<>Sử dụng để chơi trong chế độ Thách đấu Kinh nghiệm
+money_type_77<>Sử dụng để chơi trong chế độ Thách đấu Mảnh Anh hùng
+money_type_43<>Sử dụng để mua vật phẩm trong Cửa hàng Kị sĩ
+money_type_229<>Đổi thưởng trong sự kiện Năm Mới
+money_type_78<>Đổi thưởng trong sự kiện Năm Mới
+money_type_79<>Sử dụng để chơi Bingo trong sự kiện Năm Mới
+money_type_217<>Sử dụng để chơi Hành Trình Lễ Phục Sinh trong sự kiện Lễ Phục Sinh
+money_type_218<>Đổi thưởng trong sự kiện Lễ Phục Sinh
+money_type_81<>Sử dụng để chơi Hành Trình Sôi Động trong sự kiện Mùa Hè Rực Rỡ
+money_type_82<>Đổi thưởng trong sự kiện Mùa Hè Rực Rỡ
+money_type_62<>Sử dụng để chơi Ngắm Hoa Anh Đào trong sự kiện Hội Hoa Anh Đào
+money_type_63<>Đổi thưởng trong sự kiện Hội Hoa Anh Đào
+money_type_86<>Sử dụng để chơi Chúc Phúc Tình Yêu trong sự kiện Lễ Thất Tịch
+money_type_87<>Đổi thưởng trong sự kiện Lễ Thất Tịch
+money_type_72<>Sử dụng để chơi Bingo trong sự kiện Lễ Hội Mêxico
+money_type_73<>Đổi thưởng trong sự kiện Lễ Hội Mêxico

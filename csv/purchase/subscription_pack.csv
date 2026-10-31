@@ -1,0 +1,15 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,is_active_sungame,res_type,res_id,res_number,res_data,duration_in_days,instant_res_type,instant_res_id,instant_res_number,instant_res_data,allow_skip_video,price,trial_duration_in_days
+1,SE033,SE008,com.se.sungame.idle_1,com.sungame.summoners.era.idle_subscription_1,com.fansipan.summoners.era.idle_1, com.fansipan.summoners.era.idle_subscription_1,FALSE,2,51,3,,30,2,1,100,,FALSE,19.99,-1
+,,,,,,,,,,,,,2,2,1000,,,,
+2,SE034,SE009,com.se.sungame.idle_2,com.sungame.summoners.era.idle_subscription_2,com.fansipan.summoners.era.idle_2, com.fansipan.summoners.era.idle_subscription_2,TRUE,2,1,100,,30,2,1,500,,TRUE,4.99,-1
+,,,,,,,,,,,,,2,2,250,,,,
+3,SE035,SE010,com.se.sungame.idle_3,com.sungame.summoners.era.idle_subscription_3,com.fansipan.summoners.era.idle_3, com.fansipan.summoners.era.idle_subscription_3,TRUE,2,1,380,,30,2,1,900,,TRUE,14.99,3
+,,,,,,,,,,,,,2,2,750,,,,
+4,SE220,WEB_SE220,com.se.sungame.idle_subscription_4,com.sungame.summoners.era.idle_subscription_4,com.fansipan.summoners.era.idle_subscription_4,com.fansipan.summoners.era.idle_subscription_4,TRUE,2,1,400,,30,2,1,1200,,TRUE,19.99,-1
+,,,,,,,,2,51,3,,,11,121,1,,,,
+,,,,,,,,,,,,,2,2,1000,,,,
+5,SE035,SE010,com.se.sungame.idle_3,com.sungame.summoners.era.idle_subscription_3,com.fansipan.summoners.era.idle_subscription_5,com.fansipan.summoners.era.idle_subscription_5,TRUE,2,51,15,,30,2,1,1800,,FALSE,29.99,-1
+,,,,,,,,,,,,,2,2,1500,,,,
+6,SE220,WEB_SE220,com.se.sungame.idle_subscription_4,com.sungame.summoners.era.idle_subscription_4,com.fansipan.summoners.era.idle_subscription_6,com.fansipan.summoners.era.idle_subscription_6,TRUE,2,60,10,,30,2,1,3000,,FALSE,49.99,-1
+,,,,,,,,,,,,,11,121,1,,,,
+,,,,,,,,,,,,,2,2,2500,,,,

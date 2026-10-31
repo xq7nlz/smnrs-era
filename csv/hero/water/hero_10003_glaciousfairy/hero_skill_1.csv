@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_target_position,heal_target_number,heal_mark_type,heal_mark_bonus_percent
+GlaciousFairy_Active,1.5,21,2,1,10,3,102,0.8
+GlaciousFairy_Active,1.7,21,2,1.3,10,3,102,0.9
+GlaciousFairy_Active,1.9,21,2,1.6,10,3,102,1

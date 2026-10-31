@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)}
+summoner_1_1_1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และลด {q(stat_debuff_type)} ของเป้าหมายลง {q(stat_debuff_amount_3)} เป็นเวลา {c(stat_debuff_duration)} รอบ
+summoner_1_1_2~stat_debuff_chance~1<>สร้างความเสียหาย [{p(damage)} ของ ATK] ให้กับศัตรูแบบสุ่ม {q(target_position)}{p(stat_debuff_chance)} ที่จะลดลง {q(stat_debuff_amount_3)} {q(stat_debuff_type)} ใน {c(stat_debuff_duration)} รอบ
+summoner_1_1_2~stat_debuff_chance~0<>สร้างความเสียหาย [{p(damage)} ของ ATK] ให้กับ {q(target_position)} ศัตรูแบบสุ่มในแถวหลังและลด {q(stat_debuff_amount_3)} {q(stat_debuff_type)} ศัตรูเหล่านั้นใน {c(stat_debuff_duration)} รอบ
+summoner_1_1_3~dispel_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และล้างบัฟดีทั้งหมดออกจากเป้าหมาย สร้างความเสียหายเพิ่ม [{p(damage_bonus_per_die)} ของพลังโจมตี] แก่เป้าหมายต่อจำนวนฮีโร่ศัตรูที่กำจัดได้
+summoner_1_1_3~dispel_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} ทุกครั้งที่กำจัดศัตรูได้หนึ่งตัว สร้างความเสียหาย [{p(damage_bonus_per_die)} ของพลังโจมตี] แก่ศัตรูที่เหลือ และมีโอกาส {p(dispel_chance)} การล้างบัฟของศัตรู
+summoner_1_2_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_1_2_2<>เพิ่ม {p(bonus_1)} {q(stat_1)} สำหรับ {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>เมื่อฮีโร่ในทีมถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้ ฮีโร่นี้มีโอกาส {p(passive_chance)} ที่จะสร้างความเสียหาย [{p(damage)} ของพลังโจมตี] กลับไปยังผู้โจมตี
+summoner_1_2_3<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_1_3_1~blessing_chance~0<>เมื่อเริ่มต้นการต่อสู้ {q(target_position_2)} จะมีความสามารถในการต้านสถานะที่ไม่ดีทั้งหมดเป็นเวลา {c(blessing_duration)} รอบ
+summoner_1_3_1~blessing_chance~1<>เมื่อเริ่มต้นการต่อสู้ มีโอกาส {p(blessing_chance)} ที่ {q(target_position_2)} จะสามารถต้านสถานะที่ไม่ดีทั้งหมดเป็นเวลา {c(blessing_duration)} รอบ
+summoner_1_3_2~buff_chance~1<>เมื่อเริ่มรอบคี่ทุกรอบมี {q(stat_buff_1_amount)} โอกาสที่จะเพิ่มขึ้น {q(stat_buff_1_type)} {q(stat_buff_2_amount)} และ {q(stat_buff_2_type)} {q(buff_target_position)} สำหรับฮีโร่ในตำแหน่งที่ {c(buff_duration)} เอฟเฟกต์นี้คงอยู่ {p(buff_chance)} เวฟ
+summoner_1_3_2~buff_chance~0<>เมื่อเริ่มรอบคี่ให้เพิ่ม {q(stat_buff_1_amount)} {q(stat_buff_1_type)} และ {q(stat_buff_2_amount)} {q(stat_buff_2_type)} สำหรับฮีโร่ใน {q(buff_target_position)} เอฟเฟกต์นี้คงอยู่ {c(buff_duration)} รอบ 
+summoner_1_3_3~buff_chance~0<>เพิ่ม {q(stat_buff_1_type)} ขึ้น {q(stat_buff_1_amount)} และเพิ่ม {q(stat_buff_2_type)} ขึ้น {q(stat_buff_2_amount)} แก่ {q(buff_target_position)} ต่อจำนวนฮีโร่ในทีมที่ถูกกำจัด ผลของสถานะนี้จะเกิดขึ้นเพียงครั้งเดียวต่อฮีโร่ในทีมหนึ่งตัวและการต่อสู้หนึ่งครั้ง
+summoner_1_3_3~buff_chance~1<>มีโอกาส {c(buff_duration)} ที่จะเพิ่ม {q(stat_buff_1_type)} ขึ้น {q(stat_buff_1_amount)} และเพิ่ม {q(stat_buff_2_type)} ขึ้น {q(stat_buff_2_amount)} แก่ {q(buff_target_position)} ต่อจำนวนฮีโร่ในทีมที่ถูกกำจัด ผลของสถานะนี้จะเกิดขึ้นเพียงครั้งเดียวต่อฮีโร่ในทีมหนึ่งตัวและการต่อสู้หนึ่งครั้ง
+summoner_1_4_1~block_chance~0<>ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)} บล็อคความเสียหาย {p(block_rate)} เมื่อเมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้
+summoner_1_4_1~block_chance~1<>ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)} มีโอกาส {p(block_chance)} บล็อคความเสียหาย {p(block_rate)} เมื่อเมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้
+summoner_1_4_2<>ในช่วงเริ่มต้นของทุกรอบที่พระเอกในตำแหน่ง {q(target_position_2)} ได้รับ {c(power_buff)} พลังงาน
+summoner_1_4_3<>เพิ่ม {q(stat_buff_type)} ขึ้น {q(stat_buff_amount_3)} แก่ {q(buff_target_position)} ทุกๆ การโจมตี {c(count_trigger)} ครั้ง (ด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้) จากฮีโร่ในทีม สร้างความเสียหาย [{p(damage)} ของพลังโจมตีของฮีโร่ตัวนี้] แก่ {q(damage_target_position)}
+summoner_2_1_1~stat_debuff_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และลด {q(stat_debuff_type)} ของเป้าหมายลง {q(stat_debuff_amount_3)} เป็นเวลา {c(stat_debuff_duration)} รอบ
+summoner_2_1_1~stat_debuff_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(stat_debuff_chance)} ในการลด {q(stat_debuff_type)} ของเป้าหมายลง {q(stat_debuff_amount_3)} เป็นเวลา {c(stat_debuff_duration)} รอบ
+summoner_2_1_2~stat_buff_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(damage_target_position)} ที่จะเพิ่ม {q(stat_buff_amount_3)} {q(stat_buff_type)} แก่ {q(buff_target_position)} เป็นเวลา {c(stat_buff_duration)} รอบ
+summoner_2_1_2~stat_buff_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(damage_target_position)} และมีโอกาส {p(stat_buff_chance)} ที่จะเพิ่ม {q(stat_buff_amount_3)} {q(stat_buff_type)} แก่ {q(buff_target_position)} เป็นเวลา {c(stat_buff_duration)} รอบ
+summoner_2_1_3<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(effect_chance)} ในการทำให้เป้าหมายติดสถานะ {q(effect_type)} เป็นเวลา {c(effect_duration)} รอบ
+summoner_2_2_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_2_2_2<>เพิ่ม {q(bonus_1)} {q(stat_1)} และลด {q(debuff_amount_1)} {q(debuff_stat_1)} สำหรับ {q(target_position_2)}
+summoner_2_2_3~buff_chance~0<>เพิ่ม {q(stat_buff_type)} ของฮีโร่ในทีมที่เหลือขึ้น {q(stat_buff_amount_3)} ต่อจำนวนฮีโร่ในทีมที่ถูกกำจัด
+summoner_2_2_3~buff_chance~1<>มีโอกาส {p(buff_chance)} ในการเพิ่ม {q(stat_buff_type)} ของฮีโร่ในทีมที่เหลือขึ้น {q(stat_buff_amount_3)} ต่อจำนวนฮีโร่ในทีมที่ถูกกำจัด
+summoner_2_3_1<>เมื่อ {q(target_position_2)} ติดสถานะรบกวน ลด {p(reduce_damage_amount)} ของความเสียหายที่ได้รับลง
+summoner_2_3_2~block_chance~0<>เมื่อฮีโร่ในทีมถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้ มีโอกาส {p(buff_chance)} ที่จะใส่สถานะโล่แก่ {q(target_position_2)} เป็นเวลา {c(block_duration)} รอบ สถานะโล่บล็อคความเสียหาย [{p(block_amount)} จากความเสียหายที่ได้รับ]เอฟเฟกต์นี้ไม่ซ้อนกัน
+summoner_2_3_2~block_chance~1<>เมื่อฮีโร่ในทีมถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้ มีโอกาส {p(buff_chance)} ที่จะใส่สถานะโล่แก่ {q(target_position_2)} เป็นเวลา {c(block_duration)} รอบ สถานะโล่ มีโอกาส {p(block_chance)} ที่จะบล็อคความเสียหาย [{p(block_amount)} จากความเสียหายที่ได้รับ]เอฟเฟกต์นี้ไม่ซ้อนกัน
+summoner_2_3_3<>เมื่อฮีโร่ในทีมได้รับความเสียหายรุนแรงจนถึงแก่ชีวิต มีโอกาส {p(last_chance_rate)} ที่จะรอดชีวิตโดยเหลือพลังชีวิต 1 และฟื้นฟู {c(power_gain)} พลังงาน ผลของสถานะนี้จะเกิดขึ้นเพียงครั้งเดียวต่อฮีโร่ในทีมหนึ่งตัวและการต่อสู้หนึ่งครั้ง
+summoner_2_4_1~block_chance~0<>ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)} บล็อคความเสียหาย [{p(block_rate)} จากความเสียหายที่ได้รับ] เมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้
+summoner_2_4_1~block_chance~1<>ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)} มีโอกาส {p(block_chance)} ที่บล็อคความเสียหาย [{p(block_rate)} จากความเสียหายที่ได้รับ] เมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้
+summoner_2_4_2<>เมื่อเริ่มรอบ {c(round_trigger_list)} ให้สร้างลิงก์ระหว่าง {q(tanker_target_position)} และ {q(target_position_3)} ความเสียหายที่ได้รับของพันธมิตรที่เชื่อมโยงทั้งหมดจะ {p(damage_share_percent)} โอนไปยัง {q(tanker_target_position)} เอฟเฟกต์นี้คงอยู่ {c(bond_duration)} รอบ
+summoner_2_4_3<>เพิ่ม {q(stat_buff_amount_3)} {q(stat_buff_type)} แก่ {q(buff_target_position)} ทุกๆ การโจมตี 3 ครั้ง (ด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้) ที่ฮีโร่ตัวนี้ได้รับ จะส่งผลให้สะท้อนการโจมตีทันทีและสร้างความเสียหายเท่ากับ [{p(damage_percent_hp)} ของพลังชีวิตของฮีโร่นี้] แก่ {q(damage_target_position)}
+summoner_3_1_1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(damage_target_position)} และฟื้นฟูพลังชีวิตเท่ากับ [{p(heal_percent)} ของพลังโจมตี] แก่ {q(heal_target_position)}
+summoner_3_1_2<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(damage_target_position)} และมีโอกาส {p(effect_chance)} ในการทำให้เป้าหมายติดสถานะ {q(effect_type)} เป็นเวลา {c(effect_duration)} รอบ
+summoner_3_1_3<>สร้างความเสียหาย [{p(damage)} ครั้ง] แก่ {q(damage_target_position)} และผูกจิต {q(bond_target_position)} เข้าด้วยกันเป็นเวลา {c(bond_duration)} รอบ เมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้ คู่เป้าหมายที่ผูกจิตจะหารค่าความเสียหายที่ได้รับระหว่างกัน แทนที่เป้าหมายตัวใดตัวหนึ่งจะรับความเสียหายฝ่ายเดียว
+summoner_3_2_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {q(bonus_2)} แก่ {q(target_position_2)}
+summoner_3_2_2<>เพิ่ม {q(bonus_1)} {q(stat_1)} สำหรับ {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>เมื่อถูกโจมตีด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้ มีโอกาส {p(heal_chance)} ในการฟื้นฟูพลังชีวิตฮีโร่ตัวนี้เท่ากับ [{p(heal_amount)} ของพลังโจมตี]
+summoner_3_2_3<>เมื่อเริ่มต้นการต่อสู้ ฟื้นฟู {c(power_stat)} พลังงานแก่ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)}
+summoner_3_3_1<>เพิ่ม {q(stat_1)} ขึ้น {q(bonus_1)} แก่ {q(target_position_2)}
+summoner_3_3_2<>Each turns {c(round_trigger_list)}, Increases {q(stat_buff_type)} by {q(stat_buff_amount)} for {q(target_position_2)} in {c(stat_buff_duration)} turns.
+summoner_3_3_3<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {q(bonus_2)} แก่ {q(target_position_2)}
+summoner_3_4_1<>ในช่วงเริ่มต้นของทุกรอบคี่ ฟื้นฟู {c(power_buff)} พลังงานแก่ {q(target_position_2)}
+summoner_3_4_2<>ในช่วงเริ่มต้นของรอบคี่ทุกปัดเป่าผลกระทบเชิงลบทั้งหมด {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>เมื่อพลังชีวิตฮีโร่ในทีมตัวใดตัวหนึ่งต่ำกว่า {p(heal_trigger)} ฟื้นฟูพลังชีวิตเท่ากับ [{p(heal_amount)} ของพลังโจมตี] แก่ฮีโร่ตัวนี้ จะได้รับสถานะนี้เพียงครั้งเดียวในการต่อสู้หนึ่งครั้ง
+summoner_3_4_3~heal_chance~1<>เมื่อพลังชีวิตฮีโร่ในทีมตัวใดตัวหนึ่งต่ำกว่า {p(heal_trigger)} มีโอกาส {p(heal_chance)} ที่จะฟื้นฟูพลังชีวิตเท่ากับ [{p(heal_amount)} ของพลังโจมตี] แก่ฮีโร่ตัวนี้ จะได้รับสถานะนี้เพียงครั้งเดียวในการต่อสู้หนึ่งครั้ง
+summoner_4_1_1~debuff_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และ {q(debuff_type)} เป้าหมายเป็นเวลา {c(debuff_duration)} รอบ สถานะ {q(debuff_type)} สร้างความเสียหาย [{p(debuff_amount)} ของพลังโจมตี] แก่เป้าหมายต่อรอบ
+summoner_4_1_1~debuff_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(debuff_chance)} ในการทำให้เป้าหมายติดสถานะ {q(debuff_type)} เป็นเวลา {c(debuff_duration)} รอบ สถานะ {q(debuff_type)} สร้างความเสียหาย [{p(debuff_amount)} ของพลังโจมตี] แก่เป้าหมายต่อรอบ
+summoner_4_1_2<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(debuff_chance)} ในการ {q(debuff_type)} เป้าหมายเป็นเวลา {c(debuff_duration)} รอบ
+summoner_4_1_3<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และเพิ่ม {q(buff_type)} ของ {q(buff_target_position)} ขึ้น {p(buff_amount)} เป็นเวลา {c(buff_duration)} รอบ
+summoner_4_2_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_4_2_2<>เพิ่มขึ้น {q(stat_1)} โดย {q(bonus_1)} สำหรับ {q(target_position_2)}
+summoner_4_2_3<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {q(bonus_2)} แก่ {q(target_position_2)}
+summoner_4_3_1<>เพิ่ม {q(stat_1)} ขึ้น {q(bonus_1)} แก่ {q(target_position_2)}
+summoner_4_3_2<>เริ่มต้นของแต่ละรอบผูก {q(target_position_2)} และ {q(bond_target_position)} สำหรับ {c(bond_duration)} รอบ {p(bond_share_damage)} ของความเสียหายที่ได้รับให้กับพันธมิตรที่ถูกผูกมัดจะถูกโอนและแบ่งเท่า ๆ กันระหว่าง {q(bond_target_position)}
+summoner_4_3_3<>เมื่อฮีโร่ในทีมทำให้เป้าหมายติดสถานะรบกวน เพิ่มสถานะเลือดไหลแก่เป้าหมายเป็นเวลาจำนวนรอบเท่ากับระยะเวลาที่ติดสถานะรบกวนด้วย สถานะเลือดไหลสร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่เป้าหมายต่อรอบ
+summoner_4_4_1<>เมื่อฮีโร่ในทีมโจมตีแล้วติดคริติคอล (ด้วยการโจมตีปกติหรือสกิลแบบเรียกใช้) เพิ่ม {p(bonus_1)} ของ {q(target_position_2)} ขึ้น {q(stat_1)} เป็นเวลา {c(buff_duration)} รอบ ผลของสถานะนี้เกิดทับซ้อนกันได้
+summoner_4_4_2<>เมื่อพันธมิตรหลบหลีกการโจมตีสำเร็จให้เพิ่ม {q(buff_type)} ขึ้น {q(buff_amount)} เป็นเวลา {c(buff_duration)} รอบ
+summoner_4_4_3<>ทุกๆ พลังงาน {c(buff_per_power)} หน่วยที่ซัมมอนเนอร์สะสมได้ เพิ่ม {p(buff_amount)} ของ {q(target_position_2)} ขึ้น {q(buff_type)}
+summoner_5_1_1~stat_debuff_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และลด {q(stat_debuff_type)} ของเป้าหมายลง {p(stat_debuff_amount)} เป็นเวลา {c(stat_debuff_duration)} รอบ
+summoner_5_1_1~stat_debuff_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(stat_debuff_chance)} ในการลด {p(stat_debuff_amount)} ของเป้าหมายลง {q(stat_debuff_type)} เป็นเวลา {c(stat_debuff_duration)} รอบ
+summoner_5_1_2<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และเพิ่มความเสียหายที่เป้าหมายจะได้รับจากการโจมตีทุกชนิดเพิ่มขึ้น {p(damage_receive_debuff_amount)} เป็นเวลา {c(damage_receive_debuff_duration)} รอบ
+summoner_5_1_3~debuff_chance~0<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และ {q(debuff_type)} เป้าหมายเป็นเวลา {c(debuff_duration)} รอบ สถานะ {q(debuff_type)} สร้างความเสียหาย [{p(debuff_amount)} ของพลังโจมตี] แก่เป้าหมายต่อรอบ
+summoner_5_1_3~debuff_chance~1<>สร้างความเสียหาย [{p(damage)} ของพลังโจมตี] แก่ {q(target_position)} และมีโอกาส {p(debuff_chance)} ในการทำให้เป้าหมายติดสถานะ {q(debuff_type)} เป็นเวลา {c(debuff_duration)} รอบ สถานะ {q(debuff_type)} สร้างความเสียหาย [{p(debuff_amount)} ของพลังโจมตี] แก่เป้าหมายต่อรอบ
+summoner_5_2_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_5_2_2<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ {q(target_position_2)}
+summoner_5_2_3<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} แก่ {q(target_position_2)}
+summoner_5_3_1<>เมื่อฮีโร่ในทีมโจมตีหรือร่ายสกิล สร้างความเสียหายเพิ่ม {p(bonus_damage_receive)} หากเป้าหมายติดสถานะรบกวน
+summoner_5_3_2<>ในช่วงเริ่มต้นของแต่ละรอบด้านล่าง: {c(round_trigger_list)} ลดลง {q(debuff_amount_1)} โดย {q(debuff_stat_1)} สำหรับ {q(target_position)} ใน {c(debuff_duration)} รอบ
+summoner_5_3_3<>เมื่อฮีโร่ในทีมได้รับสิทธิ์ในการทำการโจมตีครั้งพิเศษ และทำการโจมตีออกไป การโจมตีดังกล่าวจะสร้างความเสียหายเพิ่มขึ้น {p(bonus_damage_extra_turn)}
+summoner_5_4_1<>เพิ่ม {q(stat_1)} ขึ้น {p(bonus_1)} และเพิ่ม {q(stat_2)} ขึ้น {p(bonus_2)} แก่ฮีโร่ในทีมที่อยู่ในตำแหน่ง {s(target_number)}
+summoner_5_4_2<>เพิ่ม {q(stat_1)} ขึ้น {q(bonus_1)} แก่ {q(target_position_2)}
+summoner_5_4_3<>เมื่อฮีโร่ในทีมได้รับสิทธิ์ในการทำการโจมตีครั้งพิเศษ และทำการโจมตีออกไปเป็นครั้งที่ {c(number_extra_turn_affect)} การโจมตีดังกล่าวจะสร้างความเสียหายเพิ่มขึ้น {p(bonus_damage_extra_turn)} และเพิ่มสถานะ {q(effect_type)} แก่เป้าหมายเป็นเวลา {c(effect_duration)} รอบ
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_target_position,heal_target_number,heal_duration
+EarthMaster_Active,1.7,10,1,0.2,30,1,2
+EarthMaster_Active,1.9,10,1,0.2,30,1,2
+EarthMaster_Active,2.1,10,1,0.2,30,1,2

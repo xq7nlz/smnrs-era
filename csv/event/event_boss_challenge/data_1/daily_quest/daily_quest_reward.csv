@@ -1,0 +1,6 @@
+quest_id,quest_type,requirement_1,requirement_2,requirement_3,requirement_4,requirement_5,res_type,res_id,res_number,res_data,feature_mapping,sort_id
+1,1501,1,,,,,2,137,1,,-1,1000001
+2,2500,6,,,,,2,137,1,,18,1000002
+3,507,3,,,,,2,137,1,,1,1000005
+4,508,28800,,,,,2,137,1,,1,1000007
+5,508,57600,,,,,2,137,1,,1,1000008

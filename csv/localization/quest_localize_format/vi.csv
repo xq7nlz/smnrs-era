@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>Thu thập {c(1)} anh hùng
+quest_100_1_2<>Thu thập {c(1)} anh hùng {c(2)} sao
+quest_100_1_3<>Thu thập {c(1)} anh hùng cấp độ {c(3)}
+quest_100_1_4<>Thu thập {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_100_1_5<>Thu thập {c(1)} anh hùng thuộc hệ {e(faction_type_~5)}
+quest_100_1_2_3<>Thu thập {c(1)} anh hùng {c(2)} sao, cấp {c(3)}
+quest_100_1_2_4<>Thu thập {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_100_1_2_5<>Thu thập {c(1)} anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_100_1_3_4<>Thu thập {c(1)} anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_100_1_3_5<>Thu thập {c(1)} anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_100_1_4_5<>Thu thập {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_100_1_2_3_4<>Thu thập {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_100_1_2_3_5<>Thu thập {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_100_1_2_4_5<>Thu thập {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_100_1_2_3_4_5<>Thu thập {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_101_1<>Tiến hóa {c(1)} anh hùng
+quest_101_1_2<>Tiến hóa {c(1)} anh hùng lên {c(2)} sao
+quest_101_1_3<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}
+quest_101_1_4<>Tiến hóa {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_101_1_5<>Tiến hóa {c(1)} anh hùng thuộc hệ {e(faction_type_~5)}
+quest_101_1_2_3<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)} lên {c(2)} sao
+quest_101_1_2_4<>Tiến hóa {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)} lên {c(2)} sao
+quest_101_1_2_5<>Tiến hóa {c(1)} anh hùng thuộc hệ {e(faction_type_~5)} lên {c(2)} sao
+quest_101_1_3_4<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_101_1_3_5<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_101_1_4_5<>Tiến hóa {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_101_1_2_3_4<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)} lên {c(2)} sao
+quest_101_1_2_3_5<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)} lên {c(2)} sao
+quest_101_1_2_4_5<>Tiến hóa {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)} lên {c(2)} sao
+quest_101_1_2_3_4_5<>Tiến hóa {c(1)} anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)} lên {c(2)} sao
+quest_102_1<>Nâng cấp anh hùng {c(1)} lần
+quest_102_1_2<>Nâng cấp {c(1)} anh hùng {c(2)} sao
+quest_102_1_3<>Nâng cấp {c(1)} anh hùng lên cấp độ {c(3)}
+quest_102_1_4<>Nâng cấp {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_102_1_5<>Nâng cấp {c(1)} anh hùng thuộc hệ {e(faction_type_~5)}
+quest_102_1_2_3<>Nâng cấp {c(1)} anh hùng {c(2)} sao lên cấp độ {c(3)}
+quest_102_1_2_4<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_102_1_2_5<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_102_1_3_4<>Nâng cấp {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)} lên cấp độ {c(3)}
+quest_102_1_3_5<>Nâng cấp {c(1)} anh hùng thuộc hệ {e(faction_type_~5)} lên cấp độ {c(3)}
+quest_102_1_4_5<>Nâng cấp {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_102_1_2_3_4<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)} lên cấp độ {c(3)}
+quest_102_1_2_3_5<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)} lên cấp độ {c(3)}
+quest_102_1_2_4_5<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_102_1_2_3_4_5<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)} lên cấp độ {c(3)}
+quest_103_1<>Nâng cấp {c(1)} anh hùng lên cấp độ tối đa
+quest_103_1_2<>Nâng cấp {c(1)} anh hùng {c(2)} sao lên cấp độ tối đa
+quest_103_1_3<>Nâng cấp {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~3)} lên cấp độ tối đa
+quest_103_1_4<>Nâng cấp {c(1)} anh hùng thuộc hệ {e(faction_type_~4)} lên cấp độ tối đa
+quest_103_1_2_3<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~3)} lên cấp độ tối đa
+quest_103_1_2_4<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~4)} lên cấp độ tối đa
+quest_103_1_3_4<>Nâng cấp {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)} lên cấp độ tối đa
+quest_103_1_2_3_4<>Nâng cấp {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)} lên cấp độ tối đa
+quest_104_1<>Phân tán {c(1)} anh hùng
+quest_104_1_2<>Phân tán {c(1)} anh hùng {c(2)} sao
+quest_104_1_3<>Phân tán {c(1)} anh hùng cấp độ {c(3)}
+quest_104_1_4<>Phân tán {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_104_1_5<>Phân tán {c(1)} anh hùng thuộc hệ {e(faction_type_~5)}
+quest_104_1_2_3<>Phân tán {c(1)} anh hùng {c(2)} sao, cấp {c(3)}
+quest_104_1_2_4<>Phân tán {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_104_1_2_5<>Phân tán {c(1)} anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_104_1_3_4<>Phân tán {c(1)} anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_104_1_3_5<>Phân tán {c(1)} anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_104_1_4_5<>Phân tán {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_104_1_2_3_4<>Phân tán {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_104_1_2_3_5<>Phân tán {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_104_1_2_4_5<>Phân tán {c(1)} anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_104_1_2_3_4_5<>Phân tán {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_150_1<>Thu thập {c(1)} anh hùng
+quest_150_1_2<>Thu thập {c(1)} anh hùng {c(2)} sao gốc
+quest_150_1_3<>Thu thập {c(1)} anh hùng thuộc hệ {e(faction_type_~3)}
+quest_150_1_4<>Thu thập {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_150_1_5<>Thu thập {c(1)} anh hùng thuộc hệ {e(faction_type_~5)}
+quest_150_1_2_3<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc hệ {e(faction_type_~3)}
+quest_150_1_2_4<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc tộc anh hùng {e(class_type_~4)}
+quest_150_1_2_5<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc hệ {e(faction_type_~5)}
+quest_150_1_3_4<>Thu thập {c(1)} anh hùng thuộc hệ {e(faction_type_~3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_150_1_3_5<>Thu thập {c(1)} anh hùng thuộc hệ {e(faction_type_~3)} hoặc hệ {e(faction_type_~5)}
+quest_150_1_4_5<>Thu thập {c(1)} anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_150_1_2_3_4<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc hệ {e(faction_type_~3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_150_1_2_3_5<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc hệ {e(faction_type_~3)} hoặc hệ {e(faction_type_~5)}
+quest_150_1_2_4_5<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_150_1_2_3_4_5<>Thu thập {c(1)} anh hùng {c(2)} sao gốc, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~3)} hoặc hệ {e(faction_type_~5)}
+quest_151_1<>Thu thập tất cả anh hùng {c(1)} sao gốc
+quest_151_1_2<>Thu thập tất cả anh hùng {c(1)} sao gốc, cấp độ {c(2)}
+quest_151_1_3<>Thu thập tất cả anh hùng {c(1)} sao gốc, thuộc tộc anh hùng {e(class_type_~3)}
+quest_151_1_4<>Thu thập tất cả anh hùng {c(1)} sao gốc, thuộc hệ {e(faction_type_~4)}
+quest_151_1_2_3<>Thu thập tất cả anh hùng {c(1)} sao gốc, cấp độ {c(2)}, thuộc tộc anh hùng {e(class_type_~3)}
+quest_151_1_2_4<>Thu thập tất cả anh hùng {c(1)} sao gốc, cấp độ {c(2)}, thuộc hệ {e(faction_type_~4)}
+quest_151_1_3_4<>Thu thập tất cả anh hùng {c(1)} sao gốc, thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_151_1_2_3_4<>Thu thập tất cả anh hùng {c(1)} sao gốc, cấp độ {c(2)}, thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_200_1<>Sử dụng Mỏ vàng {c(1)} lần
+quest_200_1_2<>Sử dụng Mỏ vàng {c(2)}, {c(1)} lần
+quest_201_1<>Sử dụng Mỏ vàng, {c(1)} ngày liên tiếp
+quest_201_1_2<>Sử dụng Mỏ vàng mỗi ngày {c(2)} lần trong {c(1)} ngày liên tiếp
+quest_201_1_3<>Sử dụng Mỏ vàng {c(3)} trong {c(1)} ngày liên tiếp
+quest_201_1_2_3<>Sử dụng Mỏ vàng {c(3)}, mỗi ngày {c(2)} lần trong {c(1)} ngày liên tiếp
+quest_300_1<>Hoàn thành {c(1)} nhiệm vụ Quán rượu
+quest_300_1_2<>Hoàn thành {c(1)} nhiệm vụ Quán rượu {c(2)} sao
+quest_400_1<>Tham gia {c(1)} lần thử thách Đấu Trường
+quest_401_1<>Đạt được {c(1)} lần chiến thắng trong Đấu Trường
+quest_402_1<>Đạt được {c(1)} điểm trong Đấu Trường
+quest_500_1<>Hoàn thành giai đoạn Chiến Dịch {m(1)}
+quest_501_1<>Nhận {c(1)} lần phần thưởng ủy thác trong Chiến Dịch
+quest_504_1<>Đạt {c(1)} giây Huấn luyện Tự động cho anh hùng ở Chiến Dịch
+quest_503_1<>Nhận {c(1)} vàng từ giai đoạn Ủy Thác
+quest_600_1<>Quay {c(1)} lần ở Vòng Quay Định Mệnh
+quest_600_1_2<>Quay {c(1)} lần ở {e(casino_type_~2)}
+quest_600_1_3<>Quay {c(1)} lần ở Vòng Quay Định Mệnh, nhận được Mảnh anh hùng {c(3)} sao
+quest_600_1_2_3<>Quay {c(1)} lần ở {e(casino_type_~2)}, nhận được Mảnh anh hùng {c(3)} sao
+quest_601_1<>Quay {c(1)} lần ở Vòng Quay Định Mệnh
+quest_601_1_2<>Quay {c(1)} lần ở {e(casino_type_~2)}
+quest_601_1_3<>Quay {c(1)} lần ở Vòng Quay Định Mệnh, nhận được {e(money_type_~3)}
+quest_601_1_2_3<>Quay {c(1)} lần ở {e(casino_type_~2)}, nhận được {e(money_type_~3)}
+quest_650_1<>Quay {c(1)} lần liên tiếp ở Vòng Quay Định Mệnh
+quest_650_1_2<>Quay {c(1)} lần liên tiếp ở {e(casino_type_~2)}
+quest_650_1_3<>Quay {c(1)} lần liên tiếp ở Vòng Quay Định Mệnh, không nhận được Mảnh anh hùng {c(3)} sao
+quest_650_1_2_3<>Quay {c(1)} lần liên tiếp ở {e(casino_type_~2)}, không nhận được Mảnh anh hùng {c(3)} sao
+quest_651_1<>Quay {c(1)} lần liên tiếp ở Vòng Quay Định Mệnh
+quest_651_1_2<>Quay {c(1)} lần liên tiếp ở {e(casino_type_~2)}
+quest_651_1_3<>Quay {c(1)} lần liên tiếp ở Vòng Quay Định Mệnh, không nhận được {e(money_type_~3)}
+quest_651_1_2_3<>Quay {c(1)} lần liên tiếp ở {e(casino_type_~2)}, không nhận được {e(money_type_~3)}
+quest_700_1<>Mua {c(1)} lần vật Phẩm trong Tiệm Tạp Hóa
+quest_700_1_2<>Mua {c(1)} lần mảnh anh hùng {c(2)} sao trong Tiệm Tạp Hóa
+quest_701_1<>
+quest_701_1_2<>Mua {c(1)} {e(money_type_~2)} trong Tiệm Tạp Hóa
+quest_750_1<>
+quest_750_1_2<>Tiêu {c(1)} {e(money_type_~2)} trong Tiệm Tạp Hóa
+quest_800_1<>Gia nhập Bang hội {c(1)} lần
+quest_801_1<>Thách thức Boss Bang Hội {c(1)} lần
+quest_801_1_2<>Thách thức Boss Bang Hội cấp độ {c(2)}, {c(1)} lần
+quest_801_1_3<>Thách thức Boss Bang Hội {c(1)} lần, mỗi lần gây ít nhất {c(3)} sát thương
+quest_801_1_2_3<>Thách thức Boss Bang Hội cấp độ {c(2)}, {c(1)} lần, mỗi lần gây ít nhất {c(3)} sát thương
+quest_802_1<>Thách thức Boss Bang Hội trong {c(1)} ngày liên tiếp
+quest_802_1_2<>Thách thức Boss Bang Hội {c(2)} lần mỗi ngày trong {c(1)} ngày liên tiếp
+quest_802_1_3<>Thách thức Boss Bang Hội cấp độ {c(3)} trong {c(1)} ngày liên tiếp
+quest_802_1_4<>Thách thức Boss Bang Hội trong {c(1)} ngày liên tiếp, mỗi lần gây ít nhất {c(4)} sát thương
+quest_802_1_2_3<>Thách thức Boss Bang Hội cấp độ {c(3)}, {c(2)} lần trong {c(1)} ngày liên tiếp
+quest_802_1_2_4<>Thách thức Boss Bang Hội {c(2)} lần mỗi ngày trong {c(1)} ngày liên tiếp, mỗi lần gây ít nhất {c(4)} sát thương
+quest_802_1_3_4<>Thách thức Boss Bang Hội cấp độ {c(3)} trong {c(1)} ngày liên tiếp, mỗi lần gây ít nhất {c(4)} sát thương
+quest_802_1_2_3_4<>Thách thức Boss Bang Hội cấp độ {c(3)}, {c(2)} lần trong {c(1)} ngày liên tiếp, mỗi lần gây ít nhất {c(4)} sát thương
+quest_803_1<>Bang Hội gây sát thương lên Boss Bang Hội trong {c(1)} lần
+quest_803_1_2<>Bang hội gây sát thương lên Boss Bang Hội cấp độ {c(2)} trong {c(1)} lần
+quest_803_1_3<>Bang hội gây ít nhất {c(3)} sát thương lên Boss Bang Hội trong {c(1)} lần
+quest_803_1_2_3<>Bang hội gây ít nhất {c(3)} sát thương lên Boss Bang Hội cấp độ {c(2)} trong {c(1)} lần 
+quest_820_1<>Tham gia thử thách Hỏa Ngục Bang Hội giai đoạn {c(1)}
+quest_821_1<>Hoàn thành {c(1)} mùa Hỏa Ngục Bang Hội
+quest_841_1<>Mua {c(1)} Cổ vật từ Cửa hàng Bang Hội
+quest_841_1_2<>Mua {c(1)} Cổ vật {e(artifact_type_~2)} từ Cửa hàng Bang Hội
+quest_900_1<>Thu thập {c(1)} vật Phẩm
+quest_900_1_2<>Thu thập {c(1)} vật phẩm với độ hiếm từ {e(equip_rarity_~2)} trở lên
+quest_901_1<>Trang bị {c(1)} vật phẩm
+quest_901_1_2<>Trang bị {c(1)} vật phẩm {e(equip_rarity_~2)}
+quest_902_1<>Nâng cấp {c(1)} vật phẩm
+quest_902_1_2<>Nâng cấp {c(1)} vật phẩm lên {e(equip_rarity_~2)}
+quest_902_1_3<>Nâng cấp {c(1)} vật phẩm lên {c(3)} sao
+quest_902_1_2_3<>Nâng cấp {c(1)} vật phẩm lên {e(equip_rarity_~2)} và lên {c(3)} sao
+quest_950_1<>Thu thập {c(1)} bộ vật phẩm
+quest_950_1_2<>Thu thập {c(1)} bộ vật phẩm {e(equip_rarity_~2)}
+quest_1000_1<>Nâng Triệu hồi sư lên cấp {c(1)}
+quest_1001_1<>Tiến hóa Triệu hồi sư lên {c(1)} sao
+quest_1100_1<>Triệu hồi {c(1)} lần ở Cây Tiên Tri
+quest_1100_1_2<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng {c(2)} sao
+quest_1100_1_3<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~3)}
+quest_1100_1_4<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng thuộc hệ {e(faction_type_~4)}
+quest_1100_1_2_3<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~3)}
+quest_1100_1_2_4<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~4)}
+quest_1100_1_3_4<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_1100_1_2_3_4<>Triệu hồi {c(1)} lần ở Cây Tiên Tri, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_1101_1<>Thay thế anh hùng {c(1)} lần ở Cây Tiên Tri
+quest_1101_1_2<>Thay thế {c(1)} lần anh hùng {c(2)} sao ở Cây Tiên Tri
+quest_1101_1_3<>Thay thế {c(1)} lần anh hùng thuộc lớp {e(class_type_~3)} ở Cây Tiên Tri
+quest_1101_1_4<>Thay thế {c(1)} lần anh hùng thuộc hệ {e(faction_type_~4)} ở Cây Tiên Tri
+quest_1101_1_2_3<>Thay thế {c(1)} lần anh hùng {c(2)} sao thuộc lớp {e(class_type_~3)} ở Cây Tiên Tri
+quest_1101_1_2_4<>Thay thế {c(1)} lần anh hùng {c(2)} sao thuộc hệ {e(faction_type_~4)} ở Cây Tiên Tri
+quest_1101_1_3_4<>Thay thế {c(1)} lần anh hùng thuộc lớp {e(class_type_~3)} và thuộc hệ {e(faction_type_~4)} ở Cây Tiên Tri
+quest_1101_1_2_3_4<>Thay thế {c(1)} lần anh hùng {c(2)} sao thuộc lớp {e(class_type_~3)} và thuộc hệ {e(faction_type_~4)} ở Cây Tiên Tri
+quest_1150_1<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri
+quest_1150_1_2<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng {c(2)} sao
+quest_1150_1_3<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~3)}
+quest_1150_1_4<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng thuộc hệ {e(faction_type_~4)}
+quest_1150_1_2_3<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng {c(2)} sao thuộc tộc anh hùng {e(class_type_~3)}
+quest_1150_1_2_4<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng {c(2)} sao thuộc hệ {e(faction_type_~4)}
+quest_1150_1_3_4<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_1150_1_2_3_4<>Triệu hồi {c(1)} lần liên tiếp ở Cây Tiên Tri, không nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~3)}, thuộc hệ {e(faction_type_~4)}
+quest_1200_1<>Có {c(1)} Bằng Hữu
+quest_1201_1<>Gửi {c(1)} lần Điểm bằng hữu
+quest_1202_1<>Nhận {c(1)} Điểm bằng hữu từ bạn bè
+quest_1250_1<>Do thám Boss Bạn Bè {c(1)} lần
+quest_1251_1<>Đánh bại Boss Bạn Bè {c(1)} lần
+quest_1300_1<>Mở khóa Dị thạch {c(1)} lần
+quest_1301_1<>Nâng cấp Dị thạch {c(1)} lần
+quest_1301_1_2<>Nâng cấp Dị thạch {e(stone_rarity_~2)} {c(1)} lần
+quest_1302_1<>Chuyển đổi Dị thạch {c(1)} lần
+quest_1400_1<>Thu thập {c(1)} Cổ vật
+quest_1400_1_2<>Thu thập {c(1)} Cổ vật từ {e(artifact_type_~2)} trở lên
+quest_1401_1<>Trang bị {c(1)} Cổ vật
+quest_1401_1_2<>Trang bị {c(1)} Cổ vật {e(artifact_type_~2)}
+quest_1402_1<>Nâng cấp {c(1)} Cổ vật
+quest_1402_1_2<>Nâng cấp {c(1)} Cổ vật {e(artifact_type_~2)}
+quest_1500_1<>Đăng nhập {c(1)} ngày liên tiếp
+quest_1600_1<>Hoàn thành giai đoạn {c(1)} Tháp Rồng
+quest_1700_1<>Triệu hồi {c(1)} lần
+quest_1700_1_2<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao
+quest_1700_1_3<>Triệu hồi {c(1)} lần, nhận được anh hùng cấp độ {c(3)}
+quest_1700_1_4<>Triệu hồi {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1700_1_5<>Triệu hồi {c(1)} lần, nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1700_1_2_3<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}
+quest_1700_1_2_4<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1700_1_2_5<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1700_1_3_4<>Triệu hồi {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1700_1_3_5<>Triệu hồi {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1700_1_4_5<>Triệu hồi {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1700_1_2_3_4<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1700_1_2_3_5<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1700_1_2_4_5<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1700_1_2_3_4_5<>Triệu hồi {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1701_1<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần
+quest_1701_1_2<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao
+quest_1701_1_3<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng cấp độ {c(3)}
+quest_1701_1_4<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1701_1_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1701_1_2_3<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}
+quest_1701_1_2_4<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1701_1_2_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1701_1_3_4<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1701_1_3_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1701_1_4_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1701_1_2_3_4<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1701_1_2_3_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1701_1_2_4_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1701_1_2_3_4_5<>Sử dụng Triệu Hồi Cơ Bản {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1702_1<>Triệu hồi cao cấp {c(1)} lần
+quest_1702_1_2<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao
+quest_1702_1_3<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng cấp độ {c(3)}
+quest_1702_1_4<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1702_1_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1702_1_2_3<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}
+quest_1702_1_2_4<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1702_1_2_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1702_1_3_4<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1702_1_3_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1702_1_4_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1702_1_2_3_4<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1702_1_2_3_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1702_1_2_4_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1702_1_2_3_4_5<>Sử dụng Triệu Hồi Cao Cấp {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1703_1<>Triệu hồi Bằng Hữu {c(1)} lần
+quest_1703_1_2<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao
+quest_1703_1_3<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng cấp độ {c(3)}
+quest_1703_1_4<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1703_1_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1703_1_2_3<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}
+quest_1703_1_2_4<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1703_1_2_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1703_1_3_4<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1703_1_3_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1703_1_4_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1703_1_2_3_4<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1703_1_2_3_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc hệ {e(faction_type_~5)}
+quest_1703_1_2_4_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1703_1_2_3_4_5<>Sử dụng Triệu Hồi Bằng Hữu {c(1)} lần, nhận được anh hùng {c(2)} sao, cấp độ {c(3)}, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1750_1<>Triệu hồi {c(1)} lần liên tiếp
+quest_1750_1_2<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}
+quest_1750_1_3<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng {c(3)} sao
+quest_1750_1_4<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1750_1_5<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1750_1_2_3<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng {c(3)} sao
+quest_1750_1_2_4<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}
+quest_1750_1_2_5<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng thuộc hệ {e(faction_type_~5)}
+quest_1750_1_3_4<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng {c(3)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1750_1_3_5<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng {c(3)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1750_1_4_5<>Triệu hồi {c(1)} lần liên tiếp, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1750_1_2_3_4<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng {c(3)} sao, thuộc tộc anh hùng {e(class_type_~4)}
+quest_1750_1_2_3_5<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng {c(3)} sao, thuộc hệ {e(faction_type_~5)}
+quest_1750_1_2_4_5<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1750_1_2_3_4_5<>Triệu hồi {c(1)} lần liên tiếp ở {e(summon_type_~2)}, không nhận được anh hùng {c(3)} sao, thuộc tộc anh hùng {e(class_type_~4)}, thuộc hệ {e(faction_type_~5)}
+quest_1800_1<>Hoàn thành {c(1)} nhiệm vụ hàng ngày trong một ngày
+quest_1801_1<>Hoàn thành nhiệm vụ hàng ngày trong {c(1)} ngày liên tiếp
+quest_1801_1_2<>Hoàn thành {c(2)} nhiệm vụ hàng ngày trong {c(1)} ngày liên tiếp
+quest_1802_1<>Hoàn thành {c(1)} nhiệm vụ hàng ngày
+quest_1900_1<>Đạt được cấp độ Vip {c(1)}
+quest_2000_1<>
+quest_2000_1_2<>Kiếm được {c(1)} {e(money_type_~2)}
+quest_2001_1<>
+quest_2001_1_2<>Tiêu {c(1)} {e(money_type_~2)}
+quest_2100_1<>Hoàn thành giai đoạn {c(1)} Hỏa Ngục
+quest_2101_1<>Chọn {c(1)} anh hùng để tham gia Hỏa Ngục
+quest_2102_1<>Sử dụng Lọ thuốc {c(1)} lần trong Hỏa Ngục
+quest_2102_1_2<>Sử dụng {e(potion_type_~2)} {c(1)} lần trong Hỏa Ngục
+quest_2103_1<>Mua {c(1)} vật Phẩm từ Thương lái trong Hỏa Ngục
+quest_2104_1<>Mua {c(1)} vật Phẩm từ Thương gia bí ẩn trong Hỏa Ngục
+quest_2200_1<>Thêm email khôi phục thành công {c(1)} lần
+quest_2300_1<>Chọn {c(1)} anh hùng vào Trận Đấu
+quest_2300_1_2<>Chọn {c(1)} anh hùng cho chế độ {e(game_mode_~2)}
+quest_2300_1_3<>Chọn {c(1)} anh hùng {c(3)} sao
+quest_2300_1_2_3<>Chọn {c(1)} anh hùng {c(3)} sao cho chế độ {e(game_mode_~2)}
+quest_2301_1<>Chọn {c(1)} anh hùng cùng hệ tham gia vào Trận Đấu
+quest_2301_1_2<>Chọn {c(1)} anh hùng cho chế độ {e(game_mode_~2)}
+quest_2301_1_3<>Chọn {c(1)} anh hùng {c(3)} sao
+quest_2301_1_4<>Chọn {c(1)} anh hùng hệ {e(faction_type_~4)}
+quest_2301_1_2_3<>Chọn {c(1)} anh hùng {c(3)} sao cho chế độ {e(game_mode_~2)}
+quest_2301_1_2_4<>Chọn {c(1)} anh hùng hệ {e(faction_type_~4)} cho chế độ {e(game_mode_~2)}
+quest_2301_1_3_4<>Chọn {c(1)} anh hùng {c(3)} sao hệ {e(faction_type_~4)}
+quest_2301_1_2_3_4<>Chọn {c(1)} anh hùng {c(3)} sao hệ {e(faction_type_~4)} cho chế độ {e(game_mode_~2)}
+quest_2302_1<>Chọn {c(1)} lần đội hình
+quest_2302_1_2<>Chọn {c(1)} lần đội hình khác với đội hình {e(formation_type_~2)}
+quest_2303_1<>Kích hoạt Cộng hưởng Phe phái {c(1)} lần
+quest_2303_1_2<>Kích hoạt Cộng hưởng Phe phái {e(companion_type_~2)} {c(1)} lần
+quest_2400_1<>Nâng cấp {c(1)} lần Bảng bổ trợ
+quest_2400_1_2<>Nâng cấp {c(1)} lần Bảng bổ trợ {e(mastery_type_~2)}
+quest_2400_1_3<>Nâng cấp {c(1)} lần Bảng bổ trợ thuộc tộc anh hùng {e(class_type_~3)}
+quest_2400_1_4<>Nâng cấp {c(1)} lần Bảng bổ trợ lên cấp {c(4)}
+quest_2400_1_2_3<>Nâng cấp {c(1)} lần Bảng bổ trợ {e(mastery_type_~2)} thuộc tộc anh hùng {e(class_type_~3)}
+quest_2400_1_2_4<>Nâng cấp {c(1)} lần Bảng bổ trợ {e(mastery_type_~2)} lên cấp {c(4)}
+quest_2400_1_3_4<>Nâng cấp {c(1)} lần Bảng bổ trợ thuộc tộc anh hùng {e(class_type_~3)} lên cấp {c(4)}
+quest_2400_1_2_3_4<>Nâng cấp {c(1)} lần Bảng bổ trợ {e(mastery_type_~2)} thuộc tộc anh hùng {e(class_type_~3)} lên cấp {c(4)}
+quest_2500_1<>Thắng chế độ Thử Thách {c(1)} lần
+quest_2500_1_2<>Thắng chế độ {e(raid_type_~2)} {c(1)} lần
+quest_2600_1<>Tham gia vào trang facebook
+quest_505_1<>Tham gia Chiến Dịch {c(1)} lần
+quest_1601_1<>Tham gia Tháp Rồng {c(1)} lần
+quest_201_1_2_3_1<>Dùng Mỏ vàng {c(3)}, mỗi ngày {c(2)} lần trong {c(1)} ngày
+quest_822_1<>Tham gia hỏa ngục bang hội {c(1)} lần
+quest_822_1_2<>Tham gia hỏa ngục bang hội ở chặng {c(2)} {c(1)} lần
+quest_830_1<>Điểm danh bang hội {c(1)} lần
+quest_105_1<>Phục hồi {c(1)} anh hùng
+quest_105_1_2<>Phục hồi {c(1)} anh hùng {c(2)}-sao
+quest_105_1_3<>Phục hồi {c(1)} anh hùng cấp độ {c(3)}
+quest_105_1_4<>Phục hồi {c(1)} Anh Hùng tộc {e(class_type_~4)}
+quest_105_1_5<>Phục hồi {c(1)} anh hùng hệ {e(faction_type_~5)} 
+quest_105_1_2_3<>Phục hồi {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)}
+quest_105_1_2_4<>Phục hồi {c(1)} anh hùng {c(2)} sao thuộc tộc {e(class_type_~4)}
+quest_105_1_2_5<>Phục hồi {c(1)} anh hùng {c(2)} sao thuộc hệ {e(faction_type_~5)} 
+quest_105_1_3_4<>Phục hồi {c(1)} anh hùng cấp độ {c(3)} tộc {e(class_type_~4)}
+quest_105_1_3_5<>Phục hồi {c(1)} anh hùng cấp độ {c(3)} hệ {e(faction_type_~5)} 
+quest_105_1_4_5<>Phục hồi {c(1)} anh hùng tộc {e(class_type_~4)} hệ {e(faction_type_~5)} 
+quest_105_1_2_3_4<>Phục hồi {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)} thuộc tộc {e(class_type_~4)}
+quest_105_1_2_3_5<>Phục hồi {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)} hệ {e(faction_type_~5)}
+quest_105_1_2_4_5<>Phục hồi {c(1)} anh hùng {c(2)} sao tộc {e(class_type_~4)} hệ {e(faction_type_~5)}
+quest_105_1_2_3_4_5<>Phục hồi {c(1)} anh hùng {c(2)} sao, cấp độ {c(3)} tộc {e(class_type_~4)} hệ {e(faction_type_~5)} 
+quest_1700_1_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)}
+quest_1700_1_2_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao
+quest_1700_1_3_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng cấp độ {c(3)}
+quest_1700_1_4_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng tộc {e(class_type_~4)}
+quest_1700_1_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng hệ {e(faction_type_~5)}
+quest_1700_1_2_3_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao cấp độ {c(3)}
+quest_1700_1_2_4_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao thuộc tộc {e(class_type_~4)}
+quest_1700_1_2_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao thuộc hệ {e(faction_type_~5)}
+quest_1700_1_3_4_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng cấp độ {c(3)} thuộc tộc {e(class_type_~4)}
+quest_1700_1_3_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng cấp độ {c(3)} thuộc hệ {e(faction_type_~5)}
+quest_1700_1_4_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng thuộc tộc {e(class_type_~4)} hệ {e(faction_type_~5)}
+quest_1700_1_2_3_4_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao tộc {e(class_type_~4)} cấp độ {c(3)}
+quest_1700_1_2_3_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao hệ {e(faction_type_~5)} cấp độ {c(3)}
+quest_1700_1_2_4_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao tộc {e(class_type_~4)} hệ {e(faction_type_~5)}
+quest_1700_1_2_3_4_5_6<>Triệu hồi {c(1)} lần bằng {e(summon_type_~6)} và nhận được anh hùng {c(2)} sao tộc {e(class_type_~4)} hệ {e(faction_type_~5)} cấp độ {c(3)}
+quest_507_1<>Tua nhanh chiến dịch {c(1)} lần
+quest_2701_1<>Nạp tiền {c(1)} lần
+quest_2701_1_2<>Nạp tiền {c(1)} lần
+quest_152_1_2_3<>Nhận được {n(2)} {c(3)} sao {c(1)} lần
+quest_3000_1<>Tham gia đánh Pháo Đài {c(1)} lần
+quest_3000_1_2<>Tham gia đánh Pháo Đài {c(1)} lần
+quest_3000_1_2_3<>Giành chiến thắng trong đánh Pháo Đài {c(1)} lần
+quest_3001_1<>Nhận Phần thưởng Treo máy trong Pháo Đài {c(1)} lần
+quest_3001_1_2<>Nhận Phần thưởng Treo máy trong Pháo Đài {c(1)} lần
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>Vượt màn chơi {c(1)} của {c(2)}
+quest_3002_1_2_3<>Vượt màn chơi {c(1)} của {c(2)}
+quest_1804_1<>Hoàn thành {c(1)} nhiệm vụ sự kiện trong một ngày.
+quest_450_1<>Tham gia {c(1)} lần Đấu Trường Trí Dũng
+quest_450_1_2<>Tham gia {c(1)} lần Đấu Trường Trí Dũng
+quest_451_1<>Đạt được {c(1)} lần chiến thắng trong Đấu Trường Trí Dũng
+quest_452_1<>Đạt được {c(1)} điểm trong Đấu Trường Trí Dũng
+quest_453_1<>Hoàn thành {c(1)} trận đấu 3v3
+quest_453_1_2<>Hoàn thành {c(1)} trận đấu 3v4
+quest_1501_1<>Đăng nhập vào game.
+quest_751_1<>Làm mới Tiệm Tạp Hóa {c(1)} lần.
+quest_152_1_3<>Nhận {c(1)} anh hùng {c(3)} sao.
+quest_460_1<>Tham gia Đấu Trường {c(1)} lần.
+quest_460_1_2<>{c(2)} Đấu Trường {c(1)} lần.
+quest_1850_1<>Hoàn thành {c(1)} nhiệm vụ tuần.
+quest_1850_1_2<>Hoàn thành {c(1)} nhiệm vụ tuần trong tuần {c(2)}.
+quest_2751_1<>Nhận gói bán miễn phí {c(1)} lần.
+quest_1950_1<>Xem video để nhận Ngọc {c(1)} lần.
+quest_310_1<>Vượt qua màn chơi {c(1)} trong Bí cảnh
+quest_310_1_2<>Vượt màn chơi {c(2)} trong Bí cảnh {c(1)} lần\n
+quest_311_1<>Tham gia Bí cảnh {c(1)} lần
+quest_312_1<>Hoàn thành tất cả các màn chơi vào ngày {c(1)} trong Bí cảnh. (Ngày 1: Thứ Hai; ngày 2: Thứ Ba; ngày 3: Thứ Tư; ngày 4: Thứ Năm; ngày 5: Thứ Sáu)
+quest_312_1_2<>Hoàn thành tất cả các màn chơi vào ngày {c(2)} trong Bí cảnh {c(1)} lần. (Ngày 1: Thứ Hai; ngày 2: Thứ Ba; ngày 3: Thứ Tư; ngày 4: Thứ Năm; ngày 5: Thứ Sáu)
+quest_2701_1_3<>Nạp tiền {c(1)} lần, mỗi lần lớn hơn ${c(3)} (USD)
+quest_1810_1<>Hoàn thành {c(1)} nhiệm vụ hàng ngày trong một ngày
+quest_1820_1<>Hoàn thành {c(1)} nhiệm vụ sự kiện
+quest_1815_1_2<>Thắp sáng sao {c(1)} lần
+quest_1855_1<>Tham gia trận đấu thử thách {c(1)} lần
+quest_1816_1<>Mở {c(1)} rương trong hoạt động Rương báu của rồng
+quest_1817_1_2<>Sử dụng {c(1)} Búa của Eitri
+quest_508_1<>Nhận Phần thưởng Treo máy trong Chiến Dịch {t(1)} 
+quest_2901_1<>Cho Lân thú ăn {c(1)} Bánh trung thu

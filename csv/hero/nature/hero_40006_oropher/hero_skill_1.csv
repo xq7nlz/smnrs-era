@@ -1,0 +1,4 @@
+name,damage,enemy_target_position,enemy_target_number,ally_target_position,ally_target_number,effect_duration,effect_percent
+Oropher_Active,1.09,10,4,10,1,2,0.5
+Oropher_Active,1.29,10,4,10,1,2,0.6
+Oropher_Active,1.49,10,4,10,1,2,0.7

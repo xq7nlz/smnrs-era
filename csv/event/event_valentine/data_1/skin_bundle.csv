@@ -1,0 +1,6 @@
+id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,com.se.sungame.entia_skin,com.sungame.summoners.era.entia_skin,com.fansipan.summoners.era.entia_skin,com.fansipan.summoners.era.entia_skin,14,50001001,1,,1,49.99,FALSE
+,,,,,2,1,2600,,,,
+,,,,,2,51,20,,,,
+,,,,,2,0,1000000,,,,
+,,,,,2,2,2500,,,,

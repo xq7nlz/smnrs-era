@@ -1,0 +1,2 @@
+name,star,buff_target_position,buff_target_number,buff_chance,stat_buff_1_type,stat_buff_1_calculation,stat_buff_1_amount,stat_buff_2_type,stat_buff_2_calculation,stat_buff_2_amount
+Main_Passive2,12,10,5,1,10,1,0.05,11,1,0.3

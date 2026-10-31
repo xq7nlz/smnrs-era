@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50>%s补丁说明：</size>\n\n1. 活动：\n\n- 首领挑战（新版本）\n\n- 埃特里之塔\n\n2. 调整月份卡牌\n\n3. 游戏优化
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. 活动：\n\n- 首领挑战（新版本）\n\n- 埃特里之塔\n\n2. 调整月份卡牌\n\n3. 游戏优化
+version_notice_next<>注意：以下信息可能根据开发团队的计划进行调整，并非100%准确。\n\n1. 新增季节性活动\n\n2. 游戏优化
+version_notice_maintenance<>版本 %s 的维护信息\n\n请关注我们的官方粉丝专页和 Discord 服务器以获取最新信息\n\n注意：维护计划可能会因开发团队的计划而有所变更。
+notice<>通知
+tap_to_play<>点击播放
+setting<>设置
+account<>帐户
+id<>ID
+summoner<>名字
+register_account<>注册帐户
+change_password<>换密码
+switch_server<>切换服务器
+switch_account<>切换帐户
+email_verify<>辅助邮箱
+game_version<>游戏版
+close<>关
+closed<>已关
+sound<>声音
+music<>音乐
+graphic_quality<>图形质量
+low<>底
+medium<>中等
+high<>高
+language<>语言
+language_setting<>选择语言
+password<>密码
+enter_text<>输入朋友的ID
+forget<>忘记
+do_you_want_restore<>您要恢复吗？
+register<>登记
+login<>登入
+restore<>恢复
+confirm_password<>确定密码
+cancel<>取消
+confirm<>确认
+new_password<>新密码
+confirm_new_password<>确认新密码
+please_select_language<>请选择语言
+daily_checkin<>报到
+mail<>信
+friend<>朋友
+shop<>商店
+main_character<>召唤师
+mastery<>补助表
+inventory<>包
+hero_list<>英雄
+event<>事件
+daily_reward<>每日奖励
+checkin_progress<>出勤率%s
+reply<>回答
+claim<>认领
+mail_box<>信箱
+claim_all<>索取全部
+system_mail<>系统邮件
+player_mail<>玩家邮件
+mail_empty<>空邮箱
+received_applications<>收到请求
+recommended_friend<>推荐
+claim_and_send<>领取和发送
+friend_list<>朋友列表
+search<>搜索
+friend_request<>加朋友要求
+help_fight<>探险
+apply<>应用
+delete_all<>删除所有
+delete<>删除
+scout<>侦察
+ranking_point<>排名点
+ranking_reward<>排名奖励
+battle_reward<>战斗奖励
+battle<>战斗
+smash<>快速战斗
+preview<>预览
+auto_fill<>自动填充
+disassemble<>拆除
+heroese<>英雄
+ok<>答应
+yes<>有
+no<>没有
+not_select_all_hero<>无法选择所有英雄
+do_disassemble_hero_4_star<>您是否真的要拆除星级高于%s的英雄？
+you_need_select_hero<>您需要选择一个英雄
+do_you_want_disassemble<>您要拆除吗？
+basic<>基本
+premium<>高级
+refresh<>刷新
+time<>时间
+forge<>锻造
+available_to_forge<>可锻造
+weapon<>武器
+armor<>盔甲
+helmet<>头盔
+ring<>戒指
+rank_x<>%s排名
+season_ranking<>季节排名
+point<>点数
+group_ranking<>团体排名
+score<>得分
+reward<>奖励
+record<>记录
+defense<>捍卫者
+choose_rival<>选择对手
+change<>换
+your_current_rank_x<>当前排名：%s
+reward_will_sent<>奖励将被发送到
+reward_will_sent_x<>奖励将被发送到%s
+wave<>遍
+will_open_in<>待会打开：
+will_end_in<>待会结束：
+quick<>快
+secret_shop<>商铺
+skip<>跳跃
+buy<>买
+primary_merchant<>见习商人
+medium_merchant<>熟练的商人
+senior_merchant<>高级商人
+mysterious_merchant<>神秘商人
+primary<>初级
+senior<>高级
+formation<>队伍
+save<>存
+material<>原料
+upgrade<>升级
+skip_battle<>跳过战斗
+back<>回去
+front<>前行
+gallery<>采集
+linking<>链接
+sort<>安排
+level<>水平
+star<>星
+select_hero_altar<>选择一个英雄来分散
+replay<>重播
+reward_current_ranking<>当前排名奖励
+hero_shard<>英雄碎片
+tap_to_close<>点击关闭
+avatar<>头像
+border<>边框
+avatar_border<>头像与边框
+current_avatar<>暂时头像与边框
+select_avatar<>请选择头像
+select_border<>请选择边框
+world<>世界
+send<>发送
+chat_option_1<>VIP 信息
+chat_option_2<>阻止世界聊天
+chat_option_3<>阻止战队聊天
+chat_option_4<>阻止新兵聊天
+select_hero_battle<>选择进行战斗的英雄
+vs<>和
+hero_info<>信息
+equip<>设备
+evolve<>进化
+skin<>衣服
+level_to_max<>Lv.Max
+level_up<>升级
+unlock_level<>解锁Lv。%s
+unequip<>取消装备
+auto_equip<>快速装备
+awaken<>觉醒
+switch_character<>转换召唤师
+exp<>EXP
+free<>免费
+free_x<>免费%s
+summon<>召唤
+summon_x<>召唤 %s
+storage<>仓库
+fragment<>分段
+artifact<>神器
+leaderboard<>排名榜
+quest<>任务
+damage_stat<>伤害指数
+notification<>通知
+spin_x<>旋转%s
+next_force_refresh<>刷新：
+pack_of_item<>物品包
+congratulation<>恭喜
+smash_title<>您想挑战多少次？
+select_heroes<>选择英雄
+requirement<>要求
+start<>开始
+quest_refresh_in<>任务({1})将在{2}中重置
+speed_up<>加速
+complete<>完成
+block<>阻止
+unblock<>解除阻止
+send_mail<>发送邮件
+refresh_in<>刷新：%s
+remaining_attempts<>剩余战役
+challenge<>挑战
+rename<>改名
+x_character<>%s个字符
+change_avatar<>头像和边框
+vip<>VIP info
+replace_hero<>更换英雄
+select_your_hero<>选择你的英雄
+please_select_hero_replace<>请选择替换英雄
+convert<>兑换
+lock_current_stat<>锁定当前状态
+upgrade_artifact<>升级神器
+select_material_artifact<>请选择材料神器
+training_hero<>训练
+to_complete_training<>所有英雄的最长训练时间
+select_item<>选择物品
+map<>地图
+select_material_hero<>请选择材料英雄
+select<>选择
+unlock_star<>在%s星空解锁
+guild_application<>申请清单
+request_x<>%s要求
+accept<>接受
+decline<>拒绝
+guild_foundation<>公会设置
+recommended<>推荐的
+enter_guild_name_id<>输入ID或战队名称
+found<>创造
+guild_content<>加入战队或自己创建一个公会以从战队活动中获得很多奖励
+member_x<>会员%s
+emblem<>徽
+info<>信息
+enter_guild_name<>输入公会名称
+enter_guild_info<>输入战队信息
+recruit<>招
+daily_boss<>战队老板
+checkin<>报到
+application<>申请清单
+input_recruit_info<>请输入招聘信息
+kick<>踢
+demote<>降级
+promote<>升级
+season_reward<>季节性奖励
+self_damage<>伤害自己：
+guild_damage<>伤害战队：
+level_boss_x<>老板等级：%s
+unlock_at_guild_x<>公会等级%s解锁
+current_reward<>当前奖励
+next_reward<>下一个奖励
+guild_log<>公会日志
+stage_reward<>舞台奖励
+map_stage<>{1}地图，{2}游戏，{3}难度
+need_input_code<>请输入验证码
+need_input_mail<>请输入电子邮件以恢复帐户
+input_code_fail<>无效的代码
+confirm_new_password_fail<>确认新密码失败
+need_input_new_password<>请输入新密码
+can_not_claim_reward<>已收到
+max_buy_turn_daily<>每日最多购买时间
+coming_soon<>快来了
+limit_purchase_this_pack<>您已为此包达到了购买限额
+member_kick_guild<>已被踢出战队的成员
+failed_kick_member<>无法将此成员踢出工会
+login_current_account<>登录当前帐户
+member_role_changed<>成员的角色已更改
+guild_sub_leader_reached_limit<>副领导人数已达极限
+failed_change_member_role<>无法更改此成员的角色
+input_password_failed<>密码错误
+input_user_name_failed<>用户名不正确
+enter_recruit_info_please<>请输入招聘信息
+send_recruit_successful<>成功发送招聘信息
+fail_send_recruit_info<>发送招聘信息失败
+fail_get_data<>接收数据失败
+fail_refresh<>刷新失败
+player_joined_guild<>玩家已经加入战队
+guild_limit_member<>成员人数已达到上限
+need_permission_perform_action<>您无权执行此操作
+failed_get_dungeon_stage<>无法接收地牢的数据
+send_request_successful<>成功发送要求
+already_in_guild<>你已经在战队了
+please_enter_guild_name<>请输入战队名称
+create_guild_success<>创建战队成功
+create_guild_failed<>创建战队失败
+upgrade_guild_success<>战队信息已更新
+challenge_guild_dungeon_success<>挑战战队地下城成功
+guild_description_invalid<>说明格式无效
+failed_challenge_guild_dungeon<>挑战公会地下城失败
+guild_description_bad_word<>无法更新信息。 战队说明无效
+password_failed<>密码不对
+try_again_few_seconds<>请稍后再试
+need_input<>请输入战队名称或ID
+insert_least_one_hero<>请选择至少一位英雄
+change_success<>成功！
+email<>Email
+code_verify<>验证码
+master_can_not_quit_guild<>帮主不能离开战队
+sure_leave_guild<>您确定要离开这个战队吗？
+have_left_guild<>您已经离开这个战队
+need_level_mastery<>您需要将所有精通版升级到%s级
+login_failed<>登录失败
+boss_died<>老板被打败了
+limit_level_x<>等级差异高于%s，因此无法攻击
+continue_facebook<>继续于Facebook
+remove_friend_success<>删除成功！
+do_want_delete_mail<>您要删除此邮件吗？
+can_not_claim_mail<>无法接收邮件
+send_success<>发送成功！
+claim_success<>领取成功！
+claim_send_success<>领取和发送成功！
+can_not_claim_send<>没有可用的心来要求或发送
+do_want_delete_all<>您要全部删除吗？
+add_friend_success<>加朋友成功
+hero_in_arena<>英雄在竞技场
+hero_in_training<>在接受自动训练的英雄
+require_level_x<>%s要求等级
+help<>帮助
+guild_name_contain_banned_word<>战队名称无效
+guild_desc_contain_banned_word<>战队说明无效
+selected<>已选
+not_enough_x<>%s不够
+casino_shop<>愿望商店
+altar_shop<>神社商店
+guild_shop<>战队商店
+arena_shop<>竞技场商店
+want_to_buy<>你确定吗？
+require_tavern<>该英雄不符合任务要求
+require_hero_star_x<>需要%s星英雄
+require_hero_faction_x<>需要%s系英雄
+require_hero_class_x<>需要%s级英雄
+want_to_cancel_quest<>您要取消此任务吗？
+want_to_speed_up<>您想加快速度吗？
+not_enough_equipment<>原料不足
+noti_full_hero<>英雄名单已满
+unlock_new_function<>新功能
+reset<>重启
+mastery_skill<>补充表技巧
+need_reset_main_mastery<>您是否需要重置补充表
+want_to_reset<>您要重设吗？
+not_enough_resource<>没有足够的资源
+user_profile<>用户资料
+fanpage<>Facebook专页
+go_to_fanpage_notice<>请访问我们的网站以获取更多信息
+want_to_switch_server<>您要切换服务器吗？
+want_to_new_server<>您要在此服务器中注册新的人物吗？
+want_to_clear_data<>您要清除数据吗？
+connecting_server<>连接到服务器...
+init_service<>初始化服务...
+init_data_request<>初始化数据请求...
+init_resource_request<>初始化资源请求...
+download_asset_bundle<>正在下载资产捆绑包...
+next_scout<>下次监视于：%s
+summoner_can_view<>召唤师的派系被算作任何派系使用
+require_stage_x<>清除阶段{1} {2}-{3}进行解锁
+hero_info_max_level<>达到最高英雄等级
+daily_quest<>每日任务
+hero_level_cap_to<>等级上限提高到%s
+bonus_class<>为{1}级添加
+bonus_faction<>为{1}系添加
+bonus_class_faction<>为{1}级，为{2}系添加
+free_gem<>免费宝石
+skill_enhance<>技能进化
+level_cap<>等级上限
+how_many_purchase<>请输入数字{1}
+sell<>卖
+vip_full<>达到最高VIP等级
+copy_to_clipboard<>复制到剪贴板
+player_blocked<>玩者已被封锁
+hero_fragment_title_star<>{1}星英雄的片段
+hero_fragment_faction<>{1}星 {2}系的英雄的片段
+hero_fragment_name<>{1}的片段
+hero_fragment_star<>{1}星英雄的片段
+hero_fragment_star_faction<>{1}-星{2}英雄片段
+hero_fragment_info<>收集{1}个碎片来召唤英雄
+artifact_fragment_title_1<>稀有神器
+artifact_fragment_title_2<>神话神器
+artifact_fragment_title_3<>传奇神器
+artifact_fragment_title_4<>传奇神器(特殊)
+artifact_fragment_title_5<>不朽神器
+artifact_fragment_title_6<>不朽神器(特殊)
+artifact_fragment_info<>收集{1}个片段以召唤一个随机神器
+require_level_stage<>需要阶段{2} {3}-{4}和级别{1}
+require_vip_or_stage<>需要VIP {1}或阶段{2} {3}-{4}
+require_vip_or_level_stage<>需要VIP {1}或级别{2}以及阶段{4}-{5}
+achievement<>成就
+quest_tree<>任务树
+achievement_tittle_group_1<>链接力量
+achievement_tittle_group_2<>活或死
+achievement_tittle_group_3<>召唤策略
+achievement_tittle_group_4<>巨大的挑战
+achievement_tittle_group_5<>其他
+quest_tree_tittle_group_1<>进入旅程
+quest_tree_tittle_group_2<>怪物征服
+quest_tree_tittle_group_3<>无尽的挑战
+completed<>完成
+player_already_show_info<>显示了玩家的信息
+in_progress<>进行中
+new_password_is_last<>密码重复
+new_password_failed<>确认新密码失败
+chat_delay<>请在%s秒后重新发短信
+search_failed<>搜寻失败
+need_input_friend_id<>需要输入朋友ID！
+send_failed<>发送失败
+warning_send_mail<>请在%s秒后重新发送邮件
+mail_content<>邮件内容不能为空
+max_hero<>英雄已满
+enough_hero_material<>英雄资料不足！
+max_turn_bought<>购买数量已达到限制
+hero_max_star<>英雄之星已最多！
+need_up_max_level<>英雄需要先达到最高等级
+hero_is_training<>进行中
+hour_x<>%s小时
+min_x<>%s 分钟
+smash_reward<>粉碎奖励
+refresh_x<>刷新后：%s
+potion_1<>恢复：%s HP
+potion_2<>增加：%s能量
+potion_3<>增加：%sHP和%s能量
+full_slot<>空间满
+want_to_use_potion<>你想用药水吗？
+day_ago_format<>{0}天{1}小时前
+hour_ago_format<>{0}小时{1}分钟前
+min_ago_format<>{0}分钟{1}秒前
+second_ago_format<>{0}秒前
+tower_record_error<>重播记录失败。 请尝试另一个
+require_vip_or_level<>需要VIP {1}或级别{2}
+reach_limited_pack<>已达到限量的包！
+all_heroes_were_killed<>所有英雄都被击败了！
+use_id_format<>使用ID格式以代替
+guild_not_found<>找不到战队
+recommend_guild_failed<>无法显示推荐的战队
+have_just_joined_guild<>您已加入战队
+boss_changed_successful<>已成功地换老板
+select_boss_failed<>不能选择老板
+challenge_guild_boss_successful<>挑战战队老板成功！
+challenge_guild_boss_failed<>挑战战队老板失败！
+guild_was_kicked<>您已被踢出战队！
+check_in_successful<>报道成功
+restore_failed<>恢复失败
+play_record_failed<>记录错误。 请尝试另一个！
+need_clear_previous_stage<>您需要先清除上一个阶段！
+map_cleared<>完成
+no_video<>视频不可用
+current_name<>当前的名字
+product_not_exist<>该ID不存在！
+purchase_processing<>处理中
+register_account_success<>注册成功！
+new_pass_limit<>限制了%s个字符的密码
+new_pass_special<>新密码包含特殊字符
+confirm_pass_fail<>确认密码失败！
+disconnect<>断开连接！
+dungeon_time_up<>地牢已关闭！
+change_language<>您是否要将语言更改为%s
+create_guild<>您要创造战队吗？
+want_block<>您要封锁吗？
+want_unblock<>您想解除封锁吗？
+want_delete_all_mail<>您要删除所有邮件吗？
+want_refresh_tavern<>您想刷新小酒馆吗？
+remove_friend<>您要删除此朋友吗？
+have_verified_email<>您是否添加了辅助邮箱？
+quit_game<>您要退出游戏吗？
+want_refresh_shop<>您要刷新商店吗？
+all_hero_died<>所有英雄都被击败了！
+resend<>重发
+input_code<>输入验证码
+noti_code<>一条消息已发送到您的邮件！
+update<>更新资料
+raw_pack_1<>宝石把
+raw_pack_2<>宝石堆
+raw_pack_3<>宝石袋
+raw_pack_4<>宝石盒
+raw_pack_5<>宝石宝箱
+limited_pack_1<>每周交易1
+limited_pack_2<>每周交易2
+limited_pack_3<>每周交易3
+limited_pack_4<>每周交易4
+limited_pack_5<>每周交易5
+limited_pack_6<>每月交易1
+limited_pack_7<>每月交易2
+limited_pack_8<>每月交易3
+limited_pack_9<>每月交易4
+limited_pack_10<>每月交易5
+smash_many<>请输入数量
+events<>事件
+event_summon<>召唤
+event_prophet_tree<>许愿树
+event_arena<>竞技场
+event_wheel_of_fate<>命运之轮
+event_tavern<>酒馆
+event_collection<>收集
+event_exchange<>交换
+event_bundle<>事件包
+event_hot_deal<>热卖
+event_prophet_tree_info<>要完成任务，请完成在古树中召唤所需数量的物品以获得奖励。
+event_wheel_of_fate_info<>要完成任务，请完成命运之轮中所需的旋转次数，以获得奖励。
+event_collection_info<>要完成任务，请收集所需数量的英雄以获取奖励。
+event_tavern_info<>要完成任务，请在小酒馆中完成所需数量的任务以获得奖励。
+event_summon_info<>要完成任务，请完成召唤中所需的召唤次数，以获得奖励。
+event_arena_info<>在竞技场中完成所需的游戏次数即可获得奖励。
+event_bundle_info<>活动期间，您可以购买限量套票。
+event_hot_deal_info<>活动期间，您可以购买限量套票。
+gate<>地图
+enemy<>敌人
+faction_restrain<>派系斗争
+faction_restrain_info<>派系斗争造成{1}更多伤害并提高{2}准确性
+round<>次
+invite<>邀请
+name<>名字
+stock<>限制
+select_guild_logo<>选择您的战队标志
+member<>成员
+master<>帮主
+deputy<>副帮
+guild_notice<>通知
+season_end_in<>季节结束于：
+stage<>阶段
+hall_of_fame<>名人堂
+floor<>楼层
+remove_all<>移除所有
+enemy_team<>敌队
+go<>前往
+save_point<>保存点
+next_stage<>下一个游戏比赛
+attacker<>攻击者
+defender<>后卫
+forge_equipment<>锻造设备
+upgrade_hero<>升级英雄
+summon_hero<>召唤英雄
+enter_redemption_code<>输入兑换礼物码
+gift_code<>礼品码
+current_ranking<>当前排名
+monthly_packs<>每月优惠
+raw_packs<>宝石包
+limited_packs<>限量包装
+total_reward<>总奖赏
+instant_reward<>即时奖励
+weekly<>月卡
+monthly<>玉宝石
+premium_monthly<>高级宝石卡
+free_acquire_video_reward<>免费获得视频奖励
+limit_pack_per_week<>每周限制%s个包
+limit_pack_per_month<>每月限制%s个包
+lock<>锁
+edit_lock_heroes<>编辑锁定的英雄
+back_to_current<>暂时
+mastery_name<>{2}中的{1}
+get_vip_point_to_reach<>要%s VIP点以达到
+remove<>删除
+replace<>更换
+use<>使用
+add_one<>加x1
+add_ten<>加x10
+admin_mail<>管理员邮件
+moderator_mail<>行政邮件
+merchant<>商人
+enter_name_please<>请输入名字！
+enter_chat<>输入文字
+chat<>聊天
+join<>参加
+please_wait_for_seconds<>请等待%s秒
+max<>最多
+gold_mine<>金矿
+friend_not_save_formation<>这个朋友还没有成立防守队
+not_enough_quest_refresh<>没有刷新要求
+do_you_want_use_resource<>您是否要使用{1} {2}？
+wanna_kick_member<>您想把这个成员赶出去吗？
+special<>特别
+first_purchase<>只为你
+account_limit_character<>要求{1}-{2}个字符
+hero_food_moon_title<>月球
+hero_food_sun_info<>当光明/黑暗派系英雄进化时，用于替换所需的材料
+hero_food_sun_title<>太阳
+hero_food_moon_info<>当火，水，自然和深渊派系英雄进化时，用于替换所需的材料
+boss<>Boss
+verify_email_success<>成功添加辅助邮箱
+level_up_reward<>升级奖励
+no_tavern_quest<>没有任务
+season_open_in<>赛季开始的：
+cleared<>完成
+claim_reach_level<>立即领取闲置奖励以达到所需水平
+more_time_reach_level<>需要更多{1}才能达到{2}级别
+claim_to_not_max<>记住要在达到限制之前索取空闲奖励
+to_reach_level_x<>需要{1}才能达到{2}级别
+ranking_1<>铁 II
+ranking_2<>铁 I
+ranking_3<>铜
+ranking_4<>银
+ranking_5<>黄金
+ranking_6<>铂
+ranking_top_11<>钻石
+ranking_top_1<>传奇
+ranking_top_2<>棋圣
+ranking_top_3<>挑战者
+ranking_top_6<>专家
+top_x<>等级{1}
+top_x+<>等级{1}+
+top_x_x<>等级{1}-等级{2}
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>未排名
+version_outdate<>您的%s版本已过期，请更新到新版本
+role<>角色
+ago<>前
+preload_resources<>预加载资源
+download_resource_complete<>下载资源完成
+load_user_data<>正在加载用户数据...
+start_game<>开始游戏
+under_maintenance<>服务器正在维护中
+no_data<>没有数据
+change_leader<>协会会长变更
+set_as_leader<>设置为领队
+guild_member_list<>会员名单
+confirm_change_leader<>您确定要将{1}设置为{2}吗？
+unblock_training_condition<>您可以在领取权利后将英雄改成训练
+quick_battle<>快速战斗
+quick_battle_info<>您将获得%s分钟的英雄奖励，召唤者经验，金币和物品的空闲奖励。
+monthly_reward<>每月奖励
+max_quick_battle_turn<>最大快速战斗回合
+event_has_ended<>活动已结束
+archived<>成就
+more_items<>%s更多项目
+purchase_items<>购买物品
+limited_pack_desc_1<>明智的投资者的选择
+limited_pack_desc_2<>此选择将增加您的名声
+limited_pack_desc_3<>这样的选择会带来意想不到的好处
+limited_pack_desc_4<>风险投资也是天才的投资
+limited_pack_desc_5<>这个选择将带给您冠军的荣耀
+limited_pack_desc_6<>征服者的必不可少的选择
+limited_pack_desc_7<>是一项大投资主导一切
+limited_pack_desc_8<>这项投资的好处将立即得到证明
+companion_buff<>伴侣增益
+total<>总共
+when_you_login<>登录奖金
+claim_each_day<>每天%s天
+day<>天
+speed_up_gold<>加快黄金
+speed_up_hero_exp<>加快速度古代药水
+speed_up_summoner_exp<>加速召唤师经验值
+speed_up_gold_info<>立即获得价值 %s 小时的 黄金\n在 战役 屏幕中激活
+speed_up_hero_exp_info<>立即赚取 %s 小时的 英雄经验\n在 战役 屏幕中激活它
+speed_up_summoner_exp_info<>即时获得%s小时的召唤师经验值\n在 战役 屏幕中激活它
+all_received<>全部收到
+attack_success<>攻击成功
+attack_fail<>攻击失败
+defense_success<>防御成功
+defense_fail<>防御失败
+revenge<>报仇
+hide<>隐藏
+season_end_reward<>季终奖
+champion<>冠军
+reward_area_end<>打开邮件以接收奖励
+go_to_mail<>到邮件
+arena_point_reset<>您的排名积分已重置为%s
+rate_x<>%s概率
+season_end<>赛季结束
+highest_ever<>有史以来最高
+random_item_pool<>物品清单
+next_refresh<>下次强制刷新：
+community<>社区
+guild_log_join<>{0}加入了我们的战队
+guild_log_leave<>{0}离开了战队
+guild_log_assign_leader<>{0}已将{1}指定为战队领袖
+guild_log_assign_sub_leader<>{0}已将{1}指定为战队副领袖
+guild_log_kick_out<>{0}已被战队踢出
+free_refresh<>免费刷新在：
+flash_sale<>Flash sale
+rate_title<>喜欢这个游戏吗？
+not_rate_contain<>对于您遇到的糟糕体验，我们深表歉意。 请访问我们的粉丝专页，留下您的反馈意见。 我们将尽力改善游戏体验。
+transaction_mail<>交易邮件
+weekly_packs<>每周特惠
+subscription_packs<>月卡
+rate_content<>您喜欢Summoners Era游戏吗？ 请给我们评分5星
+rate<>评选吧
+not_rate<>不用了，谢谢
+go_to_fanpage<>转到粉丝页
+notice_watch_ads<>您想观看广告以获得奖励吗？
+play_video<>播放视频
+init_proceed_failed<>无法使用您的帐户付款当前订单，请检查您的帐户，然后重试
+start_free_trial<>免费使用%s天
+trial_available<>感谢您启动试用版
+warning_flash_sale<>该包仅出现一次。 您确定会跳过这个机会吗？
+warning_download_data<>下载{1} MB的.\n<color=#{2}>数据，建议使用Wi-Fi</color>
+not_enough_space_memory<>没有足够的空间来下载数据。 需要%sMB才能继续下载数据。
+retry<>重试
+download<>下载
+event_login<>活动登录
+event_login_info<>活动期间，收集所需的登录数量即可获得奖励。
+tip_1<>重置或使用英雄作为进化材料时，将返还100%的英雄升级材料和80%的符文升级材料。
+tip_2<>注意！ 低星的英雄（1-3）也不是没用。 进化并将它们作为应急食物带给您的主要英雄。
+tip_3<>英雄等级的属性会随着进化而大大增加。
+tip_4<>请不要忘记在竞技场中排名更高。 您可以获得许多“精通积分”作为每周排名奖励。
+tip_5<>英雄训练是提高3星等级以下英雄的最好方法。
+tip_6<>为了您的安全，请不要忘记注册一个帐户并添加恢复电子邮件地址。
+tip_7<>重置或使用英雄作为进化材料时，将返还100%的英雄升级材料和80%的符文升级材料。
+notice_upgrade_stone_converting<>您之前已经转换了宝石。 您确定要继续升级吗？
+day_only<>天
+login_event_progress<>%s登录过程
+notice_switch_all_summoner<>您想交换所有召唤师吗？
+not_enough_point<>积分不足
+event_arena_ranking<>竞技场排名
+event_arena_ranking_info<>请提高您的竞技场排名积分以获得有价值的奖励，奖励将通过邮件发送
+notice_reset_hero<>重新安装时返回的资源量将取决于当时的英雄级别
+guild_hall<>战队堂
+guild_hall_info<>这是战队设施和战队成员活动的所在地。
+join_now<>现在加入
+are_you_sure<>你确定吗？
+registered_member<>注册会员
+phase_message_tittle<>公會助理
+message_phase_1<>需要至少{1}个注册会员才能加入回合{2}
+message_phase_2<>Your guild can't join {1} because defense formation hasn't been set up. Only Leader & Vice-Leader could set up.
+change_formation<>更改编队
+change_defender<>交换后卫
+guild_leader_benefit<>只有战队领袖和副领袖可以报名参加战队战争
+notice_evolve_hero_converting<>该英雄正在被转换。 您确定要进化吗？
+unlock_previous_stage<>解锁上一个阶段
+missing_join_stage<>您错过了加入这个战队地下城的机会
+deal_damage_to_get_reward<>造成伤害以获得稀有奖励。
+only_leader_can_change_boss<>只有战队领袖和副领袖可以改变Boss
+total_damage<>总伤害
+event_release_festival<>活动发布节
+event_release_festival_info<>在活动期间，当服务器达到一定数量的玩家时，该服务器上的所有玩家都将获得奖励。
+player_join_server<>玩家加入服务器
+skip_batte<>跳过战斗
+summoner_locked<>召唤者尚未解锁
+member_has_registered<>已经注册会员
+not_eligible_to_join<>不符合参加资格
+guild_war_phase_1_name<>注册阶段
+guild_war_phase_2_name<>防御设置阶段
+guild_war_phase_3_name<>战斗阶段
+random_boss<>随机Boss
+try_time<>重试
+check_out_defenders<>查看防守者
+limited_pack_11<>特别包
+limited_pack_desc_11<>这项投资的好处将立即得到证明
+event_shop<>灵魂商店
+mission<>活动任务
+exchange<>交换
+not_enough<>不够
+limit_x<>限制%s
+soul_shop<>灵魂商店
+hidden_deal<>隐藏交易
+owned<>拥有的
+guild_owned<>战队所有
+not_in_guild<>你不在战队里
+new<>新
+out_of_turn<>移出的
+event_exchange_1<>英雄交换
+event_exchange_1_info<>要完成任务，请收集所需数量的材料以交换英雄。
+event_exchange_2<>物品交换
+event_exchange_2_info<>要完成任务，请收集所需数量的材料以交换物品。
+event_exchange_3<>神秘商人
+event_exchange_3_info<>您可以从商人那里购买有趣的物品。
+profit<>利润
+tilion_nick_name<>最佳的康复
+donate<>捐赠
+guild_donate_history<>战队捐赠历史
+defronowe_nick_name<>疯狂刺客
+first_time_reward_desc<>每当您进行第1次充值时，请获得此英雄
+first_time_reward<>第一充值
+go_to_shop<>去商店
+guild_donate_help<>战队捐赠帮助
+guild_donate_title<>战队捐赠
+starter_pack<>入门包
+owned_x<>拥有的：{1}
+starter_pack_name_1<>设备
+starter_pack_desc_2<>大伤害
+starter_pack_desc_4<>一枪一杀
+starter_pack_desc_3<>烧掉所有敌人 
+extra<>额外
+quick_battle_ticket_2_0<>{1}小时-加速金牌
+quick_battle_ticket_2_10<>{1}小时-加速魔法药水
+quick_battle_ticket_8_0<>{1}小时-加速Exp
+event_type_20<>战队任务事件
+event_type_20_info<>您需要完成Trophy金牌和Trophy银牌的里程碑才能获得奖励
+hero_lock_in_inventory<>锁定英雄在库存
+hero_in_guild_war<>在战队战争的英雄
+require_vip<>需要Vip%s
+received<>已收到
+final_reward<>最终奖励
+day_x<>日期%s
+buy_item_quest_name<>购买物品
+event_server_open<>新人任务
+item_loot<>物品战利品
+done<>完成
+support<>支持
+check_game_version<>查看游戏版本
+check_game_logic<>检查游戏逻辑
+check_game_resources<>查看游戏资源
+check_resources_config<>检查资源配置
+go_to_store<>去商店
+switch_all<>全部切换
+server_open<>新人任务
+login_summoner_era<>登录Summoner Era帐户
+login_facebook<>登录Facebook
+login_google<>登录谷歌
+login_apple<>登录苹果
+binding_summoner_era<>绑定Summoner Era帐户
+binding_facebook<>绑定Facebook帐户
+binding_google<>绑定谷歌帐户
+binding_apple<>绑定苹果帐户
+binded<>已绑定
+noti_binding<>该帐户是访客帐户，请绑定该帐户以避免丢失您的帐户
+mail_verified<>辅助邮箱：%s
+min_donate_event_guild_quest<>Min donation {1} {2} and {3} {4}
+player_banned<>由于可疑活动，您的帐户已被禁止。 请联系我们的客户服务以获取更多详细信息。
+scroll_monthly<>卷轴卡
+sale_off<>折扣
+hot<>Hot
+level_pass<>Level Pass
+unlock_level_pass<>解锁
+free_reward<>免费奖励
+premium_reward<>高级奖励
+activated<>已解锁
+reward_claimed<>已收到
+summoner_exp<>召唤师经验值
+tap_to_claim<>点按即可领取
+growth_pack_lock<>购买后，达到指定级别即可索取大量有价值的奖励。
+noti_register<>您要注册新帐户吗？
+skip_cut_scene<>Skip cut scene
+turn_on_cut_scene<>Turn on cut scene
+select_hero_evolve<>Select hero to evolve %s
+noti_confirm_resource<>你确定现在消耗这些资源？
+noti_close_multi_evolve<>如果您确认现在离开，则下次必须补充英雄。
+server_maintain_in_x<>Server maintenance will be implemented in next %s
+empty_hero_evolve<>Please select Hero to evolve
+multi_evolve<>Multi Evolve
+potion<>Potions
+collection_bag<>Buffs
+empty<>空的
+remaining<>其余的
+unpack_resources<>Unpack Resources
+choose<>选择
+hero_alive<>这个英雄还活着。
+hp_full<>The hero is full health
+power_full<>The hero is full power
+guild_war_season_ranking<>激战赛季排名
+guild_war_member_setup_progress<>注册会员人数不足
+guild_war_member_setup_successful<>公会战会员注册成功
+guild_war_setup_can_be_modified<>所有的阵法都在设置。在 {1} 之前，只有领导和副领导可以更改. 战斗中所有阵型的英雄装备都无法更换。
+swap_member_successful<>更换会员成功
+ask_for_save_the_change_guild_war_defenders<>你刚刚改变了你的防守阵容。您想保存以备下次使用吗？
+swap_member<>Swap member
+win<>Win
+your_guild_get<>Your guild get %s
+min_hero_dead_requirement<>Win with at least %s hero alive
+max_round_requirement<>Win in %s round(s)
+save_successful<>保存成功
+power<>Combat Power
+point_gained<>Point gained
+not_enough_member_registered<>Unable to join due to insufficient number of registered members.
+guild_war_point<>Guild War Ranking Point
+guild_war_season_end<>The new season of guild war is coming soon. Prepare yourself to conquer new enemies.
+guild_war_register_notification<>Castle Defense formation has just been changed by another person
+require_event_rate_up_point<>Event rate up point is not enough to summon
+summon_rate_up<>Guaranteed in %s Summon(s)
+guaranteed_requirement<>Rate-up Event Point
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>Summoner Level
+daily_packs<>每日包
+5_star_hero_reward<>5星英雄奖励
+clear_stage_to_get_reward<>通关此关卡可获得赛季末奖励
+current_season_reward<>Current season reward
+artifact_fragment_title_7<>Immortal Artifact (Water)
+artifact_fragment_title_8<>Immortal Artifact (Fire)
+artifact_fragment_title_9<>Immortal Artifact (Abyss)
+artifact_fragment_title_10<>Immortal Artifact (Nature)
+artifact_fragment_title_11<>Immortal Artifact (Light)
+artifact_fragment_title_12<>Immortal Artifact (Dark)
+guild_market<>Guild Store
+market_upgrade_describe<>You will need the following resources to upgrade
+attack_log<>攻击
+defense_log<>防御
+attack_count<>Attack Count
+special_offer<>特价
+master_blacksmith<>熟练的铁匠
+your_summoner_name<>输入你的召唤师名称
+when_upgrade<>统计升级
+material_refund<>材料退款
+arena_pass<>Arena Pass
+daily_quest_pass<>Daily Quest Pass
+arena_pass_desc<>竞技场通行证积分可以通过参加竞技场获得。
+daily_quest_pass_desc<>Daily Quest Pass Point can be acquired from daily quest rewards.
+has_not_skin<>这个英雄没有任何皮肤
+select_hero<>Select Heros
+exit_guild<>退出公会
+event_golden_time_name<>中秋节
+event_golden_time_desc<>在主赛事期间，玩家在 战役 空闲奖励中领取 灯笼 和 月饼。使用它们来参加活动并获得奖励。\n灯笼 和 月饼 是中秋活动货币。活动期结束后会消失。
+event_feed_beast_name<>月饼 盛宴
+event_feed_beast_desc<>将 月饼 交给圣兽。\n获得每种新进化形式的独家奖励。
+event_gem_box_name<>满月夜宝
+event_gem_box_desc<>活动期间领取奖励。\n更多 灯笼，更多奖励。
+feed<>喂养
+source_money_type_180<>∙ 活动空闲奖励\n∙ 中秋节优惠\n∙ 满月夜宝
+source_money_type_181<>∙ 活动空闲奖励\n∙ 中秋节优惠\n∙ 节日签到
+select_buff<>选择增益
+drop_time<>活动开始后 13 天
+golden_time_drop_info<>∙ 1 灯笼: 40 秒\n∙ 1 月饼: 240 秒
+event_midautumn_specialoffer<>中秋节优惠
+event_midautumn_checkin<>节日签到
+event_midautumn_exchange_name<>换灯笼
+event_midautumn_exchange_desc<>收集灯笼并兑换以下无限奖励
+no_limit<>没有限制
+mid_autumn_offer_1<>幸运灯笼
+mid_autumn_offer_2<>快乐月饼
+mid_autumn_offer_3<>朱红花
+item_exchange<>物品交换
+random_reward<>随机奖励
+not_own_this_skin<>还不拥有这个皮肤
+arena_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+daily_quest_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+popup_context_need_resource<>Lack of resources. Collect these & come back.
+warning_you_need_more_resources<>没有足够的资源。 更多的
+town_center<>主要建设
+turret<>炮塔
+event_golden_time_halloween_name<>万圣节时间
+event_golden_time_halloween_desc<>收集 骰子 和 南瓜 来交换奖励。万圣节道具会在活动结束后消失。\n活动结束前 12 小时，闲置宝箱中的 南瓜 将停止掉落。
+source_money_type_210<>∙ 战役 空闲奖励\n∙ 节日优惠\n
+source_money_type_211<>∙ 战役 空闲奖励\n∙ 节日优惠\n∙ {3}\n
+drop_time_halloween<>活动开始后 13 天
+golden_time_halloween_drop_info<>∙ 10 南瓜: {0} (s)
+dice_title<>闹鬼游戏
+dice_guide<>收集并滚动 骰子 - 获得超棒的奖品。\n在万圣节任务中找到更多信息。
+event_halloween_exchange_name<>恶魔交易
+event_halloween_exchange_desc<>不要错过 南瓜。仅在万圣节兑换奖励。\n在{1}收集更多。您想要索取的大量奖励。
+halloween_daily_checkin<>节日签到
+event_halloween_specialoffer<>节日优惠
+halloween_purchase_1<>杰克灯笼
+halloween_purchase_2<>预言骰子
+halloween_purchase_3<>死灵
+roll<>翻滚
+lap_reward<>奖金回合
+lap_x<>圈 %s
+event_halloween_dice<>掷骰子
+hallo_ween<>Halloween
+next_free<>下次奖励
+lap_completed<>一圈完成
+black_friday_remain_x<>该卡有效期为: %s
+black_friday_gem_pack<>黑色星期五店
+event_card_black_friday<>订阅卡
+event_card_gem_pack<>宝石交易所
+black_friday_card_content<>连续7天每天登录领取每日奖励
+black_friday_card<>黑色星期五卡
+black_friday<>Black Friday
+do_you_want_to<>Please confirm to use
+reset_this_slot<>to reset this slot?
+raised_list<>凸起清单
+raise_hero_describe<>在提升列表中选择你想要强化的英雄。他们的等级将被提升到与下方最低等级的五强英雄相同。
+describe_unbinding_raise_level<>解除与该插槽的英雄绑定将使提升的级别恢复到其原始级别。此插槽将在之后可用
+hero_in_pentagram<>Hero is one of the Mighty Five
+hero_in_raise_level<>Hero is in Raised List
+hero_in_ancient_tree<>Hero is in Ancient Tree
+need_to_select<>You need to select a hero
+same_hero_id<>This hero has the same Hero ID with the other hero in Raised List
+revert_to<>Revert to
+binding_sungame<>Binding Sungame
+login_sungame<>Login Sungame
+open_slot_before<>Please open the previous slot first
+on_cooldown<>冷却
+unlock_slot_success<>You've just opened extra slot
+tower<>Tower 
+defense_stage_reward<>Instant Reward
+failed<>Failed
+success<>Success
+require_login_sungame_to_purchase<>You need to login by Sungame account to occur this transaction
+event_shop_name<>糖果工厂
+event_frosty_ignatius<>冷淡的伊格内修斯
+event_exclusive_offer<>独家提供
+event_xmas_daily_checkin<>铃儿响叮当入住
+event_golden_time<>满满的礼物
+event_xmas_exchange_desc<>用拐杖糖交换礼物。
+xmas_purchase_1<>圣诞快乐
+xmas_purchase_2<>乔利圣诞节
+xmas_purchase_3<>花式圣诞节
+xmas<>圣诞
+need_login_by_sungame<>您需要通过Sungame帐户登录
+binding_success<>绑定成功
+full_of_gift_name<>圣诞老人麻袋
+full_of_gift_desc<>打开“圣诞老人的麻袋”即可获得令人惊讶的礼物。
+drop_time_xmas<>活动开始后 13 天
+full_of_gift_drop_info<>1个圣诞老人的麻袋将下降每隔3600秒。
+reward_pool<>环叮当
+completed_level_x<>做得好！ 您已经完成等级通行证 %s
+need_reload_data<>需要重新加载数据
+need_set_formation_road_x<>道路 %s 至少需要一位英雄
+wave_x<>波 %s
+happy_new_year<>新年快乐\n
+new_year_golden_time_name<>快乐时刻
+new_year_golden_time_desc<>收集明信片，玩“幸运的祝福”并赢得超级奖品。 明信片可以从空闲奖励中获得。
+drop_time_new_year<>活动开始后 13 天
+event_new_year_card<>祝福卡
+new_year_remain_x<>接下来的 %s天，您将不断获得奖励。
+event_new_year_card_content<>连续14天每天登录领取每日奖励
+event_new_year_lottery<>幸运的祝愿
+event_new_year_exchange<>告别旧
+new_year_golden_time_drop_info<>冷却一滴：%s秒。 最多洗劫的明信片取决于闲置时间的最长小时数。
+lottery_title<>幸运的祝愿
+source_money_type_230<>明信片
+event_ignatius_name<>FURY IN FREEZE
+event_ignatius_desc<>挑战超级老板-冰霜伊格纳修斯获得有价值的奖品
+highest_damage<>伤害最高
+new_year_card_title<>祝福卡
+xmas_daily_checkin_title<>铃儿响叮当入住
+event_xmas_golden_time_name<>满满的礼物
+event_xmas_shop_name<>糖果工厂
+hero_linking_description<>部署以下 {0} 个英雄
+select_hero_for_linking<>适当的英雄
+friend_hero_support<>友情支持建议
+hero_linking_description_2<>部署 {1} 星的英雄 {0}
+time_to_move_x<>时间仍切换英雄：
+star_hero<>星
+remove_hire_success<>成功从链接中删除英雄\n
+hire_success<>部署英雄成功链接
+my_support_hero<>变更支援英雄
+require_unique_hero_id<>已选择此英雄或其升级。
+describe_hero_for_hire<>选择一个英雄来支持朋友。
+require_at_least_one_your_hero_in_linking<>需要至少一个英雄是你的。
+data_updated<>数据已更新。
+feature_maintain<>功能正在维护中。
+hero_in_support_hero_linking<>该英雄在支持的英雄列表中。
+hero_in_linking<>该英雄处于链接功能。
+hero_support_for_friends<>您的支持英雄榜
+feature_available_in_s<>此功能将在 %s中可用
+chest<>胸膛
+loose<>打败
+event_lunar_new_year_login<>春季芽采摘
+event_lunar_new_year_login_title<>春季芽采摘
+lunar_path_dice_title<>繁荣大道
+lunar_path_dice_desc<>可以从破土动工任务获得红色骰子并与宝石一起购买。 掷出一个红色骰子，您将获得5 护身符，而公会则获得1个事件点。
+lunar_path_quest_title<>破土动工任务
+lunar_path_quest_desc<>完成限时任务以获得奖励[红色骰子。 任务是在活动时间每天重置。
+require_chap_boss<>Require Expel Devil %s
+new_year_golden_time_title<>快乐时刻
+event_lottery_title<>幸运的祝愿
+event_new_year_exchange_title<>告别旧
+event_lunar_path_shop<>财神店
+event_lunar_path_exchange_name<>财神店
+event_lunar_path_exchange_desc<>收集护身符交换奖励。 需要达到相应的驱逐魔鬼水平才能解锁相应的礼物。
+event_lunar_path_quest<>破土动工任务
+lunar_new_year<>农历新年
+lunar_path_dice<>红色骰子
+lunar_new_year_path<>繁荣大道
+event_lunar_path_boss<>驱逐魔鬼
+event_lunar_path_boss_title<>驱逐魔鬼
+event_lunar_path_boss_desc<>对抗邪恶，获得奖励。 邪恶只有在玩家加入公会时才能战斗。
+finish<>完
+event_lunar_new_year_exchange<>幸运钱
+event_lunar_new_year_exchange_title<>幸运钱
+event_lunar_new_year_exchange_desc<>使用红色信封交换礼物
+event_lunar_elite_summon<>精英召唤
+lunar_path_purchase_1<>富裕的农历新年
+lunar_path_purchase_2<>和平农历新年
+lunar_path_purchase_3<>繁荣农历新年
+event_lunar_path_bundle<>春季购物
+golden_time_lunar_new_year<>春节
+golden_time_lunar_new_year_name<>春节
+golden_time_lunar_new_year_desc<>收集红色信封交换奖励。 红色信封越多，礼物越大。
+drop_time_lunar_new_year<>活动开始后 13 天
+golden_time_lunar_new_year_drop_info<>每1200秒下降一次红色信封。
+source_money_type_243<>在竞选礼物中收到
+free_summon<>免费召唤
+select_elite_summon_wish<>精英召唤英雄榜
+gem_summon<>保持转弯
+need_summon_more<>保证在下一个接收
+event_lunar_new_year_bundle<>春天的礼物
+event_lunar_new_year_bundle_title<>春天的礼物
+event_lunar_new_year_bundle_desc<>在活动期间，购买这些礼包可获得珍贵的物品。
+summon_more_to_gain_reward<>再召唤一次时间来获得愿望奖励
+valentine_checkin<>相亲
+valentine_checkin_title<>相亲
+valentine_checkin_des<>爱不容错过。 完全登录以获得爱情礼物。
+valentine_love_challenge<>丘比特的挑战
+valentine_love_challenge_title<>永恒的爱
+valentine_love_challenge_des<>与老板战斗，展现爱的坚强。 您将获得有价值的奖励。
+valentine_store<>浪漫礼物
+valentine_store_des<>为什么不这样一个不错的人喜欢你买这些礼物？
+event_valentine_open_card<>爱情测验
+event_valentine_open_card_title<>爱情测验
+event_valentine_open_card_des<>使用巧克力解锁爱情测验片段，以获得所需的礼物。 完成爱情测验的第二章以获取Entia皮肤。
+valentine<>情人节
+event_lunar_skin_bundle<>龙部落的女王
+event_lunar_skin_name<>Longmu Arryl
+select_wishing_reward_for_round<>首先，选择一章所期望的礼物%s
+select_card_wish_list<>愿望清单
+item_lock<>完成上一章即可解锁
+unlock_round<>第%s章的愿望
+need_select_card_wish<>请先选择您想要的奖励。
+max_round<>爱情测验已经完成。
+item_not_select<>您已经收到此项目。
+round_x_wishing_reward<>第%s章奖励板
+select_round<>Available Wishlist
+social_tab<>社区
+social_tab_title<>社区
+social_tab_des<>感谢您在Summoners Era度过您的时间。 让我们加入我们的社交渠道以获取最新更新。 大量的活动和礼物等着您。
+social_reward_desc<>访问我们的社区并首次获得%s。
+can_not_claim<>资源正在被开发。
+in_use_skill<>正在使用
+use_skill<>采用
+detail<>详情
+next_wave<>下一波
+stage_record<>玩家建议
+wave_x_record<>波%s的结果
+need_upgrade_main_construction<>塔的水平不低于主要结构的水平。
+player_stage_record<>你的战争
+price_open_card_x<>每个开口费%s
+new_hero<>礼炮新英雄
+new_hero_quest_2<>欢迎使命
+select_hero_all_formation<>每个阵容至少需要一个英雄 
+arena_team_shop<>骑士店 
+arena_desc<>单场战斗 
+arena_3v3_desc<>团体赛 
+team<>阵容 
+defense_your_team<>定义
+defeat<>打败 
+victory<>胜利
+do_you_want_save_formation<>您尚未保存您的团队。 您要保存吗？
+hero_in_arena_team<>英雄在武术竞技场。
+new_hero_bundle_title<>协同捆绑 
+event_merge_server_quest_tittle<>快速启动任务 
+event_merge_server_quest_desc<>在服务器合并事件之际，将为您提供大量的活动和礼物。 
+merge_server_quest<>快速启动任务 
+merge_server_check_in<>7天团结
+merge_server_checkin_title<>7天团结
+merge_server_exchange<>合并服务器交换 
+merge_server_bundle<>供应包 
+merge_server_accumulation<>累积点 
+event_merge_server<>服务器合并 
+event_merge_server_accumulation_tittle<>累积点 
+event_merge_server_accumulation_desc<>完成快速启动任务并获得联盟点以获得奖励。
+event_merge_server_exchange_title<>合并服务器交换
+event_merge_server_exchange_desc<>这些项目将在新服务器中为您提供很大帮助。 
+new_hero_summon<>传奇召唤 
+new_hero_spin<>魅力阶梯 
+rose_spin<>魅力阶梯 
+review_skin<>英雄预览  
+new_hero_checkin_title<>祝福新英雄
+noti_binding_account<>您已经玩了一段时间，但是没有关联您的帐户。 为避免数据丢失，你为什么不现在连结您的帐户？
+binding_account_now<>链接
+hero_food_faction_info_5<>当火，水，自然和深渊派系英雄进化时，用于替换所需的材料
+hero_food_faction_title_11<>月球 (水)
+hero_food_faction_info_11<>用来发展水派系英雄 
+hero_food_faction_title_12<>月球 (火)
+hero_food_faction_info_12<>用来发展火派系英雄 
+hero_food_faction_title_13<>月球 (深渊)
+hero_food_faction_info_13<>用来发展深渊派系英雄 
+hero_food_faction_title_14<>月球 (自然)
+hero_food_faction_info_14<>用来发展自然派系英雄 
+hero_food_faction_title_15<>太阳 (阳光)
+hero_food_faction_info_15<>用来发展阳光派系英雄 
+hero_food_faction_title_16<>太阳 (黑暗)
+hero_food_faction_info_16<>用来发展黑暗派系英雄 
+regression<>回归 
+regression_reward<>退回物料 
+event_merge_server_bundle_tittle<>供应包 
+event_merge_server_bundle_desc<>您可以从游泳池中选择2件商品进行购买。
+select_item_pool<>项目清单 
+select_x_item<>请选择2个项目 
+confirm_regression<>你一定要回归这个英雄？
+evolve_invalid<>没有足够的英雄进行多重进化 
+device_not_support<>您的设备不支持与游戏兼容。 
+not_register<>帐户尚未注册.
+event_easter_egg<>复活节事件
+easter_egg_check_in<>来自上帝的礼物 
+easter_egg_checkin_title<>来自上帝的礼物
+easter_egg_bunny_card<>兔子卡 
+event_easter_egg_bunny_tittle<>兔子卡 
+event_easter_egg_bunny_desc<>您将收到与您的级别相对应的玉，泰坦之魂和黄金。 礼物将在%s天之内每天发送。
+purchased<>已购买 
+easter_egg_limited_offer<>Icarus Easter Bunny 
+event_easter_limited_offer_tittle<>ICARUS EASTER BUNNY 
+easter_egg_limited_offer_desc<>千万不要错过获得Icarus的有限时间皮肤的机会。
+easter_egg_hunt<>复活节彩蛋收集 
+easter_egg_break<>粉碎复活节彩蛋
+egg_hun_name<>复活节彩蛋收集 
+egg_hun_desc<>鸡蛋和锤子可以通过许多活动获得。 我们去收集吧。
+egg_hun_drop_1<>- 每1200秒放入战役。\n- 在竞技场和武术竞技场 中赢得每场胜利之后。\n- 在每个日常任务中。
+egg_hun_drop_2<>-通过了地牢阶段100； 300\n-完成所有日常任务。\n-每100 银蛋合并\n-在事件包中。 
+egg_hun_drop_3<>- 万一每日入住 \n- 合并10 金蛋\n- 在事件包中。 
+hammer_drop_1<>-通過了地牢階段200; 400\n-竞技场中每{0}/20場胜利\n-活動包 
+hammer_drop_2<>- 万一每日入住 \n- 在事件包 
+new_hero_quest_tittle_2<>欢迎使命
+new_hero_quest_desc_2<>完成这些任务，以获得更多的星体之星事件活动
+new_hero_spin_2<>宇宙征服 
+new_hero_login_2<>祝福新英雄 
+new_hero_bundle_2<>协同捆绑 
+new_hero_collection_2<>专用赏金 
+new_hero_collection_tittle_2<>专用赏金 
+new_hero_collection_desc_2<>您获得的Diadora越多，收到的礼物就越多。
+rose_spin_2<>宇宙征服
+smash_egg<>粉碎 
+smash_egg_desc<>粉碎鸡蛋并获得奖励。 您可以点一下鸡蛋，看看会收到什么。 
+egg_combine<>转换鸡蛋 
+combine<>转变
+max_item_select<>您只能选择最多2项。
+hero_in_other_feature<>Hero available to regress is in other feature.
+term_of_use<>使用条款 
+policy<>政策说明 
+welcome_back_login<>欢迎回签
+welcome_back_login_title<>欢迎回签
+welcome_back_quest<>重新加入任务 
+welcome_back_quest_title<>重新加入任务 
+welcome_back_quest_desc<>这些任务将帮助您在长时间的离线时间内赶上游戏变化。
+welcome_back<>欢迎回来 
+idle_reward<>空闲奖励 
+noti_term_of_use<>通过点击接受，您同意我们的使用条款，并确认您仔细阅读政策说明。
+cannot_purchase_in_pbe<>PBE版本不支持购买。
+new_hero_boss_challenge_3<>电力大赛
+new_hero_boss_challenge_tittle_3<>电力大赛
+new_hero_boss_challenge_desc_3<>您将每天获得前2次即时奖励。 尤其是Charon对上司造成300％的伤害，而对上司只会造成50％的伤害。
+new_hero_quest_3<>欢迎使命
+new_hero_quest_tittle_3<>欢迎使命
+new_hero_quest_desc_3<>完成这些任务，以获得更多的Enule之刃事件活动
+new_hero_login_3<>祝福新英雄 
+new_hero_bundle_3<>协同捆绑 
+new_hero_collection_3<>专用赏金 
+new_hero_collection_tittle_3<>专用赏金 
+new_hero_collection_desc_3<>您获得的Charon越多，收到的礼物就越多。
+new_hero_exchange_3<>调换刀片
+event_new_hero_exchange_name<>调换刀片
+event_new_hero_exchange_desc<>使用Enule之刃交换奖励。
+new_hero_boss_leader_board_3<>荣誉奖杯
+welcome_back_bundle<>超级利润套餐
+welcome_back_bundle_title<>超级利润套餐
+claimable_reward_turn<>与礼物战斗
+new_hero_boss_leader_board_title_3<>荣誉奖杯
+new_hero_boss_leader_board_desc_3<>这个排名是荣誉给对老板造成最大伤害的玩家的地方Enule。
+chest_boss_challenge_damage_info<>一场战斗造成%s伤害，才能获得此宝箱
+birthday_check_in<>生日入住
+birthday_check_in_title<>生日入住
+even_birthday_golden_time_name<>Play more, more birthday gifts
+birthday<>生日快乐
+elune_journey<>海盗岛地图
+birthday_treasure_map<>Hunting Treasure
+final_journey_reward<>宝箱
+complete_journey_x<>完成%s个方向即可接收
+goal_x<>宝物 %s
+move<>瞬移
+need_complete_one_more_journey<>需要完成至少一个方向。
+need_claim_previous_reward<>要求先前的目的地已完成。
+new_hero_collection_4<>专用赏金 
+new_hero_collection_tittle_4<>专用赏金 
+new_hero_bundle_4<>协同捆绑 
+new_hero_skin_bundle_4<>夏日聚会
+event_new_hero_skin_bundle_1_data_4<>Renaks Summer Party
+event_new_hero_skin_bundle_2_data_4<>Enule Summer Party
+new_hero_treasure_4<>海盗岛地图
+unlock_super_monthly_card<>领取奖励，当你购买高级宝石卡
+birthday_bundle<>周年优惠
+event_birthday_bundle_1<>生日快乐
+event_birthday_bundle_2<>难忘的生日
+birthday_check_wheel<>旋转旋转
+birthday_exchange<>礼品兑换
+confirm_stop_spin<>您想结束旋转以获得所有获得的奖励吗？
+event_birthday_exchange_title<>礼品兑换
+event_birthday_exchange_desc<>别忘了交换这些奖励以在此事件中为您提供帮助。
+skin_bundle<>皮肤店
+skin_bundle_view_43<>皮肤组合
+skin_bundle_view_44<>皮肤零售
+stop<>停止
+spin<>旋转
+noti_select_talent<>您要选择此选项吗？
+select_talent<>人才选项
+noti_refresh_talent<>您要续订所有这些选项吗？
+treasure_completed<>您已经完成了宝藏冒险。
+skin_bundle_1_desc<>购买1  - 获取11.不可思议！
+create_team<>创建小队
+create<>创造
+allowed_class<>只能使用这些职业中的英雄
+your_team<>你的英雄
+lobby<>大堂
+invitation<>邀请函
+domain_chest_stage_x_name<>阶段%s
+domain_chest_stage_x_desc<>清除舞台%s以获得奖励
+block_domains_team_chat<>阻止团队聊天
+block_domains_recruit_chat<>阻止招聘聊天
+domains_team<>團隊聊天
+domains_recruit<>招聘聊天
+guild<>公会会员
+verify<>应用
+noti_change_leader<>您确定要让这位玩家成为领导者吗？
+noti_kick_member<>您确定要踢这名球员吗？
+disband<>解散
+noti_disband<>您确定要解散您的团队吗？
+enter_team_name_id<>输入团队名称或ID进行搜索
+leave<>离开
+ready<>准备好
+unready<>未准备好
+noti_leave<>你確定要離開這個團隊嗎？
+domain_name_require<>請輸入您的團隊名稱
+domain_desc_require<>请输入您的团队描述
+crew_disbanded<>您的团队已被领导解散。
+domain_leader_updated<>您的团队负责人已更改。
+fast_create<>快速创建
+default_team_desc<>欢迎加入我的团队！
+default_team_x<>队_%s
+kicked_from_crew<>你被踢出了你的团队。
+domain_challenge_over<>挑战成功
+domain_challenge_congrat<>优秀的！您的团队已完成今天的挑战。
+has_sent_to_mail<>奖励已发送至邮箱。
+synchronize<>同步
+invitation_sent<>受邀
+beta<>测试版
+replay_domain<>最近的比赛
+enter_domain_recruit<>在此处发送有关您团队的信息。
+hot_deal<>热卖
+hero_in_domain<>英雄在域中
+party<>英雄派对
+lose<>战斗失败
+equipped<>配备
+show_skin<>显示皮肤
+hero_release_collection<>收集任务
+hero_release_bundle<>新英雄礼包
+event_hero_release_1<>收集任务
+hero_release_collection_tittle_1<>收集任务
+event_hero_release_bundle_tittle_1<>新英雄欢迎礼包
+feature_open_at_version_s<>此功能将在 %s 版本开放
+feature_open_at_version_s_time_s<>此功能将在 %s 之后的版本 %s 中打开
+event_hero_release_summon_1<>传奇召唤 
+expire_in_s<>%s 后过期
+hero_release_collection_desc_1<>召唤 Cernunous 来解锁成就
+hero_release_daily_quest_tittle_1<>祝福新英雄 
+instantly_get<>立即索赔
+claim_daily<>每日申领
+bonus_login_days_s<>%s 天后登录奖励
+hero_release_daily_quest<>活动每日任务
+subscription_packs_2<>新人卡
+subscription_packs_3<>退伍军人卡
+subscription_packs_4<>皇帝牌
+require_unready<>你需要“没有准备”来改变球队。
+summon_hero_release_reward<>獎金獎勵
+rate_up<>高掉率
+overview_hero_40004<>自从他出生以来，Cernunos就一直将自己视为丛林和马匹的守护者。 他的职责是引导成群的马到远离猎人的避难所。 传说在树林里迷路了一段时间的不幸的人总会遇到Cernunos并被引导回家。\nCernunos每击中一个敌人都会获得攻击力。 因此，被Cernunos击中的敌人越多，他就变得越强大
+hero_release_overview<>英雄故事
+guild_season<>盛大的季节
+guild_grand_season<>盛大的季节
+guild_season_in_tab<>参与者
+guild_season_out_tab<>非参与者
+guild_leader<>公会会长
+guild_vice_leader<>副组长
+random_name<>随机名称
+delete_data<>重新加载数据
+warning_delete_data<>您要重新加载数据吗？
+first_Top_Up_Confirm_Choose_Reward<>第一次充值奖励
+overview_hero_50004<>当王后怀孕时，她希望她的儿子像鹰一样勇敢，像狮子一样强壮。众神听到了她的愿望，便答应了。于是男孩格林诞生了，他不是一个英俊的年轻王子，而是一个半鹰半狮的怪物。\n国王非常失望，将他从王位继承人名单中删除。格林在与父亲疏远的环境中长大。为自己感到羞耻，他离家出走。\n有一天，他们的王国被黑暗大军打败了。敌人将国王从高墙上摔下处死。幸运的是，格林突然出现，在空中抓住了他的父亲。他一直飞越大陆，向其他王国寻求增援。正因如此，黑暗大军被击败，不得不撤退。\n虽然还没有继承王位，但格林受到了所有人的喜爱。他翱翔天际，在他的翅膀下保护着每一个无辜的人。
+hero_release_daily_quest_tittle_2<>祝福新英雄 
+hero_release_collection_tittle_2<>收集任务
+event_hero_release_bundle_tittle_2<>新英雄欢迎礼包
+event_hero_release_summon_2<>传奇召唤 
+event_hero_release_2<>来自天堂的怒吼
+first_top_up_content_2<>立即充值并获得奖励！
+first_top_up_content<>选择您的奖金
+first_top_up_main<>第一次充值奖励
+hero_release_collection_desc_2<>获得奖励礼物 Grimm
+Border_Limited_Duration<>%s 天后到期
+first_top_up_reward_confirm<>您将无法重新选择首次购买奖励。 您确定要选择这些礼物吗？
+reset_talent_confirm<>确定重置当前天赋？
+reset_talent<>重启
+change_crew<>改变领导者
+crew<>领导者
+crew_promote<>换
+you_are_new_crew<>“领袖”已改为你。
+first_top_up_content2<>您将在下方获得额外奖励。
+selected_hero<>已选
+customizeble_bundle_1<>可定制的包
+customizeble_bundle_2<>白金可定制捆绑包
+select_2_reward<>选择 2 项
+sold_out<>售罄
+customize_packs<>可定制的包
+selected_2_rewards<>已选 2 件
+select_2_rewards_before_purchase <>首先選擇想要的物品
+flash_sale_new_13<>欢迎礼包
+flash_sale_new_14<>召唤师礼包
+flash_sale_new_15<>精选套餐
+flash_sale_new_16<>升级包1
+flash_sale_new_17<>财富石 包裹
+flash_sale_new_18<>命运石 包裹
+flash_sale_new_19<>升级包2
+buy_stock_remain_x<>购买剩余 %s
+will_get_item<>你会得到
+auto<>自动
+popup_confirm_auto_next_battle<>请确认您要使用此功能！当您输掉一场战斗时，此功能将停止。
+auto_next_battle_off<>自动下一阶段关闭。
+auto_battle_end_in<>阶段 {1} {2}-{3} 将在 {4} 钟后到来。
+button_auto_next_formation<>自动下一阶段
+event_hero_release_3<>新英雄
+hero_release_daily_quest_tittle_3<>红色挑战
+hero_release_collection_tittle_3<>奖金契约
+event_hero_release_bundle_tittle_3<>神圣的火情
+hero_release_collection_desc_3<>收集Moblin并获得额外奖励。
+event_hero_release_summon_3<>传奇召唤 
+auto_battle<>自动对战
+overview_hero_20008<>Moblin是一个想炫耀地精力量的小家伙。在寻找力量的旅程中，地精遇到了一头迷路的大象，两个孤独的生命成为了灵魂伴侣。Moblin将大象命名为 Fanto。\n神不让人失望，经历了一段充满考验和磨难的旅程，Moblin从训练中获得了力量，并与火神签订了契约。但正如他们所说，不要玩火，火神奸诈地在契约中加入了反诅咒。因为他本来就不看好哥布林，甚至认为哥布林是劣等种族。\n诅咒，Moblin遭受身心痛苦。 Fanto没有权力，无法帮助Moblin，只能与他的灵魂伴侣度过一天。诅咒持续了几十年，这也是莫布林和范托一起战斗的多年。范托去找火神，自愿接受他的诅咒以拯救莫布林。火神同意了，凡托变成了史前猛犸象一样的邪恶形态。但是范托的人性依然存在，因为Moblin真诚的友谊使范托的灵魂免于腐化。最后，两个朋友还是在一起，继续前往新的土地。
+bundle_battle_pass_level<>购买等级
+purchase_battle_pass_level_1<>1 级
+purchase_battle_pass_level_2<>5 级
+purchase_battle_pass_level_3<>10 级
+battle_pass<>战斗通行证
+battle_pass_level<>战斗通行证等级
+battle_pass_purchase_level<>购买等级
+battle_pass_title<>战斗通行证
+unlock_battle_pass_1<>战斗通行证捆绑包
+unlock_battle_pass_2<>高级战斗通行证捆绑包
+battle_pass_tab_quest_title<>引号
+button_battle_pass_reward_preview<>预览奖励
+button_battle_pass_unlock_premium<>高级战斗通行证捆绑包
+battle_pass_claim_all<>全部索取
+battle_pass_tab_reward_title<>奖励
+battle_pass_time_end<>赛季在 %s 后结束
+button_battle_pass_unlocked_premium<>高级战斗通行证已解锁
+preview_battle_pass_reward<>战斗通行证奖励
+unlock_premium<>高级战斗通行证捆绑包
+week<>星期
+battle_pass_unlocked<>战斗通行证已解锁。
+confirm_free_battle_reward<>战斗通行证奖励
+confirm_battle_pass_reward<>普通通行证奖励
+claim_confirmed_battle_pass<>索取可用奖励
+confirm_premium_reward_battle_pass<>高级战斗奖励
+battle_pass_cannot_purchase_level<>您已达到最高级别。
+confirm_free_reward_battle_pass<>免费奖励
+overview_hero_60004<>卡洛斯静静地坐在神殿中央。\n事实上，他已经不记得上一次在自己身边感受到这种极度的寂静是什么时候了。自从人类第一次意识到神的存在以来，卡洛斯就被选为古代神的祭司。他帮助传达了他的主人的信息、预言和可怕的警告。每当她看到人类听到神谕从他嘴里掉下来后跪地时，他就沉溺于一种力量的感觉，看到他们恐惧地颤抖着，让他更加渴望力量。或许，他太贪心了。为了保持轰动，他在没有古神教诲的情况下，散布关于瘟疫、战争和灾难的虚假预言，用自己的刺绣梦魇将世界天翻地覆。\n上古之神发现卡洛斯背后的所作所为，决定夺走卡洛斯作为祭司的恩赐，他再也听不到神的声音了。至于人类，被他们在卡洛斯的信仰出卖，他们离开了神殿和它的牧师，让它崩溃到遗忘之地。\n““不。我不能让自己被遗忘！”\n带着这样的决心，卡洛斯戴上了老主人的面具和黑魔法的权杖，踏上了向人类灌输痛苦、愤怒和死亡的噩梦的旅程，就像他曾经侍奉的上帝一样
+hero_release_daily_quest_tittle_4<>黑暗挑战
+event_hero_release_bundle_tittle_4<>神秘商店
+hero_release_collection_tittle_4<>黑色力量
+hero_release_collection_desc_4<>收集Karos并获得额外奖励。
+event_hero_release_4<>上帝冒充者
+event_hero_release_summon_4<>传奇召唤 
+starter_pack_new_23<>齿轮组
+starter_pack_new_24<>召唤师包
+starter_pack_new_25<>英雄包
+starter_pack_choose_hero_noti<>请在此包中选择要购买的英雄！
+starter_pack_sold_out<>此包已购买。
+first_top_up_choose_from<>请从下面的 %s 个奖励中选择 1 个。
+first_top_up_desc<>这些奖励是您进行任何购买时的奖励。
+first_Top_Up_Confirm_Choose_Reward_New<>您确定要选择这些礼物吗？
+free_gem_title<>免费玉
+free_gem_details<>免费观看广告玉
+or<>或者
+create_new_account<>连接到您的钱包以在网站上注册
+instant_unlock_ten_level<>立即获得 10 级
+special_event<>限时任务
+preview_reward<>预览奖励
+reward_info<>完成所有广告后接收
+noti_next_battle_pass<>上赛季剩余的 %s 场经验已经延续到本赛季。
+limit<>限制
+out_of_buy_level_by_gem_time<>玉的购买次数已达到上限。
+buy_level_buy_gem<>使用 玉购买等级
+select_artifact<>选择神器
+available_artifact<>可用 神器
+select_an_artifact<>您需要选择 1 神器。
+overview_hero_10011<>深海中央，漩涡阻挡着人类的脚步，存在着一座文明先进的岛屿。而且，那个岛由以杰罗尼姆为首的白鲨领导。\n居住在奥西王的亚特兰蒂斯的热罗尼姆的白鲨，为王国的繁荣而献身。另一方面，来自波塞多尼斯市的海盗总是以亚特兰蒂斯的财产为目标，准备引发血腥的掠夺。作为对亚特兰蒂斯的忠诚，白鲨不惧怕牺牲自己来对抗残酷的海盗。杰罗尼姆和氏族的勇士们通过多次征服海盗，英勇地保卫了亚特兰蒂斯，但代价太高了。白鲨不断地被海盗追杀，因为无数的海盗也死在了杰罗尼姆和他的战友的威势之下。许多年过去了，白鲨军只有少数精英战士和少数居民居住在龙堡。奥塞国王伤心欲绝，想要保护白鲨最后的后代，他命令杰罗尼姆将部落的居民带到远离亚特兰蒂斯的地方。杰罗宁起初不同意，但同意了国王的命令。临行前，杰罗尼姆还不忘告诉奥塞王：“等我强大了，我会回来和你一起建造亚特兰蒂斯”。
+hero_release_daily_quest_tittle_5<>海洋挑战
+event_hero_release_bundle_tittle_5<>海洋支持
+hero_release_collection_tittle_5<>海宝
+hero_release_collection_desc_5<>收集Jeronim并获得额外奖励。
+event_hero_release_5<>新英雄
+event_hero_release_summon_5<>传奇召唤 
+event_grow_up<>召唤师之路
+new_server_grow_up<>召唤师之路
+event_campaign_boot<>竞选训练营
+new_server_campaign_boot<>竞选训练营
+new_server_campaign_boot_desc<>完成以下任务以获得大量奖励
+event_arena_boot<>训练营
+vip_treasure<>贵宾宝藏
+new_server_vip_treasure<>贵宾宝藏
+new_server_vip_treasure_desc<>升级您的 VIP 通行证并获得独家礼物
+event_spin_new_server_week<>魔术旋转
+have_no_done_quest_to_claim<>你需要完成所有的任务。
+new_server_arena_boot<>名人堂
+new_server_arena_boot_desc<>奖励将通过邮件发送到 %s
+ended<>已到期。
+server_open_week_arena_point<>%s分
+week_spin_available_dice<>可用旋转: 
+new_server_week_spin<>魔术旋转
+server_week_spin_not_available<>你没有任何旋转。
+ranking_NA<>未排名
+new_server_grow_up_desc<>等级越高，收到的礼物越多。
+claim_all_desc<>尝试完成所有任务。
+reach_level<>水平 %s
+select_item_server_week_bundle<>请选择%s个项目 
+black_friday_purchase_1<>小优惠
+black_friday_purchase_2<>中间包
+black_friday_purchase_3<>大包
+event_black_friday_bundle_pack<>最佳优惠
+event_new_server_week_login<>报到
+event_daily_black_friday<>报到
+black_friday_gem_pack_desc<>使用玉交换奖励。
+event_bundle_new_server_week<>支持包
+select_hero_fragment<>选择英雄
+available_hero_fragment<>列出英雄
+server_open_week_no_arena_point<>没有足够的积分来评价。
+choose_arena_chest_reward<>选择奖励
+selected_item<>所选宝箱数量
+max_item_limit<>超过最大数量。
+hero_release_daily_quest_tittle_6<>最初的使命
+event_hero_release_bundle_tittle_6<>龍蛋
+hero_release_collection_tittle_6<>龙之礼物
+hero_release_collection_desc_6<>收集Fragnil并获得额外奖励。
+event_hero_release_6<>新英雄
+event_hero_release_summon_6<>传奇召唤 
+overview_hero_20009<>回到荒野，人族和龙族是亲密的朋友，在光之国度和睦相处。龙族的龙皇弗拉格尼尔和当时的人族领袖菲尔德，是一对英勇的战士。一人一龙，他们准备在黑暗势力的眼前牺牲自己，为保护两个部落的安全而战。\n和平维持了下来，人族以令人眼花缭乱的速度发展着军队和武器，他们也逐渐忘记了龙族的存在。恶棍逐渐将龙变成了狩猎的爱好，武器测试的猎物。不过，龙族对人类始终是友好的，从不攻击人族。龙族逐渐被杀，迫使弗拉格尼尔离开，尽管菲尔德本人试图保护他的密友和龙族。\n弗拉格尼尔和菲勒德之间的友谊还在，只是人们心中的残酷，将两个种族的美好回忆淹没在了过去。
+new_server_arena_boot_2_desc<>奖励将通过邮件发送到 %s
+event_server_week_bundle_2_tittle<>支持包
+event_server_week_bundle_2_desc<>这些包将在游戏冒险中对您有所帮助。
+event_server_week_bundle_tittle<>支持包
+event_server_week_bundle_desc<>这些包将在游戏冒险中对您有所帮助。
+event_server_week_bundle_3_tittle<>支持包
+event_server_week_bundle_3_desc<>这些包将在游戏冒险中对您有所帮助。
+new_server_arena_boot_2<>战术大师
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>荣耀之路
+new_server_tower_bootcamp_desc<>在 龙塔 中到达特定楼层以获得额外奖励。
+event_tower_bootcamp<>荣耀之路
+event_arena_3v3_boot<>战术大师
+event_server_open_2<>新人任务 2
+event_server_open_3<>新人任务 3
+new_server_grow_up_2<>召唤师之路
+fortress<>危险的探险
+new_server_fortress<>危险的探险
+new_server_fortress_desc<>挑战 堡垒 并获得胜利奖励。
+dungeon<>神秘地牢
+new_server_dungeon<>神秘地牢
+new_server_dungeon_desc<>在 地牢 中到达特定楼层以获得额外奖励。
+idle_effect<>特殊效果
+new_server_grow_up_3<>召唤师之路
+note_register<>
+list_idle_effect<>特效列表
+bundle_idle_effect<>特殊效果
+idle_effect_bundle_1<>所有效果
+hero_recommend_game_mode_1_1<>最常用的英雄：战役 正常
+hero_recommend_game_mode_1_2<>最常用的英雄：战役 难
+hero_recommend_game_mode_1_3<>最常用的英雄：战役 极端
+hero_recommend_game_mode_1_4<>最常用的英雄：战役 恶梦
+hero_recommend_game_mode_1_5<>最常用的英雄：战役 疯
+hero_recommend_game_mode_1_6<>最常用的英雄：战役 混乱
+idle_effect_bundle_2<>常见效果
+idle_effect_bundle_4<>随机效应
+idle_effect_bundle_3<>图例效果
+select_item_idle_effect_bundle<>您需要在购买前选择 1 个效果。
+select_idle_effect_fragment<>效果选择
+available_idle_effect_fragment<>可用效果
+hero_recommend<>英雄推荐
+hero_recommend_game_mode_2_-1<>最常用的英雄：龙塔
+hero_recommend_game_mode_4_-1<>最常用的英雄：地牢
+hero_recommend_game_mode_6_-1<>最常用的英雄：竞技场
+hero_recommend_game_mode_most<>最常用的英雄
+wiki<>指南手册
+empty_2<>你没有任何特殊效果。
+event_lunar_new_year_spring_bundle<>财神店
+event_lunar_2022_spring_bundle_1<>和平农历新年
+event_lunar_2022_spring_bundle_2<>繁荣农历新年
+text_describe_reward<>可能获得以下这些物品
+water_box<>水 盒子
+fire_box<>火 盒子
+abyss_box<>深渊 盒子
+nature_box<>自然 盒子
+light_box<>阳光 盒子
+dark_box<>黑暗 盒子
+event_lunar_new_year_spring_box<>弹簧盒
+event_lunar_new_year_exclusive_bundle<>月球守护者
+overview_hero_30003<>恶魔，它们是隐匿在人体内的生物。 人的嫉妒、嫉妒、恶念是魔鬼成长的条件。 随着恶魔的成熟，它们获得了脱离人体的能力，成为独立的生物。\nNero，这样诞生的恶魔，拥有巨大的邪恶力量。 他有能力成倍增加恶魔的数量，并具有入侵人类世界的野心。 “人类必须被恶魔统治”，Nero激烈地宣称。
+hero_release_daily_quest_tittle_7<>恶魔的试炼
+hero_release_collection_tittle_7<>善恶?
+event_hero_release_bundle_tittle_7<>与恶魔交易
+spring_box_limited<>您已打开最大数量的箱子。
+buy_premium_to_get_this<>您需要解锁通行证才能获得这些奖励。
+event_lunar_new_year_tiger_path<>繁荣大道
+tiger_path_decs<>解鎖高級通行證以獲得額外獎勵。
+event_lunar_new_year_tiger_path_guide<>完成每日任务以获得 财富点，提高您的进度并获得奖励。
+select_hero_bundle<>请选择代表高级通行证的 1 位英雄。
+event_lunar_new_year_lion_dance<>第一个来电者小猫
+event_lunar_new_year_lion_dance_decs<>完成每日任务以获得 幸运币，提高您的进度并获得奖励。
+lunar_new_year_tiger_path<>繁荣大道
+hero_release_collection_desc_7<>收集Nero并获得额外奖励。
+event_hero_release_7<>新英雄
+event_hero_release_summon_7<>传奇召唤 
+please_select_box<>请选择一个箱子打开！
+resource_mapping<>资源
+wiki_feature_unlock<>特征
+lineup_recommend_1<>早期游戏推荐
+lineup_recommend_2<>游戏中期推荐
+lineup_recommend_3<>后期游戏推荐
+desc_gem_feature<>可以从游戏中的各种活动和应用内购买中获得。
+please_chose_one_resource<>请选择任何类型的资源以查看有关该资源的信息！
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>武士道
+event_kazetsu_check_in<>道场注册
+event_kazetsu_gift<>武士的決心
+event_kazetsu_gift_desc<>收集 Kazetsu 以獲得獎勵。
+event_kazetsu_bundle<>力量面具
+kazetsu_store_des<>用有限的捆綁包提升你的力量！
+hero_recommend_game_mode_13_-1<>最常用的英雄：武术竞技场 
+event_kazetsu_trial<>Kazetsu的試煉
+sign_in_apple<>使用 Apple 登錄
+you_must_have_a_lineup<>請在進入試用前選擇您的團隊
+start_trial<>去打仗
+reroll<>重新滾動
+want_to_reroll<>你想重投嗎？
+lineup_select<>選擇英雄進行戰鬥
+cant_roll_after_confirm_lineup<>你已經有一個陣容
+noti_has_hero_selected<>請先取消選擇所有英雄
+noti_full_hero_selected_for_trial<>請準確選擇6個英雄
+want_to_start_trial<>现在要审理吗？ 你将无法改变这些英雄。
+cant_unpick_kazetsu<>Kazetsu必須在陣容中
+kazetsu_already_dead<>審判結束，Kazetsu被擊敗
+revive_time<>復活機會還剩
+end_kazetsu_tower<>試煉完胜
+out_of_revive_turn<>不再有復活的機會
+continue_with_apple<>继续使用 Apple
+event_kazetsu_rate_up<>传奇召唤 
+regular_pack<>通用包
+event_kazetsu_boss<>生死戰
+kazetsu_boss_title<>生死戰
+kazetsu_boss_des<>挑战Kazetsu展示你的力量并获得奖励。
+get_limited_skin_now<>千万不要错过获得Kazetsu的有限时间皮肤的机会。
+guild_quest_end<>任务已经结束。
+bonus_hero<>英雄奖励 {1}
+customizeble_bundle_3<>每周定制套餐
+customizeble_bundle_4<>包月定制套餐1
+customizeble_bundle_5<>包月定制套餐2
+easter_egg_exchange_reward<>交换复活节点
+easter_bundle<>复活节礼包
+event_easter_exclusive_bundle<>复活节专属礼包
+easter_egg_exclusive_bundle<>复活节专属礼包
+super_roll<>特制卷
+skip_dice_anim<>跳过滚动动画
+easter_egg_bundle<>复活节礼包
+easter_dice_guide<>掷骰子，每次掷骰子均可获得奖励。
+easter_egg_dice<>复活节骰子游戏
+tap_dice_to_roll<>点击骰子进行掷骰子
+normal_dice<>魔法骰子
+super_dice<>超级骰子
+event_hero_release_8<>烈焰凯撒
+event_hero_release_summon_8<>传奇召唤 
+hero_release_daily_quest_tittle_8<>火势蔓延
+hero_release_collection_tittle_8<>驯服火焰
+hero_release_collection_desc_8<>收集Finde并获得额外奖励。
+event_hero_release_bundle_tittle_8<>温暖的火焰
+overview_hero_20006<>帮助弗拉格尼尔安全撤离的代价仍然困扰着芬德。芬德所坐的宝座是由靠近芬德的战士以及他的龙族盟友的骨头和鲜血制成的。\n芬德被火神赋予了火的力量。与莫布林不同的是，芬德手中的力量赋予了他神力，没有任何反弹。能力越大，责任就越大，芬德被任命为将军，保护光之王国岬角的安全。那一年，芬德在与斯卡萨奇的军队交战时，得知龙族正处于危险之中。因为与弗拉格尼尔的友谊，芬德一边使用火封印加强防御，一边冲回去拯救龙族。凭借出众的实力，芬德的火封印帮助前线军队在死伤惨重的情况下，还是挡住了斯卡萨奇。至于龙族的问题，芬德以他的智慧巧妙地处理，成功将弗拉格尼尔和龙族带入了避难所。但这只是暴风雨前的平静，斯卡萨斯的大军还在拼命吞噬芬德，突破防线，进入光之国度。”
+hero_fragment_1705<>传奇英雄的碎片
+easter_egg_dice_game<>复活节骰子游戏
+event_finde_boss<>老板挑战
+finde_boss_title<>火神的继承人
+finde_boss_des<>挑战Finde展示你的力量并获得奖励。
+event_puzzle_era<>神秘画
+select_hero_pool<>选择英雄
+noti_confirm_select_puzzle<>你会选择这个谜题吗？
+event_puzzle<>神秘画
+can_not_change_hero_this_slot<>此插槽无法更改
+need_fill_up_all_slot<>您需要在开始拼图之前填满所有插槽
+open<>打开
+event_puzzle_finished<>您已完成此活动
+hero_puzzle_complete<>所有谜题都已解决
+do_you_want_to_download_resource<>当游戏资源满载时，游戏体验最佳。 此外，如果不下载，您将无法登录游戏。 你想下载游戏内资源吗？
+birthday_exclusive_bundle<>独家套装
+puzzle<>谜 
+hero_fragment_1805<>水、火、深渊、自然 英雄的片段
+hero_fragment_1905<>阳光、黑暗 英雄的片段
+bundle<>提供 
+dark_vs_light<>命运之战
+birthday_legacy_path<>传承路径
+birthday_legacy_path_guide<>收集 Legacy Pass 以获得通行证奖励。
+birthday_legacy_path_decs<>解鎖高級通行證以獲得額外獎勵。
+select_light_path<>选择
+select_dark_path<>选择
+light<>光 
+dark<>黑暗的 
+select_side_confirm<>您确定选择这一方吗？一旦选择，您将无法更改。
+select_artifact_pool<>文物清单
+birthday_boss_title<>恩典还是恶意
+birthday_boss_des<>挑战首领可获得奖励。特别是，塞莱斯蒂亚和斯卡哈奇对首领造成的伤害是普通角色的两倍，而受到的伤害则只有普通角色的一半。
+birthday_boss<>老板挑战
+preboss_des<>你需要选择一方才能解锁首领挑战。
+navigate_to_dark_light<>选择边
+hero_fragment_1605<>红边英雄碎片：黑暗
+hero_fragment_1505<>红边英雄碎片：阳光
+hero_fragment_1405<>红边英雄碎片：自然
+hero_fragment_1305<>红边英雄碎片：深渊
+hero_fragment_1205<>红边英雄碎片：火
+hero_fragment_1105<>红边英雄碎片：黑暗
+event_hero_release_9<>永恒的对手
+event_hero_release_summon_9<>傳奇召喚
+hero_release_daily_quest_tittle_9<>艰巨的挑战
+hero_release_collection_tittle_9<>强大的力量
+hero_release_collection_desc_9<>收集塞莱斯蒂亚和斯卡哈奇，即可获得额外奖励。
+event_hero_release_bundle_tittle_9<>障碍物减少
+overview_hero_50007<>为什么天使总是要服从命令，却不能按照自己的意愿行事？塞拉斯蒂娅在其他天使兄弟姐妹面前自问，却无人作答。作为一名正直的天使，塞拉斯蒂娅明白自己的使命是帮助弱者，但她内心深处始终渴望自由探索。使命、职责、教条，塞拉斯蒂娅并不喜欢它们，却也无法放弃。天使究竟是否应该干预人类世界？又是什么让天使始终保持警惕？
+overview_hero_60005<>数千年前，恶魔大战爆发之时，一位仙女意外卷入了战火漩涡。她就是斯卡萨奇，一位拥有黑暗之力的仙女。关于这位暗影女神的传说不胜枚举。人们对她知之甚少，只听闻她拥有恐怖的力量。凡是被她盯上的人，都恨不得自己从未存在过。\n\n难道对黑暗的恐惧才是最可怕的吗？不，黑暗中最可怕的是冷酷无情的斯卡萨奇。对她而言，没有善恶之分，任何令她不悦的事物都应被抛弃。
+legacy_point_desc<>普通日常任务：15 点积分\n\n完成所有日常任务：30 点积分
+summoner_lock<>收集10后解锁古书
+watch<>观看广告
+watch_ads<>观看广告
+new_server_grow_up_guide<>提升账户等级即可获得奖励。
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>购买任意套餐即可获得
+first_purchase_nac_price<>购买 1 包超过 %s 即可获得
+first_purchase_nac_price_global<>购买 1 包超过 %s 即可获得
+first_purchase_reward_claimed<>所有奖励均已领取
+claimed<>声称
+first_purchase_hero_desc_1<>火神的继承人
+first_purchase_hero_desc_50006<>月之公主
+zodiac_bundle<>星座套装
+zodiac_constellations<>星座图
+zodiac_quest<>探索
+zodiac_exchange<>交换区
+i_like_it<>点赞并评分
+need_improvements<>之后 
+rate_content_2<>您的意见对我们改进游戏体验非常宝贵。请告诉我们您的想法！
+not_now<>之后 
+quick_open_constellation_map<>快速地图
+overview_hero_20003<>在火山深处，居住着一个世代相传的部落，几个世纪以来一直和平共处。他们与自然和谐共处，以自然为家，以自然为生。他们与自然共同发展，远离现代大学。部落的战士埃特里，表面上却是一个非常普通的居民。他拥有精湛的武艺和丰富的战斗经验，却始终将自己隐藏在农民的伪装之下。埃特里认为力量是野心的源泉，也是战争的导火索。他不愿卷入痛苦的战争，以免部落失去和平。
+event_hero_release_10<>熔岩战士
+event_hero_release_summon_10<>傳奇召喚
+hero_release_daily_quest_tittle_10<>火山探险
+hero_release_collection_tittle_10<>火焰征服
+hero_release_collection_desc_10<>收集艾特里，即可获得额外奖励。
+event_hero_release_bundle_tittle_10<>支持的软件包
+title_event_zodiac<>十二星座挑战
+event_zodiac<>事件星座
+event_zodiac_section_reward<>部门奖励
+rate_content_1<>亲爱的召唤师，希望您游戏愉快，请随时告诉我们您的感受。您的意见将是我们改进产品的动力。
+complete_reward<>星座完成奖励
+star_reward_pool<>奖励等级
+tower_lock_level_require<>达到 %s 级即可解锁此楼层
+tower_lock_out_of_ticket<>门票不够，无法进入塔楼。
+star_reward_pool_condition<>兑换任何等级的物品即可解锁
+collect_pearl_desc<>从交换奖励中收集奖金。\n现在库存：
+not_thing_to_claim<>现在没有任何可以索赔的。
+collect<>收集
+event_vip_treasure<>VIP 增值
+event_vip_treasure_content<>赚取VIP积分，即可获得额外奖励。
+event_skin_challenge<>皮肤挑战
+title_event_skin_challenge<>皮肤挑战
+progress<>进步
+confirm_select_skin<>您将选择这款皮肤作为最终奖励。您确定选择这款皮肤吗？
+not_available_day<>完成前一天的所有任务，然后等到明天才能解锁。
+event_zodiac_map<>地图 
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>强大的武士
+overview_hero_30027<>尼禄将恶魔从人身中释放后，世界陷入邪恶的深渊，到处都回荡着哀嚎和悲恸。愤怒、怨恨、毁灭、绝望，这些词语足以形容当时的世道。\n\n在武士道村，住着一个名叫风津的​​少年。风津的父母在人魔大战中丧生。亲眼目睹亲人牺牲，风津对恶魔怀有极深的仇恨，决心复仇。然而，人类的力量终究有限，世界也已被恶魔的残酷统治所腐蚀，风津只能与恶魔签订契约，跟随他们修炼力量。为了获得恶魔的信任，风津被迫选择了邪恶的道路，疯狂杀戮，甚至无法控制自己。\n\n幸运的是，风津仍然保留着武士的骄傲，决心为父母报仇，最终他获得了恶魔的力量。风津将武士精神与此结合，戴上恶魔面具，单枪匹马消灭了统治他村庄的所有恶魔。救出村民后，风津踏上了寻找尼禄的旅程。
+event_hero_release_11<>强大的武士
+event_hero_release_summon_11<>傳奇召喚
+hero_release_daily_quest_tittle_11<>训练之旅
+hero_release_collection_tittle_11<>盟友教会
+hero_release_collection_desc_11<>收集风雨，即可获得额外奖励。
+event_hero_release_bundle_tittle_11<>支持的软件包
+warning_delete_account<>已删除的账号无法恢复。您确定要删除账号吗？
+event_skin_challenge_day_not_available<>任务将在接下来的几天内解锁。
+delete_account<>删除帐户
+delete_account_rule_1<>选择删除账号后，您游戏内的所有数据将被永久删除且无法恢复。是否继续？
+delete_account_warning_1<>与您的帐户关联的所有社交网络都将被删除。
+delete_account_warning_2<>删除账号后无法恢复。请注意！
+delete_account_rule_2<>请输入“YES”确认您要删除您的帐户。
+tap_here_to_type<>请在此处输入文字
+first_purchase_hero_desc_2<>月之公主
+input_delete_failed<>您输入的单词有误，请重新输入。
+player_deactivated<>此帐户已被删除
+event_skin_challenge_select_layout<>选择皮肤
+please_select_1_skin<>请选择 1 款皮肤开始挑战
+challenges<>战斗挑战
+event_hero_release_12<>大天使
+event_hero_release_summon_12<>傳奇召喚
+hero_release_daily_quest_tittle_12<>天使的指引
+hero_release_collection_tittle_12<>圣恩
+hero_release_collection_desc_12<>收集塞莱斯蒂亚，即可获得额外奖励
+event_hero_release_bundle_tittle_12<>支持的软件包
+flash_sale_new_1<>超级支持包 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>亲爱的召唤师们：\n\n为了确保游戏品质，并提供最安全、最高效的用户体验，我们决定将越南和国际市场的游戏版本合并。合并将于2022年9月30日进行。\n\n因此，越南和国际市场的《召唤师时代》将合并为一个版本——《召唤师时代》。为了继续参与游戏，召唤师们需要将现有账号与社交媒体平台关联，并登录《召唤师时代》国际版。所有账号数据和游戏进度都将在关联完成后恢复。请尽快关联您的账号！\n\n此致，
+go_to_binding<>Liên kết
+flash_sale_new_2<>超级支持包 2
+flash_sale_new_3<>超级支持包 2
+flash_sale_new_4<>超级支持包 3
+flash_sale_new_5<>超级支持包 3
+flash_sale_new_6<>超级支持包 4
+flash_sale_new_7<>超级支持包 5
+event_mid_autumn<>中秋
+overview_hero_30008<>尼禄将亡灵从人身中释放出来的那天，世界满目疮痍，瓦砾遍地，毒气弥漫。人烟遍布，自然界弥漫着血腥味。亡灵的密度越来越高，甚至附身于无生命的物体之中。原本是深渊石英的科佐格，因死灵的侵蚀而变成了怪物。然而，在科佐格身上聚集的亡灵之中，依然存在着善良的灵魂，使他能够在平静沉思之时恢复活力。正是在这样的时刻，科佐格想要拯救人类，于是他联系了曾经沉睡于死寂深渊的龙族公主艾琉。
+event_hero_release_13<>灵石人
+event_hero_release_summon_13<>傳奇召喚
+hero_release_daily_quest_tittle_13<>精华挑战
+hero_release_collection_tittle_13<>灵魂集结
+hero_release_collection_desc_13<>收集 Kozorg 即可获得额外奖励。
+event_hero_release_bundle_tittle_13<>支持的软件包
+battle_pass_store<>战斗通行证商店
+confirm_exchange<>您确定要更换这件商品吗？
+event_hero_boss_title_2<>精神净化
+event_hero_boss_des_2<>你确定要兑换%s吗？
+event_hero_boss_2<>首领挑战
+battle_pass_exchange<>交换区
+confirm_remove_food<>您确定要将此英雄从以下功能中移除，以便用作升级食物吗？
+failed_quick_remove<>这个英雄现在不能作为食物使用了。请手动将其从功能中移除！
+price<>价格 
+popular<>稀有度
+recent<>发布日期
+skin_shop<>皮肤包
+there_is_no_current_sale<>抱歉，特价套餐目前暂不可用。它们暂时不在本地，但很快就会恢复供应。
+confirm_remove_hero<>您确定要从以下功能中移除此英雄吗？
+failed_remove_hero<>该英雄无法快速移除。请手动从功能中移除。
+hero_lock_in_feature<>英雄锁定功能
+black_friday_bundle<>黑色星期五超级促销
+social<>社交网络
+friends<>朋友
+guide_book<>指南手册
+customer_service<>客户服务
+overview_hero_60003<>Zalidus 在他出生时杀死了自己的母亲，这表明他的一生将与杀戮和屠杀相结合。\nZalidus 在黑暗深渊中长大，在那里生存意味着杀死他人，Zalidus 是其中最优秀的。他开始只是为了生存而做任何事情，最终为了钱而杀人，做着肮脏和令人作呕的刺客工作。\n如果你曾经在黑暗深渊附近徘徊，突然一个明亮的十字 X 在黑暗中亮起，你知道扎里杜斯正在把你送到来世
+overview_hero_60006<>曾经有一位美丽的光之图书馆牧师，名叫赫塔，她的名声不仅在于她的美貌，还在于她对魔法的渊博知识。\n牧师对知识的渴望带领她越走越远，进入了黑暗魔法的土地。她掌握的古老法术越多，她的学者们就越焦虑。直到某一天，赫塔因研究禁术而受到魔法委员会的审判。奇怪的是，她并没有做任何解释，只是简单的点了点头，赫塔知道这片土地已经满足不了她的渴望了。\n在她被判处死刑的那天，赫塔已经无处可寻，就像她刚刚消失在空气中一样。没过多久，传闻中就有人看到了一个带着精灵耳朵的陌生美女在黑暗城堡里游荡……
+event_hero_release_14<>暗影之刃
+event_hero_release_summon_14<>傳奇召喚
+hero_release_daily_quest_tittle_14<>死神的挑战
+hero_release_collection_tittle_14<>邪恶集团
+hero_release_collection_desc_14<>收集扎利杜斯，即可获得额外奖励。
+event_hero_release_bundle_tittle_14<>支持的软件包
+event_hero_release_15<>魅力剑客
+event_hero_release_summon_15<>傳奇召喚
+hero_release_daily_quest_tittle_15<>耐力训练
+hero_release_collection_tittle_15<>令人感动的礼物
+hero_release_collection_desc_15<>收集赫塔，即可获得额外奖励。
+event_hero_release_bundle_tittle_15<>支持套餐
+version_recent<>最新版本
+version_next<>下一个版本
+maintenance<>维护公告
+event_skin_challenge_detail<>收集活动物品来兑换你的许愿皮肤
+already_exchange<>交换
+go_event<>查看详情
+customer_service_content<>如果您在游戏过程中遇到任何问题，请随时联系我们的客服。我们热情周到的工作人员随时准备为您提供帮助。
+included_free<>包含免费奖励
+understand<>明白了
+event_airyuu<>自然的精髓
+title_event_airyuu<>自然的精髓
+airyuu_check_in<>自然的精髓
+airyuu_checkin_title<>敬礼
+time_next_day<>第二天
+airyuu_treasure<>龙之宝藏
+airyuu_treasure_infor<>用户 水珠 打开宝箱并获得惊人的奖励。
+airyuu_quest<>龙之国度大冒险
+airyuu_quest_title<>龙之国度大冒险
+wait_check_in<>请明天再来
+airyuu_bundle<>龙之召唤
+airyuu_bundle_infor<>如果您为艾琉购买这些礼包，她会很高兴的。
+airyuu_trial<>圣林日记
+airyuu_trial_infor<>挑战艾琉的仆从，即可获得奖励
+airyuu_collection<>龙的祝福
+airyuu_evolution_title<>龙的祝福
+check_in<>您今天已办理入住。
+recheckin<>重新入住
+confirm_use_all<>你会用到这些东西，对吧？
+open_x1<>打开 1
+open_all<>全部打开
+airyuu_evolution_quest_title<>龙的祝福
+history<>历史 
+chance<>试图 
+select_difficult<>选择难度
+difficult<>困难
+patch<>修补
+event_new_hero_rateup_summon_2<>傳奇召喚
+created_time<>出席时间
+enable_animation<>启用动画
+transform<>切换表单
+confirm_use_resource<>你想使用这些奖励吗
+event_new_year_bundle<>新年套餐
+new_year_purchase_1<>小卡包
+new_year_purchase_2<>中型卡包
+new_year_purchase_3<>大卡包
+event_lunar_2022_spring_bundle_<>幸福与繁荣
+show_more_information<>派系奖金详情
+event_community<>社区活动
+event_tower_of_eitri<>埃特里之塔
+tower_of_eitri_tower<>龙之塔
+tower_of_eitri_tower_infor<>龙之塔
+tower_of_eitri_exchange<>交换区
+tower_of_eitri_exchange_infor<>交换区
+tower_of_eitri_bundle<>塔楼建筑包
+tower_of_eitri_bundle_infor<>塔楼建筑包
+tower_of_eitri_quest<>艾特里的冒险
+tower_of_eitri_quest_title<>艾特里的冒险
+tower_of_eitri_quest_infor<>艾特里的冒险
+current_floor<>当前楼层
+build<>建造
+skip_animation<>跳过动画
+normal_floor_reward<>普通地板奖励
+golden_floor_reward_bonus<>金色楼层奖励
+confirm_use<>你想使用
+hammer_in_pool<>兑换奖励后即可获得艾特里的锤子。楼层越高，获得的锤子越多。现已开放：
+reach_limited_exchange<>交易所数量已达上限！
+reward_milestone<>总楼层数
+claim_and_close<>领取奖励
+event_hero_release_16<>永恒地狱
+event_hero_release_summon_16<>傳奇召喚
+hero_release_daily_quest_tittle_16<>火的挑战
+hero_release_collection_tittle_16<>阿里恩之焰
+hero_release_collection_desc_16<>收集艾瑞恩，即可获得额外奖励。
+event_hero_release_bundle_tittle_16<>支持的软件包
+overview_hero_20002<>艾琳是一位火焰女英雄，被誉为南方王国最杰出的战士之一，令敌人闻风丧胆，令盟友敬仰不已。然而，尽管她以骁勇善战著称，艾琳却并非冷酷无情。她经常前往附近的村庄，用她的火焰魔法帮助村民。\n\n一天，在执行保护村庄免受肆虐沙尘暴侵袭的任务时，艾琳遇到了火焰凤凰战士伊卡洛斯。他们并肩作战，火焰交融，迸发出耀眼的光芒。他们很快意识到彼此之间有着特殊的羁绊，一种如同他们所掌控的火焰般炽烈燃烧的爱。\n\n从那天起，艾琳和伊卡洛斯形影不离，一同游历王国，为正义而战。艾琳的性格由她对人民的爱、她精湛的火焰魔法以及她与火焰凤凰战士伊卡洛斯之间牢不可破的羁绊所塑造。
+event_hero_release_17<>海洋守护者
+event_hero_release_summon_17<>传说召唤
+hero_release_daily_quest_tittle_17<>潮汐挑战
+hero_release_collection_tittle_17<>骨宝
+hero_release_collection_desc_17<>收集Osse，即可获得额外奖励。
+event_hero_release_bundle_tittle_17<>支持包
+overview_hero_10007<>奥斯是海洋的传奇守护者，受到所有海底生物的敬仰。他拥有蛇的下半身，却是一位人。奥斯诞生于深海，肩负着保护海洋免受掠夺资源和伤害海洋居民的重任。他是一位勇猛强大的战士，能够召唤海洋之力助他作战。\n\n在其他种族中，奥斯以其令人畏惧的威名而闻名。但任何以海洋为家的生物都知道，奥斯对它们怀有深深的爱与敬意。这位海洋守护者会不惜一切代价保护海洋免受伤害。因此，奥斯奉行着一条原则：绝不让任何威胁海洋王国和平的人或事物逃脱，尤其是海盗。
+event_hero_release_18<>海洋之心
+event_hero_release_summon_18<>传说召唤
+hero_release_daily_quest_tittle_18<>复仇之旅
+hero_release_collection_tittle_18<>海洋之怒
+hero_release_collection_desc_18<>收集迷雾，即可获得额外奖励。
+event_hero_release_bundle_tittle_18<>支持包
+overview_hero_10005<>传说在深海之中藏着一颗名为“海洋之心”的宝石，它蕴藏着无比强大的力量。这个传说流传甚广，以至于越来越多的海盗为了寻找这件宝藏而踏上徒劳的探险之旅。\n\n米斯特出生于一个海盗世家，自幼便在茫茫大海中长大。她的父母和兄弟姐妹是一群形影不离的伙伴，他们的梦想就是独自拥有这颗神奇的“海洋之心”。然而，追逐神秘传说也付出了沉重的代价。米斯特年幼时便遭遇了不幸。在追寻宝藏的过程中，她的家人遭到一个半人半蛇的怪物的袭击，不幸的是，米斯特成了唯一的幸存者。失去一切的米斯特，心中充满痛苦，踏上了复仇之路，决心找到“海洋之心”，用它的力量对抗夺走她幸福的怪物。
+event_boost_first_purchase<>升级
+boost_first_purchase_title_1<>升级 1
+boost_first_purchase_title_2<>升级 2
+boost_first_purchase_title_3<>升级 3
+boost_first_purchase_title_4<>升级 4
+boost_first_purchase_title_5<>升级 5
+boost_first_purchase_title_6<>升级 6
+boost_first_purchase_title_7<>升级 7
+boost_first_purchase_title_8<>升级 8
+boost_first_purchase_title_9<>升级 9
+boost_first_purchase_title_10<>升级 10
+boost_first_purchase_title_detail_1<>现在就加强你的球队吧
+boost_first_purchase_title_detail_2<>现在就加强你的球队吧
+boost_first_purchase_title_detail_3<>现在就加强你的球队吧
+boost_first_purchase_title_detail_4<>现在就加强你的球队吧
+boost_first_purchase_title_detail_5<>现在就加强你的球队吧
+boost_first_purchase_title_detail_6<>现在就加强你的球队吧
+boost_first_purchase_title_detail_7<>现在就加强你的球队吧
+boost_first_purchase_title_detail_8<>现在就加强你的球队吧
+boost_first_purchase_title_detail_9<>现在就加强你的球队吧
+boost_first_purchase_title_detail_10<>现在就加强你的球队吧
+event_seasonal<>夏季节
+seasonal_check_in<>夏季签到
+seasonal_bundle<>夏季套装
+seasonal_daily_checkin<>夏季签到
+seasonal_firework_shop<>夏季套装
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>新的活动即将到来
+more_detail<>细节
+event_server_open_checkin<>新手签到
+seasonal_firework_exchange<>交换区
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 11
+seasonal_exchange<>交换区
+seasonal_firework_creator<>冷饮吧
+seasonal_super_gift<>夏季测验
+seasonal_royal_challenge<>海洋挑战
+not_day_checkin<>请等待第二天再领取
+seasonal_summer_game_main_quest<>完成所有任务即可获得专属皮肤
+complete_%s_more_to_reward<>完成所有任务即可获得专属皮肤
+select_ball_to_exchange<>选择水球
+select_ball_exchange_to<>选择水球
+reselect_exchange_item<>您尚未选择水球
+you_have_no_this_resource<>您没有此商品
+cant_not_exchange_same_item<>无法选择同一商品
+throw_single<>投掷 1
+throw_all<>全部扔掉
+throw_%s_time_execute_target<>投掷 %s 次以执行目标并获得奖励
+exchange_ball<>交换球
+seasonal_throw_ball<>夏季测验
+can_not_reselect_hero<>你确定选择这位英雄吗？\n\n一旦进入游戏，就无法重新选择。
+make<>制作
+make_single_mojito<>制作1杯莫吉托
+quick_make<>快速制作
+seasonal_summer_game_title_detail<>打开夏季礼盒，即可获得水球并参加问答游戏。
+tap_for_more_information<>点击横幅查看更多详情
+event_hero_release_summon_19<>恭敬的称呼
+event_hero_release_19<>龙之国度冒险
+overview_hero_40027<>当龙族遭到人类追捕时，龙族公主艾琉还很小。芬德和他的侍从们护送艾琉前往安全之地，那里只有艾琉一人。数百年来，小公主艾琉已长成一位美丽的少女。她往返于人类世界和龙族之间，学习知识，也寻找着自己的身世。艾琉为人真诚纯洁，深受大家喜爱。她认为自己和所有人一样，懂得喜怒哀乐。当艾琉得知祖先的悲惨遭遇时，她又会作何反应呢？
+hero_release_daily_quest_tittle_19<>神圣森林日记
+hero_release_collection_tittle_19<>龙的祝福
+hero_release_collection_desc_19<>收集艾琉即可获得额外奖励。
+event_hero_release_bundle_tittle_19<>龙队征召
+first_purchase_hero_desc_20001<>凤凰重生
+first_purchase_hero_desc_40027<>龙之公主
+buy_point<>赚取积分
+birthday_buy_level<>获得传承通行证积分
+birthday_level_bundle_1<>通过广告赚钱
+birthday_level_bundle_2<>赚取积分
+birthday_level_bundle_3<>赚取积分
+go_to_event<>加入活动
+flash_sale_evolve_title<>闪购英雄
+popup_not_appear_anymore<>您确定要关闭弹窗吗？关闭后将无法重新打开该软件包。
+auto_next_battle_in<>下一层从……开始
+event_hero_release_20<>圣巫师
+event_hero_release_summon_20<>传说召唤
+hero_release_daily_quest_tittle_20<>魔法训练
+hero_release_collection_tittle_20<>魔法集结
+hero_release_collection_desc_20<>收集伊格内修斯即可获得额外奖励。
+event_hero_release_bundle_tittle_20<>神圣之光
+overview_hero_50011<>在一个神秘而古老的世界，光明与黑暗的永恒之战在此上演，一位独特而神祇般的存在翱翔于天际，他就是伊格纳修斯。他外形如同雄伟的飞鸟，羽毛闪耀着耀眼的光芒，如同太阳般璀璨夺目。在天使长塞莱斯蒂亚的劝说下，伊格纳修斯集结了光明阵营中众多强大的盟友，组成了一支对抗斯卡哈奇军队的强大力量。他如同希望的灯塔，守护着光明阵营，对抗黑暗阵营的邪恶势力。
+not_have_hero_meet_requirement<>没有英雄符合任务要求。
+auto_rematch_in<>重赛
+tower_progress<>塔楼进展
+event_boss_challenge<>首领挑战
+event_boss_challenge_challenge_tower<>挑战塔
+event_boss_challenge_boss_quest<>首领任务
+event_boss_challenge_shop<>老板包
+event_boss_challenge_quest_title<>科佐格的挑战
+event_boss_challenge_desc<>完成每日任务即可领取挑战币
+boss_challenge_shop_title_1<>每日套餐
+boss_challenge_shop_title_2<>活动包
+event_mid_autumn_quest_name<>每日任务
+event_mid_autumn_quest_title<>每日任务
+event_mid_autumn_quest_content<>完成任务即可获得月饼
+event_festival_market_name<>中秋集市
+event_mid_autumn_market_title<>中秋集市
+event_mid_autumn_market_des<>购买礼包即可获得活动物品
+event_mid_autumn_special_offer_title<>中秋节优惠
+event_mid_autumn_text_quest_bet<>赌注 {1} 灯笼 在中期竞技场
+event_mid_autumn_arena_title<>中秋竞技场
+event_mid_autumn_arena_name<>中秋竞技场
+event_mid_autumn_arena_content<>投注实力更强的球队，有机会获得多个点亮的灯笼。\n\n比赛日最后30分钟内无法投注。
+event_mid_autumn_arena_item_text_attacker_team<>攻击者
+event_mid_autumn_arena_item_text_defender_team<>捍卫者
+event_mid_autumn_arena_item_text_total_bet<>总投注额
+event_mid_autumn_arena_item_text_battle_end<>战斗结束了
+event_mid_autumn_arena_item_text_battle_time<>结束: %s
+event_mid_autumn_arena_item_text_day<>天
+event_mid_autumn_arena_item_text_bet<>赌注
+area_bet_title<>赌注
+area_bet<>赌注
+event_mid_autumn_arena_item_text_coming_soon<>即将推出
+bet_time_out<>投注时间已结束
+popup_exchange_tower_of_eitri_title_text<>弹出确认
+popup_exchange_tower_of_eitri_ask_text<>你确定要用这些物品进行交换吗？
+event_halloween_quest_title<>万圣节任务
+event_halloween_quest_desc<>完成每日任务即可获得万圣节活动货币。
+event_halloween_shop_title<>万圣节商店
+event_halloween_shop_des<>购买礼包即可获得骰子和南瓜。
+halloween_quest<>万圣节任务
+halloween_shop<>万圣节商店
+want_to_roll_dice<>你确定要掷出所有骰子吗？
+roll_all<>全部滚动
+event_halloween_quest_tavern_all_star<>在酒馆完成任意星级的{1}任务
+piece_adventure_floor<>当前楼层
+event_piece_adventure_quest_title<>活动任务
+event_piece_adventure_desc<>完成任务即可获得冒险钥匙
+piece_adventure_card<>活动冒险
+event_piece_adventure_exchange_name<>事件交换
+event_piece_adventure_exchange_desc<>使用文物交换礼物
+event_piece_adventure_shop_name<>活动商店
+event_piece_adventure_shop_desc<>购买礼包即可获得冒险钥匙和神器碎片
+cannot_unlock_floor<>你需要找到至少一件物品才能进入下一层。
+want_to_unlock_floor<>你确定要在没有收集齐所有物品的情况下进入下一关吗？
+piece_adventure_quest<>活动任务
+piece_adventure_exchange<>事件交换
+piece_adventure_store<>活动商店
+floor_reward_list<>楼层清单
+event_piece_adventure<>冒险碎片
+piece_adventure_shop_title_1<>每日特惠
+piece_adventure_shop_title_2<>活动商店
+next_floor<>下一层
+want_to_open_all<>系统会自动打开宝箱，直到找到奖励物品或钥匙用完为止。你确定要这样做吗？
+open_all_card<>自动开启
+claimed_all_card<>你已经打开了这层楼的所有宝箱。
+not_click_start<>您必须点击“开始”才能开始游戏。
+open_card_tut_text<>选择宝箱寻找宝藏
+max_floor<>您已到达本次活动的最后一层。期待在下次活动中再次见到您。
+title_black_friday_sale_select_item<>黑色星期五超级优惠！！！
+select_5_reward<>请选择您想购买的 5 件商品。
+your_choice_text<>已选项目
+get_bonus<>确认
+need_select_5_reward<>您必须选择 5 件商品
+want_to_get_bonus<>确认所选项目
+have_max_items<>您只能选择 5 件商品
+black_friday_sale_1<>普通捆绑包
+black_friday_sale_2<>超级套装
+black_friday_sale_3<>超级套装
+event_black_friday_new_version<>黑色星期五特惠套装
+title_black_friday_sale_super_deal<>黑色星期五超级优惠！！！
+drop_time_thanks_giving<>活动开始后 13 天
+thanks_giving_shop<>感恩节商店
+thanks_giving_dice_title<>收获游戏
+event_golden_time_thanks_giving_name<>收获时节活动
+thanks_giving_quest<>感恩节探索
+event_thanks_giving_exchange_name<>交换南瓜
+event_thanks_giving_specialoffer<>感恩节特惠
+golden_time_thanks_giving_drop_info<>∙ 10 南瓜: {0} (s)
+event_golden_time_thanks_giving<>收获时节活动
+event_golden_time_thanks_giving_desc<>收集骰子和南瓜即可兑换奖励。感恩节物品将在活动结束后消失。\n\n活动结束前 12 小时，闲置宝箱将停止掉落南瓜。
+thanks_giving_dice_guide<>收集骰子并掷骰子——赢取丰厚奖励。\n\n更多精彩内容尽在感恩节任务。
+event_thanks_giving_quest_desc<>完成感恩节任务即可获得更多骰子
+event_thanks_giving_exchange_desc<>收集南瓜，即可兑换以下无限奖励。
+event_thanks_giving_shop_des<>购买礼包即可获得骰子和南瓜。
+thanks_giving_purchase_1<>茶歇套餐
+thanks_giving_purchase_2<>晚餐套餐
+thanks_giving_purchase_3<>Banquest 捆绑包
+event_thanks_giving<>感恩
+event_thanks_giving_shop_title<>感恩节商店
+event_thanks_giving_quest_title<>感恩节探索
+source_money_type_102<>- 丰收游戏\n\n- 感恩节特惠\n\n- 感恩节商店
+lock_level<>已锁定
+raid_key_75<>购买更多金钥匙
+raid_key_76<>购买更多玻璃钥匙
+raid_key_77<>购买更多碎片密钥
+limited<>有限的
+back_current<>返回当前页面
+max_ads_turn_daily<>今天你已经用完了所有广告。
+recycle<>回收
+acquired_items<>已获得的物品
+auto_select<>自动选择
+nothing_to_recycle<>你必须至少选择1个英雄进行回收
+have_max_items_recycle<>回收槽已满
+all_hero_recycle_selected<>所有英雄均已选定
+recycle_four_star_hero<>你确定要进行回收吗？
+select_orb_title<>选择球
+can_not_select<>宝珠槽已满
+not_have_enought_food<>你没有任何可供选择的宝珠。
+max_total_exp<>你已经装满了足够的宝珠
+event_christmas_feed_name<>圣诞祝福
+event_christmas_feed_desc<>用拐杖糖祝福伊格内修斯，即可获得礼物
+blessing<>祝福
+blessing_all<>祝福大家
+event_christmas_arena_title<>圣诞竞技场
+event_christmas_arena_content<>使用蜡烛进行投注，获得更多点燃的蜡烛
+event_christmas_quest_title<>圣诞探险
+event_christmas_quest_content<>完成任务即可获得拐杖糖
+event_christmas_blessing_quest<>祝福 {1} 给伊格内修斯的拐杖糖
+event_christmas_text_quest_bet<>在圣诞竞技场投注{1}蜡烛
+event_christmas_exchange_name<>圣诞交换
+event_christmas_exchange_desc<>使用点燃的蜡烛交换物品
+event_christmas_market_title<>圣诞商店
+event_christmas_market_des<>购买更多拐杖糖和点燃的蜡烛
+event_christmas_specialoffer<>圣诞优惠
+event_christmas<>圣诞节
+christmas_offer_1<>糖果优惠
+christmas_offer_2<>欢乐献礼
+christmas_offer_3<>圣诞老人赠礼
+event_boss_challenge_leader_board_title<>排行榜
+event_new_year_2023<>新年
+drop_time_new_year_2023<>活动开始后 13 天
+new_year_shop<>新年商店
+event_golden_time_new_year_2023_name<>欢乐时刻
+event_new_year_2023_wish_name<>好运祝福
+new_year_2023_quest<>新年探索
+event_new_year_2023_exchange_name<>新年交换
+event_new_year_2023_specialoffer<>新年优惠
+new_year_2023_shop<>新年商店
+source_money_type_229<>- 幸运愿望\n\n- 新年特惠\n\n- 新年商店
+event_new_year_2023_quest_desc<>完成任务即可获得新年门票
+event_golden_time_new_year_2023_desc<>在闲置宝箱中收集明信片。新年物品将在活动结束后消失。
+golden_time_new_year_2023_drop_info<>收集明信片即可兑换奖励。闲置宝箱每小时掉落10张明信片。活动结束前12小时，闲置宝箱将停止掉落明信片。
+text_chance_reset<>重置前的机会次数
+event_new_year_2023_exchange_desc<>收集明信片，兑换以下无限奖励
+new_year_2023_purchase_1<>手持烟花棒套装
+new_year_2023_purchase_2<>篝火包
+new_year_2023_purchase_3<>烟花套装
+event_new_year_2023_shop_des<>购买明信片和新年门票即可参加活动
+want_to_wish_all<>你想用完所有票券吗？
+event_golden_time_lunar_new_year_2024<>完成任务即可获得翡翠
+event_golden_time_lunar_new_year_2024_desc<>在闲置宝箱中收集幸运币。新年物品将在活动结束后消失。
+drop_time_lunar_new_year_2024<>活动开始后 13 天
+golden_time_lunar_new_year_2024_drop_info<>收集幸运币兑换奖励。闲置宝箱每小时掉落10枚幸运币。活动结束前12小时，闲置宝箱将停止掉落幸运币。
+source_money_type_78<>- 幸运宾果\n\n- 农历新年特惠\n\n- 农历新年特惠
+event_lunar_new_year_2024<>农历新年
+bingo_count<>宾果计数
+extra_bingo_reward_text<>宾果游戏成功奖金
+bingo<>宾果
+bingo_reward_list<>宾果奖励
+bingo_title<>幸运宾果
+event_lunar_new_year_2024_bingo_name<>幸运宾果
+lunar_new_year_2024_quest<>新年探索
+event_lunar_new_year_2024_exchange_name<>新年交换
+event_lunar_new_year_2024_specialoffer<>新年优惠
+lunar_new_year_2024_shop<>新年商店
+event_lunar_new_year_2024_quest_desc<>完成任务即可获得翡翠
+event_lunar_new_year_2024_exchange_desc<>收集财富币，兑换以下无限奖励
+lunar_new_year_2024_purchase_1<>繁荣包
+lunar_new_year_2024_purchase_2<>财富发现财富包
+lunar_new_year_2024_purchase_3<>巨龙重聚包
+event_lunar_new_year_2024_shop_des<>购买翡翠币和财富币参与活动
+event_golden_time_lunar_new_year_2024_name<>新年时刻
+bingo_tut_lunar_new_year_2024<>点击宝箱即可打开
+event_valentine_2024<>情人节活动
+drop_time_valentine_2024<>活动开始后 13 天
+source_money_type_250<>甜蜜礼物\n\n情人节特惠\n\n情人节商店
+event_golden_time_valentine_2024_name<>爱情瞬间
+event_valentine_2024_wish_name<>甜蜜的礼物
+valentine_2024_quest<>甜蜜挑战
+event_valentine_2024_exchange_name<>巧克力交易所
+event_valentine_2024_specialoffer<>情人节特惠
+valentine_2024_shop<>情人节商店
+event_lottery_valentine_title<>甜蜜的礼物
+event_valentine_2024_quest_desc<>完成任务即可获得爱情之箭
+event_valentine_2024_exchange_desc<>收集巧克力，兑换以下无限奖励
+event_valentine_2024_shop_des<>购买爱情箭和巧克力即可参加活动
+valentine_2024_purchase_1<>初恋礼包
+valentine_2024_purchase_2<>激情之爱礼包
+valentine_2024_purchase_3<>真爱礼包
+event_golden_time_valentine_2024_desc<>在闲置宝箱中收集巧克力。情人节物品将在活动结束后消失。
+golden_time_valentine_2024_drop_info<>收集巧克力即可兑换奖励。闲置宝箱每小时掉落10块巧克力。活动结束前12小时，闲置宝箱将停止掉落巧克力。
+subscription_packs_5<>指挥官卡
+subscription_packs_6<>先知牌
+sweep<>扫
+item_reward<>常见的
+item_reward_premium<>优质的
+event_boss_challenge_premium_pass<>挑战卡
+premium_pass_title_text<>挑战卡
+buy_now_text<>立即购买
+premium_pass_total_reward_text<>总回报
+benefit_text<>好处：\n\n- 解锁跳过战斗功能，并在首领挑战塔中使用所有门票\n\n- 解锁高级奖励\n\n- 解锁最后一层的丰厚奖励
+need_buy_boss_premium_pass<>您必须先购买挑战者卡才能使用此功能
+quick_battle_title<>请选择您要使用的票号
+event_easter_day<>复活节
+easter_day_shop<>复活节商店
+drop_time_easter_day<>活动开始后 13 天
+easter_day_dice_title<>复活节之旅
+source_money_type_218<>- 复活节之旅\n\n- 复活节特惠\n\n- 复活节商店
+event_golden_time_easter_day_name<>寻蛋活动
+easter_day_quest<>复活节探险
+event_easter_day_exchange_name<>鸡蛋交换
+event_easter_day_specialoffer<>复活节优惠
+event_golden_time_easter_day_desc<>在闲置宝箱中收集复活节彩蛋。复活节活动结束后，活动物品将会消失。
+easter_day_dice_guide<>收集骰子并掷骰子——赢取丰厚奖励。\n\n更多精彩内容尽在复活节探险。
+event_easter_day_quest_desc<>完成任务即可获得骰子
+event_easter_day_exchange_desc<>收集复活节彩蛋，兑换以下无限奖励
+easter_day_purchase_1<>银蛋包
+easter_day_purchase_2<>金蛋包
+easter_day_purchase_3<>彩虹蛋套装
+event_easter_day_shop_des<>购买骰子和复活节彩蛋即可参与活动
+golden_time_easter_day_drop_info<>收集复活节彩蛋即可兑换奖励。闲置宝箱每小时掉落10个复活节彩蛋。活动结束前12小时，闲置宝箱将停止掉落复活节彩蛋。
+event_summer_day<>暑假
+drop_time_summer_day<>活动开始后 13 天
+source_money_type_82<>- 夏季旅行\n\n- 夏季特惠\n\n- 夏季购物
+event_golden_time_summer_day_name<>在海滩上放松
+event_golden_time_summer_day_desc<>从闲置宝箱奖励和活动中收集沙滩球，即可兑换奖励。
+summer_day_dice_title<>夏季旅行
+summer_day_quest<>夏日探险
+event_summer_day_exchange_name<>暑期交换生项目
+event_summer_day_specialoffer<>夏季优惠
+summer_day_shop<>夏季商店
+event_summer_day_shop_title<>夏季商店
+event_summer_day_quest_title<>夏日探险
+event_summer_day_quest_desc<>完成任务即可获得骰子
+event_summer_day_exchange_desc<>收集沙滩球，即可兑换以下无限奖励
+summer_day_purchase_1<>夏季旅行套装
+summer_day_purchase_2<>夏季巡演套装
+summer_day_purchase_3<>夏季派对套装
+golden_time_summer_day_drop_info<>收集沙滩球即可兑换奖励。闲置宝箱每小时掉落10个沙滩球。活动结束前12小时，闲置宝箱将停止掉落沙滩球。
+summer_day_dice_guide<>收集骰子并掷骰子——赢取丰厚奖励。\n\n更多精彩内容尽在夏日探险。
+event_blossom_day<>樱花节
+drop_time_blossom_day<>活动开始后 13 天
+source_money_type_63<>樱花季\n\n节日特惠\n\n节日商店
+golden_time_blossom_day_drop_info<>收集樱花即可兑换奖励。闲置宝箱每小时掉落10朵樱花。活动结束前12小时，闲置宝箱将停止掉落樱花。
+blossom_day_wish_name<>樱花
+blossom_day_quest<>节日探索
+blossom_day_exchange_name<>鲜花交换
+event_blossom_day_specialoffer<>节日优惠
+blossom_day_shop<>节日商店
+event_golden_time_blossom_day_desc<>在闲置宝箱中收集樱花。活动樱花道具将在活动结束后消失。
+event_golden_time_blossom_day_name<>许愿树
+event_blossom_day_quest_desc<>完成任务即可获得花扇
+event_blossom_day_exchange_name<>鲜花交换
+event_blossom_day_exchange_desc<>收集樱花，兑换以下无限奖励
+event_blossom_day_shop_des<>购买花扇和樱花，即可在活动中使用。
+event_summer_day_shop_des<>购买夏季骰子和沙滩球，参加活动
+blossom_day_purchase_1<>樱花花瓣包
+blossom_day_purchase_2<>樱花树套装
+blossom_day_purchase_3<>樱花森林套装
+event_qixi_festival<>七夕节
+drop_time_qixi_festival<>活动开始后 13 天
+source_money_type_87<>- 七夕游戏\n- 节日优惠 \n- 节日商店
+golden_time_qixi_festival_drop_info<>收集手帕可兑换奖励。闲置宝箱每小时掉落10条手帕。活动结束前12小时，闲置宝箱将停止掉落手帕。
+event_qixi_festival_wish_name<>祝愿爱
+qixi_festival_quest<>节日探索
+event_qixi_festival_exchange_name<>节日交流
+event_qixi_festival_specialoffer<>节日优惠
+qixi_festival_shop<>节日商店
+event_golden_time_qixi_festival_desc<>在闲置宝箱中收集手帕。七夕节活动物品将在活动结束后消失。
+event_golden_time_qixi_festival_name<>爱的瞬间
+event_qixi_festival_quest_desc<>完成任务即可获得竹笛
+event_qixi_festival_exchange_desc<>收集手帕，即可兑换以下无限奖励。
+event_qixi_festival_shop_des<>购买竹笛和手帕，以便在活动中演奏。
+qixi_festival_purchase_1<>会议资料包
+qixi_festival_purchase_2<>约会套装
+qixi_festival_purchase_3<>极致套装
+event_golden_time_may_day<>完成任务即可获得皮纳塔俱乐部
+event_golden_time_may_day_desc<>在闲置宝箱中收集糖果。墨西哥节物品将在活动结束后消失。
+drop_time_may_day<>活动开始后 13 天
+golden_time_may_day_drop_info<>收集糖果即可兑换奖励。闲置宝箱每小时掉落10颗糖果。活动结束前12小时，闲置宝箱将停止掉落糖果。
+source_money_type_73<>- 幸运宾果\n\n- 墨西哥节特惠\n\n- 墨西哥节商店
+event_may_day<>墨西哥节
+event_may_day_bingo_name<>幸运宾果
+may_day_quest<>墨西哥节庆探索
+event_may_day_exchange_name<>墨西哥节庆交流
+event_may_day_specialoffer<>墨西哥节优惠
+may_day_shop<>墨西哥节庆商店
+event_may_day_quest_desc<>完成任务即可获得皮纳塔棒
+event_may_day_exchange_desc<>收集糖果，兑换以下无限奖励。
+may_day_purchase_1<>玉米片包
+may_day_purchase_2<>塔可饼套餐
+may_day_purchase_3<>墨西哥卷饼包
+event_may_day_shop_des<>购买皮纳塔棒和糖果，参加活动
+event_golden_time_may_day_name<>墨西哥节庆时刻
+bingo_tut_may_day<>点击宝箱即可打开
+form<>填写表格
+confirm_download_asset_bundle<>确认
+download_asset_bundle_noti<>如果您不下载新内容，就无法继续您的冒险之旅。\n\n让我们更新游戏，一起探索更多精彩内容吧！

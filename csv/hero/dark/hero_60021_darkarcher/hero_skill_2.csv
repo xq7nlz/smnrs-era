@@ -1,0 +1,4 @@
+name,extra_turn_chance_per_crit,extra_turn_limit,damage_per_extra_turn
+DarkArcher_Passive1,0.5,3,0.4
+DarkArcher_Passive1,0.5,3,0.6
+DarkArcher_Passive1,0.5,3,0.8

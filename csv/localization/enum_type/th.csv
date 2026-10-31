@@ -1,0 +1,566 @@
+key<>value
+feature_1<>แคมเปญ
+feature_2<>อัญเชิญ
+feature_4<>ช่างตีเหล็ก
+feature_5<>หอคอยมังกร
+feature_6<>ตลาดมืด
+feature_7<>โรงเตี๊ยม
+feature_8<>ต้นไม้โบราณ
+feature_9<>ดันเจี้ยน
+feature_10<>กิลด์
+feature_11<>กงล้อวัดใจ
+feature_12<>ลานประลอง
+feature_13<>เหมืองทองคำ
+feature_14<>กระเป๋า
+feature_15<>ซัมมอนเนอร์
+feature_16<>ความเชี่ยวชาญ
+feature_17<>เพื่อน
+feature_18<>การผจญภัย
+feature_20<>ระดับการยก 
+feature_21<>ป้อม
+feature_22<>การเชื่อมโยง
+feature_23<>เวทีการต่อสู้ 
+feature_24<>ถอยหลัง 
+feature_25<>Hero Super Awaken
+feature_26<>โดเมน
+feature_28<>Item Revolution
+feature_32<>การสนับสนุนการเชื่อมโยงฮีโร่
+feature_33<>สงครามกิลด์ 
+feature_34<>วิวัฒนาการระดับ 14 ดาว
+faction_type_1<>น้ำ
+faction_type_2<>ไฟ
+faction_type_3<>นรก
+faction_type_4<>ดิน
+faction_type_5<>แสง
+faction_type_6<>ความมืด
+class_type_1<>นักเวทย์
+class_type_2<>นักรบ
+class_type_3<>นักบวช
+class_type_4<>นักฆ่า
+class_type_5<>นักล่า
+stat_type_1<>พลังโจมตี
+stat_type_2<>เกราะ
+stat_type_3<>พลังชีวิต
+stat_type_4<>ความเร็ว
+stat_type_10<>อัตราคริติคอล
+stat_type_11<>ความเสียหายคริติคอล
+stat_type_20<>ความแม่นยำ
+stat_type_21<>หลบหลีก
+stat_type_30<>ความเสียหาย
+stat_type_31<>ความเสียหายจากสกิล
+stat_type_32<>เจาะเกราะ
+stat_type_40<>ความต้านทานสถานะรบกวน
+stat_type_41<>ลดความเสียหาย
+stat_type_50<>มานา
+effect_type_1<>มึน
+effect_type_2<>แช่แข็ง
+effect_type_3<>หลับ
+effect_type_4<>สาปเป็นหิน
+effect_type_10<>พิษ
+effect_type_11<>เลือดไหล
+effect_type_12<>เผาไหม้
+effect_type_30<>คำสาป
+effect_type_31<>เครื่องหมายคำสาป
+effect_type_40<>ใบ้
+effect_type_50<>คงกระพัน
+effect_type_100<>เครื่องหมายจุดอ่อน
+effect_type_101<>เครื่องหมายธาตุศักดิ์สิทธิ์
+effect_type_102<>เครื่องหมายธาตุน้ำ
+effect_type_103<>โล่แห่งแสง
+effect_type_104<>โล่ศักดิ์สิทธิ์
+effect_type_105<>เครื่องหมายภูติไม้
+effect_type_106<>เครื่องหมายภูติมืด
+effect_type_107<>โล่สะท้อน
+effect_type_108<>เครื่องหมายโฟกัส
+effect_type_109<>เครื่องหมายยั่วยุ
+effect_type_110<>จำนวนพิษ
+effect_type_111<>เครื่องหมายการเผาไหม้
+effect_type_112<>โล่กันเวทย์
+effect_type_113<>เครื่องหมายการจมน้ำ
+effect_type_114<>เครื่องหมายรอยเลือด
+effect_type_191<>เครื่องหมายติดโรค
+effect_type_192<>เครื่องหมายรักษาโรค
+effect_type_200<>สถานะผูกจิต
+effect_type_500<>เบลส
+effect_type_501<>เครื่องหมายเบลส
+effect_type_510<>รักษา
+effect_type_511<>ต้านการรักษา
+effect_type_530<>จุติ
+effect_type_531<>อัญเชิญ
+effect_type_600<>ตีกลับ
+effect_type_612<>โอกาสสุดท้าย
+casino_type_0<>กงล้อแห่งโชคลาภ
+casino_type_1<>กงล้อแห่งโชคชะตา
+money_type_-1<>สุ่ม
+money_type_0<>ทอง
+money_type_1<>เพชร
+money_type_2<>แต้มวีไอพี
+money_type_10<>ค่าประสบการณ์ฮีโร่
+money_type_11<>ยาโบราณ
+money_type_20<>หินจิตวิญญาณ
+money_type_30<>หินโชคลาภ
+money_type_31<>หินชะตา
+money_type_32<>เหรียญโชคดี
+money_type_40<>ตั๋วประลอง
+money_type_41<>เหรียญลานประลอง
+money_type_50<>ยันต์อัญเชิญธรรมดา
+money_type_51<>ยันต์อัญเชิญพิเศษ
+money_type_52<>คะแนนสะสม
+money_type_60<>เครื่องราง
+money_type_61<>พรแห่งแอกติซ
+money_type_70<>คะแนนมิตรภาพ
+money_type_71<>พลังงาน
+money_type_80<>ผงวิเศษ
+money_type_85<>ตั๋วหอคอย
+money_type_90<>เควสธรรมดา
+money_type_91<>เควสพิเศษ
+money_type_100<>คะแนนความเชี่ยวชาญ
+money_type_110<>หนังสือโบราณ
+money_type_120<>เหรียญกิลด์
+money_type_121<>เหรียญกิลด์พิเศษ
+money_type_122<>ตั๋วบอสรายวัน
+money_type_123<>ตั๋วกิลด์ดันเจี้ยน
+money_type_8<>ค่าประสบการณ์ซัมมอนเนอร์
+artifact_type_1<>ธรรมดา
+artifact_type_2<>หายาก
+artifact_type_3<>บรรพการ
+artifact_type_4<>ตำนาน
+artifact_type_5<>อมตะ
+stone_rarity_1<>ธรรมดา
+stone_rarity_2<>ไม่ธรรมดา
+stone_rarity_3<>หายาก
+stone_rarity_4<>บรรพการ
+stone_rarity_5<>ตำนาน
+stone_rarity_6<>อมตะ
+potion_type_0<>ยาแดง
+potion_type_1<>ยาเหลือง
+potion_type_2<>ยาม่วง
+game_mode_1<>แคมเปญ
+game_mode_2<>หอคอยมังกร
+game_mode_3<>การผจญภัย
+game_mode_4<>ดันเจี้ยน
+game_mode_5<>ดวลกับเพื่อน
+game_mode_6<>ลานประลอง
+game_mode_7<>ลานประลองกิลด์
+game_mode_8<>สงครามกิลด์
+game_mode_9<>บอสของเพื่อน
+game_mode_10<>บอสประจำวัน
+game_mode_11<>กิลด์ดันเจี้ยน
+raid_type_0<>ล่าทองคำ
+raid_type_1<>ล่าขวดยา
+raid_type_2<>การผจญภัยขุมทรัพย์
+mastery_type_0<>พลังโจมตี
+mastery_type_1<>พลังป้องกัน
+mastery_type_2<>พลังชีวิต
+mastery_type_3<>ความแม่นยำ
+mastery_type_4<>หลบหลีก
+companion_type_1<>ใช้ฮีโร่ต่างธาตุ 5 ตัวเพื่อรับโบนัสนี้
+companion_type_2<>ใช้ฮีโร่ 3 ตัวจากธาตุเดียวกัน + 2 ตัวจากธาตุอื่นๆ เพื่อรับโบนัสนี้
+companion_type_3<>ใช้ฮีโร่ 3 ตัวจากธาตุเดียวกัน + 2 ตัวจากอีกธาตุที่เป็นธาตุเดียวกันเพื่อรับโบนัสนี้
+companion_type_4<>ใช้ฮีโร่จากธาตุเดียวกัน 4 ตัวเพื่อรับโบนัสนี้
+companion_type_5<>ใช้ฮีโร่จากธาตุเดียวกัน 5 ตัวเพื่อรับโบนัสนี้
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>อัญเชิญแบบธรรมดา
+summon_type_1<>อัญเชิญแบบพิเศษ
+summon_type_2<>อัญเชิญด้วยคะแนนมิตรภาพ
+difficult_type_1<>ธรรมดา
+difficult_type_2<>ยาก
+difficult_type_3<>โหด
+difficult_type_4<>โหดจนฝันร้าย
+difficult_type_5<>โหดบ้าคลั่ง
+difficult_type_6<>โหดโลกแตก
+difficult_type_7<>โหดสะท้านจักรวาล
+difficult_type_8<>พระเจ้ามาเอง
+equip_rarity_1<>ธรรมดา
+equip_rarity_2<>ไม่ธรรมดา
+equip_rarity_3<>หายาก
+equip_rarity_4<>บรรพการ
+equip_rarity_5<>ตำนาน
+equip_rarity_6<>อมตะ
+resource_type_1<>ฮีโร่
+resource_type_2<>เงินตรา
+resource_type_3<>อุปกรณ์สวมใส่
+resource_type_4<>เครื่องราง
+resource_type_5<>รูน
+resource_type_6<>ชิ้นส่วนเครื่องราง
+resource_type_7<>ชิ้นส่วนฮีโร่
+resource_type_12<>กรอบ
+resource_type_13<>วัสดุเพื่อวิวัฒนาการฮีโร่
+resource_type_2_12<>ทรัพยากร
+resource_type_2_40<>ทรัพยากร
+resource_type_2_71<>ทรัพยากร
+resource_type_2_85<>ทรัพยากร
+resource_type_2_122<>ทรัพยากร
+resource_type_2_123<>ทรัพยากร
+resource_type_17<>ตั๋วรบแบบด่วน
+linking_1<>รักนิรนดร์
+linking_2<>สหภาพยุติธรรม
+linking_3<>โจรสลัดหญิง
+linking_4<>การแจ้งเตือนความตาย
+linking_5<>การเปลี่ยนแปลงทางจิตใจ
+linking_6<>ชีวิตนิรันดร์
+linking_7<>สงครามใบมีด
+linking_8<>เพชร
+linking_9<>พลังเยือกแข็ง 
+linking_10<>คำสาปแห่งความมืด 
+linking_11<>นักสะสมวิญญาณ
+linking_12<>ดวงจันทร์ใบมีด - ดำหอก
+linking_13<>ผู้พิทักษ์ป่าศักดิ์สิทธิ์
+linking_14<>พรจากสวรรค์
+linking_15<>คนรับใช้เปลวไฟ
+linking_16<>มนต์ดำ
+linking_17<>ประวัติศาสตร์มหาสมุทร
+ally_target_position_1<>ตัวเอง
+ally_target_position_10_5<>ฮีโร่ทุกตัว
+ally_target_position_10<>สุ่มฮีโร่ {0} ตัว
+ally_target_position_11_5<>ฮีโร่ทุกตัว
+ally_target_position_11<>ฮีโร่ {0} ตัว
+ally_target_position_20_4<>ฮีโร่แถวหน้าทุกตัว
+ally_target_position_20<>สุ่มฮีโร่แถวหน้า {0} ตัว
+ally_target_position_21_4<>ฮีโร่แถวหลังทุกตัว
+ally_target_position_21<>สุ่มฮีโร่แถวหลัง {0} ตัว
+ally_target_position_30<>ฮีโร่ {0} ตัวที่มีพลังชีวิตน้อยที่สุด
+ally_target_position_31<>ฮีโร่ {0} ตัวที่มีพลังโจมตีมากที่สุด
+ally_target_position_32<>ฮีโร่ {0} ตัวที่มีพลังเกราะน้อยที่สุด
+ally_target_position_33<>ฮีโร่ {0} ตัวที่มี %พลังชีวิตมากที่สุด
+ally_target_position_34<>ฮีโร่ {0} ตัวที่มีพลังเกราะมากที่สุด
+ally_target_position_35<>ฮีโร่ {0} ตัวที่มีพลังชีวิตมากที่สุด
+ally_target_position_36<>ฮีโร่ {0} ตัวที่มี %พลังชีวิตน้อยที่สุด
+ally_target_position_41<>ฮีโร่ {0} ตัวในแถวเดียวกัน
+ally_target_position_41_4<>ฮีโร่ทุกตัวในแถวเดียวกัน
+ally_target_position_45<>ฮีโร่ {0} ตัวในแถวอื่น
+ally_target_position_45_4<>ฮีโร่ทุกตัวในแถวอื่น
+ally_target_position_51<>ฮีโร่ {0} ตัวได้รับผลสถานะ
+enemy_target_position_10_5<>ศัตรูทุกตัว
+enemy_target_position_10<>สุ่มศัตรู {0} ตัว
+enemy_target_position_11_5<>ศัตรูทุกตัว
+enemy_target_position_11<>ศัตรู {0} ตัว
+enemy_target_position_20_4<>ศัตรูแถวหน้าทุกตัว
+enemy_target_position_20<>สุ่มศัตรูแถวหน้า {0} ตัว
+enemy_target_position_21_4<>ศัตรูแถวหลังทุกตัว
+enemy_target_position_21<>สุ่มศัตรูแถวหลัง {0} ตัว
+enemy_target_position_30<>ศัตรู {0} ตัวที่มีพลังชีวิตน้อยที่สุด
+enemy_target_position_31<>ศัตรู {0} ตัวที่มีพลังโจมตีมากที่สุด
+enemy_target_position_32<>ศัตรู {0} ตัวที่มีพลังเกราะน้อยที่สุด
+enemy_target_position_33<>ศัตรู {0} ตัวที่มี %พลังชีวิตมากที่สุด
+enemy_target_position_34<>ศัตรู {0} ตัวที่มีพลังเกราะมากที่สุด
+enemy_target_position_35<>ศัตรู {0} ตัวที่มีพลังชีวิตมากที่สุด
+enemy_target_position_36<>ศัตรู {0} ตัวที่มี %พลังชีวิตน้อยที่สุด
+enemy_target_position_41<>ศัตรู {0} ตัวในแถวเดียวกัน
+enemy_target_position_45<>ศัตรู {0} ตัวในแถวอื่น
+enemy_target_position_51<>สุ่มศัตรู {0} ตัว
+enemy_target_position_62<>ศัตรูในช่องสูงสุด
+money_type_140<>Elder Titan Soul
+money_type_141<>Titan Soul
+money_type_142<>Hero Soul
+money_type_130<>Gold Trophy
+money_type_131<>Silver Trophy
+money_type_135<>ตรา Zitga
+resource_type_8<>Summoner EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>Rate Up
+money_type_190<>Arena Pass Point
+money_type_191<>Daily Quest Pass Point
+resource_type_14<>ชุดแต่งกาย
+money_type_180<>โคมไฟ
+money_type_181<>เค้กพระจันทร์
+resource_type_11<>รูปประจำตัว
+money_type_75<>กุญแจทอง
+money_type_76<>กุญแจแก้ว
+money_type_77<>กุญแจขุมทรัพย์
+money_type_210<>ลูกเต๋า
+money_type_211<>ฟักทอง
+money_type_170<>Raising Star
+land_1<>อ่าว Marianna
+land_2<>ทวีปที่ลุกไหม้
+land_3<>ทะเลทรายเฮลฮาล
+land_4<>ป่า Wildwood
+land_5<>หุบเขาซันฟิลด์
+land_6<>พีคเคยหมอก
+land_7<>ดรีมแลนด์
+land_8<>ความโกลาหล
+land_9<>โลกแห่งวิญญาณ
+land_10<>ห้องสมุดแห่งกาลเวลา
+restrict_type_1<>อนุญาตเฉพาะฮีโร่น้ำเท่านั้น
+restrict_type_2<>อนุญาตเฉพาะฮีโร่ไฟเท่านั้น
+restrict_type_3<>อนุญาตเฉพาะ Abyss Heroes เท่านั้น
+restrict_type_4<>อนุญาตเฉพาะวีรบุรุษแห่งธรรมชาติ
+restrict_type_5<>อนุญาตเฉพาะ Light Heroes เท่านั้น
+restrict_type_6<>อนุญาตเฉพาะดาร์คฮีโร่เท่านั้น
+restrict_type_7<>ไม่อนุญาตให้ซัมมอนเนอร์
+restrict_type_8<>ไม่มีกฎเกณฑ์ ปลดปล่อยจิตใจของคุณ
+restrict_type_9<>ไม่อนุญาตให้มีความชำนาญ ระวัง!
+restrict_type_10<>ไม่อนุญาตให้ใช้อุปกรณ์, รูน, สิ่งประดิษฐ์
+money_type_200_unused<>เสน่ห์น้ำ
+money_type_201<>ลูกกลมไฟ
+money_type_202<>ลูกแก้วอเวจี
+money_type_203<>ลูกโลกธรรมชาติ
+money_type_204<>ลูกกลมแสง
+money_type_205<>ดาร์กออร์บ
+money_type_206<>ซันออร์บ
+money_type_207<>มูนออร์บ
+money_type_208<>เสน่ห์ที่ยังไม่เกิด
+money_type_209<>เสน่ห์แห่งกาลเวลา
+money_type_220<>แคนดี้เคน
+money_type_221<>เทียน
+money_type_222<>จุดเทียน
+money_type_230<>ตั๋วปีใหม่
+linking_18<>เปลวไฟที่ดุร้าย
+linking_19<>อยู่ปีศาจ
+money_type_240<>ลูกเต๋าแดง
+money_type_241<>พระเครื่อง
+money_type_242<>พลุ
+money_type_245<>กระดาษสีแดง
+money_type_244<>ม้วนกระดาษยอด
+money_type_243<>ซองจดหมายสีแดง
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>ช็อคโกแลต
+money_type_251<>ลูกศร
+ally_target_position_52<>พันธมิตรฮีโร่ของคลาส {0}
+enemy_target_position_52<>ศัตรูของคลาส {0}
+ally_target_position_61<>Allied Hero ในตำแหน่ง {0}
+enemy_target_position_61<>ศัตรูฮีโร่ในตำแหน่ง {0}
+money_type_45<>ตราผู้กล้า
+money_type_165<>กุหลาบ
+game_mode_14<>เวทีการต่อสู้ 
+money_type_46<>เหรียญกล้าหาญ 
+money_type_154<>จุดที่กล้าหาญ 
+summon_type_7<>อัญเชิญในตำนาน 
+money_type_136<>Union Point
+money_type_12<>Awaken Book
+money_type_25<>น้ำมนต์
+money_type_231<>จุดอีสเตอร์
+money_type_232<>ลูกเต๋าวิเศษ
+money_type_233<>ซุปเปอร์ลูกเต๋า
+money_type_234<>ค้อนไม้
+money_type_235<>ไข่เงิน
+money_type_236<>ไข่ทองคำ
+money_type_237<>ไข่สายรุ้ง
+money_type_238<>ค้อนทอง
+money_type_239<>ค้อนสายรุ้ง 
+money_type_166<>แอสทรัลสตาร์
+companion_type_remake_1<>ใช้ฮีโร่ต่างธาตุ 5 ตัวเพื่อรับโบนัสนี้
+companion_type_remake_2<>ปรับใช้ฮีโร่ 2 คู่ที่มีฝ่ายเดียวกันและฮีโร่สุดท้ายที่มีฝ่ายที่แตกต่างกันจาก 2 คู่นั้น 
+companion_type_remake_3<>ใช้ฮีโร่ 3 ตัวจากธาตุเดียวกัน + 2 ตัวจากธาตุอื่นๆ เพื่อรับโบนัสนี้
+companion_type_remake_4<>ใช้ฮีโร่ 3 ตัวจากธาตุเดียวกัน + 2 ตัวจากอีกธาตุที่เป็นธาตุเดียวกันเพื่อรับโบนัสนี้
+companion_type_remake_5<>ใช้ฮีโร่จากธาตุเดียวกัน 4 ตัวเพื่อรับโบนัสนี้
+companion_type_remake_6<>ใช้ฮีโร่จากธาตุเดียวกัน 5 ตัวเพื่อรับโบนัสนี้
+money_type_167<>ใบมีดของ Enule
+money_type_225<>กุญแจวิเศษ
+money_type_168<>เข็มทิศ
+resource_type_20<>ความสามารถพิเศษ
+talent_1000101<>สองไคอันทรงพลัง
+talent_1000201<>วิวัฒนาการความแข็งแกร่ง
+talent_1000301<>โล่ศักดิ์สิทธิ์
+talent_1000401<>พลังมากมาย
+talent_1000501<>น่ากลัวเลือด
+talent_1000601<>อย่างไม่น่าเชื่อแฟลช
+talent_1000701<>ช็อตที่สำคัญ
+talent_1000801<>ระเบิดออกเป็นความเสียหาย
+talent_1000901<>พลาดไม่ได้
+talent_1001001<>การเคลื่อนไหวที่ไม่ธรรมดา
+talent_1001101<>เปลี่ยว
+talent_1001201<>ไม่หยุดนิ่งเต็มกำลัง
+talent_1001301<>ขโมยวิญญาณ
+talent_1001401<>ใกล้ภูมิคุ้มกัน
+talent_1001501<>บอดี้การ์ด
+talent_2000101<>การป้องกันที่ไร้ที่ติ 
+talent_2000201<>การระเบิด 
+talent_2000301<>ความตายกะทันหัน
+talent_2000401<>รีปเปอร์ รีฟิวชั่น 
+talent_2000501<>หลายจุด
+talent_2000601<>หลอกหลอนที่สำคัญ
+talent_2000701<>ไม่มีความเงียบกับฉัน 
+talent_2000801<>คริติคอลลดลง 
+talent_2000901<>พลังงานน้อยลง
+talent_2001001<>มีพลังมากขึ้น
+money_type_115<>หีบรางวัลทั่วไป
+money_type_116<>สมบัติที่ไม่ธรรมดา
+money_type_117<>หีบหายาก
+money_type_118<>หีบมหากาพย์
+money_type_119<>หีบตำนาน
+money_type_113<>เหรียญลึกลับ
+avatar_121<>ผู้ถือหยกนำโชค
+avatar_frame_101<>ขอบเหล็ก
+avatar_frame_102<>ชายแดนสีบรอนซ์
+avatar_frame_103<>ขอบเงิน
+avatar_frame_104<>ขอบทอง
+avatar_frame_105<>ชายแดนแพลตตินัม
+avatar_frame_106<>ชายแดนเพชร
+avatar_frame_107<>อาจารย์ชายแดน
+avatar_frame_108<>ปรมาจารย์
+avatar_frame_109<>ชาเลนเจอร์
+avatar_109<>กล้าหาญ ไคลิน
+avatar_108<>ซน ไคลิน
+avatar_107<>ลิตเติ้ล ไคลิน
+avatar_frame_110<>ชายแดนกลางฤดูใบไม้ร่วง
+money_type_195<>Battle Pass Exp
+avatar_110<>Legend Qilin
+money_type_15<>อัญมณีเวทมนตร์
+equip_rarity_7<>การปฎิวัติ
+talent_1001601<>คาถาสายฟ้า
+stat_type_33<>ลดการลดความเสียหาย
+avatar_frame_111<>ฤดูกาลที่น่ากลัว
+avatar_111<>ฟักทองบ้า
+avatar_122<>พลังในตำนาน
+avatar_123<>นักยุทธศาสตร์ในตำนาน
+avatar_frame_122<>กรอบตำนาน
+money_type_35<>ลานประลอง หีบสมบัติ I
+money_type_36<>ลานประลอง หีบสมบัติ II
+money_type_37<>ลานประลอง หีบสมบัติ III
+resource_type_24<>เทคนิคพิเศษ
+avatar_112<>Christmas
+avatar_frame_112<>Christmas
+money_type_248<>เหรียญนำโชค
+avatar_113<>ปีใหม่ทางจันทรคติ
+avatar_frame_113<>ปีใหม่ทางจันทรคติ
+money_type_182<>ทำให้โคมไฟสว่างขึ้น
+money_type_249<>จุดมั่งคั่ง
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>หลักฐานของซามูไร
+avatar_124<>ผู้พิทักษ์ป้อมปราการ
+avatar_125<>ป้อมปราการทำความสะอาด
+avatar_frame_124<>ผู้ท้าชิงอย่างไม่หยุดยั้ง
+avatar_frame_125<>นักรบไร้เทียมทาน
+avatar_frame_126<>ผู้แสวงหา
+avatar_frame_127<>ผู้พิชิต
+linking_21<>พระมหากษัตริย์
+money_type_65<>ตั๋วบอส
+linking_20<>เครื่องบดสวรรค์และโลก
+avatar_126<>ซามูไรผู้ยิ่งใหญ่
+avatar_127<>ไข่แห่งความสุข
+avatar_frame_128<>สุขสันต์วันอีสเตอร์
+money_type_252<>ชิ้นส่วนปริศนา
+money_type_66<>ตั๋วบอส
+money_type_226<>จุดคู่แข่ง 
+money_type_22<>กล่องเลือกฮีโร่ W/F/A/N
+money_type_23<>กล่องเลือกฮีโร่ D/L
+avatar_129<>วันเกิดปีที่ 2
+avatar_frame_129<>วันเกิดปีที่ 2
+linking_22<>มรดกแห่งความเกลียดชัง
+money_type_227<>จุดผ่านมรดก
+item_option_5_1_3<>ลดความเสียหายที่ได้รับ {2}
+item_option_5_1_4<>ลดความเสียหายที่ได้รับ {2}
+money_type_26<>หีบสิ่งประดิษฐ์ฝ่ายมืดและสว่าง
+money_type_27<>หีบสิ่งประดิษฐ์ฝ่าย W/F/A/N
+money_type_175<>ไข่มุกที่เหนือกว่า 
+money_type_176<>ดาวฤกษ์
+money_type_215<>ตราผิวหนัง
+avatar_130<>กลางฤดูใบไม้ร่วงปี 2022 
+avatar_131<>กลางฤดูใบไม้ร่วงปี 2022 
+avatar_132<>กลางฤดูใบไม้ร่วงปี 2022 
+linking_23<>การเพิ่มขึ้นของสัตว์ประหลาด 
+money_type_196<>จุดผิวหนัง
+money_type_95<>แกนความสามารถ 
+avatar_133<>วันฮาโลวีนปี 2022
+avatar_frame_131<>วันฮาโลวีนปี 2022
+money_type_200<>ลูกแก้วน้ำ
+linking_24<>เผ่ามังกร 
+avatar_134<>คริสต์มาสปี 2022
+avatar_frame_134<>คริสต์มาสปี 2022
+avatar_135<>วันตรุษจีน 2023
+avatar_frame_135<>วันตรุษจีน 2023
+money_type_253<>ค้อนเออิตรี
+money_type_254<>เหรียญเอตรี
+hero_detail_1<>เรือบรรทุกน้ำมัน
+hero_detail_2<>เพิ่มพลัง
+hero_detail_3<>นักฆ่า
+hero_detail_4<>ตอบโต้ความเสียหาย
+hero_detail_5<>พื้นที่ได้รับผลกระทบ
+hero_detail_6<>การควบคุมฝูงชน
+hero_detail_7<>เรนเจอร์
+hero_detail_8<>ความเสียหายจากการระเบิด
+hero_detail_9<>การรักษา
+hero_detail_10<>ดำเนินการ
+hero_detail_11<>สนับสนุน
+hero_detail_12<>ผู้วิเศษ
+hero_detail_13<>ฟื้นคืนชีพ
+hero_detail_14<>นักสู้
+hero_detail_15<>ความเสียหายเมื่อเวลาผ่านไป
+hero_detail_16<>แปลงร่าง
+hero_detail_17<>พร
+hero_detail_18<>คำสาป
+hero_detail_19<>ความเงียบ
+hero_detail_20<>ตอบโต้การโจมตี
+money_type_223<>เหรียญฤดูร้อน
+money_type_224<>ส่วนผสมโมฮิโต้
+money_type_125<>กล่องของขวัญฤดูร้อน
+money_type_126<>บอลน้ำแดง
+money_type_127<>ลูกบอลน้ำสีฟ้า
+money_type_128<>ลูกบอลน้ำเขียว
+money_type_129<>ลูกบอลน้ำสีเทา
+money_type_216<>Mojito
+month_january<>มกราคม
+month_february<>กุมภาพันธ์
+month_march<>มีนาคม
+month_april<>เมษายน
+month_may<>อาจ
+month_june<>มิถุนายน
+month_july<>กรกฎาคม
+month_august<>สิงหาคม
+month_september<>กันยายน
+month_october<>ตุลาคม
+month_november<>พฤศจิกายน
+month_december<>ธันวาคม
+avatar_136<>วันเกิดปีที่ 3
+avatar_frame_136<>วันเกิดปีที่ 3
+hero_desc_20001<>ฟีนิกซ์ รีบอร์น
+hero_desc_20002<>นรกชั่วนิรันดร์
+hero_desc_10004<>หัวใจแห่งมหาสมุทร
+hero_desc_10011<>เทพผู้ดุร้ายแห่งมหาสมุทร
+hero_desc_30027<>ซามูไรผู้ยิ่งใหญ่
+hero_desc_30003<>หมอผี
+hero_desc_40008<>ลูกศรแห่งธรรมชาติ
+hero_desc_40027<>เจ้าหญิงมังกร
+hero_desc_50003<>พรแสง
+hero_desc_50007<>อาร์คแองเจิล
+hero_desc_50004<>เจ้าชายที่ไม่ได้สวมมงกุฎ
+hero_desc_50006<>เจ้าหญิงแห่งดวงจันทร์
+hero_desc_60003<>หนึ่งตีหนึ่งฆ่า
+hero_desc_60004<>อวตารของอานูบิส
+hero_desc_60005<>มุมแห่งความตาย
+hero_desc_60006<>นักดาบสาวผู้มีเสน่ห์
+linking_25<>แสงศักดิ์สิทธิ์
+money_type_137<>เหรียญท้าทาย
+avatar_137<>อวตาร 1 กลางฤดูใบไม้ร่วง 2023
+avatar_138<>อวตาร 2 กลางฤดูใบไม้ร่วง 2023
+avatar_139<>อวาตาร์ 3 กลางฤดูใบไม้ร่วงปี 2023
+money_type_255<>เหรียญอินฟินิตี้
+money_type_186<>กุญแจแห่งการผจญภัย
+money_type_185<>สิ่งประดิษฐ์ชิ้น
+money_type_101<>ลูกเต๋า
+money_type_102<>ฟักทอง
+money_type_43<>เหรียญอารีน่าการต่อสู้
+avatar_115<>เอนูเล ผู้พิทักษ์หิมะ
+feature_35<>รีไซเคิล
+money_type_229<>โปสการ์ด
+money_type_78<>เหรียญฟอร์จูน
+money_type_79<>หยก
+money_type_217<>ลูกเต๋าอีสเตอร์
+money_type_218<>ไข่อีสเตอร์
+money_type_81<>ลูกเต๋าฤดูร้อน
+money_type_82<>ลูกบอลชายหาด
+money_type_62<>แฟนดอกไม้
+money_type_63<>ดอกเชอร์รี่
+money_type_86<>ขลุ่ยไม้ไผ่
+money_type_87<>ผ้าเช็ดหน้า
+money_type_72<>ปินาต้าคลับ
+money_type_73<>แคนดี้ส์ ปินาต้า
+avatar_140<>วันเกิดปีที่ 4
+avatar_frame_137<>วันเกิดปีที่ 4

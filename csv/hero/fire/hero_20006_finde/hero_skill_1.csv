@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,effect_type,effect_chance,effect_duration,power_receive_amount
+Finde_Active,1.45,10,5,1,0.40,2,30
+Finde_Active,1.75,10,5,1,0.45,2,40
+Finde_Active,2.05,10,5,1,0.50,3,50

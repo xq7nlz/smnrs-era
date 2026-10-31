@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type,stat_debuff_amount,stat_debuff_duration
+Vera_Active,1.62,10,3,1,2,0.15,2
+Vera_Active,1.82,10,3,1,2,0.15,2
+Vera_Active,2.02,10,3,1,2,0.3,2

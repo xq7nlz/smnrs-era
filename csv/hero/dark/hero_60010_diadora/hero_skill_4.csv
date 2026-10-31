@@ -1,0 +1,4 @@
+name,effect_target_position,effect_target_number,effect_type,stat_buff_target_position,stat_buff_target_number,stat_buff_chance,stat_buff_type,stat_buff_amount,duration
+Diadora_Passive3,10,5,40,10,1,1,1,0.5,3
+Diadora_Passive3,10,5,40,10,1,1,1,0.6,3
+Diadora_Passive3,10,5,40,10,1,1,1,0.7,3

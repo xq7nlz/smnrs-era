@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,stat_debuff_type,stat_debuff_calculation_type,stat_debuff_amount,stat_debuff_duration
+Imp_Active,1.2,21,2,4,3,20,2
+Imp_Active,1.4,21,2,4,3,20,2
+Imp_Active,1.6,21,2,4,3,20,2

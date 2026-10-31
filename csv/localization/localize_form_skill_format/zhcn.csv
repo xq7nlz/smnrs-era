@@ -1,0 +1,406 @@
+key<>value
+active_skill_effect_debuff_chance~effect_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并且对被击中{c(effect_duration)}回合的敌人造成{q(effect_type)}的伤害。
+active_skill_effect_debuff_chance~effect_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并且有{p(effect_chance)}几率对被击中{c(effect_duration)}次的敌人造成{q(effect_type)}
+active_skill_effect_buff_heal~heal_duration~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，每回合对{q(heal_target_position)}受到等于[{p(heal_percent)}攻击]的回复生命值，并保持{c(heal_duration)}回合。
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害。 如果敌人属于{q(effect_trigger_class)}级，则在{c(effect_duration)}回合内用{q(effect_type)}击中敌人。
+active_skill_effect_debuff_chance_bonus_class_hero~effect_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害。 如果被击中的敌人属于{q(effect_trigger_class)}级，则有{p(effect_chance)}几率对在{c(effect_duration)}回合中被击中的敌人造成{q(effect_type)}伤害。
+active_skill_effect_debuff_chance_amount~dot_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，每回合造成{q(dot_type)} [{p(dot_amount)}攻击]伤害，维持{c(dot_duration)}回合。
+active_skill_effect_debuff_chance_amount~dot_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，每回合有{p(dot_chance)}几率{q(dot_type)} [{p(dot_amount)}攻击]伤害，并保持{c(dot_duration)}回合。
+active_skill_effect_buff_heal_chance~heal_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，  恢复{q(heal_target_position)}的HP生命值，等于[{p(heal_percent)}攻击]，并保持{c(heal_duration)}回合。
+active_skill_effect_buff_heal_chance~heal_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，有{p(heal_chance)}几率使{q(heal_target_position)}的生命值恢复为[{p(heal_percent)}攻击]，并保持{c(heal_duration)}回合。
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~0<>基本攻击对在{c(effect_duration)}回合被击中的敌人造成{q(effect_type)}。
+passive_skill_effect_debuff_chance_basic_attack~effect_chance~1<>基本攻击有{p(effect_chance)}几率对在{c(effect_duration)}回合击中的敌人造成{q(effect_type)}
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~0<>基本攻击对每个被击中敌人 造成{q(effect_type)} [{p(effect_amount)}攻击]伤害，并保持{c(effect_duration)}回合。
+passive_skill_effect_debuff_chance_basic_attack_amount~effect_chance~1<>基本攻击有{p(effect_chance)} 几率对每各被击中敌人造成{q(effect_type)} [{p(effect_amount)}攻击]伤害 ，并保持{c(effect_duration)}回合。
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~0<>当被基本攻击或技能击中时，每回合对攻击你的敌人造成{q(effect_dot_type)} [{p(effect_dot_amount)}攻击]伤害，并保持{c(effect_dot_duration)}回合。
+passive_skill_effect_debuff_when_attacked~effect_dot_chance~1<>当被基本攻击或技能击中时，有{p(effect_dot_chance)} 几率在每回合对攻击你的敌人造成{q(effect_dot_type)} [{p(effect_dot_amount)}攻击]伤害，并保持{c(effect_dot_duration)}回合。
+passive_skill_effect_buff_2_stat<>将{q(stat_1)}增加{q(bonus_1)}。 将{q(stat_2)}增加{q(bonus_2)}。
+passive_skill_effect_buff_front_back_line<>在上一行时，增加{p(buff_amount_front_line)} {q(buff_stat_front_line)}。 在后排中，增加{p(buff_amount_back_line)} {q(buff_stat_back_line)}。
+passive_skill_effect_buff_3_stat<>增加{q(bonus_1)} {q(stat_1)}，{q(bonus_2)} {q(stat_2)}和{q(bonus_3)} {q(stat_3)}。
+passive_skill_effect_buff_1_stat<>增加{q(bonus_1)} {q(stat_1)}。
+passive_skill_if_hp_reduction<>当生命值低于{p(health_trigger)}时，对自己提高{p(stat_buff_amount)} {q(stat_buff_type)}，维持{c(stat_buff_duration)}次。 (每场游戏只能使用一次)
+active_skill<>主动技能
+passive_skill<>被动技能
+active_skill_10001_1~stat_debuff_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害并在{c(stat_debuff_duration)}回合内降低其{p(stat_debuff_amount)} {q(stat_debuff_type)}，在{c(effect_duration)}回合内有{p(effect_chance)}几率 对被击中的敌人造成{q(effect_type)}
+active_skill_10001_1~stat_debuff_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并在{c(stat_debuff_duration)}回合内有{p(stat_debuff_chance)}几率降低其的 {p(stat_debuff_amount)} {q(stat_debuff_type)} ，在{c(effect_duration)}回合内有{p(effect_chance)}几率 对被击中的敌人造成{q(effect_type)}
+passive_skill_10001_2<>对被冰冻的敌人攻击时增加{p(bonus_damage)} {q(effect_type)}。
+passive_skill_10001_4~reflect_chance~0<>当被基本或技能攻击击中时，反应{p(reflect_damage)}造成伤害并对攻击您的敌人具有{p(effect_chance)}{q(effect_type)}概率，保持{c(effect_duration)}回合。
+passive_skill_10001_4~reflect_chance~1<>当被基本或技能攻击击中时，有{p(reflect_chance)}几率反应{p(reflect_damage)}造成伤害并对攻击您的敌人具有{p(effect_chance)}个{q(effect_type)}概率，保持{c(effect_duration)}回合。
+active_skill_10002_1~stat_debuff_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并 在{c(stat_debuff_duration)}回合中向被攻击中的敌人降低{q(stat_debuff_amount)} {q(stat_debuff_type)}
+active_skill_10002_1~stat_debuff_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，有 {p(stat_debuff_chance)} 几率在{c(stat_debuff_duration)}回合中向被攻击中的敌人降低{q(stat_debuff_amount)} {q(stat_debuff_type)}
+passive_skill_10002_4<>基本攻击对{q(target_position)}造成伤害，并增加{p(bonus_1)}{q(stat_1)}。
+active_skill_10003_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并且对{q(heal_target_position)}恢复等同于[{p(heal_percent)}攻击]的HP。
+passive_skill_10003_2<>盟友除自己以外的每一个治疗都将标记一个{q(effect_1_type)}，维持{c(effect_1_duration)} 回合
+passive_skill_10003_3~effect_chance~0<>当受到基本攻击或技能攻击时，将{q(target_position_2)}的生命值恢复为[{p(effect_amount)}攻击]，并向{q(heal_mark_type)}的盟友加{p(heal_mark_bonus_percent)}。
+passive_skill_10003_3~effect_chance~1<>当受到基本攻击或技能攻击时，有{p(effect_chance)}几率将{q(target_position_2)}的生命值恢复为[{p(effect_amount)}攻击]，并向{q(heal_mark_type)}的盟友加{p(heal_mark_bonus_percent)}。
+passive_skill_10004_3<>基本攻击有{p(effect_chance)}概率造成[{p(damage_bonus_percent)}攻击]伤害和被击中的{q(effect_type)}敌人 ，持续{c(effect_duration)}回合。
+passive_skill_10004_4<>增加{p(bonus_1)} {q(stat_1)}并完全免疫{q(immune_effect_type)}效果
+active_skill_10005_1~stat_debuff_chance~0<>对{q(target_position)}造成[{p(damage)} 攻击]伤害，并在{c(stat_debuff_duration)}回合中被攻击中的敌人降低{p(stat_debuff_amount)}{q(stat_debuff_type)}。
+active_skill_10005_1~stat_debuff_chance~1<>对{q(target_position)}造成[{p(damage)} 攻击]伤害，有 {p(stat_debuff_chance)}几率在{c(stat_debuff_duration)}回合中被攻击中的敌人降低{p(stat_debuff_amount)}{q(stat_debuff_type)}。
+passive_skill_10005_3~stat_debuff_chance~0<>基本攻击的目标是{q(target_position)}，会导致减慢效果，降低{q(stat_debuff_amount)} {q(stat_debuff_type)}，维持{c(stat_debuff_duration)}回合。
+passive_skill_10005_3~stat_debuff_chance~1<>基本攻击的目标是{q(target_position)}，有{p(stat_debuff_chance)}几率导致减慢效果，降低{q(stat_debuff_amount)} {q(stat_debuff_type)}，维持{c(stat_debuff_duration)}回合。
+passive_skill_10005_4_20004_4~counter_attack_chance~0<>当此英雄使用基本攻击或使用技能攻击时，此攻击不会被反击或阻止。 当受到基本攻击或主动技能的攻击时，对攻击者造成 [{p(counter_attack_damage)} 攻击] 伤害的反击。
+passive_skill_10005_4_20004_4~counter_attack_chance~1<>当此英雄使用基本攻击或使用技能攻击时，此攻击不会被反击或阻止。 当受到基本攻击或主动技能的攻击时，有{p(counter_attack_chance)} 几率对攻击者造成 [{p(counter_attack_damage)} 攻击] 伤害的反击。
+active_skill_10006_1~stat_debuff_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并降低在{c(stat_debuff_duration)}回合被击中的敌人的{q(stat_debuff_amount)} {q(stat_debuff_type)}
+active_skill_10006_1~stat_debuff_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并有{p(stat_debuff_chance)}几率降低在{c(stat_debuff_duration)}回合被击中的敌人的{q(stat_debuff_amount)} {q(stat_debuff_type)}
+passive_skill_10006_2<>除自身外，每个回合都将连接到{q(target_position_2)}，对相连盟友造成的伤害将对Aqualord分享{p(damage_share_percent)}伤害，此连接仅在{c(bond_duration)}回合内有效。
+passive_skill_10006_4~trigger_chance~0<>当生命值降至{p(hp_limit)}以下时，在{c(effect_duration)}回合中对{q(effect_target_position_2)}施加{q(effect_type)}效果。 每次{q(effect_type)}的生命值等于[{p(effect_amount)}攻击]时，仅激活{c(trigger_limit)}次。
+passive_skill_10006_4~trigger_chance~1<>当生命值降至{p(hp_limit)}以下时，有{p(trigger_chance)}的几率使{q(effect_target_position_2)}持续{c(effect_duration)}个回合，每回合的生命值等于[{p(effect_amount)} 攻击]，可以激活{c(trigger_limit)}次
+passive_skill_10007_2<>基本攻击对{q(target_position)}造成[{p(damage_percent)} 攻击]伤害，并在{c(bond_duration)}回合将它们绑定在一起。 当其中一个被攻击或受到CC影响时，其他人会受到此攻击的{p(bond_damage_percent)}伤害并有{p(bond_cc_chance)}几率受到CC影响。
+passive_skill_10007_3<>将绑定的敌人{q(effect_affect_to_stat)}减少{q(effect_amount)}
+passive_skill_10007_4<>当HP降到{p(hp_lower)}以下时，将{q(target_position)}绑定在 {c(bond_duration)}个回合，仅激活一次。每当链接中的任何一个敌人被攻击或受到CC影响时，其他人会受到此攻击的{p(bond_damage_percent)}伤害并有{p(bond_cc_chance)}几率受到CC影响。
+active_skill_10008_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。
+passive_skill_10008_2<>基本攻击为自己增加{c(power_gain_value)}的能量和{p(stat_buff_amount)} {q(stat_buff_type)}。 (可以加起来)
+passive_skill_10009_2<>基本攻击对{c(number_bouncing)}个目标造成伤害，与先前的目标相比，下一个目标将受到{p(damage_bouncing)}伤害。
+passive_skill_10009_3~heal_chance~0<>当受到基本攻击或技能攻击时，HP的生命值恢复为[{p(heal_amount_by_damage)}攻击]。
+passive_skill_10009_3~heal_chance~1<>当受到基本攻击或技能攻击时，有{p(heal_chance)}几率HP的生命值恢复为[{p(heal_amount_by_damage)}攻击]。
+active_skill_10010_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并使被击中的敌人 {c(stat_debuff_duration)}回合降低{q(stat_debuff_amount)} {q(stat_debuff_type)} 。
+passive_skill_10010_2~stat_buff_chance~0<>当受到基本攻击或技能攻击时，在{c(stat_buff_duration)}回合增加自己的 {p(stat_buff_amount)} {q(stat_buff_type)}。 (不加起来)
+passive_skill_10010_2~stat_buff_chance~1<>当受到基本攻击或技能攻击时，有{p(stat_buff_chance)}几率在{c(stat_buff_duration)}回合增加自己的 {p(stat_buff_amount)} {q(stat_buff_type)}。 (不加起来
+active_skill_10011_1~multi_damage_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并对被击中的敌人造成{c(multi_damage_value)}次的伤害。
+active_skill_10011_1~multi_damage_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，有{p(multi_damage_chance)}几率对被击中的敌人造成{c(multi_damage_value)}次的伤害。
+passive_skill_10011_2~stat_buff_chance~0<>当受到基本攻击或技能攻击时，增加{p(stat_buff_amount)}{q(stat_buff_type)}直。 本身执行致命攻击后，{q(stat_buff_type)}返回其原始默认值。
+passive_skill_10011_2~stat_buff_chance~1<>当受到基本攻击或技能攻击时，有{p(stat_buff_chance)} 利率增加{p(stat_buff_amount)}{q(stat_buff_type)}直 。本身执行致命攻击后，{q(stat_buff_type)}返回其原始默认值。
+passive_skill_10011_4~extra_turn_chance~0<>在进行一次暴击攻击（基本攻击或主动技能）后，该英雄有一个额外的回合可以进行一次额外攻击，造成上次攻击造成的 {p(damage_of_extra_turn)} 伤害，每回合最多实施{c(extra_turn_limit)}次。
+passive_skill_10011_4~extra_turn_chance~1<>有 {p(extra_turn_chance)}几率基本攻击执行附加攻击(后者造成的伤害等于先前的{p(damage_of_extra_turn)})，每回合最多实施{c(extra_turn_limit)}次。
+active_skill_10012_1~effect_drowning_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害并对被击中敌人标记溺水，被标记的敌人将在被标记后{c(effect_drowning_duration)}回合死亡。 对Boss没有影响。
+active_skill_10012_1~effect_drowning_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害并有{p(effect_drowning_chance)}几率对被击中敌人标记溺水，被标记的敌人将在被标记后{c(effect_drowning_duration)}回合死亡。 对Boss没有影响。
+passive_skill_10012_2<>对{q(faction_buff)}系统盟友增加 {p(stat_per_faction_buff_amount)} {q(stat_per_faction_buff_type)}
+passive_skill_10012_3<>开始比赛时增加{c(power_stat)}能量。
+passive_skill_10012_4<>现在不可去除溺水标记。 此外，使{q(stat_1)}增加{q(bonus_1)}
+active_skill_10013_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并恢复{q(heal_target_position)}的HP, 等于[{p(heal_amount)}攻击]。
+passive_skill_10013_2~effect_chance~0<>普通攻击在{c(effect_duration)}回合中对属于{q(effect_trigger_class)}阶层的敌人造成[{p(bonus_basic_attack)}攻击]伤害并对其造成{q(effect_type)} 。
+passive_skill_10013_2~effect_chance~1<>基本攻击造成{p(bonus_basic_attack)}伤害，并有{p(effect_chance)}几率在{c(effect_duration)}回合中对属于{q(effect_trigger_class)}阶层的敌人造成{q(effect_type)} 。
+passive_skill_10013_3<>基本攻击将目标的{q(stat_debuff_type)}降低{p(stat_debuff_amount)}，而不是单独叠加。
+passive_skill_10013_4<>当受到基本攻击或技能攻击的攻击时，如果是致命一击，则立即治愈自己，并{q(heal_target_position)}生命值，等于[[{p(heal_amount_by_damage)}受到的伤害]。
+active_skill_10014_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害。
+active_skill_10015_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害并增加{q(stat_buff_target_position)}的{p(stat_buff_amount)} {q(stat_buff_type)}，并保持{c(stat_buff_duration)}回合。
+active_skill_10016_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害。 每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，如果敌人是{q(enemy_class)} ，则保持{c(effect_duration)}回合。
+passive_skill_10016_3<>基本攻击每回合造成{q(effect_type)} [{p(effect_amount)}攻击]伤害，如果被击中敌人属于{q(enemy_class)}阶层，则保持{c(effect_duration)}回合。
+passive_skill_10016_4~block_chance~0<>当受到基本攻击或技能攻击时，阻挡{p(block_amount)}伤害。
+passive_skill_10016_4~block_chance~1<>当受到基本攻击或技能攻击时，有 {p(block_chance)} 几率阻挡{p(block_amount)}伤害。
+passive_skill_10017_4~stat_buff_chance~0<>基本攻击在{c(stat_buff_duration)}回合中将为{q(stat_buff_target_position)}增加{p(stat_buff_amount)}{q(stat_buff_type)}。(可以加起来)
+passive_skill_10017_4~stat_buff_chance~1<>基本攻击有 {p(stat_buff_chance)}几率在{c(stat_buff_duration)}回合中将为{q(stat_buff_target_position)}增加{p(stat_buff_amount)}{q(stat_buff_type)}。(可以加起来)
+passive_skill_10018_4<>如果基本攻击是致命一击，此英雄将立即恢复等于[{p(heal_amount)}攻击]的生命值。
+passive_skill_10019_3~stat_debuff_chance~0<>基本攻击使被击中的敌人减少{p(stat_debuff_amount)} {q(stat_debuff_type)}，维持{c(stat_debuff_duration)}回合。
+passive_skill_10019_3~stat_debuff_chance~1<>基本攻击有 {p(stat_debuff_chance)}几率使被击中的敌人减少{p(stat_debuff_amount)} {q(stat_debuff_type)}，维持{c(stat_debuff_duration)}回合。
+active_skill_10021_1_20011_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 如果属于{q(bonus_class_hero)}阶层的敌人被击中，则多造成{p(bonus_damage_with_class)} 伤害。
+passive_skill_10022_4<>当HP降至{p(health_trigger)}以下时，对自己增加{q(stat_buff_amount)} {q(stat_buff_type)}，持续{c(stat_buff_duration)}次回合。
+active_skill_20001_1~effect_chance~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，被击中的敌人将被减少{q(stat_debuff_amount)} {q(stat_debuff_type)}并对目标应用{q(effect_debuff_type)}效果， 每回合造成[{p(effect_debuff_amount)}攻击]伤害， 维持{c(effect_duration)}回合。
+active_skill_20001_1~effect_chance~1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，被击中的敌人将被减少{q(stat_debuff_amount)} {q(stat_debuff_type)}并，并有{p(effect_chance)}几率对目标应用{q(effect_debuff_type)}效果， 每回合造成[{p(effect_debuff_amount)}攻击]伤害， 维持{c(effect_duration)}回合。
+passive_skill_20001_2<>基本攻击每回合造成{q(effect_1_type)} [{p(effect_1_amount)}攻击]伤害，维持{c(effect_1_duration)}回合。
+passive_skill_20001_3<>增加 {p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} ， 对受{q(effect_type)}效果影响的敌人造成[{p(effect_percent)} 攻击] 伤害
+passive_skill_20001_4<>死后，伊卡洛斯会变成一个火蛋。 火蛋将增加{q(bonus_1)} {q(stat_1)}，{q(bonus_2)} {q(stat_2)}。 该英雄无法以火蛋形态攻击。如果火鸡蛋后不{c(round_reborn)}回合摧毁，他们将转变成Icarus，在{c(effect_1_duration)}回合中使{q(effect_1_type)}持续{q(target_position)}(每次战斗只能发作用{c(time_reborn)}次)。
+active_skill_20002_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(stat_debuff_duration)}回合中有{p(stat_debuff_chance)}几率从对手手上减去{p(stat_debuff_amount)} {q(stat_debuff_type)}。 有{p(power_buff_chance)}几率增加{q(power_buff_target_position)}的{c(power_buff_amount)}能量-包括你自己，还有{p(stat_buff_chance)}几率在 {c(stat_buff_duration)}回合为{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}
+passive_skill_20002_2<>基本攻击可为此英雄和{q(effect_1_target_position_2)}治愈大量的HP。愈合量等于目标最大HP的{p(effect_1_amount)}。
+passive_skill_20002_4<>当生命值低于{p(health_trigger)}时，恢复等同于[{p(heal_amount)}攻击]的生命值，并将{q(heal_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)} ，维持{c(stat_buff_duration)}回合。 (每场游戏只能使用一次)
+active_skill_20003_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 如果护甲大于被击中的对手的护甲，则该{q(effect_type)}对手在{c(effect_duration)}回合中有{p(effect_chance)}出现概率。
+passive_skill_20003_2<>当受到基本攻击或技能攻击的攻击时，有{p(effect_chance)}的几率会抵消对您自己的全部CC效果。如果成功驱散 CC 效果，此英雄会为自己恢复 {p(heal_amount)} 的最大生命值。
+passive_skill_20003_3<>基本攻击会抓住对手当前的{p(steal_stat_amount)} {q(steal_stat_type)}并将其传递给自己。
+passive_skill_20003_4<>当HP降至{p(health_trigger)}以下时，将增加{p(stat_1_buff_amount)} {q(stat_1_buff_type)}和{p(stat_2_buff_amount)} {q(stat_2_buff_type)}
+passive_skill_20004_2<>当HP降至{q(target_position)}以下时，将增加{p(steal_stat_amount)} {q(steal_stat_type)}和 
+passive_skill_20005_2<>将{p(bonus_1)} {q(stat_1)} ,增加对自己的[{p(bonus_dot_amount)}灼伤]伤害。
+passive_skill_20005_3~dot_chance~0<>基本攻击攻击{q(target_position)}，并对同一行中的两个附近敌人造成{p(splash_damage)}伤害。 每次攻击敌人时，都会受到{q(effect_dot_type)} [{p(dot_amount)}攻击]的伤害，持续{c(dot_duration)}回合。
+passive_skill_20005_3~dot_chance~1<>基本攻击攻击{q(target_position)}，并对同一行中的两个附近敌人造成{p(splash_damage)}伤害。 每次攻击敌人时，有 {p(dot_chance)}几率受到{q(effect_dot_type)} [{p(dot_amount)}攻击]的伤害，持续{c(dot_duration)}回合。
+passive_skill_20005_4<>当受到基本攻击或技能攻击时，每受到一个目标的{q(effect_check_type)}效果，对目标造成 {p(multi_bonus_damage_per_effect)} 额外伤害。
+active_skill_20006_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，{c(effect_duration)}回合中击中的敌人有{p(effect_chance)}几率{q(effect_type)}。 获得{c(power_receive_amount)}的更多能量。
+passive_skill_20006_2~effect_chance~0<>当受到基本攻击或技能攻击时，每次攻击敌人将受到{q(effect_type)} 攻击[{p(effect_dot_amount)}攻击]伤害，并减去{p(effect_stat_debuff_amount)} {q(effect_stat_debuff_type)}，保持{c(effect_duration)}回合。
+passive_skill_20006_2~effect_chance~1<>当受到基本攻击或技能攻击时，有{p(effect_chance)} 几率是每次攻击敌人将受到{q(effect_type)} 攻击[{p(effect_dot_amount)}攻击]伤害，并减去{p(effect_stat_debuff_amount)} {q(effect_stat_debuff_type)}，保持{c(effect_duration)}回合。
+passive_skill_20006_3<>每{c(number_round_to_buff)}回合增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}和{p(bonus_3)} {q(stat_3)}。
+passive_skill_20006_4<>将所有随时间推移的伤害所造成的伤害降低{p(resistance_dot_damage)}。 不能通过驱散，祝福或诅咒效果移除燃烧痕迹。 将{q(stat_1)}增加{p(bonus_1)}。
+active_skill_20007_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并通过[{p(heal_percent)}攻击]为{q(heal_target_position)}恢复HP， ，对自己提高{p(buff_amount)} {q(buff_stat)}，持续{c(buff_duration)}回合。
+passive_skill_20007_2<>基本攻击对{q(basic_attack_target_position)}进行攻击，并且有{p(effect_chance)}几率对击中{c(effect_duration)}回合的敌人造成{q(effect_type)}伤害。
+passive_skill_20007_4<>每回合，为{q(target_position_2)}恢复 HP等于[{p(heal_amount_per_round)}攻击]，并且每回合增加{p(heal_amount_increase_per_round)}。
+passive_skill_20008_2~stat_buff_chance~0<>每位被基本攻击击中的敌人，使此英雄的{q(stat_buff_type)}增加{p(stat_buff_amount)}。 此效果最多可以叠加{p(stat_buff_value_max)} {q(stat_buff_type)}。
+passive_skill_20008_2~stat_buff_chance~1<>每位被基本攻击击中的敌人，有{p(stat_buff_chance)}几率在使此英雄的{q(stat_buff_type)}增加{p(stat_buff_amount)}。 此效果最多可以叠加{p(stat_buff_value_max)} {q(stat_buff_type)}。
+passive_skill_20008_3<>对{q(damage_target_position)}造成[{p(damage_attack)}攻击]伤害。将{q(stat_1)}增加{p(bonus_1)}。将{q(stat_2)}增加{p(bonus_2)}。
+passive_skill_20008_4<>当HP在{p(health_trigger_buff_2)}和{p(health_trigger_buff_1)}之间时，将{q(stat_1_buff_type_1)}增加{p(stat_1_buff_amount_1)}, 将{q(stat_2_buff_type_1)}增加{p(stat_2_buff_amount_1)}。 当HP降至{p(health_trigger_buff_2)}以下时，将{q(stat_1_buff_type_2)}增加{p(stat_1_buff_amount_2)}, 将{q(stat_2_buff_type_2)}增加{p(stat_2_buff_amount_2)}。
+passive_skill_20009_4~trigger_chance~0<>当HP降至{p(hp_limit)}以下时，消除影响{q(target_position)}的所有积极影响。 每次比赛可以触发{c(trigger_limit)}次此效果。
+passive_skill_20009_4~trigger_chance~1<>当HP降至{p(hp_limit)}以下时，有{p(trigger_chance)}几率消除{q(target_position)}影响的所有积极影响。 每次比赛可以触发{c(trigger_limit)}次此效果。
+passive_skill_20010_2~heal_chance~0<>基本攻击通过{q(heal_target_position)}的[{p(heal_amount)}攻击]恢复一定量的HP。
+passive_skill_20010_2~heal_chance~1<>基本攻击有{p(heal_chance)}几率恢复{q(heal_target_position)}的[HP]等于[{p(heal_amount)}攻击]。
+passive_skill_20010_4~heal_chance~0<>当受到基本攻击或技能攻击时，可以为自己恢复[{p(heal_amount)}攻击]的生命值。
+passive_skill_20010_4~heal_chance~1<>当受到基本攻击或技能攻击时，有{p(heal_chance)}几率使自己恢复等同于[{p(heal_amount)}攻击]的生命值。
+passive_skill_20011_2<>增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。 如果受到攻击的敌人属于{q(bonus_class_hero)}阶层，则造成额外的[{p(bonus_damage_with_class)}攻击]伤害。
+active_skill_20012_1~effect_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 每回合减少{p(stat_debuff_amount)} {q(stat_debuff_type)}并为{q(effect_debuff_type)} 效果减少等于[{p(effect_debuff_amount)}攻击]的HP，维持{c(effect_duration)}回合。
+active_skill_20012_1~effect_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 每回合减少{p(stat_debuff_amount)} {q(stat_debuff_type)}并有{p(effect_chance)} 几率为{q(effect_debuff_type)} 效果减少等于[{p(effect_debuff_amount)}攻击]的HP，维持{c(effect_duration)}回合。
+active_skill_20014_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并将{c(power_buff_amount)}的能量提升至{q(power_buff_target_position)}-除了你自己。
+passive_skill_20014_3<>基本攻击对{q(damage_target_position)}造成[{p(damage_attack)}攻击]伤害。
+passive_skill_20014_4<>当生命值低于{p(health_trigger)}时， 为{q(power_buff_target_position)}增加{c(power_buff_amount)} 能量(每场战斗只能使用一次)。
+active_skill_20015_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并为 {q(heal_target_position)}恢复等于[{p(heal_percent)}攻击]的HP。
+passive_skill_20015_4<>基本攻击为{q(heal_target_position)}恢复 [{p(heal_percent)}攻击]的HP。
+passive_skill_20016_2<>基本攻击会使该英雄的{q(stat_buff_type)}增加{p(stat_buff_amount)}
+passive_skill_20016_4<>击败此英雄后，{c(stat_buff_duration)}回合中将{q(stat_buff_target_position)}中的{q(stat_buff_type)}增加{p(stat_buff_amount)}。 每次比赛可以触发{c(trigger_limit)}次此效果。
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~0<>在{c(stat_debuff_duration)}回合中对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并将{q(stat_debuff_type)}的目标降低{p(stat_debuff_amount)}。
+active_skill_stat_debuff_chance_reduction~stat_debuff_chance~1<>在{c(stat_debuff_duration)}回合中对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并有{p(stat_debuff_chance)}几率将{q(stat_debuff_type)}的目标降低{p(stat_debuff_amount)}。
+active_skill_20022_1<>在{c(stat_debuff_duration)}回合中对{q(target_position)}造成[{p(damage)} 攻击]伤害，并将{q(stat_debuff_type)}的目标降低{q(stat_debuff_amount)}。
+active_skill_20023_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，使受到打击的敌人减少{q(stat_debuff_amount)} {q(stat_debuff_type)}，持续{c(stat_debuff_duration)}回合。
+passive_skill_20023_4<>当HP降至{p(health_trigger)}以下时，{c(stat_buff_duration)}回合将{q(stat_buff_target_position)}的{q(stat_buff_type)}增加{p(stat_buff_amount)}。 每次比赛只能触发一次此效果。
+passive_skill_20024_4<>基本攻击会在{c(effect_duration)}回合中减少目标的{p(bonus_1)} {q(stat_1)}。
+active_skill_20025_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害。 如果目标当前的%HP高于{p(hp_trigger_limit)}，则对目标造成[{p(bonus_attack)}攻击] 额外伤害。
+passive_skill_20025_4<>基本攻击对击中{c(debuff_duration)}回合的敌人造成{p(bonus_1)} {q(stat_1)}降低的影响，并对其自身增加{p(bonus_2)} {q(stat_2)}，维持{c(buff_duration)}回合。
+passive_skill_20026_2~heal_chance~0<>当受到基本攻击或技能攻击时，对{q(heal_target_position)}​​的生命值恢复为[{p(heal_percent)}攻击]。
+passive_skill_20026_2~heal_chance~1<>当受到基本攻击或技能攻击时，有{p(heal_chance)}对{q(heal_target_position)}​​的生命值恢复为[{p(heal_percent)}攻击]。
+passive_skill_20026_3~heal_chance~0<>基本攻击可以恢复{q(heal_target_position)}的生命值，其生命值等于[{p(heal_percent)}攻击]
+passive_skill_20026_3~heal_chance~1<>基本攻击有{p(heal_chance)}几率恢复{q(heal_target_position)}的生命值，其生命值等于[{p(heal_percent)}攻击]
+active_skill_30001_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，如果敌人低于{p(max_hp_to_kill)}最大生命值，则立即杀死敌人并为自己恢复{c(power_gain_when_kill)}能量。 在Boss上不起作用。
+passive_skill_30001_3<>对于每个被击败的盟友，将{q(target_position)}中的{q(stat_1)}减少{p(bonus_1)}。
+passive_skill_30001_4<>每当盟友或敌人由于任何原因失去HP时，将该英雄的{q(stat_type)}增加{p(stat_bonus_amount)}。 此效果最多可叠加{q(stat_type)}的{p(stat_bonus_limit)}。 此效果无法通过消除，祝福或诅咒标记效果消除。
+active_skill_30002_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并为您恢复{p(heal_percent)}最大生命值。
+passive_skill_30002_3<>当被基本攻击或技能攻击攻击时，受到的伤害不能超过最大生命值的{p(hp_be_attacked)}。
+passive_skill_30002_4<>当这个英雄被击败时，可以为所有剩余的盟友恢复一定数量的生命值。 治疗量等于该英雄的最大生命值的{p(hp_heal)}平均除以各自存活的盟友人数。
+active_skill_30003_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并为您自己恢复等于 [{p(heal_percent)}攻击]的HP 。
+passive_skill_30003_2<>除了你自己，无法从盟友那里获得生命值。 使用基本攻击或技能攻击进行攻击时，恢复[{p(heal_percent)}造成的伤害] HP。
+passive_skill_30003_3~heal_resistance_chance~0<>基本攻击变为{q(target_position)}攻击。 目标无法在{c(heal_resistance_duration)}回合中恢复或恢复生命值。
+passive_skill_30003_3~heal_resistance_chance~1<>基本攻击变为{q(target_position)}攻击。 有{p(heal_resistance_chance)} 几率目标无法在{c(heal_resistance_duration)}回合中恢复或恢复生命值。
+passive_skill_30003_4~revive_chance~0<>当一个盟友被击败时，此英雄会在同一位置为该盟友创建一个阴影。 暗影的攻击力，护甲和生命值等于此英雄的{p(stat_percent)}。 其他属性等于此英雄。 被击败时，阴影无法复活。 每个比赛每个位置只能触发一次效果。
+passive_skill_30003_4~revive_chance~1<>当一个盟友被击败时，此英雄会有{p(revive_chance)}几率在同一位置为该盟友创建一个阴影。 暗影的攻击力，护甲和生命值等于此英雄的{p(stat_percent)}。 其他属性等于此英雄。 被击败时，阴影无法复活。 每个比赛每个位置只能触发一次效果。
+passive_skill_30004_2<>基本攻击每回合对{q(effect_type)}进行{p(effect_percent)}攻击，保持{c(effect_duration)}回合，并在{c(stat_debuff_duration)}回合中减少{p(stat_debuff_percent)} {q(stat_debuff_type)}。
+passive_skill_30004_4<>在每个回合开始时，恢复等同于上回合受到伤害{p(heal_percent)}的HP。
+passive_skill_30005_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并叠加{c(number_stack)}次蛇毒标记。 每个蛇毒标记每回合都会造成[{p(venom_stack_damage)}攻击]伤害，并保持{c(venom_stack_duration)}回合。
+passive_skill_30005_3<>基本攻击会攻击{q(basic_attack_target_position)}，并为被击中的敌人提高{c(number_stack)}蛇毒标记。 蛇毒标记每回合会造成[{p(venom_stack_damage)}攻击]伤害，保持{c(venom_stack_duration)}回合。
+passive_skill_30005_4<>当受到基本攻击或技能攻击时，在刚刚攻击过你的敌人上增加{c(number_stack)}蛇毒标记，每回合造成[{p(venom_stack_damage)}攻击]伤害，并保持{c(venom_stack_duration)}回合。 死亡时造成的伤害等于蛇毒标记总数乘以{p(damage_per_stack_when_dead)}对{q(target_position)}的攻击。
+active_skill_30006_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，如果敌人的生命值低于{p(enemy_hp_limit)}，它将增加其{p(skill_damage_bonus)}技能伤害。
+passive_skill_30006_2<>使用基本攻击或技能进行攻击时，每{p(hp_percent_lost_per_bonus)}最大HP损失增加{p(bonus_attack)}攻击。
+passive_skill_30006_3<>当HP降至{p(hp_limit)}以下时，Zyx将不会在{c(heal_duration)}回合中受到攻击。每次Zyx将恢复{p(heal_amount)} HP。 每次战斗仅激活{c(trigger_limit)}次。
+passive_skill_30006_4<>每当敌人的生命值低于{p(hp_limit_to_kill)}时，立即杀死该敌人。 对Boss不起作用。
+passive_skill_30007_3<>当被基本攻击或技能攻击击中时，有{p(passive_chance)}几率阻挡{p(block_amount)}攻击，并对刚刚攻击您{c(effect_duration)}回合的敌人施加{q(effect_type)}效果。
+passive_skill_30007_4<>死亡后会爆炸，对{q(damage_target_position)}​​造成[{p(damage)}攻击]伤害，并以{p(revive_hp_percent)} HP恢复生命。 每次比赛仅激活1次。
+passive_skill_30008_3<>对于每个深渊，火焰和黑暗盟友，增加{q(stat_1)} {p(bonus_1)}，{q(stat_2)} {p(bonus_2)}。
+passive_skill_30008_4<>每当受到基本攻击时，就有{p(cc_chance)}的几率对刚刚在{c(cc_duration)}回合攻击您的敌人施加{q(cc_type)}效果。
+passive_skill_30009_3<>基本攻击攻击{q(target_position)}并对附近的2个敌人造成{p(splash_damage)}伤害，在{c(effect_duration)}回合中有{p(effect_chance)}几率对主要目标造成{q(effect_type)}
+passive_skill_30010_2~add_power_chance~0<>当治疗自己以外的盟友时，可以为该盟友恢复{c(add_power_amount)}的能量。
+passive_skill_30010_2~add_power_chance~1<>当治疗自己以外的盟友时，有{p(add_power_chance)}几率可以为该盟友恢复{c(add_power_amount)}的能量。
+passive_skill_30010_3<>基本攻击为 {q(heal_target_position)}造成[{p(basic_attack_damage_multiplier)}攻击]伤害和恢复等于[{p(heal_amount)}攻击]的HP
+passive_skill_30010_4~block_chance~0<>每当一个盟友受到攻击时，该盟友就会阻挡{p(block_rate)}伤害(不会叠加)。 该效果仅在Erde活着时存在。
+passive_skill_30010_4~block_chance~1<>每当一个盟友受到攻击时，该盟友就有{p(block_chance)} 几率阻挡{p(block_rate)}伤害(不会叠加)。 该效果仅在Erde活着时存在。
+active_skill_30011_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，被击中的敌人将受到{q(effect_type)}减去{p(effect_amount)}最大生命值，持续{c(effect_duration)}回合。 效果无法叠加
+passive_skill_30011_2<>当被基本攻击或技能攻击攻击时，恢复相当于[[{p(hp_heal_percent)}受到伤害]的HP。
+passive_skill_30011_3<>每次基本攻击都会攻击{c(number_bonus_attack)}次，每次都会对被击中的敌人造成[{p(bonus_attack_damage_multiplier)}攻击]伤害。
+passive_skill_30011_4<>每当敌人死亡时，每回合施加{q(effect_type)}减去{q(target_position)}的{p(effect_amount)}最大生命值，维持{c(effect_duration)}回合。  效果无法叠加
+active_skill_30012_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并为自己增加{p(stat_buff_amount)} {q(stat_buff_type)}，并保持{c(stat_buff_duration)}回合。
+pasive_skill_30012_3<>以基本攻击或技能攻击时，如果敌人是{q(effect_trigger_bonus)}，则造成{p(bonus_damage)}额外伤害。
+active_skill_30014_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并对带有血迹标记的敌人造成[{p(damage_bonus_amount)}攻击]伤害。
+passive_skill_30014_2~blood_mark_chance~0<>当受到基本攻击或技能攻击时，在刚刚攻击过你{c(blood_mark_duration)}回合的敌人身上留下血迹标记。 当HP降至{p(health_trigger)}以下时，在{c(stat_buff_duration)}回合中将{q(stat_buff_type)}增加{p(stat_buff_amount)}。 每次比赛仅触发一次此效果。
+passive_skill_30014_2~blood_mark_chance~1<>当受到基本攻击或技能攻击时，有{p(blood_mark_chance)}几率在刚刚攻击过你{c(blood_mark_duration)}回合的敌人身上留下血迹标记。 当HP降至{p(health_trigger)}以下时，在{c(stat_buff_duration)}回合中将{q(stat_buff_type)}增加{p(stat_buff_amount)}。 每次比赛仅触发一次此效果。
+passive_skill_30014_4~counter_attack_chance~0<>如果被敌人造成{q(counter_attack_effect)}攻击，则反击造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_30014_4~counter_attack_chance~1<>如果被敌人造成{q(counter_attack_effect)}攻击，有{p(counter_attack_chance)}几率反击造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_30019_2<>使用基本攻击或技能攻击进行攻击时，如果敌人的生命值低于{p(heal_trigger)}，则造成[{p(bonus_damage)}攻击]伤害。
+passive_skill_30019_4<>当HP低于{p(health_trigger)}时，每回合{q(target_position)}受到{q(effect_type)}减去[{p(effect_amount)}攻击]伤害，并保持{c(effect_duration)}回合。 (每场游戏只能使用一次)
+passive_skill_30020_4<>当有一位英雄死亡时，请提高自己{p(stat_amount)} {q(stat_type)}。
+passive_skill_30021_4<>基本攻击在{c(stat_debuff_duration)}回合中减少了{q(stat_debuff_amount_1)} {q(stat_debuff_type)}个目标。
+active_skill_30022_1~effect_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并对每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。
+active_skill_30022_1~effect_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并有 {p(effect_chance)}几率对每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。
+active_skill_30025_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(stat_buff_duration)}回合中为{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}。
+active_skill_30026_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并使其自身获得等于[{p(heal_percent)}造成的总伤害]的生命值。
+passive_skill_40001_2~heal_chance~0<>基本攻击每回合为{q(target_position_2)}的生命值恢复为[{p(heal_percent)}攻击]，保持{c(heal_duration)}回合。
+passive_skill_40001_2~heal_chance~1<>基本攻击每回合有{p(heal_chance)}几率为{q(target_position_2)}的生命值恢复为[{p(heal_percent)}攻击]，保持{c(heal_duration)}回合。
+passive_skill_40001_4<>当HP低于{p(hp_limit)}时，在{c(effect_duration)}的回合中有{p(trigger_chance)}的几率 对{q(effect_target_position)}上造成{q(effect_type)}效果。 在{c(stat_buff_duration)}回合中将{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}。 (每场游戏只能运作{c(trigger_limit)}次)
+passive_skill_40002_1<>对{q(enemy_target_position)}造成[{p(damage)}攻击]伤害，降低敌人的{p(stat_debuff_amount)} {q(stat_debuff_type)}在{c(stat_debuff_duration)}回合，并在{c(stat_buff_duration)}回合中增加{q(stat_buff_target_position)}的{p(stat_buff_amount)} {q(stat_buff_type)}。
+passive_skill_40002_2<>基本攻击从被击中{c(effect_duration)}回合的敌人中减去{p(effect_amount)} {q(effect_affect_to_stat)}。
+passive_skill_40002_3~block_chance~0<>当受到基本攻击或技能攻击时，提高{p(bonus_1)} {q(stat_1)}，阻挡{p(block_rate)}伤害。
+passive_skill_40002_3~block_chance~1<>增加{p(bonus_1)} {q(stat_1)}，受到基本或技能攻击时有{p(block_chance)}的几率阻挡{p(block_rate)}的伤害。
+passive_skill_40002_4<>当生命值低于{p(hp_limit)}时，将{q(stat_buff_target_position)}增加 {p(stat_buff_amount_1)} {q(stat_buff_type_1)}和{p(stat_buff_amount_2)} {q(stat_buff_type_2)}，持续{c(stat_buff_duration)}回合。 (每场游戏只能进行{c(trigger_limit)}次)
+active_skill_40003_1~effect_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，并在{c(effect_duration)}回合中为被击中的敌人添加森林仙子标记 。每当被标记的目标从恢复或恢复中获得生命值时，此英雄便会在{c(effect_dryad_duration)}回合中盗取{p(effect_dryad_amount)}数量恢复或治愈的HP来自己恢复。
+active_skill_40003_1~effect_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，每回合有{p(effect_chance)}几率施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，并在{c(effect_duration)}回合中为被击中的敌人添加森林仙子标记 。每当被标记的目标从恢复或恢复中获得生命值时，此英雄便会在{c(effect_dryad_duration)}回合中盗取{p(effect_dryad_amount)}数量恢复或治愈的HP来自己恢复。
+passive_skill_40003_2~effect_chance~0<>基本攻击每回合会造成{q(effect_type)} [{p(effect_amount)}攻击]的伤害，并在{c(effect_duration)}回合中为被击中的敌人添加森林仙子标记。 当被标记有恢复HP的敌人时，Arryl将获得{p(effect_dryad_amount)}回复的HP，并在{c(effect_dryad_duration)}回合内恢复自身。
+passive_skill_40003_2~effect_chance~1<>基本攻击每回合会造成{q(effect_type)} [{p(effect_amount)}攻击]的伤害，有{p(effect_chance)}几率在{c(effect_duration)}回合中为被击中的敌人添加森林仙子标记。 当被标记有恢复HP的敌人时，Arryl将获得{p(effect_dryad_amount)}回复的HP，并在{c(effect_dryad_duration)}回合内恢复自身。
+passive_skill_40003_4~reflect_chance~0<>当被基本攻击或 技能攻击击中时，为刚刚攻击您的敌人反射{p(reflect_damage)}伤害
+passive_skill_40003_4~reflect_chance~1<>当被基本攻击或 技能攻击击中时，有{p(reflect_chance)}几率为刚刚攻击您的敌人反射{p(reflect_damage)}伤害
+passive_skill_40004_4<>当 HP 高于 {p(health_trigger_1)} 时，将 {q(trigger_1_stat_1_buff_type)} 增加 {p(trigger_1_stat_1_buff_amount)}，将 {q(trigger_1_stat_2_buff_type)} 增加 {p(trigger_1_stat_2_buff_amount)}。 当HP低于{p(health_trigger_2)}时，将{q(trigger_2_stat_1_buff_type)}增加{p(trigger_2_stat_1_buff_amount)}，将{q(trigger_2_stat_2_buff_type)}增加{p(trigger_2_stat_2_buff_amount)}。 该效果不能被驱散、祝福或诅咒标记效果移除。
+passive_skill_40005_2<>将{q(stat_1)}增加{p(bonus_1)}，将{q(stat_2)}增加{p(bonus_2)}。 基本攻击每击中恢复{c(power_gain_per_basic_attack)}能量。
+passive_skill_40005_3<>每当使用技能攻击时，将此英雄的{q(stat_type)}增加{p(stat_amount_per_use_skill)}。 此效果无法通过消除，祝福或诅咒标记效果消除。
+passive_skill_40005_4<>阻止在第{c(block_limit)}次中受到的{p(block_rate)}伤害。 每次比赛只能触发一次此效果。
+active_skill_40006_1<>对{q(enemy_target_position)}造成[{p(damage)}攻击]伤害，并在{c(effect_duration)}回合内支撑{q(ally_target_position)}反向护盾。 反向护盾将对HP造成{p(effect_percent)}的伤害恢复为拥有者。 (反面护盾无法取下)
+passive_skill_40006_2~effect_chance~0<>基本攻击可以恢复等同于{q(target_position_2)}的[{p(effect_bonus_percent)}造成的伤害]的生命值。
+passive_skill_40006_2~effect_chance~1<>基本攻击有{p(effect_chance)}几率可以恢复等同于{q(target_position_2)}的[{p(effect_bonus_percent)}造成的伤害]的生命值。
+passive_skill_40006_3<>每当此英雄治疗一个盟友时，为自己将{q(stat_1)}增加{q(bonus_1)}，{q(stat_2)}增加{q(bonus_2)} 。(最多增加{sl(stack_limit)} {q(stat_1)}和{sl(stack_limit)} {q(stat_2)})
+passive_skill_40006_4<>当生命值低于{p(hp_limit)}时，对{q(heal_target_position)}恢复等同于[{p(heal_percent)}攻击]的生命值，对{q(buff_target_position)}增加{p(buff_bonus)} {q(buff_stat)}和{c(buff_power)}能量(每场游戏只能使用{c(trigger_limit)}次)。
+active_skill_40007_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(stat_buff_duration)}回合中增加{q(stat_buff_target_position)} {q(stat_buff_amount)} {q(stat_buff_type)}。
+passive_skill_40007_2<>基本攻击在{c(stat_buff_duration)}回合中增加{p(stat_buff_amount)} {q(stat_buff_type)}。 技能不能堆叠。
+passive_skill_40007_4~effect_chance~0<>当HP降至{p(health_trigger)}以下时，{c(effect_duration)}回合中{q(effect_type)} {q(buff_target_position)}。 每次比赛只能触发一次此效果。
+passive_skill_40007_4~effect_chance~1<>当HP低于{p(health_trigger)}时，有{p(effect_chance)}几率在{c(effect_duration)}回合中{q(effect_type)} {q(buff_target_position)}。( 每次比赛只能触发一次此效果。) 
+active_skill_40008_1~silence_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并对每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。 使受到攻击的敌人沉默{c(silence_duration)}回合。
+active_skill_40008_1~silence_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并对每回合施加{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。 有{p(silence_chance)}几率使受到攻击的敌人沉默{c(silence_duration)}回合。
+passive_skill_40008_2<>对每个深渊，火焰和黑暗对手增加{p(stat_per_faction_buff_amount)} {q(stat_per_faction_buff_type)}。
+passive_skill_50005_2<>这个英雄有一个魔法光环。 在此英雄未被击败之前，将{q(target_position_2)}的{q(stat_1)}增加{p(bonus_1)}，将{q(stat_2)}增加{p(bonus_2)}。 此光环的效果不会彼此叠加。
+passive_skill_40008_3<>为自然，水和光的盟友增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。
+passive_skill_40008_4<>有{p(resistance_effect_rate_1)}的几率免疫{q(resistance_effect_type_1)}，并且有{p(resistance_effect_rate_2)}的几率免疫{q(resistance_effect_type_2)}。 基本攻击有{p(effect_dot_chance)}几率在每回合{q(effect_dot_type)} [{p(effect_dot_amount)} 攻击]  伤害，维持{c(effect_dot_duration)}回合。 有{p(silence_chance)}的机会使你的对手沉默{c(silence_duration)}回合。
+active_skill_40009_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，然后在{c(number_round_can_not_be_targeted)}回合内无法被敌人作为目标。
+passive_skill_40009_3<>基本攻击通常攻击{c(number_bonus_attack)}次，对应的伤害为{p(damage_multiplier_1)}，{p(damage_multiplier_2)}，{p(damage_multiplier_3)}。
+passive_skill_40009_4<>每次发动一次致命攻击，下一次基本攻击造成的伤害将增加{p(bonus_damage_when_crit)}伤害。
+passive_skill_40010_3<>对{q(effect_type)}的敌人造成 [{p(bonus_damage_with_effect)} 攻击]伤害。
+passive_skill_40010_4<>死亡时，每回合{q(effect_target_position)}受到{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。 (每场游戏只能使用一次)
+passive_skill_40011_3<>如果在上一行，则增加{p(front_stat_amount)} {q(front_stat)}。 如果在后排，则增加{p(back_stat_amount_1)} {q(back_stat_1)}，{p(back_stat_amount_2)} {q(back_stat_2)}，{p(back_stat_amount_3)} {q(back_stat_3)}。
+passive_skill_40011_4<>每次攻击通常会为自己在{c(stat_buff_duration)}回合增加{p(stat_buff_amount)} {q(stat_buff_type)} ，并为自己恢复等同于[{p(heal_amount)}攻击]的生命值。 如果敌人的打击属于{q(cc_trigger_class)}阶层， 有{p(cc_trigger_chance)}几率造成{q(cc_trigger_type)}，并持续{c(cc_trigger_duration)}回合。
+passive_skill_40012_3~silence_chance~0<>如果基本攻击是致命一击，则沉默目标为{c(silence_duration)}回合。
+passive_skill_40012_3~silence_chance~1<>如果基本攻击是致命一击，则有 {p(silence_chance)}几率沉默目标为{c(silence_duration)}回合。
+passive_skill_40012_4<>使用基本攻击或技攻击进行攻击时，如果他们受到{q(effect_check_type)}的影响，则造成 [{p(bonus_damage)}攻击]额外伤害。
+active_skill_40016_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，如果敌人仍然有{p(target_hp_percent)} HP以上，则每回合持续施加 {q(dot_type)} [{p(dot_amount)} 攻击]，维持{c(dot_duration)}回合
+active_skill_40017_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，如果敌人是{q(bonus_class_hero)}， 则额外受到[{p(bonus_damage_with_class)}攻击]伤害。
+passive_skill_40020_3~heal_chance~0<>使用基本攻击或技能攻击进行攻击时，获得{q(target_position_2)}等于[{p(heal_percent)}攻击]的生命值。
+passive_skill_40020_3~heal_chance~1<>使用基本攻击或技能攻击进行攻击时，有{p(heal_chance)}几率获得{q(target_position_2)}等于[{p(heal_percent)}攻击]的生命值。
+passive_skill_40021_4_40023_2~counter_attack_chance~0<>当被基本攻击打击时，对刚刚受到攻击的敌人造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_40021_4_40023_2~counter_attack_chance~1<>当被基本攻击打击时，有{p(counter_attack_chance)}几率对刚刚受到攻击的敌人造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_50010_2_60013_3~counter_attack_chance~0<>当被基本攻击或技能击中时，反击会对刚刚攻击的敌人造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_50010_2_60013_3~counter_attack_chance~1<>当被基本攻击或技能击中时，有{p(counter_attack_chance)}几率反击会对刚刚攻击的敌人造成[{p(counter_attack_damage)}攻击]伤害。
+passive_skill_40023_4<>当HP低于{p(health_trigger)}时，增加{p(stat_1_buff_amount)} {q(stat_1_buff_type)}，{q(stat_2_buff_amount)} {q(stat_2_buff_type)}。
+passive_skill_40024_3<>基本攻击每回合有{p(effect_chance_normal)}几率受到{q(effect_type)} [{p(effect_amount)}攻击]伤害 ， 维持{c(effect_duration)}回合。 如果被击中的对手属于{q(affected_hero_class)}阶层，则有{p(effect_chance_special)}概率造成{q(effect_type)}。
+passive_skill_40024_4<>当生命值低于{p(hp_limit)}时，在{c(buff_duration)}回合为{q(buff_target_position)} 增加{p(buff_amount)} {q(buff_type)}(每次战斗只能进行{c(trigger_limit)}次)。
+passive_skill_40025_4<>死亡时，为{q(heal_target_position)}恢复等同于 [{p(heal_amount)} 攻击]的生命值， (每场战斗仅能进行{c(trigger_limit)}次)。
+passive_skill_40026_3<>每基本攻击会为自己增加{p(buff_amount)} {q(buff_type)}。
+active_skill_50001_1~effect_chance~0<>对{q(enemy_target_position)}造成[{p(damage)}攻击]伤害，并对{q(ally_target_position)}施加{q(effect_type)}效果。 效果{q(effect_type)}有助于伪造所有现有的有害效果，并在{c(effect_duration)}回合中抵抗新效果。
+active_skill_50001_1~effect_chance~1<>对{q(enemy_target_position)}造成[{p(damage)}攻击]伤害，并有{p(effect_chance)}几率对{q(ally_target_position)}施加{q(effect_type)}效果。 效果{q(effect_type)}有助于伪造所有现有的有害效果，并在{c(effect_duration)}回合中抵抗新效果。
+passive_skill_50001_2<>在每个回合开始时，在{c(effect_duration)}回合中用{q(effect_type)}标记{q(enemy_target_position)}。 在通过基本攻击或技能攻击进行攻击时，如果目标已经被{q(effect_type)}标记，则对目标英雄造成[{p(bonus_damage)} 攻击]额外伤害，并对其造成等同于[{p(hp_percent_to_heal)}攻击] 的生命值和{q(ally_target_position)}。
+passive_skill_50001_3<>当受到基本攻击或技能攻击的攻击时，如果攻击者已被弱点标记标记，则可以为该英雄和{q(target_position_2)}治疗等同于[{p(damage_percent_to_heal)} 收到的伤害] 的HP。
+passive_skill_50001_4~hp_limit~0<>该英雄死后，恢复{q(target_position_2)} HP，恢复等于英雄最大HP的{p(max_hp_percent_to_heal)}除以盟军数量。 每场比赛可触发{c(trigger_limit)}次。
+passive_skill_50001_4~hp_limit~1<>当HP降至{p(hp_limit)}以下时，可以恢复{q(target_position_2)}的HP。 生命恢复等于此英雄最大生命值的{p(max_hp_percent_to_heal)}除以接收者数量。 每次比赛可以激活{c(trigger_limit)}次此效果。
+active_skill_50002_1<>对{q(target_position)}造成[{p(damage)} atk]伤害。 在{c(stat_debuff_duration)}个回合中将目标的{q(stat_debuff_type_1)}减少{p(stat_debuff_amount_1)}，将{q(stat_debuff_type_2)}减少{p(stat_debuff_amount_2)}。 将{q(effect_type)}应用于{c(effect_duration)}回合中的那些敌人。
+passive_skill_50002_2<>主动技能和基本攻击对{q(effect_type)}标记的目标造成{p(bonus_damage)}更多的伤害。
+passive_skill_50002_3~revive_chance~0<>当被有圣印记的敌人杀死时，使自己恢复{p(revive_hp_percent)} HP。 (每个敌人发作用一次)
+passive_skill_50002_3~revive_chance~1<>当被有圣印记的敌人杀死时，有{p(revive_chance)}几率使自己恢复{p(revive_hp_percent)} HP。 (每个敌人发作用一次)
+passive_skill_50002_4<>当被有圣印的敌人攻击时，在{c(duration)}回合中增加{p(bonus_1)} {q(stat_1)}，{p(bonus_2)} {q(stat_2)}。 (当效果是由同一敌人造成时不会叠加)
+active_skill_50003_1<>对{q(enemy_target_position)}造成[{p(damage)} 攻击]伤害，并将当前最大{q(stat_to_steal)}的{p(stat_steal_amount)}从目标转移到{q(ally_target_position)}。 此效果不适用于Boss 。 无法通过驱散，祝福或诅咒标记效果来消除这种增益效果。
+passive_skill_50003_3<>基本攻击对攻击力最高的敌人造成伤害. 基本攻击会窃取目标当前的{p(steal_stat_amount)} {q(steal_stat_type)}。
+passive_skill_50003_4~revive_chance~0<>每当一个盟友(除他本人)死亡时，以{p(revive_hp_percent)} HP使该盟友复活(每次战斗只能使用一次)。
+passive_skill_50003_4~revive_chance~1<>每当一个盟友(除他本人)死亡时，有{p(revive_chance)}几率 以{p(revive_hp_percent)} HP使该盟友复活(每次战斗只能使用一次)。
+active_skill_50004_1<>对{q(enemy_target_position)}造成[{p(damage)}攻击]伤害，为吸收全部[{p(effect_bonus_percent)}攻击]伤害的所有盟友创建一个总盾牌，该盾牌在{c(effect_duration)}回合后会断开(盾牌 无法堆叠)。
+passive_skill_50004_3<>普通攻击对目标造成 {p(stat_percent)} 最大 {q(stat_convert)} 额外伤害。此 {q(stat_convert)} 在每轮开始时计算。
+passive_skill_50004_4<>每 {c(round_step)} 轮，在该英雄的回合中，对所有盟友施加 {q(effect_type)} 效果，持续 {c(effect_duration)} 轮。该英雄本人也在 {c(effect_duration)} 轮内增加 {q(stat_buff_type)} {c(stat_buff_amount)}。 {q(effect_type)} 效果立即驱散所有负面减益并抵抗所有传入的负面减益。
+active_skill_50005_1<>对{q(enemy_target_position)}造成[{p(damage)} 攻击]伤害，并在{c(effect_duration)}回合中对{q(ally_target_position)}造成一个光盾。 当受到基本攻击或主动技能的攻击时，光盾吸收{p(effect_percent)}受到的伤害并恢复等量的生命值。 此效果无法叠加。 此效果无法通过驱散，祝福或诅咒标记效果消除。
+passive_skill_50005_3~effect_chance~0<>基本攻击可以恢复等同于{q(target_position_2)}的[{p(effect_bonus_percent)}造成的总伤害]的生命值。
+passive_skill_50005_3~effect_chance~1<>基本攻击有 {p(effect_chance)}几率为{q(target_position_2)}恢复等同于的[{p(effect_bonus_percent)}造成的伤害]。
+passive_skill_50006_2<>Enule的子弹可以弹向{c(number_bouncing)}个目标，受到跟随目标的伤害等于{p(damage_bouncing)}个先前目标的伤害(所有攻击的子弹都起作用，但是当攻击时无法使目标昏迷击球是一项主动技能)。
+passive_skill_50006_3~extra_turn_chance~0<>当被基本攻击或技能击中时，执行一次额外的攻击，造成[{p(damage_of_extra_turn)}攻击]伤害，每回合最多{c(extra_turn_limit)}次。
+passive_skill_50006_3~extra_turn_chance~1<>使用基本攻击或技能进行攻击时，有{p(extra_turn_chance)}的概率执行一次附加攻击，造成[{p(damage_of_extra_turn)}攻击]伤害，每回合最多{c(extra_turn_limit)}次。
+passive_skill_50006_4<>敌人每1圈受到Enule {c(number_take_damage_required)}次伤害，则每次{c(effect_duration)}圈为{q(effect_type)}。
+active_skill_50007_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，恢复{p(heal_amount)}最大生命值，并击退{q(buff_target_position)}的所有有害影响。
+passive_skill_50007_2~steal_chance~0<>普通攻击会在{c(steal_duration)}回合内将目标的当前{p(steal_stat_amount_1)} {q(steal_stat_type_1)}，{p(steal_stat_amount_2)} {q(steal_stat_type_2)} {q(steal_buff_target_position)}偷走。
+passive_skill_50007_2~steal_chance~1<>基本攻击具有{p(steal_chance)}的概率，在{c(steal_duration)}回合内盗取{q(steal_buff_target_position)}的{p(steal_stat_amount_1)} {q(steal_stat_type_1)}，{p(steal_stat_amount_2)} {q(steal_stat_type_2)}当前目标。
+passive_skill_50007_3<>每当一个盟友的生命值低于{p(health_trigger)}时，立即恢复该盟友的[HP]攻击强度等于[{p(heal_amount)}攻击](每场战斗只能使用一次)。
+passive_skill_50007_4<>将基本攻击转化为对{q(damage_target_position)}造成[{p(damage)}次攻击]伤害。
+passive_skill_50008_3<>基本攻击会增加自我和{q(buff_target_position)} {c(power_buff_amount)}的能量。
+passive_skill_50008_4<>死亡时，对{q(damage_target_position)}​​造成[{p(damage)}攻击]伤害，并在{c(stat_buff_duration)}回合中对{q(buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}。 (每场游戏只能使用一次)
+active_skill_50009_1<>如果敌人在{q(bonus_damage_faction_type)}系统中被击中，则对{q(target_position)}造成[{p(damage)}攻击]伤害，并增加{p(bonus_damage_faction_value)}造成的伤害。
+active_skill_50009_3<>每个光明盟友增加{p(stat_per_light_buff_amount)} {q(stat_per_light_buff_type)}，而每个黑暗盟友则增加{p(stat_per_dark_buff_amount)} {q(stat_per_dark_buff_type)}。
+passive_skill_50009_4~effect_chance~0<>基本攻击在{c(effect_duration)}回合中在{q(buff_target_position)}上产生{q(effect_type)}。
+passive_skill_50009_4~effect_chance~1<>基本攻击在{c(effect_duration)}回合中有{p(effect_chance)}几率产生{q(effect_type)}至{q(buff_target_position)}。
+active_skill_50010_1~silence_chance_debuff_mage~0<>对{q(target_enemy_min_max)}造成[{p(damage_min)}-{p(damage_max)}攻击]伤害，如果对手被魔法类击中并使其有{p(silence_chance_debuff_mage)}几率造成{q(effect_type_debuff_warrior)}，且目标为战士类，则对其造成沉默，维持{c(effect_duration)}次。
+active_skill_50010_1~silence_chance_debuff_mage~1<>对{q(target_enemy_min_max)}造成[{p(damage_min)}-{p(damage_max)}攻击]伤害，如果对手是法师级命中，则有{p(silence_chance_debuff_mage)}的沉默概率，并且如果该物品，则有{p(effect_chance_debuff_warrior)}的概率{q(effect_type_debuff_warrior)}花在战士阶级上，保持{c(effect_duration)}回合。
+passive_skill_50010_3~stat_buff_chance~0<>基本攻击在{c(stat_buff_duration)}回合中增加{c(number_buff)}倍，{p(stat_buff_amount)} {q(stat_buff_type)}，每次增加{q(buff_target_position)}。
+passive_skill_50010_3~stat_buff_chance~1<>基本攻击在{c(stat_buff_duration)}回合中有{p(stat_buff_chance)}几率增加{c(number_buff)}倍{p(stat_buff_amount)} {q(stat_buff_type)}，每次增加{q(buff_target_position)}。
+passive_skill_50010_4<>如果目标的生命值超过最大生命值{p(health_bonus_trigger)}，则进行基本攻击，造成[{p(bonus_damage)}攻击]伤害。
+passive_skill_50011_2<>收到任何有害影响后，它将增加{p(buff_amount)} {q(buff_stat)}(最多可累积{c(max_stack)}次)。
+passive_skill_50011_3<>普通攻击造成额外 {p(bonus_basic_attack)} 点伤害，并有 {p(effect_chance)} 几率在 {c(effect_duration)} 轮内攻击 {q(effect_type)} 个目标
+passive_skill_50011_4~trigger_chance~0<>每次攻击都会获得祝福，并在{c(buff_duration)}回合中增加{p(buff_amount)} {q(buff_stat)}(最多可以累积{c(max_stack)}次)。
+passive_skill_50011_4~trigger_chance~1<>每次攻击都有{p(trigger_chance)}的概率获得神圣恩典，在{c(buff_duration)}回合中增加{p(buff_amount)} {q(buff_stat)}(最多可以累积{c(max_stack)}次)。
+active_skill_50012_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并为自己和{q(heal_target_position)}治疗，使其生命值等同于[{p(heal_percent_of_damage)}造成的伤害]。
+passive_skill_50012_3<>如果发生致命一击，则进行基本攻击，在{c(stat_buff_duration)}回合中增加{p(stat_buff_amount_1)} {q(stat_buff_type_1)}和{p(stat_buff_amount_2)} {q(stat_buff_type_2)}。
+passive_skill_50012_4~heal_chance~0<>如果敌人的生命值大于自身的生命，则进行基本攻击，造成{p(bonus_damage)}伤害并恢复等于[{p(heal_percent_of_damage)}造成的伤害]的数量。
+passive_skill_50012_4~heal_chance~1<>基本攻击，如果敌人的生命值大于自己的生命值，则造成{p(bonus_damage)}伤害，并有{p(heal_chance)}几率恢复等同于[{p(heal_percent_of_damage)}造成的伤害]的HP。
+passive_skill_50013_3~trigger_chance~0<>当被基本攻击或技能击中时，阻挡{p(block_rate)}伤害并造成{q(effect_type)}击中敌人{c(effect_duration)}回合。
+passive_skill_50013_3~trigger_chance~1<>当受到基本攻击或技能攻击时，{p(trigger_chance)}格挡{p(block_rate)}伤害并在{c(effect_duration)}回合中对{q(effect_type)}敌人造成伤害的概率为{p(trigger_chance)}。
+passive_skill_50013_4<>当生命值低于{p(health_trigger)}时，治疗{q(heal_target_position)}生命值等于[{p(heal_amount)}攻击]。 (每场游戏只能使用一次)
+passive_skill_50014_4~stat_buff_chance~0<>如果被目标击中，则基本攻击会立即对自己造成{p(stat_buff_amount)} {q(stat_buff_type)}的伤害。
+passive_skill_50014_4~stat_buff_chance~1<>基本攻击有{p(stat_buff_chance)}的几率，如果您击中了目标，立即对自己增加{p(stat_buff_amount)} {q(stat_buff_type)}。
+active_skill_50015_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并使他们在{c(effect_duration)}回合中受到冠军{q(effect_faction)}的{p(effect_amount)}额外伤害。 (此效果不会叠加)
+passive_skill_50015_4<>当生命值低于{p(health_trigger)}时，将{q(stat_buff_target_position)}的{p(stat_buff_amount)} {q(stat_buff_type)}增加{c(stat_buff_duration)}倍。
+active_skill_50017_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(effect_duration)}回合内最多给自己{p(bonus_1)} {q(stat_1)}。
+passive_skill_50022_3<>比赛开始时增加{c(power_gain_start_battle)}的能量。
+passive_skill_50023_4<>使用基本攻击或异能进行攻击时，可以为自己恢复[{p(heal_percent)}造成的伤害]生命值。
+passive_skill_50024_4~heal_chance~0<>当受到基本攻击或技能攻击时，自身会获得等于[{p(heal_percent)}传入伤害]的生命值。
+passive_skill_50024_4~heal_chance~1<>当受到基本攻击或技能攻击时，有{p(heal_chance)}几率使自己恢复[{p(heal_percent)}受到的伤害]。
+passive_skill_50025_3~bonus_attack_chance~0<>基本攻击会产生额外的攻击，造成[{p(bonus_attack_damage_multiplier)}攻击]伤害。
+passive_skill_50025_3~bonus_attack_chance~1<>基本攻击有{p(bonus_attack_chance)}几率制造额外的攻击，造成[{p(bonus_attack_damage_multiplier)}攻击]伤害。
+active_skill_50026_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(stat_buff_duration)}回合中为{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}。
+passive_skill_50026_3<>使用基本攻击或技能进行攻击时，如果对手是{q(affected_faction)}系统，则造成[{p(bonus_attack)} Attack]伤害。
+passive_skill_50026_4<>当生命值低于{p(hp_limit)}时，将{q(stat_buff_target_position)}的{p(stat_buff_amount)} {q(stat_buff_type)}增加{c(stat_buff_duration)}倍。 (每场游戏只能进行{c(trigger_limit)}次)
+passive_skill_60001_4~extra_turn_chance_per_crit~0<>如果使用附加攻击进行致命一击，则为普通攻击，每次附加攻击造成的伤害等于前一次攻击的{p(damage_per_extra_turn)}，最多{c(extra_turn_limit)}次攻击。每转额外。
+passive_skill_60001_4~extra_turn_chance_per_crit~1<>如果暴击有一定几率{p(extra_turn_chance_per_crit)}进行一次附加攻击，则普通攻击，每次附加攻击造成的伤害等于前一次攻击的{p(damage_per_extra_turn)}，最大可能每回合{c(extra_turn_limit)}额外攻击。
+active_skill_60002_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并偷走当前{p(stat_steal_amount)} {q(stat_to_steal)}的被击中敌人，并在{c(steal_duration)}回合内将其发送回自己，然后将其返回。 (效果无法消除)
+passive_skill_60002_2<>每当敌人的生命值低于{p(hp_lower)}时，嗜血狂魔者的血量都会增加{q(bonus_1)} {q(stat_1)}和{q(bonus_2)} {q(stat_2)}。
+passive_skill_60002_3<>每当敌人死亡时，寻血者将恢复敌人最大生命值的{p(heal_percent)}。 (进入比赛前获得敌人的最大生命值)
+passive_skill_60002_4<>每次盟友死亡时，嗜血狂魔者的血量都会增加{q(bonus_1)} {q(stat_1)}和{q(bonus_2)} {q(stat_2)}。
+active_skill_60003_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并优先安排后排。造成{p(first_chance)}的几率造成{c(first_multi_damage)}倍的伤害，并且有{p(second_chance)}的几率造成{c(second_multi_damage)}的伤害。
+passive_skill_60003_3<>每损失{p(percent_trigger)} HP，您将获得{p(stat_buff_1_amount)} {q(stat_buff_1_type)}，{p(stat_buff_2_amount)} {q(stat_buff_2_type)}和{p(stat_buff_3_amount)} {q(stat_buff_3_type)}。
+passive_skill_60003_4~heal_chance~0<>当生命值低于{p(health_trigger)}时，致命一击会对该攻击恢复[{p(heal_amount_by_damage)}]相等的伤害。
+passive_skill_60003_4~heal_chance~1<>当生命值低于{p(health_trigger)}时，关键攻击有{p(heal_chance)}几率恢复等同于[{p(heal_amount_by_damage)}该攻击伤害]的生命值。
+active_skill_60004_1~effect_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并且对被击中{c(effect_duration)}回合的敌人造成{q(effect_type)}的伤害。所有盟友将专注于标记的敌人，直到标记过期。{q(effect_type)} 是不可移除的效果。
+active_skill_60004_1~effect_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并且有{p(effect_chance)}几率对被击中的敌人进行{c(effect_duration)}回合时，造成{q(effect_type)}的伤害。所有盟友将专注于标记的敌人，直到标记过期。{q(effect_type)} 是不可移除的效果。
+passive_skill_60004_2~effect_chance~0<>基本攻击攻击{q(damage_target_position)}，并在{c(effect_duration)}回合中引起{q(effect_type)}。当攻击一个可以{q(effect_type)}治疗的敌人时，该单位的生命值等于[{p(effect_amount)}自我攻击]。
+passive_skill_60004_2~effect_chance~1<>基本攻击会攻击{q(damage_target_position)}，并有{p(effect_chance)}的概率在{c(effect_duration)}回合中引起{q(effect_type)}。当攻击一个可以{q(effect_type)}治疗的敌人时，该单位的生命值等于[{p(effect_amount)}自我攻击]。
+passive_skill_60004_3<>减少受到暗影敌人的{p(reduce_damage_dark_mark)}伤害。
+passive_skill_60004_4~effect_chance~0<>这个英雄有一个神奇的光环。 直到该英雄未被击败，当一名友军受到普攻和主动技能攻击时，将{p(effect_amount)}受到的伤害反射给攻击者。 只会反射伤害。
+passive_skill_60004_4~effect_chance~1<>这个英雄有一个神奇的光环。 直到该英雄未被击败，当一名友军受到普攻和主动技能攻击时，有{p(effect_chance)}机会将受到的伤害{p(effect_amount)}反射给攻击者。 只会反射伤害。
+active_skill_60005_1~effect_chance~0<>对 {q(damage_target_position)} 造成 [{p(damage)} of ATK] 伤害并用 {q(effect_type)} 标记目标 {c(effect_duration)} 轮。如果目标的当前HP高于{p(hp_trigger_crit_rate)}，则此攻击肯定会受到严重打击。所有盟友将专注于标记的敌人，直到标记过期。如果被攻击的敌人HP低于{p(max_hp_to_kill)}，他会立即被处决（处决对BOSS无效）。
+active_skill_60005_1~effect_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并有{c(effect_duration)}几率用{q(effect_type)}标记目标，直到回合结束。如果目标的当前HP高于{p(hp_trigger_crit_rate)}，则此攻击绝对是致命一击。盟友进行的所有基本攻击都将以标记的敌人为目标，直到标记的效果失效为止。如果被攻击的敌人HP低于{p(max_hp_to_kill)}，他会立即被处决（处决对BOSS无效）。
+passive_skill_60005_3~stat_debuff_chance~0<>基本攻击Scathatch对{q(damage_target_position)}进行攻击，并对其{c(stat_debuff_duration)}回合内的敌人命中降低{q(stat_debuff_amount)} {q(stat_debuff_type)}效果(最大降低{p(stat_debuff_max)} {q(stat_debuff_type)})。该效果可以在不同的Scathatch角色之间叠加。此外，被攻击的敌人将是 {q(effect_type)} {c(effect_duration)} 轮。
+passive_skill_60005_3~stat_debuff_chance~1<>基本攻击Scathatch攻击{q(damage_target_position)}，并且有{q(effect_type)}几率对被击中的敌人造成{q(stat_debuff_amount)} {q(stat_debuff_type)}降低(最大降低{p(stat_debuff_max)} {q(stat_debuff_type)})，持续{c(stat_debuff_duration)}回合。该效果可以在不同的Scathatch角色之间叠加。
+passive_60005_4<>基本攻击具有{p(bonus_basic_attack_chance_1)}攻击几率{c(bonus_basic_attack_number_1)}，{p(bonus_basic_attack_chance_2)}攻击几率{c(bonus_basic_attack_number_2)}，{p(bonus_basic_attack_chance_3)}攻击几率{c(bonus_basic_attack_number_3)}和{p(bonus_basic_attack_chance_4)}几率{c(bonus_basic_attack_number_4)}次。
+active_skill_60006_1~stat_debuff_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，减少{p(stat_debuff_amount_1)} {q(stat_debuff_type_1)}，{q(stat_debuff_amount_2)} {q(stat_debuff_type_2)}和{q(stat_debuff_amount_3_1)} {q(stat_debuff_type_3)}的敌人击中，持续{c(stat_debuff_duration)}回合。
+active_skill_60006_1~stat_debuff_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。还有{p(stat_debuff_chance)}几率在 减少{p(stat_debuff_amount_1)} {q(stat_debuff_type_1)}，{q(stat_debuff_amount_2)} {q(stat_debuff_type_2)}和{q(stat_debuff_amount_3_1)} {q(stat_debuff_type_3)}的敌人击中，持续{c(stat_debuff_duration)}回合。
+passive_skill_60006_3<>基本攻击和主动技能对目标施加 {q(effect_type)} 效果 {c(effect_duration)} 轮。 {q(effect_type)} 效果每轮对目标造成 [{p(effect_amount)} of ATK] 伤害。此外，普通攻击还会施加{c(silence_duration)}轮的沉默效果。
+passive_skill_60006_4<>基本攻击命中 {q(attack_target_position)} 并窃取 {q(steal_stat_type)} 的 {p(steal_stat_value)}，然后转移给自己和 {q(buff_ally_position)}。\n特殊效果：\n当她死后，她的 {q(transfer_stat_type_1)} 和 {q(transfer_stat_type_2)} 中的 {p(transfer_stat_percent)} 将被送到 {q(buff_ally_position)}。 此效果每场比赛仅触发 1 次。
+active_skill_60007_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。能够恢复{q(heal_target_position)}点生命值，等于[{p(heal_percent)}攻击力]。
+passive_skill_60007_2<>基本攻击会标记生病的敌人，并在{c(effect_duration)}回合中将它们标记为被诅咒的标记。 (不能累积诅咒标记)\n\n诅咒标记消除了敌人的所有有益效果，防止了他们获得有益效果。尤其诅咒马克也阻止了愈合，恢复
+passive_skill_60007_3<>如果一个盟友攻击标有疾病的敌人，它将恢复等同于[邪恶教授的攻击[{p(heal_amount)}]的生命值。 如果有很多邪恶的教授，被动技能具有最高的价值。
+passive_skill_60007_4<>当被标记有疾病的敌人攻击自己时，{c(buff_duration)}回合中{q(target_position_2)} {p(buff_amount)} {q(buff_stat)}立即增加。
+passive_skill_60008_2~effect_chance~0<>基本攻击消除了被击中敌人的有益影响，使受到[{p(heal_percent_with_damage)}伤害]的生命值转化为自身的生命值。
+passive_skill_60008_2~effect_chance~1<>主动技能和基本攻击有{p(effect_chance)}几率消除对手命中的有益效果，并通过对其自身造成[{p(heal_percent_with_damage)}造成的伤害]转化一定数量的HP。
+passive_skill_60008_4~trigger_chance~0<>当生命值低于{p(health_trigger)}时，自己恢复{p(heal_amount)}，并在{c(stat_buff_duration)}回合中将{q(stat_buff_type)}增加到{p(stat_buff_amount)}。 (每场游戏只能使用一次)
+passive_skill_60008_4~trigger_chance~1<>当健康状况低于{p(health_trigger)}时，就有{p(trigger_chance)}的几率使{p(heal_amount)}的生命恢复，并在{c(stat_buff_duration)}的回合中将{q(stat_buff_type)}的自身提升至{p(stat_buff_amount)}。 (每场游戏只能使用一次)
+active_skill_60009_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，优先于受到疾病影响的敌人，对带有疾病标记的敌人增加[{p(damage_bonus_amount)} Attack]攻击。
+passive_skill_60009_3<>基本攻击对{q(target_position)}个随机目标造成伤害，并在{c(mark_duration)}回合中用病痕标记目标。标记目标会从所有来源受到{p(damage_receive_debuff_amount)}额外伤害。
+passive_skill_60009_4<>当标记有该疾病的敌人死亡时，会对{q(target_position)}造成[{p(damage_multiplier)}攻击]伤害。 (每场游戏只能使用一次)
+active_skill_60010_1~debuff_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，减少{q(stat_debuff_type)} {p(stat_debuff_amount)}并施加{q(effect_type)}(中和有益效果，并且无法获得额外的有益效果) )的敌人{c(debuff_duration)}回合。
+active_skill_60010_1~debuff_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，{p(debuff_chance)}降低了几率{q(stat_debuff_type)} {p(stat_debuff_amount)}并造成{q(effect_type)}(抵消了有益效果，并且无法获得额外加成)敌人{c(debuff_duration)}回合获得额外的有益效果。
+passive_skill_60010_2~effect_chance~0<>当收到盟友的有利影响时（不包括召唤师），对{q(target_position)}施加{q(effect_type)}，{q(effect_type)}持续{c(debuff_duration)}回合。 从Diadora的活跃技能中捕捉到的敌人{q(effect_type)}仍然可以从该技能中获得{q(effect_type)}。
+passive_skill_60010_2~effect_chance~1<>当收到盟友的有利影响时（不包括召唤师），Diadora有{p(effect_chance)}几率对{q(target_position)}施加{q(effect_type)}，{q(effect_type)}持续{c(debuff_duration)}回合。从Diadora的活跃技能中捕捉到的敌人{q(effect_type)}仍然可以从该技能中获得{q(effect_type)}。
+passive_skill_60010_3~effect_chance~0<>基本攻击，如果对目标的攻击为{q(effect_trigger)}，每回合造成{q(effect_type)} [{p(effect_amount)}攻击]伤害，持续{c(effect_duration)}回合。
+passive_skill_60010_3~effect_chance~1<>如果对目标的攻击为{q(effect_trigger)}，则基本攻击每回合有{p(effect_chance)}的概率造成{q(effect_type)} [{p(effect_amount)}攻击]的伤害，并保持{c(effect_duration)}回合。
+passive_skill_60010_4~stat_buff_chance~0<>死亡时，对{q(effect_target_position)}​​施加{q(effect_type)}并在{q(stat_buff_target_position)}上对{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}，持续{c(duration)}回合。
+passive_skill_60010_4~stat_buff_chance~1<>死亡时，对{q(effect_target_position)}​​施加{q(effect_type)}，并且有{p(stat_buff_chance)}几率在{c(duration)}回合中为{q(stat_buff_target_position)}增加{p(stat_buff_amount)} {q(stat_buff_type)}。
+passive_skill_60011_3<>如果目标的防御高于其防御，则基本攻击会变成{q(damage_target_position)}攻击并造成{p(bonus_damage)}额外伤害。
+passive_skill_60011_4<>每当您对同一个敌人进行基本攻击时，都会降低目标的{p(stat_debuff_amount)} {q(stat_debuff_type)}。
+active_skill_60012_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。如果对手的命中是{q(effect_trigger_class)}，则造成[{p(bonus_damage_with_class)}攻击]伤害并在{c(effect_duration)}回合中有{p(effect_chance)}的概率{q(effect_type)}。
+passive_60012_3<>暴击每回合会造成{q(effect_dot_type)} [{p(effect_dot_amount)}攻击]点伤害，持续{c(effect_dot_duration)}回合。
+active_skill_60013_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并偷走当前{p(steal_stat_amount)} {q(steal_stat_type)}的被击中敌人并将其发回自身。
+passive_skill_60013_4<>每次盟友死亡时，对自己提高{p(stat_buff_amount)} {q(stat_buff_type)}即可。
+active_skill_60014_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害并将它们捆绑在一起{c(bond_duration)}回合，当受到攻击时，链接中的敌人将伤害平均分配。
+passive_skill_60015_3~effect_dot_chance~0<>基本攻击变为{q(damage_target_position)}攻击，每回合受到{q(effect_dot_type)} [{p(effect_dot_amount)}攻击]伤害，持续{c(effect_dot_duration)}回合。
+passive_skill_60015_3~effect_dot_chance~1<>基本攻击变为{q(damage_target_position)}攻击，每回合有{p(effect_dot_chance)}几率造成{q(effect_dot_type)} [{p(effect_dot_amount)}攻击]伤害，并保持{c(effect_dot_duration)}转。
+active_skill_60016_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(effect_duration)}回合中增加{p(bonus_1)} {q(stat_1)}。
+active_skill_60021_1~silent_chance~0<>如果对手是{q(affected_hero_class)}系统，则对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并在{c(silent_duration)}回合中对对手施加沉默效果。
+active_skill_60021_1~silent_chance~1<>如果对手是{q(affected_hero_class)}系统，则对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并且有{p(silent_chance)}的机率使对手沉默{c(silent_duration)}回合。
+passive_skill_60021_2~extra_turn_chance_per_crit~0<>如果发生致命一击，则进行基本攻击，并执行一次附加攻击，造成[{p(damage_per_extra_turn)}攻击]伤害，每回合使{c(extra_turn_limit)}最大化。
+passive_skill_60021_2~extra_turn_chance_per_crit~1<>如果基本攻击是暴击，则此英雄有几率再进行一次转身，以[{p(damage_per_extra_turn)}攻击]伤害进行下一次基本攻击，最多{c(extra_turn_limit)}回合。
+passive_skill_60022_4~effect_chance~0<>攻击每回合造成{q(effect_type)} {p(effect_amount)}点伤害，维持{c(effect_duration)}回合。
+passive_skill_60022_4~effect_chance~1<>基本攻击或异能对{c(effect_duration)}回合击中的敌人有{q(effect_type)}效果的{c(effect_duration)}概率。 {q(effect_type)}效果每回合都会对目标造成[{p(effect_amount)}攻击]。
+passive_skill_60024_2~heal_chance~0<>每次他受到伤害时，自己会获得等于[{p(heal_amount)}受到伤害]的生命值。
+passive_skill_60024_2~heal_chance~1<>每当受到伤害时，都有{p(heal_chance)}几率恢复自己的HP 等于[{p(heal_amount)}受到的伤害]。
+passive_skill_60025_2<>通过[{p(heal_bonus)}攻击]增加生命值，可自我恢复。
+passive_skill_60026_4<>减少{p(poison_damage_reduction)}点由毒药造成的伤害。
+active_skill_damage<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。
+passive_skill_30001_2<>每成功击杀1名敌人，在整个比赛中，他们都会增加{q(bonus_1)} {q(stat_1)}和{q(bonus_2)} {q(stat_2)}。
+passive_skill_10008_4<>每次Mammusk杀死1个对手时，他的{q(bonus_1)} {q(stat_1)}都会增加。
+active_skill_effect_buff_heal~heal_duration~0<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并通过[{p(heal_percent)}攻击]回复{q(heal_target_position)}的生命值。
+active_skill_30021_1<>对{q(target_position)}造成[{p(damage)}攻击]伤害，并每次{q(heal_target_position)}回复{p(heal_percent)} HP，维持{c(heal_duration)}转。
+passive_skill_30004_3_40011_2_40019_4<>当被基本攻击或技能击中时，{c(effect_duration)}回合中有{p(effect_chance)}的概率为{q(effect_type)}。
+passive_skill_20011_3~stat_buff_chance~0<>每次基本攻击都会使自己{p(stat_buff_amount)} {q(stat_buff_type)} {c(stat_buff_duration)}回合。
+passive_skill_20011_3~stat_buff_chance~1<>每次基本攻击都有{p(stat_buff_chance)}几率使{p(stat_buff_amount)} {q(stat_buff_type)}增加{c(stat_buff_duration)}回合。
+passive_skill_30022_4<>基本攻击对{q(target_position)}造成[{p(damage)}攻击]伤害。
+active_skill_20008_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害，并造成昏暗效果，使受到{c(stat_debuff_duration)}回合击中的敌人造成的{p(stat_debuff_amount)} {q(stat_debuff_type)}降低。
+active_skill_30024_1_50013_1~stat_debuff_chance~0<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 对受到攻击的敌人造成{p(stat_debuff_amount)} {q(stat_debuff_type)}的{c(stat_debuff_duration)}回合降低致盲效果。
+active_skill_30024_1_50013_1~stat_debuff_chance~1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 有{p(stat_debuff_chance)}几率对受到攻击的敌人造成{p(stat_debuff_amount)} {q(stat_debuff_type)}的{c(stat_debuff_duration)}回合降低致盲效果。
+passive_skill_10010_4<>当生命值低于{p(health_trigger)}时，对自己提高{p(stat_buff_amount)} {q(stat_buff_type)}，维持{c(stat_buff_duration)}回合。 此效果无法通过驱散，密封或密封来消除。
+active_skill_30027_1<>对{q(damage_target_position)}造成[{p(damage)}攻击]伤害。 对受到攻击的敌人造成{p(stat_debuff_amount)} {q(stat_debuff_type)}的{c(stat_debuff_duration)}回合降低致盲效果。该英雄还可以恢复他所造成伤害的 {p(heal_amount_by_damage)} 的生命值。
+passive_skill_30027_2<>基本攻击和主动技能不能暴击。 但是，每个 {p(exchange_percent)} {q(exchange_stat)}（来自基本统计数据和添加的所有其他数据）都会转换为 {p(target_percent)} {q(target_stat)}。 此转换的最大数量为 {p(max_exchange)}。 此外，普攻和主动技能会减少被击中敌人的{c(deduct_power_amount)}能量。
+passive_skill_30027_3<>该英雄的每个活着的盟友都会增加 {q(stat_1_buff_type_1)} {p(bonus_stat_type_1)}, {q(stat_debuff_type)} {p(stat_debuff_amount)}。
+passive_skill_30027_4<>当该英雄第一次降至 {c(trigger_hp)} HP 时，该英雄进入隐身状态。 {c(trigger_round)}轮后，该英雄觉醒，攻击力上限等于开始时的{p(new_attack_percent)}； 护甲上限等于一开始的{p(new_defense_percent)}，血量上限等于一开始的{p(new_hp_percent)}。
+passive_skill_60003_2~chance~0<>普通攻击和主动技能有 {p(effect_chance)} 的机会在 {c(effect_duration)} 轮内施加等于 [{p(effect_amount)} ATK] 的 {q(effect_type)}。
+passive_skill_60003_2~chance~1<>普通攻击和主动技能有 {p(effect_chance)} 的机会在 {c(effect_duration)} 轮内施加等于 [{p(effect_amount)} ATK] 的 {q(effect_type)}。
+active_skill_40027_1<>她转变为龙形态持续 {c(transform_duration)} 轮。 即使她获得沉默效果，也会发生变形。 在变身的那一刻，她应用了 3 种效果：\n1. 对 {q(stun_target_position)} 造成 [{p(skill_damage)} ATK] 的伤害。\n2. 将 {q(stun_effect_type)} 效应应用到 {q(stun_target_position)} 进行 {c(stun_duration)} 轮。\n3. 与{q(enemy_bond_target_position)}建立精神纽带。 当债券仍然存在时，她受到的 {p(bond_damage_percent)} 伤害转移到持有债券的敌人身上。
+passive_skill_40027_2<>作为龙族的公主，她有两种特殊能力：人形和龙形。\n人类形态：她击中单个目标并减少目标的 {p(human_stat_debuff_amount)} {q(human_stat_debuff_type)}，持续 {c(human_stat_debuff_duration)} 轮。 最大 debuff 是 {p(human_stat_debuff_max)}。\n龙形态：她命中 {q(dragon_target_position)}，所有命中均为重击。 她的 {q(stat_1)} 增加 {p(bonus_1)}，并且在攻击时，她治疗自己的生命值等于造成的伤害的 {p(dragon_heal_percent)}。  
+passive_skill_40027_3<>她对攻击她或被她攻击的敌人施加{q(effect_type)}效果。 {q(effect_type)} 效果造成 [{p(effect_amount)} ATK] 的伤害并持续 {c(effect_duration)} 轮。
+passive_skill_40027_4<>在人形和龙形之间转换时，她会清除自己所有可移除的减益效果并获得龙的祝福。 龙之祝福在变身回合达到 {c(trigger_hp)} HP 时恢复她的 {p(new_hp_percent)} HP。
+passive_skill_40004_3<>基本攻击现在对 {q(damage_target_position)} 造成 [{p(damage_attack)} of ATK] 伤害。 将 {q(stat_1)} 增加 {p(bonus_1)}。 将 {q(stat_2)} 增加 {p(bonus_2)}。 此外，基本攻击通过击中的敌人数量乘以 [{p(heal_percent)} of ATK] 来治愈自己

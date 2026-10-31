@@ -1,0 +1,145 @@
+key<>value
+money_type_-1<>Random currency
+money_type_0<>Normal currency
+money_type_1<>The most valuable rare currency
+money_type_2<>Use for increasing your VIP level
+money_type_10<>Use for upgrading Hero
+money_type_11<>Use for Hero evolving.  Can be claimed in Quest Tree or Dragon Tower
+money_type_20<>Use for purchasing items in Shrine Store
+money_type_30<>Use for spinning in Fortune Wheel
+money_type_31<>Use for spinning in Destiny Wheel
+money_type_32<>Use for purchasing Items in Wish Store
+money_type_40<>Use for challenging in Arena
+money_type_41<>Use for purchasing Items in Challenger Store
+money_type_50<>Use for Basic Summon 
+money_type_51<>Use for Premium Summon
+money_type_52<>Use to receive Hero 5-star in Summon
+money_type_60<>Use for summoning in Ancient Tree
+money_type_61<>Use for exchanging Heroes in Ancient Tree
+money_type_70<>Use for Friendship Summon
+money_type_80<>Use to upgrade Rune at hero equipment interface
+money_type_85<>Use for challenging the Dragon Tower
+money_type_90<>Use for creating 1-star~7-star quest in the Tavern
+money_type_91<>Use for creating 4-star~7-star quest in the Tavern
+money_type_100<>Use for upgrading Mastery
+money_type_110<>Use for evolving Summoner in Summoner Panel
+money_type_120<>Use for purchasing Items in Guild Store
+money_type_121<>Use for purchasing Items in Guild Store
+money_type_8<>Use for upgrading Summoner
+money_type_140<>Use for purchasing Heroes in Soul Shop
+money_type_141<>Use for purchasing Heroes in Soul Shop
+money_type_142<>Use for purchasing Heroes in Soul Shop
+money_type_135<>Use for Server Opening Event
+money_type_150<>Use for upgrading Arena Shop
+money_type_151<>Use for upgrading Guild Store
+money_type_152<>Use for upgrading Black Market Shop
+money_type_190<>Use for increasing Arena Pass Level
+money_type_191<>Use for increasing Daily Quest Pass Level
+money_type_180<>Use for bet on Event Mid-Autumn
+money_type_181<>Use for feeding the Qilin in Event Mid-Autumn
+money_type_210<>Use for playing game in Event Halloween
+money_type_211<>Use for exchanging reward in Event Halloween
+money_type_170<>Use for unlocking slot in Raise Hero Level
+money_type_200_unused<>Used to upgrade structures of Marrianna Bay in Fortress
+money_type_201<>Used to evolve material
+money_type_202<>Used to evolve material
+money_type_203<>Used to evolve material
+money_type_204<>Used to evolve material
+money_type_205<>Used to evolve material
+money_type_206<>Used to evolve material
+money_type_207<>Used to evolve material
+money_type_208<>Used to upgrade structures of Spirit World in Fortress
+money_type_209<>Used to upgrade structures of Library of Time in Fortress
+money_type_220<>Use for blessing in Christmas Blessing
+money_type_221<>Use for betting in Christmas Arena
+money_type_222<>Use for exchanging rewards in Christmas Exchange
+money_type_230<>Used for playing Lucky Wishes
+money_type_241<>Used to exchange items in God of Wealth Shop
+money_type_240<>Used to play Prosperous Avenue
+money_type_244<>Used in Legendary Summon
+money_type_245<>Used to fight devils in Expel Devil
+money_type_242<>Used to unlock levels of Expel Devil
+money_type_243<>Used to exchange gift in Lucky Money Shop
+money_type_250<>Used to Exchange in Event Valentine
+money_type_251<>Used to open Love box in Event Valentine
+money_type_165<>Used to play event Salute New Hero
+money_type_45<>Used to battle in Martial Arena
+money_type_46<>Used to purchase items in Knight Shop
+money_type_154<>Used to upgrade Knight Shop
+money_type_136<>Used to receive rewards in Server Merging event
+money_type_12<>Used to evolve 14-star-hero
+money_type_25<>Used to regress Hero
+money_type_235<>Used to participate in Easter Event
+money_type_236<>Used to participate in Easter Event
+money_type_237<>Used to participate in Easter Event
+money_type_238<>Used to participate in Easter Event
+money_type_239<>Used to participate in Easter Event
+money_type_166<>Used to play event Salute New Hero
+money_type_167<>Used to exchange rewards of fighting Enule Boss
+money_type_225<>Used to spin wheel at Birthday Event
+money_type_168<>Used to hunt treasures at Birthday Event
+money_type_115<>Received at Domains. Open to receive rewards
+money_type_116<>Received at Domains. Open to receive rewards
+money_type_117<>Received at Domains. Open to receive rewards
+money_type_118<>Received at Domains. Open to receive rewards
+money_type_119<>Received at Domains. Open to receive rewards
+money_type_113<>Used to buy items in Domains shop
+money_type_195<>Used to level up Battle Pass progression.
+money_type_15<>Used when upgrading equiments. Received in Martial Arena, special event and monthly package in Shop.
+money_type_35<>Received at Arena. Open to receive rewards
+money_type_36<>Received at Arena. Open to receive rewards
+money_type_37<>Received at Arena. Open to receive rewards
+money_type_248<>Used to participate in activities at Lunar New Year event.
+money_type_249<>Collect to receive rewards at Lunar New year event.
+money_type_65<>Use to increase Kazetsu Boss entry
+money_type_231<>Used to participate in Easter Event
+money_type_232<>Used to participate in Easter Event
+money_type_233<>Used to participate in Easter Event
+money_type_234<>Used to participate in Easter Event
+money_type_66<>Used to fight Finde Boss
+money_type_252<>Used to participate in {1}
+money_type_226<>Used to participate in birthday event.
+money_type_22<>Used to receive the willing hero.
+money_type_23<>Used to receive the willing hero.
+money_type_227<>Used to raise progress of Legacy pass.
+money_type_26<>Used to receive Dark, Light faction artifact.
+money_type_27<>Used to receive W/F/A/N faction artifact..
+money_type_175<>Used to play event Zodiac.
+money_type_176<>Used to play event Zodiac.
+money_type_215<>Used to participate in Skin challenge event.
+money_type_196<>Used to exchange rewards at Battle Pass shop.
+money_type_95<>This item is used to unlock and refresh Talent.
+money_type_200<>Use to evolve material
+money_type_253<>Used to play event Tower of Eitri
+money_type_254<>Used to exchange rewards at Exchange Area
+money_type_223<>Use to play in Summer Festival
+money_type_224<>Use to make mojito for Summer Festival
+money_type_125<>Open to receive water ball
+money_type_126<>Use to play in Summer Festival
+money_type_127<>Use to play in Summer Festival
+money_type_128<>Use to play in Summer Festival
+money_type_129<>Use to play in Summer Festival
+money_type_137<>Use to challenge boss in boss fight event
+money_type_182<>Use for exchanging rewards in Mid-Autumn event
+money_type_255<>Use for exchanging items in Tower of Eitri event
+money_type_185<>Use for exchanging items in Piece Adventure event
+money_type_186<>Use for open chest in Piece Adventure event
+money_type_101<>Use for playing game in Thanksgiving Event
+money_type_102<>Use for exchanging reward in Thanksgiving Event
+money_type_75<>User for playing Gold mode in Adventure
+money_type_76<>User for playing Potion mode in Adventure
+money_type_77<>User for playing Fragment mode in Adventure
+money_type_43<>Used to purchase items in Knight Shop
+money_type_229<>Used to Exchange in event New Year
+money_type_78<>Used to Exchange in event Lunar New Year
+money_type_79<>Used to Play Bingo in event New Year
+money_type_217<>Used to Easter Journey in Event Easter Day
+money_type_218<>Used to Exchange in event Easter Day
+money_type_81<>Used to Summer Travel in Event Summer Holiday
+money_type_82<>Used to Exchange in event Summer Holiday
+money_type_62<>Used to Viewing Flower in Event Cherry Blossom
+money_type_63<>Used to Exchange in event Cherry Blossom
+money_type_86<>Used to Wishing Love in Event Qixi Day
+money_type_87<>Used to Exchange in event Qixi Day
+money_type_72<>Used to Lucky Bingo in Event Mexico Festival
+money_type_73<>Used to Exchange in event Mexico Festival

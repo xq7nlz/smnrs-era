@@ -1,0 +1,145 @@
+key<>value
+money_type_-1<>Dinero aleatorio
+money_type_0<>El oro es dinero común.
+money_type_1<>El jade es el dinero más valioso y raro.
+money_type_2<>Utilizado para actualizar sus derechos
+money_type_10<>Se utiliza para aumentar los niveles de Héroe en la tabla de Héroe
+money_type_11<>Se utiliza para evolucionar a los héroes, se puede recoger en el árbol de misiones o Torre del Dragón
+money_type_20<>Se utiliza para comprar artículos en Tienda del altar.
+money_type_30<>Se utiliza para girar en Rueda de deseos.
+money_type_31<>Se utiliza para girar en Rueda del Destino.
+money_type_32<>Se utiliza para comprar artículos en Tienda de Deseos.
+money_type_40<>Se utiliza para ingresar Arena.
+money_type_41<>Se utiliza para comprar artículos en Tienda de la Arena.
+money_type_50<>Se utiliza para convocar en Convocatoria básica.
+money_type_51<>Se utiliza para convocar en Convocatoria superior.
+money_type_52<>Se utiliza para obtener un héroe de 5 estrellas en Sede estrategico de convocatoria
+money_type_60<>Se utiliza para para convocar en Árbol Profética.
+money_type_61<>Se utiliza para reemplazar al Héroe en Árbol Profética.
+money_type_70<>Se utiliza para convocar en Convocatoria de los Amigos.
+money_type_80<>Se utiliza para actualizar la Piedra en el equipo del Héroe.
+money_type_85<>Se utiliza para ingresar Torre del Dragón.
+money_type_90<>Se utiliza para inicializar las misiones de 1 estrella ~ 7 estrellas en Taberna
+money_type_91<>Se utiliza para inicializar las misiones de 4 estrellas ~ 7 estrellas en Taberna
+money_type_100<>Se utiliza para actualizar en {Tabla suplementaria.
+money_type_110<>Se utiliza para evocar el Invocador en la Tabla de Invocadores.
+money_type_120<>Se utiliza para comprar artículos en Tienda del Gremio.
+money_type_121<>Se utiliza para comprar artículosen Tienda del Gremio.
+money_type_8<>Se utiliza  para actualiza el Invocador
+money_type_140<>Se utiliza para pagar a los héroes en la Tienda de Almas
+money_type_141<>Se utiliza para pagar a los héroes en la Tienda de Almas
+money_type_142<>Se utiliza para pagar a los héroes en la Tienda de Almas
+money_type_135<>Se utiliza en el evento para celebrar el nuevo servidor
+money_type_150<>Use for upgrading Arena Shop
+money_type_151<>Use for upgrading Guild Store
+money_type_152<>Use for upgrading Black Market Shop
+money_type_190<>Use for increasing Arena Pass Level
+money_type_191<>Use for increasing Daily Quest Pass Level
+money_type_180<>Usar para apostar en el evento a mediados de outumno
+money_type_181<>Úselo para alimentar al Qilin en el evento de mediados de otoño
+money_type_210<>Use for playing game in Event Halloween
+money_type_211<>Use for exchanging reward in Event Halloween
+money_type_170<>Use for unlocking slot in Raise Hero Level
+money_type_200_unused<>Se utiliza para mejorar las estructuras de [Bay Marrianna] en [fortaleza].
+money_type_201<>Se utiliza para evolucionar material
+money_type_202<>Se utiliza para evolucionar material
+money_type_203<>Se utiliza para evolucionar material
+money_type_204<>Se utiliza para evolucionar material
+money_type_205<>Se utiliza para evolucionar material
+money_type_206<>Se utiliza para evolucionar material
+money_type_207<>Se utiliza para evolucionar material
+money_type_208<>Used to upgrade structures of Spirit World in Fortress
+money_type_209<>Used to upgrade structures of Library of Time in Fortress
+money_type_220<>Uso para la bendición en la bendición navideña
+money_type_221<>Uso para apostar en la arena navideña
+money_type_222<>Uso para intercambiar recompensas en el intercambio de Navidad
+money_type_230<>Se usa para jugar Deseos De Suerte
+money_type_241<>Se usa para intercambiar artículos en Tienda Dios De La Riqueza
+money_type_240<>Se usa para jugar Avenida próspera
+money_type_244<>Se utiliza en Invocación legendaria 
+money_type_245<>Se usa para luchar contra los demonios en Expulsar Diablo
+money_type_242<>Se usa para desbloquear el nivel Expulsar Diablo
+money_type_243<>Se usa para intercambiar regalos en la tienda Dinero Afortunado
+money_type_250<>Solado para intercambiar en eventos Valentine
+money_type_251<>Solía ​​abrir la caja de amor en el evento Valentine
+money_type_165<>Se utiliza para evento de reproducción Salute Nuevo Héroe
+money_type_45<>Se utiliza para ingresar Arena Marcial .
+money_type_46<>Se usa para comprar artículos en Tienda Knight 
+money_type_154<>Se usa para actualizar Tienda Knight  
+money_type_136<>Se usa para recibir recompensas en el evento Fusión de servidores
+money_type_12<>Se utiliza para evolucionar héroe de 14 estrellas
+money_type_25<>Se utiliza para héroe regresión
+money_type_235<>Se utiliza para participar en eventos Pascua 
+money_type_236<>Se utiliza para participar en eventos Pascua 
+money_type_237<>Se utiliza para participar en eventos Pascua 
+money_type_238<>Se utiliza para participar en eventos Pascua 
+money_type_239<>Se utiliza para participar en eventos Pascua 
+money_type_166<>Se utiliza para evento de reproducción Salute Nuevo Héroe
+money_type_167<>Used to exchange rewards in event Salute New Hero
+money_type_225<>Solía girar la rueda en el evento de cumpleaños
+money_type_168<>Se utiliza para cazar tesoros en el cumpleaños de eventos
+money_type_115<>Recibido en Dominios. Abierto para recibir recompensas
+money_type_116<>Получено в Dominios. Открывайте, чтобы получать награды
+money_type_117<>Recibido en Dominios. Abierto para recibir recompensas
+money_type_118<>Recibido en Dominios. Abierto para recibir recompensas
+money_type_119<>Recibido en Dominios. Abierto para recibir recompensas
+money_type_113<>Se usa para comprar artículos en la tienda Dominios
+money_type_195<>Se usa para subir de nivel la progresión del Pase de batalla.
+money_type_15<>Se usa al actualizar equipos.
+money_type_35<>Recibido en Arena. Abierto para recibir recompensas
+money_type_36<>Recibido en Arena. Abierto para recibir recompensas
+money_type_37<>Recibido en Arena. Abierto para recibir recompensas
+money_type_248<>Se usa para participar en actividades en el evento Año Nuevo Lunar.
+money_type_249<>Recoja para recibir recompensas en el evento del año nuevo lunar.
+money_type_65<>Úselo para aumentar la entrada de Kazetsu Boss
+money_type_231<>Se utiliza para participar en eventos Pascua 
+money_type_232<>Se utiliza para participar en eventos Pascua 
+money_type_233<>Se utiliza para participar en eventos Pascua 
+money_type_234<>Se utiliza para participar en eventos Pascua 
+money_type_66<>Solía ​​luchar contra Finde Boss
+money_type_252<>Se utiliza para participar en el {1}
+money_type_226<>Solía ​​participar en el evento de cumpleaños.
+money_type_22<>Solía ​​recibir el héroe dispuesto.
+money_type_23<>Solía ​​recibir el héroe dispuesto.
+money_type_227<>Se utiliza para aumentar el progreso de Legacy Pass.
+money_type_26<>Se usa para recibir artefacto de facción oscuro y ligero.
+money_type_27<>Solía ​​recibir W/F/A/N Faction Artifact.
+money_type_175<>Solía ​​jugar al zodiaco de eventos.
+money_type_176<>Solía ​​jugar al zodiaco de eventos.
+money_type_215<>Solía ​​participar en el evento de desafío de la piel.
+money_type_196<>Solía ​​intercambiar recompensas en Battle Pass Shop.
+money_type_95<>Este artículo se usa para desbloquear y actualizar el talento.
+money_type_200<>Uso para evolucionar material
+money_type_253<>Solía ​​jugar a la torre de eventos de Eitri
+money_type_254<>Se utiliza para intercambiar recompensas en el área de Exchange
+money_type_223<>Solía ​​jugar en el festival de verano
+money_type_224<>Solía ​​hacer mojito para el festival de verano
+money_type_125<>Abierto para recibir la bola de agua
+money_type_126<>Solía ​​jugar en el festival de verano
+money_type_127<>Solía ​​jugar en el festival de verano
+money_type_128<>Solía ​​jugar en el festival de verano
+money_type_129<>Solía ​​jugar en el festival de verano
+money_type_137<>Solía ​​desafiar el evento de lucha de Boss in Boss
+money_type_182<>Úselo para intercambiar recompensas en el evento de mediados de otoño
+money_type_255<>Uso para intercambiar artículos en el evento Tower of Eitri
+money_type_185<>Usar para intercambiar artículos en el evento de aventura en pieza
+money_type_186<>Usar para el evento de aventura en el cofre abierto en la pieza
+money_type_101<>Úselo para jugar en el evento de Acción de Gracias
+money_type_102<>Uso para intercambiar recompensa en el evento de Acción de Gracias
+money_type_75<>Usuario para jugar al modo dorado en aventura
+money_type_76<>Usuario para jugar al modo de poción en aventura
+money_type_77<>Usuario para jugar al modo de fragmento en aventura
+money_type_43<>Se usa para comprar artículos en Tienda Knight 
+money_type_229<>Solía ​​intercambiar en el evento Año Nuevo
+money_type_78<>Solía ​​intercambiar en eventos Año Nuevo Lunar
+money_type_79<>Solía ​​jugar bingo en el evento Año Nuevo
+money_type_217<>Solía ​​el viaje de Pascua en el evento de Pascua del evento
+money_type_218<>Solía ​​intercambiar en el evento del día de Pascua
+money_type_81<>Solía ​​viajar en verano en eventos de vacaciones de verano
+money_type_82<>Solía ​​intercambiar en eventos de vacaciones de verano
+money_type_62<>Solía ​​ver Flower en Event Cherry Blossom
+money_type_63<>Solado para intercambiar en eventos Cherry Blossom
+money_type_86<>Solía ​​desear el amor en el evento Qixi Day
+money_type_87<>Solado para intercambiar en el evento Qixi Day
+money_type_72<>Solía ​​el bingo afortunado en el evento Festival de México
+money_type_73<>Solía ​​intercambiar en el evento Festival de México

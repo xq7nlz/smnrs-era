@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_chance,effect_type,effect_duration
+Dwarf_Active,1.05,20,4,0.3,1,2
+Dwarf_Active,1.25,20,4,0.4,1,2
+Dwarf_Active,1.45,20,4,0.5,1,2

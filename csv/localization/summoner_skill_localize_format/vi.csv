@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}.
+summoner_1_1_1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Giảm {q(stat_debuff_amount_3)} {q(stat_debuff_type)} của kẻ địch trúng đòn, duy trì {c(stat_debuff_duration)} lượt.
+summoner_1_1_2~stat_debuff_chance~1<>Gây [{p(damage)} of ATK] sát thương lên {q(target_position)} . Có {p(stat_debuff_chance)} cơ hội làm giảm {q(stat_debuff_amount_3)} {q(stat_debuff_type)} của kẻ thù trong {c(stat_debuff_duration)} hiệp.
+summoner_1_1_2~stat_debuff_chance~0<>Gây [{p(damage)} of ATK] sát thương lên {q(target_position)} và làm giảm {q(stat_debuff_amount_3)} {q(stat_debuff_type)} của kẻ thù trong {c(stat_debuff_duration)} hiệp.
+summoner_1_1_3~dispel_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Ứng với mỗi kẻ địch đã chết gây thêm [{p(damage_bonus_per_die)} tấn công] sát thương lên những kẻ địch còn lại, và xua tan hiệu ứng có lợi của chúng.
+summoner_1_1_3~dispel_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Ứng với mỗi kẻ địch đã chết gây thêm [{p(damage_bonus_per_die)} tấn công] sát thương lên những kẻ địch còn lại, và có {p(dispel_chance)} xác suất xua tan hiệu ứng có lợi của chúng.
+summoner_1_2_1<>Tăng {p(bonus_1)} {q(stat_1)} và {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_1_2_2<>Tăng {p(bonus_1)} {q(stat_1)} cho {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Khi bị tấn công, có {p(passive_chance)} xác suất gây [{p(damage)} tấn công] sát thương lên kẻ địch vừa tấn công mình.
+summoner_1_2_3<>Tăng {p(bonus_1)} {q(stat_1)} và {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>Khi bắt đầu trận đấu, miễn nhiễm hiệu ứng cho {q(target_position_2)} trong {c(blessing_duration)} lượt.
+summoner_1_3_1~blessing_chance~1<>Khi bắt đầu trận đấu, có {p(blessing_chance)} xác suất miễn nhiễm hiệu ứng cho {q(target_position_2)} trong {c(blessing_duration)} lượt.
+summoner_1_3_2~buff_chance~1<>Khi bắt đầu mỗi hiệp lẻ, có {p(buff_chance)} cơ hội tăng {q(stat_buff_1_amount)} {q(stat_buff_1_type)} và {q(stat_buff_2_amount)} {q(stat_buff_2_type)} cho {q(buff_target_position)}. Hiệu ứng này kéo dài {c(buff_duration)} hiệp.
+summoner_1_3_2~buff_chance~0<>Khi bắt đầu mỗi hiệp lẻ, tăng {q(stat_buff_1_amount)} {q(stat_buff_1_type)} và {q(stat_buff_2_amount)} {q(stat_buff_2_type)} cho {q(buff_target_position)}. Hiệu ứng này kéo dài {c(buff_duration)} hiệp.
+summoner_1_3_3~buff_chance~0<>Mỗi khi đồng minh hy sinh, tăng {q(stat_buff_1_amount)} {q(stat_buff_1_type)} và {q(stat_buff_2_amount)} {q(stat_buff_2_type)} cho {q(buff_target_position)}.
+summoner_1_3_3~buff_chance~1<>Mỗi khi đồng minh hy sinh, có {c(buff_duration)} xác suất tăng {q(stat_buff_1_amount)} {q(stat_buff_1_type)} và {q(stat_buff_2_amount)} {q(stat_buff_2_type)} cho {q(buff_target_position)}.
+summoner_1_4_1~block_chance~0<>Đồng minh ở vị trí thứ {s(target_number)} chặn {p(block_rate)} sát thương khi bị tấn công.
+summoner_1_4_1~block_chance~1<>Đồng minh ở vị trí thứ {s(target_number)} có {p(block_chance)} xác suất chặn {p(block_rate)} sát thương khi bị tấn công.
+summoner_1_4_2<>Khi bắt đầu mỗi hiệp, {q(target_position_2)} nhận được thêm {c(power_buff)} năng lượng.
+summoner_1_4_3<>Tăng {q(stat_buff_amount_3)} {q(stat_buff_type)} cho {q(buff_target_position)}. Nếu đồng đó đánh được {c(count_trigger)} đòn, thì gây thêm [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Giảm {q(stat_debuff_amount_3)} {q(stat_debuff_type)} của kẻ địch trúng đòn, duy trì {c(stat_debuff_duration)} lượt.
+summoner_2_1_1~stat_debuff_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Có {p(stat_debuff_chance)} xác suất giảm {q(stat_debuff_amount_3)} {q(stat_debuff_type)} của kẻ địch trúng đòn, duy trì {c(stat_debuff_duration)} lượt.
+summoner_2_1_2~stat_buff_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}. Tạo khiên giúp tăng {q(stat_buff_amount_3)} {q(stat_buff_type)} cho {q(buff_target_position)}, duy trì {c(stat_buff_duration)} lượt.
+summoner_2_1_2~stat_buff_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}. Có {p(stat_buff_chance)} xác suất tạo khiên giúp tăng {q(stat_buff_amount_3)} {q(stat_buff_type)} cho {q(buff_target_position)}, duy trì {c(stat_buff_duration)} lượt.
+summoner_2_1_3<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, có {p(effect_chance)} xác suất gây {q(effect_type)} lên kẻ địch trúng đòn trong {c(effect_duration)} lượt.
+summoner_2_2_1<>Tăng {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_2_2_2<>Tăng {q(bonus_1)} {q(stat_1)} và giảm {q(debuff_amount_1)} {q(debuff_stat_1)} cho {q(target_position_2)}.
+summoner_2_2_3~buff_chance~0<>Mỗi khi đồng minh chết đi, sẽ tăng {q(stat_buff_amount_3)} {q(stat_buff_type)} cho các đồng minh còn lại, nếu cả 4 đồng minh chết, 2 đồng minh còn lại nhận 75% {q(stat_buff_type)}, và nếu chỉ còn 1 đồng minh thì tăng 100% {q(stat_buff_type)}.
+summoner_2_2_3~buff_chance~1<>Mỗi khi đồng minh chết đi, có {p(buff_chance)} xác suất sẽ tăng {q(stat_buff_amount_3)} {q(stat_buff_type)} cho các đồng minh còn lại, nếu cả 4 đồng minh chết, 2 đồng minh còn lại nhận 75% {q(stat_buff_type)}, và nếu chỉ còn 1 đồng minh thì tăng 100% {q(stat_buff_type)}.
+summoner_2_3_1<>Nếu {q(target_position_2)} đang bị dính hiệu ứng khống chế cứng, thì những đồng minh đó được giảm {p(reduce_damage_amount)} sát thương cuối nhận vào.
+summoner_2_3_2~block_chance~0<>Mỗi khi đồng minh bị tấn công, có {p(buff_chance)} xác suất tạo khiên lên {q(target_position_2)} giúp chặn {p(block_amount)} sát thương nhận vào, duy trì {c(block_duration)} hiệp. Hiệu ứng này không cộng dồn.
+summoner_2_3_2~block_chance~1<>Mỗi khi đồng minh bị tấn công, có {p(buff_chance)} xác suất tạo khiên lên {q(target_position_2)}, có {p(block_chance)} xác suất chặn {p(block_amount)} sát thương nhận vào, duy trì {c(block_duration)} lượt. Hiệu ứng này không cộng dồn.
+summoner_2_3_3<>Mỗi đồng minh khi nhận sát thương vượt quá HP hiện tại, thì có {p(last_chance_rate)} xác suất sống sót với 1 HP. Khi hiệu ứng này kích hoạt thì đồng minh đó nhận {c(power_gain)} năng lượng. (chỉ có tác dụng 1 lần trên mỗi đồng minh trong 1 trận)
+summoner_2_4_1~block_chance~0<>Đồng minh ở vị trí {s(target_number)}, chặn {p(block_rate)} sát thương khi bị tấn công.
+summoner_2_4_1~block_chance~1<>Đồng minh ở vị trí {s(target_number)}, có {p(block_chance)} xác suất chặn {p(block_rate)} sát thương khi bị tấn công.
+summoner_2_4_2<>Khi bắt đầu hiệp {c(round_trigger_list)}, tạo liên kết giữa  {q(tanker_target_position)} với {q(target_position_3)}. Sát thương của tất cả các đồng minh được liên kết sẽ được chuyển {p(damage_share_percent)} cho {q(tanker_target_position)}. Hiệu ứng này kéo dài {c(bond_duration)} hiệp.
+summoner_2_4_3<>Increase {q(stat_buff_amount_3)} {q(stat_buff_type)} for {q(buff_target_position)}.Each 3 attacks (basic attack or active skill) this hero received, immediately counter-attack and deal [{p(damage_percent_hp)} of this ally's HP] damage to {q(damage_target_position)}.
+summoner_3_1_1<>Gây [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}, hồi một lượng HP bằng [{p(heal_percent)} tấn công] cho {q(heal_target_position)}.
+summoner_3_1_2<>Gây [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}, có {p(effect_chance)} xác suất gây {q(effect_type)} lên kẻ địch trúng đòn trong {c(effect_duration)} hiệp.
+summoner_3_1_3<>Gây [{p(damage)} tấn công] sát thương lên {q(damage_target_position)}, và kết nối {q(bond_target_position)} lại với nhau, liên kết này giúp chia đều sát thương khi bị tấn công trong {c(bond_duration)} lượt.
+summoner_3_2_1<>Tăng {p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_3_2_2<>Tăng {q(bonus_1)} {q(stat_1)} cho {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Khi đồng minh bị tấn công, có {p(heal_chance)} xác suất hồi lại [{p(heal_amount)} tấn công] HP cho đồng minh đó.
+summoner_3_2_3<>Khi bắt đầu trận đấu, tăng {c(power_stat)} năng lượng cho đồng minh ở vị trí {s(target_number)}.
+summoner_3_3_1<>Tăng {q(bonus_1)} {q(stat_1)} cho {q(target_position_2)}.
+summoner_3_3_2<>Đầu mỗi hiệp {c(round_trigger_list)}, tăng {q(stat_buff_amount)} {q(stat_buff_type)} cho {q(target_position_2)}, duy trì {c(stat_buff_duration)} lượt.
+summoner_3_3_3<>Tăng {p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_3_4_1<>Đầu mỗi hiệp lẻ, tăng {c(power_buff)} năng lượng cho {q(target_position_2)}.
+summoner_3_4_2<>Đầu mỗi hiệp lẻ, xóa toàn bộ hiệu ứng bất lợi cho {q(target_position_2)}.
+summoner_3_4_3~heal_chance~0<>Khi máu của 1 đồng minh dưới {p(heal_trigger)}, hồi một lượng HP bằng [{p(heal_amount)} tấn công] cho đồng minh đó. (chỉ có tác dụng 1 lần mỗi trận)
+summoner_3_4_3~heal_chance~1<>Khi máu của 1 đồng minh dưới {p(heal_trigger)}, có {p(heal_chance)} xác suất hồi một lượng HP bằng [{p(heal_amount)} tấn công] cho đồng minh đó. (chỉ có tác dụng 1 lần mỗi trận)
+summoner_4_1_1~debuff_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và gây {q(debuff_type)} [{p(debuff_amount)} tấn công] sát thương mỗi lượt, duy trì {c(debuff_duration)} lượt.
+summoner_4_1_1~debuff_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và có {p(debuff_chance)} xác suất gây {q(debuff_type)} [{p(debuff_amount)} tấn công] sát thương mỗi lượt, duy trì {c(debuff_duration)} lượt.
+summoner_4_1_2<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và có {p(debuff_chance)} xác suất gây {q(debuff_type)} lên kẻ địch trúng đòn trong {c(debuff_duration)} hiệp.
+summoner_4_1_3<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và tăng {p(buff_amount)} {q(buff_type)} cho {q(buff_target_position)}, duy trì {c(buff_duration)} lượt.
+summoner_4_2_1<>Tăng {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_4_2_2<>Tăng {q(bonus_1)} {q(stat_1)} cho {q(target_position_2)}.
+summoner_4_2_3<>Tăng {p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_4_3_1<>Tăng {q(bonus_1)} {q(stat_1)} cho {q(target_position_2)}.
+summoner_4_3_2<>Mỗi khi bắt đầu 1 hiệp, kết nối {q(target_position_2)} với {q(bond_target_position)} trong {c(bond_duration)} hiệp.  {p(bond_share_damage)} sát thương {q(target_position_2)} phải chịu sẽ được chia đều cho {q(bond_target_position)} đã liên kết.
+summoner_4_3_3<>Khi đồng minh thực hiện thành công hiệu ứng khống chế cứng (làm choáng, ru ngủ, đóng băng, hóa đá), thì sẽ kèm theo hiệu ứng chảy máu [{p(damage)} tấn công] sát thương (lượt của hiệu ứng kèm theo bằng với lượt của hiệu ứng khống chế cứng).
+summoner_4_4_1<>Tăng {p(bonus_1)} {q(stat_1)} cho {q(target_position_2)} mỗi khi có 1 đồng minh thực hiện thành công 1 đòn chí mạng (giá trị có thể cộng dồn nếu xảy ra nhiều đòn chí mạng trong mỗi lượt), duy trì {c(buff_duration)} lượt.
+summoner_4_4_2<>Khi né thành công một đòn đánh, tăng {q(buff_type)} {q(buff_amount)} trong {c(buff_duration)} hiệp. Hiệu ứng không cộng dồn.
+summoner_4_4_3<>Với mỗi {c(buff_per_power)} năng lượng của triệu hồi sư, tăng {p(buff_amount)} {q(buff_type)} cho {q(target_position_2)}.
+summoner_5_1_1~stat_debuff_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Giảm {p(stat_debuff_amount)} {q(stat_debuff_type)} của kẻ địch trúng đòn, duy trì {c(stat_debuff_duration)} lượt.
+summoner_5_1_1~stat_debuff_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}. Có {p(stat_debuff_chance)} xác suất giảm {p(stat_debuff_amount)} {q(stat_debuff_type)} của kẻ địch trúng đòn, duy trì {c(stat_debuff_duration)} lượt.
+summoner_5_1_2<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và khiến chúng phải chịu thêm {p(damage_receive_debuff_amount)} sát thương từ mọi nguồn trong {c(damage_receive_debuff_duration)} hiệp.
+summoner_5_1_3~debuff_chance~0<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và gây {q(debuff_type)} [{p(debuff_amount)} tấn công] sát thương mỗi lượt, duy trì {c(debuff_duration)} lượt.
+summoner_5_1_3~debuff_chance~1<>Gây [{p(damage)} tấn công] sát thương lên {q(target_position)}, và có {p(debuff_chance)} xác suất gây {q(debuff_type)} [{p(debuff_amount)} tấn công] sát thương mỗi lượt, duy trì {c(debuff_duration)} lượt.
+summoner_5_2_1<>Tăng {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_5_2_2<>Tăng {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)} cho {q(target_position_2)}.
+summoner_5_2_3<>Tăng {p(bonus_1)} {q(stat_1)} cho {q(target_position_2)}.
+summoner_5_3_1<>Khi đồng minh tấn công lên kẻ địch đang chịu hiệu ứng khống chế cứng (làm choáng, ru ngủ, đóng băng, hóa đá), tăng thêm {p(bonus_damage_receive)} sát thương.
+summoner_5_3_2<>Đầu mỗi hiệp {c(round_trigger_list)}, giảm {q(debuff_amount_1)} {q(debuff_stat_1)} của {q(target_position)} trong {c(debuff_duration)} hiệp.
+summoner_5_3_3<>Nếu đồng minh thực hiện thêm 1 đòn tấn công bổ sung, tăng thêm {p(bonus_damage_extra_turn)} sát thương của đòn đánh đó.
+summoner_5_4_1<>Đồng minh ở vị trí {s(target_number)}, tăng {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)}.
+summoner_5_4_2<>Tăng {q(bonus_1)} {q(stat_1)} cho {q(target_position_2)}.
+summoner_5_4_3<>Các đòn tấn công bổ sung thứ {c(number_extra_turn_affect)} thực hiện bởi các đồng minh, gây thêm {p(bonus_damage_extra_turn)} sát thương và gây {q(effect_type)} kẻ địch, duy trì {c(effect_duration)} lượt.
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

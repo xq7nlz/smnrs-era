@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)}.
+summoner_1_1_1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e reduz {q(stat_debuff_type)} do alvo em {q(stat_debuff_amount_3)} por {c(stat_debuff_duration)} rodadas.
+summoner_1_1_2~stat_debuff_chance~1<>Causa [{p(damage)} de ATK] de dano a {q(target_position)}. Tem uma {p(stat_debuff_chance)} chance de reduzir o {q(stat_debuff_amount_3)} {q(stat_debuff_type)} do inimigo por {c(stat_debuff_duration)} rodadas.
+summoner_1_1_2~stat_debuff_chance~0<>Lidar [{p(damage)} de ATK] danos para {q(target_position)} inimigos aleatórias na última fila e diminuir esses inimigos {q(stat_debuff_amount_3)} {q(stat_debuff_type)} em {c(stat_debuff_duration)} rodadas.
+summoner_1_1_3~dispel_chance~0<>causa [{p(damage)} of ATK] de dano a {q(target_position)} e dispensa todos os buffs positivos no alvo. causa [{p(damage_bonus_per_die)} of ATK] de dano extra ao alvo para todos os Heróis inimigos foram derrotados. causa [{p(damage_bonus_per_die)} of ATK] de dano extra ao alvo para todos os Heróis inimigos que forem derrotados.
+summoner_1_1_3~dispel_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)}. Para todo inimigo morto, causa [{p(damage_bonus_per_die)} of ATK] de dano aos inimigos restantes e tenha {p(dispel_chance)} de chance de remover seus buffs.
+summoner_1_2_1<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_1_2_2<>Aumente {p(bonus_1)} {q(stat_1)} para {q(target_position_2)}
+remove_summoner_1_2_2~passive_chance~1<>Quando o Herói aliado for atacado por ataque básico ou habilidade ativa, tem {p(passive_chance)} de chance de causar [{p(damage)} of ATK] de dano ao atacante.
+summoner_1_2_3<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_1_3_1~blessing_chance~0<>No início de cada partida, {q(target_position_2)} se torna imune a todos os efeitos negativos por {c(blessing_duration)} rodada (s).
+summoner_1_3_1~blessing_chance~1<>No início de cada partida, {q(target_position_2)} tem {p(blessing_chance)} de chance de resistir a efeitos negativos por {c(blessing_duration)} rodada (s).
+summoner_1_3_2~buff_chance~1<>No início de cada rodada ímpar, tenha {p(buff_chance)} chance de aumentar {q(stat_buff_1_amount)} {q(stat_buff_1_type)} e {q(stat_buff_2_amount)} {q(stat_buff_2_type)} para o Herói na {q(buff_target_position)}ª posição. Este efeito dura {c(buff_duration)} rodada.
+summoner_1_3_2~buff_chance~0<>No início de cada rodada ímpar, aumente {q(stat_buff_1_amount)} {q(stat_buff_1_type)} e {q(stat_buff_2_amount)} {q(stat_buff_2_type)} para o Herói na {q(buff_target_position)}ª posição. Este efeito dura {c(buff_duration)} rodada.
+summoner_1_3_3~buff_chance~0<>Para cada herói aliado derrotado, aumenta {q(stat_buff_1_type)} em {q(stat_buff_1_amount)} e {q(stat_buff_2_type)} em {q(stat_buff_2_amount)} para {q(buff_target_position)}. Este efeito pode ser ativado apenas uma vez por partida.
+summoner_1_3_3~buff_chance~1<>Para cada herói aliado derrotado, tem {c(buff_duration)} de chance de aumentar {q(stat_buff_1_type)} em {q(stat_buff_1_amount)} e {q(stat_buff_2_type)} em {q(stat_buff_2_amount)} para {q(buff_target_position)}. Este efeito pode ser ativado apenas uma vez por partida.
+summoner_1_4_1~block_chance~0<>Aliados na posição {s(target_number)} bloqueiam {p(block_rate)} de dano recebido ao serem atacados por ataque básico ou habilidade ativa.
+summoner_1_4_1~block_chance~1<>Aliados na posição {s(target_number)} têm {p(block_chance)} de chance de bloquear {p(block_rate)} de dano recebido ao serem atacados por ataque básico ou habilidade ativa.
+summoner_1_4_2<>No início de cada ronda, o herói na posição {q(target_position_2)} recebe {c(power_buff)} energia
+summoner_1_4_3<>Aumenta {q(stat_buff_type)} em {q(stat_buff_amount_3)} para {q(buff_target_position)}. Após cada {c(count_trigger)} ataques (ataque básico ou habilidade ativa) feitos por esses aliados, causa [{p(damage)} of this hero ATK] de dano em {q(damage_target_position)}.
+summoner_2_1_1~stat_debuff_chance~0<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e reduz {q(stat_debuff_type)} do alvo em {q(stat_debuff_amount_3)} por {c(stat_debuff_duration)} rodadas.
+summoner_2_1_1~stat_debuff_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(stat_debuff_chance)} de chance de reduzir {q(stat_debuff_type)} do alvo em {q(stat_debuff_amount_3)} por {c(stat_debuff_duration)} rodadas.
+summoner_2_1_2~stat_buff_chance~0<>Causa [{p(damage)} of ATK] de dano a {q(damage_target_position)}. Aumentar {q(stat_buff_amount_3)} {q(stat_buff_type)} para {q(buff_target_position)}, por {c(stat_buff_duration)} rodadas.
+summoner_2_1_2~stat_buff_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(damage_target_position)} e tem {p(stat_buff_chance)} de chance de aumentar {q(stat_buff_amount_3)} {q(stat_buff_type)} para {q(buff_target_position)}, por {c(stat_buff_duration)} rodadas.
+summoner_2_1_3<>causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(effect_chance)} de chance de aplicar o efeito {q(effect_type)} ao alvo por {c(effect_duration)} rodadas.
+summoner_2_2_1<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_2_2_2<>Aumente {q(bonus_1)} {q(stat_1)} e diminua {q(debuff_amount_1)} {q(debuff_stat_1)} para todos {q(target_position_2)}
+summoner_2_2_3~buff_chance~0<>Aumenta {q(stat_buff_type)} dos aliados restantes em {q(stat_buff_amount_3)} para cada aliado derrotado.
+summoner_2_2_3~buff_chance~1<>Tem {p(buff_chance)} chance de aumentar {q(stat_buff_type)} dos aliados restantes em {q(stat_buff_amount_3)} quando um aliado for derrotado.
+summoner_2_3_1<>Quando {q(target_position_2)} for afetado por um efeito de CG, reduz {p(reduce_damage_amount)} do dano recebido.
+summoner_2_3_2~block_chance~0<>Sempre que um aliado é atacado por ataque básico ou habilidade ativa, tem {p(buff_chance)} de chance de aplicar o efeito Shield a {q(target_position_2)} por {c(block_duration)} rodadas. Efeito Escudo bloqueia [{p(block_amount)} of damage taken]. Este efeito não acumula.\n
+summoner_2_3_2~block_chance~1<>Sempre que um aliado é atacado por ataque básico ou habilidade ativa, tem {p(buff_chance)} de chance de aplicar o efeito Shield a {q(target_position_2)} por {c(block_duration)} rodadas. Efeito de escudo tem {p(block_chance)} de chance de bloquear [{p(block_amount)} of damage taken]. Este efeito não acumula.\n
+summoner_2_3_3<>Quando um aliado sofre dano fatal, ele tem {p(last_chance_rate)} de chance de sobreviver com 1 PV e recuperar {c(power_gain)} de energia. Este efeito pode ser ativado apenas uma vez por partida.
+summoner_2_4_1~block_chance~0<>Aliados na posição {s(target_number)} bloqueiam {p(block_rate)} de dano recebido ao serem atacados por ataque básico ou habilidade ativa.
+summoner_2_4_1~block_chance~1<>Aliados na posição {s(target_number)} têm {p(block_chance)} de chance de bloquear {p(block_rate)} de dano recebido ao serem atacados por ataque básico ou habilidade ativa.
+summoner_2_4_2<>No início da rodada {c(round_trigger_list)}, crie um link entre {q(tanker_target_position)} e {q(target_position_3)}. O dano recebido de todos os aliados vinculados será {p(damage_share_percent)} transferido para {q(tanker_target_position)}. Este efeito dura {c(bond_duration)} rodadas.
+summoner_2_4_3<>Aumenta {q(stat_buff_amount_3)} {q(stat_buff_type)} para {q(buff_target_position)}. A cada 3 ataques (ataque básico ou habilidade ativa) que este herói recebe, contra-ataca imediatamente e causa [{p(damage_percent_hp)} of this ally's PV] de dano a {q(damage_target_position)}.
+summoner_3_1_1<>Causa [{p(damage)} of ATK] de dano a {q(damage_target_position)} e cura uma quantidade de PV igual a [{p(heal_percent)} of ATK] para {q(heal_target_position)}.
+summoner_3_1_2<>causa [{p(damage)} of ATK] de dano a {q(damage_target_position)} e tem {p(effect_chance)} de chance de aplicar o efeito {q(effect_type)} ao alvo por {c(effect_duration)} rodadas.
+summoner_3_1_3<>causa [{p(damage)} attack] de dano a {q(damage_target_position)} e vincule {q(bond_target_position)} juntos por {c(bond_duration)} rodadas. Ao ser atacado por ataque básico ou habilidade ativa, o dano recebido é dividido entre todos os alvos vinculados, ao invés de causar em apenas um deles.
+summoner_3_2_1<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {q(bonus_2)} para {q(target_position_2)}.
+summoner_3_2_2<>Aumente {q(bonus_1)} {q(stat_1)} para {q(target_position_2)}
+remove_summoner_3_2_2~heal_chance~1<>Quando um aliado é atacado por ataque básico ou habilidade ativa, tem {p(heal_chance)} de chance de curar essa quantidade de PV igual a [{p(heal_amount)} of ATK].
+summoner_3_2_3<>No início de cada partida, recupera {c(power_stat)} de energia para aliados na posição {s(target_number)}.
+summoner_3_3_1<>Aumenta {q(stat_1)} em {q(bonus_1)} para {q(target_position_2)}.
+summoner_3_3_2<>No início de cada rodada abaixo: {c(round_trigger_list)}, aumenta {q(stat_buff_type)} de {q(target_position_2)} em {q(stat_buff_amount)} por {c(stat_buff_duration)} rodadas.
+summoner_3_3_3<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {q(bonus_2)} para {q(target_position_2)}.
+summoner_3_4_1<>No início de cada rodada ímpar, recupera {c(power_buff)} de energia para {q(target_position_2)}.
+summoner_3_4_2<>No início de cada rodada ímpar, dissipar todos os efeitos negativos para {q(target_position_2)}
+summoner_3_4_3~heal_chance~0<>Quando o PV de um aliado cair abaixo de {p(heal_trigger)}, cura uma quantidade de PV igual a [{p(heal_amount)} of ATK] para esse aliado. Este efeito pode ser ativado apenas uma vez por partida.
+summoner_3_4_3~heal_chance~1<>Quando o HP de um aliado cai abaixo de {p(heal_trigger)}, tem {p(heal_chance)} de chance de curar uma quantidade de PV igual a [{p(heal_amount)} of ATK] para esse aliado. Este efeito pode ser ativado apenas uma vez por partida.
+summoner_4_1_1~debuff_chance~0<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e causa {q(debuff_type)} em alvos por {c(debuff_duration)} rodada(s). O efeito {q(debuff_type)} causa [{p(debuff_amount)} of ATK] de dano ao alvo a cada rodada.
+summoner_4_1_1~debuff_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(debuff_chance)} de chance de causar {q(debuff_type)} em alvos por {c(debuff_duration)} rodada(s). O efeito {q(debuff_type)} causa [{p(debuff_amount)} of ATK] de dano ao alvo a cada rodada.
+summoner_4_1_2<>causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(debuff_chance)} de chance de aplicar o efeito {q(debuff_type)} ao alvo por {c(debuff_duration)} rodadas.
+summoner_4_1_3<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e aumenta {q(buff_type)} de {q(buff_target_position)} em {p(buff_amount)} por {c(buff_duration)} rodadas.
+summoner_4_2_1<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_4_2_2<>Aumente {q(stat_1)} em {q(bonus_1)} para {q(target_position_2)}.
+summoner_4_2_3<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {q(bonus_2)} para {q(target_position_2)}.
+summoner_4_3_1<>Aumenta {q(stat_1)} em {q(bonus_1)} para {q(target_position_2)}.
+summoner_4_3_2<>No início de cada rodada, ligue {q(target_position_2)} e {q(bond_target_position)} para {c(bond_duration)} rodada. {p(bond_share_damage)} do dano recebido aos aliados vinculados será transferido e dividido igualmente entre {q(bond_target_position)}. 
+summoner_4_3_3<>Quando um aliado aplica o efeito de CG ao alvo, aplica o efeito Sangrar ao alvo pela mesma duração do efeito CG anterior. O efeito de sangramento causa [{p(damage)} of ATK] de dano ao alvo a cada rodada.
+summoner_4_4_1<>Quando o ataque de um aliado (ataque básico ou habilidade ativa) for um acerto crítico, aumenta {p(bonus_1)} de {q(stat_1)} de {q(target_position_2)} por {c(buff_duration)} rodadas. Este efeito pode ser empilhado.
+summoner_4_4_2<>Quando um aliado se esquiva com sucesso de um ataque, aumente {q(buff_type)} em {q(buff_amount)} por {c(buff_duration)} rodada(s). This effect cannot be stacked.
+summoner_4_4_3<>Para cada {c(buff_per_power)} de energia do Invocador, aumenta {p(buff_amount)} de {q(buff_type)} de {q(target_position_2)}.
+summoner_5_1_1~stat_debuff_chance~0<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e reduz {q(stat_debuff_type)} do alvo em {p(stat_debuff_amount)} por {c(stat_debuff_duration)} rodadas.
+summoner_5_1_1~stat_debuff_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(stat_debuff_chance)} de chance de reduzir {p(stat_debuff_amount)} do alvo em {q(stat_debuff_type)} por {c(stat_debuff_duration)} rodadas.
+summoner_5_1_2<>causa [{p(damage)} of ATK] de dano a {q(target_position)} e aumenta o dano recebido pelo alvo de todas as fontes em {p(damage_receive_debuff_amount)} por {c(damage_receive_debuff_duration)} rodadas.
+summoner_5_1_3~debuff_chance~0<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e causa {q(debuff_type)} em alvos por {c(debuff_duration)} rodada(s). O efeito {q(debuff_type)} causa [{p(debuff_amount)} of ATK] de dano ao alvo a cada rodada.
+summoner_5_1_3~debuff_chance~1<>Causa [{p(damage)} of ATK] de dano a {q(target_position)} e tem {p(debuff_chance)} de chance de causar {q(debuff_type)} em alvos por {c(debuff_duration)} rodada(s). O efeito {q(debuff_type)} causa [{p(debuff_amount)} of ATK] de dano ao alvo a cada rodada.
+summoner_5_2_1<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_5_2_2<>Aumenta {q(stat_1)} em {p(bonus_1)}, {q(stat_2)} em {p(bonus_2)} para {q(target_position_2)}.
+summoner_5_2_3<>Aumenta {q(stat_1)} em {p(bonus_1)} para {q(target_position_2)}.
+summoner_5_3_1<>Quando um aliado ataca um inimigo ou lança uma habilidade, causa {p(bonus_damage_receive)} a mais de dano ao alvo se ele tiver sido afetado pelo efeito de CG.
+summoner_5_3_2<>No início de cada rodada abaixo: {c(round_trigger_list)}, diminua {q(debuff_amount_1)} em {q(debuff_stat_1)} para {q(target_position)} em {c(debuff_duration)} rodada (s).
+summoner_5_3_3<>Quando um aliado faz um ataque por turno extra, esse ataque causa {p(bonus_damage_extra_turn)} a mais de dano.
+summoner_5_4_1<>Aumenta {q(stat_1)} em {p(bonus_1)} e {q(stat_2)} em {p(bonus_2)} para aliados na posição {s(target_number)}.
+summoner_5_4_2<>Aumenta {q(stat_1)} em {q(bonus_1)} para {q(target_position_2)}.
+summoner_5_4_3<>Na {c(number_extra_turn_affect)}ª vez em que um aliado fizer um ataque por turno extra, esse ataque causará {p(bonus_damage_extra_turn)} a mais de dano e aplicará o efeito {q(effect_type)} ao alvo por {c(effect_duration)} rodadas.
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

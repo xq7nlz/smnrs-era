@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type,stat_debuff_duration,stat_debuff_amount,power_buff_chance,power_buff_amount,power_buff_target_number,power_buff_target_position,stat_buff_chance,stat_buff_duration,stat_buff_type,stat_buff_amount,stat_buff_target_number,stat_buff_target_position
+Arien_Active,1.2,30,1,1,2,3,0.2,1,50,5,11,1,2,1,0.2,5,11
+Arien_Active,1.4,30,1,1,2,3,0.3,1,50,5,11,1,2,1,0.28,5,11
+Arien_Active,1.6,30,1,1,2,3,0.4,1,50,5,11,1,2,1,0.35,5,11

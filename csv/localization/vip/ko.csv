@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>합격하기 위한 %s VIP 포인트가 필요합니다
+vip_instant<>VIP레벨에 달성하면 아이템을 얻습니다
+vip_daily<>월간 프리미엄의 매일 보상:
+vip_point_required<>VIP 포인트 필요
+campaign_bonus_idle_time_max<>위탁 시간: %s
+campaign_bonus_gold<>방치 보상의 골드가 %s 증가합니다
+campaign_bonus_magic_potion<>방치 보상의 영웅경험치가 %s 증가합니다
+campaign_bonus_auto_train_slot<>금광에서의 골드 : %s
+tavern_bonus_quest<>술집 보너스 퀘스트 : %s
+raid_bonus_turn_buy<>돌격의 추가 구매 횟수: %s
+casino_unlock_multiple_spin<>소원 바퀴의  다중 스핀 기능 잠금 해제
+casino_unlock_premium_spin<>운명 바퀴 기능 즉시 잠금 해제
+casino_bonus_turn_buy_basic_chip<>소원 돌 추가 구매  횟수: %s
+battle_unlock_speed_up<>전투 속도 향상 기능 즉시 잠금 해제
+battle_unlock_skip<>전투 무시 기능 즉시 잠금 해제
+hand_of_midas_bonus_gold<>금광에서의 골드: %s
+summon_unlock_accumulate<>고급 소환의 에너지 소환 즉시 잠금 해제
+arena_bonus_ticket_buy<>경기 티켓 구매수: %s
+campaign_bonus_quick_battle_buy_turn<>빠른 전투 구매 횟수 : %s
+current_vip<>현재 VIP 레벨
+campaign_bonus_exp_summoner<>캠페인의 보너스 %s 소환사 경험치
+dungeon_challenge_increased<>던전의 스테이지 보상 %s 증가
+allow_skip_ads<>건너뛰기 광고 잠금 해제
+allow_prophet_tree_use_gem<>고대 나무에서 보석에 의한 소환 잠금 해제
+battle_unlock_skip_arena<>아레나에서 전투 건너뛰기 잠금 해제
+auto_next_battle<>자동 다음 단계 기능 잠금 해제

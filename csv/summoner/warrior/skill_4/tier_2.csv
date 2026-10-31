@@ -1,0 +1,5 @@
+name,star,tanker_target_position,tanker_target_number,other_target_position,other_target_number,bond_duration,damage_share_percent,round_trigger_list
+Main_Passive3,8,61,2,10,3,1,0.5,1;4;7;10;13
+Main_Passive3,9,61,2,10,3,2,0.5,1;4;7;10;13
+Main_Passive3,10,61,2,10,3,3,0.5,1;4;7;10;13
+Main_Passive3,11,61,2,10,4,3,0.5,1;4;7;10;13

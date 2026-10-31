@@ -1,0 +1,4 @@
+name,target_position,target_number,steal_stat_type,steal_stat_amount,calculation_type
+Defronowe_Passive1,32,1,1,0.05,2
+Defronowe_Passive1,32,1,1,0.07,2
+Defronowe_Passive1,32,1,1,0.09,2

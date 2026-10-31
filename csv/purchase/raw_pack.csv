@@ -1,0 +1,11 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,bonus_res_type,bonus_res_id,bonus_res_number,bonus_res_data,price
+1,SE013,SE001,com.se.sungame.idle_gem_pack_1,com.sungame.summoner.era.idle_gem_pack_1, com.fansipan.summoners.era.idle_gem_pack_1, com.fansipan.summoners.era.idle_gem_pack_1,2,1,260,,,,,,4.99
+,,,,,,,2,2,250,,,,,,
+2,SE014,SE002,com.se.sungame.idle_gem_pack_2,com.sungame.summoners.era.idle_gem_pack_2, com.fansipan.summoners.era.idle_gem_pack_2, com.fansipan.summoners.era.idle_gem_pack_2,2,1,520,,2,1,260,,9.99
+,,,,,,,2,2,500,,,,,,
+3,SE015,SE003,com.se.sungame.idle_gem_pack_3,com.sungame.summoners.era.idle_gem_pack_3, com.fansipan.summoners.era.idle_gem_pack_3, com.fansipan.summoners.era.idle_gem_pack_3,2,1,1040,,2,1,800,,19.99
+,,,,,,,2,2,1000,,,,,,
+4,SE016,SE004,com.se.sungame.idle_gem_pack_4,com.sungame.summoners.era.idle_gem_pack_4, com.fansipan.summoners.era.idle_gem_pack_4, com.fansipan.summoners.era.idle_gem_pack_4,2,1,2600,,2,1,2200,,49.99
+,,,,,,,2,2,2500,,,,,,
+5,SE017,SE005,com.se.sungame.idle_gem_pack_5,com.sungame.summoners.era.idle_gem_pack_5, com.fansipan.summoners.era.idle_gem_pack_5, com.fansipan.summoners.era.idle_gem_pack_5,2,1,5200,,2,1,5200,,99.99
+,,,,,,,2,2,5000,,,,,,

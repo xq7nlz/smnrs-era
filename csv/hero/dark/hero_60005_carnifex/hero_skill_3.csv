@@ -1,0 +1,4 @@
+name,damage_target_position,damage_target_number,stat_debuff_type,stat_debuff_chance,stat_debuff_calculation_type,stat_debuff_amount,stat_debuff_duration,stat_debuff_max,effect_chance,effect_type,effect_duration
+Canifex_Passive2,30,1,2,1,1,0.1,15,0.5,1,4,2
+Canifex_Passive2,30,1,2,1,1,0.15,15,0.75,1,4,2
+Canifex_Passive2,30,1,2,1,1,0.2,15,1,1,4,2

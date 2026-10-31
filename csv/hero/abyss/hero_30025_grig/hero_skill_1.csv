@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Grig_Active,0.9,10,1,31,1,1,2,0.2
+Grig_Active,1.2,10,1,31,1,1,2,0.2
+Grig_Active,1.5,10,1,31,1,1,2,0.2

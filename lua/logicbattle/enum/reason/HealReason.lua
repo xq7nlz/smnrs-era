@@ -1,0 +1,24 @@
+--- @class HealReason
+HealReason = {
+    HEAL_SKILL = 1,
+    HEAL_EFFECT = 2,
+    HEAL_ITEM_EFFECT = 3,
+
+    DRYAD_MARK = 11,
+    DISEASE_MARK = 12,
+    LIGHT_SHIELD = 13,
+    REVERSE_SHIELD = 14,
+
+    THANATOS_HEAL_SKILL = 101,
+    THANATOS_HEAL_EFFECT = 102,
+
+    DIADORA_HEAL_SKILL = 111,
+
+    RENAK_HEAL_SKILL = 120,
+
+    AIRYUU_HEAL_SKILL = 130,
+
+    SUMMONER_HEAL = 200
+}
+
+return HealReason

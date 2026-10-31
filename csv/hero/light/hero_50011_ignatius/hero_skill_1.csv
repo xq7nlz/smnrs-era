@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_type,effect_chance,effect_duration
+Ignatius_Active,1.56,10,5,1,0.3,3
+Ignatius_Active,1.76,10,5,1,0.45,3
+Ignatius_Active,2.26,10,5,1,0.6,3

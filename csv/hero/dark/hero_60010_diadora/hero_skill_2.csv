@@ -1,0 +1,4 @@
+name,target_position,target_number,effect_chance,effect_type,debuff_duration
+Diadora_Passive1,10,1,0.5,31,2
+Diadora_Passive1,10,1,0.75,31,2
+Diadora_Passive1,10,1,1,31,2

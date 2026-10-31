@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_chance,heal_percent,heal_target_position,heal_target_number,heal_duration
+Vampire_Active,1.1,10,3,1,0.5,10,3,1
+Vampire_Active,1.4,10,3,1,0.5,10,3,1
+Vampire_Active,1.7,10,3,1,0.5,10,3,1

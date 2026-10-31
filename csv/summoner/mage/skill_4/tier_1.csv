@@ -1,0 +1,5 @@
+name,star,target_position,target_number,block_chance,block_rate
+Main_Passive3,4,61,45,0.5,0.2
+Main_Passive3,5,61,45,0.5,0.25
+Main_Passive3,6,61,45,0.5,0.3
+Main_Passive3,7,61,45,0.5,0.35

@@ -1,0 +1,4 @@
+name,exchange_stat,exchange_percent,target_stat,target_percent,max_exchange,deduct_power_amount
+Kazetsu_Passive,10,0.01,1,0.02,4,15
+Kazetsu_Passive,10,0.01,1,0.03,4,20
+Kazetsu_Passive,10,0.01,1,0.0375,4,30

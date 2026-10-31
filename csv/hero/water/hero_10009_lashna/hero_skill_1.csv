@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,effect_trigger_class,effect_type,effect_chance,effect_duration
+Lashna_Active,2.2,10,2,1,2,0.4,2
+Lashna_Active,2.4,10,2,1,2,0.5,2
+Lashna_Active,2.6,10,2,1,2,0.6,2

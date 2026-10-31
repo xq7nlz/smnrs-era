@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type_1,stat_debuff_amount_1,stat_debuff_type_2,stat_debuff_amount_2,stat_debuff_calculation_type_2,stat_debuff_duration,stat_debuff_type_3,stat_debuff_amount_3
+Hehta_Active,1.06,10,5,1,1,0.25,4,30,3,3,41,0.25
+Hehta_Active,1.36,10,5,1,1,0.3,4,35,3,3,41,0.35
+Hehta_Active,1.66,10,5,1,1,0.4,4,45,3,3,41,0.45

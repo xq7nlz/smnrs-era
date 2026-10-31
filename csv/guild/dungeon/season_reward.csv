@@ -1,0 +1,6 @@
+min_ranking,max_ranking,res_type,res_id,res_number,res_data
+1,1,2,121,3000,
+2,2,2,121,2000,
+3,3,2,121,1800,
+4,10,2,121,1600,
+11,-1,2,121,1200,

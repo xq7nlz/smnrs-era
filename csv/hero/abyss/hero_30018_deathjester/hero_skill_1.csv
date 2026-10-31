@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+DeathJester_Active,2,34,1,30,2,0.2
+DeathJester_Active,2.3,34,1,30,2,0.25
+DeathJester_Active,2.6,34,1,30,2,0.3

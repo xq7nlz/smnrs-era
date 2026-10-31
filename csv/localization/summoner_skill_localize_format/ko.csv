@@ -1,0 +1,84 @@
+key<>value
+summoner_0_1_1<>{q(target_position)}에게 [{p(damage)}공격]살상합니다
+summoner_1_1_1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 일격을 당한 적의 {q(stat_debuff_amount_3)}{q(stat_debuff_type)}감소하고 {c(stat_debuff_duration)}개 라운드를 유지합니다
+summoner_1_1_2~stat_debuff_chance~1<>{q(target_position)}에 [{p(damage)} of ATK] 피해를줍니다. {c(stat_debuff_duration)} 라운드 (들)의 감소 {q(stat_debuff_amount_3)} {q(stat_debuff_type)}에 {p(stat_debuff_chance)} 기회가있다. 
+summoner_1_1_2~stat_debuff_chance~0<>뒷줄에있는 무작위 적 {q(target_position)}에게 [{p(damage)} of ATK] 피해를 입히고 {c(stat_debuff_duration)} 라운드에서 해당 적의 {q(stat_debuff_amount_3)} {q(stat_debuff_type)}을 (를) 줄입니다. 
+summoner_1_1_3~dispel_chance~0<>{q(target_position)}에게 [{p(damage)}공격]살상합니다.  죽은 적마다 남은 적에게 [{p(damage_bonus_per_die)}공격]살상을 추가 주고 적의 유리한 효과를 제거합니다.
+summoner_1_1_3~dispel_chance~1<>{q(target_position)}에게 [{p(damage)}공격]살상합니다.  죽은 적마다 남은 적에게 [{p(damage_bonus_per_die)}공격]살상을 추가 주고 적의 유리한 효과를 제거할 {p(dispel_chance)}확률이 있습니다.
+summoner_1_2_1<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_1_2_2<>{q(target_position_2)}에 대해 {p(bonus_1)} {q(stat_1)} 증가
+remove_summoner_1_2_2~passive_chance~1<>공격을 받을 시 공격한 적에게 [{p(damage)}공격]살상할 {p(passive_chance)}확률이 있습니다.
+summoner_1_2_3<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_1_3_1~blessing_chance~0<>경기 시작 시 {c(blessing_duration)}개 라운드에서 {q(target_position_2)}이 효과에 면역됩니다.
+summoner_1_3_1~blessing_chance~1<>경기 시작 시 {c(blessing_duration)}개 라운드에서 {q(target_position_2)}이 효과에 면역될 {p(blessing_chance)}확률이 있습니다
+summoner_1_3_2~buff_chance~1<>홀수 라운드가 시작될 때마다 {q(buff_target_position)} 위에있는 영웅의 {q(stat_buff_1_amount)} {q(stat_buff_1_type)} 및 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}를 높일 수있는 {p(buff_chance)}의 기회가 있습니다. 이 효과는 {c(buff_duration)} 라운드 동안 지속됩니다.
+summoner_1_3_2~buff_chance~0<>홀수 라운드가 시작될 때마다 {q(buff_target_position)} 번째 위치의 영웅에 대해 {q(stat_buff_1_amount)} {q(stat_buff_1_type)} 및 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}를 증가시킵니다. 이 효과는 {c(buff_duration)} 라운드 동안 지속됩니다.
+summoner_1_3_3~buff_chance~0<>동맹이 죽을 때마다 {q(buff_target_position)}에게 {q(stat_buff_1_amount)} {q(stat_buff_1_type)} 및 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}증가합니다.
+summoner_1_3_3~buff_chance~1<>동맹이 죽을 때마다 {q(buff_target_position)}에게 {q(stat_buff_1_amount)} {q(stat_buff_1_type)} 및 {q(stat_buff_2_amount)} {q(stat_buff_2_type)}증가할 {c(buff_duration)}확률이 있습니다.
+summoner_1_4_1~block_chance~0<>{s(target_number)}자리의 동맹이 공격을 받을 시 {p(block_rate)}살상을 차단합니다.
+summoner_1_4_1~block_chance~1<>{s(target_number)}자리의 동맹이 공격을 받을 시 {p(block_rate)}살상을 차단할 {p(block_chance)}확률이 있습니다.
+summoner_1_4_2<>모든 라운드가 시작될 때 {q(target_position_2)} 위치의 영웅은 {c(power_buff)} 에너지를받습니다.
+summoner_1_4_3<>{q(buff_target_position)}에게 {q(stat_buff_amount_3)} {q(stat_buff_type)}을 증가합니다. 그 동맹이 {c(count_trigger)}공격하면 {q(damage_target_position)}에게 [{p(damage)}공격]살상을 추가 줍니다.
+summoner_2_1_1~stat_debuff_chance~0<>{q(target_position)}에게 [{p(damage)}공격]살상하고 일격을  당한 적의 {q(stat_debuff_amount_3)} {q(stat_debuff_type)}감소하고 {c(stat_debuff_duration)}개 라운드를 유지합니다.
+summoner_2_1_1~stat_debuff_chance~1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 일격을  당한 적의 {q(stat_debuff_amount_3)} {q(stat_debuff_type)}감소할 {p(stat_debuff_chance)}확률이 있고 {c(stat_debuff_duration)}개 라운드를 유지합니다.
+summoner_2_1_2~stat_buff_chance~0<>{q(damage_target_position)}에 [{p(damage)} of ATK] 피해를주고 {q(buff_target_position)} 동안 {q(stat_buff_amount_3)} {q(stat_buff_type)}을 (를) 증가 시키며 {c(stat_buff_duration)} 라운드 동안 지속됩니다.
+summoner_2_1_2~stat_buff_chance~1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {q(buff_target_position)}에게 {q(stat_buff_amount_3)} {q(stat_buff_type)} 증가하기 위한 팡배를 만들 {p(stat_buff_chance)}확률이 있고 {c(stat_buff_duration)}개 라운드를 유지합니다
+summoner_2_1_3<>{q(target_position)}에게 [{p(damage)}공격]살상하고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 {q(effect_type)}발생시킬 {p(effect_chance)}확률이 있습니다
+summoner_2_2_1<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_2_2_2<>{q(target_position_2)}에 대해 {q(bonus_1)} {q(stat_1)}을 (를) 늘리고 {q(debuff_amount_1)} {q(debuff_stat_1)}를 줄입니다.
+summoner_2_2_3~buff_chance~0<>동맹이 죽을 때마다 남은 동맹들에게 {q(stat_buff_amount_3)} {q(stat_buff_type)}을 증가하고 모든 4명의 동맹이 죽으면 남은 2 명의 동맹이 {q(stat_buff_type)}의 75%를 받고 동맹 한 명이 남으면 {q(stat_buff_type)}의 100%증가합니다
+summoner_2_2_3~buff_chance~1<>동맹이 죽을 때마다 남은 동맹들에게 {q(stat_buff_amount_3)} {q(stat_buff_type)}을 증가할 {p(buff_chance)}확률이 있고 모든 4명의 동맹이 죽으면 남은 2 명의 동맹이 {q(stat_buff_type)}의 75%를 받고 동맹 한 명이 남으면 {q(stat_buff_type)}의 100%증가합니다
+summoner_2_3_1<>{q(target_position_2)}이가 CC효과를 받고 있으면 그 동맹들이 입은 살상 {p(reduce_damage_amount)}을 감소합니다.
+summoner_2_3_2~block_chance~0<>동맹이 공격을 받을 시마다 {p(block_amount)}입은 살상을  차단하기 위해 {q(target_position_2)}에게 방패를 만들 {p(buff_chance)}확률이 있고 {c(block_duration)}개 라운드를 유지합니다. 이 효과는 중첩되지 않습니다.
+summoner_2_3_2~block_chance~1<>동맹이 공격을 받을 시마다 {q(target_position_2)}에게 방패를 만들 {p(buff_chance)}확률이 있고 {p(block_amount)}입은 살상을 차단할 {p(block_chance)}확률이 있고 {c(block_duration)}개 라운드를 유지합니다. 이 효과는 중첩되지 않습니다.
+summoner_2_3_3<>동맹이 지금 보유 중인 HP를 넘은 살상을 받을 시 1HP로 살아 있을 {p(last_chance_rate)}확률이 있습니다. 해당 효과가 활성화되면 그 동맹이 {c(power_gain)}에너지를 받습니다 (경기마다 동맹별 1회 효과 발생)
+summoner_2_4_1~block_chance~0<>동맹이 {s(target_number)}자리에 있으며 공격을 받을 시 {p(block_rate)}살상을 차단합니다.
+summoner_2_4_1~block_chance~1<>동맹이 {s(target_number)}자리에 있으며 공격을 받을 시 {p(block_rate)}살상을 차단할 {p(block_chance)}확률이 있습니다
+summoner_2_4_2<>{c(round_trigger_list)} 라운드가 시작될 때 {q(tanker_target_position)} 및 {q(target_position_3)} 사이에 링크를 만듭니다. 연결된 모든 아군이받는 피해는 {q(tanker_target_position)}에게 {p(damage_share_percent)} 이전됩니다. 이 효과는 {c(bond_duration)} 라운드 동안 지속됩니다. 
+summoner_2_4_3<>{q(buff_target_position)}에게 {q(stat_buff_amount_3)} {q(stat_buff_type)}을 증가합니다.이 영웅이 받는 3 가지 공격 (기본 공격 또는 액티브 스킬)은 즉시 반격하여 {q(damage_target_position)}의 동맹 HP의 [{p(damage_percent_hp)}] 피해를 입 힙니다.
+summoner_3_1_1<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {q(heal_target_position)}에게 [{p(heal_percent)}공격]만큼 HP량을 회복해 줍니다
+summoner_3_1_2<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {c(effect_duration)}개 라운드에서 일격을 당한 적에게 {q(effect_type)}발생시킬 {p(effect_chance)}확률이 있습니다
+summoner_3_1_3<>{q(damage_target_position)}에게 [{p(damage)}공격]살상하고 {q(bond_target_position)}를 연결합니다. 해당 연결은 {c(bond_duration)}개 라운드에서 공격을 받을 시 입는 살상을 동일하게 나눕니다.
+summoner_3_2_1<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_3_2_2<>{q(target_position_2)}에 대해 {q(bonus_1)} {q(stat_1)} 증가
+remove_summoner_3_2_2~heal_chance~1<>동맹이 공격을 받을 시 그 동맹에게 [{p(heal_amount)}공격]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다
+summoner_3_2_3<>경기 시작 시 {s(target_number)}자리의 동맹에게 {c(power_stat)}에너지를 증가합니다
+summoner_3_3_1<>{q(target_position_2)}에게 {q(bonus_1)} {q(stat_1)}을 증가합니다
+summoner_3_3_2<>{c(round_trigger_list)}라운드 시작 시 {q(target_position_2)}에게 {q(stat_buff_amount)} {q(stat_buff_type)}증가하고 {c(stat_buff_duration)}개 라운드를 유지합니다
+summoner_3_3_3<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {q(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_3_4_1<>모든 홀수 라운드 시작시 {q(target_position_2)}에게 {c(power_buff)} 에너지를 증가합니다
+summoner_3_4_2<>홀수 라운드가 시작될 때마다 {q(target_position_2)}에 대한 모든 부정적인 영향을 제거하십시오.
+summoner_3_4_3~heal_chance~0<>한 동맹의 블러드가 {p(heal_trigger)}이하일 경우 그 동맹에게 [{p(heal_amount)}공격]만큼 HP량을 회복해 줍니다 (경기마다 1회만 효과 발생)
+summoner_3_4_3~heal_chance~1<>한 동맹의 블러드가 {p(heal_trigger)}이하일 경우 그 동맹에게 [{p(heal_amount)}공격]만큼 HP량을 회복할 {p(heal_chance)}확률이 있습니다 (경기마다 1회만 효과 발생)
+summoner_4_1_1~debuff_chance~0<>{q(target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(debuff_amount)}공격]살상 {q(debuff_type)}를 발생시키고 {c(debuff_duration)}개 라운드를 유지합니다
+summoner_4_1_1~debuff_chance~1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(debuff_amount)}공격]살상 {q(debuff_type)}를 발생시킬 {p(debuff_chance)}확률이 있고 {c(debuff_duration)}개 라운드를 유지합니다
+summoner_4_1_2<>{q(target_position)}에게 [{p(damage)}공격]살상하고 {c(debuff_duration)}개 라운드에서 일격을 당한 적에게 {q(debuff_type)}발생시킬 {p(debuff_chance)}확률이 있습니다
+summoner_4_1_3<>{q(target_position)}에게 [{p(damage)}공격]살상하고 {q(buff_target_position)}에게 {p(buff_amount)} {q(buff_type)} 증가하고 {c(buff_duration)}개 라운드를 유지합니다
+summoner_4_2_1<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_4_2_2<>{q(target_position_2)}에 대해 {q(stat_1)}를 {q(bonus_1)} 증가시킵니다.
+summoner_4_2_3<>{q(target_position_2)}에 대해 {p(bonus_1)} {q(stat_1)}, {q(bonus_2)} {q(stat_2)} 늘립니다. 
+summoner_4_3_1<>{q(target_position_2)}에게 {q(bonus_1)} {q(stat_1)} 증가합니다
+summoner_4_3_2<>각 라운드가 시작될 때 {c(bond_duration)} 라운드에 대해 {q(target_position_2)} 및 {q(bond_target_position)}를 바인딩합니다. 구속 된 아군에게 입힌 피해의 {p(bond_share_damage)}는 {q(bond_target_position)}간에 균등하게 이전 및 분배됩니다.
+summoner_4_3_3<>동맹이 CC효과 (충격, 잠재우기, 얼음, 화석)를 성공적으로 실행할 시 [{p(damage)}공격]살상]의 효과가 같이 따라갑니다 (따라가는 효과의 라운드가 CC효과의 라운드와 같습니다)
+summoner_4_4_1<>한 동맹이 치명적인 공격을 성공적으로 할 시 {q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)}을 증가합니다 (라운드마다 치명적인 공격이 많이 발생하면 누적 가능합니다). {c(buff_duration)}개 라운드를 유지합니다
+summoner_4_4_2<>아군이 공격을 성공적으로 회피하면 {c(buff_duration)} 라운드 동안 {q(buff_type)}을 {q(buff_amount)} 증가시킵니다.. 이 효과는 중첩 될 수 없습니다.
+summoner_4_4_3<>소환사의 {c(buff_per_power)}에너지마다 {q(target_position_2)}에게 {p(buff_amount)} {q(buff_type)}를 증가합니다
+summoner_5_1_1~stat_debuff_chance~0<>{q(target_position)}에게 [{p(damage)}공격]살상하고 일격을 당한 적의 {p(stat_debuff_amount)}{q(stat_debuff_type)}감소하고 {c(stat_debuff_duration)}개 라운드를 유지합니다
+summoner_5_1_1~stat_debuff_chance~1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 일격을 당한 적의 {p(stat_debuff_amount)}{q(stat_debuff_type)}감소할 {p(stat_debuff_chance)}확률이 있고 {c(stat_debuff_duration)}개 라운드를 유지합니다
+summoner_5_1_2<>{q(target_position)}에게 [{p(damage)}공격]살상하고 {c(damage_receive_debuff_duration)}개 라운드에서 모든 자원에서 {p(damage_receive_debuff_amount)}살상]을 추가 입게 합니다.
+summoner_5_1_3~debuff_chance~0<>{q(target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(debuff_amount)}공격]살상 {q(debuff_type)}를 발생시키고 {c(debuff_duration)}개 라운드를 유지합니다
+summoner_5_1_3~debuff_chance~1<>{q(target_position)}에게 [{p(damage)}공격]살상하고 라운드마다 [{p(debuff_amount)}공격]살상 {q(debuff_type)}를 발생시킬 {p(debuff_chance)}확률이 있고 {c(debuff_duration)}개 라운드를 유지합니다
+summoner_5_2_1<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_5_2_2<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 및 {p(bonus_2)} {q(stat_2)}을 증가합니다
+summoner_5_2_3<>{q(target_position_2)}에게 {p(bonus_1)} {q(stat_1)} 증가합니다
+summoner_5_3_1<>동맹이 CC 효과 (충격, 잠재우기, 얼음, 화석)를 받고 있는 적을 공격할 시 {p(bonus_damage_receive)}살상을 증가합니다
+summoner_5_3_2<>아래 각 라운드 시작시 : {c(round_trigger_list)}, {c(debuff_duration)} 라운드 동안 {q(target_position)} 동안 {q(debuff_amount_1)} {q(debuff_stat_1)} 감소
+summoner_5_3_3<>동맹이 1 보총 공격하면 그 공격의 {p(bonus_damage_extra_turn)}살상을 증가합니다
+summoner_5_4_1<>동맹이 {s(target_number)}자리에 있고 {p(bonus_1)} {q(stat_1)}, {p(bonus_2)} {q(stat_2)}를 증가합니다
+summoner_5_4_2<>{q(target_position_2)}에게 {q(bonus_1)} {q(stat_1)} 증가합니다
+summoner_5_4_3<>동맹으로 실행한 {c(number_extra_turn_affect)}번의 보충  공격은 {p(bonus_damage_extra_turn)}살상을 추가 주고 적에게 {q(effect_type)}발생시키고 {c(effect_duration)}개 라운드를 유지합니다.
+c21c1c màu đỏ<>
+1750d1<>
+d87909 đây là màu hightlight chung<>
+<color=#d87909><>
+</color><>

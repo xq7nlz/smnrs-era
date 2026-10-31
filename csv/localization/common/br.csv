@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50>%s Nota do patch: </size>\n\n1. Evento:\n- Desafio do Chefe (nova versão)\n- Torre de Eitri\n2. Cartão do Mês de Ajustes\n3. Jogo otimizado
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. Evento:\n- Desafio do Chefe (nova versão)\n- Torre de Eitri\n2. Cartão do Mês de Ajustes\n3. Jogo otimizado
+version_notice_next<>Atenção: Os detalhes podem ser alterados de acordo com os planos da equipe de desenvolvimento. As informações abaixo não estão 100% corretas.\n\n1. Novo evento sazonal\n2. Jogo otimizado
+version_notice_maintenance<>Manutenção para a versão %s\n\nSiga nossa página no Facebook e nosso Discord para obter as informações mais recentes.\n\nObservação: o plano de manutenção pode ser alterado devido aos planos da equipe de desenvolvimento.
+notice<>Aviso
+tap_to_play<>Toque para jogar
+setting<>Confirgurações
+account<>Conta
+id<>ID
+summoner<>Nome
+register_account<>Registrar minha conta
+change_password<>Alterar senha
+switch_server<>Mudar de Servidor
+switch_account<>Mudar de conta
+email_verify<>Verificação de E-mail
+game_version<>Versão do jogo
+close<>Fechar
+closed<>Fechado
+sound<>Som
+music<>Música
+graphic_quality<>Qualidade gráfica
+low<>Baixa
+medium<>Média
+high<>Alta
+language<>Idioma
+language_setting<>Configuração de idioma
+password<>Senha
+enter_text<>Digite o ID de seu amigo
+forget<>Esqueceu?
+do_you_want_restore<>Deseja restaurar?
+register<>Cadastre-se
+login<>Login
+restore<>Repor
+confirm_password<>Confirme a senha
+cancel<>Cancelar
+confirm<>Confirmar
+new_password<>Nova senha
+confirm_new_password<>Confirmar a nova senha
+please_select_language<>Escolha seu idioma
+daily_checkin<>Check-in
+mail<>Mail
+friend<>Amigo
+shop<>Loja
+main_character<>Invocador
+mastery<>Maestria
+inventory<>Sacola
+hero_list<>Heróis
+event<>Evento
+daily_reward<>Recompensa diária
+checkin_progress<>Verificação em andamento %s
+reply<>Responder
+claim<>Coletar
+mail_box<>Caixa Postal
+claim_all<>Coletar tudo
+system_mail<>Correio do sistema
+player_mail<>Correio do Jogador
+mail_empty<>Caixa de correio vazia
+received_applications<>Pedido recebido
+recommended_friend<>Recomendada
+claim_and_send<>Coletar e enviar
+friend_list<>Lista de Amigos
+search<>Buscar
+friend_request<>Pedido de amizade
+help_fight<>Explorar
+apply<>Aplicar
+delete_all<>Excluir tudo
+delete<>Excluir
+scout<>Escoteiro
+ranking_point<>Ponto de classificação
+ranking_reward<>Recompensa de classificação
+battle_reward<>Recompensa de Batalha
+battle<>Batalha
+smash<>Esmagar
+preview<>Pré-Visualizar
+auto_fill<>Preenchimento automático
+disassemble<>Desmantelar
+heroese<>Heróis
+ok<>OK
+yes<>Sim
+no<>Não
+not_select_all_hero<>Não é possível selecionar todos os heróis
+do_disassemble_hero_4_star<>Você quer desmontar o %sherói estrela ou superior?
+you_need_select_hero<>Você precisa selecionar um Herói
+do_you_want_disassemble<>Você quer desmontar?
+basic<>Básico
+premium<>Premium
+refresh<>Recarregar
+time<>Hora
+forge<>Forjar
+available_to_forge<>Forja disponível
+weapon<>Arma
+armor<>Armadura
+helmet<>Capacete
+ring<>Joias
+rank_x<>Posição: %s
+season_ranking<>Classificação da Temporada
+point<>Pontos
+group_ranking<>Classificação do Grupo
+score<>Pontuação
+reward<>Recompensa
+record<>Registro
+defense<>Defensores
+choose_rival<>Selecione o Rival
+change<>Alterar
+your_current_rank_x<>Posição atual: %s
+reward_will_sent<>As recompensas serão enviadas após
+reward_will_sent_x<>As recompensas serão enviadas após: %s
+wave<>Onda
+will_open_in<>Abre em:
+will_end_in<>Fecha em:
+quick<>Rápido
+secret_shop<>Comércio
+skip<>Pular
+buy<>Comprar
+primary_merchant<>Mercador Pincipal
+medium_merchant<>Mercador Médio
+senior_merchant<>Mercador Sênior
+mysterious_merchant<>Mercador Misterioso
+primary<>Jovem
+senior<>Sênior
+formation<>Formação
+save<>Salvar
+material<>Material
+upgrade<>Atualizar
+skip_battle<>Pular batalha
+back<>Voltar
+front<>Frente
+gallery<>Galeria
+linking<>Ligações
+sort<>Ordenar
+level<>Nível
+star<>Estrela
+select_hero_altar<>Escolha Herói para desmontar
+replay<>Jogar novamente
+reward_current_ranking<>Recompensas do ranking atual
+hero_shard<>Fragmento de Herói
+tap_to_close<>Toque para fechar
+avatar<>Avatar
+border<>Margem
+avatar_border<>Avatar e Margem
+current_avatar<>Avatar e margens atuais
+select_avatar<>Por favor selecione o avatar
+select_border<>Por favor selecione a margem
+world<>Mundo
+send<>Enviar
+chat_option_1<>Informações VIP
+chat_option_2<>Bloquear bate-papo mundial
+chat_option_3<>Bloquear bate-papo da guilda
+chat_option_4<>Bloquear bate-papo de recrutamento
+select_hero_battle<>Selecione Herói para a batalha
+vs<>VS
+hero_info<>Informação
+equip<>Equipar
+evolve<>Evoluir
+skin<>Traje
+level_to_max<>Nível Máx.
+level_up<>Subiu de Nível
+unlock_level<>Desbloquear no Nível%s
+unequip<>Desequipar
+auto_equip<>Equipar Automaticamente
+awaken<>Acordado
+switch_character<>Alterar personagem
+exp<>EXP
+free<>Grátis
+free_x<>Grátis %s
+summon<>Invocação
+summon_x<>Invocação %s
+storage<>Armazenamento
+fragment<>Fragmento
+artifact<>Artefato
+leaderboard<>Tabela de Líderes
+quest<>Missão
+damage_stat<>Estatísticas de Dano
+notification<>Notificação
+spin_x<>Girar %s
+next_force_refresh<>Atualizará em:
+pack_of_item<>Pacote de itens
+congratulation<>Parabéns
+smash_title<>Quantas vezes você quer desafiar?
+select_heroes<>Escolha o Herói
+requirement<>Requisitos
+start<>Iniciar
+quest_refresh_in<>A missão ({1}) será reiniciada em {2}
+speed_up<>Acelerar
+complete<>Completar
+block<>Bloquear
+unblock<>Desbloquear
+send_mail<>Mandar Mensagem
+refresh_in<>Atualizará em: %s
+remaining_attempts<>Batalha Restante
+challenge<>Desafio
+rename<>Renomear
+x_character<>%s personagem
+change_avatar<>Personalizar avatar e margen
+vip<>Informações VIP
+replace_hero<>Alterar Herói
+select_your_hero<>Escolha Seu Herói
+please_select_hero_replace<>Por favor, selecione o Herói para substituir
+convert<>Converter
+lock_current_stat<>Bloquear estatísticas atuais
+upgrade_artifact<>Artefato de atualização
+select_material_artifact<>Selecione artefato de material
+training_hero<>Treinamento
+to_complete_training<>Até que todos os heróis concluam o treinamento
+select_item<>Seleccionar o Item
+map<>Mapa
+select_material_hero<>Selecione o Material do Herói
+select<>Selecionar
+unlock_star<>Desbloquear na %s Estrela
+guild_application<>Lista de aplicações
+request_x<>Pedido %s
+accept<>Aceitar
+decline<>Recusar
+guild_foundation<>Configurações da guilda
+recommended<>Recomendada
+enter_guild_name_id<>Digite o nome ou o ID da guilda
+found<>Criar
+guild_content<>Participe de uma guilda ou crie uma para reivindicar muitas recompensas das atividades da guilda
+member_x<>Membro %s
+emblem<>Emblema
+info<>Informação
+enter_guild_name<>Inserir o nome da Guild
+enter_guild_info<>Inserir informações da guild
+recruit<>Recrutar
+daily_boss<>Chefão Diário
+checkin<>Check-in
+application<>Lista de aplicações
+input_recruit_info<>Insira a mensagem de recrutamento
+kick<>Expulsar
+demote<>Despromover
+promote<>Promover
+season_reward<>Recompensa da Temporada
+self_damage<>Seu Dano:
+guild_damage<>Dano da Guilda:
+level_boss_x<>Nível do Chefão: %s
+unlock_at_guild_x<>Desbloquear quando a guild atingir nível %s
+current_reward<>Recompensa atual
+next_reward<>Próxima recompensa
+guild_log<>Guild Log
+stage_reward<>Recompensa da Fase
+map_stage<>Mapa {1}, fase {2}, dificuldade {3}
+need_input_code<>Insira o Código
+need_input_mail<>Digite o e-mail para recuperar a conta
+input_code_fail<>Código inválido
+confirm_new_password_fail<>Falha ao confirmar a nova senha
+need_input_new_password<>Insira a nova senha
+can_not_claim_reward<>Recebidas
+max_buy_turn_daily<>Tempos diários máximos de compra
+coming_soon<>Em Breve
+limit_purchase_this_pack<>Você adquiriu o máximo de compras para este pacote
+member_kick_guild<>O membro foi expulso da guild
+failed_kick_member<>Falha ao expulsar este membro da guild
+login_current_account<>Fazer login na conta atual
+member_role_changed<>O papel do membro foi alterado
+guild_sub_leader_reached_limit<>O número de vice-líderes atingiu o limite
+failed_change_member_role<>Falha ao alterar a função deste membro
+input_password_failed<>Senha incorreta
+input_user_name_failed<>Nome de usuário incorreto
+enter_recruit_info_please<>Digite as informações de recrutamento
+send_recruit_successful<>Mensagem de recrutamento enviada com sucesso
+fail_send_recruit_info<>Ocorreu um erro ao enviar a mensagem de recrutamento
+fail_get_data<>Falha ao receber dados
+fail_refresh<>Falha ao atualizar
+player_joined_guild<>O jogador já faz parte de uma guilda
+guild_limit_member<>Limite de membros atingido
+need_permission_perform_action<>Você não tem permissão para executar esta ação
+failed_get_dungeon_stage<>Falha ao receber dados do estado da masmorra
+send_request_successful<>Pedido enviado com sucesso
+already_in_guild<>Você já está em uma guild
+please_enter_guild_name<>Digite o nome de uma guild
+create_guild_success<>Guild criada com sucesso
+create_guild_failed<>Falha ao criar Guild
+upgrade_guild_success<>Informações da guild atualizadas
+challenge_guild_dungeon_success<>Desafio da masmorra da guild
+guild_description_invalid<>Formato de descrição inválido
+failed_challenge_guild_dungeon<>Falha ao desafiar a Guild Dungeon
+guild_description_bad_word<>Palavras proibidas não são permitidas
+password_failed<>Senha inválida
+try_again_few_seconds<>Tente novamente mais tarde
+need_input<>Insira um nome ou ID da guilda
+insert_least_one_hero<>Escolha pelo menos um Herói
+change_success<>Sucesso!
+email<>E-mail
+code_verify<>Código de Verificação
+master_can_not_quit_guild<>O líder não pode deixar a guild
+sure_leave_guild<>Você tem certeza que deseja abandonar essa Guild?
+have_left_guild<>Você deixou a guild
+need_level_mastery<>Você precisa atualizar todos os Masteries para o nível %s
+login_failed<>Falha ao iniciar sessão
+boss_died<>O Chefão foi derrotado
+limit_level_x<>Não é possível atacar porque a diferença de nível é maior que %s
+continue_facebook<>Continuar com o Facebook
+remove_friend_success<>Apagado com sucesso.
+do_want_delete_mail<>Deseja apagar esta mensagem?
+can_not_claim_mail<>Falha ao receber email
+send_success<>Sucesso no envio
+claim_success<>Coletar o sucesso!
+claim_send_success<>Colete e envie sucesso!
+can_not_claim_send<>Não há corações disponíveis para coleta ou enviar
+do_want_delete_all<>Deseja excluir tudo?
+add_friend_success<>Amigos adicionados
+hero_in_arena<>Os Heróis estão na arena
+hero_in_training<>Os Heróis estão em treinamento automático
+require_level_x<>Nível  %s requerido
+help<>Ajuda
+guild_name_contain_banned_word<>Nome de Guilda Inválido
+guild_desc_contain_banned_word<>Descrição inválida da guilda
+selected<>Selecionado
+not_enough_x<>Não há  suficiente %s
+casino_shop<>Loja de Desejos
+altar_shop<>Loja do Santuário
+guild_shop<>Loja da Guilda
+arena_shop<>Loja do Desafiador
+want_to_buy<>Tem certeza?
+require_tavern<>Este herói não atende aos requisitos da missão
+require_hero_star_x<>Requer %sherói estrela
+require_hero_faction_x<>Requer  %s herói da facção
+require_hero_class_x<>Requer  %s herói de classe
+want_to_cancel_quest<>Deseja cancelar esta missão?
+want_to_speed_up<>Deseja acelerar?
+not_enough_equipment<>Equipamentos insuficientes
+noti_full_hero<>Os espaços do Herói estão cheios
+unlock_new_function<>Nova função
+reset<>Reiniciar
+mastery_skill<>Habilidades de Domínio
+need_reset_main_mastery<>Você precisa redefinir o Domínio Supremo primeiro
+want_to_reset<>Deseja reiniciar?
+not_enough_resource<>Recursos insuficientes
+user_profile<>Perfil do Usuário
+fanpage<>Página do Facebook
+go_to_fanpage_notice<>Por favor, visite nosso site para mais informações
+want_to_switch_server<>Deseja realmente mudar de servidor?
+want_to_new_server<>Deseja criar um novo perfil neste servidor?
+want_to_clear_data<>Deseja limpar os dados?
+connecting_server<>Conectando ao servidor...
+init_service<>Inicializando o Servidor...
+init_data_request<>Inicializando solicitação de dados ...
+init_resource_request<>Inicializando solicitação de recurso...
+download_asset_bundle<>Fazendo download do pacote de ativos...
+next_scout<>Próximo Escoteiro em: %s
+summoner_can_view<>A facção do invocador é contada como usada como qualquer tipo de facção
+require_stage_x<>Limpar fase {1} {2} - {3} para Desbloquear
+hero_info_max_level<>Nível máximo de herói atingido
+daily_quest<>Missão Diária
+hero_level_cap_to<>O limite de nível aumenta para %s
+bonus_class<>Bônus para a classe {1}
+bonus_faction<>Bônus para facção {1}
+bonus_class_faction<>Bônus para {1} classe e {2} facção
+free_gem<>Gemas Grátis
+skill_enhance<>Melhore a habilidade
+level_cap<>Nível máximo
+how_many_purchase<>Digite o número de {1}
+sell<>Vender
+vip_full<>Nível VIP máximo atingido
+copy_to_clipboard<>Copiar para a área de transferência
+player_blocked<>Jogador já bloqueado
+hero_fragment_title_star<>Fragmento do Herói da Estrela {1}
+hero_fragment_faction<>Fragmento de Herói da {1} estrela {2}
+hero_fragment_name<>Fragmento de {1}
+hero_fragment_star<>{1} - Fragmento de Herói Estrela
+hero_fragment_star_faction<>Fragmento de Herói de {1} -Estrela {2}
+hero_fragment_info<>Colete {1} fragmentos para convocar o Herói
+artifact_fragment_title_1<>Artefato Raro
+artifact_fragment_title_2<>Artefato Místico
+artifact_fragment_title_3<>Artefato Lendário
+artifact_fragment_title_4<>Artefato Lendário (Especial)
+artifact_fragment_title_5<>Artefato Imortal
+artifact_fragment_title_6<>Artefato Imortal (Especial)
+artifact_fragment_info<>Colete {1} fragmentos para montar um Artefato aleatório
+require_level_stage<>Requer Fase {2} {3}-{4} e Nível {1}
+require_vip_or_stage<>Requer VIP {1} ou Fase {2} {3} - {4}
+require_vip_or_level_stage<>Requer VIP {1} ou Nível {2} e Fase {4} - {5}
+achievement<>Conquistas
+quest_tree<>Árvore de Missões
+achievement_tittle_group_1<>Poder de ligação
+achievement_tittle_group_2<>Vida e Morte
+achievement_tittle_group_3<>Estratégia de Invocação
+achievement_tittle_group_4<>Desafio Enorme
+achievement_tittle_group_5<>Outros
+quest_tree_tittle_group_1<>Início da Jornada
+quest_tree_tittle_group_2<>Conquista de Monstros
+quest_tree_tittle_group_3<>Desafia Inacabável:
+completed<>Concluídos
+player_already_show_info<>O jogador já mostrou a informação
+in_progress<>Em progresso
+new_password_is_last<>Senha duplicada
+new_password_failed<>Falha ao confirmar a nova senha
+chat_delay<>Reenviar a mensagem após  %s segundos
+search_failed<>Falha ao buscar
+need_input_friend_id<>O ID do amigo não pode ficar em branco
+send_failed<>Falha ao enviar
+warning_send_mail<>Reenviar a mensagem após   %s segundos
+mail_content<>O conteúdo do correio não pode ficar em branco
+max_hero<>Max Hero!
+enough_hero_material<>Materiais de herói insuficientes!
+max_turn_bought<>O número de compras atingiu o limite
+hero_max_star<>Herói da estrela máxima
+need_up_max_level<>O herói precisa atingir o nível máximo primeiro
+hero_is_training<>Em curso
+hour_x<>%s/h
+min_x<>%s m
+smash_reward<>Recompensa Esmagadora
+refresh_x<>Atualizar: %s
+potion_1<>Recupere: %s HP
+potion_2<>Aumente: %s Energia
+potion_3<>Aumente: %s HP e %s Energia
+full_slot<>Espaços Cheios
+want_to_use_potion<>Você quer usar poção?
+day_ago_format<>{0} d {1} h atrás
+hour_ago_format<>{0}h {1}m
+min_ago_format<>{0}m {1}s
+second_ago_format<>{0}s atrás
+tower_record_error<>Falha ao reproduzir o registro. Tente utilizar outro.
+require_vip_or_level<>Requer VIP {1} ou nível {2}
+reach_limited_pack<>Pacotes limitados alcançados!
+all_heroes_were_killed<>Todos os heróis foram derrotados!
+use_id_format<>Use o formato de ID
+guild_not_found<>O Guilda não foi encontrado.
+recommend_guild_failed<>Falha ao mostrar as guildas recomendadas
+have_just_joined_guild<>Você se juntou a um Guilda.
+boss_changed_successful<>Chefe mudou o sucesso!
+select_boss_failed<>Falha ao selecionar chefe!
+challenge_guild_boss_successful<>Desafio Sucesso no chefe da guilda!
+challenge_guild_boss_failed<>Falha ao desafiar o chefe da guilda!
+guild_was_kicked<>Você foi expulso da guilda!
+check_in_successful<>Faça o check-in com sucesso!
+restore_failed<>Restauração falhou
+play_record_failed<>Erro no registo Tente utilizar outro.
+need_clear_previous_stage<>Você precisa limpar o estágio anterior primeiro!
+map_cleared<>Concluídos
+no_video<>Vídeo não disponível
+current_name<>Nome Actual
+product_not_exist<>Esta ID não existe.
+purchase_processing<>A processar...
+register_account_success<>Registo efetuado com sucesso
+new_pass_limit<>Limitado %s personagens
+new_pass_special<>Contém caracteres especiais
+confirm_pass_fail<>Confirmar falha da senha.
+disconnect<>Desconectado
+dungeon_time_up<>A masmorra está fechada!
+change_language<>Deseja mudar o idioma para %s
+create_guild<>Deseja criar sua guilda?
+want_block<>Você quer bloquear?
+want_unblock<>Deseja desbloquear?
+want_delete_all_mail<>Deseja excluir todos os e-mails?
+want_refresh_tavern<>Deseja atualizar a taberna?
+remove_friend<>Deseja remover este amigo?
+have_verified_email<>Você verificou seu email?
+quit_game<>Deseja sair do jogo?
+want_refresh_shop<>Deseja atualizar a loja?
+all_hero_died<>Todos os heróis foram derrotados!
+resend<>Reenviar
+input_code<>Introduz o código
+noti_code<>Uma mensagem foi enviada para o seu e-mail!
+update<>Actualizar
+raw_pack_1<>Punhado de gemas
+raw_pack_2<>Monte de gemas
+raw_pack_3<>Bolsa de Gemas
+raw_pack_4<>Caixa com gemas
+raw_pack_5<>Arca com gemas
+limited_pack_1<>Pacote semanal de ferro
+limited_pack_2<>Pacote semanal de aço
+limited_pack_3<>Pacote semanal de bronze
+limited_pack_4<>Pacote semanal de prata
+limited_pack_5<>Pacote Semanal Dourado
+limited_pack_6<>Pacote Mensal de Ferro
+limited_pack_7<>Pacote mensal de aço
+limited_pack_8<>Pacote mensal de bronze
+limited_pack_9<>Pacote mensal de prata
+limited_pack_10<>Pacote de ouro mensal
+smash_many<>Por favor inserir o número de trabalho tarefa
+events<>Eventos
+event_summon<>Invocação
+event_prophet_tree<>Relíquia Antiga
+event_arena<>Arena
+event_wheel_of_fate<>Roda do Destino
+event_tavern<>Taberna
+event_collection<>Cobrança
+event_exchange<>Troca
+event_bundle<>Conjunto
+event_hot_deal<>Hot Deals
+event_prophet_tree_info<>Durante o evento, complete o número necessário de convocação no Árvore Anciã para obter as recompensas.
+event_wheel_of_fate_info<>Durante o evento, complete o número necessário de giros no Roda do Destino para obter as recompensas.
+event_collection_info<>Durante o evento, colete o número necessário de heróis para obter as recompensas.
+event_tavern_info<>Durante o evento, complete o número necessário de missões no Taverna para obter as recompensas.
+event_summon_info<>Durante o evento, complete o número necessário de convocação no Invocação para obter as recompensas.
+event_arena_info<>Durante o evento, complete o número necessário de jogadas na Arena para obter as recompensas.
+event_bundle_info<>Durante o evento, você pode comprar pacotes limitados.
+event_hot_deal_info<>Durante o evento, você pode comprar pacotes limitados.
+gate<>Mapa
+enemy<>Inimigo
+faction_restrain<>Restrição de Facção
+faction_restrain_info<>A restrição de facção causa {1} mais dano e aumenta a precisão {2}
+round<>Rodada
+invite<>Convidar inscrições para estudantes para o curso
+name<>Nome
+stock<>Limite
+select_guild_logo<>Selecione o logo da sua guilda
+member<>Membro
+master<>Líder
+deputy<>Vice líder
+guild_notice<>Aviso da guilda
+season_end_in<>Fim da Temporada:
+stage<>Estágio
+hall_of_fame<>Quadro de Honra
+floor<>Andar
+remove_all<>Remover tudo
+enemy_team<>Inimigo
+go<>Iria
+save_point<>Jogo salvo
+next_stage<>Próxima fase
+attacker<>Atacante
+defender<>Demandado
+forge_equipment<>Equipamento de forja
+upgrade_hero<>ATUALIZAR
+summon_hero<>EVOCAR
+enter_redemption_code<>Digite o código de resgate
+gift_code<>Código de presente
+current_ranking<>Classificação atual
+monthly_packs<>Pacotes Mensais
+raw_packs<>Pacotes
+limited_packs<>Pacotes limitados
+total_reward<>Recompensas Totais
+instant_reward<>Recompensa instantânea
+weekly<>Mensal
+monthly<>Mensal
+premium_monthly<>Mensal Premium
+free_acquire_video_reward<>Adquira recompensa em vídeo gratuitamente
+limit_pack_per_week<>Limite %s pacote/semana
+limit_pack_per_month<>Limite %s embalagem/mês
+lock<>Trava
+edit_lock_heroes<>Editar heróis bloqueados
+back_to_current<>Corrente traseira
+mastery_name<>{1} de {2}
+get_vip_point_to_reach<>Pegue %s Ponto VIP a alcançar
+remove<>Remover
+replace<>Substituir
+use<>Utilização
+add_one<>Adicionar x0
+add_ten<>Adicionar x10
+admin_mail<>Administração
+moderator_mail<>Moderador
+merchant<>Mercador
+enter_name_please<>Por favor digite um nome
+enter_chat<>Introduzir texto
+chat<>Chat
+join<>Entrar
+please_wait_for_seconds<>Por favor espere por %s segundos
+max<>máx.
+gold_mine<>Mina de Ouro
+friend_not_save_formation<>Este amigo não criou uma equipe de defensores
+not_enough_quest_refresh<>Nenhuma busca para atualizar
+do_you_want_use_resource<>Deseja usar {1} {2}
+wanna_kick_member<>Deseja expulsar este membro?
+special<>Especial
+first_purchase<>Primeira Compra
+account_limit_character<>A conta deve ter entre {1} e {2} caracteres.
+hero_food_moon_title<>Lua
+hero_food_sun_info<>Usado para substituir o material necessário ao evoluir heróis da facção Luz / Escura
+hero_food_sun_title<>Sáb.
+hero_food_moon_info<>Usado para substituir os materiais necessários na evolução dos heróis da facção Fogo, Água, Natureza e Abismo
+boss<>Chefão
+verify_email_success<>Verifique o sucesso
+level_up_reward<>Recompensa de nível
+no_tavern_quest<>Nenhuma busca na taverna
+season_open_in<>Temporada começa em:
+cleared<>Limpo
+claim_reach_level<>Solicite recompensas ociosas imediatamente para atingir o nível necessário
+more_time_reach_level<>Precisa de mais {1} para atingir o nível {2}
+claim_to_not_max<>Lembre-se de reivindicar a recompensa inativa antes que ela atinja o limite
+to_reach_level_x<>Precisa de {1} para atingir o nível {2}
+ranking_1<>Ferro II
+ranking_2<>Ferro I
+ranking_3<>Bronze
+ranking_4<>Prata
+ranking_5<>Ouro
+ranking_6<>Platinum
+ranking_top_11<>Diamond
+ranking_top_1<>Lenda
+ranking_top_2<>Especialista
+ranking_top_3<>Challenger
+ranking_top_6<>Comandante
+top_x<>{1} lugar
+top_x+<>{1}+ lugar
+top_x_x<>Principais {1} - Principais {2}
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>Não classificado
+version_outdate<>Your version %s is not up to date!
+role<>Função
+ago<>atrás
+preload_resources<>Pré-carregando texturas
+download_resource_complete<>Recursos de download concluídos
+load_user_data<>Carregando usuário...
+start_game<>Iniciar jogo
+under_maintenance<>O servidor está em manutenção.
+no_data<>Não há dados
+change_leader<>Mudar Líder
+set_as_leader<>Definir como líder
+guild_member_list<>Lista de membros
+confirm_change_leader<>Tem certeza de que deseja definir {1} como {2}?
+unblock_training_condition<>Você pode mudar o herói para treinar depois de reivindicar
+quick_battle<>Batalha Rápida
+quick_battle_info<>Você receberá a Recompensa Inativa de %s minutos no valor de EXP do Herói, EXP do Invocador, Ouro e itens.
+monthly_reward<>Recompensa Mensal
+max_quick_battle_turn<>Max turnos rápidos de batalha
+event_has_ended<>Este evento terminou
+archived<>Arquivado
+more_items<>%s Mais itens)
+purchase_items<>Itens de compra
+limited_pack_desc_1<>A escolha de um investidor inteligente
+limited_pack_desc_2<>Essa escolha aumentará sua fama
+limited_pack_desc_3<>Essa escolha trará benefícios inesperados
+limited_pack_desc_4<>Um empreendimento, mas também um investimento genial
+limited_pack_desc_5<>Esta escolha trará a você a glória do campeão
+limited_pack_desc_6<>Uma escolha muito essencial de um conquistador
+limited_pack_desc_7<>O maior investimento acima de tudo
+limited_pack_desc_8<>Os benefícios deste investimento serão comprovados imediatamente
+companion_buff<>Acompanhante
+total<>Total
+when_you_login<>Quando você entra
+claim_each_day<>Todos os dias para %s dias
+day<>Dia(s)
+speed_up_gold<>Aceleração Ouro
+speed_up_hero_exp<>Aceleração EXP do Herói
+speed_up_summoner_exp<>Aceleração EXP do Invocador
+speed_up_gold_info<>Adquira instantaneamente %s horas de ouro\nAtive na tela Campanha
+speed_up_hero_exp_info<>Ganhe instantaneamente %s horas de EXP do Herói\nAtive-o na tela Campanha
+speed_up_summoner_exp_info<>Adquira instantaneamente %s horas no valor de EXP do Invocador\nAtive-o na tela Campanha
+all_received<>recebido
+attack_success<>Sucesso no ataque
+attack_fail<>Falha no ataque
+defense_success<>Sucesso de Defesa
+defense_fail<>Falha na Defesa
+revenge<>Vingança
+hide<>Ocultar
+season_end_reward<>Recompensa Final da Temporada
+champion<>Champion
+reward_area_end<>Abra o correio para receber sua recompensa
+go_to_mail<>Ir para
+arena_point_reset<>Seu ponto de classificação foi redefinido para %s
+rate_x<>%s preço:
+season_end<>Final de temporada
+highest_ever<>Maior já alcançado
+random_item_pool<>Item da Lista
+next_refresh<>Próxima atualização forçada em:
+community<>Comunidade
+guild_log_join<>{0} se juntou à nossa guilda
+guild_log_leave<>{0} saiu da nossa guilda
+guild_log_assign_leader<>{0} atribuiu {1} como líder da guilda
+guild_log_assign_sub_leader<>{0} atribuiu {1} como vice-líder
+guild_log_kick_out<>{0} foi expulso da guilda
+free_refresh<>Atualização gratuita em:
+flash_sale<>OFERTA RELÂMPAGO
+rate_title<>Assim?
+not_rate_contain<>Pedimos desculpas pela experiência desagradável pela qual você passou. Por favor, visite nossa fanpage e deixe seu feedback lá. Isso ajudará muito a melhorar nosso jogo cada vez melhor.
+transaction_mail<>Correio de transação
+weekly_packs<>Pacotes Semanais
+subscription_packs<>Pacotes de Assinaturas
+rate_content<>Desfrute da Era de Invocador? Incentive nossa equipe com uma classificação de 5 estrelas!
+rate<>Avaliar Agora!
+not_rate<>Não, obrigado
+go_to_fanpage<>Ir para a Fanpage
+notice_watch_ads<>Deseja assistir a um anúncio de recompensa?
+play_video<>Reproduzir vídeo
+init_proceed_failed<>O pedido não pode prosseguir com a conta da loja. Verifique sua conta e tente novamente.
+start_free_trial<>Comece seu grátis %s dias de julgamento
+trial_available<>Obrigado por iniciar seu teste
+warning_flash_sale<>Este pacote aparece apenas uma vez. Você tem certeza de pular esta chance?
+warning_download_data<>Faça o download de {1}MB de dados.\n<color=#{2}> Conexão Wi-Fi recomendada </color>
+not_enough_space_memory<>Não há espaço livre suficiente para baixar dados. %s MB de espaço livre é necessário para continuar.
+retry<>Tenta novamente
+download<>Download
+event_login<>Login de evento
+event_login_info<>Durante o evento, colete o número necessário de login para obter as recompensas.
+tip_1<>Ao reiniciar ou usar os Heróis como material de evolução, 100% dos materiais usados para nivelar esses Heróis e 80% dos materiais para aprimorar a runa serão devolvidos.
+tip_2<>Perceber! Os heróis das estrelas baixas (1-3) não são inúteis. Evolua e traga-os para seus Heróis Principais como alimento de emergência.
+tip_3<>As estatísticas baseadas no nível dos heróis serão bastante aumentadas com a evolução.
+tip_4<>Por favor, não esqueça de alcançar uma classificação mais alta na Arena. Você pode obter muitos &quot;Pontos de domínio&quot; como recompensa semanal no ranking.
+tip_5<>O treinamento de heróis é a melhor maneira de aumentar o nível de heróis de 3 estrelas ou menos.
+tip_6<>Não se esqueça de registrar uma conta e verificar o endereço de e-mail para sua segurança.
+tip_7<>Ao reiniciar ou usar os Heróis como material de evolução, 100% dos materiais usados para nivelar esses Heróis e 80% dos materiais para aprimorar a runa serão devolvidos.
+notice_upgrade_stone_converting<>Você já converteu Stone antes. Você tem certeza de continuar atualizando?
+day_only<>Dia
+login_event_progress<>Login em progresso %s
+notice_switch_all_summoner<>Deseja trocar todos os invocadores?
+not_enough_point<>Ponto insuficiente
+event_arena_ranking<>Raking da Arena
+event_arena_ranking_info<>Durante o evento, aumente seus pontos no ranking para receber recompensas. O resultado do evento é calculado de acordo com o ranking da última temporada finalizada e será notificado por correio.
+notice_reset_hero<>A quantidade total retornada de recursos consumidos após a redefinição depende do nível do Herói
+guild_hall<>Aliança
+guild_hall_info<>Este é o local onde estão localizados os trabalhos administrativos e as atividades dos membros da guilda.
+join_now<>Participar agora
+are_you_sure<>Tem certeza?
+registered_member<>Membro registrado
+phase_message_tittle<>Assistente de Guilda
+message_phase_1<>Precisa de pelo menos {1} membro registrado para poder participar da {2} rodada
+message_phase_2<>Your guild can't join {1} because defense formation hasn't been set up. Only Leader & Vice-Leader could set up.
+change_formation<>Mudar formação
+change_defender<>Demandado
+guild_leader_benefit<>Apenas o Líder da Guilda pode se registrar na Guerra da Guilda
+notice_evolve_hero_converting<>Este herói está sendo convertido. Você tem certeza de evoluí-los?
+unlock_previous_stage<>Desbloquear etapa anterior
+missing_join_stage<>Você perdeu a chance de participar deste Guild Dungeon
+deal_damage_to_get_reward<>Cause dano para receber recompensas raras.
+only_leader_can_change_boss<>Somente o líder da guilda pode mudar de chefe
+total_damage<>Dano total
+event_release_festival<>Festival de Lançamento do Evento
+event_release_festival_info<>Durante o evento, quando o servidor atingir um certo número de jogadores, todos os jogadores desse servidor receberão uma recompensa.
+player_join_server<>Jogadores ingressam no servidor
+skip_batte<>Pular Batalha
+summoner_locked<>Invocador não foi desbloqueado
+member_has_registered<>Membros se registraram
+not_eligible_to_join<>Não é elegível para participar
+guild_war_phase_1_name<>Registration phase
+guild_war_phase_2_name<>Defense setup phase
+guild_war_phase_3_name<>Battle phase
+random_boss<>Random Boss
+try_time<>Try time
+check_out_defenders<>Check out defenders
+limited_pack_11<>Pacote mensal de platina
+limited_pack_desc_11<>This investment's benefits will immediately be proven
+event_shop<>Loja de almas
+mission<>Missão do Evento
+exchange<>Troca
+not_enough<>Insuficiente
+limit_x<>Limit %s 
+soul_shop<>Loja de almas
+hidden_deal<>Negócio oculto
+owned<>Possuído
+guild_owned<>Propriedade da guilda
+not_in_guild<>Você não está na guilda
+new<>Novo
+out_of_turn<>Fora da vez
+event_exchange_1<>Troca de Heróis
+event_exchange_1_info<>Para completar a missão, colete o número necessário de Materiais para trocar Heróis.
+event_exchange_2<>Troca de itens
+event_exchange_2_info<>Para completar a missão, colete o número necessário de materiais para trocar itens.
+event_exchange_3<>Mercador Misterioso
+event_exchange_3_info<>Você pode comprar itens interessantes do comerciante.
+profit<>Lucro
+tilion_nick_name<>Melhor curandeiro
+donate<>Doar
+guild_donate_history<>Guild doar história
+defronowe_nick_name<>O Assassino Louco
+first_time_reward_desc<>Adquira esse herói sempre que fizer a primeira recarga
+first_time_reward<>Primeira Recarga
+go_to_shop<>Vá a loja
+guild_donate_help<>Guild donate help
+guild_donate_title<>Guild donate
+starter_pack<>Pacote Inicial
+owned_x<>Propriedade: {1}
+starter_pack_name_1<>Equipamentos
+starter_pack_desc_2<>AOE Damage Dealer
+starter_pack_desc_4<>Um tiro uma morte
+starter_pack_desc_3<>Queimando todos os inimigos 
+extra<>Extra
+quick_battle_ticket_2_0<>{1} Hour - speed up Gold
+quick_battle_ticket_2_10<>{1} Hour - speed up MagicPotion
+quick_battle_ticket_8_0<>{1} Hour - speed up Exp
+event_type_20<>Event Guild Quest
+event_type_20_info<>You need to complete the milestone in both Trophy gold and Trophy Silver to get the reward
+hero_lock_in_inventory<>Hero is locked in Inventory
+hero_in_guild_war<>Hero is in Guild War
+require_vip<>Require Vip %s
+received<>Recebido
+final_reward<>Recompensa Final
+day_x<>Dia %s
+buy_item_quest_name<>Comprar itens
+event_server_open<>Missão de novato
+item_loot<>Item Loot
+done<>Feito
+support<>Support
+check_game_version<>Check Game Version
+check_game_logic<>Check Game Logic
+check_game_resources<>Check Game Resources
+check_resources_config<>Check Resources Config
+go_to_store<>Go to store
+switch_all<>Switch All
+server_open<>Missão de novato
+login_summoner_era<>Login Summoner Era
+login_facebook<>Login Facebook
+login_google<>Faça login com o Google
+login_apple<>Login Apple
+binding_summoner_era<>Binding Summoner Era
+binding_facebook<>Binding Facebook
+binding_google<>Faça login no Google
+binding_apple<>Binding Apple
+binded<>Binded
+noti_binding<>The account is a guest account, bind it to avoid losing your account
+mail_verified<>Recovery email: %s
+min_donate_event_guild_quest<>Min donation {1} {2} and {3} {4}
+player_banned<>Your account has been banned due to suspicious activity. Kindly contact to our customer service for more details.
+scroll_monthly<>Scrolls Card
+sale_off<>Sale Off
+hot<>Hot
+level_pass<>Level Pass
+unlock_level_pass<>Unlock Premium
+free_reward<>Free Reward
+premium_reward<>Premium Reward
+activated<>Unlocked
+reward_claimed<>Received
+summoner_exp<>Summoner EXP
+tap_to_claim<>Tap to claim
+growth_pack_lock<>After purchasing, reach the specified levels to claim massive amount of valuable rewards.
+noti_register<>Você quer registrar uma nova conta?
+skip_cut_scene<>Skip cut scene
+turn_on_cut_scene<>Turn on cut scene
+select_hero_evolve<>Select hero to evolve %s
+noti_confirm_resource<>Tem certeza de que deseja consumir esses recursos agora?
+noti_close_multi_evolve<>Se você confirmar para sair agora, terá que recarregar os Heróis na próxima vez.
+server_maintain_in_x<>Server maintenance will be implemented in next %s
+empty_hero_evolve<>Please select Hero to evolve
+multi_evolve<>Multi Evolve
+potion<>Potions
+collection_bag<>Buffs
+empty<>Vazio
+remaining<>Remanescente
+unpack_resources<>Unpack Resources
+choose<>Escolher
+hero_alive<>Este herói ainda está vivo.
+hp_full<>The hero is full health
+power_full<>The hero is full power
+guild_war_season_ranking<>Classificação da temporada de guerra de guilda
+guild_war_member_setup_progress<>Membro insuficiente registrado
+guild_war_member_setup_successful<>Registro de membro para guerra de guilda bem-sucedido
+guild_war_setup_can_be_modified<>Todas as formações estão se preparando. Apenas o líder e o vice-líder podem mudar antes de {1}. Os equipamentos do herói em todas as formações não podem ser alterados durante a batalha.
+swap_member_successful<>Troca de membro com sucesso
+ask_for_save_the_change_guild_war_defenders<>Você acabou de mudar sua linha de defesa. Você gostaria de salvar para a próxima vez?
+swap_member<>Swap member
+win<>Win
+your_guild_get<>Your guild get %s
+min_hero_dead_requirement<>Win with at least %s hero alive
+max_round_requirement<>Win in %s round(s)
+save_successful<>Salvo com sucesso
+power<>Combat Power
+point_gained<>Point gained
+not_enough_member_registered<>Unable to join due to insufficient number of registered members.
+guild_war_point<>Guild War Ranking Point
+guild_war_season_end<>The new season of guild war is coming soon. Prepare yourself to conquer new enemies.
+guild_war_register_notification<>Castle Defense formation has just been changed by another person
+require_event_rate_up_point<>Event rate up point is not enough to summon
+summon_rate_up<>Guaranteed in %s Summon(s)
+guaranteed_requirement<>Rate-up Event Point
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>Summoner Level
+daily_packs<>Pacotes Diários
+5_star_hero_reward<>Recompensa de herói de 5 estrelas
+clear_stage_to_get_reward<>Limpe esta fase para obter as recompensas no final da temporada
+current_season_reward<>Current season reward
+artifact_fragment_title_7<>Immortal Artifact (Water)
+artifact_fragment_title_8<>Immortal Artifact (Fire)
+artifact_fragment_title_9<>Immortal Artifact (Abyss)
+artifact_fragment_title_10<>Immortal Artifact (Nature)
+artifact_fragment_title_11<>Immortal Artifact (Light)
+artifact_fragment_title_12<>Immortal Artifact (Dark)
+guild_market<>Guild Store
+market_upgrade_describe<>You will need the following resources to upgrade
+attack_log<>Ataque
+defense_log<>Defesa
+attack_count<>Attack Count
+special_offer<>oferta especial
+master_blacksmith<>Ferreiro Magistral
+your_summoner_name<>Digite seu nome de Invocador
+when_upgrade<>Atualização Estat
+material_refund<>Material Refund
+arena_pass<>Arena Pass
+daily_quest_pass<>Daily Quest Pass
+arena_pass_desc<>Arena Pass Point can be acquired from participating in the arena.
+daily_quest_pass_desc<>Daily Quest Pass Point can be acquired from daily quest rewards.
+has_not_skin<>Este herói não tem skins
+select_hero<>Select Heros
+exit_guild<>Exit Guild
+event_golden_time_name<>Festival Meio Outono
+event_golden_time_desc<>Durante a duração do evento principal, os jogadores reivindicam Lanterna e Mooncake em Campanha Recompensa inativa. Use-os para jogar o evento e obter recompensas.\nLanterna e Mooncake são moedas do evento do meio do outono. Eles desaparecerão após o término do período do evento.
+event_feed_beast_name<>Mooncake Feast
+event_feed_beast_desc<>Dê Mooncake para a Qilin.\nObtenha uma recompensa exclusiva a cada novo formulário de evolução.
+event_gem_box_name<>Noite de lua cheia
+event_gem_box_desc<>Ganhe a recompensa no período do evento.\nMais Lanterna, Mais recompensas.
+feed<>Alimentação
+source_money_type_180<>∙ Recompensa de campanha ociosa\n∙ Oferta do Meio Outono\n∙ Noite de lua cheia
+source_money_type_181<>∙ Recompensa de campanha ociosa\n∙ Oferta do Meio Outono\n∙ Festival Check-in
+select_buff<>Selecione Buff
+drop_time<>13 dias desde o início do evento
+golden_time_drop_info<>∙ 1 Lanterna: 40 (sec)\n∙ 1 Mooncake: 240 (sec)
+event_midautumn_specialoffer<>Oferta do Meio Outono
+event_midautumn_checkin<>Festival Check-in
+event_midautumn_exchange_name<>Troca de lanternas
+event_midautumn_exchange_desc<>Colete a lanterna e troque as recompensas ilimitadas abaixo
+no_limit<>No Limit
+mid_autumn_offer_1<>Lanterna da Sorte
+mid_autumn_offer_2<>Merry Mooncake
+mid_autumn_offer_3<>Vermilion Bloom
+item_exchange<>Troca de Itens
+random_reward<>Recompensa Aleatória
+not_own_this_skin<>Não possuir esta pele ainda
+arena_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+daily_quest_pass_unlock_content<>Unlock & Claim the rewards every specified point you reach.
+popup_context_need_resource<>Lack of resources. Collect these & come back.
+warning_you_need_more_resources<>Recursos insuficientes. Precisa de mais
+town_center<>Construção Principal
+turret<>Torre
+event_golden_time_halloween_name<>Halloween Time
+event_golden_time_halloween_desc<>Colete Dados e Abóbora para trocar as recompensas. Os itens de Halloween desaparecerão após o término do evento. 12 horas antes do término do evento, Abóbora irá parar de cair no baú ocioso.
+source_money_type_210<>∙ Campaign Idle Reward\n∙ Festival Offers\n
+source_money_type_211<>∙ Campanha Recompensa de ociosidade\n∙ Ofertas do festival\n∙ {3}\n
+drop_time_halloween<>13 dias desde o início do evento
+golden_time_halloween_drop_info<>∙ 10 Abóbora: {0} (s)
+dice_title<>Jogo Assombrado
+dice_guide<>Colete e Role o Dados - Ganhe prêmios incríveis.\nEncontre mais em Missão de Halloween.
+event_halloween_exchange_name<>Devil Trading
+event_halloween_exchange_desc<>Não perca o Abóbora. Troque recompensas apenas no Halloween.\nColete mais em {1}. Toneladas de recompensas que você deseja reivindicar.
+halloween_daily_checkin<>Festival Check-in
+event_halloween_specialoffer<>Ofertas do festival
+halloween_purchase_1<>Jack O'Lantern
+halloween_purchase_2<>Dados Proféticos
+halloween_purchase_3<>Espírito da morte
+roll<>Rolar 
+lap_reward<>Rodada de bônus
+lap_x<>Vuelta %s
+event_halloween_dice<>Rolar os dados
+hallo_ween<>Halloween
+next_free<>Próximas recompensas
+lap_completed<>Volta concluída
+black_friday_remain_x<>O cartão é válido para: %s
+black_friday_gem_pack<>BLACK FRIDAY SHOP
+event_card_black_friday<>Cartão de Assinatura
+event_card_gem_pack<>Troca de caixa de gemas
+black_friday_card_content<>Faça login todos os dias por 7 dias para reivindicar a recompensa diária
+black_friday_card<>CARTÃO PRETO DE SEXTA-FEIRA
+black_friday<>Black Friday
+do_you_want_to<>Please confirm to use
+reset_this_slot<>to reset this slot?
+raised_list<>Lista Elevada
+raise_hero_describe<>Escolha o Herói que você deseja fortalecer na Lista Aumentada. Seu nível será aumentado igual ao nível mais baixo do Herói dos Poderosos Cinco abaixo.
+describe_unbinding_raise_level<>Desvincular o herói deste slot irá reverter o nível elevado ao seu nível original. Este slot estará disponível após
+hero_in_pentagram<>Hero is one of the Mighty Five
+hero_in_raise_level<>Hero is in Raised List
+hero_in_ancient_tree<>Hero is in Ancient Tree
+need_to_select<>You need to select a hero
+same_hero_id<>This hero has the same Hero ID with the other hero in Raised List
+revert_to<>Revert to
+binding_sungame<>Binding Sungame
+login_sungame<>Login Sungame
+open_slot_before<>Please open the previous slot first
+on_cooldown<>On Cooldown
+unlock_slot_success<>You've just opened extra slot
+tower<>Tower 
+defense_stage_reward<>Instant Reward
+failed<>Failed
+success<>Success
+require_login_sungame_to_purchase<>Você precisa fazer o login pela conta Sungame para ocorrer esta transação
+event_shop_name<>FÁBRICA DE DOCES
+event_frosty_ignatius<>Frosty Ignatius
+event_exclusive_offer<>Oferta exclusiva
+event_xmas_daily_checkin<>Checkin Jingle Bells
+event_golden_time<>CHEIO DE PRESENTES
+event_xmas_exchange_desc<>Troque bastões de doces por presentes.
+xmas_purchase_1<>Feliz Natal
+xmas_purchase_2<>Alegre Natal
+xmas_purchase_3<>Fantasia Natal
+xmas<>Natal
+need_login_by_sungame<>You need to login by Sungame account
+binding_success<>Binding Success
+full_of_gift_name<>SACO DE PAPAI NOEL
+full_of_gift_desc<>Abra o Saco do Papai Noel para ganhar presentes surpreendentes.
+drop_time_xmas<>13 dias desde o início do evento
+full_of_gift_drop_info<>1 Saco do Papai Noel cairá a cada 3600 segundos.
+reward_pool<>Anel-Ding-Dong
+completed_level_x<>Bom trabalho! Você concluiu o Passe de Nível %s
+need_reload_data<>Precisa recarregar dados
+need_set_formation_road_x<>At least one hero required for road %s
+wave_x<>Onda %s
+happy_new_year<>Feliz Ano Novo
+new_year_golden_time_name<>Momentos Alegres
+new_year_golden_time_desc<>Colete cartões postais para jogar Desejos de sorte e ganhar super prêmios. Cartões postais podem ser obtidos por meio de Recompensa Inativo.
+drop_time_new_year<>13 dias desde o início do evento
+event_new_year_card<>Cartão da bênção
+new_year_remain_x<>Você receberá recompensas continuamente nos próximos %s dias.
+event_new_year_card_content<>Faça login todos os dias por 14 dias para reivindicar a recompensa diária
+event_new_year_lottery<>Desejos de sorte
+event_new_year_exchange<>Adeus ao velho
+new_year_golden_time_drop_info<>Tempo de espera para uma queda: %s seg. O máximo de cartões postais roubados depende do máximo de horas de baú ocioso.
+lottery_title<>Desejos de sorte
+source_money_type_230<>Postal
+event_ignatius_name<>FÚRIA CONGELADA
+event_ignatius_desc<>Desafie o Super Boss - Frosty Ignatius para receber prêmios dignos
+highest_damage<>Maior Dano
+new_year_card_title<>CARTÃO DE BÊNÇÃO
+xmas_daily_checkin_title<>CHECKIN JINGLE BELLS
+event_xmas_golden_time_name<>Cheio de presentes
+event_xmas_shop_name<>Fábrica de Doces
+hero_linking_description<>Implantar {0} Heroes following
+select_hero_for_linking<>Heróis apropriados
+friend_hero_support<>Sugestão de Apoio à Amizade
+hero_linking_description_2<>Implantar {0} heróis seguinte de {1} estrela
+time_to_move_x<>Tempo restante para trocar de herói:
+star_hero<>Estrela
+remove_hire_success<>Sucesso ao remover o herói da vinculação
+hire_success<>Sucesso Implantar Hero para Linking
+my_support_hero<>Mudar Herói Apoiado
+require_unique_hero_id<>Este herói ou sua atualização foram selecionados.
+describe_hero_for_hire<>Select a hero for supporting friends.
+require_at_least_one_your_hero_in_linking<>Requerem pelo menos um herói é seu.
+data_updated<>Os dados foram atualizados.
+feature_maintain<>O recurso está em manutenção.\n
+hero_in_support_hero_linking<>Este herói está em Lista herói suportados.
+hero_in_linking<>Este herói está em Linking recurso.
+hero_support_for_friends<>Sua Lista de herói Apoio
+feature_available_in_s<>Este recurso estará disponível em %s
+chest<>Cofre
+loose<>Derrota
+event_lunar_new_year_login<>Primavera Broto-picking
+event_lunar_new_year_login_title<>PRIMAVERA BROTO-PICKING
+lunar_path_dice_title<>AVENIDA PRÓSPERA
+lunar_path_dice_desc<>Dados vermelhos podem ser obtidos em Primeira Missão Pé e comprados por gemas. Rolando um Dados Vermelhos, você receberá 5 Amuleto e sua aliança recebe 1 ponto evento.
+lunar_path_quest_title<>PRIMEIRA MISSÃO PÉ
+lunar_path_quest_desc<>Completar missões de tempo limitado para obter bônus Dados Vermelhos. Quests são repostos diariamente durante a hora do evento.
+require_chap_boss<>Requerem Expel diabo nível %s
+new_year_golden_time_title<>MOMENTOS ALEGRES
+event_lottery_title<>DESEJOS DE SORTE
+event_new_year_exchange_title<>ADEUS AO VELHO
+event_lunar_path_shop<>Loja De Deus Da Riqueza
+event_lunar_path_exchange_name<>LOJA DE DEUS DA RIQUEZA
+event_lunar_path_exchange_desc<>Sammle Amuleto, um Belohnungen auszutauschen. Sie müssen das entsprechende Level Expel diabo erreichen, um die entsprechenden Geschenke freizuschalten.
+event_lunar_path_quest<>Primeira Missão Pé
+lunar_new_year<>Ano Novo Lunar
+lunar_path_dice<>Dados Vermelhos
+lunar_new_year_path<>Avenida Próspera
+event_lunar_path_boss<>Expel diabo
+event_lunar_path_boss_title<>EXPEL DIABO
+event_lunar_path_boss_desc<>Lute contra os males, obtenha recompensas. Os males só podiam ser combatidos quando os jogadores se uniam a uma Guilda.
+finish<>Terminar
+event_lunar_new_year_exchange<>sorte dinheiro
+event_lunar_new_year_exchange_title<>SORTE DINHEIRO
+event_lunar_new_year_exchange_desc<>Use Envelope Vermelho para trocar presentes
+event_lunar_elite_summon<>Convocação Elite
+lunar_path_purchase_1<>Afluência\nAno Novo Lunar
+lunar_path_purchase_2<>Paz \nAno Novo Lunar
+lunar_path_purchase_3<>Prosperidade\nAno Novo Lunar
+event_lunar_path_bundle<>Compras De Primavera
+golden_time_lunar_new_year<>Festival da Primavera
+golden_time_lunar_new_year_name<>FESTIVAL DA PRIMAVERA
+golden_time_lunar_new_year_desc<>Colete Envelope Vermelho]para trocar recompensas. Quanto mais Envelope Vermelho, maiores serão os presentes.
+drop_time_lunar_new_year<>13 dias desde o início do evento
+golden_time_lunar_new_year_drop_info<>Um Envelope vermelho cai a cada 1200 segundos.
+source_money_type_243<>Recebido em Campanha recompensa
+free_summon<>Convocação grátis em
+select_elite_summon_wish<>Lista de Heroes de Elite Summon
+gem_summon<>Remain Summon
+need_summon_more<>Garantido para receber no próximo
+event_lunar_new_year_bundle<>Presentes de Primavera
+event_lunar_new_year_bundle_title<>PRESENTES DA PRIMAVERA
+event_lunar_new_year_bundle_desc<>Durante a hora do evento, compre esses pacotes para obter itens preciosos.
+summon_more_to_gain_reward<>Convocar mais uma vez para ganhar a recompensa do desejo
+valentine_checkin<>Encontro às cegas
+valentine_checkin_title<>ENCONTRO ÀS CEGAS
+valentine_checkin_des<>O amor não deve ser desperdiçada. Faça login totalmente para obter um presente de amor.
+valentine_love_challenge<>Desafio do Cupido
+valentine_love_challenge_title<>AMOR ETERNO
+valentine_love_challenge_des<>Lute contra o chefe e mostre como o amor é forte. Você receberá recompensas dignas.
+valentine_store<>Presente romântico
+valentine_store_des<>Por que uma pessoa tão legal como você não compra esses presentes?
+event_valentine_open_card<>Love Quiz
+event_valentine_open_card_title<>LOVE QUIZ
+event_valentine_open_card_des<>Use Chocolate para desbloquear as peças do Love Quiz para obter o presente desejado. Complete o segundo capítulo do Love Quiz para obter a pele Entia.
+valentine<>Dia dos Namorados
+event_lunar_skin_bundle<>Rainha da Tribo do Dragão
+event_lunar_skin_name<>Longmu Arryl
+select_wishing_reward_for_round<>Em primeiro lugar, escolha o presente desejado do capítulo %s
+select_card_wish_list<>Lista de Desejos
+item_lock<>Complete o capítulo anterior para desbloquear
+unlock_round<>Desejos do Capítulo %s
+need_select_card_wish<>Por favor, selecione a recompensa desejada primeiro.
+max_round<>Love Quiz foi resolvido.
+item_not_select<>Você recebeu este item.
+round_x_wishing_reward<>Capítulo %s Recompensas Lista
+select_round<>Available Wishlist
+social_tab<>Comunidade
+social_tab_title<>COMUNIDADE
+social_tab_des<>Obrigado por gastar seu tempo com o Summoners Era. Vamos unir nosso canal sociais para obter as últimas atualizações. Uma enorme quantidade de atividades e presentes estão esperando por você.
+social_reward_desc<>Visite nossa comunidade e receba %s pela primeira vez.
+can_not_claim<>Recursos estão sendo explorados.
+in_use_skill<>Em Uso
+use_skill<>Uso
+detail<>Detalhe
+next_wave<>Próxima Onda
+stage_record<>Sugestão do jogador
+wave_x_record<>Resultado da onda %s
+need_upgrade_main_construction<>O nível da Torre não é superior ao nível da Estrutura Principal.
+player_stage_record<>Sua Guerra
+price_open_card_x<>Cada abertura custa %s
+new_hero<>Salute Novo Herói
+new_hero_quest_2<>Missão Boas Vindas 
+select_hero_all_formation<>Cada escalação precisa de pelo menos um herói 
+arena_team_shop<>Cavaleiro Loja
+arena_desc<>Partida única 
+arena_3v3_desc<>Partidas da equipe
+team<>Alinhar
+defense_your_team<>Definir 
+defeat<>Derrota 
+victory<>Vitória
+do_you_want_save_formation<>Você não salvou sua equipe. Você quer salvá-lo?
+hero_in_arena_team<>Herói está em Arena Martial.
+new_hero_bundle_title<>PACOTE SINÉRGICO
+event_merge_server_quest_tittle<>MISSÃO DE INÍCIO RÁPIDO
+event_merge_server_quest_desc<>Devido ao evento de fusão do servidor, uma grande quantidade de atividades e presentes estarão disponíveis para você.
+merge_server_quest<>Missão de início rápido
+merge_server_check_in<>7-dia Unite
+merge_server_checkin_title<>7-DIA UNITE
+merge_server_exchange<>Intercâmbio Mesclagem de servidor
+merge_server_bundle<>Pacote de fornecimento
+merge_server_accumulation<>Ponto de Acumulação 
+event_merge_server<>Mesclagem de servidor 
+event_merge_server_accumulation_tittle<>PONTO DE ACUMULAÇÃO 
+event_merge_server_accumulation_desc<>Complete Missão de início rápido e receba Union Point para obter recompensas. 
+event_merge_server_exchange_title<>MERGE SERVER EXCHANGE
+event_merge_server_exchange_desc<>Esses itens irão ajudá-lo muito no novo servidor.
+new_hero_summon<>Invocação lendária
+new_hero_spin<>Escada de charme 
+rose_spin<>ESCADA DE CHARME 
+review_skin<>Heldenvorschau 
+new_hero_checkin_title<>BÊNÇÃO DO NOVO HERÓI 
+noti_binding_account<>Você está jogando há algum tempo sem vincular sua conta. Para evitar a perda de dados, por que você não vincula sua conta agora? 
+binding_account_now<>Vincular
+hero_food_faction_info_5<>Usado para substituir os materiais necessários na evolução dos heróis da facção Fogo, Água, Natureza e Abismo
+hero_food_faction_title_11<>Lua (Água)
+hero_food_faction_info_11<>Usado para evoluir os Heróis da facção Água 
+hero_food_faction_title_12<>Lua (Fogo)
+hero_food_faction_info_12<>Usado para evoluir os Heróis da facção Fogo 
+hero_food_faction_title_13<>Lua (Abismo)
+hero_food_faction_info_13<>Usado para evoluir os Heróis da facção Abismo 
+hero_food_faction_title_14<>Lua (Natureza)
+hero_food_faction_info_14<>Usado para evoluir os Heróis da facção Natureza
+hero_food_faction_title_15<>Sáb (Luz)
+hero_food_faction_info_15<>Usado para evoluir os Heróis da facção Luz 
+hero_food_faction_title_16<>Sáb (Escuridão)
+hero_food_faction_info_16<>Usado para evoluir os Heróis da facção Escuridão 
+regression<>Regressar 
+regression_reward<>Materiais Devolvidos 
+event_merge_server_bundle_tittle<>PACOTE DE FORNECIMENTO
+event_merge_server_bundle_desc<>Você pode escolher 2 itens da piscina para comprar.
+select_item_pool<>Item da lista
+select_x_item<>Por favor, selecione 2 itens
+confirm_regression<>Você tem certeza de regredir este Herói? 
+evolve_invalid<>Nem heróis suficientes para o multi evoluir 
+device_not_support<>Seu dispositivo não é compatível com o jogo.  
+not_register<>A conta não foi registrada. 
+event_easter_egg<>Evento de Páscoa
+easter_egg_check_in<>Presentes de Deus 
+easter_egg_checkin_title<>PRESENTES DE DEUS
+easter_egg_bunny_card<>Cartão de Coelho 
+event_easter_egg_bunny_tittle<>CARTÃO DE COELHO
+event_easter_egg_bunny_desc<>Você receberá Gema, Titan Soul e Ouro correspondente ao seu nível. Os presentes serão enviados diariamente em %s dias. 
+purchased<>Comprado
+easter_egg_limited_offer<>Icarus Easter Bunny 
+event_easter_limited_offer_tittle<>ICARUS EASTER BUNNY 
+easter_egg_limited_offer_desc<>Não perca a chance de obter a pele tempo limitado de Icarus.
+easter_egg_hunt<>Coleta de ovos de páscoa
+easter_egg_break<>Quebra de ovo de páscoa
+egg_hun_name<>COLETA DE OVOS DE PÁSCOA
+egg_hun_desc<>Ovos e martelos podem ser obtidos por meio de muitas atividades. Vamos coletar.
+egg_hun_drop_1<>- Drop in Campanha a cada ano de 1200.\n- Após cada vitória em Arena e Arena Martial.\n- Através de todas as missões diárias.
+egg_hun_drop_2<>- Passada Masmorra etapa 100; 300\n- Complete todas as missões diárias.\n- Combine a cada 100 Ovo de Prata\n- No pacote de eventos.
+egg_hun_drop_3<>- Em caso de check-in diário \n- Combine 10 Ovo de Ouro\n- No pacote de eventos. 
+hammer_drop_1<>- Aprovado no Masmorra estágio 200, 400.\n- A cada {0} / 20 vitórias em Arena\n- Pacote no evento 
+hammer_drop_2<>- Em caso de check-in diário \n- No pacote do evento 
+new_hero_quest_tittle_2<>MISSÃO BOAS VINDAS
+new_hero_quest_desc_2<>Conclua esta missão para receber mais Estrela astral para as atividades do evento. 
+new_hero_spin_2<>Conquista do Universo 
+new_hero_login_2<>Bênção do novo herói 
+new_hero_bundle_2<>Pacote Sinérgico 
+new_hero_collection_2<>Dedicado Recompensa
+new_hero_collection_tittle_2<>DEDICADO RECOMPENSA
+new_hero_collection_desc_2<>Quanto mais Diadora você ganha, mais presentes você recebe. 
+rose_spin_2<>CONQUISTA DO UNIVERSO
+smash_egg<>Smash
+smash_egg_desc<>Hancurkan telur dan terima hadiah. Anda dapat mengetuk telur untuk melihat apa yang dapat Anda terima. 
+egg_combine<>Converter ovo 
+combine<>Converter 
+max_item_select<>Você só pode selecionar até 2 itens. 
+hero_in_other_feature<>Hero available to regress is in other feature.
+term_of_use<>Termos de Uso 
+policy<>Nota de Política 
+welcome_back_login<>Bem-vindo de volta Checkin 
+welcome_back_login_title<>BEM-VINDO DE VOLTA CHECKIN 
+welcome_back_quest<>Voltando a Missões 
+welcome_back_quest_title<>VOLTANDO A MISSÕES 
+welcome_back_quest_desc<>Essas missões o ajudarão a acompanhar as mudanças do jogo durante seu longo tempo offline. 
+welcome_back<>Bem vindo de volta 
+idle_reward<>Recompensas Ociosas 
+noti_term_of_use<>Ao tocar em Aceitar, você concorda com nossos Termos de Uso e reconhece que leu a Nota da Política com atenção. 
+cannot_purchase_in_pbe<>Compra não é suportado na versão PBE. 
+new_hero_boss_challenge_3<>Power Contest
+new_hero_boss_challenge_tittle_3<>POWER CONTEST
+new_hero_boss_challenge_desc_3<>Você receberá recompensas instantâneas nas primeiras 2 vezes por dia. Em particular, Charon trata 300% dano ao chefe e só leva% de dano 50 do chefe.
+new_hero_quest_3<>Missão Boas Vindas 
+new_hero_quest_tittle_3<>MISSÃO BOAS VINDAS
+new_hero_quest_desc_3<>Conclua esta missão para receber mais Lâmina de Enule para as atividades do evento. 
+new_hero_login_3<>Bênção do novo herói 
+new_hero_bundle_3<>Pacote Sinérgico 
+new_hero_collection_3<>Dedicado Recompensa
+new_hero_collection_tittle_3<>DEDICADO RECOMPENSA
+new_hero_collection_desc_3<>Quanto mais Charon você ganha, mais presentes você recebe. 
+new_hero_exchange_3<>Troca de lâminas
+event_new_hero_exchange_name<>TROCA DE LÂMINAS
+event_new_hero_exchange_desc<>Use Lâmina de Enule para trocar recompensas.
+new_hero_boss_leader_board_3<>Troféu de honra
+welcome_back_bundle<>Pacote Super Lucro
+welcome_back_bundle_title<>PACOTE SUPER LUCRO
+claimable_reward_turn<>Batalha com presentes
+new_hero_boss_leader_board_title_3<>TROFÉU DE HONRA
+new_hero_boss_leader_board_desc_3<>Este ranking é o lugar para homenagear os jogadores que causam mais danos ao chefe Enule.
+chest_boss_challenge_damage_info<>Cause %s de dano em uma batalha para receber este baú
+birthday_check_in<>Check-in de aniversário
+birthday_check_in_title<>CHECK-IN DE ANIVERSÁRIO
+even_birthday_golden_time_name<>Play more, more birthday gifts
+birthday<>Feliz aniversário
+elune_journey<>Mapa da Ilha Pirata
+birthday_treasure_map<>Hunting Treasure
+final_journey_reward<>Baú precioso
+complete_journey_x<>Conclua a direção de %s para receber
+goal_x<>Tesouro %s
+move<>Teleporte
+need_complete_one_more_journey<>Exigir pelo menos uma direção concluída.
+need_claim_previous_reward<>Exigir que o destino anterior seja concluído.
+new_hero_collection_4<>Dedicado Recompensa
+new_hero_collection_tittle_4<>DEDICADO RECOMPENSA
+new_hero_bundle_4<>Pacote Sinérgico 
+new_hero_skin_bundle_4<>Festa de verão
+event_new_hero_skin_bundle_1_data_4<>Renaks Summer Party
+event_new_hero_skin_bundle_2_data_4<>Enule Summer Party
+new_hero_treasure_4<>Mapa da Ilha Pirata
+unlock_super_monthly_card<>Receba recompensas ao comprar Mensal Premium
+birthday_bundle<>Oferta de aniversário
+event_birthday_bundle_1<>Aniversário alegre
+event_birthday_bundle_2<>Aniversário memorável
+birthday_check_wheel<>Rotação Maraculosa
+birthday_exchange<>Resgate de presentes
+confirm_stop_spin<>Would you like to end spinning to receive all acquired rewards?
+event_birthday_exchange_title<>RESGATE DE PRESENTES
+event_birthday_exchange_desc<>Don't forget to exchange these rewards to help you in this event.
+skin_bundle<>Skin Shop
+skin_bundle_view_43<>Skin Combo
+skin_bundle_view_44<>Retail Skin
+stop<>Pare
+spin<>Rodar
+noti_select_talent<>Você quer escolher esta opção?\n
+select_talent<>Opções de Talento
+noti_refresh_talent<>Você quer renovar todas essas opções?
+treasure_completed<>Você completou a aventura do tesouro.
+skin_bundle_1_desc<>Compre 1 - ganhe 11. Incrível!
+create_team<>Crie seu esquadrão
+create<>Criar
+allowed_class<>Apenas heróis desta classe podem ser usados
+your_team<>Seus heróis
+lobby<>Salão
+invitation<>Convite
+domain_chest_stage_x_name<>Estágio %s
+domain_chest_stage_x_desc<>Limpe o estágio %s para reivindicar recompensas
+block_domains_team_chat<>Bloquear bate-papo da equipe
+block_domains_recruit_chat<>Bloquear bate-papo de recrutamento
+domains_team<>Bate-papo da equipe
+domains_recruit<>Chat de recrutamento
+guild<>Membro da Guilda
+verify<>Aplicativa
+noti_change_leader<>Tem certeza de que deseja tornar este jogador o líder?
+noti_kick_member<>Tem certeza que quer chutar este jogador?
+disband<>Disband
+noti_disband<>Tem certeza que deseja separar sua equipe?
+enter_team_name_id<>Insira um nome de equipe ou ID para pesquisar
+leave<>Leave 
+ready<>pronta
+unready<>Despreparado
+noti_leave<>Tem certeza de que deseja sair deste time?
+domain_name_require<>Por favor, insira o nome da sua equipe
+domain_desc_require<>Por favor, insira a descrição de sua equipe
+crew_disbanded<>Sua equipe foi dissolvida pelo líder.
+domain_leader_updated<>O líder da sua equipe foi alterado.
+fast_create<>Criação Rápida
+default_team_desc<>Sinta-se à vontade para se juntar à minha equipe!
+default_team_x<>Team_%s
+kicked_from_crew<>Você foi expulso de seu time.
+domain_challenge_over<>DESAFIE COM SUCESSO
+domain_challenge_congrat<>Excelente! Sua equipe completou o desafio de hoje.
+has_sent_to_mail<>As recompensas foram enviadas para o correio.
+synchronize<>Sincronizar
+invitation_sent<>Ser convidado
+beta<>Beta
+replay_domain<>Última vez
+enter_domain_recruit<>Texto algo sobre sua equipe aqui.
+hot_deal<>Super oferta
+hero_in_domain<>Hero is in Domain
+party<>Festa dos Heróis
+lose<>Batalha perdida
+equipped<>Equipada
+show_skin<>Mostrar skin
+hero_release_collection<>Coleção Quest
+hero_release_bundle<>Novo pacote de heróis
+event_hero_release_1<>Prova de selva
+hero_release_collection_tittle_1<>COLEÇÃO QUEST
+event_hero_release_bundle_tittle_1<>NOVO PACOTE DE HERÓI
+feature_open_at_version_s<>Este recurso será aberto na versão %s
+feature_open_at_version_s_time_s<>Este recurso será aberto na versão %s após %s
+event_hero_release_summon_1<>Invocação lendária
+expire_in_s<>Expira em %s
+hero_release_collection_desc_1<>Invoque Cernunous para desbloquear conquistas
+hero_release_daily_quest_tittle_1<>Bênção do novo herói 
+instantly_get<>Obter Imediato
+claim_daily<>Reivindicar diariamente
+bonus_login_days_s<>Bônus de login em %s dias
+hero_release_daily_quest<>Missão diária do evento
+subscription_packs_2<>CARTÃO DE ROOKIE
+subscription_packs_3<>CARTÃO DE VETERANO
+subscription_packs_4<>CARTÃO DE IMPERADOR
+require_unready<>Você precisa estar Não preparado para mudar de equipe.
+summon_hero_release_reward<>Recompensas Bônus
+rate_up<>Alta Taxa De Queda
+overview_hero_40004<>Desde que nasceu, Cernunos sempre se viu como o guardião da selva e dos cavalos. Seu dever é guiar manadas de cavalos para um santuário protegido dos caçadores. Diz a lenda que pessoas azaradas que se perdiam na floresta por um tempo sempre se encontravam e eram guiadas para casa por Cernunos.\nCernunos ganha poder ofensivo para cada inimigo atingido por ele. Portanto, quanto mais inimigos forem atingidos por Cernunos, mais forte ele se tornará.
+hero_release_overview<>Hero's Story
+guild_season<>Temporada separada
+guild_grand_season<>Grande Temporada
+guild_season_in_tab<>Participante
+guild_season_out_tab<>Não participante
+guild_leader<>Líder da Guilda
+guild_vice_leader<>Vice líder
+random_name<>Nome aleatório
+delete_data<>Recarregar dados
+warning_delete_data<>Você quer recarregar os dados?
+first_Top_Up_Confirm_Choose_Reward<>1ª Recompensa de Carregamento
+overview_hero_50004<>Quando uma rainha estava grávida, ela desejava que seu filho fosse valente como uma águia e forte como um leão. Os deuses ouviram seu desejo e o atenderam. Então o menino Grimm nasceu, em vez de um jovem príncipe bonito, ele era um monstro com metade uma águia e metade um leão.\nO rei ficou tão desapontado que o removeu da lista de herdeiros ao trono. Grimm cresceu afastado de seu pai. Que vergonha, ele fugiu de casa.\nUm dia, seu reino foi derrotado pelo exército das trevas. Os inimigos executaram o rei derrubando-o do muro alto. Felizmente, Grimm apareceu de repente e pegou seu pai no ar. Ele estava voando pelas terras e pediu reforços de outros reinos. Graças a isso, o exército das trevas foi derrotado e teve que se retirar.\nEmbora ainda não tenha herdado o trono, Grimm era amado por todos. Ele voa alto no céu, e sob suas asas todo ser inocente é protegido.
+hero_release_daily_quest_tittle_2<>DESAFIOS DO CÉU
+hero_release_collection_tittle_2<>COLEÇÃO QUEST
+event_hero_release_bundle_tittle_2<>NOVO PACOTE DE HERÓI
+event_hero_release_summon_2<>Invocação lendária
+event_hero_release_2<>Rugido do céu
+first_top_up_content_2<>Encha agora e ganhe recompensas!
+first_top_up_content<>Escolha o seu bônus
+first_top_up_main<>1ª RECOMPENSA DE RECARGA
+hero_release_collection_desc_2<>Receba presentes bônus por obter Grimm.
+Border_Limited_Duration<>Expira em %s dia
+first_top_up_reward_confirm<>Você não poderá selecionar novamente o primeiro prêmio de compra. Tem certeza de que deseja escolher esses presentes?
+reset_talent_confirm<>Tem certeza de que deseja redefinir o talento atual?
+reset_talent<>Reiniciar
+change_crew<>Líder de Mudança
+crew<>Líder
+crew_promote<>Alterar
+you_are_new_crew<>O líder foi mudado para você.
+first_top_up_content2<>Você receberá recompensas adicionais abaixo.
+selected_hero<>Selecionado
+customizeble_bundle_1<>Pacote personalizável
+customizeble_bundle_2<>Pacote personalizável Platinum
+select_2_reward<>Selecione 2 itens
+sold_out<>Esgotado
+customize_packs<>Pacote personalizável
+selected_2_rewards<>2 itens selecionados
+select_2_rewards_before_purchase <>Selecione suas recompensas primeiro
+flash_sale_new_13<>Welcome package
+flash_sale_new_14<>Pacote de invocador
+flash_sale_new_15<>Pacote Escolhido
+flash_sale_new_16<>Pacote de atualização 1
+flash_sale_new_17<>Pacote Pedra da Fortuna
+flash_sale_new_18<>Pacote Pedra do Destino
+flash_sale_new_19<>Pacote de atualização 2
+buy_stock_remain_x<>Compra Restante %s
+will_get_item<>Você vai ter
+auto<>Automático
+popup_confirm_auto_next_battle<>Por favor, confirme que você deseja usar este recurso! Este recurso será interrompido quando você perder uma batalha.
+auto_next_battle_off<>Próxima etapa automática está desligado.
+auto_battle_end_in<>Próxima etapa {1} {2}-{3} em {4}
+button_auto_next_formation<>Próxima etapa automática
+event_hero_release_3<>Novo Herói
+hero_release_daily_quest_tittle_3<>DESAFIO VERMELHO
+hero_release_collection_tittle_3<>BÔNUS INDENTURE
+event_hero_release_bundle_tittle_3<>SAGRADO FAVOR DE FOGO
+hero_release_collection_desc_3<>Collect Moblin and get bonus rewards.
+event_hero_release_summon_3<>Invocação lendária
+auto_battle<>Batalha Automática
+overview_hero_20008<>Moblin é um homem minúsculo que anseia por demonstrar o poder dos Goblins. Em uma jornada para encontrar forças, Goblin encontra um elefante perdido e duas vidas solitárias se tornaram almas gêmeas. Moblin chamou o elefante de Fanto.\nDeus não decepciona as pessoas, passando por uma jornada cheia de adversidades e desafios, o Moblin ganhou força com o treinamento e um contrato com o Deus do Fogo. Mas, como dizem, não brinque com fogo, o Deus do Fogo traiçoeiramente colocou no contrato uma contra-maldição. Porque ele originalmente não favorecia os Goblins, mesmo considerando os Goblins como uma raça inferior.\nAmaldiçoado, Moblin sofreu dores físicas e emocionais. Fanto não tem poder, não pode ajudar o Moblin, só pode passar o dia a dia com sua alma gêmea. A maldição durou décadas, que também são os muitos anos pelos quais Moblin e Fanto lutaram. Fanto foi até o deus do fogo e se ofereceu para levar a maldição sobre ele para salvar Moblin. O Deus do Fogo aprovou e Fanto assumiu uma forma maligna, como um mamute pré-histórico. Mas a humanidade de Fanto permaneceu porque a amizade sincera de Moblin salvou a alma de Fanto da corrupção. No final, os dois amigos ainda estavam juntos, continuando a viajar para novas terras.
+bundle_battle_pass_level<>Nível de Compra
+purchase_battle_pass_level_1<>1 nível
+purchase_battle_pass_level_2<>5 níveis
+purchase_battle_pass_level_3<>10 níveis
+battle_pass<>Battle Pass
+battle_pass_level<>Battle Pass Level
+battle_pass_purchase_level<>Nível de Compra
+battle_pass_title<>Passe de Batalha
+unlock_battle_pass_1<>Battle Pass Agrupar
+unlock_battle_pass_2<>Prêmio Battle Pass Agrupar
+battle_pass_tab_quest_title<>Citações
+button_battle_pass_reward_preview<>Recompensa de visualização
+button_battle_pass_unlock_premium<>Prêmio Battle Pass Agrupar
+battle_pass_claim_all<>Reivindicar tudo
+battle_pass_tab_reward_title<>Recompensas
+battle_pass_time_end<>A temporada termina depois de %s
+button_battle_pass_unlocked_premium<>Premium Battle Pass desbloqueado
+preview_battle_pass_reward<>Recompensa do passe de batalha
+unlock_premium<>Prêmio Battle Pass Agrupar
+week<>Semana
+battle_pass_unlocked<>Battle Pass foi desbloqueado.
+confirm_free_battle_reward<>Recompensa do passe de batalha
+confirm_battle_pass_reward<>Recompensas para Passe de Batalha Comum
+claim_confirmed_battle_pass<>Reivindicar recompensas disponíveis
+confirm_premium_reward_battle_pass<>Recompensas para Prêmio Battle Pass
+battle_pass_cannot_purchase_level<>Você atingiu o nível máximo.
+confirm_free_reward_battle_pass<>Recompensas grátis
+overview_hero_60004<>Karos está sentado em silêncio no meio do templo.\nNa verdade, ele não conseguia se lembrar da última vez em que sentiu esse silêncio absoluto ao redor dela. Karos foi escolhido para ser um sacerdote do Deus Antigo desde o dia em que o homem primeiro teve consciência da existência de Deus. Ele ajudou a entregar a mensagem de seu Mestre, profecia e terríveis palavras de advertência. Ele se entregava a uma sensação de poder sempre que ela via os humanos ajoelhados após ouvir o oráculo cair de seus lábios, vê-los tremendo de medo o deixava ainda mais faminto por poder. Talvez ele tenha se tornado muito ganancioso. Para reter a sensação, ele espalhou falsas profecias sobre pragas, guerras e desastres sem a instrução do Deus Antigo, virando o mundo de cabeça para baixo por seu próprio pesadelo bordado.\nQuando ele descobriu o que Karos estava fazendo pelas suas costas, o Deus Antigo decidiu tirar o presente de Karos como sacerdote, ele não ouviu mais a voz de Deus. Quanto aos humanos, traídos por sua crença em Karos, eles abandonaram o templo e seu sacerdote, deixe-o ruir para a Terra dos Esquecidos.\nNão. Eu não posso me deixar ser esquecido! \nCom essa determinação em mente, Karos colocou a máscara de seu antigo Mestre e o cetro da magia negra, ele partiu em uma jornada para incutir pesadelos de dor, indignação e morte na humanidade, assim como o Deus que ele serviu
+hero_release_daily_quest_tittle_4<>DESAFIOS SOMBRIOS
+event_hero_release_bundle_tittle_4<>LOJA MÍSTICA
+hero_release_collection_tittle_4<>PODER NEGRO
+hero_release_collection_desc_4<>Collect Karos and get bonus rewards.
+event_hero_release_4<>Personificador de deus
+event_hero_release_summon_4<>Invocação lendária
+starter_pack_new_23<>Pacote de equipamento
+starter_pack_new_24<>Pacote de invocador
+starter_pack_new_25<>Hero Pack
+starter_pack_choose_hero_noti<>Escolha um herói para comprar neste pacote!
+starter_pack_sold_out<>Este pacote foi comprado.
+first_top_up_choose_from<>Escolha 1 das %s recompensas abaixo.
+first_top_up_desc<>Essas recompensas são bônus quando você faz qualquer compra.
+first_Top_Up_Confirm_Choose_Reward_New<>Tem certeza de que deseja escolher esses presentes?
+free_gem_title<>Grátis Gema
+free_gem_details<>Assista ao anúncio gratuitamente Gema
+or<>Ou
+create_new_account<>Conecte sua carteira para se cadastrar no site.
+instant_unlock_ten_level<>Obtenha imediatamente mais 10 níveis
+special_event<>Missão limitada no tempo
+preview_reward<>Recompensa de visualização
+reward_info<>Receba depois de terminar todos os anúncios
+noti_next_battle_pass<>As %s experiências restantes da última temporada foram transportadas para a temporada atual.
+limit<>Limite
+out_of_buy_level_by_gem_time<>O número de compras com Gema atingiu o limite.
+buy_level_buy_gem<>Nível de compra com Gema
+select_artifact<>Selecione Artefato
+available_artifact<>Disponível Artefato
+select_an_artifact<>Você precisa selecionar 1 Artefato.
+overview_hero_10011<>No meio do oceano profundo, onde redemoinhos rodopiantes bloqueiam os passos humanos, existe uma ilha com uma civilização avançada. E essa ilha é liderada pelos Tubarões Brancos, liderados por Jeronim.\nOs Tubarões Brancos de Jeronim, que viviam na Atlântida do rei Osse, se dedicaram à prosperidade do reino. Por outro lado, os piratas da cidade de Poseidonis sempre visam as posses de Atlantis, prontos para desencadear saques sangrentos. Aliados à Atlântida, os tubarões brancos não têm medo de se sacrificar para lutar contra piratas brutais. Jeronim e os guerreiros do clã defenderam heroicamente a Atlântida por meio de muitas conquistas de piratas, mas o preço era alto demais. Os Tubarões Brancos são constantemente caçados por piratas, porque inúmeros piratas também morreram antes do poder de Jeronim e seus companheiros. Muitos anos se passaram e os Tubarões Brancos têm apenas alguns guerreiros de elite e alguns residentes vivendo na Cidadela do Dragão. O Rei Osse ficou tão inconsolável e queria proteger os últimos descendentes dos Tubarões Brancos que ordenou a Jeronim que levasse os habitantes da tribo para um lugar longe da Atlântida. Jeronim inicialmente discordou, mas concordou com as ordens do rei. Antes de partir, Jeronim ainda não se esqueceu de dizer ao Rei Osse: Voltarei quando estiver mais forte para construir a Atlântida com você.
+hero_release_daily_quest_tittle_5<>DESAFIOS MARINHOS
+event_hero_release_bundle_tittle_5<>OCEAN SUPPORT
+hero_release_collection_tittle_5<>TESOUROS DO MAR
+hero_release_collection_desc_5<>Collect Jeronim and get bonus rewards.
+event_hero_release_5<>MANDÍBULAS DE SHARK
+event_hero_release_summon_5<>Invocação lendária
+event_grow_up<>Caminho do invocador
+new_server_grow_up<>CAMINHO DO INVOCADOR
+event_campaign_boot<>Campaign Bootcamp
+new_server_campaign_boot<>CAMPAIGN BOOTCAMP
+new_server_campaign_boot_desc<>Complete as seguintes missões para receber grandes recompensas
+event_arena_boot<>Arena Bootcamp
+vip_treasure<>Tesouro VIP
+new_server_vip_treasure<>TESOURO VIP
+new_server_vip_treasure_desc<>Aumente o nível do seu passe VIP e receba presentes exclusivos
+event_spin_new_server_week<>Spin Mágico
+have_no_done_quest_to_claim<>Você precisa completar todas as missões.
+new_server_arena_boot<>Hall da Fama
+new_server_arena_boot_desc<>As recompensas serão enviadas por e-mail em %s
+ended<>Expirado.
+server_open_week_arena_point<>%s pontos
+week_spin_available_dice<>Rotação disponível: 
+new_server_week_spin<>Spin Mágico
+server_week_spin_not_available<>Você não tem mais giros.
+ranking_NA<>Não classificado
+new_server_grow_up_desc<>Quanto mais alto é o nível, mais presentes você recebe.
+claim_all_desc<>Tente completar todas as missões.
+reach_level<>Nível %s
+select_item_server_week_bundle<>Por favor, selecione %s itens
+black_friday_purchase_1<>Pequena oferta
+black_friday_purchase_2<>Pacote Médio
+black_friday_purchase_3<>Pacote enorme
+event_black_friday_bundle_pack<>Melhor negócio
+event_new_server_week_login<>Check-in
+event_daily_black_friday<>Check-in
+black_friday_gem_pack_desc<>Use Gema para trocar recompensas.
+event_bundle_new_server_week<>Pacote de Suporte
+select_hero_fragment<>Selecione Heróis
+available_hero_fragment<>Listar heróis
+server_open_week_no_arena_point<>Pontos insuficientes para avaliar.
+choose_arena_chest_reward<>Escolha recompensas
+selected_item<>Baú selecionado
+max_item_limit<>Excedeu o número máximo.
+hero_release_daily_quest_tittle_6<>MISSÕES PRIMITIVAS
+event_hero_release_bundle_tittle_6<>OVOS DE DRAGÃO
+hero_release_collection_tittle_6<>PRESENTES DRAGÔNICOS
+hero_release_collection_desc_6<>Collect Fragnil and get bonus rewards.
+event_hero_release_6<>MANDÍBULAS DE SHARK
+event_hero_release_summon_6<>Invocação lendária
+overview_hero_20009<>De volta à selva, a raça humana e o clã do dragão eram amigos íntimos, vivendo em harmonia no reino da luz. Fragnil, o Imperador Dragão do Clã Dragão, e Filde, o líder da Raça Humana naquela época, eram dois guerreiros heróicos. Uma pessoa, um dragão, eles estão prontos para se sacrificar para lutar para proteger a segurança das duas tribos diante dos olhos das forças das trevas.\nA paz foi mantida, a raça humana desenvolveu suas forças armadas e armas em um ritmo vertiginoso, e eles também gradualmente se esqueceram da existência do clã do dragão. Os vilões gradualmente transformaram os Dragões em um hobby para a caça, presa para testes de armas. No entanto, a raça dos dragões é sempre amigável com os humanos, nunca atacando a raça humana. O clã do dragão foi gradualmente morto, forçando Fragnil a sair, embora o próprio Filde tenha tentado proteger seu amigo próximo e a tribo do dragão.\nA amizade entre Fragnil e Filede ainda existe, mas é a crueldade no coração das pessoas que afoga no passado as belas memórias das duas raças.
+new_server_arena_boot_2_desc<>As recompensas serão enviadas por e-mail em %s
+event_server_week_bundle_2_tittle<>PACOTE DE SUPORTE
+event_server_week_bundle_2_desc<>Esses pacotes serão úteis para você na aventura do jogo.
+event_server_week_bundle_tittle<>PACOTE DE SUPORTE
+event_server_week_bundle_desc<>Esses pacotes serão úteis para você na aventura do jogo.
+event_server_week_bundle_3_tittle<>PACOTE DE SUPORTE
+event_server_week_bundle_3_desc<>Esses pacotes serão úteis para você na aventura do jogo.
+new_server_arena_boot_2<>MESTRE TÁTICO
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>ESTRADA PARA A GLÓRIA
+new_server_tower_bootcamp_desc<>Alcance um piso específico em Torre do Dragão para obter recompensas extras.
+event_tower_bootcamp<>Estrada para a glória
+event_arena_3v3_boot<>Mestre Tático
+event_server_open_2<>Missão de novato 2
+event_server_open_3<>Missão de novato 3
+new_server_grow_up_2<>CAMINHO DE SUMMONER
+fortress<>Expedición peligrosa
+new_server_fortress<>EXPEDICIÓN PELIGROSA
+new_server_fortress_desc<>Desafie Fortaleza e ganhe bônus pelas vitórias.
+dungeon<>Masmorra misteriosa
+new_server_dungeon<>MASMORRA MISTERIOSA
+new_server_dungeon_desc<>Alcance um piso específico em Masmorra para obter recompensas extras.
+idle_effect<>Efeito especial
+new_server_grow_up_3<>CAMINHO DE SUMMONER
+note_register<>
+list_idle_effect<>Lista de efeitos especiais
+bundle_idle_effect<>Efeito especial
+idle_effect_bundle_1<>Todos os efeitos
+hero_recommend_game_mode_1_1<>Heróis mais usados em: Campanha Normal
+hero_recommend_game_mode_1_2<>Heróis mais usados em: Campanha Difícil
+hero_recommend_game_mode_1_3<>Heróis mais usados em: Campanha Extremo
+hero_recommend_game_mode_1_4<>Heróis mais usados em: Campanha Pesadelo
+hero_recommend_game_mode_1_5<>Heróis mais usados em: Campanha Louco
+hero_recommend_game_mode_1_6<>Heróis mais usados em: Campanha Caos
+idle_effect_bundle_2<>Efeito comum
+idle_effect_bundle_4<>Efeito aleatório
+idle_effect_bundle_3<>Efeito legenda
+select_item_idle_effect_bundle<>Você precisa selecionar 1 efeito antes de comprar.
+select_idle_effect_fragment<>Seleção de efeito
+available_idle_effect_fragment<>Efeito Disponível
+hero_recommend<>Recomendação de herói
+hero_recommend_game_mode_2_-1<>Heróis mais usados em: Torre do Dragão
+hero_recommend_game_mode_4_-1<>Heróis mais usados em: Calabouço
+hero_recommend_game_mode_6_-1<>Heróis mais usados em: Arena
+hero_recommend_game_mode_most<>Heróis mais usados
+wiki<>Livro Guia
+empty_2<>Você não tem efeitos especiais.
+event_lunar_new_year_spring_bundle<>Loja De Deus Da Riqueza
+event_lunar_2022_spring_bundle_1<>Paz \nAno Novo Lunar
+event_lunar_2022_spring_bundle_2<>Prosperidade\nAno Novo Lunar
+text_describe_reward<>Possível obter esses itens abaixo
+water_box<>Água Caixa
+fire_box<>Fogo Caixa
+abyss_box<>Abismo Caixa
+nature_box<>Natureza Caixa
+light_box<>Luz Caixa
+dark_box<>Escuridão Caixa
+event_lunar_new_year_spring_box<>Spring Box
+event_lunar_new_year_exclusive_bundle<>Guardião Lunar
+overview_hero_30003<>Demônios, são criaturas invisíveis que se refugiam no corpo de uma pessoa. Ciúme, inveja e pensamentos malignos dos humanos são as condições para o diabo crescer. Conforme os demônios amadureciam, eles ganhavam o poder de se separar do corpo humano, tornando-se seres vivos independentes.\nNero, um demônio nascido assim, possui enormes poderes do mal. Ele tem a capacidade de multiplicar o número de demônios com a ambição de invadir o mundo humano. Os humanos devem ser governados por demônios, declarou Nero corajosamente.
+hero_release_daily_quest_tittle_7<>Prova do Diabo
+hero_release_collection_tittle_7<>Bem ou mal?
+event_hero_release_bundle_tittle_7<>Comércio com demônios
+spring_box_limited<>Você abriu o número máximo de caixas.
+buy_premium_to_get_this<>Você precisa desbloquear o passe para receber essas recompensas.
+event_lunar_new_year_tiger_path<>Avenida Próspera
+tiger_path_decs<>Desbloqueie o passe premium para obter recompensas de bônus.
+event_lunar_new_year_tiger_path_guide<>Complete missões diárias para obter Ponto Riqueza, aumente sua progressão e receba recompensas.
+select_hero_bundle<>Selecione 1 herói representando o Passe Premium.
+event_lunar_new_year_lion_dance<>A primeira chamada Kitty
+event_lunar_new_year_lion_dance_decs<>Complete missões diárias para obter Moeda da Sorte, aumente sua progressão e receba recompensas.
+lunar_new_year_tiger_path<>AVENIDA PRÓSPERA
+hero_release_collection_desc_7<>Collect Nero and get bonus rewards.
+event_hero_release_7<>MANDÍBULAS DE SHARK
+event_hero_release_summon_7<>Invocação lendária
+please_select_box<>Selecione uma caixa para abrir!
+resource_mapping<>Recurso
+wiki_feature_unlock<>Característico
+lineup_recommend_1<>Recomendação de jogo antecipado
+lineup_recommend_2<>Recomendação no meio do jogo
+lineup_recommend_3<>Recomendação de jogo atrasado
+desc_gem_feature<>Pode ser obtido a partir de várias atividades no jogo e compras no aplicativo.
+please_chose_one_resource<>Por favor, selecione qualquer tipo de recurso para ver informações sobre aquele recurso!
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>O Caminho do Samurai
+event_kazetsu_check_in<>Registro do Dojo
+event_kazetsu_gift<>Determinação do Samurai
+event_kazetsu_gift_desc<>Colete Kazetsu para obter recompensas.
+event_kazetsu_bundle<>Máscara de força
+kazetsu_store_des<>Aumente seu poder com pacote limitado!
+hero_recommend_game_mode_13_-1<>Heróis mais usados em: Arena Martial
+event_kazetsu_trial<>O Julgamento de Kazetsu
+sign_in_apple<>Entrar com a Apple
+you_must_have_a_lineup<>Escolha sua equipe antes de entrar no teste
+start_trial<>Batalhar
+reroll<>Role novamente
+want_to_reroll<>Você quer refazer?
+lineup_select<>Selecione o herói para a batalha
+cant_roll_after_confirm_lineup<>Você já tem uma lista
+noti_has_hero_selected<>Por favor, desmarque todos os heróis primeiro
+noti_full_hero_selected_for_trial<>Selecione exatamente 6 heróis
+want_to_start_trial<>Processo para julgamento agora? Você não será capaz de mudar esses heróis.
+cant_unpick_kazetsu<>Kazetsu deve estar na escalação
+kazetsu_already_dead<>Julgamento terminado, Kazetsu é derrotado
+revive_time<>Reviver a chance restante
+end_kazetsu_tower<>Prova conquistada
+out_of_revive_turn<>Não há mais chance de reviver
+continue_with_apple<>Continuar com a Apple
+event_kazetsu_rate_up<>Invocação lendária
+regular_pack<>Pacote comum
+event_kazetsu_boss<>Batalha vital
+kazetsu_boss_title<>BATALHA VITAL
+kazetsu_boss_des<>Desafie Kazetsu para mostrar sua força e receber recompensas.
+get_limited_skin_now<>Não perca a chance de obter a pele tempo limitado de Kazetsu.
+guild_quest_end<>A busca foi encerrada.
+bonus_hero<>Bônus para herói {1}
+customizeble_bundle_3<>Pacote de personalização semanal
+customizeble_bundle_4<>Pacote de personalização mensal 1
+customizeble_bundle_5<>Pacote de personalização mensal 2
+easter_egg_exchange_reward<>Ponto de troca de Páscoa
+easter_bundle<>PACOTE DE PÁSCOA
+event_easter_exclusive_bundle<>PACOTE EXCLUSIVO DE PÁSCOA
+easter_egg_exclusive_bundle<>Pacote exclusivo de Páscoa
+super_roll<>Rolo especial
+skip_dice_anim<>Pular animação de rolagem
+easter_egg_bundle<>Pacote de Páscoa
+easter_dice_guide<>Lance um dado para ganhar recompensas a cada lançamento.
+easter_egg_dice<>Jogo de dados de Páscoa
+tap_dice_to_roll<>Toque no dado para rolar.
+normal_dice<>Magic Dice
+super_dice<>Super Dice
+event_hero_release_8<>Blaze Kaiser
+event_hero_release_summon_8<>Invocação lendária
+hero_release_daily_quest_tittle_8<>FOGO FLAGRANTES
+hero_release_collection_tittle_8<>DOME A CHAPA
+hero_release_collection_desc_8<>Collect Finde and get bonus rewards.
+event_hero_release_bundle_tittle_8<>CHAMO DE CALOR
+overview_hero_20006<>O preço a pagar por ajudar Fragril a evacuar com segurança ainda assombra Finde. O trono em que Finde estava sentado era feito de ossos e sangue de guerreiros próximos a Finde e também de seus aliados draconianos.\nFinde recebeu o poder do Fogo pelo Deus do Fogo. Ao contrário de Moblin, o poder na mão de Finde lhe dá poder divino sem qualquer reação. Quanto maior a capacidade, maior a responsabilidade, Finde foi nomeado general para proteger a segurança do promontório do reino da luz. Naquele ano, enquanto lutava contra o exército de Scathatch, Finde descobriu que o clã Dragão estava em perigo. Por causa de sua amizade com Fragnil, Finde usou o Fire Seal para fortalecer suas defesas enquanto corria de volta para salvar o Dragon Clan. Com força excepcional, o Fire Seal de Finde ajudou o exército da linha de frente a conter Scathatch, embora as baixas ainda fossem um grande número. Quanto ao problema do clã Dragão, Finde com sua inteligência lidou com isso habilmente, trazendo com sucesso Fragnil e o clã Dragão ao refúgio. Mas isso era apenas a calmaria antes da tempestade, o exército de Scathath ainda tentava devorar Finde vivo para romper as defesas e entrar no reino da luz.
+hero_fragment_1705<>Fragmento de herói lendário
+easter_egg_dice_game<>Jogo de dados de Páscoa
+event_finde_boss<>Desafio do chefe
+finde_boss_title<>Herdeiro do Deus Fogo
+finde_boss_des<>Desafie Finde para mostrar sua força e receber recompensas.
+event_puzzle_era<>PINTURA MISTERIOSA
+select_hero_pool<>Selecione Heróis
+noti_confirm_select_puzzle<>Você vai escolher este quebra-cabeça?
+event_puzzle<>Pintura Misteriosa
+can_not_change_hero_this_slot<>Este slot não pode ser alterado
+need_fill_up_all_slot<>Você precisa preencher todos os slots antes de iniciar o quebra-cabeça
+open<>Aberto
+event_puzzle_finished<>Sie haben diese Veranstaltung abgeschlossen
+hero_puzzle_complete<>Todos os quebra-cabeças foram resolvidos
+do_you_want_to_download_resource<>A experiência de jogo é mais otimizada quando os recursos do jogo estão totalmente carregados. Caso não esteja baixando, você não poderá fazer login no jogo. Deseja baixar recursos do jogo?
+birthday_exclusive_bundle<>Pacote exclusivo
+puzzle<>Quebra-cabeça 
+hero_fragment_1805<>Fragmento de Água, Fogo, Abismo, Natureza herói
+hero_fragment_1905<>Fragmento de Luz, Escuridão herói
+bundle<>Oferecer 
+dark_vs_light<>Guerra do Destino
+birthday_legacy_path<>Caminho Legado
+birthday_legacy_path_guide<>Colete Ponto de passagem legado para receber a recompensa do passe.
+birthday_legacy_path_decs<>Desbloqueie o passe premium para obter recompensas de bônus.
+select_light_path<>Selecionar
+select_dark_path<>Selecionar
+light<>Luz 
+dark<>Escuro 
+select_side_confirm<>Tem certeza de que deseja selecionar este lado? Não será possível alterar o lado selecionado.
+select_artifact_pool<>Lista de artefatos
+birthday_boss_title<>Graça ou Malevolência
+birthday_boss_des<>Desafie o chefe para obter recompensas. Em especial, Celestia e Scathatch causam o dobro de dano ao chefe e recebem metade do dano recebido dele.
+birthday_boss<>Desafio do chefe
+preboss_des<>Você precisa selecionar um lado para desbloquear o desafio do chefe.
+navigate_to_dark_light<>Selecione o lado
+hero_fragment_1605<>Fragmento de herói com borda vermelha: Escuridão
+hero_fragment_1505<>Fragmento de herói com borda vermelha: Luz
+hero_fragment_1405<>Fragmento de herói com borda vermelha: Natureza
+hero_fragment_1305<>Fragmento de herói com borda vermelha: Abismo
+hero_fragment_1205<>Fragmento de herói com borda vermelha: Fogo
+hero_fragment_1105<>Fragmento de herói com borda vermelha: Escuridão
+event_hero_release_9<>Rivais Eternos
+event_hero_release_summon_9<>Invocação Lendária
+hero_release_daily_quest_tittle_9<>DESAFIO ÁRDUO
+hero_release_collection_tittle_9<>PODER FORMIDÁVEL
+hero_release_collection_desc_9<>Colecione Celestia e Scathatch e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_9<>OBSTÁCULO REDUZIDO
+overview_hero_50007<>Por que os anjos sempre têm que obedecer ordens, mas não podem agir por vontade própria? Celestia se perguntou diante de seus irmãos angelicais, mas ninguém respondeu. Como um anjo honesto, Celestia entendia que sua missão era ajudar os fracos, mas dentro dela sempre existia o desejo de explorar livremente. Missão, dever, dogma... Celestia não gostava deles, mas também não os abandonava. Afinal, os anjos deveriam intervir no mundo humano? E, nessa escuridão, o que os mantém sempre em alerta?
+overview_hero_60005<>Há milhares de anos, quando a guerra entre os demônios eclodiu, uma fada foi acidentalmente pega no vórtice da batalha. Era Scathatch, uma fada que possuía o poder das trevas. Há anedotas sobre a deusa das sombras. Pouco se sabe sobre a noite, apenas rumores de que ela detém um poder terrível. Aqueles que cruzaram seu caminho, todos desejam nunca ter existido.\nSerá que o medo do escuro é a coisa mais assustadora? Não, a coisa assustadora na escuridão era a fria Scathatch. Para ela, não existe bem ou mal, tudo que a perturba merece ser descartado.
+legacy_point_desc<>Missão diária normal: 15 pontos\nConclua todas as missões diárias: 30 pontos
+summoner_lock<>Desbloqueie após coletar 10 Livro Antigo
+watch<>Veja os anúncios
+watch_ads<>Veja os anúncios
+new_server_grow_up_guide<>Aumente o nível da sua conta para ganhar recompensas.
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>Adquira qualquer pacote para receber
+first_purchase_nac_price<>Compre 1 pacote acima de %s para receber
+first_purchase_nac_price_global<>Compre 1 pacote acima de $%s para receber
+first_purchase_reward_claimed<>Todas as recompensas bônus foram resgatadas.
+claimed<>Reivindicado 
+first_purchase_hero_desc_1<>Herdeiro do Deus do Fogo
+first_purchase_hero_desc_50006<>Princesa da Lua
+zodiac_bundle<>Pacote do Zodíaco
+zodiac_constellations<>Mapeamento de constelações
+zodiac_quest<>Missão
+zodiac_exchange<>Área de câmbio
+i_like_it<>Curta e avalie
+need_improvements<>Mais tarde 
+rate_content_2<>Seus comentários são muito importantes para nós e nos ajudam a melhorar a experiência de jogo. Compartilhe sua opinião conosco!
+not_now<>Mais tarde 
+quick_open_constellation_map<>Mapa rápido
+overview_hero_20003<>Nas profundezas do vulcão, vive uma tribo ancestral, pacífica há séculos. Em harmonia com a natureza, eles a utilizam como abrigo e meio de subsistência. Desenvolvem-se em harmonia com o meio ambiente, à margem das universidades modernas. Eitri, um guerreiro da tribo, é um habitante comum. Possui a habilidade e a experiência em combate de guerreiros refinados, que sempre escondeu sob a aparência de um agricultor. Eitri acredita que a força é a fonte da ambição, guiando a guerra. E não deseja se envolver em guerras dolorosas que perturbem a paz de sua tribo.
+event_hero_release_10<>Guerreiro de Magma
+event_hero_release_summon_10<>Invocação Lendária
+hero_release_daily_quest_tittle_10<>Aventura no Vulcão
+hero_release_collection_tittle_10<>Conquista da Chama
+hero_release_collection_desc_10<>Colecione Eitri e ganhe recompensas bônus
+event_hero_release_bundle_tittle_10<>Pacote suportado
+title_event_zodiac<>Desafio do Zodíaco
+event_zodiac<>Evento Zodíaco
+event_zodiac_section_reward<>Recompensa da seção
+rate_content_1<>Prezado(a) Invocador(a), esperamos que você goste do jogo. Por favor, nos dê seu feedback. Sua opinião será nossa motivação para aprimorar o produto.
+complete_reward<>Recompensa por completar a constelação
+star_reward_pool<>Nível de recompensa
+tower_lock_level_require<>Alcance o nível %s para desbloquear este andar
+tower_lock_out_of_ticket<>Bilhete insuficiente para entrar na torre.
+star_reward_pool_condition<>Desbloqueie ao trocar qualquer item de nível
+collect_pearl_desc<>Colete Pearl de Bônus da troca de recompensas.\nAgora estoque:
+not_thing_to_claim<>Nada pode ser reivindicado agora.
+collect<>Coletar
+event_vip_treasure<>Aprimoramento VIP
+event_vip_treasure_content<>Ganhe pontos VIP para receber recompensas extras.
+event_skin_challenge<>Desafio da Pele
+title_event_skin_challenge<>DESAFIO DA PELE
+progress<>Progresso
+confirm_select_skin<>Você escolherá esta skin como sua recompensa final. Tem certeza de que deseja escolher esta skin?
+not_available_day<>Conclua todas as tarefas do dia anterior e aguarde até amanhã para desbloquear.
+event_zodiac_map<>Mapa
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>Poderoso samurai
+overview_hero_30027<>Após Nero libertar o demônio do corpo humano, o mundo foi engolfado pelo mal, e gritos e lamentações ecoavam por toda parte. Raiva, ressentimento, ruína, destruição e desespero eram palavras que descreviam o mundo naquela época.\nNa vila de Samurando, vivia um garoto chamado Kazetsu. Kazetsu perdeu seus pais em uma guerra entre humanos e demônios. Testemunhando com seus próprios olhos o sacrifício de seus entes queridos, Kazetsu nutriu um ódio extremo pelo demônio, determinado a se vingar. Mas a força humana é limitada, e o mundo também decaiu sob o domínio cruel dos demônios. Kazetsu só teve que assinar um contrato com um demônio, seguindo-o para praticar sua força. Para ganhar a confiança dos demônios, Kazetsu foi forçado a escolher o caminho do mal, matando insanamente e incapaz até mesmo de se controlar.\nFelizmente, Kazetsu ainda conservava o orgulho de um samurai, determinado a vingar seus pais, e assim ele finalmente adquiriu o poder de um demônio. Kazetsu combinou isso com o espírito de um samurai, colocou uma máscara de demônio e, sozinho, destruiu todos os demônios que governavam sua vila. Após resgatar os aldeões, Kazetsu parte em busca de Nero.
+event_hero_release_11<>Poderoso Samurai
+event_hero_release_summon_11<>Invocação Lendária
+hero_release_daily_quest_tittle_11<>Jornada de Treinamento
+hero_release_collection_tittle_11<>Congregação Aliada
+hero_release_collection_desc_11<>Colecione Kazetsu e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_11<>Pacote suportado
+warning_delete_account<>Contas excluídas não podem ser recuperadas. Tem certeza de que deseja excluir sua conta?
+event_skin_challenge_day_not_available<>As missões serão desbloqueadas nos próximos dias.
+delete_account<>Excluir conta
+delete_account_rule_1<>Todos os seus dados do jogo serão apagados permanentemente e não poderão ser recuperados se você optar por excluir sua conta. Deseja continuar?
+delete_account_warning_1<>Todas as redes sociais associadas à sua conta serão removidas.
+delete_account_warning_2<>Você não poderá recuperar sua conta após excluí-la. Fique atento!
+delete_account_rule_2<>Digite YES para confirmar que deseja excluir sua conta.
+tap_here_to_type<>Por favor, insira o texto aqui.
+first_purchase_hero_desc_2<>Princesa da Lua
+input_delete_failed<>Você digitou uma palavra incorreta. Por favor, digite novamente.
+player_deactivated<>Esta conta já foi excluída.
+event_skin_challenge_select_layout<>Selecione a pele
+please_select_1_skin<>Selecione 1 skin para iniciar o desafio.
+challenges<>Desafio de batalha
+event_hero_release_12<>O Arcanjo
+event_hero_release_summon_12<>Invocação Lendária
+hero_release_daily_quest_tittle_12<>Orientação do Anjo
+hero_release_collection_tittle_12<>Santa Graça
+hero_release_collection_desc_12<>Colecione Celestia e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_12<>Pacote suportado
+flash_sale_new_1<>Pacote de suporte avançado 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>Prezados Invocadores,\nPara garantir a qualidade do jogo e a experiência de usuário mais segura e eficaz, decidimos unificar as duas versões do jogo nos mercados vietnamita e internacional. A unificação das duas versões ocorrerá em 30 de setembro de 2022.\n\nPortanto, as versões internacionais de Summoners Era e Summoners Era serão lançadas em uma única versão: Summoners Era. Para continuar jogando, os Invocadores precisam vincular suas contas atuais às plataformas de mídia social e fazer login na versão internacional de Summoners Era. Todos os seus dados de conta e progresso no jogo serão salvos e recarregados após o processo de vinculação. Portanto, vinculem suas contas o mais rápido possível!\n\nAtenciosamente,
+go_to_binding<>Liên kết
+flash_sale_new_2<>Pacote de suporte avançado 2
+flash_sale_new_3<>Pacote de suporte avançado 2
+flash_sale_new_4<>Pacote de suporte avançado 3
+flash_sale_new_5<>Pacote de suporte avançado 3
+flash_sale_new_6<>Pacote de suporte avançado 4
+flash_sale_new_7<>Pacote de suporte avançado 5
+event_mid_autumn<>Meio do Outono
+overview_hero_30008<>No dia em que Nero libertou o espírito do corpo humano, o mundo foi engolfado por escombros e preenchido por gás. Pessoas estão por toda parte, a natureza está impregnada com o cheiro de sangue. As almas dos mortos estão cada vez mais concentradas, encarnando até mesmo seres inanimados. Kozorg, originalmente um Quartzo do Abismo, tornou-se um monstro por causa do espírito da morte. Contudo, entre as almas reunidas em Kozorg, ainda existem almas e espíritos bons, permitindo-lhe se manifestar em momentos de paz e contemplação. Em momentos como esses, Kozorg deseja fazer algo para salvar a humanidade e contata Airyuu, a princesa dragão que outrora adormeceu profundamente no Abismo da Morte.
+event_hero_release_13<>Homem de Pedra Espiritual
+event_hero_release_summon_13<>Invocação Lendária
+hero_release_daily_quest_tittle_13<>Desafio da Essência
+hero_release_collection_tittle_13<>Reunião da Alma
+hero_release_collection_desc_13<>Colecione Kozorg e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_13<>Pacote suportado
+battle_pass_store<>Loja do Passe de Batalha
+confirm_exchange<>Tem certeza de que deseja trocar este item?
+event_hero_boss_title_2<>Purificação do Espírito
+event_hero_boss_des_2<>Desafie o maligno Kozorg, mostre sua força e ajude-o a derrotar os demônios.
+event_hero_boss_2<>Desafio do Chefe
+battle_pass_exchange<>Área de câmbio
+confirm_remove_food<>Tem certeza de que deseja remover este herói da seguinte funcionalidade para usá-lo como alimento de aprimoramento?
+failed_quick_remove<>Este herói não pode mais ser usado como alimento. Por favor, remova-o manualmente da funcionalidade!
+price<>Preço 
+popular<>Raridade
+recent<>Data de lançamento
+skin_shop<>máscara para a pele
+there_is_no_current_sale<>Ops. Os pacotes promocionais não estão disponíveis no momento. Eles estão fora do ar, mas voltarão em breve.
+confirm_remove_hero<>Tem certeza de que deseja remover este herói da seguinte funcionalidade?
+failed_remove_hero<>Este herói não pode ser removido rapidamente. Por favor, remova-o manualmente da funcionalidade.
+hero_lock_in_feature<>Herói bloqueado em recurso
+black_friday_bundle<>Super promoção Black Friday
+social<>Rede social
+friends<>Amigo
+guide_book<>Livro Guia
+customer_service<>Atendimento ao Cliente
+overview_hero_60003<>Zalidus matou sua própria mãe quando ele nasceu, sinalizando que toda a sua vida iria combinar com matar e matar.\nCrescendo no meio de Dark Pit, onde sobreviver significa matar outros, Zalidus estava entre os melhores de todos. Ele começou apenas fazendo o que precisava para sobreviver, acabando por matar quem quer que seja por causa de dinheiro, fazendo um trabalho sujo e nojento como assassino.\nSe você alguma vez vagou perto do Poço Escuro, e de repente uma cruz brilhante X se iluminou no escuro, você sabe que Zalidus está enviando você para a vida após a morte.
+overview_hero_60006<>Era uma vez uma bela sacerdotisa da Biblioteca da Luz chamada Hehta, cuja fama residia não apenas em sua beleza, mas também em seu imenso conhecimento de magia.\nA fome do sacerdote por conhecimento a levou cada vez mais longe, na terra da magia negra. Quanto mais feitiços antigos ela adquiria, mais ansiedade crescia entre seus colegas estudiosos. Até um dia designado, Hehta foi julgado pelo Conselho de Magia por pesquisar magia proibida. Estranhamente, ela não deu nenhuma explicação, apenas simplesmente acenou com a cabeça para cada acusação sobre ela, Hehta sabia que esta terra não pode mais satisfazer sua sede.\nNo dia de sua sentença de morte, Hehta não estava em lugar algum, como se ela tivesse acabado de desaparecer no ar. Não muito tempo depois disso, as pessoas dizem ter visto uma beleza desconhecida com orelhas de elfo vagando pelo Castelo Negro...
+event_hero_release_14<>Lâmina Sombria
+event_hero_release_summon_14<>Invocação Lendária
+hero_release_daily_quest_tittle_14<>Desafios do Ceifador
+hero_release_collection_tittle_14<>Aglomeração do Mal
+hero_release_collection_desc_14<>Colecione Zalidus e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_14<>Pacote suportado
+event_hero_release_15<>Espadachim encantador
+event_hero_release_summon_15<>Invocação Lendária
+hero_release_daily_quest_tittle_15<>Treinamento de resistência
+hero_release_collection_tittle_15<>Presentes que animam
+hero_release_collection_desc_15<>Colecione Hehta e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_15<>Pacote suportado
+version_recent<>Versão recente
+version_next<>Próxima versão
+maintenance<>Aviso de manutenção
+event_skin_challenge_detail<>Colete itens do evento para trocar pela sua skin dos sonhos.
+already_exchange<>Trocado
+go_event<>Ver detalhes
+customer_service_content<>Se você tiver qualquer problema durante o jogo, não hesite em contatar nosso serviço de atendimento ao cliente. Nossa equipe atenciosa está sempre pronta para ajudá-lo.
+included_free<>Recompensa gratuita incluída
+understand<>Entendido
+event_airyuu<>Quintessência da Natureza
+title_event_airyuu<>QUINTESSÊNCIA DA NATUREZA
+airyuu_check_in<>QUINTESSÊNCIA DA NATUREZA
+airyuu_checkin_title<>SAUDAÇÃO DEFENDENTE
+time_next_day<>No dia seguinte, em
+airyuu_treasure<>Tesouro do Dragão
+airyuu_treasure_infor<>Use Orbe de Água para abrir baús e receber recompensas surpreendentes.
+airyuu_quest<>Aventura na Terra dos Dragões
+airyuu_quest_title<>AVENTURA NA TERRA DOS DRAGÕES
+wait_check_in<>Por favor, volte amanhã.
+airyuu_bundle<>Chamada do Dragão
+airyuu_bundle_infor<>Airyuu ficará feliz quando você comprar esses pacotes para ela.
+airyuu_trial<>Diário de Sacredwoods
+airyuu_trial_infor<>Desafie os servos de Airyuu para receber recompensas.
+airyuu_collection<>Bênção do Dragão
+airyuu_evolution_title<>BÊNÇÃO DO DRAGÃO
+check_in<>Você fez check-in hoje.
+recheckin<>Refazer o check-in
+confirm_use_all<>Você vai usar esses itens, não vai?
+open_x1<>Abra 1
+open_all<>Abra tudo
+airyuu_evolution_quest_title<>BÊNÇÃO DO DRAGÃO
+history<>História 
+chance<>Tentar 
+select_difficult<>Selecione a dificuldade
+difficult<>Dificuldade
+patch<>Correção
+event_new_hero_rateup_summon_2<>Invocação Lendária
+created_time<>Tempo dedicado
+enable_animation<>Ativar animação
+transform<>Alternar formulário
+confirm_use_resource<>Você quer usar essas recompensas
+event_new_year_bundle<>Pacote de Ano Novo
+new_year_purchase_1<>Pacote de cartão pequeno
+new_year_purchase_2<>Pacote de cartas médio
+new_year_purchase_3<>Pacote de cartão grande
+event_lunar_2022_spring_bundle_<>Felicidade e prosperidade
+show_more_information<>Detalhes do bônus da facção
+event_community<>Evento da comunidade
+event_tower_of_eitri<>Torre de Eitri
+tower_of_eitri_tower<>Torre do Dragão
+tower_of_eitri_tower_infor<>Torre do Dragão
+tower_of_eitri_exchange<>Área de câmbio
+tower_of_eitri_exchange_infor<>Área de câmbio
+tower_of_eitri_bundle<>Pacotes para construção de torres
+tower_of_eitri_bundle_infor<>Pacotes para construção de torres
+tower_of_eitri_quest<>As Missões de Eitri
+tower_of_eitri_quest_title<>As Missões de Eitri
+tower_of_eitri_quest_infor<>As Missões de Eitri
+current_floor<>Andar atual
+build<>Construir
+skip_animation<>Pular animação
+normal_floor_reward<>Recompensa de piso normal
+golden_floor_reward_bonus<>Recompensa do andar dourado
+confirm_use<>Deseja usar
+hammer_in_pool<>Receba o Martelo de Eitri após trocar uma recompensa. Quanto mais alto o andar, mais recompensas você receberá. Disponível agora:
+reach_limited_exchange<>O número de trocas atingiu o limite!
+reward_milestone<>Número total de andares
+claim_and_close<>Reivindique recompensas
+event_hero_release_16<>Inferno Eterno
+event_hero_release_summon_16<>Invocação Lendária
+hero_release_daily_quest_tittle_16<>Desafios do fogo
+hero_release_collection_tittle_16<>Chama de Arien
+hero_release_collection_desc_16<>Colecione Arien e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_16<>Pacote suportado
+overview_hero_20002<>Arien era uma heroína do fogo, conhecida como uma das lutadoras mais habilidosas do reino do sul, temida por seus inimigos e respeitada por seus aliados. Mas, apesar de sua reputação feroz, Arien não era desprovida de compaixão. Ela frequentemente viajava para as aldeias vizinhas, ajudando as pessoas com sua magia de fogo.\n\nUm dia, durante uma missão para proteger uma aldeia de uma tempestade de areia furiosa, Arien conheceu Ícaro, o guerreiro fênix de fogo. Eles lutaram lado a lado, suas chamas se fundindo em uma demonstração brilhante de poder. Rapidamente perceberam que compartilhavam um laço especial, um amor que ardia tão forte quanto as chamas que controlavam.\n\nA partir daquele dia, Arien e Ícaro tornaram-se inseparáveis, viajando juntos pelo reino e lutando pelo bem maior. O caráter de Arien foi moldado por seu amor por seu povo, seu domínio da magia do fogo e seu laço inquebrável com Ícaro, o guerreiro fênix de fogo.
+event_hero_release_17<>Guardião do Oceano
+event_hero_release_summon_17<>Invocação Lendária
+hero_release_daily_quest_tittle_17<>Desafio das Marés
+hero_release_collection_tittle_17<>Tesouro de Osse
+hero_release_collection_desc_17<>Colecione Osse e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_17<>Pacote de suporte
+overview_hero_10007<>Osse é um lendário guardião do mar, reverenciado por todos que habitam suas profundezas. Ele é um homem com a parte inferior do corpo de uma serpente. Nascido das profundezas do oceano, Osse recebeu a missão de proteger o mar daqueles que buscam explorar seus recursos ou prejudicar seus habitantes. Ele é um guerreiro feroz e poderoso, capaz de invocar as próprias forças do mar para auxiliá-lo em batalha.\n\nEntre outras raças, Osse é lembrado por sua temível reputação. Mas qualquer criatura que chama o oceano de lar sabe que Osse nutre um profundo amor e respeito por elas; o guardião do oceano não hesitará em fazer o que for preciso para protegê-lo de qualquer mal. Portanto, Osse tem seu próprio princípio: não deixar ninguém ou nada que ameace a paz do reino oceânico escapar impune, especialmente piratas.
+event_hero_release_18<>Coração do Oceano
+event_hero_release_summon_18<>Invocação Lendária
+hero_release_daily_quest_tittle_18<>Viagem de Vingança
+hero_release_collection_tittle_18<>Fúria do Oceano
+hero_release_collection_desc_18<>Colete Névoa e ganhe recompensas bônus.
+event_hero_release_bundle_tittle_18<>Pacote de suporte
+overview_hero_10005<>Diz a lenda que nas profundezas do oceano jaz uma pedra preciosa chamada Coração do Oceano, detentora de um poder imenso. O mito se espalhou por toda parte, a ponto de cada vez mais piratas se aventurarem em expedições sem sentido em busca desse tesouro.\n\nMist nasceu em uma família de piratas, criada nos altos mares desde que aprendeu a andar. Seus pais e irmãos formavam uma tripulação unida e sonhavam em possuir o mágico Coração do Oceano. Mas perseguir uma lenda misteriosa tem seu preço, e a tragédia atingiu Mist quando ela ainda era jovem. Sua família foi atacada por um monstro meio humano, meio serpente, enquanto buscavam o tesouro; infelizmente, Mist foi a única sobrevivente. Sem nada além de uma alma atormentada, Mist partiu em uma jornada de vingança, determinada a encontrar o Coração do Oceano e usar seu poder contra o monstro que destruiu sua felicidade.
+event_boost_first_purchase<>Atualizar
+boost_first_purchase_title_1<>Atualização 1
+boost_first_purchase_title_2<>Atualização 2
+boost_first_purchase_title_3<>Atualização 3
+boost_first_purchase_title_4<>Atualização 4
+boost_first_purchase_title_5<>Atualização 5
+boost_first_purchase_title_6<>Atualização 6
+boost_first_purchase_title_7<>Atualização 7
+boost_first_purchase_title_8<>Atualização 8
+boost_first_purchase_title_9<>Atualização 9
+boost_first_purchase_title_10<>Atualização 10
+boost_first_purchase_title_detail_1<>Reforce seu elenco agora
+boost_first_purchase_title_detail_2<>Reforce seu elenco agora
+boost_first_purchase_title_detail_3<>Reforce seu elenco agora
+boost_first_purchase_title_detail_4<>Reforce seu elenco agora
+boost_first_purchase_title_detail_5<>Reforce seu elenco agora
+boost_first_purchase_title_detail_6<>Reforce seu elenco agora
+boost_first_purchase_title_detail_7<>Reforce seu elenco agora
+boost_first_purchase_title_detail_8<>Reforce seu elenco agora
+boost_first_purchase_title_detail_9<>Reforce seu elenco agora
+boost_first_purchase_title_detail_10<>Reforce seu elenco agora
+event_seasonal<>Festival de Verão
+seasonal_check_in<>Check-in de verão
+seasonal_bundle<>Pacote de Verão
+seasonal_daily_checkin<>Check-in de verão
+seasonal_firework_shop<>Pacote de Verão
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>novos eventos estão chegando em breve
+more_detail<>Detalhe
+event_server_open_checkin<>Check-in para iniciantes
+seasonal_firework_exchange<>Área de câmbio
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 4
+seasonal_exchange<>Área de câmbio
+seasonal_firework_creator<>Bar relaxante
+seasonal_super_gift<>Quiz de Verão
+seasonal_royal_challenge<>Desafio Oceânico
+not_day_checkin<>Aguarde até o dia seguinte para fazer a reclamação.
+seasonal_summer_game_main_quest<>Complete todas as missões para obter a skin exclusiva.
+complete_%s_more_to_reward<>Complete todas as missões para obter a skin exclusiva.
+select_ball_to_exchange<>Selecione a bola de água
+select_ball_exchange_to<>Selecione a bola de água
+reselect_exchange_item<>Você ainda não selecionou bola de água.
+you_have_no_this_resource<>Você não possui este item.
+cant_not_exchange_same_item<>Não é possível selecionar o mesmo item.
+throw_single<>Arremesso 1
+throw_all<>Jogue tudo fora
+throw_%s_time_execute_target<>Arremesse %s vezes para executar o alvo e reivindicar a recompensa.
+exchange_ball<>Bola de troca
+seasonal_throw_ball<>Quiz de Verão
+can_not_reselect_hero<>Tem certeza de que deseja escolher este herói?\n\nVocê não poderá selecionar outro herói depois de entrar no jogo.
+make<>Fazer
+make_single_mojito<>Faça 1 mojito
+quick_make<>Rápido
+seasonal_summer_game_title_detail<>Abra a caixa de presente de verão para ganhar uma bola de água e participar do quiz.
+tap_for_more_information<>Toque no banner para obter mais detalhes.
+event_hero_release_summon_19<>Saudação Deferente
+event_hero_release_19<>Aventura na Terra dos Dragões
+overview_hero_40027<>Quando a tribo dos Dragões era caçada pelos humanos, a princesa dos Dragões, Airyuu, era muito jovem. Airyuu foi escoltada por Finde e seus vassalos para um lugar seguro, onde só ela vivia. Ao longo de centenas de anos, a pequena princesa Airyuu se tornou uma bela jovem. Ela viaja entre o mundo humano, adquirindo conhecimento e buscando suas raízes. Com honestidade, inocência e pureza, Airyuu é amada por todos. Ela se considera como qualquer outra pessoa, conhecendo a felicidade e a tristeza. Como ela reagirá ao descobrir a tragédia de seus ancestrais?
+hero_release_daily_quest_tittle_19<>diário da floresta sagrada
+hero_release_collection_tittle_19<>Bênção do Dragão
+hero_release_collection_desc_19<>Colete Airyuu para obter recompensas bônus.
+event_hero_release_bundle_tittle_19<>Chamada do dragão
+first_purchase_hero_desc_20001<>Fênix renascida
+first_purchase_hero_desc_40027<>Princesa do Dragão
+buy_point<>Ganhe pontos
+birthday_buy_level<>Ganhe pontos de passe legados
+birthday_level_bundle_1<>Ganhe dinheiro com anúncios
+birthday_level_bundle_2<>Ganhe pontos
+birthday_level_bundle_3<>Ganhe pontos
+go_to_event<>Participe do evento
+flash_sale_evolve_title<>Herói das Vendas Relâmpago
+popup_not_appear_anymore<>Tem certeza de que deseja fechar a janela pop-up? Você não poderá reabrir o pacote depois de fechá-lo.
+auto_next_battle_in<>O próximo andar começa em
+event_hero_release_20<>O Mago Sagrado
+event_hero_release_summon_20<>Invocação Lendária
+hero_release_daily_quest_tittle_20<>Treinamento de Magia
+hero_release_collection_tittle_20<>Reunir Magia
+hero_release_collection_desc_20<>Colecione Ignatius para obter recompensas bônus.
+event_hero_release_bundle_tittle_20<>Luz Sagrada
+overview_hero_50011<>Nos reinos de um mundo místico e ancestral, onde se desenrola a eterna batalha entre a Luz e as Trevas, um ser único e divino paira pelos céus, conhecido como Inácio. Sua aparência é a de um pássaro majestoso, resplandecente em penas radiantes que cintilam com o brilho do sol. Após ser persuadido por Celestia, o Arcanjo, Inácio uniu uma formidável assembleia de poderosos aliados da facção da Luz para se tornarem ferozes adversários contra o exército de Scathatch. Ele então se ergue como um farol de esperança, o defensor da facção da Luz na luta contra as forças malévolas da facção das Trevas.
+not_have_hero_meet_requirement<>Nenhum herói atende aos requisitos da missão.
+auto_rematch_in<>Revanche da batalha em
+tower_progress<>Progresso da Torre
+event_boss_challenge<>Desafio do Chefe
+event_boss_challenge_challenge_tower<>Torre de Desafios
+event_boss_challenge_boss_quest<>Missão do Chefe
+event_boss_challenge_shop<>Pacote Chefe
+event_boss_challenge_quest_title<>O Desafio de Kozorg
+event_boss_challenge_desc<>Complete a missão diária para ganhar a moeda de desafio.
+boss_challenge_shop_title_1<>Pacote Diário
+boss_challenge_shop_title_2<>Pacote de Eventos
+event_mid_autumn_quest_name<>Missão Diária
+event_mid_autumn_quest_title<>Missão Diária
+event_mid_autumn_quest_content<>Complete a missão para ganhar o Bolo da Lua.
+event_festival_market_name<>Mercado de Meio do Outono
+event_mid_autumn_market_title<>Mercado de Meio do Outono
+event_mid_autumn_market_des<>Compre pacotes para obter itens do evento.
+event_mid_autumn_special_offer_title<>Oferta do Meio Outono
+event_mid_autumn_text_quest_bet<>Bet {1} Lanterna na arena do meio-outono
+event_mid_autumn_arena_title<>Arena do Meio do Outono
+event_mid_autumn_arena_name<>Arena do Meio do Outono
+event_mid_autumn_arena_content<>Aposte na Lanterna na equipe mais forte para ter a chance de acender várias Lanternas.\nVocê não pode apostar nos últimos 30 minutos do dia do jogo.
+event_mid_autumn_arena_item_text_attacker_team<>Atacante
+event_mid_autumn_arena_item_text_defender_team<>Defensor
+event_mid_autumn_arena_item_text_total_bet<>Aposta total
+event_mid_autumn_arena_item_text_battle_end<>A batalha terminou.
+event_mid_autumn_arena_item_text_battle_time<>Termina em: %s
+event_mid_autumn_arena_item_text_day<>Dia
+event_mid_autumn_arena_item_text_bet<>Aposta
+area_bet_title<>Aposta
+area_bet<>Aposta
+event_mid_autumn_arena_item_text_coming_soon<>Em breve
+bet_time_out<>O tempo para apostar terminou.
+popup_exchange_tower_of_eitri_title_text<>Confirmação pop-up
+popup_exchange_tower_of_eitri_ask_text<>Tem certeza de que deseja usar esses itens para a troca?
+event_halloween_quest_title<>Missão de Halloween
+event_halloween_quest_desc<>Complete as tarefas diárias para ganhar a moeda do evento de Halloween.
+event_halloween_shop_title<>Loja de Halloween
+event_halloween_shop_des<>Compre o pacote para obter os dados e a pele de abóbora.
+halloween_quest<>Missão de Halloween
+halloween_shop<>Loja de Halloween
+want_to_roll_dice<>Tem certeza de que deseja rolar todos os dados?
+roll_all<>Role tudo
+event_halloween_quest_tavern_all_star<>Complete {1} missão com qualquer estrela na Taverna
+piece_adventure_floor<>Andar atual
+event_piece_adventure_quest_title<>Missão de Evento
+event_piece_adventure_desc<>Complete a missão para obter a Chave de Aventura.
+piece_adventure_card<>Aventura de evento
+event_piece_adventure_exchange_name<>Troca de Eventos
+event_piece_adventure_exchange_desc<>Use a peça do artefato para trocar por um presente.
+event_piece_adventure_shop_name<>Loja de Eventos
+event_piece_adventure_shop_desc<>Adquira o pacote para obter a Chave de Aventura e o Fragmento de Artefato.
+cannot_unlock_floor<>Você precisa encontrar pelo menos 1 item para passar para o próximo andar.
+want_to_unlock_floor<>Tem certeza de que deseja avançar para o próximo nível sem coletar todos os itens?
+piece_adventure_quest<>Missão de Evento
+piece_adventure_exchange<>Troca de Eventos
+piece_adventure_store<>Loja de Eventos
+floor_reward_list<>Lista de andares
+event_piece_adventure<>Aventura em pedaços
+piece_adventure_shop_title_1<>Oferta do dia
+piece_adventure_shop_title_2<>Loja de Eventos
+next_floor<>Próximo andar
+want_to_open_all<>O sistema abrirá o baú automaticamente até encontrar o item bônus ou até que as chaves acabem. Tem certeza de que deseja fazer isso?
+open_all_card<>Abertura automática
+claimed_all_card<>Você já abriu todos os baús deste andar.
+not_click_start<>Você precisa clicar em Iniciar para jogar.
+open_card_tut_text<>Selecione um baú para procurar tesouros.
+max_floor<>Você chegou ao último andar do evento. Nos vemos novamente no próximo evento.
+title_black_friday_sale_select_item<>SUPER OFERTA DE BLACK FRIDAY!!!
+select_5_reward<>Selecione os 5 itens que deseja comprar.
+your_choice_text<>Itens selecionados
+get_bonus<>Confirmar
+need_select_5_reward<>Você deve selecionar 5 itens.
+want_to_get_bonus<>Confirme os itens selecionados
+have_max_items<>Você só pode selecionar 5 itens.
+black_friday_sale_1<>Pacote comum
+black_friday_sale_2<>Super Pacote
+black_friday_sale_3<>Pacote Ultra
+event_black_friday_new_version<>Pacote Black Friday
+title_black_friday_sale_super_deal<>SUPER OFERTA DE BLACK FRIDAY!!!
+drop_time_thanks_giving<>13 dias desde o início do evento
+thanks_giving_shop<>Loja de Ação de Graças
+thanks_giving_dice_title<>Jogo da Colheita
+event_golden_time_thanks_giving_name<>Eventos da época da colheita
+thanks_giving_quest<>Missão de Ação de Graças
+event_thanks_giving_exchange_name<>Trocar abóbora
+event_thanks_giving_specialoffer<>Oferta de Ação de Graças
+golden_time_thanks_giving_drop_info<>∙ 10 Abóbora: {0} (s)
+event_golden_time_thanks_giving<>Eventos da época da colheita
+event_golden_time_thanks_giving_desc<>Colete dados e abóboras para trocar por recompensas. Os itens de Ação de Graças desaparecerão após o término do evento.\n12 horas antes do término do evento, as abóboras deixarão de aparecer no baú ocioso.
+thanks_giving_dice_guide<>Colecione e role os dados - Ganhe prêmios incríveis.\nEncontre mais em A Missão de Ação de Graças.
+event_thanks_giving_quest_desc<>Complete a Missão de Ação de Graças para ganhar mais dados.
+event_thanks_giving_exchange_desc<>Colete abóboras e troque por recompensas ilimitadas abaixo.
+event_thanks_giving_shop_des<>Compre o pacote para obter os dados e a pele de abóbora.
+thanks_giving_purchase_1<>Pacote Pausa para o Chá
+thanks_giving_purchase_2<>Pacote de Jantar
+thanks_giving_purchase_3<>Pacote Banquest
+event_thanks_giving<>Ação de Graças
+event_thanks_giving_shop_title<>Loja de Ação de Graças
+event_thanks_giving_quest_title<>Missão de Ação de Graças
+source_money_type_102<>- Jogo da Colheita\n- Oferta de Ação de Graças\n- Loja de Ação de Graças
+lock_level<>Trancado
+raid_key_75<>Compre mais Chaves Douradas
+raid_key_76<>Compre mais Glass Key
+raid_key_77<>Compre mais Fragment Key
+limited<>Limitado
+back_current<>Voltar ao atual
+max_ads_turn_daily<>Você já usou todos os anúncios de hoje.
+recycle<>Reciclar
+acquired_items<>Itens adquiridos
+auto_select<>Seleção automática
+nothing_to_recycle<>Você deve escolher pelo menos 1 Herói para Reciclar.
+have_max_items_recycle<>Os espaços para reciclagem estão cheios.
+all_hero_recycle_selected<>Todos os heróis são selecionados.
+recycle_four_star_hero<>Tem certeza de que vai reciclar?
+select_orb_title<>Selecione Orbe
+can_not_select<>Os espaços para orbes estão cheios.
+not_have_enought_food<>Você não tem nenhum Orbe para selecionar.
+max_total_exp<>Você já preencheu Orbes suficientes.
+event_christmas_feed_name<>Bênção de Natal
+event_christmas_feed_desc<>Use a bengala doce para abençoar Inácio e ganhe um presente.
+blessing<>Bênção
+blessing_all<>Abençoando a todos
+event_christmas_arena_title<>Arena de Natal
+event_christmas_arena_content<>Use a vela para apostar e obter mais velas acesas.
+event_christmas_quest_title<>Missão de Natal
+event_christmas_quest_content<>Complete a missão para obter a bengala doce.
+event_christmas_blessing_quest<>Bênção {1} Bengala Doce para Inácio
+event_christmas_text_quest_bet<>Aposte {1} Vela na Arena de Natal
+event_christmas_exchange_name<>Troca de Natal
+event_christmas_exchange_desc<>Use a vela acesa para trocar o item.
+event_christmas_market_title<>Loja de Natal
+event_christmas_market_des<>Compre mais bengalas de Natal e velas acesas.
+event_christmas_specialoffer<>Oferta de Natal
+event_christmas<>Natal
+christmas_offer_1<>Oferta de doces
+christmas_offer_2<>Oferta Alegre
+christmas_offer_3<>Oferta do Papai Noel
+event_boss_challenge_leader_board_title<>Quadro de Líderes
+event_new_year_2023<>Ano Novo
+drop_time_new_year_2023<>13 dias desde o início do evento
+new_year_shop<>Loja de Ano Novo
+event_golden_time_new_year_2023_name<>Momento de Alegria
+event_new_year_2023_wish_name<>Desejos de sorte
+new_year_2023_quest<>Missão de Ano Novo
+event_new_year_2023_exchange_name<>Troca de Ano Novo
+event_new_year_2023_specialoffer<>Oferta de Ano Novo
+new_year_2023_shop<>Loja de Ano Novo
+source_money_type_229<>- Desejo de Sorte\n- Oferta de Ano Novo\n- Loja de Ano Novo
+event_new_year_2023_quest_desc<>Complete missões para ganhar o Bilhete de Ano Novo.
+event_golden_time_new_year_2023_desc<>Colete os cartões-postais no Baú Ocioso. Os itens de Ano Novo desaparecerão após o término do evento.
+golden_time_new_year_2023_drop_info<>Colete cartões-postais para trocar por recompensas. O baú ocioso concederá 10 cartões-postais a cada hora. Doze horas antes do término do evento, os cartões-postais deixarão de aparecer no baú ocioso.
+text_chance_reset<>Número de chances até a reinicialização
+event_new_year_2023_exchange_desc<>Colecione cartões-postais e troque por recompensas ilimitadas abaixo.
+new_year_2023_purchase_1<>Pacote de velas de faísca para mão
+new_year_2023_purchase_2<>Pacote Fogueira
+new_year_2023_purchase_3<>Pacote de Fogos de Artifício
+event_new_year_2023_shop_des<>Compre o Cartão Postal e o Bilhete de Ano Novo para participar do evento.
+want_to_wish_all<>Deseja usar todos os seus ingressos para rolar?
+event_golden_time_lunar_new_year_2024<>Complete missões para obter Jade.
+event_golden_time_lunar_new_year_2024_desc<>Colete Moedas da Fortuna no Baú Ocioso. Os itens de Ano Novo desaparecerão após o término do evento.
+drop_time_lunar_new_year_2024<>13 dias desde o início do evento
+golden_time_lunar_new_year_2024_drop_info<>Colete Moedas da Fortuna para trocar por recompensas. O baú ocioso concederá 10 Moedas da Fortuna a cada hora. Doze horas antes do término do evento, as Moedas da Fortuna deixarão de aparecer no baú ocioso.
+source_money_type_78<>- Bingo da Sorte\n- Oferta de Ano Novo Lunar\n- Oferta de Ano Novo Lunar
+event_lunar_new_year_2024<>Ano Novo Lunar
+bingo_count<>Contagem de Bingo
+extra_bingo_reward_text<>Bônus de Sucesso no Bingo
+bingo<>Bingo
+bingo_reward_list<>Recompensa de Bingo
+bingo_title<>BINGO DA SORTE
+event_lunar_new_year_2024_bingo_name<>Bingo da Sorte
+lunar_new_year_2024_quest<>Missão de Ano Novo
+event_lunar_new_year_2024_exchange_name<>Troca de Ano Novo
+event_lunar_new_year_2024_specialoffer<>Oferta de Ano Novo
+lunar_new_year_2024_shop<>Loja de Ano Novo
+event_lunar_new_year_2024_quest_desc<>Complete missões para obter Jade.
+event_lunar_new_year_2024_exchange_desc<>Colecione Moedas da Fortuna e troque por recompensas ilimitadas abaixo.
+lunar_new_year_2024_purchase_1<>Pacote da Prosperidade
+lunar_new_year_2024_purchase_2<>Pacote da Fortuna Encontrada
+lunar_new_year_2024_purchase_3<>Pacote Reencontro dos Dragões
+event_lunar_new_year_2024_shop_des<>Compre Jade e Moedas da Fortuna para jogar no evento.
+event_golden_time_lunar_new_year_2024_name<>Momento de Ano Novo
+bingo_tut_lunar_new_year_2024<>Toque no baú para abri-lo.
+event_valentine_2024<>Evento de Dia dos Namorados
+drop_time_valentine_2024<>13 dias desde o início do evento
+source_money_type_250<>- Presente Doce\n- Oferta de Dia dos Namorados\n- Loja de Dia dos Namorados
+event_golden_time_valentine_2024_name<>Momentos de Amor
+event_valentine_2024_wish_name<>Presente Doce
+valentine_2024_quest<>Desafio Doce
+event_valentine_2024_exchange_name<>Troca de Chocolate
+event_valentine_2024_specialoffer<>Oferta de Dia dos Namorados
+valentine_2024_shop<>Loja de Dia dos Namorados
+event_lottery_valentine_title<>Presente Doce
+event_valentine_2024_quest_desc<>Complete a missão para obter a Flecha do Amor.
+event_valentine_2024_exchange_desc<>Colecione chocolates e troque por recompensas ilimitadas abaixo.
+event_valentine_2024_shop_des<>Compre Flecha do Amor e Chocolate para jogar no evento.
+valentine_2024_purchase_1<>Pacote Primeiro Amor
+valentine_2024_purchase_2<>Pacote Amor Apaixonado
+valentine_2024_purchase_3<>Pacote Amor Verdadeiro
+event_golden_time_valentine_2024_desc<>Colete chocolates no Baú Ocioso. Os itens de Dia dos Namorados desaparecerão após o término do evento.
+golden_time_valentine_2024_drop_info<>Colete Chocolate para trocar por recompensas. O baú ocioso concederá 10 Chocolates a cada hora. Doze horas antes do término do evento, o fornecimento de Chocolate no baú ocioso será interrompido.
+subscription_packs_5<>CARTÃO DO COMANDANTE
+subscription_packs_6<>CARTÃO DO PROFETA
+sweep<>Varrer
+item_reward<>Comum
+item_reward_premium<>Premium
+event_boss_challenge_premium_pass<>Cartão Desafiante
+premium_pass_title_text<>Cartão Desafiante
+buy_now_text<>Comprar agora
+premium_pass_total_reward_text<>Recompensa Total
+benefit_text<>Benefícios:\n- Desbloqueie a opção de pular batalhas e usar todos os bilhetes na Torre do Desafio do Chefe\n- Desbloqueie a Recompensa Premium\n- Desbloqueie a grande recompensa no último andar
+need_buy_boss_premium_pass<>Você precisa adquirir o Challenger Card antes de usar este recurso.
+quick_battle_title<>Selecione o número do bilhete que deseja usar.
+event_easter_day<>Dia de Páscoa
+easter_day_shop<>Loja de Páscoa
+drop_time_easter_day<>13 dias desde o início do evento
+easter_day_dice_title<>Viagem de Páscoa
+source_money_type_218<>- Viagem de Páscoa\n- Oferta de Páscoa\n- Loja de Páscoa
+event_golden_time_easter_day_name<>Caça aos Ovos
+easter_day_quest<>Missão de Páscoa
+event_easter_day_exchange_name<>Troca de Ovos
+event_easter_day_specialoffer<>Oferta de Páscoa
+event_golden_time_easter_day_desc<>Colete Ovos de Páscoa no Baú Ocioso. Os itens do Dia de Páscoa desaparecerão após o término do evento.
+easter_day_dice_guide<>Colecione e role os dados - Ganhe prêmios incríveis.\nEncontre mais em Aventura de Páscoa.
+event_easter_day_quest_desc<>Complete missões para obter dados.
+event_easter_day_exchange_desc<>Colecione Ovos de Páscoa e troque por recompensas ilimitadas abaixo.
+easter_day_purchase_1<>Pacote de Ovos Prateados
+easter_day_purchase_2<>Pacote de Ovos de Ouro
+easter_day_purchase_3<>Pacote de Ovos Arco-Íris
+event_easter_day_shop_des<>Compre dados e ovos de Páscoa para jogar no evento.
+golden_time_easter_day_drop_info<>Colete Ovos de Páscoa para trocar por recompensas. O baú ocioso concederá 10 Ovos de Páscoa a cada hora. Doze horas antes do término do evento, os Ovos de Páscoa deixarão de aparecer no baú ocioso.
+event_summer_day<>Férias de verão
+drop_time_summer_day<>13 dias desde o início do evento
+source_money_type_82<>- Viagens de Verão\n- Ofertas de Verão\n- Loja de Verão
+event_golden_time_summer_day_name<>Relaxando na praia
+event_golden_time_summer_day_desc<>Colete bolas de praia em baús de recompensas de eventos e baús ociosos para trocar por recompensas.
+summer_day_dice_title<>Viagens de verão
+summer_day_quest<>Missão de Verão
+event_summer_day_exchange_name<>Intercâmbio de Verão
+event_summer_day_specialoffer<>Oferta de verão
+summer_day_shop<>Loja de Verão
+event_summer_day_shop_title<>Loja de Verão
+event_summer_day_quest_title<>Missão de Verão
+event_summer_day_quest_desc<>Complete missões para obter dados.
+event_summer_day_exchange_desc<>Colecione a Bola de Praia e troque por recompensas ilimitadas abaixo.
+summer_day_purchase_1<>Pacote de Viagem de Verão
+summer_day_purchase_2<>Pacote de Turnê de Verão
+summer_day_purchase_3<>Pacote Festa de Verão
+golden_time_summer_day_drop_info<>Colete Bolas de Praia para trocar por recompensas. O baú ocioso concederá 10 Bolas de Praia a cada 1 hora. Doze horas antes do término do evento, as Bolas de Praia deixarão de aparecer no baú ocioso.
+summer_day_dice_guide<>Colecione e role os dados - Ganhe prêmios incríveis.\nEncontre mais em Missão de Verão.
+event_blossom_day<>Festival das Cerejeiras em Flor
+drop_time_blossom_day<>13 dias desde o início do evento
+source_money_type_63<>- Flor de Cerejeira\n- Oferta do Festival\n- Loja Festiva
+golden_time_blossom_day_drop_info<>Colete Flores de Cerejeira para trocar por recompensas. O baú ocioso concederá 10 Flores de Cerejeira a cada hora. Doze horas antes do término do evento, as Flores de Cerejeira deixarão de aparecer no baú ocioso.
+blossom_day_wish_name<>Flor de Cerejeira
+blossom_day_quest<>Missão do Festival
+blossom_day_exchange_name<>Troca de flores
+event_blossom_day_specialoffer<>Oferta do Festival
+blossom_day_shop<>Loja do Festival
+event_golden_time_blossom_day_desc<>Colete flores de cerejeira no Baú Ocioso. Os itens do evento de flores de cerejeira desaparecerão após o término do evento.
+event_golden_time_blossom_day_name<>Árvore dos Desejos
+event_blossom_day_quest_desc<>Complete missões para obter Leques de Flores
+event_blossom_day_exchange_name<>Troca de flores
+event_blossom_day_exchange_desc<>Colete flores de cerejeira e troque por recompensas ilimitadas abaixo.
+event_blossom_day_shop_des<>Compre leques de flores e flores de cerejeira para jogar no evento.
+event_summer_day_shop_des<>Compre dados de verão e bolas de praia para jogar no evento.
+blossom_day_purchase_1<>Pacote de Pétalas de Flor de Cerejeira
+blossom_day_purchase_2<>Pacote de Árvore de Cerejeira
+blossom_day_purchase_3<>Pacote Floresta de Cerejeiras
+event_qixi_festival<>Dia Qixi
+drop_time_qixi_festival<>13 dias desde o início do evento
+source_money_type_87<>- Jogo Qixi\n- Oferta Festival \n- Loja Festiva
+golden_time_qixi_festival_drop_info<>Colete lenços para trocar por recompensas. O baú ocioso concederá 10 lenços a cada hora. Doze horas antes do término do evento, os lenços deixarão de aparecer no baú ocioso.
+event_qixi_festival_wish_name<>Desejando amor
+qixi_festival_quest<>Missão do Festival
+event_qixi_festival_exchange_name<>Intercâmbio de Festival
+event_qixi_festival_specialoffer<>Oferta do Festival
+qixi_festival_shop<>Loja do Festival
+event_golden_time_qixi_festival_desc<>Colete lenços no Baú Ocioso. Os itens do Festival Qixi desaparecerão após o término do evento.
+event_golden_time_qixi_festival_name<>Momento de amor
+event_qixi_festival_quest_desc<>Complete missões para obter a Flauta de Bambu.
+event_qixi_festival_exchange_desc<>Colecione lenços e troque por recompensas ilimitadas abaixo.
+event_qixi_festival_shop_des<>Compre flauta de bambu e lenços para tocar no evento.
+qixi_festival_purchase_1<>Pacote de Reunião
+qixi_festival_purchase_2<>Pacote de Encontros
+qixi_festival_purchase_3<>Pacote Sublime
+event_golden_time_may_day<>Complete missões para entrar no Clube da Pinhata.
+event_golden_time_may_day_desc<>Colete doces no Baú Ocioso. Os itens do Festival do México desaparecerão após o término do evento.
+drop_time_may_day<>13 dias desde o início do evento
+golden_time_may_day_drop_info<>Colete doces para trocar por recompensas. O baú ocioso concederá 10 doces a cada hora. Doze horas antes do término do evento, os doces deixarão de aparecer no baú ocioso.
+source_money_type_73<>- Bingo da Sorte\n- Oferta do Festival México\n- Loja do Festival México
+event_may_day<>Festival do México
+event_may_day_bingo_name<>Bingo da Sorte
+may_day_quest<>Missão do Festival do México
+event_may_day_exchange_name<>Intercâmbio do Festival do México
+event_may_day_specialoffer<>Oferta do Festival do México
+may_day_shop<>Loja do Festival do México
+event_may_day_quest_desc<>Complete missões para obter os Clubes de Pinhata.
+event_may_day_exchange_desc<>Colete doces e troque por recompensas ilimitadas abaixo.
+may_day_purchase_1<>Pacote de Nachos
+may_day_purchase_2<>Pacote de Tacos
+may_day_purchase_3<>Pacote de Burrito
+event_may_day_shop_des<>Compre tacos de pinhata e doces para jogar no evento.
+event_golden_time_may_day_name<>Momento do Festival do México
+bingo_tut_may_day<>Toque no baú para abri-lo.
+form<>Preencha o formulário
+confirm_download_asset_bundle<>Confirmar
+download_asset_bundle_noti<>Se você não baixar novos conteúdos, não poderá continuar sua jornada.\nVamos atualizar o jogo e viver aventuras ainda mais incríveis.

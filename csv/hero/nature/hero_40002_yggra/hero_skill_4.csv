@@ -1,0 +1,4 @@
+name,hp_limit,trigger_limit,stat_buff_target_position,stat_buff_target_number,stat_buff_duration,stat_buff_type_1,stat_buff_amount_1,stat_buff_type_2,stat_buff_amount_2
+Yggra_Passive3,0.99,1,10,5,1,41,0.5,1,0.15
+Yggra_Passive3,0.99,1,10,5,1,41,0.8,1,0.15
+Yggra_Passive3,0.99,1,10,5,2,41,0.8,1,0.15

@@ -1,0 +1,5 @@
+name,star,target_position,target_number,stat_1,bonus_1,calculation_type_1
+Main_Passive1,4,10,5,4,20,3
+Main_Passive1,5,10,5,4,30,3
+Main_Passive1,6,10,5,4,40,3
+Main_Passive1,7,10,5,4,50,3

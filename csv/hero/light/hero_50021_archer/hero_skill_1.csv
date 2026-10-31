@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_chance,dot_type,dot_amount,dot_duration
+Archer_Active,0.9,10,3,0.3,11,0.3,2
+Archer_Active,1.1,10,3,0.3,11,0.4,2
+Archer_Active,1.3,10,3,0.3,11,0.5,2

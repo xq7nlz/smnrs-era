@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_chance,stat_debuff_type,stat_debuff_amount,stat_debuff_duration
+Murath_Active,2.14,10,2,1,2,0.1,3
+Murath_Active,2.44,10,2,1,2,0.15,3
+Murath_Active,2.74,10,2,1,2,0.2,3

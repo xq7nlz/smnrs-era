@@ -1,0 +1,4 @@
+name,hp_limit,heal_amount,heal_duration,trigger_limit
+Thanatos_Passive2,0.2,0.1,3,1
+Thanatos_Passive2,0.2,0.2,3,1
+Thanatos_Passive2,0.2,0.3,3,1

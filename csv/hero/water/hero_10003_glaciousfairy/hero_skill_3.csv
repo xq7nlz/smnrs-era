@@ -1,0 +1,4 @@
+name,target_position,target_number,effect_chance,effect_amount,heal_mark_type,heal_mark_bonus_percent
+Sharpwater_Passive2,10,2,0.35,0.5,102,0.3
+Sharpwater_Passive2,10,2,0.45,0.8,102,0.4
+Sharpwater_Passive2,10,2,0.55,1.1,102,0.5

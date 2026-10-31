@@ -1,0 +1,566 @@
+key<>value
+feature_1<>Chiến Dịch
+feature_2<>Trận Pháp Triệu Hồi
+feature_4<>Thợ Rèn
+feature_5<>Tháp Rồng
+feature_6<>Tiệm Tạp Hóa
+feature_7<>Hội quán
+feature_8<>Cây Tiên Tri
+feature_9<>Hỏa Ngục
+feature_10<>Bang Hội
+feature_11<>Vòng Quay Định Mệnh
+feature_12<>Đấu Trường
+feature_13<>Mỏ vàng
+feature_14<>Túi
+feature_15<>Triệu hồi sư
+feature_16<>Bảng bổ trợ
+feature_17<>Bạn bè
+feature_18<>Thử Thách
+feature_20<>Tiến cấp Anh hùng
+feature_21<>Pháo Đài
+feature_22<>Liên kết
+feature_23<>Đấu Trường Trí Dũng
+feature_24<>Phân Rã
+feature_25<>Siêu Thức Tỉnh
+feature_26<>Bí cảnh
+feature_28<>Tiến hóa Trang bị
+feature_32<>Anh hùng hỗ trợ
+feature_33<>Bang hội chiến
+feature_34<>Tiến hoá 14 sao
+faction_type_1<>Thuỷ
+faction_type_2<>Hoả
+faction_type_3<>Vực Thẳm
+faction_type_4<>Tự Nhiên
+faction_type_5<>Quang
+faction_type_6<>Ám
+class_type_1<>Pháp Sư
+class_type_2<>Chiến Binh
+class_type_3<>Mục Sư
+class_type_4<>Sát Thủ
+class_type_5<>Xạ Thủ
+stat_type_1<>Tấn Công
+stat_type_2<>Phòng Thủ
+stat_type_3<>HP
+stat_type_4<>Tốc Độ
+stat_type_10<>Tỉ Lệ Chí Mạng
+stat_type_11<>S.Thương Chí Mạng
+stat_type_20<>Chính Xác
+stat_type_21<>Tránh Né
+stat_type_30<>S.Thương Chuẩn
+stat_type_31<>S.Thương Kỹ Năng
+stat_type_32<>Xuyên Giáp
+stat_type_40<>Miễn khống chế
+stat_type_41<>Giảm sát thương
+stat_type_50<>Năng lượng
+effect_type_1<>Choáng
+effect_type_2<>Đóng Băng
+effect_type_3<>Ru Ngủ
+effect_type_4<>Hóa Đá
+effect_type_10<>Nhiễm Độc
+effect_type_11<>Chảy Máu
+effect_type_12<>Thiêu Đốt
+effect_type_30<>Nguyền Rủa
+effect_type_31<>Nguyền Ấn
+effect_type_40<>Câm Lặng
+effect_type_50<>Miễn Nhiễm
+effect_type_100<>Ấn Nhược Điểm
+effect_type_101<>Ấn Thánh
+effect_type_102<>Ấn Thuỷ Thiện
+effect_type_103<>Quang Thuẫn
+effect_type_104<>Thánh Thuẫn
+effect_type_105<>Tinh Linh Ấn
+effect_type_106<>Ám Ấn
+effect_type_107<>Giáp Phản
+effect_type_108<>Trọng Ấn
+effect_type_109<>Dụ Ấn
+effect_type_110<>Độc Xà Ấn
+effect_type_111<>Hoả Thiêu Ấn
+effect_type_112<>Giáp Phép
+effect_type_113<>Nịch Thuỷ Ấn
+effect_type_114<>Huyết Ấn
+effect_type_191<>Dịch Bệnh Ấn
+effect_type_192<>Trị Thương Ấn
+effect_type_200<>Hiệu Ứng Liên Kết
+effect_type_500<>Ban Phước
+effect_type_501<>Phước Ấn
+effect_type_510<>Hồi Phục
+effect_type_511<>Kháng Hồi Phục
+effect_type_530<>Tái Sinh
+effect_type_531<>Triệu Hồi
+effect_type_600<>Phản Đòn
+effect_type_612<>Cơ Hội Cuối
+casino_type_0<>Vòng quay Nguyện ước
+casino_type_1<>Vòng quay Vận mệnh
+money_type_-1<>Ngẫu nhiên
+money_type_0<>Vàng
+money_type_1<>Ngọc
+money_type_2<>Điểm VIP
+money_type_10<>Bình kinh nghiệm
+money_type_11<>Lọ Thuốc Cổ
+money_type_20<>Đá linh hồn
+money_type_30<>Đá nguyện ước
+money_type_31<>Đá vận mệnh
+money_type_32<>Xu may mắn
+money_type_40<>Vé đấu trường
+money_type_41<>Xu đấu trường
+money_type_50<>Cuộn triệu hồi Cơ bản
+money_type_51<>Cuộn triệu hồi Cao cấp
+money_type_52<>Điểm triệu hồi
+money_type_60<>Đá tiên tri
+money_type_61<>Lá ban phước
+money_type_70<>Điểm bằng hữu
+money_type_71<>Sức bền
+money_type_80<>Bụi Ma Thuật
+money_type_85<>Vé Tháp Rồng
+money_type_90<>Cuộn nhiệm vụ Cơ bản
+money_type_91<>Cuộn nhiệm vụ Cao cấp
+money_type_100<>Điểm thông thạo
+money_type_110<>Sách cổ
+money_type_120<>Xu bang hội
+money_type_121<>Xu bang hội cao cấp
+money_type_122<>Vé Săn Boss
+money_type_123<>Vé Thám hiểm
+money_type_8<>EXP Triệu hồi sư
+artifact_type_1<>Thường
+artifact_type_2<>Hiếm
+artifact_type_3<>Bí Ẩn
+artifact_type_4<>Huyền Thoại
+artifact_type_5<>Sử Thi
+stone_rarity_1<>Thường
+stone_rarity_2<>Biến Dị
+stone_rarity_3<>Hiếm
+stone_rarity_4<>Bí Ẩn
+stone_rarity_5<>Huyền Thoại
+stone_rarity_6<>Sử Thi
+potion_type_0<>Hồng Dược
+potion_type_1<>Hoàng Dược
+potion_type_2<>Tử Dược
+game_mode_1<>Chiến Dịch
+game_mode_2<>Tháp Rồng
+game_mode_3<>Khai Khoáng
+game_mode_4<>Hỏa Ngục
+game_mode_5<>Tỉ Thí
+game_mode_6<>Đấu Trường
+game_mode_7<>Đấu trường Bang Hội
+game_mode_8<>Bang Hội Chiến
+game_mode_9<>Boss Bạn Bè
+game_mode_10<>Boss Bang Hội
+game_mode_11<>Hỏa Ngục Bang Hội
+raid_type_0<>Khai Thác Vàng
+raid_type_1<>Khai Thác Đan Dược
+raid_type_2<>Khai thác Đá Quý
+mastery_type_0<>Tấn công
+mastery_type_1<>Phòng thủ
+mastery_type_2<>Sinh mệnh
+mastery_type_3<>Chính xác
+mastery_type_4<>Né đòn
+companion_type_1<>Sử dụng 5 Anh hùng khác hệ để được tăng chỉ số
+companion_type_2<>Sử dụng 3 Anh hùng cùng hệ + 2 Anh hùng còn lại khác hệ để được tăng chỉ số
+companion_type_3<>Sử dụng 3 Anh hùng cùng hệ + 2 Anh hùng còn lại cùng hệ để được tăng chỉ số
+companion_type_4<>Sử dụng 4 Anh hùng cùng hệ để được tăng chỉ số
+companion_type_5<>Sử dụng 5 Anh hùng cùng hệ để được tăng chỉ số
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>Triệu Hồi Cơ Bản
+summon_type_1<>Triệu Hồi Cao Cấp
+summon_type_2<>Triệu Hồi Bằng Hữu
+difficult_type_1<>Bình thường
+difficult_type_2<>Khó
+difficult_type_3<>Cùng Cực
+difficult_type_4<>Ác mộng
+difficult_type_5<>Điên Cuồng
+difficult_type_6<>Hỗn Loạn
+difficult_type_7<>Vũ Trụ
+difficult_type_8<>Chúa Trời
+equip_rarity_1<>Thường
+equip_rarity_2<>Cao Cấp
+equip_rarity_3<>Hiếm
+equip_rarity_4<>Bí ẩn
+equip_rarity_5<>Huyền Thoại
+equip_rarity_6<>Sử Thi
+resource_type_1<>Anh hùng
+resource_type_2<>Tiền tệ
+resource_type_3<>Trang bị
+resource_type_4<>Cổ vật
+resource_type_5<>Dị thạch
+resource_type_6<>Mảnh cổ vật
+resource_type_7<>Mảnh Anh hùng
+resource_type_12<>Khung
+resource_type_13<>Nguyên liệu tiến hóa A.hùng
+resource_type_2_12<>Tài nguyên
+resource_type_2_40<>Tài nguyên
+resource_type_2_71<>Tài nguyên
+resource_type_2_85<>Tài nguyên
+resource_type_2_122<>Tài nguyên
+resource_type_2_123<>Tài nguyên
+resource_type_17<>Vé tốc chiến
+linking_1<>Mối tình Vĩnh cửu
+linking_2<>Liên minh Công lý
+linking_3<>Nữ nhân Hải tặc
+linking_4<>Lời nhắc Tử vong
+linking_5<>Tâm trí Biến đổi
+linking_6<>Sinh mệnh Vĩnh hằng
+linking_7<>Lưỡi đao Thiện chiến
+linking_8<>Kim cương
+linking_9<>Quyền năng Băng giá
+linking_10<>Lời Nguyền Hắc Ám
+linking_11<>Những Kẻ Nhặt Hồn
+linking_12<>Nguyệt Đao và Hắc Thương
+linking_13<>Vệ thần Rừng thiêng
+linking_14<>Thiên Đường Ban Phước
+linking_15<>Hầu cận Hỏa Thần
+linking_16<>Ma thuật đen
+linking_17<>Sử ký đại dương
+ally_target_position_1<>bản thân
+ally_target_position_10_5<>tất cả đồng minh
+ally_target_position_10<>{0} đồng minh ngẫu nhiên
+ally_target_position_11_5<>tất cả đồng minh
+ally_target_position_11<>{0} đồng minh
+ally_target_position_20_4<>tất cả đồng minh hàng trước
+ally_target_position_20<>{0} đồng minh ngẫu nhiên hàng trước
+ally_target_position_21_4<>tất cả đồng minh hàng sau
+ally_target_position_21<>{0} đồng minh ngẫu nhiên hàng sau
+ally_target_position_30<>{0} đồng minh thấp máu nhất
+ally_target_position_31<>{0} đồng minh có tấn công cao nhất
+ally_target_position_32<>{0} đồng minh có giáp thấp nhất
+ally_target_position_33<>{0} đồng minh có %HP cao nhất
+ally_target_position_34<>{0} đồng minh có giáp cao nhất
+ally_target_position_35<>{0} đồng minh nhiều máu nhất
+ally_target_position_36<>{0} đồng minh có %HP thấp nhất
+ally_target_position_41<>{0} đồng minh cùng hàng
+ally_target_position_41_4<>tất cả đồng minh cùng hàng
+ally_target_position_45<>{0} đồng minh không cùng hàng
+ally_target_position_45_4<>tất cả đồng minh không cùng hàng
+ally_target_position_51<>{0} đồng minh đang dính hiệu ứng
+enemy_target_position_10_5<>tất cả kẻ địch
+enemy_target_position_10<>{0} kẻ địch ngẫu nhiên
+enemy_target_position_11_5<>tất cả kẻ địch
+enemy_target_position_11<>{0} kẻ địch
+enemy_target_position_20_4<>tất cả kẻ địch hàng trước
+enemy_target_position_20<>{0} kẻ địch ngẫu nhiên hàng trước
+enemy_target_position_21_4<>tất cả kẻ địch hàng sau
+enemy_target_position_21<>{0} kẻ địch ngẫu nhiên hàng sau
+enemy_target_position_30<>{0} kẻ địch thấp máu nhất
+enemy_target_position_31<>{0} kẻ địch có tấn công cao nhất
+enemy_target_position_32<>{0} kẻ địch có giáp thấp nhất
+enemy_target_position_33<>{0} kẻ địch có %HP cao nhất
+enemy_target_position_34<>{0} kẻ địch có giáp cao nhất
+enemy_target_position_35<>{0} kẻ địch nhiều máu nhất
+enemy_target_position_36<>{0} kẻ địch có %HP thấp nhất
+enemy_target_position_41<>{0} kẻ địch cùng hàng
+enemy_target_position_45<>{0} kẻ địch Không cùng hàng
+enemy_target_position_51<>{0} kẻ địch ngẫu nhiên
+enemy_target_position_62<>kẻ địch ở ô lớn nhất trong đội hình
+money_type_140<>Mảnh hồn Đại Thần
+money_type_141<>Mảnh hồn Khổng lồ
+money_type_142<>Mảnh hồn anh hùng
+money_type_130<>Chiến tích vàng
+money_type_131<>Chiến tích bạc
+money_type_135<>Huy hiệu Zitga
+resource_type_8<>EXP Triệu Hồi Sư
+guild_war_register_notification<>Sơ đồ bố trí thủ tháp đã được thay đổi.
+damage_1<>Sát Thương 
+damage_1_2<>Gây sát thương cho {2}
+damage_1_3<>Sát thương đối với {2}
+damage_1_4<>Sát thương đối với {2}
+damage_1_2_3<>Sát thương cho {2} khi có {3}
+damage_1_2_4<>Sát thương cho {2} khi có {3}
+damage_1_2_3_4<>Sát thương cho {2} khi có {3} và {4}
+damage_1_2_3_4_or<>Sát thương cho {2} khi có {3} hoặc {4}
+money_type_150<>EXP shop đấu trường
+money_type_151<>EXP shop Guild
+money_type_152<>EXP chợ đen
+summon_type_6<>Tỉ lệ tăng
+money_type_190<>Điểm Chiến ký đấu trường
+money_type_191<>Điểm Nhật kí nhiệm vụ
+resource_type_14<>Trang phục
+money_type_180<>Đèn lồng
+money_type_181<>Bánh trung thu
+resource_type_11<>Avatar
+money_type_75<>Chìa khóa vàng
+money_type_76<>Chìa khóa thủy tinh
+money_type_77<>Chìa khóa thử thách
+money_type_210<>Xúc xắc
+money_type_211<>Bí ngô
+money_type_170<>Sao tiến cấp
+land_1<>Vịnh Marianna
+land_2<>Lục Địa Hồng Hoả
+land_3<>Sa Mạc Chết
+land_4<>Rừng Hoang Mộc
+land_5<>Thung Lũng Thái Dương
+land_6<>Đỉnh Evermist
+land_7<>Vùng Đất Mộng Mơ
+land_8<>Hỗn Vực
+land_9<>Thế Giới Linh Hồn
+land_10<>Thư Viện Thời Gian
+restrict_type_1<>Chỉ dành cho các anh hùng hệ Thuỷ
+restrict_type_2<>Chỉ dành cho các anh hùng hệ Hoả
+restrict_type_3<>Chỉ dành cho các anh hùng hệ Vực Thẳm
+restrict_type_4<>Chỉ dành cho các anh hùng hệ Tự Nhiên
+restrict_type_5<>Chỉ dành cho các anh hùng hệ Quang
+restrict_type_6<>Chỉ dành cho các anh hùng hệ Ám
+restrict_type_7<>Triệu Hồi Sư không được sử dụng
+restrict_type_8<>Không có quy tắc! Hãy chiến đấu hết mình.
+restrict_type_9<>Chỉ số trong Bảng bổ trợ vô hiệu tại vùng đất này.
+restrict_type_10<>Chỉ số từ Trang Bị, Dị thạch, Cổ vật, Trang Phục, Thiên Phú vô hiệu tại vùng đất này.
+money_type_200_unused<>Thuỷ Thính
+money_type_201<>Ngọc Rực Lửa
+money_type_202<>Ngọc Linh Hồn
+money_type_203<>Ngọc Thiên Nhiên
+money_type_204<>Ngọc Khai Sáng
+money_type_205<>Ngọc Hắc Ám
+money_type_206<>Ấn Ánh Dương
+money_type_207<>Ấn Dạ Nguyệt
+money_type_208<>Bào Thính
+money_type_209<>Thời Thính
+money_type_220<>Kẹo que
+money_type_221<>Nến Giáng Sinh
+money_type_222<>Nến Tỏa Sáng
+money_type_230<>Vé Năm Mới
+linking_18<>Hắc hoả cuồng bạo
+linking_19<>Qủy sống
+money_type_240<>Hồng Xúc Xắc
+money_type_241<>Bùa bình an
+money_type_242<>Pháo
+money_type_245<>Giấy Đỏ
+money_type_244<>Cuộn thượng cấp
+money_type_243<>Bao Lì Xì
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>Sô-cô-la
+money_type_251<>Ái tiễn
+ally_target_position_52<>Anh hùng đồng minh thuộc tộc {0}
+enemy_target_position_52<>Anh hùng kẻ địch thuộc tộc {0}
+ally_target_position_61<>Anh hùng đồng minh ở vị trí {0}
+enemy_target_position_61<>Anh hùng kẻ địch ở vị trí {0}
+money_type_45<>Phù hiệu Gan dạ
+money_type_165<>Hoa hồng
+game_mode_14<>Đấu Trường Trí Dũng
+money_type_46<>Ấn Thiết Bảo
+money_type_154<>EXP Trí dũng
+summon_type_7<>Triệu hồi Truyền thuyết
+money_type_136<>Điểm Đoàn Kết
+money_type_12<>Sách Thức Tỉnh
+money_type_25<>Thánh Thuỷ
+money_type_231<>Điểm phục sinh
+money_type_232<>Xúc xắc ma thuật
+money_type_233<>Siêu xúc sắc
+money_type_234<>Búa Gỗ
+money_type_235<>Trứng Bạc
+money_type_236<>Trứng Vàng
+money_type_237<>Trứng Bảy Màu
+money_type_238<>Búa Vàng
+money_type_239<>Búa Bảy Màu
+money_type_166<>Thiên Tinh Cầu
+companion_type_remake_1<>Sử dụng 5 Anh hùng khác hệ để được tăng chỉ số
+companion_type_remake_2<>Sử dụng 2 cặp anh hùng cùng hệ + Anh hùng còn lại khác 2 hệ đã có để được tăng chỉ số.
+companion_type_remake_3<>Sử dụng 3 Anh hùng cùng hệ + 2 Anh hùng còn lại khác hệ để được tăng chỉ số
+companion_type_remake_4<>Sử dụng 3 Anh hùng cùng hệ + 2 Anh hùng còn lại cùng hệ để được tăng chỉ số
+companion_type_remake_5<>Sử dụng 4 Anh hùng cùng hệ để được tăng chỉ số
+companion_type_remake_6<>Sử dụng 5 Anh hùng cùng hệ để được tăng chỉ số
+money_type_167<>Nguyệt Đao Enule
+money_type_225<>Chìa Khoá Thần Kì
+money_type_168<>La Bàn
+resource_type_20<>Thiên phú
+talent_1000101<>Quyền năng gấp bội
+talent_1000201<>Tiến hóa sức mạnh 
+talent_1000301<>Khiên Thánh
+talent_1000401<>Sinh lực dồi dào
+talent_1000501<>Huyết lực
+talent_1000601<>Tốc độ thần sầu
+talent_1000701<>Nhất tiễn xuyên tâm
+talent_1000801<>Sát thương bùng nổ
+talent_1000901<>Không thể tránh né
+talent_1001001<>Thân thủ phi phàm
+talent_1001101<>Thuần khiết
+talent_1001201<>Toàn lực toàn khai
+talent_1001301<>Đánh cắp linh hồn
+talent_1001401<>Tiến tới vô hiệu
+talent_1001501<>Lá chắn phòng hộ
+talent_2000101<>Bảo hộ toàn vẹn
+talent_2000201<>Bùng nổ
+talent_2000301<>Cái chết đột ngột
+talent_2000401<>Từ chối tử thần
+talent_2000501<>Sát thương nhân bội
+talent_2000601<>Ám ảnh chí mạng
+talent_2000701<>Miễn trừ câm lặng
+talent_2000801<>Giảm trừ chí mạng
+talent_2000901<>Giảm thiểu năng lượng
+talent_2001001<>Gia tăng năng lượng
+money_type_115<>Rương Thường
+money_type_116<>Rương Hiếm
+money_type_117<>Rương bảo
+money_type_118<>Rương kỳ bí
+money_type_119<>Rương hoàng kim
+money_type_113<>Xu kỳ bí
+avatar_121<>Thần giữ ngọc may mắn
+avatar_frame_101<>Khung Sắt
+avatar_frame_102<>Khung Đồng
+avatar_frame_103<>Khung Bạc 
+avatar_frame_104<>Khung Vàng
+avatar_frame_105<>Khung Bạch Kim
+avatar_frame_106<>Khung Kim Cương 
+avatar_frame_107<>Khung Đại Tướng
+avatar_frame_108<>Khung Kiện Tướng
+avatar_frame_109<>Bá Vương Độc Tôn
+avatar_109<>Mãnh Lân Uy Dũng
+avatar_108<>Hồng Lân Tinh Quái
+avatar_107<>Tiểu Lân Ngây Thơ
+avatar_frame_110<>Khung viền Trung Thu
+money_type_195<>Điểm kinh nghiệm BP
+avatar_110<>Huyết Lân Thiên Tộc
+money_type_15<>Đá Ma Tinh
+equip_rarity_7<>Siêu cấp
+talent_1001601<>Thần chú Lôi minh
+stat_type_33<>Trừ giảm sát thương
+avatar_frame_111<>Ma Quái 
+avatar_111<>Bí Ngô Nổi Loạn
+avatar_122<>Sức mạnh huyền thoại
+avatar_123<>Chiến lược gia huyền thoại
+avatar_frame_122<>Khung huyền thoại
+money_type_35<>Rương Đấu Trường I
+money_type_36<>Rương Đấu Trường II
+money_type_37<>Rương Đấu Trường III
+resource_type_24<>Hiệu ứng đặc biệt
+avatar_112<>Giáng sinh
+avatar_frame_112<>Giáng sinh
+money_type_248<>Xu may mắn
+avatar_113<>Tết nguyên đán
+avatar_frame_113<>Tết nguyên đán
+money_type_182<>Đèn lồng thắp sáng
+money_type_249<>Điểm tài lộc
+avatar_114<>Valentine
+avatar_frame_114<>Valentine
+avatar_frame_123<>Minh chứng Samurai
+avatar_124<>Hộ vệ pháo đài
+avatar_125<>Dọn dẹp pháo đài
+avatar_frame_124<>Không chùn bước
+avatar_frame_125<>Bất khả chiến bại
+avatar_frame_126<>Lãng khách
+avatar_frame_127<>Kẻ chinh phục
+linking_21<>Quốc chủ thần uy
+money_type_65<>Vé đánh boss
+linking_20<>Trảm thiên địa
+avatar_126<>Samurai vĩ đại
+avatar_127<>Trứng hạnh phúc
+avatar_frame_128<>Happy Easter
+money_type_252<>Mảnh ghép
+money_type_66<>Vé đánh boss
+money_type_226<>Điểm đối đầu
+money_type_22<>Rương anh hùng hệ Thuỷ/Hoả/Vực thẳm/Tự nhiên
+money_type_23<>Rương anh hùng hệ Quang/Ám
+avatar_129<>Sinh nhật 2 tuổi
+avatar_frame_129<>Sinh nhật 2 tuổi
+linking_22<>Mối thù truyền kiếp
+money_type_227<>Điểm Pass di sản
+item_option_5_1_3<>Giảm sát thương nhận vào {2}
+item_option_5_1_4<>Giảm sát thương nhận vào {2}
+money_type_26<>Rương cổ vật hệ Quang, Ám
+money_type_27<>Rương cổ vật hệ Thuỷ/Hoả/Vực thẳm/Tự nhiên
+money_type_175<>Bảo ngọc tinh tú
+money_type_176<>Tinh cầu lấp lánh
+money_type_215<>Huy hiệu trang phục
+avatar_130<>Trung thu 2022
+avatar_131<>Trung thu 2022
+avatar_132<>Trung thu 2022
+linking_23<>Quái vật trỗi dậy
+money_type_196<>Điểm trang phục
+money_type_95<>Lõi thiên phú
+avatar_133<>Halloween 2022
+avatar_frame_131<>Halloween 2022
+money_type_200<>Ngọc Đại Dương
+linking_24<>Long Tộc
+avatar_134<>Giáng sinh 2022
+avatar_frame_134<>Giáng sinh 2022
+avatar_135<>Tết nguyên đán 2023
+avatar_frame_135<>Tết nguyên đán 2023
+money_type_253<>Búa của Eitri
+money_type_254<>Xu của Eitri
+hero_detail_1<>Đỡ đòn
+hero_detail_2<>Cường hóa
+hero_detail_3<>Sát thủ
+hero_detail_4<>Phản sát thương
+hero_detail_5<>Sát thương diện rộng
+hero_detail_6<>Khống chế
+hero_detail_7<>Xạ thủ
+hero_detail_8<>Dồn sát thương
+hero_detail_9<>Hồi máu
+hero_detail_10<>Kết Liễu
+hero_detail_11<>Hỗ trợ
+hero_detail_12<>Pháp Sư
+hero_detail_13<>Hồi Sinh
+hero_detail_14<>Đấu sĩ
+hero_detail_15<>Sát thương theo thời gian
+hero_detail_16<>Hóa Hình
+hero_detail_17<>Giải hiệu ứng
+hero_detail_18<>Hiệu ứng có hại
+hero_detail_19<>Câm lặng
+hero_detail_20<>Phản đòn
+money_type_223<>Đồng xu mùa hè
+money_type_224<>Nguyên liệu pha chế
+money_type_125<>Hộp quà mùa hè
+money_type_126<>Bóng nước màu đỏ
+money_type_127<>Bóng nước xanh dương
+money_type_128<>Bóng nước xanh lá
+money_type_129<>Bóng nước xám
+money_type_216<>Mojito
+month_january<>Tháng 1
+month_february<>Tháng 2
+month_march<>Tháng 3
+month_april<>Tháng 4
+month_may<>Tháng 5
+month_june<>Tháng 6
+month_july<>Tháng 7
+month_august<>Tháng 8
+month_september<>Tháng 9
+month_october<>Tháng 10
+month_november<>Tháng 11
+month_december<>Tháng 12
+avatar_136<>Sinh nhật 3 tuổi
+avatar_frame_136<>Sinh nhật 3 tuổi
+hero_desc_20001<>Phượng hoàng tái thế
+hero_desc_20002<>Hỏa ngục vĩnh hằng
+hero_desc_10004<>Trái tim biển cả
+hero_desc_10011<>Hung thần đại dương
+hero_desc_30027<>Samurai uy dũng
+hero_desc_30003<>Tiếng gọi địa ngục
+hero_desc_40008<>Hoàng tử rừng xanh
+hero_desc_40027<>Công chúa Long tộc
+hero_desc_50003<>Phục sinh Thánh quang
+hero_desc_50007<>Đại Thiên sứ
+hero_desc_50004<>Hoàng tử vô danh
+hero_desc_50006<>Nguyệt đao công chúa
+hero_desc_60003<>Nhất đao đoạt mệnh
+hero_desc_60004<>Thế thần Anubis
+hero_desc_60005<>Thiên thần sa ngã
+hero_desc_60006<>Nữ kiếm sĩ quyến rũ
+linking_25<>Ánh sáng thần thánh
+money_type_137<>Xu thách đấu
+avatar_137<>Trung thu 2023
+avatar_138<>Trung thu 2023
+avatar_139<>Trung thu 2023
+money_type_255<>Xu vô cực
+money_type_186<>Chìa khóa
+money_type_185<>Mảnh kho báu
+money_type_101<>Xúc xắc
+money_type_102<>Bí Ngô
+money_type_43<>Xu chiến đội
+avatar_115<>Enule Hộ Vệ Băng Giá
+feature_35<>Tái chế
+money_type_229<>Thiệp Năm Mới
+money_type_78<>Xu Phát Tài
+money_type_79<>Ngọc Ấn
+money_type_217<>Xúc xắc
+money_type_218<>Trứng Phục Sinh
+money_type_81<>Xúc xắc
+money_type_82<>Bóng Hơi
+money_type_62<>Quạt Hoa
+money_type_63<>Hoa Anh Đào
+money_type_86<>Sáo Trúc
+money_type_87<>Khăn Tay
+money_type_72<>Gậy Pinata
+money_type_73<>Kẹo Pinata
+avatar_140<>Sinh nhật 4 tuổi
+avatar_frame_137<>Sinh nhật 4 tuổi

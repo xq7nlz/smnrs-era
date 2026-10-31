@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>Récompense VIP
+vip_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir atteint VIP {1}.
+friend_boss_last_hit_reward_subject<>Récompense de le patron d'Ami
+friend_boss_last_hit_reward_content<>Félicitations! Vous avez reçu la récompense pour le dernier coup sur le patron d'Ami
+friend_boss_cleared_reward_subject<>Récompense de le patron d'Ami
+friend_boss_cleared_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir vaincu le patron d'Ami.
+friend_season_ranking_reward_subject<>Récompense de classement amical
+friend_season_ranking_reward_content<>Félicitations! Vous avez reçu la récompense du classement amical de la saison {1}.
+arena_season_ranking_reward_subject<>Récompense de classement de la saison l'arène
+arena_season_ranking_reward_content<>Félicitations! Vous avez reçu la récompense du classement de la saison {1} à l'arène.
+arena_team_season_ranking_reward_subject<>Récompense de classement de la saison Arène Martiale 
+arena_team_season_ranking_reward_content<>Félicitations! Vous avez reçu la récompense du classement de la saison {1} à Arène Martiale .
+guild_boss_daily_reward_subject<>Récompense quotidienne de Patron de Guilde
+guild_boss_daily_reward_content<>Félicitations! Vous avez reçu la récompense pour le défi de Patron de guilde
+guild_boss_monthly_reward_subject<>Récompense mensuelle de Patron de Guilde
+guild_boss_monthly_reward_content<>Félicitations! Vous avez reçu la récompense mensuelle pour le défi de Patron de guilde
+guild_dungeon_cleared_reward_subject<>Récompense de le cachot de la Guilde
+guild_dungeon_cleared_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir terminé {2} phase {1}.
+guild_dungeon_season_reward_subject<>Récompense de classement de saison le cachot de la Guilde.
+guild_dungeon_season_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir terminé le cachot de la Guilde saison {1}.
+guild_war_battle_reward_subject<>Récompense de Guerre de Guilde
+guild_war_battle_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir terminé la bataille {2} de la saison {1} dans la Guerre de Guilde
+guild_war_season_reward_subject<>Récompense saisonière de la Guerre de Guilde
+guild_war_season_reward_content<>Félicitations! Vous avez reçu la récompense pour avoir terminé la saison {1} dans la Guerre de Guilde
+purchase_raw_pack_subject<>Récompense de pack
+purchase_raw_pack_content<>Félicitations! Vous avez reçu la récompense pour l'achat du pack {1}.\nID de transaction : {2}\nDate de transaction : {3}
+purchase_subscription_pack_instant_subject<>Récompense d'abonnement
+purchase_subscription_pack_instant_content<>Félicitations! Vous avez reçu la récompense pour l'achat du pack d'abonnement {1}.\nID de transaction : {2}\nDate de transaction : {3}
+purchase_subscription_pack_daily_subject<>Récompense quotidienne du pack d'abonnement
+purchase_subscription_pack_daily_content<>Félicitations! Vous avez reçu la récompense quotidienne du pack d'abonnement {1}.\nJour : {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>Récompense du pack limité
+purchase_limited_pack_content<>Félicitations! Vous avez reçu la récompense pour l'achat du pack {1}.\nID de transaction : {2}\nDate de transaction : {3}
+purchase_event_bundle_pack_subject<>Récompense du pack événementiel
+purchase_event_bundle_pack_content<>Félicitations! Vous avez reçu la récompense pour l'achat du pack événementiel {1}.\nID de transaction : {2}\nDate de transaction : {3}
+purchase_event_hot_deal_subject<>Récompense du pack événementiel
+purchase_event_hot_deal_content<>Félicitations! Vous avez reçu la récompense pour l'achat du pack événementiel {1}.\nID de transaction : {2}\nDate de transaction : {3}
+purchase_subscription_pack_trial_subject<>Récompense quotidienne du pack d'abonnement d'essai
+purchase_subscription_pack_trial_content<>Félicitations! Vous avez reçu la récompense quotidienne du pack d'abonnement d'essai {1}.\nJour : {2}
+purchase_first_time_reward_subject<>Récompense pour le premier achat
+purchase_first_time_reward_content<>Félicitations! Vous avez reçu la récompense pour le premier achat dans le jeu
+event_arena_subject<>Événement l'arène
+event_arena_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement l'arène.
+event_casino_subject<>Événement la Roue du Sort
+event_casino_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement la Roue du Sort.
+event_hero_collect_subject<>Événement de collecte de héros
+event_hero_collect_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement de collecte de héros.
+event_prophet_tree_subject<>Événement d'Arbre ancien
+event_prophet_tree_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement l'Arbre ancien.
+event_summon_subject<>Événement d'Invocation
+event_summon_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement d'Invocation
+event_tavern_subject<>Événement la taverne
+event_tavern_content<>Félicitations! Vous avez reçu la récompense de la saison {1} dans l'événement la taverne
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>Changer le mot de passe de l'email Summoner Era
+email_change_password_content<>Nom d'utilisateur : {2}. Code de réinitialisation du mot de passe {1}, Expiré : {3}
+email_validation_subject<>E-mail de validation pour Summoner Era
+email_validation_content<>Code de validation {1}, Expiré : {3}
+email_sender_name<>Zitga Support
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Récompense de la carte Black Friday
+event_black_friday_content<>Toutes nos félicitations! Vous avez reçu des récompenses quotidiennes de la Black Friday Card {1}.\nJour {2}\n
+event_new_year_subject<>Récompense carte de bénédiction
+event_new_year_content<>Toutes nos félicitations! Vous avez reçu des récompenses quotidiennes de Blessing Card.
+event_lunar_new_year_clear_boss_reward_subject<>Nouvel An lunaire Expulser diable Récompense
+event_lunar_new_year_clear_boss_reward_content<>Félicitations! Vous avez reçu ces récompenses grâce à l'activité Expulser Diable.
+event_new_hero_summon_subject<>Invocation légendaire  Récompense 
+event_new_hero_summon_content<>Félicitations! Vous avez reçu ces récompenses grâce à l'activité Invocation légendaire  
+maintenance_inform_title<>ANNONCE DE MAINTENANCE DU SERVEUR
+maintenance_inform_title_content<>Chers invocateurs,\nLe Conseil souhaite annoncer que le serveur sera en maintenance le {1}. Vous ne pourrez pas vous connecter pendant ce temps.\nVeuillez noter que le jeu ne pourra pas jouer pendant la période de maintenance. 
+maintence_reward_title<>MAINTENANCE TERMINEE 
+maintence_reward_content<>Chers invocateurs,\nLa maintenance est terminée. Nous aimerions vous envoyer ce cadeau en guise de remerciement pour votre patience pendant la maintenance.\nContinuez à profiter et à conquérir! 
+event_easter_card_subject<>Carte de lapin Récompense 
+event_easter_card_content<>Toutes nos félicitations! Vous avez reçu des récompenses quotidiennes de Carte de lapin.\nJour: %s
+event_easter_egg_hunt_subject<>Collection d'oeufs de Pâques  Récompense 
+event_easter_egg_hunt_content<>Ces récompenses vous sont envoyées pour votre performance dans l'activité événementielle. 
+event_new_hero_boss_ranking_subject<>Trophée d'honneur de récompense
+event_new_hero_boss_ranking_content<>Toutes nos félicitations! Vous avez reçu ces récompenses pour avoir atteint le top{1} au Power Contest.
+domain_challenge_reward_subject<>Domaine Récompenses
+domain_challenge_reward_content<>Toutes nos félicitations! Vous avez reçu ces récompenses pour avoir réussi {1} à l'étape Domaine
+event_new_hero_release_subject<>Invocation légendaire  Récompense 
+event_new_hero_release_content<>Félicitations! Vous avez reçu ces récompenses grâce à l'activité Invocation légendaire  
+purchase_event_hero_release_subject<>Transaction Réussie
+purchase_event_hero_release_content<>Vous recevez ces objets en achetant des packages pendant la nouvelle période d'événement de héros. Merci de toujours nous soutenir.
+premium_reward_subject<>Récompense de la version Premium
+premium_reward_content<>Vous recevez ces articles pour l'achat de la version premium de notre jeu. Merci de toujours nous soutenir.
+event_server_open_arena_subject<>l'Arène Meilleure récompense du classement
+event_server_open_arena_content<>Félicitations ! Vous avez reçu ces récompenses de l'événement de course de classement l'Arène !
+event_server_open_arena_2_subject<>Arène Martiale  Meilleure récompense du classement
+event_server_open_arena_2_content<>Félicitations ! Vous avez reçu ces récompenses de l'événement de course de classement Arène Martiale  !
+event_unclaimed_reward<>Voici votre récompense non réclamée.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Récompenses sur les événements de guerre destinsés
+event_birthday_dark_light_content<>Félicitations! Vous avez reçu ces récompenses de l'activité des événements de la guerre de Destiny.\n- côté de la lumière: {1} points\n- Dark's Side: {2} Points
+event_birthday_summon_subject<>Événement d'anniversaire de récompense
+event_birthday_summon_content<>Félicitations! Vous avez reçu ces récompenses pour avoir participé à une mission hebdomadaire.
+event_birthday_prophet_tree_subject<>Événement d'anniversaire de récompense
+event_birthday_prophet_tree_content<>Félicitations! Vous avez reçu ces récompenses pour avoir participé à une mission hebdomadaire.
+event_birthday_arena_subject<>Événement d'anniversaire de récompense
+event_birthday_arena_content<>Félicitations! Vous avez reçu ces récompenses pour avoir participé à une mission hebdomadaire.
+event_birthday_casino_subject<>Événement d'anniversaire de récompense
+event_birthday_casino_content<>Félicitations! Vous avez reçu ces récompenses pour avoir participé à une mission hebdomadaire.
+event_zodiac_exchange_subject<>Événement zodiaque met la fin du courrier
+event_zodiac_exchange_content<>Chers invocateurs,\nL'événement Zodiac est terminé. Étoile astrale a été converti en ces ressources. Merci d'avoir participé à l'événement et j'espère que vous passerez un bon moment à jouer.
+purchase_subscription_pack_daily_bonus_subject<>Récompenses de bonus quotidien VIP
+purchase_subscription_pack_daily_bonus_content<>Félicitations! Vous avez reçu ces récompenses en tant que prestation de bonus VIP de la carte mensuelle.
+event_thanks_giving_subject<>Événement Thanksgiving
+event_thanks_giving_content<>Félicitations! Vous avez terminé un tour dans le jeu de dés. Réclamez ces récompenses maintenant!
+event_christmas_subject<>Événement Noël
+event_christmas_content<>Toutes nos félicitations!
+event_boss_challenge_ranking_subject<>Récompenses de classement de Boss Challenge
+event_boss_challenge_ranking_content<>Félicitations! Vous avez reçu ces récompenses de l'activité Boss Challenge.
+event_valentine_subject<>Événement Valentine
+event_valentine_content<>Toutes nos félicitations!
+event_lunar_new_year_subject<>Événement Nouvel An lunaire
+event_lunar_new_year_content<>Toutes nos félicitations!
+event_summer_day_subject<>Vériétes d'été de l'événement
+event_summer_day_content<>Toutes nos félicitations!
+event_blossom_day_subject<>Événement Cherry Blossom
+event_blossom_day_content<>Toutes nos félicitations!
+event_qixi_festival_subject<>Festival de qixi de l'événement
+event_qixi_festival_content<>Toutes nos félicitations!
+event_may_day_subject<>Événement Festival du Mexique
+event_may_day_content<>Toutes nos félicitations!

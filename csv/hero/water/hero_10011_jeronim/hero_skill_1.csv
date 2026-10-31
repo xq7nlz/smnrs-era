@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,multi_damage_chance,multi_damage_value
+Jeronim_Active,1.81,21,2,0.3,2
+Jeronim_Active,2.01,21,2,0.35,2
+Jeronim_Active,2.21,21,2,0.4,2

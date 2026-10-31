@@ -1,0 +1,21 @@
+key<>value
+1_1_2<> + {1} {2}
+1_1_2_4<> + {1} {2} ({3})
+1_1_2_5<> + {1} {2} ({3})
+1_1_2_4_5<> + {1} {2} ({3}) and ({4})
+1_1_2_4_5_or<> + {1} {2} ({3}) or ({4})
+1_1_2_power<> + {1} {2} When Start Battle
+1_1_2_4_power<> + {1} {2} ({3}) When Start Battle
+1_1_2_5_power<> + {1} {2} ({3}) When Start Battle
+1_1_2_4_5_power<> + {1} {2} ({3}) and ({4}) When Start Battle
+1_1_2_4_5_power_or<> + {1} {2} ({3}) or ({4}) When Start Battle
+2_1<> + {1} Damage
+2_1_2<> + {1} Damage for {2}
+2_1_3<> + {1} Damage Against {2}
+2_1_4<> + {1} Damage Against {2}
+2_1_2_3<> + {1} Damage for {2} When Against {3}
+2_1_2_4<> + {1} Damage for {2} When Against {3}
+2_1_2_3_4<> + {1} Damage for {2} When Against {3} and {4}
+2_1_2_3_4_or<> + {1} Damage for {2} When Against {3} or {4}
+5_1_3<>+ Reduce {1} damage dealt by hero class {2} 
+5_1_4<>+ Reduce {1} damage dealt by hero faction {2} 

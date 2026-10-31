@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,dot_chance,dot_type,dot_amount,dot_duration
+Cain_Active,0.9,10,2,0.5,12,0.15,2
+Cain_Active,1.1,10,2,0.5,12,0.15,2
+Cain_Active,1.3,10,2,0.5,12,0.15,2

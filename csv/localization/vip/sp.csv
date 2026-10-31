@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>%s de puntos VIP son necesarios para lograr
+vip_instant<>Alcanza este nivel VIP para recolectar:
+vip_daily<>Recompensas diarias adicionales por la Tarjeta del Comandante y la Tarjeta del Profeta:
+vip_point_required<>Se requieren puntos VIP
+campaign_bonus_idle_time_max<>Tiempo de confianza: %s
+campaign_bonus_gold<>El oro confiado aumenta: %s
+campaign_bonus_magic_potion<>El florero de experiencia confiado aumenta: %s
+campaign_bonus_auto_train_slot<>Número de lugares para entrenar Héroes: %s
+tavern_bonus_quest<>Número limitado de misiones de la taberna: %s
+raid_bonus_turn_buy<>Número de compra de turnos adicionales en la Redada:%s
+casino_unlock_multiple_spin<>Desbloquear la función de girar varias veces en la Rueda de los Deseos
+casino_unlock_premium_spin<>Desbloquear la función de la Rueda del Destino inmediatamente
+casino_bonus_turn_buy_basic_chip<>Número de veces que se compra la Piedra de los Deseos: %s
+battle_unlock_speed_up<>Desbloquear inmediatamente la función de Lucha Rápida
+battle_unlock_skip<>Desbloquear inmediatamente la función de Omitir el batalla
+hand_of_midas_bonus_gold<>Oro en la Mina de Oro: %s
+summon_unlock_accumulate<>Desbloquear inmediatamente la Convocatoria de Energía en la Convocatoria Experta
+arena_bonus_ticket_buy<>Número de compras de Boleto de Arena: %s
+campaign_bonus_quick_battle_buy_turn<>Comprar más tiempos de avance rápido: %s
+current_vip<>Nivel VIP actual
+campaign_bonus_exp_summoner<>Bonificación de %s EXP de invocador de Campaña
+dungeon_challenge_increased<>Aumentar la recompensa de etapa en Infierno en un %s
+allow_skip_ads<>Desbloquear Saltar anuncios
+allow_prophet_tree_use_gem<>Desbloquear invocación por Joya en Árbol Profética
+battle_unlock_skip_arena<>Desbloquea Saltar batalla en Arena
+auto_next_battle<>Desbloquear la función Auto Next Stage

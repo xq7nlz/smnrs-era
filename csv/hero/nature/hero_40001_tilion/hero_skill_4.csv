@@ -1,0 +1,4 @@
+name,hp_limit,trigger_limit,trigger_chance,effect_target_position,effect_target_number,effect_type,effect_duration,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Tilion_Passive3,0.4,1,1,10,3,3,2,1,1,1,3,0.2
+Tilion_Passive3,0.4,1,1,10,3,3,2,1,1,1,3,0.3
+Tilion_Passive3,0.4,1,1,10,3,3,2,1,1,1,3,0.4

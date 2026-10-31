@@ -1,0 +1,4 @@
+name,target_position,target_number,effect_type,effect_chance,effect_amount
+Karos_Passive3,10,5,600,0.4,1
+Karos_Passive3,10,5,600,0.5,1
+Karos_Passive3,10,5,600,0.6,1

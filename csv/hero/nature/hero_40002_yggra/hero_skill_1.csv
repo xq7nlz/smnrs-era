@@ -1,0 +1,4 @@
+name,damage,enemy_target_position,enemy_target_number,stat_debuff_type,stat_debuff_amount,stat_debuff_duration,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_amount,stat_buff_duration
+Yggra_Active,0.8,10,5,1,0.1,3,10,5,1,0.1,3
+Yggra_Active,1,10,5,1,0.2,3,10,5,1,0.2,3
+Yggra_Active,1.2,10,5,1,0.3,3,10,5,1,0.3,3

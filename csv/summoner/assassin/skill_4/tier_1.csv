@@ -1,0 +1,5 @@
+name,star,target_position,target_number,stat_1,bonus_1,buff_duration,max_stack
+Main_Passive3,4,10,5,1,0.14,1,4
+Main_Passive3,5,10,5,1,0.16,1,4
+Main_Passive3,6,10,5,1,0.18,1,4
+Main_Passive3,7,10,5,1,0.2,1,4

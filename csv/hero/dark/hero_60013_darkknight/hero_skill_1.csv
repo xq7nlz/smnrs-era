@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,steal_stat_type,steal_stat_amount,calculation_type
+DarkKnight_Active,1.7,10,1,1,0.03,2
+DarkKnight_Active,1.85,10,1,1,0.03,2
+DarkKnight_Active,2,10,1,1,0.03,2

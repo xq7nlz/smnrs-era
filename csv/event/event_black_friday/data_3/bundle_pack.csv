@@ -1,0 +1,14 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free,profit
+1,,,,,com.fansipan.summoners.era.black.friday.bundle.1,com.fansipan.summoners.era.black.friday.bundle.1,2,1,2500,,5,9.99,FALSE,519
+,,,,,,,2,2,500,,,,,
+2,,,,,com.fansipan.summoners.era.black.friday.bundle.2,com.fansipan.summoners.era.black.friday.bundle.2,2,1,5200,,5,19.99,FALSE,503
+,,,,,,,2,2,1000,,,,,
+3,,,,,com.fansipan.summoners.era.black.friday.bundle.3,com.fansipan.summoners.era.black.friday.bundle.3,2,1,8000,,1,39.99,FALSE,391
+,,,,,,,2,2,2000,,,,,
+4,,,,,com.fansipan.summoners.era.black.friday.bundle.4,com.fansipan.summoners.era.black.friday.bundle.4,2,1,14000,,5,49.99,FALSE,549
+,,,,,,,2,2,2500,,,,,
+5,,,,,com.fansipan.summoners.era.black.friday.bundle.5,com.fansipan.summoners.era.black.friday.bundle.5,2,1,30000,,2,99.99,FALSE,583
+,,,,,,,2,2,5000,,,,,
+6,,,,,com.fansipan.summoners.era.black.friday.bundle.6,com.fansipan.summoners.era.black.friday.bundle.6,2,26,1,,1,49.99,FALSE,517
+,,,,,,,2,1,10000,,,,,
+,,,,,,,2,2,2500,,,,,

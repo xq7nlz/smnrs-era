@@ -1,0 +1,1374 @@
+[
+  {
+    "heroId": 10001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10001.Hero10001",
+      "lua.logicBattle.hero.hero10001.Hero10001_AttackListener",
+      "lua.logicBattle.hero.hero10001.Hero10001_BattleHelper",
+      "lua.logicBattle.hero.hero10001.Hero10001_Initializer",
+      "lua.logicBattle.hero.hero10001.Hero10001_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10002.Hero10002",
+      "lua.logicBattle.hero.hero10002.Hero10002_AttackListener",
+      "lua.logicBattle.hero.hero10002.Hero10002_Initializer"
+    ]
+  },
+  {
+    "heroId": 10003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10003.Hero10003",
+      "lua.logicBattle.hero.hero10003.Hero10003_AttackListener",
+      "lua.logicBattle.hero.hero10003.Hero10003_Initializer",
+      "lua.logicBattle.hero.hero10003.Hero10003_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10004.Hero10004",
+      "lua.logicBattle.hero.hero10004.Hero10004_AttackListener",
+      "lua.logicBattle.hero.hero10004.Hero10004_BattleHelper",
+      "lua.logicBattle.hero.hero10004.Hero10004_EffectController",
+      "lua.logicBattle.hero.hero10004.Hero10004_Initializer"
+    ]
+  },
+  {
+    "heroId": 10005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10005.Hero10005",
+      "lua.logicBattle.hero.hero10005.Hero10005_AttackListener",
+      "lua.logicBattle.hero.hero10005.Hero10005_BattleHelper",
+      "lua.logicBattle.hero.hero10005.Hero10005_Initializer",
+      "lua.logicBattle.hero.hero10005.Hero10005_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10006.Hero10006",
+      "lua.logicBattle.hero.hero10006.Hero10006_BattleListener",
+      "lua.logicBattle.hero.hero10006.Hero10006_Initializer"
+    ]
+  },
+  {
+    "heroId": 10007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10007.Hero10007",
+      "lua.logicBattle.hero.hero10007.Hero10007_AttackListener",
+      "lua.logicBattle.hero.hero10007.Hero10007_BattleHelper",
+      "lua.logicBattle.hero.hero10007.Hero10007_BattleListener",
+      "lua.logicBattle.hero.hero10007.Hero10007_Initializer"
+    ]
+  },
+  {
+    "heroId": 10008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10008.Hero10008",
+      "lua.logicBattle.hero.hero10008.Hero10008_AttackListener",
+      "lua.logicBattle.hero.hero10008.Hero10008_HpStat",
+      "lua.logicBattle.hero.hero10008.Hero10008_Initializer",
+      "lua.logicBattle.hero.hero10008.Hero10008_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10009.Hero10009",
+      "lua.logicBattle.hero.hero10009.Hero10009_AttackListener",
+      "lua.logicBattle.hero.hero10009.Hero10009_Initializer",
+      "lua.logicBattle.hero.hero10009.Hero10009_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10010.Hero10010",
+      "lua.logicBattle.hero.hero10010.Hero10010_AttackListener",
+      "lua.logicBattle.hero.hero10010.Hero10010_Initializer",
+      "lua.logicBattle.hero.hero10010.Hero10010_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10011.Hero10011",
+      "lua.logicBattle.hero.hero10011.Hero10011_AttackController",
+      "lua.logicBattle.hero.hero10011.Hero10011_AttackListener",
+      "lua.logicBattle.hero.hero10011.Hero10011_BattleHelper",
+      "lua.logicBattle.hero.hero10011.Hero10011_BattleListener",
+      "lua.logicBattle.hero.hero10011.Hero10011_Initializer",
+      "lua.logicBattle.hero.hero10011.Hero10011_SkillController",
+      "lua.logicBattle.hero.hero10011.Hero10011_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10012.Hero10012"
+    ]
+  },
+  {
+    "heroId": 10013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10013.Hero10013",
+      "lua.logicBattle.hero.hero10013.Hero10013_AttackListener",
+      "lua.logicBattle.hero.hero10013.Hero10013_Initializer",
+      "lua.logicBattle.hero.hero10013.Hero10013_SkillListener"
+    ]
+  },
+  {
+    "heroId": 10014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10014.Hero10014"
+    ]
+  },
+  {
+    "heroId": 10015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10015.Hero10015",
+      "lua.logicBattle.hero.hero10015.Hero10015_AttackListener",
+      "lua.logicBattle.hero.hero10015.Hero10015_Initializer"
+    ]
+  },
+  {
+    "heroId": 10016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10016.Hero10016",
+      "lua.logicBattle.hero.hero10016.Hero10016_AttackListener",
+      "lua.logicBattle.hero.hero10016.Hero10016_Initializer",
+      "lua.logicBattle.hero.hero10016.Hero10016_SkillController"
+    ]
+  },
+  {
+    "heroId": 10017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10017.Hero10017",
+      "lua.logicBattle.hero.hero10017.Hero10017_AttackListener",
+      "lua.logicBattle.hero.hero10017.Hero10017_Initializer"
+    ]
+  },
+  {
+    "heroId": 10018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10018.Hero10018",
+      "lua.logicBattle.hero.hero10018.Hero10018_AttackListener",
+      "lua.logicBattle.hero.hero10018.Hero10018_Initializer"
+    ]
+  },
+  {
+    "heroId": 10019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10019.Hero10019",
+      "lua.logicBattle.hero.hero10019.Hero10019_AttackListener",
+      "lua.logicBattle.hero.hero10019.Hero10019_Initializer"
+    ]
+  },
+  {
+    "heroId": 10020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10020.Hero10020",
+      "lua.logicBattle.hero.hero10020.Hero10020_AttackListener",
+      "lua.logicBattle.hero.hero10020.Hero10020_Initializer"
+    ]
+  },
+  {
+    "heroId": 10021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10021.Hero10021"
+    ]
+  },
+  {
+    "heroId": 10022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10022.Hero10022"
+    ]
+  },
+  {
+    "heroId": 10023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10023.Hero10023"
+    ]
+  },
+  {
+    "heroId": 10024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10024.Hero10024"
+    ]
+  },
+  {
+    "heroId": 10025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10025.Hero10025"
+    ]
+  },
+  {
+    "heroId": 10026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero10026.Hero10026"
+    ]
+  },
+  {
+    "heroId": 20001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20001.Hero20001",
+      "lua.logicBattle.hero.hero20001.Hero20001_AttackListener",
+      "lua.logicBattle.hero.hero20001.Hero20001_AttackStat",
+      "lua.logicBattle.hero.hero20001.Hero20001_HpStat",
+      "lua.logicBattle.hero.hero20001.Hero20001_Initializer",
+      "lua.logicBattle.hero.hero20001.Hero20001_PowerStat"
+    ]
+  },
+  {
+    "heroId": 20002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20002.Hero20002",
+      "lua.logicBattle.hero.hero20002.Hero20002_AttackListener",
+      "lua.logicBattle.hero.hero20002.Hero20002_Initializer"
+    ]
+  },
+  {
+    "heroId": 20003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20003.Hero20003",
+      "lua.logicBattle.hero.hero20003.Hero20003_AttackListener",
+      "lua.logicBattle.hero.hero20003.Hero20003_Initializer",
+      "lua.logicBattle.hero.hero20003.Hero20003_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20004.Hero20004",
+      "lua.logicBattle.hero.hero20004.Hero20004_AttackListener",
+      "lua.logicBattle.hero.hero20004.Hero20004_BattleHelper",
+      "lua.logicBattle.hero.hero20004.Hero20004_Initializer",
+      "lua.logicBattle.hero.hero20004.Hero20004_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20005.Hero20005",
+      "lua.logicBattle.hero.hero20005.Hero20005_AttackListener",
+      "lua.logicBattle.hero.hero20005.Hero20005_BattleHelper",
+      "lua.logicBattle.hero.hero20005.Hero20005_Initializer",
+      "lua.logicBattle.hero.hero20005.Hero20005_SkillController"
+    ]
+  },
+  {
+    "heroId": 20006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20006.Hero20006",
+      "lua.logicBattle.hero.hero20006.Hero20006_AttackListener",
+      "lua.logicBattle.hero.hero20006.Hero20006_BattleListener",
+      "lua.logicBattle.hero.hero20006.Hero20006_EffectController",
+      "lua.logicBattle.hero.hero20006.Hero20006_HpStat",
+      "lua.logicBattle.hero.hero20006.Hero20006_Initializer",
+      "lua.logicBattle.hero.hero20006.Hero20006_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20007.Hero20007",
+      "lua.logicBattle.hero.hero20007.Hero20007_AttackListener",
+      "lua.logicBattle.hero.hero20007.Hero20007_BattleListener",
+      "lua.logicBattle.hero.hero20007.Hero20007_Initializer"
+    ]
+  },
+  {
+    "heroId": 20008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20008.Hero20008",
+      "lua.logicBattle.hero.hero20008.Hero20008_AttackListener",
+      "lua.logicBattle.hero.hero20008.Hero20008_HpStat",
+      "lua.logicBattle.hero.hero20008.Hero20008_Initializer"
+    ]
+  },
+  {
+    "heroId": 20009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20009.Hero20009",
+      "lua.logicBattle.hero.hero20009.Hero20009_AttackListener",
+      "lua.logicBattle.hero.hero20009.Hero20009_Initializer"
+    ]
+  },
+  {
+    "heroId": 20010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20010.Hero20010",
+      "lua.logicBattle.hero.hero20010.Hero20010_AttackListener",
+      "lua.logicBattle.hero.hero20010.Hero20010_BattleListener",
+      "lua.logicBattle.hero.hero20010.Hero20010_Initializer",
+      "lua.logicBattle.hero.hero20010.Hero20010_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20011.Hero20011",
+      "lua.logicBattle.hero.hero20011.Hero20011_AttackListener",
+      "lua.logicBattle.hero.hero20011.Hero20011_BattleHelper",
+      "lua.logicBattle.hero.hero20011.Hero20011_Initializer",
+      "lua.logicBattle.hero.hero20011.Hero20011_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20012.Hero20012",
+      "lua.logicBattle.hero.hero20012.Hero20012_AttackListener",
+      "lua.logicBattle.hero.hero20012.Hero20012_Initializer",
+      "lua.logicBattle.hero.hero20012.Hero20012_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20013.Hero20013",
+      "lua.logicBattle.hero.hero20013.Hero20013_AttackListener",
+      "lua.logicBattle.hero.hero20013.Hero20013_Initializer"
+    ]
+  },
+  {
+    "heroId": 20014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20014.Hero20014"
+    ]
+  },
+  {
+    "heroId": 20015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20015.Hero20015",
+      "lua.logicBattle.hero.hero20015.Hero20015_AttackListener",
+      "lua.logicBattle.hero.hero20015.Hero20015_Initializer"
+    ]
+  },
+  {
+    "heroId": 20016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20016.Hero20016",
+      "lua.logicBattle.hero.hero20016.Hero20016_AttackListener",
+      "lua.logicBattle.hero.hero20016.Hero20016_Initializer"
+    ]
+  },
+  {
+    "heroId": 20017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20017.Hero20017"
+    ]
+  },
+  {
+    "heroId": 20018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20018.Hero20018"
+    ]
+  },
+  {
+    "heroId": 20019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20019.Hero20019"
+    ]
+  },
+  {
+    "heroId": 20020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20020.Hero20020",
+      "lua.logicBattle.hero.hero20020.Hero20020_AttackListener",
+      "lua.logicBattle.hero.hero20020.Hero20020_Initializer",
+      "lua.logicBattle.hero.hero20020.Hero20020_SkillListener"
+    ]
+  },
+  {
+    "heroId": 20021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20021.Hero20021"
+    ]
+  },
+  {
+    "heroId": 20022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20022.Hero20022"
+    ]
+  },
+  {
+    "heroId": 20023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20023.Hero20023"
+    ]
+  },
+  {
+    "heroId": 20024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20024.Hero20024",
+      "lua.logicBattle.hero.hero20024.Hero20024_AttackListener",
+      "lua.logicBattle.hero.hero20024.Hero20024_Initializer"
+    ]
+  },
+  {
+    "heroId": 20025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20025.Hero20025",
+      "lua.logicBattle.hero.hero20025.Hero20025_AttackListener",
+      "lua.logicBattle.hero.hero20025.Hero20025_Initializer"
+    ]
+  },
+  {
+    "heroId": 20026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero20026.Hero20026",
+      "lua.logicBattle.hero.hero20026.Hero20026_AttackListener",
+      "lua.logicBattle.hero.hero20026.Hero20026_Initializer",
+      "lua.logicBattle.hero.hero20026.Hero20026_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30001.Hero30001",
+      "lua.logicBattle.hero.hero30001.Hero30001_AttackListener",
+      "lua.logicBattle.hero.hero30001.Hero30001_HpStat",
+      "lua.logicBattle.hero.hero30001.Hero30001_Initializer",
+      "lua.logicBattle.hero.hero30001.Hero30001_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30002.Hero30002",
+      "lua.logicBattle.hero.hero30002.Hero30002_HpStat",
+      "lua.logicBattle.hero.hero30002.Hero30002_Initializer"
+    ]
+  },
+  {
+    "heroId": 30003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30003.Hero30003",
+      "lua.logicBattle.hero.hero30003.Hero30003_AttackListener",
+      "lua.logicBattle.hero.hero30003.Hero30003_HpStat",
+      "lua.logicBattle.hero.hero30003.Hero30003_Initializer",
+      "lua.logicBattle.hero.hero30003.Hero30003_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30004.Hero30004",
+      "lua.logicBattle.hero.hero30004.Hero30004_AttackListener",
+      "lua.logicBattle.hero.hero30004.Hero30004_BattleListener",
+      "lua.logicBattle.hero.hero30004.Hero30004_HpStat",
+      "lua.logicBattle.hero.hero30004.Hero30004_Initializer",
+      "lua.logicBattle.hero.hero30004.Hero30004_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30005.Hero30005",
+      "lua.logicBattle.hero.hero30005.Hero30005_AttackListener",
+      "lua.logicBattle.hero.hero30005.Hero30005_Initializer",
+      "lua.logicBattle.hero.hero30005.Hero30005_SkillListener",
+      "lua.logicBattle.hero.hero30005.Hero30005_Utils"
+    ]
+  },
+  {
+    "heroId": 30006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30006.Hero30006",
+      "lua.logicBattle.hero.hero30006.Hero30006_BattleHelper",
+      "lua.logicBattle.hero.hero30006.Hero30006_Initializer"
+    ]
+  },
+  {
+    "heroId": 30007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30007.Hero30007",
+      "lua.logicBattle.hero.hero30007.Hero30007_AttackListener",
+      "lua.logicBattle.hero.hero30007.Hero30007_Initializer",
+      "lua.logicBattle.hero.hero30007.Hero30007_SkillController",
+      "lua.logicBattle.hero.hero30007.Hero30007_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30008.Hero30008",
+      "lua.logicBattle.hero.hero30008.Hero30008_AttackListener",
+      "lua.logicBattle.hero.hero30008.Hero30008_Initializer"
+    ]
+  },
+  {
+    "heroId": 30009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30009.Hero30009",
+      "lua.logicBattle.hero.hero30009.Hero30009_AttackListener",
+      "lua.logicBattle.hero.hero30009.Hero30009_Initializer"
+    ]
+  },
+  {
+    "heroId": 30010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30010.Hero30010",
+      "lua.logicBattle.hero.hero30010.Hero30010_AttackListener",
+      "lua.logicBattle.hero.hero30010.Hero30010_Initializer"
+    ]
+  },
+  {
+    "heroId": 30011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30011.Hero30011",
+      "lua.logicBattle.hero.hero30011.Hero30011_AttackController",
+      "lua.logicBattle.hero.hero30011.Hero30011_AttackListener",
+      "lua.logicBattle.hero.hero30011.Hero30011_Initializer",
+      "lua.logicBattle.hero.hero30011.Hero30011_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30012.Hero30012",
+      "lua.logicBattle.hero.hero30012.Hero30012_AttackListener",
+      "lua.logicBattle.hero.hero30012.Hero30012_BattleHelper",
+      "lua.logicBattle.hero.hero30012.Hero30012_Initializer"
+    ]
+  },
+  {
+    "heroId": 30013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30013.Hero30013",
+      "lua.logicBattle.hero.hero30013.Hero30013_BattleListener",
+      "lua.logicBattle.hero.hero30013.Hero30013_Initializer"
+    ]
+  },
+  {
+    "heroId": 30014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30014.Hero30014",
+      "lua.logicBattle.hero.hero30014.Hero30014_AttackListener",
+      "lua.logicBattle.hero.hero30014.Hero30014_Initializer",
+      "lua.logicBattle.hero.hero30014.Hero30014_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30015.Hero30015",
+      "lua.logicBattle.hero.hero30015.Hero30015_AttackListener",
+      "lua.logicBattle.hero.hero30015.Hero30015_Initializer"
+    ]
+  },
+  {
+    "heroId": 30016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30016.Hero30016"
+    ]
+  },
+  {
+    "heroId": 30017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30017.Hero30017"
+    ]
+  },
+  {
+    "heroId": 30018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30018.Hero30018",
+      "lua.logicBattle.hero.hero30018.Hero30018_AttackListener",
+      "lua.logicBattle.hero.hero30018.Hero30018_Initializer"
+    ]
+  },
+  {
+    "heroId": 30019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30019.Hero30019",
+      "lua.logicBattle.hero.hero30019.Hero30019_BattleHelper",
+      "lua.logicBattle.hero.hero30019.Hero30019_Initializer"
+    ]
+  },
+  {
+    "heroId": 30020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30020.Hero30020"
+    ]
+  },
+  {
+    "heroId": 30021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30021.Hero30021",
+      "lua.logicBattle.hero.hero30021.Hero30021_AttackListener",
+      "lua.logicBattle.hero.hero30021.Hero30021_Initializer"
+    ]
+  },
+  {
+    "heroId": 30022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30022.Hero30022"
+    ]
+  },
+  {
+    "heroId": 30023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30023.Hero30023",
+      "lua.logicBattle.hero.hero30023.Hero30023_AttackListener",
+      "lua.logicBattle.hero.hero30023.Hero30023_Initializer",
+      "lua.logicBattle.hero.hero30023.Hero30023_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30024.Hero30024",
+      "lua.logicBattle.hero.hero30024.Hero30024_AttackListener",
+      "lua.logicBattle.hero.hero30024.Hero30024_Initializer",
+      "lua.logicBattle.hero.hero30024.Hero30024_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30025.Hero30025"
+    ]
+  },
+  {
+    "heroId": 30026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30026.Hero30026",
+      "lua.logicBattle.hero.hero30026.Hero30026_BattleListener",
+      "lua.logicBattle.hero.hero30026.Hero30026_Initializer",
+      "lua.logicBattle.hero.hero30026.Hero30026_SkillListener"
+    ]
+  },
+  {
+    "heroId": 30027,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero30027.Hero30027",
+      "lua.logicBattle.hero.hero30027.Hero30027_AttackListener",
+      "lua.logicBattle.hero.hero30027.Hero30027_AttackStat",
+      "lua.logicBattle.hero.hero30027.Hero30027_BattleHelper",
+      "lua.logicBattle.hero.hero30027.Hero30027_BattleListener",
+      "lua.logicBattle.hero.hero30027.Hero30027_EffectController",
+      "lua.logicBattle.hero.hero30027.Hero30027_HpStat",
+      "lua.logicBattle.hero.hero30027.Hero30027_Initializer",
+      "lua.logicBattle.hero.hero30027.Hero30027_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40001.Hero40001",
+      "lua.logicBattle.hero.hero40001.Hero40001_AttackListener",
+      "lua.logicBattle.hero.hero40001.Hero40001_Initializer"
+    ]
+  },
+  {
+    "heroId": 40002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40002.Hero40002",
+      "lua.logicBattle.hero.hero40002.Hero40002_AttackListener",
+      "lua.logicBattle.hero.hero40002.Hero40002_Initializer",
+      "lua.logicBattle.hero.hero40002.Hero40002_SkillController"
+    ]
+  },
+  {
+    "heroId": 40003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40003.Hero40003",
+      "lua.logicBattle.hero.hero40003.Hero40003_AttackListener",
+      "lua.logicBattle.hero.hero40003.Hero40003_Initializer",
+      "lua.logicBattle.hero.hero40003.Hero40003_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40004.Hero40004",
+      "lua.logicBattle.hero.hero40004.Hero40004_AttackListener",
+      "lua.logicBattle.hero.hero40004.Hero40004_HpStat",
+      "lua.logicBattle.hero.hero40004.Hero40004_Initializer"
+    ]
+  },
+  {
+    "heroId": 40005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40005.Hero40005",
+      "lua.logicBattle.hero.hero40005.Hero40005_AttackListener",
+      "lua.logicBattle.hero.hero40005.Hero40005_HpStat",
+      "lua.logicBattle.hero.hero40005.Hero40005_Initializer"
+    ]
+  },
+  {
+    "heroId": 40006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40006.Hero40006",
+      "lua.logicBattle.hero.hero40006.Hero40006_AttackListener",
+      "lua.logicBattle.hero.hero40006.Hero40006_BattleListener",
+      "lua.logicBattle.hero.hero40006.Hero40006_HpStat",
+      "lua.logicBattle.hero.hero40006.Hero40006_Initializer"
+    ]
+  },
+  {
+    "heroId": 40007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40007.Hero40007",
+      "lua.logicBattle.hero.hero40007.Hero40007_AttackListener",
+      "lua.logicBattle.hero.hero40007.Hero40007_Initializer"
+    ]
+  },
+  {
+    "heroId": 40008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40008.Hero40008",
+      "lua.logicBattle.hero.hero40008.Hero40008_AttackListener",
+      "lua.logicBattle.hero.hero40008.Hero40008_EffectController",
+      "lua.logicBattle.hero.hero40008.Hero40008_Initializer"
+    ]
+  },
+  {
+    "heroId": 40009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40009.Hero40009",
+      "lua.logicBattle.hero.hero40009.Hero40009_AttackController",
+      "lua.logicBattle.hero.hero40009.Hero40009_BattleListener",
+      "lua.logicBattle.hero.hero40009.Hero40009_Initializer",
+      "lua.logicBattle.hero.hero40009.Hero40009_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40010.Hero40010",
+      "lua.logicBattle.hero.hero40010.Hero40010_AttackListener",
+      "lua.logicBattle.hero.hero40010.Hero40010_AttackStat",
+      "lua.logicBattle.hero.hero40010.Hero40010_Initializer",
+      "lua.logicBattle.hero.hero40010.Hero40010_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40011.Hero40011",
+      "lua.logicBattle.hero.hero40011.Hero40011_AttackListener",
+      "lua.logicBattle.hero.hero40011.Hero40011_Initializer",
+      "lua.logicBattle.hero.hero40011.Hero40011_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40012.Hero40012",
+      "lua.logicBattle.hero.hero40012.Hero40012_AttackListener",
+      "lua.logicBattle.hero.hero40012.Hero40012_BattleHelper",
+      "lua.logicBattle.hero.hero40012.Hero40012_Initializer"
+    ]
+  },
+  {
+    "heroId": 40013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40013.Hero40013"
+    ]
+  },
+  {
+    "heroId": 40014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40014.Hero40014"
+    ]
+  },
+  {
+    "heroId": 40015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40015.Hero40015"
+    ]
+  },
+  {
+    "heroId": 40016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40016.Hero40016"
+    ]
+  },
+  {
+    "heroId": 40017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40017.Hero40017"
+    ]
+  },
+  {
+    "heroId": 40018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40018.Hero40018",
+      "lua.logicBattle.hero.hero40018.Hero40018_AttackListener",
+      "lua.logicBattle.hero.hero40018.Hero40018_Initializer"
+    ]
+  },
+  {
+    "heroId": 40019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40019.Hero40019",
+      "lua.logicBattle.hero.hero40019.Hero40019_AttackListener",
+      "lua.logicBattle.hero.hero40019.Hero40019_Initializer",
+      "lua.logicBattle.hero.hero40019.Hero40019_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40020.Hero40020",
+      "lua.logicBattle.hero.hero40020.Hero40020_AttackListener",
+      "lua.logicBattle.hero.hero40020.Hero40020_Initializer",
+      "lua.logicBattle.hero.hero40020.Hero40020_SkillListener"
+    ]
+  },
+  {
+    "heroId": 40021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40021.Hero40021",
+      "lua.logicBattle.hero.hero40021.Hero40021_AttackListener",
+      "lua.logicBattle.hero.hero40021.Hero40021_Initializer"
+    ]
+  },
+  {
+    "heroId": 40022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40022.Hero40022",
+      "lua.logicBattle.hero.hero40022.Hero40022_AttackListener",
+      "lua.logicBattle.hero.hero40022.Hero40022_Initializer"
+    ]
+  },
+  {
+    "heroId": 40023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40023.Hero40023",
+      "lua.logicBattle.hero.hero40023.Hero40023_AttackListener",
+      "lua.logicBattle.hero.hero40023.Hero40023_Initializer"
+    ]
+  },
+  {
+    "heroId": 40024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40024.Hero40024",
+      "lua.logicBattle.hero.hero40024.Hero40024_AttackListener",
+      "lua.logicBattle.hero.hero40024.Hero40024_Initializer"
+    ]
+  },
+  {
+    "heroId": 40025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40025.Hero40025"
+    ]
+  },
+  {
+    "heroId": 40026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40026.Hero40026",
+      "lua.logicBattle.hero.hero40026.Hero40026_AttackListener",
+      "lua.logicBattle.hero.hero40026.Hero40026_Initializer"
+    ]
+  },
+  {
+    "heroId": 40027,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero40027.Hero40027",
+      "lua.logicBattle.hero.hero40027.Hero40027_AttackController",
+      "lua.logicBattle.hero.hero40027.Hero40027_AttackListener",
+      "lua.logicBattle.hero.hero40027.Hero40027_BattleHelper",
+      "lua.logicBattle.hero.hero40027.Hero40027_HpStat",
+      "lua.logicBattle.hero.hero40027.Hero40027_Initializer",
+      "lua.logicBattle.hero.hero40027.Hero40027_PowerStat",
+      "lua.logicBattle.hero.hero40027.Hero40027_SkillController",
+      "lua.logicBattle.hero.hero40027.Hero40027_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50001.Hero50001",
+      "lua.logicBattle.hero.hero50001.Hero50001_AttackListener",
+      "lua.logicBattle.hero.hero50001.Hero50001_BattleHelper",
+      "lua.logicBattle.hero.hero50001.Hero50001_BattleListener",
+      "lua.logicBattle.hero.hero50001.Hero50001_Initializer",
+      "lua.logicBattle.hero.hero50001.Hero50001_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50002.Hero50002",
+      "lua.logicBattle.hero.hero50002.Hero50002_AttackListener",
+      "lua.logicBattle.hero.hero50002.Hero50002_BattleHelper",
+      "lua.logicBattle.hero.hero50002.Hero50002_Initializer",
+      "lua.logicBattle.hero.hero50002.Hero50002_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50003.Hero50003",
+      "lua.logicBattle.hero.hero50003.Hero50003_AttackController",
+      "lua.logicBattle.hero.hero50003.Hero50003_AttackListener",
+      "lua.logicBattle.hero.hero50003.Hero50003_Initializer"
+    ]
+  },
+  {
+    "heroId": 50004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50004.Hero50004",
+      "lua.logicBattle.hero.hero50004.Hero50004_BattleHelper",
+      "lua.logicBattle.hero.hero50004.Hero50004_BattleListener",
+      "lua.logicBattle.hero.hero50004.Hero50004_Initializer"
+    ]
+  },
+  {
+    "heroId": 50005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50005.Hero50005",
+      "lua.logicBattle.hero.hero50005.Hero50005_AttackListener",
+      "lua.logicBattle.hero.hero50005.Hero50005_BattleListener",
+      "lua.logicBattle.hero.hero50005.Hero50005_Initializer"
+    ]
+  },
+  {
+    "heroId": 50006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50006.Hero50006",
+      "lua.logicBattle.hero.hero50006.Hero50006_AttackController",
+      "lua.logicBattle.hero.hero50006.Hero50006_AttackListener",
+      "lua.logicBattle.hero.hero50006.Hero50006_BattleHelper",
+      "lua.logicBattle.hero.hero50006.Hero50006_BattleListener",
+      "lua.logicBattle.hero.hero50006.Hero50006_Initializer",
+      "lua.logicBattle.hero.hero50006.Hero50006_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50007.Hero50007",
+      "lua.logicBattle.hero.hero50007.Hero50007_AttackController",
+      "lua.logicBattle.hero.hero50007.Hero50007_AttackListener",
+      "lua.logicBattle.hero.hero50007.Hero50007_BattleListener",
+      "lua.logicBattle.hero.hero50007.Hero50007_Initializer"
+    ]
+  },
+  {
+    "heroId": 50008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50008.Hero50008",
+      "lua.logicBattle.hero.hero50008.Hero50008_AttackListener",
+      "lua.logicBattle.hero.hero50008.Hero50008_Initializer"
+    ]
+  },
+  {
+    "heroId": 50009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50009.Hero50009",
+      "lua.logicBattle.hero.hero50009.Hero50009_AttackListener",
+      "lua.logicBattle.hero.hero50009.Hero50009_Initializer"
+    ]
+  },
+  {
+    "heroId": 50010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50010.Hero50010",
+      "lua.logicBattle.hero.hero50010.Hero50010_AttackListener",
+      "lua.logicBattle.hero.hero50010.Hero50010_BattleHelper",
+      "lua.logicBattle.hero.hero50010.Hero50010_Initializer",
+      "lua.logicBattle.hero.hero50010.Hero50010_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50011.Hero50011",
+      "lua.logicBattle.hero.hero50011.Hero50011_AttackListener",
+      "lua.logicBattle.hero.hero50011.Hero50011_BattleHelper",
+      "lua.logicBattle.hero.hero50011.Hero50011_EffectController",
+      "lua.logicBattle.hero.hero50011.Hero50011_Initializer"
+    ]
+  },
+  {
+    "heroId": 50012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50012.Hero50012",
+      "lua.logicBattle.hero.hero50012.Hero50012_AttackListener",
+      "lua.logicBattle.hero.hero50012.Hero50012_BattleHelper",
+      "lua.logicBattle.hero.hero50012.Hero50012_BattleListener",
+      "lua.logicBattle.hero.hero50012.Hero50012_Initializer",
+      "lua.logicBattle.hero.hero50012.Hero50012_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50013.Hero50013",
+      "lua.logicBattle.hero.hero50013.Hero50013_AttackListener",
+      "lua.logicBattle.hero.hero50013.Hero50013_Initializer",
+      "lua.logicBattle.hero.hero50013.Hero50013_SkillController",
+      "lua.logicBattle.hero.hero50013.Hero50013_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50014.Hero50014",
+      "lua.logicBattle.hero.hero50014.Hero50014_AttackListener",
+      "lua.logicBattle.hero.hero50014.Hero50014_HpStat",
+      "lua.logicBattle.hero.hero50014.Hero50014_Initializer"
+    ]
+  },
+  {
+    "heroId": 50015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50015.Hero50015"
+    ]
+  },
+  {
+    "heroId": 50016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50016.Hero50016"
+    ]
+  },
+  {
+    "heroId": 50017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50017.Hero50017"
+    ]
+  },
+  {
+    "heroId": 50018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50018.Hero50018"
+    ]
+  },
+  {
+    "heroId": 50019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50019.Hero50019"
+    ]
+  },
+  {
+    "heroId": 50020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50020.Hero50020"
+    ]
+  },
+  {
+    "heroId": 50021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50021.Hero50021"
+    ]
+  },
+  {
+    "heroId": 50022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50022.Hero50022"
+    ]
+  },
+  {
+    "heroId": 50023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50023.Hero50023",
+      "lua.logicBattle.hero.hero50023.Hero50023_AttackListener",
+      "lua.logicBattle.hero.hero50023.Hero50023_Initializer",
+      "lua.logicBattle.hero.hero50023.Hero50023_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50024.Hero50024",
+      "lua.logicBattle.hero.hero50024.Hero50024_AttackListener",
+      "lua.logicBattle.hero.hero50024.Hero50024_Initializer",
+      "lua.logicBattle.hero.hero50024.Hero50024_SkillListener"
+    ]
+  },
+  {
+    "heroId": 50025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50025.Hero50025",
+      "lua.logicBattle.hero.hero50025.Hero50025_AttackController",
+      "lua.logicBattle.hero.hero50025.Hero50025_AttackListener",
+      "lua.logicBattle.hero.hero50025.Hero50025_Initializer"
+    ]
+  },
+  {
+    "heroId": 50026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero50026.Hero50026",
+      "lua.logicBattle.hero.hero50026.Hero50026_BattleHelper",
+      "lua.logicBattle.hero.hero50026.Hero50026_Initializer"
+    ]
+  },
+  {
+    "heroId": 60001,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60001.Hero60001",
+      "lua.logicBattle.hero.hero60001.Hero60001_AttackController",
+      "lua.logicBattle.hero.hero60001.Hero60001_AttackListener",
+      "lua.logicBattle.hero.hero60001.Hero60001_BattleHelper",
+      "lua.logicBattle.hero.hero60001.Hero60001_BattleListener",
+      "lua.logicBattle.hero.hero60001.Hero60001_Initializer"
+    ]
+  },
+  {
+    "heroId": 60002,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60002.Hero60002",
+      "lua.logicBattle.hero.hero60002.Hero60002_BattleListener",
+      "lua.logicBattle.hero.hero60002.Hero60002_HpStat",
+      "lua.logicBattle.hero.hero60002.Hero60002_Initializer"
+    ]
+  },
+  {
+    "heroId": 60003,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60003.Hero60003",
+      "lua.logicBattle.hero.hero60003.Hero60003_AttackListener",
+      "lua.logicBattle.hero.hero60003.Hero60003_BattleHelper",
+      "lua.logicBattle.hero.hero60003.Hero60003_HpStat",
+      "lua.logicBattle.hero.hero60003.Hero60003_Initializer",
+      "lua.logicBattle.hero.hero60003.Hero60003_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60004,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60004.Hero60004",
+      "lua.logicBattle.hero.hero60004.Hero60004_AttackListener",
+      "lua.logicBattle.hero.hero60004.Hero60004_HpStat",
+      "lua.logicBattle.hero.hero60004.Hero60004_Initializer",
+      "lua.logicBattle.hero.hero60004.Hero60004_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60005,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60005.Hero60005",
+      "lua.logicBattle.hero.hero60005.Hero60005_AttackController",
+      "lua.logicBattle.hero.hero60005.Hero60005_AttackListener",
+      "lua.logicBattle.hero.hero60005.Hero60005_BattleHelper",
+      "lua.logicBattle.hero.hero60005.Hero60005_Initializer"
+    ]
+  },
+  {
+    "heroId": 60006,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60006.Hero60006",
+      "lua.logicBattle.hero.hero60006.Hero60006_AttackController",
+      "lua.logicBattle.hero.hero60006.Hero60006_AttackListener",
+      "lua.logicBattle.hero.hero60006.Hero60006_BattleListener",
+      "lua.logicBattle.hero.hero60006.Hero60006_Initializer"
+    ]
+  },
+  {
+    "heroId": 60007,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60007.Hero60007",
+      "lua.logicBattle.hero.hero60007.Hero60007_AttackListener",
+      "lua.logicBattle.hero.hero60007.Hero60007_Initializer",
+      "lua.logicBattle.hero.hero60007.Hero60007_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60008,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60008.Hero60008",
+      "lua.logicBattle.hero.hero60008.Hero60008_AttackListener",
+      "lua.logicBattle.hero.hero60008.Hero60008_Initializer",
+      "lua.logicBattle.hero.hero60008.Hero60008_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60009,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60009.Hero60009",
+      "lua.logicBattle.hero.hero60009.Hero60009_AttackListener",
+      "lua.logicBattle.hero.hero60009.Hero60009_Initializer"
+    ]
+  },
+  {
+    "heroId": 60010,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60010.Hero60010",
+      "lua.logicBattle.hero.hero60010.Hero60010_AttackListener",
+      "lua.logicBattle.hero.hero60010.Hero60010_BattleListener",
+      "lua.logicBattle.hero.hero60010.Hero60010_EffectController",
+      "lua.logicBattle.hero.hero60010.Hero60010_HpStat",
+      "lua.logicBattle.hero.hero60010.Hero60010_Initializer"
+    ]
+  },
+  {
+    "heroId": 60011,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60011.Hero60011",
+      "lua.logicBattle.hero.hero60011.Hero60011_AttackListener",
+      "lua.logicBattle.hero.hero60011.Hero60011_BattleHelper",
+      "lua.logicBattle.hero.hero60011.Hero60011_BattleListener",
+      "lua.logicBattle.hero.hero60011.Hero60011_Initializer"
+    ]
+  },
+  {
+    "heroId": 60012,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60012.Hero60012",
+      "lua.logicBattle.hero.hero60012.Hero60012_AttackListener",
+      "lua.logicBattle.hero.hero60012.Hero60012_Initializer",
+      "lua.logicBattle.hero.hero60012.Hero60012_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60013,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60013.Hero60013",
+      "lua.logicBattle.hero.hero60013.Hero60013_AttackListener",
+      "lua.logicBattle.hero.hero60013.Hero60013_HpStat",
+      "lua.logicBattle.hero.hero60013.Hero60013_Initializer",
+      "lua.logicBattle.hero.hero60013.Hero60013_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60014,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60014.Hero60014",
+      "lua.logicBattle.hero.hero60014.Hero60014_AttackListener",
+      "lua.logicBattle.hero.hero60014.Hero60014_BattleListener",
+      "lua.logicBattle.hero.hero60014.Hero60014_Initializer"
+    ]
+  },
+  {
+    "heroId": 60015,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60015.Hero60015",
+      "lua.logicBattle.hero.hero60015.Hero60015_AttackListener",
+      "lua.logicBattle.hero.hero60015.Hero60015_Initializer"
+    ]
+  },
+  {
+    "heroId": 60016,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60016.Hero60016"
+    ]
+  },
+  {
+    "heroId": 60017,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60017.Hero60017"
+    ]
+  },
+  {
+    "heroId": 60018,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60018.Hero60018"
+    ]
+  },
+  {
+    "heroId": 60019,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60019.Hero60019"
+    ]
+  },
+  {
+    "heroId": 60020,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60020.Hero60020"
+    ]
+  },
+  {
+    "heroId": 60021,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60021.Hero60021",
+      "lua.logicBattle.hero.hero60021.Hero60021_AttackController",
+      "lua.logicBattle.hero.hero60021.Hero60021_AttackListener",
+      "lua.logicBattle.hero.hero60021.Hero60021_BattleHelper",
+      "lua.logicBattle.hero.hero60021.Hero60021_BattleListener",
+      "lua.logicBattle.hero.hero60021.Hero60021_Initializer"
+    ]
+  },
+  {
+    "heroId": 60022,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60022.Hero60022",
+      "lua.logicBattle.hero.hero60022.Hero60022_AttackListener",
+      "lua.logicBattle.hero.hero60022.Hero60022_Initializer",
+      "lua.logicBattle.hero.hero60022.Hero60022_SkillListener"
+    ]
+  },
+  {
+    "heroId": 60023,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60023.Hero60023",
+      "lua.logicBattle.hero.hero60023.Hero60023_AttackListener",
+      "lua.logicBattle.hero.hero60023.Hero60023_Initializer"
+    ]
+  },
+  {
+    "heroId": 60024,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60024.Hero60024"
+    ]
+  },
+  {
+    "heroId": 60025,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60025.Hero60025"
+    ]
+  },
+  {
+    "heroId": 60026,
+    "heroConfigs": [
+      "lua.logicBattle.hero.hero60026.Hero60026",
+      "lua.logicBattle.hero.hero60026.Hero60026_AttackListener",
+      "lua.logicBattle.hero.hero60026.Hero60026_HpStat",
+      "lua.logicBattle.hero.hero60026.Hero60026_Initializer"
+    ]
+  },
+  {
+    "heroId": 0,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner0.Summoner0",
+      "lua.logicBattle.summoner.summoner0.Summoner0_Initializer"
+    ]
+  },
+  {
+    "heroId": 1,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner1.Summoner1",
+      "lua.logicBattle.summoner.summoner1.Summoner1_BattleListener",
+      "lua.logicBattle.summoner.summoner1.Summoner1_Initializer"
+    ]
+  },
+  {
+    "heroId": 2,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner2.Summoner2",
+      "lua.logicBattle.summoner.summoner2.Summoner2_BattleListener",
+      "lua.logicBattle.summoner.summoner2.Summoner2_Initializer"
+    ]
+  },
+  {
+    "heroId": 3,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner3.Summoner3",
+      "lua.logicBattle.summoner.summoner3.Summoner3_BattleListener",
+      "lua.logicBattle.summoner.summoner3.Summoner3_Initializer"
+    ]
+  },
+  {
+    "heroId": 4,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner4.Summoner4",
+      "lua.logicBattle.summoner.summoner4.Summoner4_BattleListener",
+      "lua.logicBattle.summoner.summoner4.Summoner4_Initializer",
+      "lua.logicBattle.summoner.summoner4.Summoner4_PowerStat"
+    ]
+  },
+  {
+    "heroId": 5,
+    "heroConfigs": [
+      "lua.logicBattle.summoner.summoner5.Summoner5",
+      "lua.logicBattle.summoner.summoner5.Summoner5_BattleListener",
+      "lua.logicBattle.summoner.summoner5.Summoner5_Initializer"
+    ]
+  }
+]

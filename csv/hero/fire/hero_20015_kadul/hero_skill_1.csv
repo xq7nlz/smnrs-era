@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,heal_percent,heal_target_position,heal_target_number
+Rufus_Active,0.8,21,4,0.3,1,1
+Rufus_Active,1,21,4,0.4,1,1
+Rufus_Active,1.2,21,4,0.5,1,1

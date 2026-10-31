@@ -1,0 +1,4 @@
+name,damage,enemy_target_position,enemy_target_number,ally_target_position,ally_target_number,effect_chance,effect_type,effect_duration
+AmiableAngel_Active,0.86,10,5,10,2,1,500,2
+AmiableAngel_Active,1.06,10,5,10,3,1,500,2
+AmiableAngel_Active,1.26,10,5,10,4,1,500,2

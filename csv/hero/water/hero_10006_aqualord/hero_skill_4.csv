@@ -1,0 +1,4 @@
+name,hp_limit,trigger_limit,trigger_chance,effect_target_position,effect_target_number,effect_type,effect_duration,effect_amount
+Aqualord_Passive3,0.6,1,1,1,1,510,3,1.2
+Aqualord_Passive3,0.6,1,1,1,1,510,3,1.5
+Aqualord_Passive3,0.6,1,1,1,1,510,3,1.8

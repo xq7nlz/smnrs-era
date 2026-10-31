@@ -1,0 +1,131 @@
+key<>value
+vip_reward_subject<>VIP Rewards
+vip_reward_content<>Congratulations! You've received rewards for reaching VIP {1}.
+friend_boss_last_hit_reward_subject<>Friend Boss Reward
+friend_boss_last_hit_reward_content<>Congratulations! You've got Friend Boss last hit reward.
+friend_boss_cleared_reward_subject<>Friend Boss Reward
+friend_boss_cleared_reward_content<>Congratulations! You've got rewards for defeating the Friend Boss.
+friend_season_ranking_reward_subject<>Friend Season Ranking
+friend_season_ranking_reward_content<>Congratulations! You've got ranking friend season {1} rewards.
+arena_season_ranking_reward_subject<>Arena Season Ranking
+arena_season_ranking_reward_content<>Congratulations! You've got Arena season {1} ranking rewards.
+arena_team_season_ranking_reward_subject<>Martial Arena Season Ranking
+arena_team_season_ranking_reward_content<>Congratulations! You've got Martial Arena season {1} ranking rewards.
+guild_boss_daily_reward_subject<>Daily Guild Boss Reward
+guild_boss_daily_reward_content<>Congratulations! You've got rewards for joining daily Guild Boss.
+guild_boss_monthly_reward_subject<>Monthly Guild Boss Reward
+guild_boss_monthly_reward_content<>Congratulations! You've got monthly rewards in the Guild Boss.
+guild_dungeon_cleared_reward_subject<>Guild Dungeon Rewards
+guild_dungeon_cleared_reward_content<>Congratulations! You've received rewards for completing stage {1} of season {2} in the Guild Dungeon.
+guild_dungeon_season_reward_subject<>Guild Dungeon Season Rewards
+guild_dungeon_season_reward_content<>Congratulations! You've received rewards for completing season {1} in the Guild Dungeon.
+guild_war_battle_reward_subject<>Guild War Battle Rewards
+guild_war_battle_reward_content<>Congratulations! You've received rewards for completing battle {2} of season {1} in the Guild War.
+guild_war_season_reward_subject<>Guild War Season Rewards
+guild_war_season_reward_content<>Congratulations! You've received rewards for completing season {1} in the Guild War.
+purchase_raw_pack_subject<>Raw Pack Rewards
+purchase_raw_pack_content<>Congratulations! You've received rewards for purchasing pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_subscription_pack_instant_subject<>Subscription Pack Rewards
+purchase_subscription_pack_instant_content<>Congratulations! You've received rewards for purchasing subscription pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_subscription_pack_daily_subject<>Subscription Pack Daily Reward
+purchase_subscription_pack_daily_content<>Congratulations! You've received daily rewards from subscription pack {1}.\nDay: {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>Limited Pack Reward
+purchase_limited_pack_content<>Congratulations! You received a reward for purchasing limit pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_event_bundle_pack_subject<>Event Bundle Pack
+purchase_event_bundle_pack_content<>Congratulations! You received a reward for purchasing event bundle pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_event_hot_deal_subject<>Event Bundle Pack
+purchase_event_hot_deal_content<>Congratulations! You received a reward for purchasing event bundle pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_subscription_pack_trial_subject<>Subscription Pack Daily Trial Reward
+purchase_subscription_pack_trial_content<>Congratulations! You've received daily rewards from trial subscription pack {1}.\nDay: {2}
+purchase_first_time_reward_subject<>Purchase First Time Reward
+purchase_first_time_reward_content<>Congratulations! You've received first time rewards for purchasing first time in-game
+event_arena_subject<>Arena Event
+event_arena_content<>Congratulations! You received season {1} rewards in the Arena event.
+event_casino_subject<>Wheel Of Fate Event
+event_casino_content<>Congratulations! You received season {1} rewards in the Wheel Of Fate event.
+event_hero_collect_subject<>Hero Collecting Event
+event_hero_collect_content<>Congratulations! You received a Season {1} reward in Hero collecting event.
+event_prophet_tree_subject<>Ancient Tree Event
+event_prophet_tree_content<>Congratulations! You received a Season {1} reward in Ancient Tree event.
+event_summon_subject<>Event Summoning
+event_summon_content<>Congratulations! You received a Season {1} reward in Summon event.
+event_tavern_subject<>Tavern Event
+event_tavern_content<>Congratulations! You received a Season {1} reward in Tavern event.
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>Change email password for Summoner Era
+email_change_password_content<>User name: {2}. Password reset code {1}, Expired: {3}
+email_validation_subject<>Validation email for Summoner Era
+email_validation_content<>Validation code {1}, Expired: {3}
+email_sender_name<>Zitga Support
+welcome_mail_title<>Welcome to Summoners Era!
+welcome_mail_content<>Dear Summoners,\n\nThank you for playing Summoners Era. Hope you have amazing moments while enjoy playing it.\n\nWe would like to send you a small gift to support your upcoming adventure.\n\nWe hope you will be an important part of Summoners Era and make it even better in the future.\n\nThank you!\nSummoners Era Team.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Black Friday Card Reward
+event_black_friday_content<>Congratulations! You've received daily rewards from Black Friday Card {1}.\nDay: {2}\n
+event_new_year_subject<>Blessing Card Reward
+event_new_year_content<>Congratulations! You've received daily rewards from Blessing Card.\n
+event_lunar_new_year_clear_boss_reward_subject<>Lunar New Year Expel Devil Reward
+event_lunar_new_year_clear_boss_reward_content<>Congratulation! You've receive these rewards from Expel Devil activity.
+event_new_hero_summon_subject<>Legendary Summon Reward
+event_new_hero_summon_content<>Congratulation! You've receive these rewards from Legendary Summon activity
+maintenance_inform_title<>SERVER MAINTENANCE ANNOUCEMENT
+maintenance_inform_title_content<>Dear Summoners,\nThe Council would like to annouce that the server will go under maintenance on {1}. You will be unable to login during this time.\nPlease take note that the game will be unable to play during the maintenance time.
+maintence_reward_title<>MAINTENANCE COMPLETED
+maintence_reward_content<>Dear Summoners,\nThe maitenance is completed. We would like to send you this gift as a thank for your patience during maintence time.\nKeep enjoying and conquering!
+event_easter_card_subject<>Bunny Card Reward
+event_easter_card_content<>Congratulations! You've received daily rewards from Bunny Card.\nDay: %s
+event_easter_egg_hunt_subject<>Easter Egg Collecting Reward
+event_easter_egg_hunt_content<>These rewards are sent to you for your performance in Easter Egg Collecting activity.
+event_new_hero_boss_ranking_subject<>Trophy of Honour Reward 
+event_new_hero_boss_ranking_content<>Congratulations! You've received these reward for reaching top {1} at boss challenge.
+domain_challenge_reward_subject<>Domains Rewards
+domain_challenge_reward_content<>Congratulations! You've received these rewards for passing {1} in stage Domains.
+event_new_hero_release_subject<>Legendary Summon Reward
+event_new_hero_release_content<>Congratulation! You've receive these rewards from Legendary Summon activity
+purchase_event_hero_release_subject<>Successful Transaction
+purchase_event_hero_release_content<>You receive these items for purchasing packages during new hero event time. Thank you for always supporting us.
+premium_reward_subject<>Premium Version Reward
+premium_reward_content<>You receive these items for purchasing the premium version of Summoners Era. Thank you for always supporting us.
+event_server_open_arena_subject<>Arena Top Leaderboard Reward
+event_server_open_arena_content<>Congratulation! You've receive these rewards from Arena ranking racing event!
+event_server_open_arena_2_subject<>Martial Arena Top Leaderboard Reward
+event_server_open_arena_2_content<>Congratulation! You've receive these rewards from Martial Arena ranking racing event!
+event_unclaimed_reward<>Here is your unclaimed reward.
+event_easter_dice_subject<>Easter Dice Game Reward
+event_easter_dice_content<>Congratulation! You've received these rewards from Easter Dice Game.
+event_birthday_dark_light_subject<>Destiny War Event Rewards 
+event_birthday_dark_light_content<>Congratulation! You have received these reward from Destiny war event activity.\n- Light's side: {1} points\n- Dark's side: {2} points
+event_birthday_summon_subject<>Reward Birthday event 
+event_birthday_summon_content<>Congratulation! You have received these rewards for participating in weekly mission. 
+event_birthday_prophet_tree_subject<>Reward Birthday event 
+event_birthday_prophet_tree_content<>Congratulation! You have received these rewards for participating in weekly mission. 
+event_birthday_arena_subject<>Reward Birthday event 
+event_birthday_arena_content<>Congratulation! You have received these rewards for participating in weekly mission. 
+event_birthday_casino_subject<>Reward Birthday event 
+event_birthday_casino_content<>Congratulation! You have received these rewards for participating in weekly mission. 
+event_zodiac_exchange_subject<>Zodiac Event Ending Mail 
+event_zodiac_exchange_content<>Dear Summoners,\nThe Zodiac Event has ended. Astral star has been converted into these resources. Thank you for attending event and hope you have good time playing game.
+purchase_subscription_pack_daily_bonus_subject<>VIP daily bonus rewards 
+purchase_subscription_pack_daily_bonus_content<>Congratulation! You have received these rewards as VIP bonus benefit of monthly card. 
+event_thanks_giving_subject<>Event Thanksgiving
+event_thanks_giving_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_christmas_subject<>Event Christmas
+event_christmas_content<>Congratulations! 
+event_boss_challenge_ranking_subject<>Boss Challenge Ranking Rewards
+event_boss_challenge_ranking_content<>Congratulation! You've receive these rewards from Boss Challenge activity.
+event_valentine_subject<>Event Valentine
+event_valentine_content<>Congratulations! 
+event_lunar_new_year_subject<>Event Lunar New Year
+event_lunar_new_year_content<>Congratulations! 
+event_summer_day_subject<>Event Summer Holiday
+event_summer_day_content<>Congratulations! 
+event_blossom_day_subject<>Event Cherry Blossom
+event_blossom_day_content<>Congratulations! 
+event_qixi_festival_subject<>Event Qixi Festival
+event_qixi_festival_content<>Congratulations! 
+event_may_day_subject<>Event Mexico Festival
+event_may_day_content<>Congratulations! 

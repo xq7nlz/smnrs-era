@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_debuff_type,stat_debuff_amount,stat_debuff_duration
+Moblin_Active,1.1,21,4,20,0.4,3
+Moblin_Active,1.3,21,4,20,0.6,3
+Moblin_Active,1.5,21,4,20,0.8,3

@@ -1,0 +1,4 @@
+id,sg_product_id,sg_product_web_id,sungame_ios_package_name,sungame_android_package_name,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,duration_in_days,instant_res_type,instant_res_id,instant_res_number,instant_res_data,price,stock
+1,SE286,WEB_SE286,com.se.sungame.black_friday_2021_card,com.sungame.summoners.era.black_friday_2021_card,com.fansipan.summoners.era.black_friday_2021_card,com.fansipan.summoners.era.black_friday_2021_card,2,1,summoner_level*2,,7,2,2,1000,,19.99,1
+,,,,,,,2,51,vip_level*2,,,,,,,,
+,,,,,,,2,0,summoner_level*100000,,,,,,,,

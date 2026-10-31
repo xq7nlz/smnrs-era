@@ -1,0 +1,4 @@
+name,steal_stat_type,steal_stat_amount,calculation_type,is_free
+Eitri_Passive2,2,0.1,2,1
+Eitri_Passive2,2,0.15,2,1
+Eitri_Passive2,2,0.2,2,1

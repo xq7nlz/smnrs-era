@@ -1,0 +1,399 @@
+key<>value
+quest_100_1<>收集{c(1)}英雄
+quest_100_1_2<>收集{c(1)} 個{c(2)}星的英雄
+quest_100_1_3<>收集{c(1)}個{c(3)}等級的英雄
+quest_100_1_4<>收集屬於{e(class_type_~4)}階層英雄的{c(1)}個英雄
+quest_100_1_5<>收集屬於{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_100_1_2_3<>收集{c(3)}級{c(2)}星的{c(1)}個英雄
+quest_100_1_2_4<>收集{c(2)}星的{c(1)}個英雄，屬於{e(class_type_~4)}階層的英雄
+quest_100_1_2_5<>收集屬於{e(faction_type_~5)}系統的 {c(2)}星的{c(1)}個英雄
+quest_100_1_3_4<>收集{c(3)}等級的{c(1)}個英雄，屬於 {e(class_type_~4)}階層的英雄
+quest_100_1_3_5<>收集等級{c(3)}的{c(1)}個英雄，屬於{e(faction_type_~5)}系統
+quest_100_1_4_5<>收集{e(class_type_~4)}階層的{c(1)}個英雄，屬於{e(faction_type_~5)}系統
+quest_100_1_2_3_4<>收集{c(3)}級{c(2)}星的{c(1)}個英雄，屬於{e(class_type_~4)} 階層
+quest_100_1_2_3_5<>收集{c(3)}級{c(2)}星的{c(1)}個英雄，屬於{e(faction_type_~5)} 系統
+quest_100_1_2_4_5<>收集{e(class_type_~4)}階層{c(2)}星的{c(1)}個英雄，屬於{e(faction_type_~5)} 系統
+quest_100_1_2_3_4_5<>收集{c(3)}級{c(2)}星的{c(1)}個英雄，屬於{e(class_type_~4)} 階層、{e(faction_type_~5)}系統
+quest_101_1<>進化{c(1)}個英雄
+quest_101_1_2<>將{c(1)}個英雄進化為{c(2)}星
+quest_101_1_3<>進化{c(1)}個{c(3)}級的英雄
+quest_101_1_4<>進化屬於{e(class_type_~4)}級的{c(1)}個英雄
+quest_101_1_5<>進化屬於{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_101_1_2_3<>將{c(1)}個 {c(3)} 級的英雄進化為{c(2)}星
+quest_101_1_2_4<>將{c(1)}個屬於 {e(class_type_~4)} 階層的英雄進化為{c(2)}星
+quest_101_1_2_5<>將{c(1)}個屬於 {e(faction_type_~5)} 系統的英雄進化為{c(2)}星
+quest_101_1_3_4<>進化屬於{c(3)}級、 {e(class_type_~4)}階層的{c(1)}個英雄
+quest_101_1_3_5<>進化屬於{c(3)}級、 {e(faction_type_~5)}系統的{c(1)}個英雄
+quest_101_1_4_5<>進化屬於{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的{c(1)}個英雄
+quest_101_1_2_3_4<>將{c(1)}個屬於 {c(3)} 級、{e(class_type_~4)} 階層的英雄進化為{c(2)}星
+quest_101_1_2_3_5<>將{c(1)}個屬於 {c(3)} 級、{e(faction_type_~5)} 系統的英雄進化為{c(2)}星
+quest_101_1_2_4_5<>將{c(1)}個屬於 {e(class_type_~4)} 階層、{e(faction_type_~5)} 系統的英雄進化為{c(2)}星
+quest_101_1_2_3_4_5<>將{c(1)}個屬於 {c(3)} 級、{e(class_type_~4)} 階層、{e(faction_type_~5)}系統的英雄進化為{c(2)}星
+quest_102_1<>升級英雄{c(1)}次 
+quest_102_1_2<>升級{c(1)}個英雄為{c(2)}星
+quest_102_1_3<>升級{c(1)}個英雄為{c(3)}級
+quest_102_1_4<>升級屬於 {e(class_type_~4)}階層的{c(1)}個英雄
+quest_102_1_5<>升級屬於 {e(faction_type_~5)}系統的{c(1)}個英雄
+quest_102_1_2_3<>將{c(1)}個{c(2)}星的英雄升級為 {c(3)}級
+quest_102_1_2_4<>將{c(1)}個{c(2)}星、屬於{e(class_type_~4)}階層的英雄升級
+quest_102_1_2_5<>將{c(1)}個{c(2)}星、屬於{e(faction_type_~5)}系統的英雄升級
+quest_102_1_3_4<>將{c(1)}個屬於{e(class_type_~4)}階層的英雄升級為{c(3)}級
+quest_102_1_3_5<>將{c(1)}個屬於{e(faction_type_~5)}系統的英雄升級為{c(3)}級
+quest_102_1_4_5<>升級屬於{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的{c(1)}個英雄
+quest_102_1_2_3_4<>將{c(1)}個{c(2)}星、屬於{e(class_type_~4)}階層的英雄升級為{c(3)}級
+quest_102_1_2_3_5<>將{c(1)}個{c(2)}星、屬於{e(faction_type_~5)}系統的英雄升級為{c(3)}級
+quest_102_1_2_4_5<>將{c(1)}個{c(2)}星、屬於{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的英雄進行升級
+quest_102_1_2_3_4_5<>將{c(1)}個{c(2)}星、屬於{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的英雄升級為{c(3)}級
+quest_103_1<>將{c(1)}個英雄升級到最高等級
+quest_103_1_2<>將{c(1)}個{c(2)} 星的英雄升級到最高等級
+quest_103_1_3<>將{c(1)}個屬於{e(class_type_~3)}階層的英雄升級到最高等級
+quest_103_1_4<>將{c(1)}個屬於{e(faction_type_~4)}系統的英雄升級到最高等級
+quest_103_1_2_3<>將{c(1)}個{c(2)}星、屬於{e(class_type_~3)}階層的英雄升級到最高等級
+quest_103_1_2_4<>將{c(1)}個{c(2)}星、屬於{e(faction_type_~4)}系統的英雄升級到最高等級
+quest_103_1_3_4<>將{c(1)}個屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄升級到最高等級
+quest_103_1_2_3_4<>將{c(1)}個{c(2)}星、屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄升級到最高等級
+quest_104_1<>分散{c(1)}個英雄
+quest_104_1_2<>分散{c(1)}個{c(2)}星的英雄
+quest_104_1_3<>分散{c(1)}個{c(3)}級的英雄
+quest_104_1_4<>分散{c(1)}個屬於{e(class_type_~4)}階層的英雄
+quest_104_1_5<>分散{c(1)}個屬於{e(faction_type_~5)}系統的英雄
+quest_104_1_2_3<>分散{c(1)}個{c(2)}星、屬於{c(3)}級的英雄
+quest_104_1_2_4<>分散{c(1)}個{c(2)}星、屬於{e(class_type_~4)}階層的英雄
+quest_104_1_2_5<>分散{c(1)}個{c(2)}星、屬於{e(faction_type_~5)}系統的英雄
+quest_104_1_3_4<>分散{c(1)}個屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_104_1_3_5<>分散{c(1)}個 屬於{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_104_1_4_5<>分散{c(1)}個 屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_104_1_2_3_4<>分散{c(1)}個{c(2)}星、 屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_104_1_2_3_5<>分散{c(1)}個{c(2)}星、 屬於{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_104_1_2_4_5<>分散{c(1)}個{c(2)}星、 屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_104_1_2_3_4_5<>分散{c(1)}個{c(2)}星、 屬於{c(3)}階層、{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_150_1<>收集{c(1)}個英雄
+quest_150_1_2<>收集{c(2)}原星的{c(1)}個英雄
+quest_150_1_3<>收集屬於{e(faction_type_~3)}系統的{c(1)}個英雄
+quest_150_1_4<>收集屬於{e(class_type_~4)}階層的{c(1)}個英雄
+quest_150_1_5<>收集屬於{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_2_3<>收集{c(2)}原星、屬於{e(faction_type_~3)}系統的{c(1)}個英雄
+quest_150_1_2_4<>收集{c(2)}原星、屬於{e(class_type_~4)}階層的{c(1)}個英雄
+quest_150_1_2_5<>收集{c(2)}原星、屬於{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_3_4<>收集屬於{e(faction_type_~3)}系統、{e(class_type_~4)}階層的{c(1)}個英雄
+quest_150_1_3_5<>收集屬於{e(faction_type_~3)}系統或{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_4_5<>收集屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_2_3_4<>收集{c(2)}原星、屬於{e(faction_type_~3)}系統、{e(class_type_~4)}階層的{c(1)}個英雄
+quest_150_1_2_3_5<>收集{c(2)}原星、屬於{e(faction_type_~3)}系統或{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_2_4_5<>收集{c(2)}原星、屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_150_1_2_3_4_5<>收集{c(2)}原星、屬於{e(class_type_~4)}階層、{e(faction_type_~3)}系統或{e(faction_type_~5)}系統的{c(1)}個英雄
+quest_151_1<>收集所有{c(1)}原星的英雄
+quest_151_1_2<>收集所有{c(1)}原星、屬於{c(2)}級的英雄
+quest_151_1_3<>收集所有{c(1)}原星、屬於{e(class_type_~3)}階層的英雄
+quest_151_1_4<>收集所有{c(1)}原星、屬於{e(faction_type_~4)}系統的英雄
+quest_151_1_2_3<>收集所有{c(1)}原星、屬於{c(2)}級、{e(class_type_~3)}階層的英雄
+quest_151_1_2_4<>收集所有{c(1)}原星、屬於{c(2)}級、{e(faction_type_~4)}系統的英雄
+quest_151_1_3_4<>收集所有{c(1)}原星、屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_151_1_2_3_4<>收集所有{c(1)}原星、屬於{c(2)}級、{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_200_1<>使用金礦{c(1)}次
+quest_200_1_2<>使用金礦{c(2)}、{c(1)}次
+quest_201_1<>將金礦,連續使用{c(1)}天
+quest_201_1_2<>將金礦,連續使用{c(1)}天、每天{c(2)}次
+quest_201_1_3<>將金礦 {c(3)}連續使用{c(1)}天
+quest_201_1_2_3<>將金礦 {c(3)}連續使用{c(1)}天、每天{c(2)}次
+quest_300_1<>完成酒吧的 {c(1)}個任務
+quest_300_1_2<>完成 {c(2)}星酒吧的 {c(1)}個任務
+quest_400_1<>參加 競技場的{c(1)}次挑戰
+quest_401_1<>在競技場中贏得了{c(1)}次勝利
+quest_402_1<>在競技場中獲得{c(1)}分
+quest_500_1<>完成戰役 {m(1)}階段
+quest_501_1<>在戰役中獲得{c(1)}次的空閒獎勵
+quest_504_1<>在戰役獲得{c(1)}秒的自動英雄訓練
+quest_503_1<>從委託期獲得{c(1)}個黃金
+quest_600_1<>在 命運之輪旋轉{c(1)}次
+quest_600_1_2<>在{e(casino_type_~2)}旋轉{c(1)}次
+quest_600_1_3<>在 命運之輪旋轉{c(1)}次，獲得{c(3)}星英雄
+quest_600_1_2_3<>在{e(casino_type_~2)}旋轉{c(1)}次，獲得{c(3)}星英雄
+quest_601_1<>在命運之輪旋轉{c(1)}次
+quest_601_1_2<>在{e(casino_type_~2)}旋轉{c(1)}次
+quest_601_1_3<>在 命運之輪中旋轉{c(1)}次，獲得{e(money_type_~3)}
+quest_601_1_2_3<>在{e(casino_type_~2)}中旋轉{c(1)}次， 獲得{e(money_type_~3)}
+quest_650_1<>在命運之輪中連續旋轉{c(1)}次
+quest_650_1_2<>在{e(casino_type_~2)}中連續旋轉{c(1)}次
+quest_650_1_3<>在命運之輪中連續旋轉{c(1)}次，未收到{c(3)} 星英雄
+quest_650_1_2_3<>在{e(casino_type_~2)}中連續旋轉{c(1)}次，未收到{c(3)} 星英雄
+quest_651_1<>在命運之輪中連續旋轉{c(1)}次
+quest_651_1_2<>在{e(casino_type_~2)}中連續旋轉{c(1)}次
+quest_651_1_3<>在命運之輪中連續旋轉{c(1)}次，未收到{e(money_type_~3)}
+quest_651_1_2_3<>在{e(casino_type_~2)}中連續旋轉{c(1)}次，未收到{e(money_type_~3)}
+quest_700_1<>在黑市內購買 {c(1)}次物品
+quest_700_1_2<>在黑市中進行{c(1)}次購買{c(2)}星英雄
+quest_701_1<>
+quest_701_1_2<>在 黑市中購買{c(1)} {e(money_type_~2)}
+quest_750_1<>
+quest_750_1_2<>在黑市上消費{c(1)} {e(money_type_~2)}
+quest_800_1<>{c(1)}次 加入戰隊
+quest_801_1<>每天挑戰工會老闆{c(1)}次
+quest_801_1_2<>每天挑戰工會老闆、{c(2)}級， {c(1)}次
+quest_801_1_3<>挑戰工會老闆{c(1)}次，每次造成至少{c(3)}傷害
+quest_801_1_2_3<>挑戰{c(1)}次的{c(2)}級 工會老闆 ，每次造成至少{c(3)}傷害
+quest_802_1<>連續{c(1)}天挑戰e(game_mode_10)}
+quest_802_1_2<>連續{c(1)}天，每天挑戰e(game_mode_10)}{c(2)}次
+quest_802_1_3<>連續{c(1)}天挑戰{c(3)}級 工會老闆
+quest_802_1_4<>連續{c(1)}天向工會老闆 發起挑戰，每次造成至少{c(4)}傷害
+quest_802_1_2_3<>連續{c(1)}天向工會老闆 發起{c(3)}級挑戰， 每天{c(2)}次
+quest_802_1_2_4<>連續{c(1)}天向工會老闆 發起挑戰， 每天{c(2)}次，每次造成至少{c(4)}傷害
+quest_802_1_3_4<>連續{c(1)}天向工會老闆 發起{c(3)}級挑戰，每次造成至少{c(4)}傷害
+quest_802_1_2_3_4<>連續{c(1)}天向工會老闆 發起{c(3)}級挑戰，每天{c(2)}次，每次造成至少{c(4)}傷害
+quest_803_1<>戰隊對工會老闆造成{c(1)}次的傷害
+quest_803_1_2<>戰隊對工會老闆造成{c(1)}次的{c(2)}級傷害
+quest_803_1_3<>戰隊 {c(1)}次造成至少{c(3)}傷害給工會老闆
+quest_803_1_2_3<>戰隊 {c(1)}次造成至少{c(3)}傷害給{c(2)} 級工會老闆
+quest_820_1<>參加挑戰工會地牢 第 {c(1)}階段
+quest_821_1<>完成工會地牢的第{c(1)}個賽季
+quest_841_1<>在戰隊商店購買{c(1)}個神器
+quest_841_1_2<>在戰隊商店購買{c(1)}個神器{e(artifact_type_~2)}
+quest_900_1<>收集{c(1)}個物品
+quest_900_1_2<>收集{c(1)}個稀有度為{e(equip_rarity_~2)}以上的物品
+quest_901_1<>裝備{c(1)}件物品
+quest_901_1_2<>裝備{c(1)} {e(equip_rarity_~2)}件物品
+quest_902_1<>升級{c(1)} 件物品
+quest_902_1_2<>升級{c(1)} 件物品為 {e(equip_rarity_~2)}稀有度
+quest_902_1_3<>升級{c(1)} 件物品為 {c(3)}星
+quest_902_1_2_3<>將{c(1)}個物品升級為{e(equip_rarity_~2)}稀有度和{c(3)}星
+quest_950_1<>收集了{c(1)}套的物品
+quest_950_1_2<>收集了{c(1)}套{e(equip_rarity_~2)}件的物品
+quest_1000_1<>將召喚師升級到{c(1)}級
+quest_1001_1<>將召喚師進化為{c(1)}星
+quest_1100_1<>在古樹中召喚{c(1)}次
+quest_1100_1_2<>在古樹上召喚{c(1)}次，獲得{c(2)}星英雄
+quest_1100_1_3<>在古樹上召喚{c(1)}次，獲得屬於{e(class_type_~3)}階層的英雄
+quest_1100_1_4<>在古樹上召喚{c(1)}次，獲得屬於{e(faction_type_~4)}系統的英雄
+quest_1100_1_2_3<>在古樹上召喚{c(1)}次，獲得{c(2)}星、屬於{e(class_type_~3)}階層的英雄
+quest_1100_1_2_4<>在古樹上召喚{c(1)}次，獲得{c(2)}星、屬於{e(faction_type_~4)}系統的英雄
+quest_1100_1_3_4<>在古樹上召喚{c(1)}次，獲得屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1100_1_2_3_4<>在古樹上召喚{c(1)}次，獲得{c(2)}星、屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1101_1<>在古樹 {c(1)}次替換英雄
+quest_1101_1_2<>在古樹 {c(1)}次替換{c(2)}星的英雄
+quest_1101_1_3<>在古樹 {c(1)}次替換屬於{e(class_type_~3)}階層的英雄
+quest_1101_1_4<>在古樹 {c(1)}次替換屬於{e(faction_type_~4)}系統的英雄
+quest_1101_1_2_3<>在古樹 {c(1)}次替換{c(2)}星、屬於{e(class_type_~3)}階層的英雄
+quest_1101_1_2_4<>在古樹 {c(1)}次替換{c(2)}星、屬於{e(faction_type_~4)}系統的英雄
+quest_1101_1_3_4<>在古樹 {c(1)}次替換屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1101_1_2_3_4<>在古樹 {c(1)}次替換{c(2)}星、屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1150_1<>在古樹上連續召喚{c(1)}次
+quest_1150_1_2<>在古樹上連續召喚{c(1)}次，未得到{c(2)}星英雄
+quest_1150_1_3<>在古樹上連續召喚{c(1)}次，未得到屬於{e(class_type_~3)}階層的英雄
+quest_1150_1_4<>在古樹上連續召喚{c(1)}次，未得到屬於{e(faction_type_~4)}系統的英雄
+quest_1150_1_2_3<>在古樹上連續召喚{c(1)}次，未得到{c(2)}星、屬於{e(class_type_~3)}階層的英雄
+quest_1150_1_2_4<>在古樹上連續召喚{c(1)}次，未得到{c(2)}星、屬於{e(faction_type_~4)}系統的英雄
+quest_1150_1_3_4<>在古樹上連續召喚{c(1)}次，未得到屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1150_1_2_3_4<>在古樹上連續召喚{c(1)}次，未得到{c(2)}星、屬於{e(class_type_~3)}階層、{e(faction_type_~4)}系統的英雄
+quest_1200_1<>有{c(1)}個友情
+quest_1201_1<>發送{c(1)}次朋友積分
+quest_1202_1<>從朋友那裡獲得{c(1)}次朋友積分
+quest_1250_1<>偵察朋友積分 {c(1)}次
+quest_1251_1<>擊敗朋友積分 {c(1)}次
+quest_1300_1<>解鎖石頭{c(1)}次
+quest_1301_1<>升級石頭{c(1)}次
+quest_1301_1_2<>升級石頭{e(stone_rarity_~2)} {c(1)}次
+quest_1302_1<>轉換石頭{c(1)}次
+quest_1400_1<>收集{c(1)} 神器
+quest_1400_1_2<>從{e(artifact_type_~2)}起收集{c(1)} 神器
+quest_1401_1<>裝備{c(1)} 神器
+quest_1401_1_2<>裝備{c(1)} 神器 {e(artifact_type_~2)}
+quest_1402_1<>升級{c(1)} 神器
+quest_1402_1_2<>升級{c(1)}個 神器 {e(artifact_type_~2)}
+quest_1500_1<>連續登錄{c(1)}天
+quest_1600_1<>完成{c(1)} 龍塔階段
+quest_1700_1<>召喚{c(1)}次
+quest_1700_1_2<>召喚{c(1)}次，獲得{c(2)}星英雄
+quest_1700_1_3<>召喚{c(1)}次，獲得{c(3)}級英雄
+quest_1700_1_4<>召喚{c(1)}次，獲得{e(class_type_~4)}階層的英雄
+quest_1700_1_5<>召喚{c(1)}次，獲得{e(faction_type_~5)}系統的英雄
+quest_1700_1_2_3<>召喚{c(1)}次，獲得{c(2)}星、{c(3)}級的英雄
+quest_1700_1_2_4<>召喚{c(1)}次，獲得{c(2)}星， {e(class_type_~4)}階層的英雄
+quest_1700_1_2_5<>召喚{c(1)}次，獲得{c(2)}星， {e(faction_type_~5)}系統的英雄
+quest_1700_1_3_4<>召喚{c(1)}次，獲得 屬於{c(3)}級，{e(class_type_~4)}階層的英雄
+quest_1700_1_3_5<>召喚{c(1)}次，獲得 屬於{c(3)}級，{e(faction_type_~5)}系統的英雄
+quest_1700_1_4_5<>召喚{c(1)}次，獲得 屬於{e(class_type_~4)}階層，{e(faction_type_~5)}系統的英雄
+quest_1700_1_2_3_4<>召喚{c(1)}次，獲得{c(2)}星、 屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_1700_1_2_3_5<>召喚{c(1)}次，獲得{c(2)}星、 屬於{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_1700_1_2_4_5<>召喚{c(1)}次，獲得{c(2)}星、 屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1700_1_2_3_4_5<>召喚{c(1)}次，獲得{c(2)}星、 屬於{c(3)}級、{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的英雄
+quest_1701_1<>使用 基本召喚 {c(1)}次
+quest_1701_1_2<>使用基本召喚{c(1)}次，獲得{c(2)}星英雄
+quest_1701_1_3<>使用基本召喚{c(1)}次，獲得 {c(3)}級的英雄
+quest_1701_1_4<>使用基本召喚{c(1)}次，獲得 {e(class_type_~4)}階層的英雄
+quest_1701_1_5<>使用基本召喚{c(1)}次，獲得 {e(faction_type_~5)}系統的英雄
+quest_1701_1_2_3<>使用基本召喚{c(1)}次，獲得{c(2)}星、{c(3)}級的英雄
+quest_1701_1_2_4<>使用基本召喚{c(1)}次，獲得{c(2)}星、{e(class_type_~4)}階層的英雄
+quest_1701_1_2_5<>使用基本召喚{c(1)}次，獲得{c(2)}星、{e(faction_type_~5)}系統的英雄
+quest_1701_1_3_4<>使用基本召喚{c(1)}次，獲得{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_1701_1_3_5<>使用基本召喚{c(1)}次，獲得{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_1701_1_4_5<>使用基本召喚{c(1)}次，獲得屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1701_1_2_3_4<>使用基本召喚{c(1)}次，獲得{c(2)}星、屬於{c(3)} 級、{e(class_type_~4)}階層的英雄
+quest_1701_1_2_3_5<>使用基本召喚{c(1)}次，獲得{c(2)}星、屬於{c(3)} 級、{e(faction_type_~5)}系統的英雄
+quest_1701_1_2_4_5<>使用基本召喚{c(1)}次，獲得{c(2)}星、屬於{e(class_type_~4)} 階層、{e(faction_type_~5)}系統的英雄
+quest_1701_1_2_3_4_5<>使用基本召喚{c(1)}次，獲得{c(2)}星、屬於{c(3)} 級、{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1702_1<>高級召喚{c(1)}次
+quest_1702_1_2<>使用 高級召喚{c(1)}次，獲得{c(2)}星英雄
+quest_1702_1_3<>使用高級召喚 {c(1)}次，獲得{c(3)}級的英雄
+quest_1702_1_4<>使用高級召喚 {c(1)}次，獲得屬於{e(class_type_~4)}階層的英雄
+quest_1702_1_5<>使用高級召喚 {c(1)}次，獲得屬於{e(faction_type_~5)}系統的英雄
+quest_1702_1_2_3<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級的英雄
+quest_1702_1_2_4<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{e(class_type_~4)}階層的英雄
+quest_1702_1_2_5<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{e(faction_type_~5)}系統的英雄
+quest_1702_1_3_4<>使用高級召喚 {c(1)}次，獲得屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_1702_1_3_5<>使用高級召喚 {c(1)}次，獲得屬於{c(3)}級、{e(faction_type_~5)} 系統的英雄
+quest_1702_1_4_5<>使用高級召喚 {c(1)}次，獲得屬於{e(class_type_~4)}階層、{e(faction_type_~5)} 系統的英雄
+quest_1702_1_2_3_4<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級 、{e(class_type_~4)}階層的英雄
+quest_1702_1_2_3_5<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級 {e(faction_type_~5)}系統的英雄
+quest_1702_1_2_4_5<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{e(class_type_~4)}階層、 {e(faction_type_~5)}系統的英雄
+quest_1702_1_2_3_4_5<>使用高級召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級 、{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1703_1<>{c(1)}次召喚朋友
+quest_1703_1_2<>使用朋友召喚 {c(1)}次，獲得{c(2)}星的英雄
+quest_1703_1_3<>使用朋友召喚 {c(1)}次，獲得{c(3)}級的英雄
+quest_1703_1_4<>使用朋友召喚 {c(1)}次，獲得{e(class_type_~4)}階層的英雄
+quest_1703_1_5<>使用高級召喚 {c(1)}次，獲得{e(faction_type_~5)}系統的英雄
+quest_1703_1_2_3<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、{c(3)}級的英雄
+quest_1703_1_2_4<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{e(class_type_~4)}階層的英雄
+quest_1703_1_2_5<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{e(faction_type_~5)}系統的英雄
+quest_1703_1_3_4<>使用朋友召喚 {c(1)}次，獲得屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_1703_1_3_5<>使用朋友召喚 {c(1)}次，獲得屬於{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_1703_1_4_5<>使用朋友召喚 {c(1)}次，獲得屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1703_1_2_3_4<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級、{e(class_type_~4)}階層的英雄
+quest_1703_1_2_3_5<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級、{e(faction_type_~5)}系統的英雄
+quest_1703_1_2_4_5<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1703_1_2_3_4_5<>使用朋友召喚 {c(1)}次，獲得{c(2)}星、屬於{c(3)}級、 {e(class_type_~4)}階層、 {e(faction_type_~5)}系統的英雄
+quest_1750_1<>連續{c(1)}次召喚
+quest_1750_1_2<>在{e(summon_type_~2)}上連續召喚{c(1)}次
+quest_1750_1_3<>連續{c(1)}次召喚， 未獲得{c(3)} 星英雄
+quest_1750_1_4<>連續召喚{c(1)}次，未獲得屬於 {e(class_type_~4)}階層的英雄
+quest_1750_1_5<>連續召喚{c(1)}次，未獲得屬於 {e(faction_type_~5)}系統的英雄
+quest_1750_1_2_3<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得{c(3)}星英雄
+quest_1750_1_2_4<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得屬於{e(class_type_~4)}階層的英雄
+quest_1750_1_2_5<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得屬於{e(faction_type_~5)}系統的英雄
+quest_1750_1_3_4<>連續召喚{c(1)}次，但未獲得{c(3)}星英雄，屬於{e(class_type_~4)}階層的英雄
+quest_1750_1_3_5<>連續召喚{c(1)}次，但未獲得{c(3)}星英雄，屬於{e(faction_type_~5)}系統的英雄
+quest_1750_1_4_5<>連續召喚{c(1)}次，但未獲得屬於 {e(class_type_~4)} 階層、{e(faction_type_~5)}系統的英雄
+quest_1750_1_2_3_4<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得{c(3)} 星、屬於{e(class_type_~4)}階層的英雄
+quest_1750_1_2_3_5<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得{c(3)} 星、屬於{e(faction_type_~5)}系統的英雄
+quest_1750_1_2_4_5<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1750_1_2_3_4_5<>在{e(summon_type_~2)}上連續召喚{c(1)}次，未獲得{c(3)} 星、屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的英雄
+quest_1800_1<>在一天完成{c(1)}個每日任務
+quest_1801_1<>在連續{c(1)}天完成每日任務
+quest_1801_1_2<>在連續{c(1)}天 完成{c(2)}個每日任務
+quest_1802_1<>完成{c(1)}個每日任務
+quest_1900_1<>達到{c(1)}個Vip等級
+quest_2000_1<>
+quest_2000_1_2<>賺取{c(1)} {e(money_type_~2)}
+quest_2001_1<>
+quest_2001_1_2<>消費{c(1)} {e(money_type_~2)}
+quest_2100_1<>完成{c(1)} 地牢階段
+quest_2101_1<>選擇{c(1)}個英雄加入地牢
+quest_2102_1<>在地牢中使用藥水{c(1)}次
+quest_2102_1_2<>在地牢中使用{e(potion_type_~2)} {c(1)}次
+quest_2103_1<>從地牢的商舖購買{c(1)}件物品
+quest_2104_1<>從地牢的神秘商人購買{c(1)}件物品
+quest_2200_1<>成功添加輔助電子郵件{c(1)}次
+quest_2300_1<>選擇{c(1)}個英雄加入戰鬥
+quest_2300_1_2<>選擇{c(1)}個英雄加入{e(game_mode_~2)}
+quest_2300_1_3<>選擇{c(1)} 個{c(3)}星的英雄
+quest_2300_1_2_3<>選擇{c(1)}個 {c(3)}星的英雄加入{e(game_mode_~2)}
+quest_2301_1<>選擇{c(1)}個同一個系統的英雄加入戰鬥
+quest_2301_1_2<>選擇{c(1)}個英雄加入{e(game_mode_~2)}
+quest_2301_1_3<>選擇{c(1)}個 {c(3)}星的英雄
+quest_2301_1_4<>選擇{c(1)}個屬於{e(faction_type_~4)}系統的英雄
+quest_2301_1_2_3<>選擇{c(1)}個 {c(3)}星的英雄加入{e(game_mode_~2)}
+quest_2301_1_2_4<>選擇{c(1)}個屬於{e(faction_type_~4)}系統的英雄加入{e(game_mode_~2)}
+quest_2301_1_3_4<>選擇{c(1)}個{c(3)}星的英雄，屬於{e(faction_type_~4)}系統
+quest_2301_1_2_3_4<>選擇{c(1)}個{c(3)}星、 屬的{e(faction_type_~4)}系統的英雄加入{e(game_mode_~2)}
+quest_2302_1<>選擇編隊{c(1)}次
+quest_2302_1_2<>{c(1)}次選擇與{e(formation_type_~2)}編隊不同的編隊
+quest_2303_1<>激活同伴增益{c(1)}次
+quest_2303_1_2<>激活同伴增益{e(companion_type_~2)}{c(1)}次
+quest_2400_1<>升級補充表{c(1)}次
+quest_2400_1_2<>升級補充表{c(1)}次{e(mastery_type_~2)}
+quest_2400_1_3<>升級屬於 {e(class_type_~3)}階層的補充表{c(1)}次
+quest_2400_1_4<>升級補充表為{c(4)}級{c(1)}次
+quest_2400_1_2_3<>將屬於{e(class_type_~3)}階層的英雄的補充表 {e(mastery_type_~2)}升級{c(1)}次
+quest_2400_1_2_4<>將補充表 {e(mastery_type_~2)}升級為{c(4)}級{c(1)}次
+quest_2400_1_3_4<>將屬於{e(class_type_~3)}階層的英雄的補充表 升級為{c(4)}級{c(1)}次
+quest_2400_1_2_3_4<>Upgrade {e(mastery_type_~2)} in 補充表 of {e(class_type_~3)} class to level {c(4)} {c(1)} time(s) 
+quest_2500_1<>參加挑戰{c(1)}次
+quest_2500_1_2<>挑戰{e(raid_type_~2)} {c(1)}次
+quest_2600_1<>加入Facebook頁面
+quest_505_1<>挑戰戰役 {c(1)}次
+quest_1601_1<>挑戰 龍塔 {c(1)}次
+quest_201_1_2_3_1<>Use 金礦 {c(3)} {c(2)} times each day for {c(1)} day(s)
+quest_822_1<>挑戰戰隊地牢{c(1)}次
+quest_822_1_2<>挑戰戰隊地牢階段{c(2)} {c(1)}次
+quest_830_1<>戰隊報導{c(1)}次
+quest_105_1<>重設{c(1)}個英雄
+quest_105_1_2<>重設{c(1)} 個{c(2)}星的英雄
+quest_105_1_3<>重置{c(1)} 個{c(3)}級的英雄
+quest_105_1_4<>重置{c(1)}個屬於 {e(class_type_~4)}階層的英雄
+quest_105_1_5<>重置{c(1)}個屬於 {e(faction_type_~5)}系統的英雄
+quest_105_1_2_3<>重設屬於{c(3)}級的{c(1)}個 {c(2)}星英雄
+quest_105_1_2_4<>重設屬於{e(class_type_~4)}階層的{c(1)}個 {c(2)}星英雄
+quest_105_1_2_5<>重設屬於{e(faction_type_~5)}系統的{c(1)}個 {c(2)}星英雄
+quest_105_1_3_4<>重設屬於{e(class_type_~4)}階層、{c(3)}級的{c(1)}個英雄
+quest_105_1_3_5<>重設屬於{e(faction_type_~5)}系統、{c(3)}級的{c(1)}個英雄
+quest_105_1_4_5<>重設屬於{e(faction_type_~5)}系統、{e(class_type_~4)}階層的{c(1)}個英雄
+quest_105_1_2_3_4<>重設屬於{c(3)}級、{e(class_type_~4)}階層的{c(1)}個 {c(2)}星英雄
+quest_105_1_2_3_5<>重設屬於{c(3)}級、{e(faction_type_~5)}系統的{c(1)}個 {c(2)}星英雄
+quest_105_1_2_4_5<>重設屬於{e(class_type_~4)}階層、{e(faction_type_~5)}系統的{c(1)}個 {c(2)}星英雄
+quest_105_1_2_3_4_5<>重設屬於{c(3)}級、{e(class_type_~4)}階層、{e(faction_type_~5)}系統的{c(1)}個 {c(2)}星英雄
+quest_1700_1_6<>召喚 {c(1)} 次 {e(summon_type_~6)}
+quest_1700_1_2_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero by {e(summon_type_~6)}
+quest_1700_1_3_6<>Summon {c(1)} time(s) and receive Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_6<>Summon {c(1)} time(s) and receive {c(2)}-star Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero by {e(summon_type_~6)}
+quest_1700_1_2_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_3_4_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_3_5_6<>Summon {c(1)} time(s) and receive {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_4_5_6<>Summon {c(1)} time(s) and receive {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_3_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(faction_type_~5)}-faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_1700_1_2_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)}-faction Hero by {e(summon_type_~6)}
+quest_1700_1_2_3_4_5_6<>Summon {c(1)} time(s) and receive {c(2)}-star {e(class_type_~4)}-class {e(faction_type_~5)} faction Hero level {c(3)} by {e(summon_type_~6)}
+quest_507_1<>戰役快速戰鬥{c(1)}次
+quest_2701_1<>充值{c(1)}次
+quest_2701_1_2<>充值{c(1)}次
+quest_152_1_2_3<>得到{n(2)} {c(3)}星{c(1)}倍
+quest_3000_1<>戰鬥堡壘 {c(1)}次
+quest_3000_1_2<>戰鬥堡壘 {c(1)}次
+quest_3000_1_2_3<>在 堡壘 {c(1)} 次贏得戰鬥
+quest_3001_1<>在堡壘 {c(1)}倍權利要求空閒獎勵 
+quest_3001_1_2<>在堡壘 {c(1)}倍權利要求空閒獎勵 
+quest_3002_1<>Pass stage {c(1)}
+quest_3002_1_2<>在{c(2)}中通過階段{c(1)}
+quest_3002_1_2_3<>在{c(2)}中通過階段{c(1)}
+quest_1804_1<>在一天內完成 {c(1)} 個活動任務。
+quest_450_1<>參加 武術競技場 的{c(1)}次挑戰
+quest_450_1_2<>參加 武術競技場 的{c(1)}次挑戰
+quest_451_1<>在武術競技場 中贏得了{c(1)}次勝利
+quest_452_1<>在武術競技場 中獲得{c(1)}分
+quest_453_1<>挑戰競技場 3v3 連續次數是 {c(1)}
+quest_453_1_2<>挑戰競技場 3v3 連續次數是 {c(1)}
+quest_1501_1<>登錄遊戲。
+quest_751_1<>刷新 黑市 {c(1)} 次。
+quest_152_1_3<>獲得 {c(1)} 個英雄 {c(3)} 個星星。
+quest_460_1<>挑戰 競技場 {c(1)} 次
+quest_460_1_2<>{c(2)} 競技場 {c(1)} 次。
+quest_1850_1<>完成 {c(1)} 個每週任務。
+quest_1850_1_2<>在 週{c(2)}內完成 {c(1)} 個每週任務。
+quest_2751_1<>要求免費捆綁包{c(1)}時間。
+quest_1950_1<>觀看視頻可獲得 玉 {c(1)} 次。
+quest_310_1<>在 領域 中通过阶段 {c(1)}
+quest_310_1_2<>在 領域 中通过阶段 {c(2)} {c(1)} 次
+quest_311_1<>参与 領域 {c(1)} 次
+quest_312_1<>在 領域 第 {c(1)} 天完成所有阶段。 （第 1 天：周一；第 2 天：周二；第 3 天：周三；第 4 天：周四；第 5 天：周五）
+quest_312_1_2<>在 領域 {c(1)} 次内完成第 {c(2)} 天的所有阶段。（第 1 天：周一；第 2 天：周二；第 3 天：周三；第 4 天：周四；第 5 天：周五）
+quest_2701_1_3<>購買{c(1)}次，每次超過${c(3)}美元 (USD)
+quest_1810_1<>在一天完成{c(1)}個每日任務
+quest_1820_1<>完成 {c(1)} 個活動任務
+quest_1815_1_2<>點亮一顆星星 {c(1)} 次
+quest_1855_1<>參加戰鬥挑戰{c(1)}次
+quest_1816_1<>在龍的寶藏中打開{c(1)}箱子。
+quest_1817_1_2<>花費了{c(1)} eitri錘子
+quest_508_1<>在廣告系列中要求空閒獎勵{t(1)}
+quest_2901_1<>给Qilin {c(1)} 月餅

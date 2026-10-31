@@ -1,0 +1,2287 @@
+key<>value
+notice_content<><size=50> Bản cập nhật %s: </size>\n \n1. Sự kiện:\n- Sự Kiện Thử thách Boss\n- Sự kiện Tháp của Eitri\n2. Chỉnh sửa gói thẻ tháng\n3. Tối ưu hóa trò chơi
+number_current_patch<>3.1.5
+number_next_patch<>3.1.6
+version_notice_recent<>1. Sự kiện:\n- Sự Kiện Thử thách Boss\n- Sự kiện Tháp của Eitri\n2. Chỉnh sửa gói thẻ tháng\n3. Tối ưu hóa trò chơi
+version_notice_next<>Chú ý: Chi tiết các tính năng có thể được thay đổi theo kế hoạch của nhà sản xuất, những thông tin dưới đây không chính xác 100%.\n \n1. Sự kiện mới\n2. Tối ưu hóa trò chơi
+version_notice_maintenance<>Bảo trì cho phiên bản %s\n\nTheo dõi trang facebook và tham gia discord để cập nhật thông tin mới nhất.\n\nLưu ý: Kế hoạch bảo trì có thể thay đổi do kế hoạch của nhà sản xuất.
+notice<>Thông báo
+tap_to_play<>Chạm để chơi
+setting<>Cài đặt
+account<>Tài khoản
+id<>Id
+summoner<>Tên
+register_account<>Đăng ký tài khoản
+change_password<>Thay đổi mật khẩu
+switch_server<>Chuyển đổi máy chủ
+switch_account<>Chuyển đổi tài khoản
+email_verify<>Email khôi phục
+game_version<>Phiên bản trò chơi
+close<>Đóng
+closed<>Đã đóng
+sound<>Hiệu ứng âm thanh
+music<>Nhạc
+graphic_quality<>Chất lượng đồ họa
+low<>Thấp
+medium<>Trung bình
+high<>Cao
+language<>Ngôn ngữ
+language_setting<>Chọn ngôn ngữ
+password<>Mật khẩu
+enter_text<>Nhập id của bạn bè
+forget<>Quên
+do_you_want_restore<>Bạn có muốn khôi phục không?
+register<>Đăng ký
+login<>Đăng nhập
+restore<>Khôi phục
+confirm_password<>Xác nhận mật khẩu
+cancel<>Hủy bỏ
+confirm<>Xác nhận
+new_password<>Mật khẩu mới
+confirm_new_password<>Xác nhận mật khẩu mới
+please_select_language<>Vui lòng chọn ngôn ngữ
+daily_checkin<>Điểm Danh
+mail<>Thư
+friend<>Bạn bè
+shop<>Cửa Hàng
+main_character<>Triệu Hồi Sư
+mastery<>Bảng Bổ Trợ
+inventory<>Túi
+hero_list<>Anh Hùng
+event<>Sự Kiện
+daily_reward<>Thưởng hàng ngày
+checkin_progress<>Tiến trình điểm danh %s
+reply<>Trả lời
+claim<>Nhận
+mail_box<>Hộp thư
+claim_all<>Nhận tất cả
+system_mail<>Thư hệ thống
+player_mail<>Thư người chơi
+mail_empty<>Hộp thư trống
+received_applications<>Đã nhận yêu cầu
+recommended_friend<>Đề xuất
+claim_and_send<>Nhận và Gửi
+friend_list<>Danh sách bạn bè
+search<>Tìm kiếm
+friend_request<>Yêu cầu kết bạn
+help_fight<>Thám Hiểm
+apply<>Áp dụng
+delete_all<>Xóa hết
+delete<>Xóa
+scout<>Do thám
+ranking_point<>Điểm xếp hạng
+ranking_reward<>Phần thưởng xếp hạng
+battle_reward<>Phần thưởng trận đấu
+battle<>Trận đấu
+smash<>Đánh nhanh
+preview<>Xem trước
+auto_fill<>Tự động chọn
+disassemble<>Tháo dỡ
+heroese<>Anh hùng
+ok<>Đồng ý
+yes<>Có
+no<>Không
+not_select_all_hero<>Không thể chọn tất cả Anh hùng
+do_disassemble_hero_4_star<>Bạn thật sự muốn tháo dỡ Anh hùng có sao cao hơn %s?
+you_need_select_hero<>Bạn cần chọn một anh hùng
+do_you_want_disassemble<>Bạn thật sự muốn tháo dỡ?
+basic<>Cơ bản
+premium<>Cao cấp
+refresh<>Làm mới
+time<>Thời gian
+forge<>Rèn
+available_to_forge<>Sẵn có để rèn:
+weapon<>Vũ khí
+armor<>Giáp
+helmet<>Mũ
+ring<>Nhẫn
+rank_x<>Xếp hạng: %s
+season_ranking<>Xếp hạng mùa giải
+point<>Điểm
+group_ranking<>Xếp hạng nhóm
+score<>Điểm số
+reward<>Phần thưởng
+record<>Ghi lại
+defense<>Phòng thủ
+choose_rival<>Chọn Đối thủ
+change<>Đổi
+your_current_rank_x<>Thứ hạng hiện tại của bạn: %s
+reward_will_sent<>Phần thưởng sẽ được gửi vào 
+reward_will_sent_x<>Phần thưởng sẽ được gửi vào: %s
+wave<>Đợt
+will_open_in<>Sẽ mở sau:
+will_end_in<>Sẽ kết thúc sau
+quick<>Nhanh
+secret_shop<>Thương lái
+skip<>Bỏ qua
+buy<>Mua
+primary_merchant<>Tiểu Thương
+medium_merchant<>Trung thương
+senior_merchant<>Đại thương gia
+mysterious_merchant<>Thương gia bí ẩn
+primary<>Tập sự
+senior<>Cao cấp
+formation<>Đội hình
+save<>Lưu
+material<>Nguyên liệu
+upgrade<>Nâng cấp
+skip_battle<>Bỏ qua trận đấu
+back<>Quay lại
+front<>Hàng trước
+gallery<>Bộ sưu tập
+linking<>Liên kết
+sort<>Sắp xếp
+level<>Cấp độ
+star<>Sao
+select_hero_altar<>Chọn Anh hùng để phân giải
+replay<>Diễn lại
+reward_current_ranking<>Thưởng thứ hạng hiện tại
+hero_shard<>Mảnh Anh hùng
+tap_to_close<>Chạm để đóng
+avatar<>Hình đại diện
+border<>Khung
+avatar_border<>Hình đại diện và Khung
+current_avatar<>Hình đại diện và Khung hiện tại
+select_avatar<>Vui lòng chọn hình đại diên
+select_border<>Vui lòng chọn Khung
+world<>Thế giới
+send<>Gửi
+chat_option_1<>Thông Tin VIP
+chat_option_2<>Chặn trò chuyện Thế giới
+chat_option_3<>Chặn trò chuyện Bang hội
+chat_option_4<>Chặn trò chuyện Tuyển mộ
+select_hero_battle<>Chọn Anh hùng để chiến đấu
+vs<>VS
+hero_info<>Thông tin
+equip<>Trang bị
+evolve<>Tiến hóa
+skin<>Trang phục
+level_to_max<>Lv.Max
+level_up<>Nâng cấp
+unlock_level<>Mở khóa ở cấp: %s
+unequip<>Cởi bỏ
+auto_equip<>Trang bị nhanh
+awaken<>Thức tỉnh
+switch_character<>Chuyển đổi triệu hồi sư
+exp<>EXP
+free<>Miễn phí
+free_x<>Miễn phí %s
+summon<>Triệu hồi
+summon_x<>Triệu hồi %s
+storage<>Kho đồ
+fragment<>Mảnh
+artifact<>Cổ vật
+leaderboard<>Bảng xếp hạng
+quest<>Nhiệm vụ
+damage_stat<>Chỉ số sát thương
+notification<>Thông báo
+spin_x<>Quay %s
+next_force_refresh<>Làm mới sau:
+pack_of_item<>Gói vật phẩm
+congratulation<>Chúc mừng
+smash_title<>Bạn muốn thách đấu bao nhiêu lần?
+select_heroes<>Chọn Anh hùng
+requirement<>Yêu cầu
+start<>Bắt đầu
+quest_refresh_in<>Nhiệm vụ ({1}) sẽ được đặt lại sau {2}
+speed_up<>Tăng tốc
+complete<>Hoàn thành
+block<>Chặn
+unblock<>Bỏ chặn
+send_mail<>Thư đã gửi
+refresh_in<>Làm mới sau: %s
+remaining_attempts<>Lượt còn lại:
+challenge<>Vào trận
+rename<>Đổi tên
+x_character<>%s ký tự
+change_avatar<>Tuỳ chỉnh Hình đại diện và Khung
+vip<>Thông tin VIP
+replace_hero<>Thay thế Anh hùng
+select_your_hero<>Chọn Anh hùng của bạn
+please_select_hero_replace<>Vui lòng chọn Anh hùng thay thế
+convert<>Chuyển đổi
+lock_current_stat<>Khóa thuộc tính hiện tại
+upgrade_artifact<>Nâng cấp cổ vật
+select_material_artifact<>Vui lòng chọn cổ vật nguyên liệu 
+training_hero<>Huấn luyện
+to_complete_training<>Thời gian huấn luyện tất cả Anh hùng tối đa
+select_item<>Chọn vật phẩm
+map<>Bản đồ
+select_material_hero<>Vui lòng chọn Anh hùng nguyên liệu 
+select<>Chọn
+unlock_star<>Mở khóa ở %s sao
+guild_application<>Danh sách xin gia nhập
+request_x<>Yêu cầu %s
+accept<>Chấp nhận
+decline<>Từ chối
+guild_foundation<>Thiết lập bang hội
+recommended<>Đề xuất
+enter_guild_name_id<>Nhập id hoặc tên Bang hội
+found<>Tạo
+guild_content<>Bạn có thể tham gia hoặc tự tạo bang hội để nhận quà hoạt động bang hội.
+member_x<>Thành viên %s
+emblem<>Biểu tượng
+info<>Thông tin
+enter_guild_name<>Nhập tên bang hội
+enter_guild_info<>Nhập thông tin bang hội
+recruit<>Tuyển mộ
+daily_boss<>Boss Bang hội
+checkin<>Điểm danh
+application<>Danh sách xin gia nhập
+input_recruit_info<>Vui lòng nhập thông tin tuyển mộ của bạn
+kick<>Đuổi
+demote<>Hạ cấp
+promote<>Thăng cấp
+season_reward<>Phần thưởng mùa
+self_damage<>Sát thương bản thân:
+guild_damage<>Sát thương bang hội:
+level_boss_x<>Cấp độ Boss %s
+unlock_at_guild_x<>Mở khóa ở cấp bang hội %s
+current_reward<>Phần thưởng hiện tại
+next_reward<>Phần thưởng tiếp theo
+guild_log<>Nhật ký bang hội
+stage_reward<>Phần thưởng màn chơi
+map_stage<>Bản đồ {1}, màn chơi {2}, độ khó {3}
+need_input_code<>Vui lòng nhập mã
+need_input_mail<>Vui lòng nhập email để khôi phục tài khoản
+input_code_fail<>Mã không hợp lệ
+confirm_new_password_fail<>Xác nhận mật khẩu mới thất bại
+need_input_new_password<>Vui lòng nhập mật khẩu mới
+can_not_claim_reward<>Đã Nhận!
+max_buy_turn_daily<>Lượt mua hàng ngày đạt tối đa
+coming_soon<>Sắp ra mắt
+limit_purchase_this_pack<>Bạn đã đạt đến giới hạn mua cho gói này
+member_kick_guild<>Thành viên đã bị đuổi khỏi Bang Hội
+failed_kick_member<>Đuổi thành viên thất bại
+login_current_account<>Đăng nhập tài khoản hiện tại
+member_role_changed<>Vai trò của thành viên đã thay đổi
+guild_sub_leader_reached_limit<>Phó bang đã đạt đến giới hạn
+failed_change_member_role<>Thay đổi vai trò thành viên thất bại
+input_password_failed<>Mật khẩu không đúng
+input_user_name_failed<>Tên người dùng không đúng
+enter_recruit_info_please<>Vui lòng nhập thông tin ứng tuyển
+send_recruit_successful<>Gửi yêu cầu gia nhập thành công
+fail_send_recruit_info<>Gửi thông tin xin gia nhập thất bại
+fail_get_data<>Tải dữ liệu thất bại
+fail_refresh<>Làm mới thất bại
+player_joined_guild<>Người chơi đã gia nhập một Bang Hội
+guild_limit_member<>Bang hội đã đủ thành viên
+need_permission_perform_action<>Bạn không có quyền thực hiện hành động này.
+failed_get_dungeon_stage<>Tải dữ liệu Hoả Ngục thất bại.
+send_request_successful<>Đã gửi yêu cầu thành công
+already_in_guild<>Bạn đã ở trong Bang Hội
+please_enter_guild_name<>Vui lòng nhập tên Bang Hội
+create_guild_success<>Tạo thành công Bang Hội
+create_guild_failed<>Tạo bang hội thất bại.
+upgrade_guild_success<>Cập nhật thông tin Bang Hội thành công
+challenge_guild_dungeon_success<>Thách đấu Hoả Ngục Bang Hội thành công
+guild_description_invalid<>Mô tả bang hội không hợp lệ
+failed_challenge_guild_dungeon<>Thách đấu Hoả Ngục Bang Hội thất bại
+guild_description_bad_word<>Mô tả chứa từ bị cấm.
+password_failed<>Mật khẩu không đúng
+try_again_few_seconds<>Vui lòng thử lại sau vài giây
+need_input<>Vui lòng nhập id hoặc tên Bang Hội
+insert_least_one_hero<>Vui lòng chọn ít nhất một Anh hùng
+change_success<>Thay đổi thành công!
+email<>Email
+code_verify<>Mã xác nhận
+master_can_not_quit_guild<>Bang chủ không thể rời khỏi Hội
+sure_leave_guild<>Bạn có chắc chắn muốn rời khỏi Bang Hội?
+have_left_guild<>Bạn đã rời khỏi Bang Hội
+need_level_mastery<>Bạn cần nâng cấp tất cả Bảng Bổ trợ lên cấp %s
+login_failed<>Đăng nhập thất bại
+boss_died<>Boss đã bị đánh bại
+limit_level_x<>Không thể tấn công do chênh lêch cấp độ quá %s
+continue_facebook<>Tiếp tục với facebook
+remove_friend_success<>Xóa thành công!
+do_want_delete_mail<>Bạn có muốn xóa thư không?
+can_not_claim_mail<>Nhận thư thất bại
+send_success<>Gửi thành công!
+claim_success<>Nhận thành công!
+claim_send_success<>Nhận và gửi thành công!
+can_not_claim_send<>Không có trái tim để nhận hoặc gửi
+do_want_delete_all<>Bạn có muốn xóa tất cả?
+add_friend_success<>Thêm bạn thành công
+hero_in_arena<>Anh hùng trong đấu trường
+hero_in_training<>Anh hùng trong huấn luyện tự động
+require_level_x<>Yêu cầu cấp độ %s
+help<>Trợ giúp
+guild_name_contain_banned_word<>Tên Bang Hội không hợp lệ
+guild_desc_contain_banned_word<>Mô tả Bang Hội không hợp lệ
+selected<>Đã chọn
+not_enough_x<>Không đủ %s
+casino_shop<>Cửa hàng Mong Ước
+altar_shop<>Cửa hàng Điện Thờ
+guild_shop<>Cửa hàng Bang Hội
+arena_shop<>Cửa hàng Đấu Trường
+want_to_buy<>Bạn có chắc chắn muốn mua vật phẩm này không?
+require_tavern<>Anh hùng này không đáp ứng yêu cầu nhiệm vụ
+require_hero_star_x<>Yêu cầu Anh hùng %s sao
+require_hero_faction_x<>Yêu cầu anh hùng thuộc hệ %s
+require_hero_class_x<>Yêu cầu anh hùng thuộc lớp %s
+want_to_cancel_quest<>Bạn có muốn hủy bỏ nhiệm vụ?
+want_to_speed_up<>Bạn có muốn tăng tốc nhiệm vụ?
+not_enough_equipment<>Không đủ nguyên liệu
+noti_full_hero<>Vị trí Anh hùng đã đầy
+unlock_new_function<>Chức năng mới
+reset<>Phục hồi
+mastery_skill<>Kỹ năng của Bảng Bổ Trợ
+need_reset_main_mastery<>Bạn cần thiết lập lại Bảng Bổ Trợ
+want_to_reset<>Bạn có muốn thiết lập lại?
+not_enough_resource<>Không đủ tài nguyên
+user_profile<>Thông tin người dùng
+fanpage<>Page Facebook
+go_to_fanpage_notice<>Vui lòng đi tới trang chủ để được hỗ trợ
+want_to_switch_server<>Bạn có muốn chuyển đổi máy chủ?
+want_to_new_server<>Bạn có muốn đăng ký một nhân vật mới ở máy chủ này?
+want_to_clear_data<>Bạn có muốn xóa dữ liệu?
+connecting_server<>Kết nối với máy chủ...
+init_service<>Khởi tạo...
+init_data_request<>Khởi tạo dữ liệu...
+init_resource_request<>Khởi tạo tài nguyên...
+download_asset_bundle<>Tải xuống tài nguyên...
+next_scout<>Do thám lần tới vào: %s
+summoner_can_view<>Tác dụng của Triệu hồi sư giống nhau với mọi hệ nguyên tố.
+require_stage_x<>Hoàn thành màn chơi {1} {2}-{3} để mở khóa
+hero_info_max_level<>Anh hùng đã đạt cấp độ tối đa
+daily_quest<>Nhiệm vụ hàng ngày
+hero_level_cap_to<>Cấp Anh hùng tối đa: %s
+bonus_class<>Thưởng thêm cho phái {1}
+bonus_faction<>Thưởng thêm cho hệ {1}
+bonus_class_faction<>Thưởng thêm cho phái {1} và hệ {2}
+free_gem<>Ngọc miễn phí
+skill_enhance<>Tiến hóa kỹ năng
+level_cap<>Giới hạn cấp độ
+how_many_purchase<>Vui lòng nhập số lượng {1}
+sell<>Bán
+vip_full<>Cấp VIP đã đạt tới giới hạn
+copy_to_clipboard<>Sao chép vào khay nhớ tạm
+player_blocked<>Người chơi đã bị chặn
+hero_fragment_title_star<>Mảnh Anh hùng {1} sao
+hero_fragment_faction<>Mảnh Anh hùng {1} sao hệ {2}
+hero_fragment_name<>Mảnh của {1}
+hero_fragment_star<>Mảnh Anh hùng {1} sao
+hero_fragment_star_faction<>Mảnh Anh hùng {2} {1} sao
+hero_fragment_info<>Thu thập {1} mảnh để triệu hồi Anh hùng
+artifact_fragment_title_1<>Mảnh Cổ Vật Hiếm
+artifact_fragment_title_2<>Mảnh Cổ Vật Cổ Đại
+artifact_fragment_title_3<>Mảnh Cổ Vật Huyền Thoại
+artifact_fragment_title_4<>Mảnh Cổ Vật Huyền Thoại (Đặc Biệt)
+artifact_fragment_title_5<>Mảnh Cổ Vật Bất Diệt
+artifact_fragment_title_6<>Mảnh Cổ Vật Bất Diệt(Đặc Biệt)
+artifact_fragment_info<>Thu thập {1} mảnh để triệu hồi một Cổ vật ngẫu nhiên.
+require_level_stage<>Yêu cầu màn chơi {2} {3}-{4} và cấp {1}
+require_vip_or_stage<>Yêu cầu VIP {1} hoặc màn chơi {2} {3}-{4}
+require_vip_or_level_stage<>Yêu cầu VIP {1} hoặc cấp {2}, màn chơi {4}-{5}
+achievement<>Thành Tựu
+quest_tree<>Cây Nhiệm Vụ
+achievement_tittle_group_1<>Sức Mạnh Liên Kết
+achievement_tittle_group_2<>Sống hoặc Chết
+achievement_tittle_group_3<>Chiến Lược Triệu Hồi
+achievement_tittle_group_4<>Thử Thách Lớn Lao
+achievement_tittle_group_5<>Khác
+quest_tree_tittle_group_1<>Khởi đầu Hành Trình
+quest_tree_tittle_group_2<>Chinh Phục Quái Vật
+quest_tree_tittle_group_3<>Thử Thách Bất Tận
+completed<>Hoàn Thành
+player_already_show_info<>Thông tin người chơi đã hiển thị
+in_progress<>Đang tiến hành
+new_password_is_last<>Mật khẩu bị trùng
+new_password_failed<>Xác nhận mật khẩu mới không thành công
+chat_delay<>Trò chuyện sau: %s giây
+search_failed<>Tìm kiếm thất bại
+need_input_friend_id<>Cần nhập id bạn bè!
+send_failed<>Gửi thất bại!
+warning_send_mail<>Có thể gửi sau: %s giây
+mail_content<>Cần nhập nội dụng mail!
+max_hero<>Anh hùng đã tối đa!
+enough_hero_material<>Không đủ nguyên liệu Anh hùng!
+max_turn_bought<>Lượt mua đã đạt giới hạn!
+hero_max_star<>Sao Anh hùng đã tối đa!
+need_up_max_level<>Anh hùng cần lên cấp tối đa!
+hero_is_training<>Đang tiến hành
+hour_x<>%s giờ
+min_x<>%s phút
+smash_reward<>Phần thưởng tua nhanh
+refresh_x<>Làm mới sau: %s
+potion_1<>Hồi %s HP
+potion_2<>Tăng %s Năng lượng
+potion_3<>Tăng %s HP và %s Năng lượng
+full_slot<>Hết chỗ
+want_to_use_potion<>Bạn có muốn dùng Lọ Thuốc không?
+day_ago_format<>{0} ngày {1} giờ trước
+hour_ago_format<>{0} giờ {1} phút trước
+min_ago_format<>{0} phút {1} giây trước
+second_ago_format<>{0} giây trước
+tower_record_error<>Phát lại trận đấu thất bại. Hãy thử phát lại trận khác.
+require_vip_or_level<>Yêu cầu VIP {1} hoặc cấp {2}
+reach_limited_pack<>Gói này đã đạt tới giới hạn!
+all_heroes_were_killed<>Tất cả Anh hùng đã chết!
+use_id_format<>Sử dụng định dạng id để thay thế
+guild_not_found<>Không tìm thấy Bang Hội!
+recommend_guild_failed<>Không thể hiển thị các bang hội đề xuất
+have_just_joined_guild<>Bạn đã gia nhập một bang hội!
+boss_changed_successful<>Thay đổi Boss thành công!
+select_boss_failed<>Không thể chọn Boss!
+challenge_guild_boss_successful<>Chiến Boss bang hội thành công
+challenge_guild_boss_failed<>Chiến Boss bang hội thất bại
+guild_was_kicked<>Bạn đã bị đuổi khỏi Bang hội
+check_in_successful<>Điểm danh thành công!
+restore_failed<>Khôi phục thất bại!
+play_record_failed<>Có một lỗi với bản ghi này, vui lòng thử một cái khác!
+need_clear_previous_stage<>Bạn cần hoàn thành màn chơi trước đó!
+map_cleared<>Hoàn thành
+no_video<>Video hiện không có sẵn!
+current_name<>Tên hiện tại
+product_not_exist<>Id này không tồn tại!
+purchase_processing<>Đang xử lý
+register_account_success<>Đăng ký tài khoản thành công!
+new_pass_limit<>Giới hạn mật khẩu mới %s ký tự
+new_pass_special<>Mật khẩu mới chứa ký tự đặc biệt
+confirm_pass_fail<>Xác nhận mật khẩu thất bại!
+disconnect<>Mất kết nối!
+dungeon_time_up<>Hầm ngục đã đóng!
+change_language<>Bạn có muốn thay đổi ngôn ngữ thành %s
+create_guild<>Bạn có muốn tạo Bang hội không?
+want_block<>Bạn có muốn chặn không?
+want_unblock<>Bạn có muốn bỏ chặn không?
+want_delete_all_mail<>Bạn có muốn xóa tất cả thư?
+want_refresh_tavern<>Bạn có muốn làm mới quán rượu?
+remove_friend<>Bạn có muốn xóa bạn bè?
+have_verified_email<>Bạn đã thêm email khôi phục chưa?
+quit_game<>Bạn có muốn thoát khỏi trò chơi?
+want_refresh_shop<>Bạn có muốn làm mới Cửa Hàng?
+all_hero_died<>Tất cả các anh hùng đã thất bại!
+resend<>Gửi lại
+input_code<>Nhập mã
+noti_code<>Một tin nhắn đã được gửi đến hộp thư của bạn!
+update<>Cập nhật
+raw_pack_1<>Nắm ngọc
+raw_pack_2<>Đống ngọc
+raw_pack_3<>Túi ngọc
+raw_pack_4<>Hộp ngọc
+raw_pack_5<>Rương ngọc
+limited_pack_1<>Gói Tuần Nhỏ
+limited_pack_2<>Gói Tuần Trung
+limited_pack_3<>Gói Tuần Lớn
+limited_pack_4<>Gói Tuần Mặt Trời 
+limited_pack_5<>Gói Tuần Vàng
+limited_pack_6<>Gói Tháng Nhỏ
+limited_pack_7<>Gói Tháng Trung
+limited_pack_8<>Gói Tháng Lớn
+limited_pack_9<>Gói Tháng Bạc
+limited_pack_10<>Gói Tháng Vàng
+smash_many<>Vui lòng nhập số lượng
+events<>Sự Kiện
+event_summon<>Triệu Hồi
+event_prophet_tree<>Cây Nguyện Ước
+event_arena<>Đấu Trường
+event_wheel_of_fate<>Vòng Quay Định Mệnh
+event_tavern<>Quán Rượu
+event_collection<>Thu Thập
+event_exchange<>Trao Đổi
+event_bundle<>Gói Sự Kiện
+event_hot_deal<>Ưu Đãi Hấp Dẫn
+event_prophet_tree_info<>Hoàn thành đủ số lần triệu hồi theo yêu cầu trong Cây Tiên Tri để nhận thưởng.
+event_wheel_of_fate_info<>Hoàn thành đủ số lần quay theo yêu cầu trong Vòng Quay Định Mệnh để nhận thưởng.
+event_collection_info<>Thu thập đủ số lượng Anh hùng theo yêu cầu để nhận thưởng.
+event_tavern_info<>Hoàn thành đủ số nhiệm vụ theo yêu cầu trong Quán rượu để nhận thưởng.
+event_summon_info<>Hoàn thành đủ số lần triệu hồi theo yêu cầu trong Trận Pháp Triệu Hồi để nhận thưởng.
+event_arena_info<>Hoàn thành đủ số lần chơi theo yêu cầu trong Đấu Trường để nhận thưởng.
+event_bundle_info<>Trong suốt sự kiện, bạn có có thể mua các gói được giới hạn.
+event_hot_deal_info<>Trong suốt sự kiện, bạn có có thể mua các gói được giới hạn.
+gate<>Bản Đồ
+enemy<>Kẻ Địch
+faction_restrain<>Khắc chế phe phái
+faction_restrain_info<>Khắc chế phe phái gây thêm {1} sát thương và tăng {2} chính xác
+round<>Lượt
+invite<>Mời
+name<>Tên
+stock<>Lượt mua còn lại
+select_guild_logo<>Chọn Biểu tượng cho Bang hội của bạn
+member<>Thành viên
+master<>Bang Chủ
+deputy<>Phó Bang
+guild_notice<>Thông Báo
+season_end_in<>Mùa giải kết thúc sau:
+stage<>Màn chơi
+hall_of_fame<>Bảng Danh Vọng
+floor<>Tầng
+remove_all<>Bỏ Hết
+enemy_team<>Bên Địch
+go<>Đi tới
+save_point<>Điểm lưu trữ
+next_stage<>Màn chơi kế tiếp
+attacker<>Bên Công
+defender<>Bên Thủ
+forge_equipment<>Rèn Trang Bị
+upgrade_hero<>N.cấp Anh hùng
+summon_hero<>Triệu hồi Anh hùng
+enter_redemption_code<>Nhập mã đổi quà
+gift_code<>Quà tặng
+current_ranking<>Xếp hạng hiện tại
+monthly_packs<>Ưu đãi hàng tháng
+raw_packs<>Gói Ngọc
+limited_packs<>Gói G.hạn
+total_reward<>Tổng Quà
+instant_reward<>Nhận Ngay
+weekly<>Thẻ tháng
+monthly<>Thẻ ngọc
+premium_monthly<>Thẻ ngọc Đặc Biệt
+free_acquire_video_reward<>Nhận thưởng xem video miễn phí
+limit_pack_per_week<>Giới hạn %s gói/tuần
+limit_pack_per_month<>Giới hạn %s gói/tháng
+lock<>Khóa
+edit_lock_heroes<>Tùy chọn khóa
+back_to_current<>Hiện tại
+mastery_name<>{1} của {2}
+get_vip_point_to_reach<>Cần %s VIP point để đạt được
+remove<>Xóa
+replace<>Thay thế
+use<>Dùng
+add_one<>Thêm x1
+add_ten<>Thêm x10
+admin_mail<>Mail quản trị
+moderator_mail<>Mail điều hành
+merchant<>Lái buôn
+enter_name_please<>Vui lòng nhập tên!
+enter_chat<>Nhập chữ
+chat<>Trò chuyện
+join<>Tham gia
+please_wait_for_seconds<>Vui lòng đợi trong %s giây
+max<>Tối đa
+gold_mine<>Mỏ Vàng
+friend_not_save_formation<>Người bạn này chưa tạo đội hình
+not_enough_quest_refresh<>Không có nhiệm vụ để làm mới
+do_you_want_use_resource<>Bạn có muốn dùng {1} {2} không?
+wanna_kick_member<>Bạn có muốn khai trừ thành viên này không?
+special<>Đặt biệt
+first_purchase<>Dành cho bạn
+account_limit_character<>Yêu cầu {1}-{2} ký tự
+hero_food_moon_title<>Mặt Trăng
+hero_food_sun_info<>Dùng để tiến hóa Anh hùng thuộc hệ: Quang và Ám.
+hero_food_sun_title<>Mặt Trời
+hero_food_moon_info<>Dùng để tiến hóa Anh hùng thuộc hệ: Thuỷ, Hoả, Tự nhiên và Vực thẳm..
+boss<>Trùm
+verify_email_success<>Thêm email khôi phục thành công
+level_up_reward<>Thưởng lên cấp
+no_tavern_quest<>Không có nhiệm vụ
+season_open_in<>Mùa giải sẽ mở sau:
+cleared<>Xong
+claim_reach_level<>Nhận ngay Thưởng Ủy Thác để đạt cấp độ yêu cầu
+more_time_reach_level<>Cần hơn {1} để đạt cấp độ {2}
+claim_to_not_max<>Đừng quên nhận Thưởng Ủy Thác trước khi nó đạt giới hạn
+to_reach_level_x<>Cần {1} để đạt cấp độ {2}
+ranking_1<>Sắt II
+ranking_2<>Sắt I
+ranking_3<>Đồng
+ranking_4<>Bạc
+ranking_5<>Vàng
+ranking_6<>Bạch Kim
+ranking_top_11<>Kim Cương
+ranking_top_1<>Truyền Thuyết
+ranking_top_2<>Chuyên gia
+ranking_top_3<>Thách Đấu
+ranking_top_6<>Bậc Thầy
+top_x<>Hạng {1}
+top_x+<>Hạng {1}+
+top_x_x<>Hạng {1} - Hạng {2}
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>Chưa được xếp hạng
+version_outdate<>Phiên bản %s của bạn đã cũ, hãy cập nhập phiên bản mới
+role<>Vai trò
+ago<>trước
+preload_resources<>Tải trước tài nguyên
+download_resource_complete<>Đã tải xong tài nguyên
+load_user_data<>Đang tải dữ liệu...
+start_game<>Bắt đầu trò chơi
+under_maintenance<>Máy chủ đang được bảo trì
+no_data<>Không có dữ liệu
+change_leader<>Thay đổi Bang chủ
+set_as_leader<>Đặt làm Bang chủ
+guild_member_list<>Danh sách thành viên
+confirm_change_leader<>Bạn có chắc muốn đưa {1} thành {2}?
+unblock_training_condition<>Bạn có thể thay đổi anh hùng sau khi nhận
+quick_battle<>Tua nhanh
+quick_battle_info<>Bạn sẽ nhận ngay lập tức phần thưởng đã tích sẵn trong %s phút, bao gồm Bình Kinh Nghiệm và Vàng.
+monthly_reward<>Thưởng mỗi tháng
+max_quick_battle_turn<>Đạt giới hạn tua nhanh
+event_has_ended<>Sự kiện đã kết thúc
+archived<>Thành tựu
+more_items<>Còn %s Mục khác
+purchase_items<>Mua vật phẩm
+limited_pack_desc_1<>1 lựa chọn thông minh
+limited_pack_desc_2<>Lựa chọn này sẽ làm gia tăng danh tiếng của bạn
+limited_pack_desc_3<>Lựa chọn này sẽ mang lại lợi ích bất ngờ
+limited_pack_desc_4<>Là 1 sự đầu tư thiên tài
+limited_pack_desc_5<>Sự lựa chọn này sẽ mang lại cho bạn vinh quang của của một nhà vô địch
+limited_pack_desc_6<>Là một sự lựa chọn cần thiết của một nhà chinh phục tài ba
+limited_pack_desc_7<>Là một đầu tư lớn thống lĩnh tất cả
+limited_pack_desc_8<>Lợi ích lớn của món đầu tư này bạn sẽ được nhìn thấy ngay
+companion_buff<>Cộng Hưởng Phe Phái
+total<>Tổng Cộng
+when_you_login<>Khi bạn đăng nhập
+claim_each_day<>Mỗi ngày trong %s ngày
+day<>Ngày
+speed_up_gold<>Tăng tốc Vàng
+speed_up_hero_exp<>Tăng tốc Lọ Thuốc Cổ
+speed_up_summoner_exp<>Tăng tốc EXP Triệu hồi Sư
+speed_up_gold_info<>Nhận ngay Vàng trị giá %s giờ\nKích hoạt ở màn hình Chiến dịch
+speed_up_hero_exp_info<>Nhận ngay Bình kinh nghiệm trị giá %s giờ\nKích hoạt ở màn hình Chiến dịch
+speed_up_summoner_exp_info<>Nhận ngay EXP Triệu Hồi Sư trị giá %s giờ\nKích hoạt ở màn hình Chiến dịch
+all_received<>Tất cả đã nhận
+attack_success<>Tấn công thành công
+attack_fail<>Tấn công thất bại
+defense_success<>Phòng thủ thành công
+defense_fail<>Phòng thủ thất bại
+revenge<>Báo thù
+hide<>Ẩn
+season_end_reward<>Phần thưởng mùa
+champion<>Nhà vô địch
+reward_area_end<>Đến phần thư để nhận phần quà của bạn
+go_to_mail<>Đến phần thư
+arena_point_reset<>Điểm xếp hạng của bạn trở về %s
+rate_x<>%s xác suất
+season_end<>Kết thúc mùa
+highest_ever<>Kỉ lục
+random_item_pool<>Danh Sách Vật phẩm
+next_refresh<>Làm mới sau:
+community<>Cộng đồng
+guild_log_join<>{0} đã gia nhập bang hội
+guild_log_leave<>{0} đã thoát bang hội
+guild_log_assign_leader<>{0} đã bổ nhiệm {1} thành trưởng bang hội
+guild_log_assign_sub_leader<>{0} đã bổ nhiệm {1} thành phó bang hội
+guild_log_kick_out<>{0} đã bị đuổi khỏi bang hội
+free_refresh<>Miễn phí làm mới trong:
+flash_sale<>Flash sale
+rate_title<>Bạn có yêu thích trò chơi?
+not_rate_contain<>Chúng tôi rất xin lỗi về trải nghiệm chưa tốt mà bạn đã gặp phải. Vui lòng đến trang fanpage của chúng tôi và để lại phản hồi của bạn. Chúng tôi sẽ cố gắng hết sức để làm tốt hơn về trải nghiêm của trò chơi.
+transaction_mail<>Thư giao dịch
+weekly_packs<>Ưu đãi hàng tuần
+subscription_packs<>Thẻ tháng
+rate_content<>Bạn đã tận hưởng trò chơi Summoners Era? Vui lòng đánh giá chúng tôi 5 sao
+rate<>Bình chọn
+not_rate<>Không cám ơn
+go_to_fanpage<>Đến Fanpage 
+notice_watch_ads<>Bạn có muốn xem một quảng cáo để nhận thưởng không?
+play_video<>Chạy video
+init_proceed_failed<>Đơn đặt hàng hiện tại không thể thanh toán với tài khoản của bạn, vui lòng kiểm tra tài khoản của bạn và thử lại
+start_free_trial<>Dùng miễn phí %s ngày
+trial_available<>Cảm ơn bạn đã kích hoạt dùng thử
+warning_flash_sale<>Gói này chỉ xuất hiện 1 lần. Bạn có chắc chắn muốn bỏ qua cơ hội này?
+warning_download_data<>Tải {1}MB của dữ liệu.\n<color=#{2}>Khuyến khích nên dùng Wi-fi</color>
+not_enough_space_memory<>Không đủ chỗ trống để tải dữ liệu. Cần %sMB để tiếp tục tải dữ liệu.
+retry<>Thử lại
+download<>Tải xuống
+event_login<>Sự kiện đăng nhập
+event_login_info<>Trong thời gian sự kiện, đăng nhập để nhận được phần thưởng miễn phí
+tip_1<>Khi thiết lập lại Anh hùng hoặc dùng anh hùng làm nguyên liệu tiến hóa, sẽ nhận lại 100% tài nguyên dùng nâng cấp độ anh hùng và 80% tài nguyên dùng nâng cấp Dị thạch.
+tip_2<>Chú ý! Những Anh Hùng từ 1-3 sao không hề vô dụng đâu nhé. Hãy nâng sao của chúng lên để làm thức ăn cho những Anh Hùng chính của bạn.
+tip_3<>Chỉ số cốt lõi của anh hùng sẽ được tăng nhiều khi tiến hóa.
+tip_4<>Cố gắng đạt được xếp hạng ở đấu trường cao nhất có thể. Bạn có thể có rất nhiều điểm để cộng ở bảng bổ trợ.
+tip_5<>Tự động luyện tập là con đường tốt nhất để tăng cấp cho anh hùng từ 3 sao trở xuống.
+tip_6<>Đừng quên đăng kí tài khoản và thêm email khôi phục để bảo vệ tài khoản của bạn an toàn.
+tip_7<>Khi thiết lập lại Anh hùng hoặc dùng anh hùng làm nguyên liệu tiến hóa, sẽ nhận lại 100% tài nguyên dùng nâng cấp độ anh hùng và 80% tài nguyên dùng nâng cấp Dị thạch.
+notice_upgrade_stone_converting<>Hãy sử dụng chuyển đổi đá, hoặc nâng cấp chúng
+day_only<>Ngày
+login_event_progress<>Tiến trình đăng nhập %s
+notice_switch_all_summoner<>Bạn có muốn đổi tất cả nhà triệu hồi?
+not_enough_point<>Không đủ điểm
+event_arena_ranking<>Xếp hạng đấu trường
+event_arena_ranking_info<>Hãy nâng điểm xếp hạng đấu trường của bạn để nhận được phần thưởng xứng đáng, phần thưởng sẽ được gửi về qua thư
+notice_reset_hero<>Lượng tài nguyên trả lại khi cài lại sẽ phụ thuộc vào cấp độ của anh hùng lúc đó
+guild_hall<>Điện Thần Bang Hội
+guild_hall_info<>Đây là nơi đặt các công trình bang hội và là nơi hoạt động của thành viên bang hội.
+join_now<>Vào ngay
+are_you_sure<>Bạn có chắc chắn?
+registered_member<>Đăng kí thành viên
+phase_message_tittle<>Phụ tá Guild
+message_phase_1<>Ít nhất cần {1} thành viên để tham gia {2}
+message_phase_2<>Bang hội của bạn không thể tham gia {1} vì chưa thiết lập đội hình phòng thủ. Chủ Bang Chủ và Phó Bang mới thiết lập được đội hình phòng thủ.
+change_formation<>Thay đổi đội hình
+change_defender<>Thay đổi phòng thủ
+guild_leader_benefit<>Chỉ có trưởng và phó bang hội mới có thể đăng kí tham gia bang hội chiến 
+notice_evolve_hero_converting<>Anh hùng này đang được chuyển đổi, bạn có chắc chắn muốn tiến hóa không?
+unlock_previous_stage<>Mở khóa ở chặng trước
+missing_join_stage<>Bạn đã bỏ lỡ tham gia 
+deal_damage_to_get_reward<>gây sát thương để nhận được phần thưởng
+only_leader_can_change_boss<>Chỉ có trưởng và phó bang hội mới có thể thay đổi Boss
+total_damage<>Tổng sát thương
+event_release_festival<>Sự kiện chào mừng ra mắt
+event_release_festival_info<>Trong sự kiện, khi máy chủ đạt được số lượng người chơi nhất định, tất cả người chơi tại máy chủ đó sẽ nhận được phần thưởng.
+player_join_server<>Người chơi vào máy chủ
+skip_batte<>Tua nhanh thời gian
+summoner_locked<>Người triệu hồi chưa được mở khóa
+member_has_registered<>Thành viên đã đăng kí
+not_eligible_to_join<>Không đủ điều kiện tham gia
+guild_war_phase_1_name<>Giai đoạn đăng kí
+guild_war_phase_2_name<>Giai đoạn đặt phòng thủ
+guild_war_phase_3_name<>Giai đoạn chiến đấu
+random_boss<>Boss ngẫu nhiên
+try_time<>Thử lại
+check_out_defenders<>Kiểm tra đội phòng thủ
+limited_pack_11<>Gói Tháng Đặc Biệt 
+limited_pack_desc_11<>Lợi ích lớn của món đầu tư này bạn sẽ được nhìn thấy ngay
+event_shop<>Cửa hàng linh hồn
+mission<>Nhiệm vụ sự kiện
+exchange<>Trao đổi
+not_enough<>Không đủ
+limit_x<>Giới hạn %s 
+soul_shop<>Cửa hàng linh hồn
+hidden_deal<>Thỏa thuận bí mật
+owned<>Đã sở hữu
+guild_owned<>Sở hữu bang hội
+not_in_guild<>Bạn không ở trong bang hội
+new<>Mới
+out_of_turn<>Hết lượt
+event_exchange_1<>Trao đổi anh hùng
+event_exchange_1_info<>Để hoàn thành nhiệm vụ, thu thập số lượng vật liệu cần thiết để trao đổi anh hùng.
+event_exchange_2<>Trao đổi trang bị
+event_exchange_2_info<>Để hoàn thành nhiệm vụ, thu thập số lượng Vật liệu cần thiết để trao đổi trang bị.
+event_exchange_3<>Thương nhân bí ẩn
+event_exchange_3_info<>Bạn có thể mua được những trang bị thú vị ở thương nhân bí ẩn
+profit<>Lợi nhuận
+tilion_nick_name<>Hồi máu xuất sắc
+donate<>Quyên góp
+guild_donate_history<>Lịch sử quyên góp bang hội
+defronowe_nick_name<>Sát thủ điên cuồng
+first_time_reward_desc<>Nhận được anh hùng này với lần trả tiền đầu tiên
+first_time_reward<>Nạp lần đầu
+go_to_shop<>Đến cửa hàng
+guild_donate_help<>Hỗ trợ quyên góp bang hội
+guild_donate_title<>Quyên góp bang hội
+starter_pack<>Gói siêu ưu đãi
+owned_x<>Đã sở hữu: {1}
+starter_pack_name_1<>Trang bị
+starter_pack_desc_2<>Sát thương rộng lớn
+starter_pack_desc_4<>1 chém 1 mạng
+starter_pack_desc_3<>Đốt cháy mọi kẻ thù
+extra<>Ưu đãi
+quick_battle_ticket_2_0<>{1} Giờ - Tua nhanh vàng
+quick_battle_ticket_2_10<>{1} Giờ - Tua nhanh kinh nghiệm
+quick_battle_ticket_8_0<>{1} Giờ - Tua nhanh kinh nghiệm Summoners
+event_type_20<>Sự kiện nhiệm vụ bang hội
+event_type_20_info<>Bạn cần hoàn thành cả 2 mốc ở chiến tích vàng và bạc để nhận phần thưởng
+hero_lock_in_inventory<>Khóa anh hùng trong kho
+hero_in_guild_war<>Anh hùng trong bang hội chiến
+require_vip<>Yêu cầu Vip %s
+received<>Đã nhận
+final_reward<>Phần thưởng cuối
+day_x<>Ngày %s
+buy_item_quest_name<>Mua đồ
+event_server_open<>Nhiệm vụ tân thủ
+item_loot<>Vật phẩm thu được
+done<>Xong
+support<>Hỗ trợ
+check_game_version<>Kiểm tra phiên bản trò chơi
+check_game_logic<>Kiểm tra độ hợp lý của trò chơi
+check_game_resources<>Kiểm tra tài nguyên của trò chơi
+check_resources_config<>Kiểm tra cấu hình tài nguyên
+go_to_store<>Đi đến cửa hàng
+switch_all<>Chuyển tất cả
+server_open<>Nhiệm vụ tân thủ
+login_summoner_era<>Đăng nhập tài khoản Summoner Era
+login_facebook<>Đăng nhập tài khoản Facebook
+login_google<>Đăng nhập tài khoản Google
+login_apple<>Đăng nhập tài khoản Apple
+binding_summoner_era<>Liên kết tài khoản Summoner Era
+binding_facebook<>Liên kết tài khoản Facebook
+binding_google<>Liên kết tài khoản Google
+binding_apple<>Liên kết tài khoản Apple
+binded<>Đã liên kết
+noti_binding<>Tài khoản đang là khách, hãy liên kết tài khoản để tránh mất dữ liệu
+mail_verified<>Email khôi phục: %s
+min_donate_event_guild_quest<>Quyên góp tối thiểu {1} {2} và {3} {4}
+player_banned<>Tài khoản của bạn đã bị khoá do có những hành vi gian lận. Xin hãy liên hệ với bộ phận Chăm Sóc Khách Hàng của chúng tôi để biết thêm chi tiết.
+scroll_monthly<>Thẻ cuộn triệu hồi
+sale_off<>Giảm giá
+hot<>Hot
+level_pass<>Level Pass
+unlock_level_pass<>Mở phần thưởng cao cấp
+free_reward<>Phần thưởng miễn phí
+premium_reward<>Phần thưởng cao cấp
+activated<>Đã mở khóa
+reward_claimed<>Hiện chưa có phần thưởng có thể nhận.
+summoner_exp<>EXP Triệu hồi sư
+tap_to_claim<>Chạm để nhận
+growth_pack_lock<>Sau khi mua, hãy cố gắng tiến cấp để nhận thêm nhiều phần thưởng vô cùng giá trị nữa nhé.
+noti_register<>Bạn muốn đăng ký tài khoản mới chứ?
+skip_cut_scene<>Bỏ qua cắt cảnh
+turn_on_cut_scene<>Bật cắt cảnh
+select_hero_evolve<>Chọn hero để Tiến Hóa %s
+noti_confirm_resource<>Bạn có chắc chắn muốn sử dụng những tài nguyên này?
+noti_close_multi_evolve<>Nếu thoát bạn sẽ phải chọn lại các anh hùng
+server_maintain_in_x<>Server sẽ được bảo trì trong %s
+empty_hero_evolve<>Hãy chọn anh hùng để tiến hóa
+multi_evolve<>Đa tiến hóa
+potion<>Đan dược
+collection_bag<>Cường hóa
+empty<>Trống
+remaining<>Còn lại
+unpack_resources<>Giải nén dữ liệu
+choose<>Chọn
+hero_alive<>Anh hùng vẫn còn sống
+hp_full<>Anh hùng vẫn đầy máu
+power_full<>Anh hùng vẫn đầy nộ
+guild_war_season_ranking<>Xếp hạng Mùa Bang hội chiến
+guild_war_member_setup_progress<>Chưa đủ thành viên
+guild_war_member_setup_successful<>Đăng ký tham gia bang hội chiến thành công
+guild_war_setup_can_be_modified<>Sắp xếp đội hình giao chiến đã xong. Chỉ Bang Chủ và Phó Bang có quyền thay đổi trước {1}. Trang bị của anh hùng trong tất cả đội hình giao chiến không thể thay đổi.
+swap_member_successful<>Đổi thành viên thành công
+ask_for_save_the_change_guild_war_defenders<>Bạn vừa thay đổi đội hình phòng thủ. Bạn có muốn lưu lại thay đổi không?
+swap_member<>Đổi thành viên
+win<>Chiến thắng
+your_guild_get<>Bang hội của bạn nhận được %s
+min_hero_dead_requirement<>Chiến thắng với ít nhất %s anh hùng còn sống
+max_round_requirement<>Chiến thắng trong %s vòng
+save_successful<>Lưu thành công
+power<>Lực chiến
+point_gained<>Điểm nhận được
+not_enough_member_registered<>Không thể tham gia do không đủ số lượng thành viên đăng kí.
+guild_war_point<>Điểm xếp hạng Bang hội chiến
+guild_war_season_end<>Mùa giải Bang hội chiến mới sắp bắt đầu. Hãy chuẩn bị kĩ lưỡng để chinh phạt những đối thủ khác.
+guild_war_register_notification<>Đội hình phòng thủ đã được ai đó thay đổi.
+require_event_rate_up_point<>Điểm sự kiện không đủ để triệu hồi.
+summon_rate_up<>Chắc chắn thành công sau %s lần triệu hồi.
+guaranteed_requirement<>Điểm sự kiện tăng
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>Cấp độ Triệu hồi sư
+daily_packs<>Gói Hàng Ngày
+5_star_hero_reward<>Thưởng anh hùng 5 sao
+clear_stage_to_get_reward<>Hoàn thành màn chơi này để nhận phần thưởng vào cuối mùa.
+current_season_reward<>Phần thưởng mùa hiện tại
+artifact_fragment_title_7<>Cổ vật Sử thi (Thuỷ hệ)
+artifact_fragment_title_8<>Cổ vật Sử thi (Hoả hệ)
+artifact_fragment_title_9<>Cổ vật Sử thi (Vực thẳm hệ)
+artifact_fragment_title_10<>Cổ vật Sử thi (Tự Nhiên hệ)
+artifact_fragment_title_11<>Cổ vật Sử thi (Quang hệ)
+artifact_fragment_title_12<>Cổ vật Sử thi (Ám hệ)
+guild_market<>Cửa hàng Bang hội
+market_upgrade_describe<>Bạn cần thêm những tài nguyên sau để nâng cấp
+attack_log<>Tấn Công
+defense_log<>Phòng Thủ
+attack_count<>Lượt Đánh
+special_offer<>Ưu đãi khổng lồ
+master_blacksmith<>Trang bị bậc thầy
+your_summoner_name<>Nhập tên Triệu hồi sư của bạn
+when_upgrade<>Nâng cấp chỉ số
+material_refund<>Nguyên liệu hoàn trả
+arena_pass<>Arena Pass
+daily_quest_pass<>Nhật ký Nhiệm Vụ
+arena_pass_desc<>Điểm Arena Pass có được thông qua tham gia đấu trường.
+daily_quest_pass_desc<>Điểm Nhật ký nhiệm vụ có được từ phần thưởng nhiệm vụ hàng ngày.
+has_not_skin<>Anh hùng này không có Trang phục
+select_hero<>Mời chọn Anh hùng
+exit_guild<>Thoát Bang hội
+event_golden_time_name<>Hội Trăng Rằm
+event_golden_time_desc<>Trong thời gian diễn ra Sự kiện chính, người chơi thu thập Hoa Đăng và Bánh trung thu trong Rương Treo máy ở Chiến Dịch. Sau đó đổi chúng để nhận các phần quà tương ứng.\nHoa Đăng và Bánh trung thu là tiền tệ dùng cho sự kiện đặc biệt và sẽ biến mất sau khi sự kiện kết thúc.
+event_feed_beast_name<>Phá cỗ 
+event_feed_beast_desc<>Đưa Bánh trung thu cho Lân thú.\nNhận phần quà độc đáo mỗi khi Lân Thú tiến hóa
+event_gem_box_name<>Rương Báu Đêm Rằm
+event_gem_box_desc<>Tích trữ phần thưởng trong thời gian diễn ra sự kiện.\nCàng nhiều Hoa Đăng, càng nhiều phần quà!
+feed<>Nuôi
+source_money_type_180<>∙ Rương Treo máy trong Chiến Dịch\n∙ Ưu đãi Trung thu\n∙ Rương Báu Đêm Rằm
+source_money_type_181<>∙ Rương Treo máy trong Chiến Dịch\n∙ Ưu đãi Trung thu\n∙ Điểm danh mùa lễ 
+select_buff<>Lựa chọn Buff
+drop_time<>13 ngày từ lúc bắt đầu sự kiện
+golden_time_drop_info<>∙ 1 Hoa đăng: 40 (giây)\n∙ 1 Bánh trung thu: 240 (giây)
+event_midautumn_specialoffer<>Ưu đãi Trung Thu
+event_midautumn_checkin<>Điểm danh Mùa lễ
+event_midautumn_exchange_name<>Đổi Đèn lồng
+event_midautumn_exchange_desc<>Thu thập Đèn lồng thắp sáng để đổi các quà tặng hấp dẫn
+no_limit<>Không giới hạn
+mid_autumn_offer_1<>Hoa đăng may mắn
+mid_autumn_offer_2<>Bánh trung thu Kim sa
+mid_autumn_offer_3<>Hoa Gấm
+item_exchange<>Trao đổi vật phẩm
+random_reward<>Phần thưởng ngẫu nhiên
+not_own_this_skin<>Bạn chưa sở hữu Trang phục này
+arena_pass_unlock_content<>Mở khoá và nhận thưởng tại tất cả các điểm mốc bạn đạt tới.
+daily_quest_pass_unlock_content<>Mở khoá và nhận thưởng tại tất cả các điểm mốc bạn đạt tới.
+popup_context_need_resource<>Bạn chưa đủ tài nguyên. Hãy thu thập thêm nhé.
+warning_you_need_more_resources<>Không đủ tài nguyên. Bạn cần thêm
+town_center<>Thành Chính
+turret<>Trụ
+event_golden_time_halloween_name<>Ngày Hội Ma
+event_golden_time_halloween_desc<>Thu thập Xúc xắc và Bí ngô để đổi lấy các phần quà hấp dẫn. Vật phẩm Halloween sẽ biến mất sau khi sự kiện kết thúc. 12 tiếng trước khi sự kiện kết thúc, Bí ngô sẽ ngừng rơi vào rương treo máy trong chiến dịch.
+source_money_type_210<>∙ Rương treo máy trong Chiến Dịch\n∙ Ưu đãi lễ hội và Cửa hàng Bí ngô\n
+source_money_type_211<>∙ Rương treo máy trong Chiến Dịch\n∙ Ưu đãi lễ hội\n∙ {3}\n\n
+drop_time_halloween<>13 ngày từ lúc bắt đầu sự kiện
+golden_time_halloween_drop_info<>∙ 10 Bí ngô: {0} (s)
+dice_title<>Trò Chơi Kỳ Quái
+dice_guide<>Thu thập & Đổ Xúc xắc - Nhận phần thưởng hấp dẫn!\nHoàn thành các nhiệm vụ hàng ngày để thu thập thêm Xúc xắc
+event_halloween_exchange_name<>Thương Vụ Hắc Ám
+event_halloween_exchange_desc<>Đừng bỏ lỡ Bí ngô. Đổi thưởng chỉ trong sự kiện Halloween.\nThu thập thêm trong {1}. Hàng tấn phần thưởng bạn muốn nhận.
+halloween_daily_checkin<>Điểm Danh Mùa lễ
+event_halloween_specialoffer<>Ưu Đãi Ngày Lễ
+halloween_purchase_1<>Bí Ngô Nổi Loạn
+halloween_purchase_2<>Xúc Xắc Tiên Tri
+halloween_purchase_3<>Tử Linh 
+roll<>Quay
+lap_reward<>Thưởng vòng quay
+lap_x<>Vòng %s
+event_halloween_dice<>Đổ Xúc Xắc
+hallo_ween<>Halloween
+next_free<>Phần thưởng kế
+lap_completed<>Hoàn Thành Vòng Quay
+black_friday_remain_x<>Hiệu lực của thẻ còn lại: %s
+black_friday_gem_pack<>CỬA HÀNG BLACK FRIDAY
+event_card_black_friday<>Thẻ Black Friday
+event_card_gem_pack<>Cửa Hàng Black Friday
+black_friday_card_content<>Đăng nhập mỗi ngày trong 7 ngày để nhận quà hàng ngày
+black_friday_card<>THẺ BLACK FRIDAY
+black_friday<>Black Friday
+do_you_want_to<>Hãy xác nhận sử dụng
+reset_this_slot<>Bạn có chắc đặt lại ô này?
+raised_list<>Danh sách Tiến cấp
+raise_hero_describe<>Lựa chọn Anh hùng bạn muốn tiến cấp đặt vào Danh sách Tiến cấp. Cấp độ của các Anh hùng đó sẽ được nâng lên bằng với anh hùng thấp cấp nhất của nhóm Ngũ Hùng.
+describe_unbinding_raise_level<>Gỡ Anh hùng khỏi ô tiến cấp sẽ đưa Anh hùng về cấp độ vốn có. Ô tiến cấp sẽ tạm khoá trong
+hero_in_pentagram<>Anh hùng đang trong nhóm Ngũ Hùng
+hero_in_raise_level<>Anh hùng trong danh sách tiến cấp
+hero_in_ancient_tree<>Anh Hùng đang trong Cây Tiên Tri
+need_to_select<>Mời chọn Anh Hùng
+same_hero_id<>Anh hùng bị trùng trong Danh sách tiến cấp
+revert_to<>Trở lại nguyên gốc
+binding_sungame<>Liên kết tài khoản Sungame
+login_sungame<>Đăng nhập tài khoản Sungame
+open_slot_before<>Hãy mở ô tiến cấp trước đó.
+on_cooldown<>Đang tái tạo
+unlock_slot_success<>Bạn vừa mở thêm một ô tiến cấp.
+tower<>Tháp
+defense_stage_reward<>Phần Thưởng Lập Tức
+failed<>Thất Bại
+success<>Thành Công
+require_login_sungame_to_purchase<>Bạn cần đăng nhập tài khoản Sungame để có thể thực hiện giao dịch
+event_shop_name<>NHÀ MÁY KẸO
+event_frosty_ignatius<>Ignatius Băng Giá
+event_exclusive_offer<>Ưu đãi đặc biệt
+event_xmas_daily_checkin<>Lắc chuông nhận quà
+event_golden_time<>QUÀ NGẬP TRÀN
+event_xmas_exchange_desc<>Đổi kẹo que để lấy quà.
+xmas_purchase_1<>Giáng sinh an lành
+xmas_purchase_2<>Giáng sinh thú vị
+xmas_purchase_3<>Giáng sinh tuyệt vời
+xmas<>Giáng sinh
+need_login_by_sungame<>Bạn cần đăng nhập bằng tài khoản Sungame
+binding_success<>Liên kết thành công
+full_of_gift_name<>HỘP QUÀ CỦA ÔNG GIÀ NÔ-EN
+full_of_gift_desc<>Mở hộp quà của ông già Nô-en để nhận những phần quà bất ngờ
+drop_time_xmas<>13 ngày từ lúc bắt đầu sự kiện
+full_of_gift_drop_info<>1 Hộp quà của ông già Nô-en rơi ra sau mỗi 3600 giây.
+reward_pool<>Ring-Ding-Dong 
+completed_level_x<>Làm tốt lắm! Bạn đã hoàn thành %s Level Pass
+need_reload_data<>Cần tải lại dữ liệu
+need_set_formation_road_x<>Yêu cầu ít nhất một anh hùng ở đường %s
+wave_x<>Đợt %s
+happy_new_year<>Happy New Year
+new_year_golden_time_name<>Khoảnh Khắc Hân Hoan
+new_year_golden_time_desc<>Sử dụng Thiệp năm mới để quay Lời chúc may mắn và nhận những phần quà bất ngờ. Thiệp năm mới có thể nhận được qua Rương treo máy.
+drop_time_new_year<>13 ngày từ lúc bắt đầu sự kiện
+event_new_year_card<>Thẻ Phước Lành
+new_year_remain_x<>Bạn sẽ tiếp tục nhận được quà trong %s ngày.
+event_new_year_card_content<>Đăng nhập mỗi ngày trong 14 ngày để nhận quà hàng ngày từ thẻ.
+event_new_year_lottery<>Điều Ước May Mắn
+event_new_year_exchange<>Tạm Biệt Năm Cũ
+new_year_golden_time_drop_info<>Mỗi thiệp năm mới rơi sau mỗi %s giây. Số lượng thiệp tối đa phụ thuộc vào giờ tích trữ tối đa rương quà.
+lottery_title<>Điều Ước May Mắn
+source_money_type_230<>Thiệp Năm Mới
+event_ignatius_name<>SỰ THỊNH NỘ TỪ CỰC HÀN
+event_ignatius_desc<>Chiến đấu Siêu cấp Boss - Ignatius băng giá để nhận được những phần thưởng xứng đáng.
+highest_damage<>Sát thương cao nhất
+new_year_card_title<>THẺ PHƯỚC LÀNH
+xmas_daily_checkin_title<>LẮC CHUÔNG NHẬN QUÀ
+event_xmas_golden_time_name<>Quà Ngập Tràn
+event_xmas_shop_name<>Nhà Máy Kẹo
+hero_linking_description<>Mời đặt vào {0} anh hùng
+select_hero_for_linking<>Anh hùng phù hợp
+friend_hero_support<>Gợi Ý Hỗ Trợ Từ Bạn Bè
+hero_linking_description_2<>Mời đặt vào {0} anh hùng đạt tối thiểu {1} sao
+time_to_move_x<>Thời gian còn lại để thay anh hùng:
+star_hero<>Sao
+remove_hire_success<>Gỡ Anh hùng khỏi Liên kết thành công.
+hire_success<>Đặt Anh hùng vào Liên kết thành công.
+my_support_hero<>Đổi anh hùng hỗ trợ
+require_unique_hero_id<>Anh hùng này hoặc nâng cấp của anh hùng đã được chọn.
+describe_hero_for_hire<>Chọn một anh hùng để hỗ trợ bạn bè.
+require_at_least_one_your_hero_in_linking<>Yêu cầu ít nhất một anh hùng là của bạn.
+data_updated<>Dữ liệu đã được cập nhật.
+feature_maintain<>Tính năng đang bảo trì.
+hero_in_support_hero_linking<>Anh hùng này đang trong danh sách anh hùng hỗ trợ.
+hero_in_linking<>Anh hùng này đang trong tính năng Liên kết.
+hero_support_for_friends<>Danh sách Anh hùng hỗ trợ của bạn
+feature_available_in_s<>Tính năng này sẽ có trong %s
+chest<>Rương
+loose<>Thất bại
+event_lunar_new_year_login<>Hái lộc đầu xuân
+event_lunar_new_year_login_title<>HÁI LỘC ĐẦU XUÂN
+lunar_path_dice_title<>CUNG ĐƯỜNG TÀI LỘC
+lunar_path_dice_desc<>Hồng Xúc Xắc có thể nhận được từ Nhiệm vụ xông đất hoặc mua bằng Ngọc. Mỗi lần thả Hồng Xúc Xắc, bạn sẽ nhận được 5 Bùa Bình An và 1 Pháo.
+lunar_path_quest_title<>NHIỆM VỤ XÔNG ĐẤT
+lunar_path_quest_desc<>Hoàn thành những nhiệm vụ giới hạn thời gian để nhận thêm Hồng Xúc Xắc. Các nhiệm vụ được làm mới hàng ngày trong suốt sự kiện.
+require_chap_boss<>Yêu cầu Xua đuổi Tà Ma cấp %s
+new_year_golden_time_title<>KHOẢNH KHẮC HÂN HOAN
+event_lottery_title<>ĐIỀU ƯỚC MAY MẮN
+event_new_year_exchange_title<>TẠM BIỆT NĂM CŨ
+event_lunar_path_shop<>Cửa Hàng Thần Tài
+event_lunar_path_exchange_name<>CỬA HÀNG THẦN TÀI
+event_lunar_path_exchange_desc<>Thu thập Bùa Bình An để đổi thưởng. Cần đạt tới cấp độ Xua đuổi tà ma thích hợp để đổi quà tương ứng.
+event_lunar_path_quest<>Nhiệm Vụ Xông Đất
+lunar_new_year<>Tết Nguyên Đán
+lunar_path_dice<>Hồng Xúc Xắc
+lunar_new_year_path<>Cung Đường Tài Lộc
+event_lunar_path_boss<>Xua Đuổi Tà Ma
+event_lunar_path_boss_title<>XUA ĐUỔI TÀ MA
+event_lunar_path_boss_desc<>Đánh đuổi quỷ dữ, nhận quà to bự. Chỉ có thể đánh quỷ khi người chơi tham gia Bang Hội.
+finish<>Về đích
+event_lunar_new_year_exchange<>Lì xì
+event_lunar_new_year_exchange_title<>LÌ XÌ
+event_lunar_new_year_exchange_desc<>Lì Xì trong tay, nhận ngay hàng ngàn quà khủng.
+event_lunar_elite_summon<>Trệu hồi thượng cấp
+lunar_path_purchase_1<>Tết Sung Túc
+lunar_path_purchase_2<>Tết An Khang
+lunar_path_purchase_3<>Tết Thịnh Vượng
+event_lunar_path_bundle<>Sắm Sửa Đón Tết
+golden_time_lunar_new_year<>Du Xuân Nô Nức
+golden_time_lunar_new_year_name<>DU XUÂN NÔ NỨC
+golden_time_lunar_new_year_desc<>Thu thập bao lì xì để đổi thưởng. Đổi càng nhiều lì xì, quà càng bự.
+drop_time_lunar_new_year<>13 ngày từ lúc bắt đầu sự kiện
+golden_time_lunar_new_year_drop_info<>Mỗi Bao lì xì rơi sau 1200 giây.
+source_money_type_243<>Nhận được trong Rương Quà của Chiến Dịch.
+free_summon<>Miễn phí sau
+select_elite_summon_wish<>Danh Sách Anh Hùng Có Thể Triệu Hồi
+gem_summon<>Số lượt còn lại
+need_summon_more<>Chắc chắn nhận được sau
+event_lunar_new_year_bundle<>Món Quà Đầu Xuân
+event_lunar_new_year_bundle_title<>MÓN QUÀ ĐẦU XUÂN
+event_lunar_new_year_bundle_desc<>Trong thời gian diễn ra sự kiện, hãy mua các gói quà đầu xuân này để nhận các vật phẩm quý giá.
+summon_more_to_gain_reward<>Triệu hồi thêm 1 lần nữa để nhận thưởng mong muốn
+valentine_checkin<>Hẹn Hò Bí Mật
+valentine_checkin_title<>HẸN HÒ BÍ MẬT
+valentine_checkin_des<>Tình yêu không nên bỏ lỡ. Hãy đăng nhập đầy đủ để nhận quà yêu thương.
+valentine_love_challenge<>Thử Thách Thần Tình Yêu
+valentine_love_challenge_title<>ÁI TÌNH BẤT DIỆT
+valentine_love_challenge_des<>Chiến boss và thể hiện sức mạnh của tình yêu. Bạn sẽ nhận được những phần thưởng xứng đáng.
+valentine_store<>Món Quà Lãng Mạn
+valentine_store_des<>Tại sao một người tinh tế như bạn lại không mua những món quà này?
+event_valentine_open_card<>Câu Đố Tình Yêu
+event_valentine_open_card_title<>CÂU ĐỐ TÌNH YÊU
+event_valentine_open_card_des<>Sử dụng Sô-cô-la để mở khoá từng phần Câu đố Tình yêu và nhận quà mong muốn. Hoàn thành chương 2 của Câu đố Tình yêu để nhận trang phục Entia.
+valentine<>Valentine
+event_lunar_skin_bundle<>Nữ Hoàng Long Tộc
+event_lunar_skin_name<>Arryl Hoàng Kim Long Mẫu
+select_wishing_reward_for_round<>Đầu tiên, hãy chọn phần quà mong muốn của vòng %s
+select_card_wish_list<>Danh sách Ước Nguyện
+item_lock<>Hoàn thành chương trước để mở khoá
+unlock_round<>Vật phẩm Ước Nguyện Vòng %s
+need_select_card_wish<>Hãy chọn phần quà mong muốn trước.
+max_round<>Bạn đã hoàn thành Câu đố Tình yêu.
+item_not_select<>Bạn đã nhận phần thưởng này.
+round_x_wishing_reward<>Bảng phần thưởng Vòng %s
+select_round<>Quà Nguyện Ước Khả Dụng
+social_tab<>Cộng đồng
+social_tab_title<>CỘNG ĐỒNG
+social_tab_des<>Cảm ơn bạn đã dành thời gian của mình với Summoners Era. Hãy tham gia các kênh cộng đồng của chúng tôi để cập nhật những thông tin mới nhất. Rất nhiều hoạt động và quà tặng đang chờ đợi bạn.
+social_reward_desc<>Ghé thăm cộng đồng của chúng tôi và nhận %s cho lần đầu tiên.
+can_not_claim<>Tài nguyên đang được khai thác.
+in_use_skill<>Đang dùng
+use_skill<>Dùng
+detail<>Chi tiết
+next_wave<>Đợt Tiếp Theo
+stage_record<>Đội hình Gợi ý
+wave_x_record<>Kết quả đợt %s
+need_upgrade_main_construction<>Cấp độ của Tháp không thể cao hơn cấp độ Thành chính.
+player_stage_record<>Chiến kí của bạn
+price_open_card_x<>Mỗi lần mở tốn %s
+new_hero<>Đòn chào Tân Anh hùng
+new_hero_quest_2<>Nhiệm vụ Chào mừng
+select_hero_all_formation<>Mỗi đội hình cần tối thiểu một anh hùng
+arena_team_shop<>Cửa hàng Kị sĩ
+arena_desc<>Chiến đấu đơn
+arena_3v3_desc<>Chiến đấu đội
+team<>Đội
+defense_your_team<>Điều chỉnh
+defeat<>Thua
+victory<>Thắng
+do_you_want_save_formation<>Bạn vẫn chưa lưu đội hình. Bạn có muốn lưu lại không?
+hero_in_arena_team<>Anh hùng đang trong Đấu trường Trí Dũng
+new_hero_bundle_title<>THẦN TƯỚNG TRỢ LỰC
+event_merge_server_quest_tittle<>NHIỆM VỤ TĂNG TỐC
+event_merge_server_quest_desc<>Nhân sự kiện Gộp Máy chủ, rất nhiều hoạt động và quà tặng đang chờ đợi bạn. 
+merge_server_quest<>Nhiệm Vụ Tăng Tốc
+merge_server_check_in<>7 ngày chung sức
+merge_server_checkin_title<>7 NGÀY ĐĂNG NHẬP
+merge_server_exchange<>Đổi quà Gộp Máy chủ
+merge_server_bundle<>Gói Bán Tiếp Sức
+merge_server_accumulation<>Tích điểm Nhận quà
+event_merge_server<>Gộp Máy Chủ
+event_merge_server_accumulation_tittle<>TÍCH ĐIỂM NHẬN QUÀ
+event_merge_server_accumulation_desc<>Hoàn thành Nhiệm vụ Tăng Tốc và tích luỹ Điểm Đoàn Kết để nhận quà.
+event_merge_server_exchange_title<>ĐỔI QUÀ GỘP MÁY CHỦ
+event_merge_server_exchange_desc<>Những vật phẩm này sẽ giúp ích cho bạn rất nhiều ở máy chủ mới.
+new_hero_summon<>Triệu hồi Truyền thuyết
+new_hero_spin<>Nấc thang Quyến rũ
+rose_spin<>NẤC THANG QUYẾN RŨ
+review_skin<>Xem trước Anh hùng
+new_hero_checkin_title<>TÂN THẦN TƯỚNG BAN PHƯỚC
+noti_binding_account<>Bạn đã chơi trò chơi được một thời gian mà vẫn chưa liên kết tài khoản. Để tránh mất dữ liệu, bây giờ hãy liên kết tài khoản nhé.
+binding_account_now<>Liên kết
+hero_food_faction_info_5<>Dùng để tiến hóa Anh hùng thuộc hệ: Thuỷ, Hoả, Tự nhiên và Vực thẳm..
+hero_food_faction_title_11<>Mặt Trăng (Thuỷ)
+hero_food_faction_info_11<>Sử dụng để nâng cấp Anh hùng hệ Thuỷ
+hero_food_faction_title_12<>Mặt Trăng (Hoả)
+hero_food_faction_info_12<>Sử dụng để nâng cấp Anh hùng hệ Hoả
+hero_food_faction_title_13<>Mặt Trăng (Vực Thẳm)
+hero_food_faction_info_13<>Sử dụng để nâng cấp Anh hùng hệ Vực Thẳm
+hero_food_faction_title_14<>Mặt Trăng (Tự Nhiên)
+hero_food_faction_info_14<>Sử dụng để nâng cấp Anh hùng hệ Tự Nhiên
+hero_food_faction_title_15<>Mặt Trời (Quang)
+hero_food_faction_info_15<>Sử dụng để nâng cấp Anh hùng hệ Quang
+hero_food_faction_title_16<>Mặt Trời (Ám)
+hero_food_faction_info_16<>Sử dụng để nâng cấp Anh hùng hệ Ám
+regression<>Phân Rã
+regression_reward<>Nguyên Liệu Hoàn Trả
+event_merge_server_bundle_tittle<>GÓI BÁN TIẾP SỨC
+event_merge_server_bundle_desc<>Bạn có thể lựa chọn 2 vật phẩm để mua từ các vật phẩm cho sẵn.
+select_item_pool<>Danh sách vật phẩm
+select_x_item<>Bạn hãy chọn 2 vật phẩm
+confirm_regression<>Bạn có chắc chắn muốn phân rã anh hùng này?
+evolve_invalid<>Không đủ anh hùng cho Đa tiến hoá
+device_not_support<>Thiết bị của bạn không được hỗ trợ để tương thích với trò chơi.
+not_register<>Tài khoản chưa đăng kí.
+event_easter_egg<>Lễ Phục Sinh
+easter_egg_check_in<>Phần Quà Từ Chúa
+easter_egg_checkin_title<>PHẦN QUÀ TỪ CHÚA
+easter_egg_bunny_card<>Thẻ Thỏ Phục Sinh
+event_easter_egg_bunny_tittle<>THẺ THỎ PHỤC SINH
+event_easter_egg_bunny_desc<>Bạn sẽ nhận được Ngọc, Mảnh hồn Khổng lồ và Vàng ứng với cấp độ của bạn. Phần thưởng sẽ được gửi hàng ngày trong %s ngày.
+purchased<>Đã mua
+easter_egg_limited_offer<>Icarus Thỏ Phục Sinh
+event_easter_limited_offer_tittle<>ICARUS THỎ PHỤC SINH
+easter_egg_limited_offer_desc<>Do not miss the chance to get the limited time skin of Icarus.
+easter_egg_hunt<>Thu Thập Trứng Phục Sinh
+easter_egg_break<>Đập Trứng Phục Sinh
+egg_hun_name<>THU THẬP TRỨNG PHỤC SINH
+egg_hun_desc<>Trứng và Búa có thể nhận được thông qua nhiều hoạt động. Hãy cùng thu thập nào.
+egg_hun_drop_1<>- Rơi trong Chiến Dịch mỗi 1200 giây.\n- Sau mỗi trận thắng trong Đấu Trường và Đấu Trường Trí Dũng.\n- Qua nhiệm vụ hàng ngày.\n
+egg_hun_drop_2<>- Vượt qua Hỏa Ngục màn 100; 300.\n- Hoàn thành tất cả nhiệm vụ hàng ngày.\n- Kết hợp 100 Trứng Bạc\n- Trong Gói bán sự kiện.
+egg_hun_drop_3<>- Trong điểm danh sự kiện\n- Kết hợp 10 Trứng Vàng\n- Trong gói bán sự kiện.
+hammer_drop_1<>- Vượt qua Hỏa Ngục màn 200; 400.\n- Mỗi {0}/20 chiến thắng trong Đấu Trường\n- Trong Gói bán sự kiện
+hammer_drop_2<>- Trong điểm danh sự kiện\n- Trong Gói bán sự kiện
+new_hero_quest_tittle_2<>NHIỆM VỤ CHÀO MỪNG
+new_hero_quest_desc_2<>Hoàn thành những nhiệm vụ này để nhận thêm Thiên Tinh Cầu dùng cho các hoạt động sự kiện khác.
+new_hero_spin_2<>Chinh Phạt Vũ Trụ
+new_hero_login_2<>Tân Thần Tướng Ban phước
+new_hero_bundle_2<>Thần tướng trợ lực
+new_hero_collection_2<>Phần thưởng cống hiến
+new_hero_collection_tittle_2<>PHẦN THƯỞNG CỐNG HIẾN
+new_hero_collection_desc_2<>Càng nhiều Diadora, càng nhận được nhiều quà.
+rose_spin_2<>CHINH PHẠT VŨ TRỤ
+smash_egg<>Đập
+smash_egg_desc<>Đập trứng và nhận phần thưởng. Bạn có thể chạm vào quả trứng để xem những gì bạn có thể nhận được.
+egg_combine<>Chuyển đổi trứng
+combine<>Chuyển đổi
+max_item_select<>Bạn chỉ có thể chọn tối đa 2 vật phẩm.
+hero_in_other_feature<>Anh hùng có thể phân rã đang ở trong tính năng khác.
+term_of_use<>Điều khoản sử dụng
+policy<>Lưu ý Chính Sách
+welcome_back_login<>Điểm danh Ngày về
+welcome_back_login_title<>ĐIỂM DANH NGÀY VỀ
+welcome_back_quest<>Nhiệm vụ trở lại
+welcome_back_quest_title<>NHIỆM VỤ TRỞ LẠI
+welcome_back_quest_desc<>Những nhiệm vụ này sẽ hỗ trợ bạn bắt kịp những thay đổi của trò chơi trong thời gian dài ngoại tuyến của bạn. 
+welcome_back<>Người cũ Trở lại
+idle_reward<>Phần Thưởng Treo Máy
+noti_term_of_use<>Bằng cách nhấn vào Chấp nhận, bạn đồng ý với Điều khoản sử dụng của chúng tôi và xác nhận rằng bạn đã đọc kỹ Lưu ý Chính sách. 
+cannot_purchase_in_pbe<>Thanh toán không được hỗ trợ trong phiên bản PBE.
+new_hero_boss_challenge_3<>Tranh đoạt Quyền lực
+new_hero_boss_challenge_tittle_3<>TRANH ĐOẠT QUYỀN LỰC
+new_hero_boss_challenge_desc_3<>Bạn sẽ nhận được phần thưởng lập tức cho 2 lần đầu tiên mỗi ngày. Đặc biệt, Charon gây ra 300% sát thương lên boss và chỉ phải chịu 50% sát thương từ boss.
+new_hero_quest_3<>Nhiệm vụ Chào mừng
+new_hero_quest_tittle_3<>NHIỆM VỤ CHÀO MỪNG
+new_hero_quest_desc_3<>Hoàn thành những nhiệm vụ này để nhận thêm Nguyệt Đao Enule dùng cho các hoạt động sự kiện khác.
+new_hero_login_3<>Tân Thần Tướng Ban phước
+new_hero_bundle_3<>Thần tướng trợ lực
+new_hero_collection_3<>Phần thưởng cống hiến
+new_hero_collection_tittle_3<>PHẦN THƯỞNG CỐNG HIẾN
+new_hero_collection_desc_3<>Càng nhiều Charon, càng nhận được nhiều quà.
+new_hero_exchange_3<>Đổi thưởng Nguyệt đao
+event_new_hero_exchange_name<>ĐỔI THƯỞNG NGUYỆT ĐAO
+event_new_hero_exchange_desc<>Sử dụng Nguyệt Đao Enule để đổi thưởng.
+new_hero_boss_leader_board_3<>Vinh danh Chiến tích
+welcome_back_bundle<>Gói bán Siêu lợi nhuận
+welcome_back_bundle_title<>GÓI BÁN SIÊU LỢI NHUẬN
+claimable_reward_turn<>Lượt đánh có quà
+new_hero_boss_leader_board_title_3<>VINH DANH CHIẾN TÍCH
+new_hero_boss_leader_board_desc_3<>Bảng xếp hạng này là nơi vinh danh những người chơi gây nhiều sát thương lên boss Enule nhất.
+chest_boss_challenge_damage_info<>Gây %s sát thương tại một trận đánh được rương này
+birthday_check_in<>Điểm danh mừng Sinh nhật
+birthday_check_in_title<>ĐIỂM DANH MỪNG SINH NHẬT
+even_birthday_golden_time_name<>Chơi càng nhiều, quà càng đã
+birthday<>Chúc mừng sinh nhật
+elune_journey<>Bản đồ Đảo hải tặc
+birthday_treasure_map<>Tìm kho báu
+final_journey_reward<>Rương Báu Vật
+complete_journey_x<>Hoàn thành %s hướng đi để nhận
+goal_x<>Kho báu %s
+move<>Dịch chuyển
+need_complete_one_more_journey<>Yêu cầu hoành thành ít nhất một hướng đi.
+need_claim_previous_reward<>Yêu cầu hoàn thành điểm đến trước đó.
+new_hero_collection_4<>Phần thưởng cống hiến
+new_hero_collection_tittle_4<>PHẦN THƯỞNG CỐNG HIẾN
+new_hero_bundle_4<>Thần tướng trợ lực
+new_hero_skin_bundle_4<>Thuỷ Tiệc Chào Hè
+event_new_hero_skin_bundle_1_data_4<>Renaks Mùa Hè Sôi Động
+event_new_hero_skin_bundle_2_data_4<>Enule Mùa Hè Sôi Động
+new_hero_treasure_4<>Bản đồ Đảo hải tặc
+unlock_super_monthly_card<>Nhận phần thưởng khi bạn mua Thẻ ngọc Đặc Biệt
+birthday_bundle<>Ưu đãi Mừng sinh nhật
+event_birthday_bundle_1<>Sinh nhật Vui vẻ
+event_birthday_bundle_2<>Sinh nhật Ý nghĩa
+birthday_check_wheel<>Vòng Quay Kỳ Thú
+birthday_exchange<>Đổi Quà Sinh Nhật
+confirm_stop_spin<>Bạn có muốn dừng quay và nhận các phần thưởng đã trúng? 
+event_birthday_exchange_title<>ĐỔI QUÀ SINH NHẬT
+event_birthday_exchange_desc<>Đừng quên đổi những phần thưởng này để giúp bạn tham gia sự kiện dễ dàng hơn nhé!
+skin_bundle<>Shop Trang Phục
+skin_bundle_view_43<>Combo Trang Phục
+skin_bundle_view_44<>Mua lẻ Trang Phục
+stop<>Dừng lại
+spin<>Quay
+noti_select_talent<>Bạn có muốn lựa chọn Thiên phú này?\n
+select_talent<>Lựa chọn Thiên phú
+noti_refresh_talent<>Bạn có muốn làm mới tất cả các lựa chọn này không?
+treasure_completed<>Bạn đã hoàn thành Hành trình săn tìm kho báu.
+skin_bundle_1_desc<>Mua 1 - Nhận 11. Thật không thể tin được!
+create_team<>Tạo tổ đội
+create<>Thiết lập
+allowed_class<>Chỉ dùng anh hùng thuộc các hệ này
+your_team<>Anh hùng tham gia
+lobby<>Về Sảnh
+invitation<>Xem lời mời
+domain_chest_stage_x_name<>Màn %s
+domain_chest_stage_x_desc<>Vượt màn %s để nhận thưởng
+block_domains_team_chat<>Chặn chat đội
+block_domains_recruit_chat<>Chặn chat Tuyển đội
+domains_team<>Chat đội
+domains_recruit<>Chat Tuyển đội
+guild<>Thành viên Bang hội
+verify<>Đơn xin vào đội
+noti_change_leader<>Bạn có chắc chắn muốn nhường quyền đội trưởng cho người chơi này?
+noti_kick_member<>Bạn có chắc chắn muốn mời người chơi này khỏi đội?
+disband<>Giải tán đội
+noti_disband<>Bạn có chắc muốn giải tán đội chơi?
+enter_team_name_id<>Hãy nhập tên hoặc ID của tổ đội để tìm kiếm.
+leave<>Rời đội
+ready<>Sẵn sàng
+unready<>Bỏ sẵn sàng
+noti_leave<>Bạn có chắc chắn muốn rời đội này?
+domain_name_require<>Hãy đặt tên đội của bạn.
+domain_desc_require<>Mời nhập vào mô tả cho đội của bạn!
+crew_disbanded<>Đội trưởng đã giải tán đội của bạn.
+domain_leader_updated<>Đội trưởng của đội đã thay đổi.
+fast_create<>Tạo nhanh
+default_team_desc<>Hãy tham gia đội của tôi nhé!
+default_team_x<>Team_%s
+kicked_from_crew<>Bạn đã bị mời rời đội.
+domain_challenge_over<>KHIÊU CHIẾN THÀNH CÔNG
+domain_challenge_congrat<>Xuất sắc! Đội của bạn đã hoàn thành thử thách ngày hôm nay!
+has_sent_to_mail<>Phần thưởng đã được gửi vào hòm thư.
+synchronize<>Đồng bộ
+invitation_sent<>Đã được mời
+beta<>Beta
+replay_domain<>Xem lại
+enter_domain_recruit<>Mô tả một chút về đội của bạn ở đây nhé!
+hot_deal<>Hot Deal
+hero_in_domain<>Anh hùng đang ở trong Bí Cảnh
+party<>Anh hùng Đội
+lose<>Thua
+equipped<>Đã được trang bị
+show_skin<>Hiển thị trang phục
+hero_release_collection<>Nhiệm vụ thu thập
+hero_release_bundle<>Gói bán sự kiện
+event_hero_release_1<>Thử thách rừng xanh
+hero_release_collection_tittle_1<>NHIỆM VỤ THU THẬP 
+event_hero_release_bundle_tittle_1<>GÓI RA MẮT ANH HÙNG MỚI
+feature_open_at_version_s<>Tính năng sẽ được mở trong phiên bản %s
+feature_open_at_version_s_time_s<>Tính năng sẽ được mở trong phiên bản %s sau %s
+event_hero_release_summon_1<>Triệu hồi Truyền thuyết
+expire_in_s<>Hết hạn trong %s
+hero_release_collection_desc_1<>Triệu hồi anh hùng Cernunous để nhận quà
+hero_release_daily_quest_tittle_1<>Tân Thần Tướng Ban phước
+instantly_get<>Nhận ngay
+claim_daily<>Nhận hàng ngày 
+bonus_login_days_s<>Nhận thưởng đăng nhập trong %s ngày
+hero_release_daily_quest<>Nhiệm vụ sự kiện
+subscription_packs_2<>THẺ NÔNG DÂN
+subscription_packs_3<>THẺ TIỂU THƯƠNG
+subscription_packs_4<>THẺ HOÀNG ĐẾ
+require_unready<>Bạn cần Bỏ Sẵn sàng để đổi đội.
+summon_hero_release_reward<>Thưởng thêm
+rate_up<>High Drop Rate
+overview_hero_40004<>Từ khi ra đời, Cernunos luôn coi mình là người hộ vệ rừng xanh và mã tộc. Trọng trách của ông là dẫn dắt đàn ngựa đến nơi nương náu an toàn tránh xa lũ thợ săn. Truyền thuyết kể rằng những kẻ không may lạc lối trong rừng sâu sẽ luôn nhìn thấy Cernunos và được dẫn đi đúng đường về. \nCernunos tăng sức tấn công theo số kẻ địch bị ông đánh trúng. Vì vậy, càng nhiều kẻ địch bị Cernunos tấn công thì ông sẽ càng mạnh mẽ hơn.
+hero_release_overview<>Kể chuyện Anh hùng
+guild_season<>Mùa giải đơn
+guild_grand_season<>Toàn mùa giải
+guild_season_in_tab<>Tham gia 
+guild_season_out_tab<>Không tham gia
+guild_leader<>Bang chủ
+guild_vice_leader<>Phó bang
+random_name<>Tên ngẫu nhiên
+delete_data<>Tải lại Dữ liệu
+warning_delete_data<>Bạn có muốn tải lại dữ liệu không?
+first_Top_Up_Confirm_Choose_Reward<>Thưởng nạp lần đầu
+overview_hero_50004<>Khi một hoàng hậu đang mang thai, bà ước gì con trai mình sẽ dũng cảm như đại bàng và khỏe mạnh như sư tử. Các vị thần nghe thấy điều ước của bà và đã chấp thuận nó. Vậy là cậu bé Grimm được sinh ra, nhưng thay vì là một hoàng tử tuấn tú thì Grimm lại mang hình hài một nửa là đại bàng và một nửa sư tử.\nVua cha thất vọng đến nỗi ông ta loại anh khỏi danh sách thừa kế ngai vàng. Grimm lớn lên trong sự ghẻ lạnh của cha mình. Tủi hổ vì bản thân, anh bỏ nhà ra đi.\nCho tới một ngày, vương quốc của họ bại trận trước cuộc tấn công của quân đội bóng tối. Chúng xử tử nhà vua bằng cách thả ông từ trên tường thành cao xuống mặt đất. Grimm bất ngờ xuất hiện và đỡ lấy cha mình. Anh ta đã bay khắp các vùng đất và xin được tiếp viện từ các vương quốc khác. Nhờ đó, quân đội bóng tối bị đánh bại và phải rút về.\nMặc dù vẫn không được thừa kế ngai vàng nhưng Grimm đã nhận được sự yêu mến của mọi người. Anh bay cao lên bầu trời, và dưới đôi cánh của anh, mọi sinh linh vô tội đều được bảo vệ.
+hero_release_daily_quest_tittle_2<>THỬ THÁCH THIÊN ĐÀNG 
+hero_release_collection_tittle_2<>THÁNH ÂN BAO BỌC
+event_hero_release_bundle_tittle_2<>GỢI Ý TỪ SỨ THẦN
+event_hero_release_summon_2<>Triệu hồi Truyền thuyết
+event_hero_release_2<>Tiếng gầm Thần thánh
+first_top_up_content_2<>Nạp ngay để nhận phần thưởng! 
+first_top_up_content<>Chọn 1 trong 3
+first_top_up_main<>THƯỞNG NẠP LẦN ĐẦU
+hero_release_collection_desc_2<>Nhận thêm các phần quà thông qua việc sở hữu Grimm.
+Border_Limited_Duration<>Hết hạn sau %s ngày.
+first_top_up_reward_confirm<>Bạn sẽ không thể chọn lại phần thưởng mua hàng lần đầu. Bạn có chắc chắn muốn chọn những phần quà này chứ?
+reset_talent_confirm<>Bạn có chắc chắn muốn tái tạo Thiên phú?
+reset_talent<>Tái tạo
+change_crew<>Đổi Đội trưởng
+crew<>Đội Trưởng
+crew_promote<>Đổi
+you_are_new_crew<>Bạn đã được chuyển thành Đội trưởng.
+first_top_up_content2<>Bạn sẽ nhận thêm những phần thưởng dưới đây.
+selected_hero<>Đã chọn
+customizeble_bundle_1<>Gói tự thiết kế thường
+customizeble_bundle_2<>Gói tự thiết kế Hoàng kim
+select_2_reward<>Chọn 2 vật phẩm bạn muốn mua
+sold_out<>Hết hàng 
+customize_packs<>Tự thiết kế gói mua
+selected_2_rewards<>Đã chọn đủ vật phẩm
+select_2_rewards_before_purchase <>Nhớ chọn vật phẩm trước nhé
+flash_sale_new_13<>Ưu đãi \nChào mừng
+flash_sale_new_14<>Ưu đãi Triệu Hồi Sư
+flash_sale_new_15<>Ưu đãi Bí ẩn
+flash_sale_new_16<>Ưu đãi Nâng cấp 1
+flash_sale_new_17<>Ưu đãi \nĐá nguyện ước
+flash_sale_new_18<>Ưu đãi \nĐá vận mệnh
+flash_sale_new_19<>Ưu đãi Nâng cấp 2
+buy_stock_remain_x<>Lượt mua còn lại %s
+will_get_item<>Bạn sẽ nhận được
+auto<>Tự động
+popup_confirm_auto_next_battle<>Xin hãy xác nhận bạn muốn dùng tính năng này. Tính năng sẽ dừng lại khi bạn thua một trận đấu.
+auto_next_battle_off<>Chức năng tự động chuyển màn chơi đã tắt.
+auto_battle_end_in<>Màn chơi {1} {2}-{3} tự động chuyển sau {4}
+button_auto_next_formation<>Tự chuyển màn chơi
+event_hero_release_3<>Anh Hùng Mới
+hero_release_daily_quest_tittle_3<>THỬ THÁCH HỎA DIỆM
+hero_release_collection_tittle_3<>THƯỞNG KHẾ ƯỚC
+event_hero_release_bundle_tittle_3<>LỬA THIÊNG BAN ẤN
+hero_release_collection_desc_3<>Thu thập Moblin và nhận thêm phần thưởng.
+event_hero_release_summon_3<>Triệu hồi Truyền thuyết
+auto_battle<>Tự động chiến đấu
+overview_hero_20008<>Moblin là một anh chàng tí hon mang khao khát thể hiện sức mạnh của tộc Goblin. Trong chuyến du hành tìm kiếm sức mạnh, Goblin gặp được một chú voi lạc đàn và 2 mảnh đời cô độc đã trở thành những người bạn tâm giao. Moblin đặt tên cho chú voi là Fanto.\nTrời không phụ lòng người, trải qua hành trình đầy gian truân thử thách, Moblin đã có được sức mạnh từ việc tập luyện và bản khế ước với Hỏa Thần. Nhưng như người ta vẫn nói, chớ đùa với lửa, Hỏa Thần gian manh đặt vào khế ước lời nguyền phản phệ. Bởi ông vốn không ưu ái tộc Goblin, thậm chí xem Goblin là chủng tộc thấp kém.\nLời nguyền ứng, Moblin chịu đau đớn về thể xác và tâm hồn. Fanto không mang sức mạnh, chẳng thể giúp được gì cho Moblin, chỉ có thể ngày qua ngày ở bên người bạn tri kỉ. Lời nguyền kéo dài hàng chục năm, cũng là ngần ấy năm Moblin và Fanto chống chọi với khổ cảnh. Fanto tìm tới hỏa thần, tình nguyện xin chịu lời nguyền ứng lên mình để cứu Moblin. Hỏa Thần chấp thuận, và Fanto trở thành hình dạng tà ác như một chú voi ma mút tiền sử. Nhưng nhân tính của Fanto vẫn còn bởi tình bạn chân thành của Moblin đã cứu rỗi linh hồn Fanto khỏi tha hóa. Sau cùng, đôi bạn vẫn bên nhau, tiếp tục chu du những miền đất mới.  
+bundle_battle_pass_level<>Mua Cấp 
+purchase_battle_pass_level_1<>1 cấp
+purchase_battle_pass_level_2<>5 cấp
+purchase_battle_pass_level_3<>10 cấp
+battle_pass<>Battle Pass
+battle_pass_level<>Battle Pass Level
+battle_pass_purchase_level<>Mua cấp
+battle_pass_title<>Battle Pass
+unlock_battle_pass_1<>Battle Pass Thường
+unlock_battle_pass_2<>Battle Pass Cao cấp
+battle_pass_tab_quest_title<>Nhiệm vụ
+button_battle_pass_reward_preview<>Phần thưởng
+button_battle_pass_unlock_premium<>Mở Battle Pass
+battle_pass_claim_all<>Nhận tất cả 
+battle_pass_tab_reward_title<>Nhận thưởng
+battle_pass_time_end<>Mùa này kết thúc sau %s
+button_battle_pass_unlocked_premium<>Battle Pass Cao cấp đã mở
+preview_battle_pass_reward<>Phần thưởng Battle Pass
+unlock_premium<>Mở Battle Pass
+week<>Tuần
+battle_pass_unlocked<>Battle Pass đã được mở khóa.
+confirm_free_battle_reward<>Phần thưởng Battle Pass
+confirm_battle_pass_reward<>Phần thưởng Battle Pass
+claim_confirmed_battle_pass<>Nhận quà đang có
+confirm_premium_reward_battle_pass<>Phần thưởng Premium Pass
+battle_pass_cannot_purchase_level<>Bạn đã đạt cấp tối đa của Battle Pass.
+confirm_free_reward_battle_pass<>Phần thưởng miễn phí
+overview_hero_60004<>Karos ngồi lặng thinh giữa thần điện đổ nát.\nThực ra, Karos không thể nhớ ra lần cuối hắn cảm nhận được sự yên tĩnh tuyệt đối như thế này là từ bao giờ. Karos được chọn là quan tư tế cho một vị thần Thượng cổ kể từ lúc loài người bắt đầu nhận thức được sự tồn tại của Thần. Hắn giúp đưa tin từ chủ nhân của mình đến với loài người, những lời tiên tri và cả những lời răn đáng sợ. Hắn ta dần chìm đắm trong cảm giác quyền lực mỗi khi thấy loài người quỳ gối khi nghe lời răn từ miệng mình, nhìn thấy họ run rẩy vì sợ hãi càng khiến ham muốn sức mạnh của hắn ta lớn hơn. Và có lẽ, dã tâm của hắn ta đã trở nên quá lớn.\nĐể duy trì cảm giác quyền lực, Karos truyền đi những lời sấm về bệnh dịch và chiến tranh mạo danh thần Thượng cổ, làm đảo điên thế gian trong cơn ác mộng hắn tự thêu dệt nên.\nSau khi Thần phát hiện ra những gì Karos đã làm sau lưng mình, Thần đã quyết định lấy đi khả năng giao tiếp với thần thánh của hắn, khiến hắn không còn nghe được tiếng của Thần nữa. Về phía người dân, sau khi niềm tin của họ vào Karos bị phản bội, họ quay lưng với thần điện và vị quan tư tế, để nó tự hủy diệt trong Vùng đất Lãng Quên.\nKhông. Ta không thể để bản thân mình bị quên lãng được!\nVới tham vọng đó, Karos đeo lên mặt chiếc mặt nạ của cựu Chủ nhân, cầm trên tay quyền trượng Ma thuật Đen, hắn ta bắt đầu hành trình gieo rắc cơn ác mộng về nỗi đau, mất mát và cái chết, giống hệt như vị thần mà hắn từng phục vụ.
+hero_release_daily_quest_tittle_4<>THỬ THÁCH BÓNG TỐI
+event_hero_release_bundle_tittle_4<>CỬA HÀNG THẦN BÍ
+hero_release_collection_tittle_4<>SỨC MẠNH HẮC ÁM
+hero_release_collection_desc_4<>Thu thập Karos và nhận thêm phần thưởng.
+event_hero_release_4<>Kẻ giả mạo thần
+event_hero_release_summon_4<>Triệu hồi Truyền thuyết
+starter_pack_new_23<>Gói Trang bị
+starter_pack_new_24<>Gói Triệu hồi sư
+starter_pack_new_25<>Gói Anh hùng
+starter_pack_choose_hero_noti<>Chọn một Anh hùng để mua gói bán!
+starter_pack_sold_out<>Gói bán này đã được mua.
+first_top_up_choose_from<>Xin mời chọn 1 trong %s phần thưởng dưới đây.
+first_top_up_desc<>Những phần quà này được tặng thêm khi bạn thực hiện mua bất kì vật phẩm nào.
+first_Top_Up_Confirm_Choose_Reward_New<>Bạn có chắc chắn muốn chọn những phần quà này chứ?
+free_gem_title<>Ngọc Miễn Phí
+free_gem_details<>Xem quảng cáo để nhận được Ngọc miễn phí
+or<>Hoặc 
+create_new_account<>Liên kết với ví điện tử để đăng ký trên trang web
+instant_unlock_ten_level<>Lập tức thêm 10 cấp
+special_event<>Nhiệm vụ giới hạn thời gian
+preview_reward<>Phần Thưởng
+reward_info<>Nhận phần thưởng lớn sau khi hoàn thành xem hết quảng cáo
+noti_next_battle_pass<>%s kinh nghiệm còn dư của mùa trước đã được chuyển sang mùa hiện tại.
+limit<>Giới hạn
+out_of_buy_level_by_gem_time<>Số lượt mua bằng Ngọc đạt giới hạn.
+buy_level_buy_gem<>Mua cấp bằng Ngọc
+select_artifact<>Chọn Cổ vật
+available_artifact<>Cổ vật có thể chọn
+select_an_artifact<>Bạn cần chọn 1 Cổ vật.
+overview_hero_10011<>Giữa đại dương sâu thẳm, nơi những xoáy nước cuồn cuộn ngăn bước chân của con người, tồn tại một hòn đảo với nền văn minh tiên tiến. Và, hòn đảo ấy được dẫn dắt bởi tộc Cá Mập Trắng, đứng đầu là Jeronim.\nTộc Cá Mập Trắng của Jeronim vốn sinh sống tại Atlantis của quốc vương Osse, hết mình cống hiến sức lực cho sự phồn thịnh của vương quốc. Ở một khía canh khác, những hải tặc từ thành phố Poseidonis luôn nhắm tới tài sản của Atlantis, sẵn sàng châm ngòi các cuộc cướp bóc đẫm máu. Một lòng trung thành với Atlantis, tộc Cá Mập Trắng không ngại xả thân chiến đấu với hải tặc tàn bạo. Jeronim cùng các chiến binh trong tộc đã anh dũng bảo vệ Atlantis qua biết bao cuộc chinh phạt của hải tặc, nhưng cái giá phải trả quá đắt. Tộc Cá Mập Trắng liên tục bị hải tặc truy sát, bởi vô số hải tặc cũng đã phải bỏ mạng trước sức mạnh của Jeronim và các chiến hữu. Nhiều năm trôi qua, tộc Cá Mập Trắng chỉ còn vài chiến binh tinh nhuệ cùng số ít cư dân an sinh sống trong Long thành. Vua Osse vì quá đau lòng và muốn bảo vệ những hậu nhân cuối cùng của tộc Cá Mập Trắng, ra lệnh cho Jeronim đưa cư dân trong tộc đi tới một nơi xa Atlantis. Jeronim ban đầu không đồng ý, nhưng cũng đành chấp lệnh quốc vương. Trước khi rời đi, Jeronim vẫn không quên nói với quốc vương Osse: Thần sẽ trở về khi bản thân mạnh hơn để cùng Người xây dựng Atlantis.
+hero_release_daily_quest_tittle_5<>THỬ THÁCH BIỂN SÂU
+event_hero_release_bundle_tittle_5<>ĐẠI DƯƠNG HỖ TRỢ
+hero_release_collection_tittle_5<>KHO BÁU BIỂN CẢ
+hero_release_collection_desc_5<>Thu thập Jeronim và nhận thêm phần thưởng.
+event_hero_release_5<>HÀM CÁ MẬP
+event_hero_release_summon_5<>Triệu hồi Truyền thuyết
+event_grow_up<>Hành Trình Triệu Hồi Sư
+new_server_grow_up<>HÀNH TRÌNH TRIỆU HỒI SƯ
+event_campaign_boot<>Hành trình chinh phạt
+new_server_campaign_boot<>HÀNH TRÌNH CHINH PHẠT
+new_server_campaign_boot_desc<>Hoàn tất các nhiệm vụ để nhận thưởng
+event_arena_boot<>Đấu trường Khốc liệt
+vip_treasure<>Kho báu VIP 
+new_server_vip_treasure<>KHO BÁU VIP
+new_server_vip_treasure_desc<>Nâng cấp VIP để nhận các phần thưởng độc quyền
+event_spin_new_server_week<>Vòng quay may mắn
+have_no_done_quest_to_claim<>Bạn cần hoàn thiện tất cả nhiệm vụ.
+new_server_arena_boot<>Tiếng tăm lừng lẫy
+new_server_arena_boot_desc<>Phần thưởng sẽ được gửi qua thư sau %s
+ended<>Nhiệm vụ đã quá hạn. 
+server_open_week_arena_point<>%s điểm
+week_spin_available_dice<>Số lượt quay: 
+new_server_week_spin<>Vòng quay may mắn
+server_week_spin_not_available<>Bạn không còn lượt quay.
+ranking_NA<>Chưa được xếp hạng
+new_server_grow_up_desc<>Lên cấp để nhận thêm nhiều phần thưởng hấp dẫn.
+claim_all_desc<>Hãy cố gắng hoàn thành tất cả nhiệm vụ nhé!
+reach_level<>Cấp %s
+select_item_server_week_bundle<>Bạn hãy chọn %s vật phẩm
+black_friday_purchase_1<>Ưu đãi nhỏ
+black_friday_purchase_2<>Ưu đãi trung
+black_friday_purchase_3<>Ưu đãi khổng lồ
+event_black_friday_bundle_pack<>Ưu đãi khủng
+event_new_server_week_login<>Điểm Danh
+event_daily_black_friday<>Điểm Danh
+black_friday_gem_pack_desc<>Sử dụng Ngọc để đổi thưởng.
+event_bundle_new_server_week<>Gói bán hỗ trợ
+select_hero_fragment<>Chọn Anh hùng
+available_hero_fragment<>Danh sách Anh hùng
+server_open_week_no_arena_point<>Chưa đủ điểm để xếp hạng.
+choose_arena_chest_reward<>Chọn phần thưởng
+selected_item<>Số rương đã chọn
+max_item_limit<>Đã vượt quá số lượng tối đa.
+hero_release_daily_quest_tittle_6<>NHIỆM VỤ NGUYÊN THUỶ
+event_hero_release_bundle_tittle_6<>BÍ ẨN TRỨNG RỒNG
+hero_release_collection_tittle_6<>QUÀ TẶNG CỦA RỒNG
+hero_release_collection_desc_6<>Thu thập Fragnil và nhận thêm phần thưởng.
+event_hero_release_6<>Anh hùng mới
+event_hero_release_summon_6<>Triệu hồi Truyền thuyết
+overview_hero_20009<>Thuở hồng hoang, Nhân tộc và Long tộc là những người bạn thân thiết, chung sống hoà thuận tại vương quốc Ánh sáng. Fragnil, Long Đế của Long tộc và Filde thủ lĩnh Nhân tộc khi ấy là cặp đôi chiến binh anh dũng. Môt người, một rồng, họ sẵn sàng xả thân chiến đấu bảo vệ sự an nguy của 2 tộc trước sự nhòm ngó của thế lực hắc ám.\nHoà bình duy trì, Nhân tộc phát triển quân sự và vũ khí với tốc độ chóng mặt và họ cũng dần quên sự tồn tại của Long tộc. Những kẻ hung ác dần biến Long tộc thành thú vui cho các cuộc đi săn, thành con mồi cho những cuộc thử vũ khí. Song, Long tộc vẫn luôn thân thiện với con người, không bao giờ tấn công Nhân tộc. Long tộc dần bị sát hại, buộc Fragnil phải rời đi dù chính Filde cũng đã ra sức bảo vệ người bạn thân và bộ tộc rồng.\nTình bạn giữa Fragnil và Filede vẫn còn đó, nhưng chính sự độc ác trong lòng dạ con người đã nhấn chìm những kỷ niệm đẹp của hai tộc vào dĩ vãng.
+new_server_arena_boot_2_desc<>Phần thưởng sẽ được gửi qua thư sau %s
+event_server_week_bundle_2_tittle<>GÓI BÁN HỖ TRỢ
+event_server_week_bundle_2_desc<>Những gói bán này sẽ hữu ích cho bạn trên hành trình thám hiểm game.
+event_server_week_bundle_tittle<>GÓI BÁN HỖ TRỢ
+event_server_week_bundle_desc<>Những gói bán này sẽ hữu ích cho bạn trên hành trình thám hiểm game.
+event_server_week_bundle_3_tittle<>GÓI BÁN HỖ TRỢ
+event_server_week_bundle_3_desc<>Những gói bán này sẽ hữu ích cho bạn trên hành trình thám hiểm game.
+new_server_arena_boot_2<>BẬC THẦY CHIẾN THUẬT
+event_server_week_arena_2_info<>
+new_server_tower_bootcamp<>ĐƯỜNG TỚI VINH QUANG
+new_server_tower_bootcamp_desc<>Đạt đến số tầng cụ thể trong Tháp Rồng để nhận thêm phần thưởng.
+event_tower_bootcamp<>Đường tới vinh quang
+event_arena_3v3_boot<>Bậc thầy chiến thuật
+event_server_open_2<>Nhiệm vụ tân thủ 2
+event_server_open_3<>Nhiệm vụ tân thủ 3
+new_server_grow_up_2<>HÀNH TRÌNH TRIỆU HỒI SƯ
+fortress<>Cuộc viễn chinh nguy hiểm
+new_server_fortress<>CUỘC VIỄN CHINH NGUY HIỂM
+new_server_fortress_desc<>Tham gia Pháo Đài và nhận thêm phần thưởng khi chiến thắng.
+dungeon<>Ngục tối huyền bí
+new_server_dungeon<>NGỤC TỐI HUYỀN BÍ
+new_server_dungeon_desc<>Đạt đến số tầng cụ thể trong Hỏa Ngục để nhận thêm phần thưởng.
+idle_effect<>Hiệu ứng đặc biệt
+new_server_grow_up_3<>HÀNH TRÌNH TRIỆU HỒI SƯ
+note_register<>
+list_idle_effect<>Danh sách hiệu ứng đặc biệt
+bundle_idle_effect<>Hiệu ứng đặc biệt
+idle_effect_bundle_1<>Tất cả hiệu ứng
+hero_recommend_game_mode_1_1<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Bình thường
+hero_recommend_game_mode_1_2<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Khó
+hero_recommend_game_mode_1_3<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Cùng Cực
+hero_recommend_game_mode_1_4<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Ác mộng
+hero_recommend_game_mode_1_5<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Điên Cuồng
+hero_recommend_game_mode_1_6<>Anh hùng dùng nhiều nhất trong: Chiến Dịch Hỗn Loạn
+idle_effect_bundle_2<>Hiệu ứng thông thường
+idle_effect_bundle_4<>Hiệu ứng ngẫu nhiên
+idle_effect_bundle_3<>Hiệu ứng truyền thuyết
+select_item_idle_effect_bundle<>Bạn cần chọn 1 hiệu ứng trước khi mua.
+select_idle_effect_fragment<>Chọn hiệu ứng
+available_idle_effect_fragment<>Danh sách có sẵn
+hero_recommend<>Gợi ý anh hùng
+hero_recommend_game_mode_2_-1<>Anh hùng dùng nhiều nhất trong: Tháp Rồng
+hero_recommend_game_mode_4_-1<>Anh hùng dùng nhiều nhất trong: Hỏa Ngục
+hero_recommend_game_mode_6_-1<>Anh hùng dùng nhiều nhất trong: Đấu Trường
+hero_recommend_game_mode_most<>Anh hùng được dùng nhiều nhất
+wiki<>Sách hướng dẫn
+empty_2<>Bạn không sở hữu hiệu ứng nào.
+event_lunar_new_year_spring_bundle<>Cửa Hàng Thần Tài
+event_lunar_2022_spring_bundle_1<>Tết An Khang
+event_lunar_2022_spring_bundle_2<>Tết Thịnh Vượng
+text_describe_reward<>Có thể nhận được những vật phẩm dưới đây
+water_box<>Rương Thuỷ
+fire_box<>Rương Hoả
+abyss_box<>Rương Vực Thẳm
+nature_box<>Rương Tự Nhiên
+light_box<>Rương Quang
+dark_box<>Rương Ám
+event_lunar_new_year_spring_box<>Hộp quà đầu xuân
+event_lunar_new_year_exclusive_bundle<>Vệ thần Tân xuân
+overview_hero_30003<>Ác ma, chúng là những tạo vật vô hình nương náu trong cơ thể mỗi người. Ghen ghét, đố kỵ, tà tâm của con người là điều kiện cho ác ma trưởng thành. Khi ác ma trưởng thành, chúng có được sức mạnh để tách khỏi cơ thể con người, trở thành những sinh vật sống độc lập. \nNero, một ác ma được sinh ra theo cách đó sở hữu sức mạnh tà ác khổng lồ. Hắn có khả năng nhân lên gấp bội số lượng ác ma với tham vọng xâm chiếm thế giới con người. Con người phải bị ác ma cai trị, Nero hùng hổ tuyên bố.
+hero_release_daily_quest_tittle_7<>Thử thách của Quỷ
+hero_release_collection_tittle_7<>Thiện hay Ác?
+event_hero_release_bundle_tittle_7<>Giao dịch với ác ma
+spring_box_limited<>Số lượng hộp quà đã mở đạt tối đa.
+buy_premium_to_get_this<>Bạn cần mở khóa pass để nhận những phần thưởng này.
+event_lunar_new_year_tiger_path<>Hành trình tài lộc
+tiger_path_decs<>Mở khóa Pass cao cấp để nhận thêm phần thưởng.
+event_lunar_new_year_tiger_path_guide<>Hoàn thành các nhiệm vụ hàng ngày để nhận Điểm tài lộc, tăng cấp tiến trình của bạn và nhận phần thưởng.
+select_hero_bundle<>Hãy chọn 1 anh hùng đại diện cho Premium Pass.
+event_lunar_new_year_lion_dance<>Tiểu miêu xông đất
+event_lunar_new_year_lion_dance_decs<>Hoàn thành các nhiệm vụ hàng ngày để nhận Xu may mắn, tăng cấp tiến trình của bạn và nhận phần thưởng.
+lunar_new_year_tiger_path<>HÀNH TRÌNH TÀI LỘC
+hero_release_collection_desc_7<>Thu thập Nero và nhận thêm phần thưởng.
+event_hero_release_7<>Anh hùng mới
+event_hero_release_summon_7<>Triệu hồi Truyền thuyết
+please_select_box<>Bạn hãy chọn một hộp quà để mở!
+resource_mapping<>Tài nguyên
+wiki_feature_unlock<>Tính năng
+lineup_recommend_1<>Đội hình gợi ý đầu game
+lineup_recommend_2<>Đội hình gợi ý giữa game
+lineup_recommend_3<>Đội hình gợi ý cuối game
+desc_gem_feature<>Có thể nhận được từ các hoạt động khác nhau trong game và mua hàng trong game.
+please_chose_one_resource<>Bạn hãy chọn 1 loại tài nguyên bất kì để xem thông tin về tài nguyên đó nhé!
+Kể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Tính cách của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa."<>Võ đạo của Samurai
+event_kazetsu_check_in<>Báo danh võ đường
+event_kazetsu_gift<>Ý chí sắt đá
+event_kazetsu_gift_desc<>Thu thập Kazetsu để nhận thưởng.
+event_kazetsu_bundle<>Mặt nạ tối thượng
+kazetsu_store_des<>Bùng nổ sức mạnh bằng các gói giới hạn!
+hero_recommend_game_mode_13_-1<>Anh hùng dùng nhiều nhất trong: Đấu Trường Trí Dũng
+event_kazetsu_trial<>Kazetsu: Theo đuổi sức mạnh
+sign_in_apple<>Đăng nhập bằng tài khoản Apple
+you_must_have_a_lineup<>Bạn cần chọn đội hình trước khi vào thử thách
+start_trial<>Vào trận
+reroll<>Triệu hồi lại
+want_to_reroll<>Bạn có muốn triệu hồi lại?
+lineup_select<>Đội hình đã chọn
+cant_roll_after_confirm_lineup<>Bạn đã có đội hình
+noti_has_hero_selected<>Hãy bỏ chọn tất cả anh hùng trước
+noti_full_hero_selected_for_trial<>Hãy chọn đủ 6 anh hùng
+want_to_start_trial<>Bạn sẽ không thể thay đổi các anh hùng này. Bạn có muốn bắt đầu thử thách không?
+cant_unpick_kazetsu<>Kazetsu buộc phải chiến đấu
+kazetsu_already_dead<>Kazetsu đã bị hạ gục
+revive_time<>Số lần hồi sinh
+end_kazetsu_tower<>Chiến thắng
+out_of_revive_turn<>Đã hết lần hồi sinh
+continue_with_apple<>Tiếp tục với Apple
+event_kazetsu_rate_up<>Triệu hồi Truyền thuyết
+regular_pack<>Gói bán phổ thông
+event_kazetsu_boss<>Trận chiến sinh tử
+kazetsu_boss_title<>TRẬN CHIẾN SINH TỬ
+kazetsu_boss_des<>Thách đấu Kazetsu để thể hiện sức mạnh của bạn và nhận phần thưởng.
+get_limited_skin_now<>Đừng bỏ lỡ cơ hội sở hữu trang phục giới hạn của Kazetsu nhé!
+guild_quest_end<>Nhiệm vụ đã kết thúc.
+bonus_hero<>Thưởng thêm cho anh hùng {1}
+customizeble_bundle_3<>Gói bán tự chọn tuần
+customizeble_bundle_4<>Gói tự chọn tháng - gói 1
+customizeble_bundle_5<>Gói tự chọn tháng - gói 2
+easter_egg_exchange_reward<>Đổi điểm Phục sinh
+easter_bundle<>GÓI BÁN LỄ PHỤC SINH
+event_easter_exclusive_bundle<>GÓI PHỤC SINH ĐẶC BIỆT
+easter_egg_exclusive_bundle<>Gói Phục sinh đặc biệt
+super_roll<>Quay đặc biệt
+skip_dice_anim<>Bỏ qua hiệu ứng quay
+easter_egg_bundle<>Gói bán lễ Phục sinh
+easter_dice_guide<>Đổ xúc sắc để nhận các phần thưởng khi tham gia trò chơi
+easter_egg_dice<>Trò chơi xúc sắc
+tap_dice_to_roll<>Chạm vào viên xúc sắc để đổ
+normal_dice<>Xúc xắc ma thuật
+super_dice<>Siêu xúc sắc
+event_hero_release_8<>Hắc hoả Hoàng đế
+event_hero_release_summon_8<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_8<>HOẢ VIÊM RỰC CHÁY
+hero_release_collection_tittle_8<>HUYẾT HOẢ RỰC CHÁY
+hero_release_collection_desc_8<>Thu thập Finde và nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_8<>HOẢ THẦN TƯƠNG TRỢ
+overview_hero_20006<>Cái giá phải trả cho việc giúp đỡ Fragnil di tản an toàn vẫn luôn ám ảnh Finde. Ngai vàng mà Finde đang ngồi được làm từ xương máu của những chiến binh thân cận với Finde và cả của những đồng minh long tộc.\nFinde được Hoả thần ban tặng quyền năng của Lửa. Khác với Moblin, quyền năng trong tay Finde giúp anh ấy có sức mạnh thần thánh mà không chút phản phệ. Khả năng càng lớn, trách nhiệm càng cao, Finde được cử làm chủ tướng bảo vệ an nguy vùng địa đầu vương quốc ánh sáng. Năm đó, khi đang chiến đấu chống lại quân đội của Scathatch, Finde hay tin Long tộc gặp nguy. Vì tình bạn với Fragnil, Finde đã thi triển Hoả ấn nhằm gia cố phòng thủ trong khi mình tức tốc trở về cứu giúp Long tộc. Bằng sức mạnh vượt trội, Hoả ấn của Finde giúp quân đội tiền tuyến đủ sức cầm chân Scathatch dẫu cho thương vong vẫn là một con số vô cùng lớn. Còn vấn đề của Long tộc, Finde với trí thông minh của mình đã khéo léo xử lý êm đẹp, đưa Fragnil và Long tộc thành công lánh nạn. Nhưng đó chỉ là bình yên trước cơn bão, quân đội của Scathath vẫn đang nhăm nhe ăn tươi nuốt sống Finde để phá bỏ lớp phòng thủ tiến vào vương quốc ánh sáng.     
+hero_fragment_1705<>Mảnh anh hùng truyền thuyết
+easter_egg_dice_game<>Trò chơi xúc sắc
+event_finde_boss<>Khảo nghiệm sức mạnh
+finde_boss_title<>Truyền nhân Hoả thần
+finde_boss_des<>Thách đấu Finde để thể hiện sức mạnh của bạn và nhận phần thưởng.
+event_puzzle_era<>SỰ KIỆN GHÉP HÌNH
+select_hero_pool<>Chọn Anh hùng
+noti_confirm_select_puzzle<>Bạn sẽ chọn câu đố này phải không?
+event_puzzle<>Sự kiện ghép hình
+can_not_change_hero_this_slot<>Không thể thay đổi anh hùng tại ô này
+need_fill_up_all_slot<>Bạn cần chọn đủ tất cả ô trước khi bắt đầu câu đố
+open<>Mở
+event_puzzle_finished<>Bạn đã hoàn thành sự kiện lần này
+hero_puzzle_complete<>Đã hoàn thành ghép toàn bộ tranh
+do_you_want_to_download_resource<>Trải nghiệm chơi game được tối ưu nhất khi tải đủ tài nguyên của game. Ngoài ra, nếu không tải đủ tài nguyên, bạn sẽ không thể đăng nhập vào game. Bạn có muốn tải các tài nguyên trong game không?
+birthday_exclusive_bundle<>Gói bán đặc biệt
+puzzle<>Ghép hình
+hero_fragment_1805<>Mảnh anh hùng hệ Thuỷ, Hoả, Vực Thẳm, Tự Nhiên
+hero_fragment_1905<>Mảnh anh hùng hệ Quang, Ám
+bundle<>Ưu đãi
+dark_vs_light<>Trận chiến định mệnh
+birthday_legacy_path<>Di sản vương đạo
+birthday_legacy_path_guide<>Hoàn thành nhiệm vụ hàng ngày, thu thập Điểm Pass di sản để nhận phần thưởng từ Di sản vương đạo.
+birthday_legacy_path_decs<>Mở khóa bản cao cấp để nhận thêm phần thưởng.
+select_light_path<>Chọn
+select_dark_path<>Chọn
+light<>Ánh sáng
+dark<>Bóng tối
+select_side_confirm<>Bạn có chắc muốn chọn phe này không? Một khi đã chọn, bạn sẽ không thể đổi lại phe đã chọn.
+select_artifact_pool<>Danh sách Cổ vật
+birthday_boss_title<>Thánh Ân hay Tà Niệm
+birthday_boss_des<>Khiêu chiến Boss để nhận thưởng. Đặc biệt, Celestia và Scathatch gây gấp đôi sát thương lên Boss và giảm một nửa sát thương nhận vào từ Boss.
+birthday_boss<>Khảo nghiệm sức mạnh
+preboss_des<>Để mở khoá thử thách đánh Boss, bạn cần chọn phe.
+navigate_to_dark_light<>Tới chọn phe
+hero_fragment_1605<>Mảnh anh hùng truyền thuyết: Ám
+hero_fragment_1505<>Mảnh anh hùng truyền thuyết: Quang
+hero_fragment_1405<>Mảnh anh hùng truyền thuyết: Tự Nhiên
+hero_fragment_1305<>Mảnh anh hùng truyền thuyết: Vực Thẳm
+hero_fragment_1205<>Mảnh anh hùng truyền thuyết: Hoả
+hero_fragment_1105<>Mảnh anh hùng truyền thuyết: Ám
+event_hero_release_9<>Đối thủ truyền kiếp
+event_hero_release_summon_9<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_9<>THỬ THÁCH CAM GO
+hero_release_collection_tittle_9<>QUYỀN NĂNG DỮ DỘI
+hero_release_collection_desc_9<>Thu thập Celestia và Scathatch để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_9<>GIẢM BỚT CHƯỚNG NGẠI
+overview_hero_50007<>Tại sao thiên thần luôn phải tuân theo mệnh lệnh mà không thể hành động theo ý chí cá nhân? Celestia tự hỏi bản thân trước những anh chị em thiên thần khác, nhưng không một ai trả lời. Là một thiên thần lương thiện, Celestia hiểu sứ mệnh của bản thân là giúp đỡ những kẻ yếu, thế nhưng trong nàng vẫn luôn có những mong muốn tự do khám phá. Sứ mệnh, nghĩa vụ, bổn phận, giáo điều, Celestia không thích chúng nhưng cũng không phó mặc chúng. Thiên thần sau cùng có nên can thiệp tới nhân thế không đây? Và trong bóng tối kia, có gì khiến những thiên thần luôn phải cảnh giác...
+overview_hero_60005<>Hàng nghìn năm trước, khi cuộc chiến giữa các ma thần nổ ra, có một nữ tiên vô tình vướng vào vòng xoáy chiến trận. Đó là Scathatch, tiên tử sở hữu quyền năng bóng tối. Những giai thoại về nàng nữ thần bóng đêm được lưu truyền không nhiều, chỉ nghe nhân gian đồn đại nàng nắm giữ sức mạnh khiếp sợ. Những kẻ nào đã lọt vào tầm ngắm của nàng, tất thảy đều ước bản thân chưa từng tồn tại.\nNỗi sợ bóng tối có phải điều đáng sợ nhất? Không, điều đáng sợ trong bóng tối đó là một Scathatch lạnh lùng. Với nàng, không có tốt và xấu, mọi thứ khiến nàng phật ý đều đáng bị loại bỏ.
+legacy_point_desc<>Mỗi nhiệm vụ hàng ngày thường: 15 điểm\nHoàn thành tất cả nhiệm vụ hàng ngày: 30 điểm
+summoner_lock<>Mở khoá sau khi thu thập 10 Sách cổ
+watch<>Xem
+watch_ads<>Xem quảng cáo
+new_server_grow_up_guide<>Tăng cấp Triệu hồi sư của bạn để nhận thưởng theo các mốc
+first_purchase_hero_1<>Finde
+first_purchase_hero_2<>Enule
+first_purchase_nac<>Mua 1 gói bán\n bất kỳ để nhận
+first_purchase_nac_price<>Mua 1 gói bán có giá trị\n lớn hơn %s để nhận
+first_purchase_nac_price_global<>Mua 1 gói bán có giá trị\n lớn hơn %s để nhận
+first_purchase_reward_claimed<>Phần thưởng đã được nhận
+claimed<>Đã nhận
+first_purchase_hero_desc_1<>Truyền nhân Hoả thần
+first_purchase_hero_desc_50006<>Nguyệt đao công chúa
+zodiac_bundle<>Gói bán Cung hoàng đạo
+zodiac_constellations<>Ghép sao
+zodiac_quest<>Nhiệm vụ
+zodiac_exchange<>Đổi quà
+i_like_it<>Thích và đánh giá
+need_improvements<>Để sau
+rate_content_2<>Những góp ý của bạn rất quý giá với chúng tôi trong việc cải thiện trải nghiệm chơi game. Hãy cho chúng tôi biết ý kiến của bạn nhé! 
+not_now<>Để sau
+quick_open_constellation_map<>Nối nhanh
+overview_hero_20003<>Sâu trong vùng núi lửa, có một bộ tộc không màng thế sự, sinh sống yên bình qua nhiều thế kỷ. Họ sống hòa thuận với thiên nhiên, tận dụng thiên nhiên làm nhà ở, phương tiện sống. Họ phát triển cùng thiên nhiên, tách biệt khỏi những khoa học hiện đại. Eitri, một chiến binh của bộ tộc, là một cư dân rất đỗi bình thường. Anh ấy sở hữu kỹ năng và kinh nghiệm chiến đấu của những chiến binh tinh luyện, song luôn cất giấu nó trong vỏ bọc một người nông. Eitri quan niệm, sức mạnh là nguồn căn của tham vọng, dẫn tới chiến tranh. Và anh ấy không muốn bản thân sa vào những cuộc chiến thương đau, khiến bộ lạc của mình mất đi hòa bình.
+event_hero_release_10<>Chiến binh dung nham
+event_hero_release_summon_10<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_10<>Thám hiểm núi lửa
+hero_release_collection_tittle_10<>Chinh phục lửa thần
+hero_release_collection_desc_10<>Thu thập Eitri để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_10<>Gói bán hỗ trợ
+title_event_zodiac<>Thử thách Cung hoàng đạo
+event_zodiac<>Sự kiện Cung hoàng đạo
+event_zodiac_section_reward<>Phần thưởng chặng
+rate_content_1<>Thân gửi Triệu hồi sư! Chúng tôi hy vọng bạn sẽ thích trò chơi và có thể cho chúng tôi biết phản hồi của bạn về trò chơi. Ý kiến của bạn sẽ là động lực để chúng tôi cải thiện trò chơi trở nên tốt hơn.
+complete_reward<>Thưởng hoàn thành chòm sao
+star_reward_pool<>Phần thưởng cấp độ
+tower_lock_level_require<>Cần đạt tới cấp độ %s để mở khoá tầng này
+tower_lock_out_of_ticket<>Không đủ vé để tham gia Tháp rồng
+star_reward_pool_condition<>Mở khóa khi đổi một phần thưởng bất kỳ ở cấp độ
+collect_pearl_desc<>Nhận ngọc thưởng thêm từ đổi sao.\nHiện có: 
+not_thing_to_claim<>Hiện tại không có vật phẩm để nhận
+collect<>Nhận
+event_vip_treasure<>Tăng cường VIP
+event_vip_treasure_content<>Tăng điểm VIP để nhận thêm phần thưởng
+event_skin_challenge<>Thử thách trang phục
+title_event_skin_challenge<>THỬ THÁCH TRANG PHỤC
+progress<>Tiến trình
+confirm_select_skin<>Bạn sẽ lựa chọn trang phục này làm phần thưởng cuối. Bạn có chắc chắn muốn chọn trang phục này không?
+not_available_day<>Hoàn thành tất cả nhiệm vụ của ngày trước đó và chờ tới ngày mai để mở khoá
+event_zodiac_map<>Nối sao
+first_purchase_hero_3<>Kazetsu
+first_purchase_hero_desc_30027<>Samurai uy dũng
+overview_hero_30027<>Sau khi Nero giải phóng ác ma khỏi cơ thể con người, nhân gian chìm ngập trong cái ác, đâu đâu cũng nghe thấy tiếng khóc than ai oán. Căm phẫn, oán niệm, đổ nát, diệt vong, tuyệt vọng là những từ miêu tả nhân gian khi đó.\nTại ngôi làng Samurando, có một cậu bé tên là Kazetsu. Kazetsu mất cha mẹ trong một cuộc chiến giữa loài người và ác ma. Tận mắt chứng kiến người thân hi sinh, Kazetsu mang sự căm phẫn ác ma tột độ, quyết tâm báo thù. Nhưng sức người có hạn, nhân gian cũng đã điêu tàn dưới sự cai trị tàn nhẫn của ác ma, Kazetsu chỉ còn cách ký khế ước với ác ma, theo chúng để luyện tập sức mạnh. Để có được lòng tin của quỷ, Kazetsu buộc lựa chọn hướng đi ác tà, điên cuồng giết chóc thậm chí không thể làm chủ bản thân.\nThật may mắn, Kazetsu vẫn còn giữ được niềm tự tôn của một võ sĩ đạo, lòng quyết tâm báo thù cho cha mẹ nên cuối cùng cũng sở hữu được sức mạnh của ác ma. Kazetsu đem kết hợp nó cùng với tinh thần của một samurai, anh ấy đeo lên chiếc mặt nạ quỷ, một mình tiêu diệt toàn bộ lũ ác ma cai trị ngôi làng của mình. Giải cứu được người dân trong làng, Kazetsu lên đường tìm diệt Nero...
+event_hero_release_11<>Samurai uy dũng
+event_hero_release_summon_11<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_11<>Hành trình luyện tập
+hero_release_collection_tittle_11<>Tụ hợp đồng minh
+hero_release_collection_desc_11<>Thu thập Kazetsu để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_11<>Gói bán hỗ trợ
+warning_delete_account<>Tài khoản bị xoá sẽ không thể khôi phục lại. Bạn có chắc chắn muốn xoá tài khoản của bạn chứ?
+event_skin_challenge_day_not_available<>Nhiệm vụ sẽ được mở khoá vào các ngày tiếp theo
+delete_account<>Xóa tài khoản
+delete_account_rule_1<>Tất cả dữ liệu trong game của bạn sẽ bị xóa vĩnh viễn và không thể phục hồi khi bạn lựa chọn xóa tài khoản. Bạn có muốn tiếp tục không?
+delete_account_warning_1<>Tất cả mạng xã hội liên kết với tài khoản của bạn sẽ bị gỡ.
+delete_account_warning_2<>Cẩn trọng! Bạn không thể khôi phục tài khoản của mình sau khi xóa. Hãy lưu ý!
+delete_account_rule_2<>Hãy nhập YES để xác nhận bạn muốn xóa tài khoản của mình.
+tap_here_to_type<>Mời nhập kí tự tại đây
+first_purchase_hero_desc_2<>Nguyệt đao công chúa
+input_delete_failed<>Bạn nhập sai từ. Hãy nhập lại nhé!
+player_deactivated<>Tài khoản này đã bị xoá
+event_skin_challenge_select_layout<>Chọn trang phục
+please_select_1_skin<>Hãy chọn 1 trang phục để bắt đầu thử thách nhé!
+challenges<>Trận đấu thử thách
+event_hero_release_12<>Đại thiên sứ
+event_hero_release_summon_12<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_12<>Thiên thần dẫn lối
+hero_release_collection_tittle_12<>Thánh ân thiên đường
+hero_release_collection_desc_12<>Thu thập Celestia để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_12<>Gói bán hỗ trợ
+flash_sale_new_1<>Gói siêu hỗ trợ 1
+sungame_die_title<>Thông báo chuyển đổi phiên bản
+sungame_die_detail<>Thân gửi các Triệu Hồi Sư,\nNhằm đảm bảo chất lượng trò chơi cũng như trải nghiệm của người dùng một cách an toàn và hiệu quả nhất, chúng tôi quyết định sẽ tiến hành quá trình kết hợp hai phiên bản trò chơi tại hai thị trường Việt Nam và Quốc tế. Thời gian thực hiện kết hợp 2 phiên bản: 30/09/2022 (ngày 30 tháng 9 năm 2022)\nDo đó, cả hai phiên bản Kỷ nguyên Triệu Hồi và Summoners Era quốc tế sẽ được phát hành dưới chung một phiên bản - Summoners Era. Để có thể tiếp tục tham gia, các Triệu Hồi Sư cần liên kết tài khoản hiện tại với các nền tảng mạng xã hội và đăng nhập vào phiên bản quốc tế Summoners Era. Tất cả dữ liệu về tài khoản, tiến trình chơi của các bạn sẽ được lưu trữ và tiếp tục triển khai sau thực hiện liên kết. Vì vậy, hãy nhanh chóng liên kết nhé!\nTrân trọng kính báo!
+go_to_binding<>Liên kết
+flash_sale_new_2<>Gói siêu hỗ trợ 2
+flash_sale_new_3<>Gói siêu hỗ trợ 2
+flash_sale_new_4<>Gói siêu hỗ trợ 3
+flash_sale_new_5<>Gói siêu hỗ trợ 3
+flash_sale_new_6<>Gói siêu hỗ trợ 4
+flash_sale_new_7<>Gói siêu hỗ trợ 5
+event_mid_autumn<>Trung Thu
+overview_hero_30008<>Ngày Nero giải phóng ác ma khỏi cơ thể con người, nhân gian chìm trong đổ nát và nồng nặc tử khí. Khắp nơi trên thế giới đâu đâu cũng thấy xác người, thiên nhiên ngập trong mùi máu tanh. Linh hồn người chết không siêu độ tích tụ ngày càng nhiều, hoá thân vào cả những vật vô tri. Kozorg, vốn là một địa thạch nhân của vùng Vực thẳm, vì bị tử linh tích tụ nên trở thành quái vật. Tuy nhiên, trong những linh hồn tích tụ lên Kozorg, vẫn có ác linh và thiện linh, khiến cho anh chàng người đá cũng có những lúc ôn hoà, trầm tư. Những lúc như vậy, Kozorg muốn làm gì đó để cứu giúp nhân loại và anh ta đã liên lạc cho Airyuu, công chúa Long tộc từng say ngủ sâu trong Tử Vực...
+event_hero_release_13<>Tử Linh Thạch Nhân
+event_hero_release_summon_13<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_13<>Khảo nghiệm tư chất
+hero_release_collection_tittle_13<>Thu thập tàn hồn
+hero_release_collection_desc_13<>Thu thập Kozorg để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_13<>Gói bán hỗ trợ
+battle_pass_store<>Cửa hàng đổi thưởng
+confirm_exchange<>Bạn có chắc chắn muốn đổi vật phẩm này không?
+event_hero_boss_title_2<>Thanh tẩy tử linh thạch
+event_hero_boss_des_2<>Chiến đấu với Kozorg tà ác, thể hiện sức mạnh của bạn và giúp anh ta vượt qua ác quỷ
+event_hero_boss_2<>Chiến Boss
+battle_pass_exchange<>Khu đổi thưởng
+confirm_remove_food<>Bạn có chắc chắn muốn tháo anh hùng này để sử dụng làm nguyên liệu nâng cấp. Anh hùng hiện đang trong tính năng
+failed_quick_remove<>Anh hùng này không thể được dùng làm food lúc này
+price<>Giá
+popular<>Độ hiếm
+recent<>Ngày ra mắt
+skin_shop<>Trang phục
+there_is_no_current_sale<>Gói bán giảm giá hiện tại không có sẵn. Những gói bán này hiện đang đi-chơi-xa, nhưng sẽ sớm có lại thôi. Hãy kiên nhẫn chờ nha!
+confirm_remove_hero<>Bạn có chắc chắn muốn tháo anh hùng này khỏi các tính năng
+failed_remove_hero<>Không thể gỡ nhanh anh hùng này. Vui lòng xóa thủ công khỏi tính năng
+hero_lock_in_feature<>Anh hùng bị khóa tại tính năng
+black_friday_bundle<>Siêu khuyến mại Black Friday
+social<>Mạng xã hội
+friends<>Bạn bè
+guide_book<>Sách hướng dẫn
+customer_service<>Chăm sóc khách hàng
+overview_hero_60003<>Mẹ của Zalidus chết ngay sau khi sinh hắn ra, báo hiệu một cuộc đời phía trước của hắn sẽ luôn song hành cùng Tử thần. \nLớn lên tại Hắc Địa, nơi mà sống sốt nghĩa là phải dẫm đạp và sát hại người khác, Zalidus trở thành một cái tên máu mặt. \nBan đầu hắn chỉ giết để sinh tồn, nhưng dần dần, hắn giết để hoàn thành công việc, một công việc bẩn thỉu và ghê tởm của một kẻ chuyên đâm thuê chém mướn.\nNếu bạn lang thang gần Hắc địa và đột nhiên thấy một dấu X sáng loáng trong màn đêm, thật không may đấy là Zalidus đến tiễn bạn đến Cõi chết
+overview_hero_60006<>Xa xưa trước đây có một nàng tư tế xinh đẹp ở Thư viện Quang Phổ tên là Hehta, người sở hữu trí tuệ vượt xa bình thường tựa như sắc đẹp của cô.\nKhát khao tri thức của Hehta dẫn đường cho cô đến những miền đất xa xôi, đi nữa, đi mãi, đến tận cùng miền đất của Ma thuật đen. Từ đó cô học được những bùa chú cổ xưa, những phép thuật đã bị quên lãng. Nhưng tri thức của cô được mở rộng bao nhiêu, thì các học giả xung quanh cũng đồng thời lo ngại bấy nhiêu. \nCho đến một ngày, Hehta bị  Hội đồng Ma thuật đưa ra tòa vì cáo buộc nghiên cứu cấm thuật. Lạ lùng thay, Hehta không hề biện minh hay giải thích gì cho những việc mình làm, cô chỉ đơn giản chấp nhận mọi lời buộc tội. Bởi đối với Hehta mà nói, vùng đất này không còn giá trị gì để thỏa mãn cơn khát tri thức trong người cô nữa.\nĐến ngày Hehta phải nhận hình phạt xử tử, người ta không thể tìm thấy cô ở đâu, tựa như cô cứ thế biến mất vào trong hư vô vậy. Không lâu sau đó, người ta đồn rằng có một bóng hồng lạ mặt với đôi tai dài của tộc Elf đang lang thang gần Cung điện Bóng đêm...
+event_hero_release_14<>Song đao bóng tối
+event_hero_release_summon_14<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_14<>Thử thách của tử thần
+hero_release_collection_tittle_14<>Tà ác tích tụ
+hero_release_collection_desc_14<>Thu thập Zalidus để nhận thêm phần thưởng. 
+event_hero_release_bundle_tittle_14<>Gói bán hỗ trợ
+event_hero_release_15<>Kiếm sĩ quyến rũ
+event_hero_release_summon_15<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_15<>Kiên trì luyện tập
+hero_release_collection_tittle_15<>Phần quà động viên
+hero_release_collection_desc_15<>Thu thập Hehta để nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_15<>Gói bán hỗ trợ
+version_recent<>Phiên bản hiện tại
+version_next<>Phiên bản tiếp theo
+maintenance<>Thông báo bảo trì
+event_skin_challenge_detail<>Hãy thu thập tài nguyên sự kiện để đổi lấy trang phục nhé!
+already_exchange<>Đã đổi
+go_event<>Xem chi tiết
+customer_service_content<>Nếu bạn gặp bất kỳ vấn đề gì trong khi chơi game, đừng ngần ngại liên hệ với dịch vụ chăm sóc khách hàng của chúng tôi. Đội ngũ nhân viên chu đáo của chúng tôi luôn luôn sẵn sàng hỗ trợ bạn.
+included_free<>Bao gồm cả phần thưởng miễn phí
+understand<>Đã hiểu
+event_airyuu<>Tinh hoa của tạo hoá
+title_event_airyuu<>TINH HOA CỦA TẠO HOÁ
+airyuu_check_in<>Cung nghênh công chúa
+airyuu_checkin_title<>CUNG NGHÊNH CÔNG CHÚA
+time_next_day<>Ngày tiếp theo sau
+airyuu_treasure<>Rương báu của rồng
+airyuu_treasure_infor<>Sử dụng Ngọc Đại Dương mở rương và nhận phần thưởng.
+airyuu_quest<>Thám hiểm Long giới
+airyuu_quest_title<>THÁM HIỂM LONG GIỚI
+wait_check_in<>Hãy quay lại vào ngày mai nhé!
+airyuu_bundle<>Hiệu triệu Ái Long
+airyuu_bundle_infor<>Airyuu sẽ rất vui khi bạn mua những gói bán này đó!
+airyuu_trial<>Nhật ký rừng thiêng
+airyuu_trial_infor<>Thách đấu với các tuỳ tùng của Airyuu để nhận phần thưởng hấp dẫn.
+airyuu_collection<>Ái Long chúc phúc
+airyuu_evolution_title<>ÁI LONG CHÚC PHÚC
+check_in<>Bạn đã điểm danh ngày này
+recheckin<>Điểm danh bù
+confirm_use_all<>Bạn có chắc muốn sử dụng những vật phẩm sau
+open_x1<>Mở 1
+open_all<>Mở tất cả
+airyuu_evolution_quest_title<>ÁI LONG CHÚC PHÚC
+history<>Lịch sử 
+chance<>Số lần đánh 
+select_difficult<>Chọn độ khó 
+difficult<>Độ khó 
+patch<>Phiên bản 
+event_new_hero_rateup_summon_2<>Triệu hồi Truyền thuyết
+created_time<>Thời gian khiêu chiến
+enable_animation<>Bật hoạt ảnh
+transform<>Đổi hình dạng
+confirm_use_resource<>Bạn có chắc chắn sử dụng những tài nguyên này
+event_new_year_bundle<>Gói Bán Năm Mới
+new_year_purchase_1<>Gói Thiệp Nhỏ
+new_year_purchase_2<>Gói Thiệp Trung Bình
+new_year_purchase_3<>Gói Thiệp Lớn
+event_lunar_2022_spring_bundle_<>An khang thịnh vượng
+show_more_information<>Chi tiết cộng hưởng hệ
+event_community<>Sự kiện cộng đồng
+event_tower_of_eitri<>Tháp của Eitri
+tower_of_eitri_tower<>Tháp Rồng
+tower_of_eitri_tower_infor<>Tháp Rồng
+tower_of_eitri_exchange<>Khu vực đổi quà
+tower_of_eitri_exchange_infor<>Khu vực đổi quà
+tower_of_eitri_bundle<>Gói xây tháp
+tower_of_eitri_bundle_infor<>Gói xây tháp
+tower_of_eitri_quest<>Nhiệm vụ Eitri
+tower_of_eitri_quest_title<>Nhiệm vụ Eitri
+tower_of_eitri_quest_infor<>Nhiệm vụ Eitri
+current_floor<>Tầng hiện tại
+build<>Xây
+skip_animation<>Bỏ qua hoạt ảnh
+normal_floor_reward<>Phần thưởng tầng thường
+golden_floor_reward_bonus<>Phần thưởng tầng vàng
+confirm_use<>Bạn có chắc chắn sử dụng
+hammer_in_pool<>Nhận Búa của Eitri khi trao đổi phần thưởng. Tầng càng cao, phần thưởng nhận được càng nhiều. Số Búa của Eitri đang có:
+reach_limited_exchange<>Lượt đổi đã đạt giới hạn!
+reward_milestone<>Tổng số tầng
+claim_and_close<>Nhận phần thưởng
+event_hero_release_16<>Hỏa Ngục Vĩnh Hằng
+event_hero_release_summon_16<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_16<>Thử thách của Lửa
+hero_release_collection_tittle_16<>Ngọn lửa Arien
+hero_release_collection_desc_16<>Thu thập Arien để nhận thêm phần thưởng. 
+event_hero_release_bundle_tittle_16<>Gói bán hỗ trợ
+overview_hero_20002<>Arien là một nữ anh hùng lửa, được biết đến như một trong những chiến binh thiện nghệ nhất ở vương quốc phía nam, kẻ thù của cô ấy sợ hãi và các đồng minh của cô ấy tôn trọng. Nhưng mặc dù nổi tiếng hung dữ, Arien không phải là không có lòng trắc ẩn. Cô ấy thường đi đến những ngôi làng gần đó, giúp đỡ mọi người với phép thuật lửa của cô ấy.\n\nMột ngày nọ, khi đang làm nhiệm vụ bảo vệ một ngôi làng khỏi cơn bão cát dữ dội, Arien đã gặp Icarus, chiến binh phượng hoàng lửa. Họ sát cánh chiến đấu, ngọn lửa của họ hòa quyện vào nhau trong một màn phô diễn sức mạnh rực rỡ. Họ nhanh chóng nhận ra rằng họ đã chia sẻ một mối quan hệ đặc biệt, một tình yêu cháy sáng như ngọn lửa mà họ kiểm soát.\n\nKể từ ngày đó, Arien và Icarus không thể tách rời, cùng nhau du hành khắp vương quốc và chiến đấu vì những điều tốt đẹp hơn. Nhân vật của Arien được hình thành bởi tình yêu của cô ấy dành cho người dân của mình, khả năng thông thạo phép thuật lửa và mối quan hệ không thể phá vỡ của cô ấy với Icarus, chiến binh phượng hoàng lửa.
+event_hero_release_17<>Thần Hộ Mệnh Biển Cả
+event_hero_release_summon_17<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_17<>Thử Thách Thủy Triều
+hero_release_collection_tittle_17<>Báu vật của Osse
+hero_release_collection_desc_17<>Thu thập Osse để nhận thêm phần thưởng. 
+event_hero_release_bundle_tittle_17<>Gói bán hỗ trợ
+overview_hero_10007<>Osse là vị thần bảo vệ huyền thoại của biển cả, được tôn kính bởi tất cả những người sống dưới những con sóng. Anh ta là một người đàn ông với phần thân dưới của một con rắn. Sinh ra từ đáy đại dương, Osse được giao nhiệm vụ bảo vệ biển khỏi những kẻ muốn khai thác tài nguyên hoặc làm hại cư dân của nó. Anh ta là một chiến binh dũng mãnh và mạnh mẽ, có khả năng triệu tập các lực lượng của biển cả để hỗ trợ anh ta trong trận chiến.\n\nTrong số các chủng tộc khác, Osse được nhớ đến với danh tiếng đáng sợ của chính mình. Nhưng bất kỳ sinh vật nào gọi đại dương là nhà đều biết rằng Osse có một tình yêu và sự tôn trọng sâu sắc dành cho chúng, người bảo vệ đại dương sẽ không từ thủ đoạn nào để bảo vệ nó khỏi bị tổn hại. Vì vậy, Osse có nguyên tắc riêng của mình là không để bất cứ ai hay bất cứ thứ gì đe dọa đến sự bình yên của vương quốc đại dương, đặc biệt là cướp biển.
+event_hero_release_18<>Trái Tim của Đại Dương
+event_hero_release_summon_18<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_18<>Hành trình phục thù
+hero_release_collection_tittle_18<>Cơn Thịnh Nộ Biển Cả
+hero_release_collection_desc_18<>Thu thập Mist để nhận thêm phần thưởng. 
+event_hero_release_bundle_tittle_18<>Gói bán hỗ trợ
+overview_hero_10005<>Truyền thuyết kể rằng sâu trong lòng đại dương có một viên đá quý được gọi là “trái tim của đại dương”, chứa đựng một sức mạnh to lớn. Huyền thoại đã lan truyền rất xa, đến mức ngày càng có nhiều tên cướp biển mạo hiểm thực hiện các cuộc thám hiểm vô nghĩa để tìm kiếm kho báu này.\n\nMist sinh ra trong một gia đình hải tặc, lớn lên trên biển khơi từ ngày biết đi. Cha mẹ và anh chị em của cô ấy là một khối gắn kết và ước mơ của họ là sở hữu “Trái tim của đại dương” cho riêng mình. Nhưng việc theo đuổi một huyền thoại bí ẩn cũng có cái giá của nó, bi kịch ập đến khi Mist vẫn còn nhỏ. Gia đình cô bị một con quái vật nửa người nửa rắn tấn công khi truy tìm kho báu, không may Mist là người sống sót duy nhất. Không còn gì ngoài linh hồn đau khổ, Mist lên đường trả thù, quyết tìm ra trái tim của đại dương và sử dụng sức mạnh của nó để chống lại con quái vật đã giết chết hạnh phúc của cô.
+event_boost_first_purchase<>Gói nâng cấp
+boost_first_purchase_title_1<>Gói nâng cấp 1
+boost_first_purchase_title_2<>Gói nâng cấp 2
+boost_first_purchase_title_3<>Gói nâng cấp 3
+boost_first_purchase_title_4<>Gói nâng cấp 4
+boost_first_purchase_title_5<>Gói nâng cấp 5
+boost_first_purchase_title_6<>Gói nâng cấp 6
+boost_first_purchase_title_7<>Gói nâng cấp 7
+boost_first_purchase_title_8<>Gói nâng cấp 8
+boost_first_purchase_title_9<>Gói nâng cấp 9
+boost_first_purchase_title_10<>Gói nâng cấp 10
+boost_first_purchase_title_detail_1<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_2<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_3<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_4<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_5<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_6<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_7<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_8<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_9<>Nâng cấp đội hình ngay
+boost_first_purchase_title_detail_10<>Nâng cấp đội hình ngay
+event_seasonal<>Lễ hội mùa hè
+seasonal_check_in<>Vui chơi ngày hè
+seasonal_bundle<>Bộ đồ mùa hè
+seasonal_daily_checkin<>Vui chơi ngày hè
+seasonal_firework_shop<>Bộ đồ mùa hè
+pass_stage_x_get_reward<>pass stage %s get reward
+empty_event<>sự kiện mới sắp ra mắt
+more_detail<>Chi tiết
+event_server_open_checkin<>Điểm danh tân thủ
+seasonal_firework_exchange<>Khu vực đổi quà
+event_kazetsu<>event kazetsu
+event_hero_boss_1<>event hero boss 3
+seasonal_exchange<>Khu vực đổi quà
+seasonal_firework_creator<>Quán rượu mùa hè
+seasonal_super_gift<>Câu đố mùa hè
+seasonal_royal_challenge<>Thử thách đại dương
+not_day_checkin<>Chờ đến ngày để nhận bạn nhé
+seasonal_summer_game_main_quest<>Hoàn thành tất cả các màn bóng nước để nhận trang phục cao cấp 
+complete_%s_more_to_reward<>Hoàn thành tất cả các màn bóng nước để nhận
+select_ball_to_exchange<>Mời chọn bóng nước
+select_ball_exchange_to<>Mời chọn bóng nước
+reselect_exchange_item<>Chọn bóng nước trước khi đổi
+you_have_no_this_resource<>Không đủ tài nguyên
+cant_not_exchange_same_item<>Không được chọn trùng loại bóng
+throw_single<>Ném 1
+throw_all<>Ném tất cả
+throw_%s_time_execute_target<>Ném %s lần để hạ gục đối phương và nhận phần thưởng
+exchange_ball<>Đổi bóng
+seasonal_throw_ball<>Câu đố mùa hè
+can_not_reselect_hero<>Bạn sẽ không thể chọn lại anh hùng khi đã tham gia.\nBạn chắc chắn chọn anh hùng này chứ?
+make<>Pha chế
+make_single_mojito<>Pha chế
+quick_make<>Pha chế nhanh
+seasonal_summer_game_title_detail<>Mở hộp quà tặng mùa hè để nhận được bóng nước và tham gia trò chơi
+tap_for_more_information<>Chạm vào ảnh để biết thêm chi tiết
+event_hero_release_summon_19<>Cung nghênh công chúa
+event_hero_release_19<>Thám hiểm Long giới
+overview_hero_40027<>Khi Long tộc bị con người truy sát, công chúa của Long tộc, Airyuu khi đó còn rất nhỏ. Airyuu được Finde và những cận thần của anh ta hộ tống tới nơi an toàn, nơi đó chỉ có mình Airyuu. Qua hàng trăm năm, tiểu công chúa Airyuu ngày nào đã trở thành một thiếu nữ xinh đẹp. Cô du hành giữa thế giới loài người, học hỏi những kiến thức và cũng để tìm kiếm về cội nguồn của bản thân. Với sự lương thiện, ngây thơ tới thuần khiết, Airyuu luôn được mọi người yêu mến. Cô xem mình cũng như những người khác, biết vui biết buồn. Liệu rằng khi Airyuu biết được bi kịch của tổ tiên năm nào, cô ấy sẽ phản ứng ra sao đây?
+hero_release_daily_quest_tittle_19<>Nhật ký rừng thiêng
+hero_release_collection_tittle_19<>Chúc phúc của Rồng
+hero_release_collection_desc_19<>Thu thập Airyuu và nhận thêm phần thưởng.
+event_hero_release_bundle_tittle_19<>Hiệu triệu ái long
+first_purchase_hero_desc_20001<>Phượng hoàng tái thế
+first_purchase_hero_desc_40027<>Công chúa Long tộc
+buy_point<>Thêm Điểm
+birthday_buy_level<>Điểm pass di sản
+birthday_level_bundle_1<>Xem quảng cáo
+birthday_level_bundle_2<>Thêm Điểm
+birthday_level_bundle_3<>Thêm Điểm
+go_to_event<>Tham gia
+flash_sale_evolve_title<>Gói bán anh hùng
+popup_not_appear_anymore<>Bạn chắc chắn muốn đóng chứ? Gói bán sẽ không thể hiển thị lại sau khi bạn đóng.
+auto_next_battle_in<>Tầng tiếp theo tự động chuyển sau
+event_hero_release_20<>Bậc Thầy Phù Thủy
+event_hero_release_summon_20<>Triệu hồi Truyền thuyết
+hero_release_daily_quest_tittle_20<>Rèn luyện phép thuật
+hero_release_collection_tittle_20<>Tập hợp phép thuật
+hero_release_collection_desc_20<>Thu thập Ignatius để nhận phần thưởng
+event_hero_release_bundle_tittle_20<>Ánh sáng dẫn lối
+overview_hero_50011<>Trong vương quốc của một thế giới thần bí và cổ xưa, nơi diễn ra trận chiến vĩnh cửu giữa Ánh sáng và Bóng tối, một sinh vật độc nhất vô nhị, giống như một vị thần bay vút qua các tầng trời, được gọi là Ignatius. Vẻ ngoài của anh ấy là của một con chim hùng vĩ với bộ lông rực rỡ, lấp lánh, tỏa sáng dưới ánh mặt trời. Sau khi được Đại thiên sứ Celestia thuyết phục, Ignatius đã hợp nhất một nhóm đồng minh mạnh mẽ từ phe Ánh sáng để trở thành những kẻ thù khốc liệt chống lại quân đội của Scathach. Sau đó, anh trở thành ngọn hải đăng của hy vọng, người bảo vệ phe Ánh sáng trong cuộc chiến chống lại các thế lực xấu xa của phe Bóng tối.
+not_have_hero_meet_requirement<>Không có anh hùng đạt đủ điều kiện
+auto_rematch_in<>Trận đấu được bắt đầu lại sau
+tower_progress<>Tiến trình xây tháp
+event_boss_challenge<>Thử thách đánh Boss
+event_boss_challenge_challenge_tower<>Tháp thử thách
+event_boss_challenge_boss_quest<>Nhiệm vụ hàng ngày
+event_boss_challenge_shop<>Gói bán hỗ trợ
+event_boss_challenge_quest_title<>Thử thách của Kozorg
+event_boss_challenge_desc<>Hoàn thành các nhiệm vụ hàng ngày để nhận xu thử thách
+boss_challenge_shop_title_1<>Gói bán hàng ngày
+boss_challenge_shop_title_2<>Gói bán sự kiện
+event_mid_autumn_quest_name<>Nhiệm vụ hàng ngày
+event_mid_autumn_quest_title<>Nhiệm vụ hàng ngày
+event_mid_autumn_quest_content<>Hoàn thành các nhiệm vụ hàng ngày để nhận Bánh trung thu
+event_festival_market_name<>Hội chợ trăng rằm
+event_mid_autumn_market_title<>Hội chợ trăng rằm
+event_mid_autumn_market_des<>Ghé các gian hàng trong hội chợ để mua những vật phẩm sự kiện bạn nhé!
+event_mid_autumn_special_offer_title<>Ưu đãi Trung Thu
+event_mid_autumn_text_quest_bet<>Đặt cược {1} Đèn lồng trong Trận chiến đêm rằm
+event_mid_autumn_arena_title<>Trận chiến đêm rằm
+event_mid_autumn_arena_name<>Trận chiến đêm rằm
+event_mid_autumn_arena_content<>Đặt cược Hoa đăng để có cơ hội nhận được Đèn lồng thắp sáng.\n30 phút trước khi trò chơi chuyển sang ngày mới, bạn sẽ không thể đặt cược. 
+event_mid_autumn_arena_item_text_attacker_team<>Bên công
+event_mid_autumn_arena_item_text_defender_team<>Bên thủ
+event_mid_autumn_arena_item_text_total_bet<>Tổng số lượng đặt cược
+event_mid_autumn_arena_item_text_battle_end<>Trận đấu đã kết thúc
+event_mid_autumn_arena_item_text_battle_time<>Kết thúc sau: %s
+event_mid_autumn_arena_item_text_day<>Ngày
+event_mid_autumn_arena_item_text_bet<>Đặt cược
+area_bet_title<>Đặt cược
+area_bet<>Đặt cược
+event_mid_autumn_arena_item_text_coming_soon<>Sắp diễn ra
+bet_time_out<>Đã hết thời gian đặt cược
+popup_exchange_tower_of_eitri_title_text<>Xác nhận
+popup_exchange_tower_of_eitri_ask_text<>Bạn có chắc chắn sử dụng những vật phẩm này để trao đổi?
+event_halloween_quest_title<>Nhiệm vụ nửa đêm
+event_halloween_quest_desc<>Hoàn thành nhiệm vụ hàng ngày để thu thập vật phẩm sự kiện.
+event_halloween_shop_title<>Cửa hàng bí ngô
+event_halloween_shop_des<>Mua gói bán trong sự kiện để nhận Xúc xắc và Bí ngô
+halloween_quest<>Nhiệm Vụ Nửa Đêm
+halloween_shop<>Cửa Hàng Bí Ngô
+want_to_roll_dice<>Bạn có chắc chắn quay hết số xúc xắc đang có không?
+roll_all<>Quay nhanh
+event_halloween_quest_tavern_all_star<>Hoàn thành {1} nhiệm vụ số sao bất kỳ trong Hội quán
+piece_adventure_floor<>Tầng Hiện Tại
+event_piece_adventure_quest_title<>Nhiệm Vụ Sự Kiện
+event_piece_adventure_desc<>Hoàn thành nhiệm vụ để nhận chìa khóa sự kiện
+piece_adventure_card<>Sự kiện thám hiểm
+event_piece_adventure_exchange_name<>Khu Vực Đổi Thưởng
+event_piece_adventure_exchange_desc<>Sử dụng Mảnh kho báu để đổi quà trong sự kiện
+event_piece_adventure_shop_name<>Cửa Hàng Sự Kiện
+event_piece_adventure_shop_desc<>Mua gói bán trong sự kiện để nhận Chìa khóa và Mảnh kho báu
+cannot_unlock_floor<>Bạn cần tìm được ít nhất 1 vật phẩm để lên tầng tiếp theo
+want_to_unlock_floor<>Bạn có chắc chắn lên tầng tiếp theo và bỏ qua những phần thưởng còn lại không?
+piece_adventure_quest<>Nhiệm Vụ Sự Kiện
+piece_adventure_exchange<>Khu Vực Đổi Thưởng
+piece_adventure_store<>Cửa Hàng Sự Kiện
+floor_reward_list<>Danh Sách Tầng
+event_piece_adventure<>Truy Tìm Kho Báu
+piece_adventure_shop_title_1<>Khuyến mãi hằng ngày
+piece_adventure_shop_title_2<>Cửa Hàng Sự Kiện
+next_floor<>Tầng Tiếp Theo
+want_to_open_all<>Hệ thống sẽ tự động mở rương cho đến khi mở đến vật phẩm thưởng hoặc hết chìa khóa. Bạn có chắc chắn muốn thực hiện?
+open_all_card<>Mở Tự Động
+claimed_all_card<>Bạn đã mở toàn bộ rương có trong tầng hiện tại
+not_click_start<>Bạn phải bấm vào nút Bắt đầu trước khi mở rương
+open_card_tut_text<>Bấm vào rương để mở và tìm kiếm vật phẩm
+max_floor<>Bạn đã đến tầng cuối cùng của sự kiện. Cảm ơn và hẹn gặp lại ở sự kiện tiếp theo
+title_black_friday_sale_select_item<>SIÊU KHUYẾN MÃI BLACK FRIDAY!!!
+select_5_reward<>Chọn 5 vật phẩm mà bạn muốn mua
+your_choice_text<>Vật phẩm đã chọn
+get_bonus<>Xác Nhận
+need_select_5_reward<>Bạn phải chọn đủ 5 vật phẩm
+want_to_get_bonus<>Xác nhận vật phẩm đã chọn
+have_max_items<>Bạn đã chọn đủ 5 vật phẩm
+black_friday_sale_1<>Gói cơ bản
+black_friday_sale_2<>Gói khuyến mãi
+black_friday_sale_3<>Gói siêu khuyến mãi
+event_black_friday_new_version<>Khuyến mãi Black Friday
+title_black_friday_sale_super_deal<>SIÊU KHUYẾN MÃI BLACK FRIDAY!!!
+drop_time_thanks_giving<>13 ngày từ lúc bắt đầu sự kiện
+thanks_giving_shop<>Cửa Hàng Sự Kiện
+thanks_giving_dice_title<>Trò Chơi Thu Hoạch
+event_golden_time_thanks_giving_name<>Sự Kiện Thu Hoạch
+thanks_giving_quest<>Nhiệm Vụ Sự Kiện
+event_thanks_giving_exchange_name<>Trao Đổi Nông Sản
+event_thanks_giving_specialoffer<>Khuyến Mãi Sự Kiện
+golden_time_thanks_giving_drop_info<>∙ 10 Bí Ngô: {0} (s)
+event_golden_time_thanks_giving<>Sự Kiện Thu Hoạch
+event_golden_time_thanks_giving_desc<>Thu thập Xúc xắc và Bí Ngô để đổi lấy các phần quà hấp dẫn. Vật phẩm Lễ Tạ Ơn sẽ biến mất sau khi sự kiện kết thúc. 12 tiếng trước khi sự kiện kết thúc, Bí Ngô sẽ ngừng rơi vào rương treo máy trong chiến dịch.
+thanks_giving_dice_guide<>Thu thập & Đổ Xúc xắc - Nhận phần thưởng hấp dẫn!\nHoàn thành các nhiệm vụ hàng ngày để thu thập thêm Xúc xắc
+event_thanks_giving_quest_desc<>Hoàn thành nhiệm vụ sự kiện để nhận thêm xúc xắc
+event_thanks_giving_exchange_desc<>Thu thập Bí ngô để đổi các quà tặng hấp dẫn
+event_thanks_giving_shop_des<>Mua thêm Xúc Xắc và Bí Ngô tại Cửa Hàng Sự Kiện
+thanks_giving_purchase_1<>Gói Ăn Nhẹ
+thanks_giving_purchase_2<>Gói Điểm Tâm
+thanks_giving_purchase_3<>Gói Yến Tiệc
+event_thanks_giving<>Lễ Tạ Ơn
+event_thanks_giving_shop_title<>Cửa Hàng Sự Kiện
+event_thanks_giving_quest_title<>Nhiệm Vụ Sự Kiện
+source_money_type_102<>- Trò chơi thu hoạch\n- Khuyến mãi sự kiện\n- Cửa hàng sự kiện
+lock_level<>Chưa mở
+raid_key_75<>Mua thêm Chìa khóa Vàng
+raid_key_76<>Mua thêm Chìa khóa Thủy tinh
+raid_key_77<>Mua thêm Chìa khóa Mảnh anh hùng
+limited<>Giới hạn
+back_current<>Về tầng hiện tại
+max_ads_turn_daily<>Bạn đã sử dụng hết quảng cáo ngày hôm nay
+recycle<>Tái Chế
+acquired_items<>Vật phẩm thu được
+auto_select<>Chọn tự động
+nothing_to_recycle<>Bạn phải chọn ít nhất 1 anh hùng để tái chế
+have_max_items_recycle<>Danh sách tái chế đã đầy
+all_hero_recycle_selected<>Toàn bộ anh hùng đã được chọn
+recycle_four_star_hero<>Bạn có chắc chắn muốn tái chế anh hùng SS 5 sao không?
+select_orb_title<>Chọn Nguyên Liệu
+can_not_select<>Danh sách nguyên liệu đã đầy
+not_have_enought_food<>Bạn không còn nguyên liệu để chọn
+max_total_exp<>Bạn đã chọn đủ nguyên liệu
+event_christmas_feed_name<>Chúc Phúc Giáng Sinh
+event_christmas_feed_desc<>Sử dụng Kẹo Que để chúc phúc Ignatius và nhận thưởng
+blessing<>Chúc Phúc
+blessing_all<>Chúc Phúc Hết
+event_christmas_arena_title<>Đấu Trường Giáng Sinh
+event_christmas_arena_content<>Sử dụng Nến Giáng Sinh để đặt cược và nhận về thật nhiều Nến Tỏa Sáng
+event_christmas_quest_title<>Nhiệm Vụ Giáng Sinh
+event_christmas_quest_content<>Hoàn thành nhiệm vụ và nhận về Kẹo Que
+event_christmas_blessing_quest<>Chúc phúc {1} Kẹo Que
+event_christmas_text_quest_bet<>Cược {1} Nến Giáng Sinh trong Đấu Trường Giáng Sinh
+event_christmas_exchange_name<>Đổi Thưởng Giáng Sinh
+event_christmas_exchange_desc<>Sử dụng Nến Tỏa Sáng để đổi lấy vật phẩm
+event_christmas_market_title<>Cửa Hàng Giáng Sinh
+event_christmas_market_des<>Mua thêm Kẹo Que và Nến Tỏa Sáng
+event_christmas_specialoffer<>Khuyến Mãi Giáng Sinh
+event_christmas<>Giáng Sinh
+christmas_offer_1<>Khuyến Mãi Kẹo Nhỏ
+christmas_offer_2<>Khuyến Mãi An Lành
+christmas_offer_3<>Món quà của Santa
+event_boss_challenge_leader_board_title<>Bảng xếp hạng
+event_new_year_2023<>Sự Kiện Năm Mới
+drop_time_new_year_2023<>13 ngày từ lúc bắt đầu sự kiện
+new_year_shop<>Cửa hàng năm mới
+event_golden_time_new_year_2023_name<>Khoảnh Khắc Năm Mới
+event_new_year_2023_wish_name<>Điều Ước May Mắn
+new_year_2023_quest<>Nhiệm Vụ Năm Mới
+event_new_year_2023_exchange_name<>Đổi Thưởng Đầu Năm
+event_new_year_2023_specialoffer<>Khuyến Mãi Năm Mới
+new_year_2023_shop<>Cửa Hàng Năm Mới
+source_money_type_229<>- Điều ước may mắn\n- Khuyến mãi năm mới\n- Cửa hàng năm mưới
+event_new_year_2023_quest_desc<>Hoàn thành nhiệm vụ và nhận Vé Năm Mới
+event_golden_time_new_year_2023_desc<>Thu thập Thiệp Năm Mới trong Rương Chiến Dịch. Vật phẩm trong sự kiện Năm Mới sẽ biến mất khi kết thúc sự kiện.
+golden_time_new_year_2023_drop_info<>Thu thập Thiệp Năm Mới để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Thiệp Năm mới sau 1 giờ.12 giờ trước khi kết thúc, Thiệp Năm Mới sẽ không xuất hiện trong Rương Chiến Dịch.
+text_chance_reset<>Số lượt trước khi tạo mới
+event_new_year_2023_exchange_desc<>Sử dụng Thiệp Năm Mới để đổi lấy vật phẩm
+new_year_2023_purchase_1<>Gói Thắp Sáng
+new_year_2023_purchase_2<>Gói Rực Rỡ
+new_year_2023_purchase_3<>Gói Bùng Nổ
+event_new_year_2023_shop_des<>Mua Thiệp Năm Mới và Vé Năm Mới để sử dụng trong sự kiện
+want_to_wish_all<>Bạn có muốn sử dụng toàn bộ vé để quay không?
+event_golden_time_lunar_new_year_2024<>Hoàn thành nhiệm vụ và nhận Ngọc Ấn
+event_golden_time_lunar_new_year_2024_desc<>Xu Phát Tài trong Rương Chiến Dịch. Vật phẩm trong sự kiện Năm Mới sẽ biến mất khi kết thúc sự kiện.
+drop_time_lunar_new_year_2024<>13 ngày từ lúc bắt đầu sự kiện
+golden_time_lunar_new_year_2024_drop_info<>Thu thập Xu Phát Tài để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Xu Phát Tài mới sau 1 giờ.12 giờ trước khi kết thúc, Xu Phát Tài sẽ không xuất hiện trong Rương Chiến Dịch.
+source_money_type_78<>- Trò Chơi Năm Mới\n- Khuyến mãi năm mới\n- Cửa hàng năm mới
+event_lunar_new_year_2024<>Sự Kiện Năm Mới
+bingo_count<>Số lần Bingo
+extra_bingo_reward_text<>Phần Thưởng Bingo
+bingo<>Bingo
+bingo_reward_list<>Phần thưởng tích lũy
+bingo_title<>BINGO MAY MẮN
+event_lunar_new_year_2024_bingo_name<>Trò Chơi Năm Mới
+lunar_new_year_2024_quest<>Thử Thách Đầu Năm
+event_lunar_new_year_2024_exchange_name<>Đổi Thưởng Đầu Năm
+event_lunar_new_year_2024_specialoffer<>Khuyến Mãi Năm Mới
+lunar_new_year_2024_shop<>Cửa Hàng Năm Mới
+event_lunar_new_year_2024_quest_desc<>Hoàn thành nhiệm vụ và nhận Ngọc Ấn
+event_lunar_new_year_2024_exchange_desc<>Sử dụng Thiệp Năm Mới để đổi lấy vật phẩm
+lunar_new_year_2024_purchase_1<>Gói Thịnh Vượng
+lunar_new_year_2024_purchase_2<>Gói Phát Tài Phát Lộc
+lunar_new_year_2024_purchase_3<>Gói Long Phụng Sum Vầy
+event_lunar_new_year_2024_shop_des<>Mua Ngọc Ấn và Xu Phát Tài để sử dụng trong sự kiện
+event_golden_time_lunar_new_year_2024_name<>Khoảnh Khắc Năm Mới
+bingo_tut_lunar_new_year_2024<>Bấm vào rương để mở
+event_valentine_2024<>Lễ Tình Nhân
+drop_time_valentine_2024<>13 ngày từ lúc bắt đầu sự kiện
+source_money_type_250<>- Món quà ngọt ngào\n- Khuyến mãi tình nhân\n- Cửa hàng tình ái
+event_golden_time_valentine_2024_name<>Khoảnh khắc tình yêu
+event_valentine_2024_wish_name<>Món quà ngọt ngào
+valentine_2024_quest<>Thử thách tình yêu
+event_valentine_2024_exchange_name<>Đổi thưởng sự kiện
+event_valentine_2024_specialoffer<>Khuyến mãi tình nhân
+valentine_2024_shop<>Cửa hàng tình ái
+event_lottery_valentine_title<>Món quà ngọt ngào
+event_valentine_2024_quest_desc<>Hoàn thành nhiệm vụ để nhận Ái Tiễn
+event_valentine_2024_exchange_desc<>Thu thập Sô-Cô-La để đổi lấy vật phẩm
+event_valentine_2024_shop_des<>Mua Ái Tiễn và Sô Cô La để sử dụng trong sự kiện
+valentine_2024_purchase_1<>Gói Mối Tình Đầu
+valentine_2024_purchase_2<>Gói Tình Yêu Nồng Cháy
+valentine_2024_purchase_3<>Gói Tình yêu Đích Thực
+event_golden_time_valentine_2024_desc<>Sô-Cô-La trong Rương Chiến Dịch. Vật phẩm trong sự kiện Lễ Tình Nhân sẽ biến mất khi kết thúc sự kiện.
+golden_time_valentine_2024_drop_info<>Thu thập Sô-Cô-La để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Sô-Cô-La mới sau 1 giờ.12 giờ trước khi kết thúc, Sô-Cô-La sẽ không xuất hiện trong Rương Chiến Dịch.
+subscription_packs_5<>THẺ THỐNG LĨNH
+subscription_packs_6<>THẺ TIÊN TRI
+sweep<>Càn quét
+item_reward<>Thường
+item_reward_premium<>Đặc biệt
+event_boss_challenge_premium_pass<>Vé Thách Đấu
+premium_pass_title_text<>Vé Thách Đấu
+buy_now_text<>Mua ngay
+premium_pass_total_reward_text<>Tổng phần thưởng
+benefit_text<>Lợi ích:\n- Mở khóa tính năng Đánh nhanh và có thể sử dụng toàn bộ vé cùng lúc\n- Mở khóa phần thưởng đặc biệt trong Tháp Thử Thách\n- Mở khóa phần thưởng cực lớn ở tầng cuối cùng
+need_buy_boss_premium_pass<>Bạn cần mua Vé Thách Đấu trước khi sử dụng tính năng này
+quick_battle_title<>Chọn số vé muốn sử dụng
+event_easter_day<>Lễ Phục Sinh
+easter_day_shop<>Cửa Hàng Phục Sinh
+drop_time_easter_day<>13 ngày từ lúc bắt đầu sự kiện
+easter_day_dice_title<>Nhặt Trứng Phục Sinh
+source_money_type_218<>- Nhặt Trứng Phục Sinh\n- Khuyến Mãi Phục Sinh\n- Cửa Hàng Phục Sinh
+event_golden_time_easter_day_name<>Săn Trứng Phục Sinh
+easter_day_quest<>Nhiệm Vụ Lễ Phục Sinh
+event_easter_day_exchange_name<>Đổi Trứng Phục Sinh
+event_easter_day_specialoffer<>Khuyến Mãi Phục Sinh
+event_golden_time_easter_day_desc<>Trứng phục sinh trong Rương Chiến Dịch. Vật phẩm trong sự kiện Lễ Phục Sinh sẽ biến mất khi kết thúc sự kiện.
+easter_day_dice_guide<>Thu thập & Đổ Xúc xắc - Nhận phần thưởng hấp dẫn!\nHoàn thành các nhiệm vụ hàng ngày để thu thập thêm Xúc xắc
+event_easter_day_quest_desc<>Hoàn thành nhiệm vụ và nhận Xúc Xắc
+event_easter_day_exchange_desc<>Sử dụng Trứng Phục Sinh để đổi lấy vật phẩm
+easter_day_purchase_1<>Gói Trứng Bạc
+easter_day_purchase_2<>Gói Trứng Vàng
+easter_day_purchase_3<>Gói Trứng Cầu Vồng
+event_easter_day_shop_des<>Mua Xúc Xắc và Trứng Phục Sinh để sử dụng trong sự kiện
+golden_time_easter_day_drop_info<>Thu thập Trứng Phục Sinh để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Trứng Phục Sinh mới sau 1 giờ.12 giờ trước khi kết thúc, Trứng Phục Sinh sẽ không xuất hiện trong Rương Chiến Dịch.
+event_summer_day<>Mùa Hè Sôi Động
+drop_time_summer_day<>13 ngày từ lúc bắt đầu sự kiện
+source_money_type_82<>- Hành Trình Sôi Động\n- Khuyến Mãi Ngày Hè\n- Cửa Hàng Bờ Biển
+event_golden_time_summer_day_name<>Thư Giãn Trên Biển
+event_golden_time_summer_day_desc<>Thu thập Bóng Hơi từ rương chiến dịch và sự kiện để đổi phần thưởng
+summer_day_dice_title<>Hành Trình Sôi Động
+summer_day_quest<>Bài Tập Hè
+event_summer_day_exchange_name<>Thương Vụ Trên Biển
+event_summer_day_specialoffer<>Khuyến Mãi Ngày Hè
+summer_day_shop<>Cửa Hàng Bờ Biển
+event_summer_day_shop_title<>Cửa Hàng Bờ Biển
+event_summer_day_quest_title<>Bài Tập Hè
+event_summer_day_quest_desc<>Hoàn thành nhiệm vụ và nhận Xúc Xắc
+event_summer_day_exchange_desc<>Sử dụng Bóng Hơi để đổi lấy vật phẩm
+summer_day_purchase_1<>Gói Khởi Hành
+summer_day_purchase_2<>Gói Du Ngoạn
+summer_day_purchase_3<>Gói Tiệc Hè Sôi Động
+golden_time_summer_day_drop_info<>Thu thập Bóng Hơi để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Bóng Hơi mới sau 1 giờ.12 giờ trước khi kết thúc, Bóng Hơi sẽ không xuất hiện trong Rương Chiến Dịch.
+summer_day_dice_guide<>Thu thập & Đổ Xúc xắc - Nhận phần thưởng hấp dẫn!\nHoàn thành các nhiệm vụ hàng ngày để thu thập thêm Xúc xắc
+event_blossom_day<>Hội Hoa Anh Đào
+drop_time_blossom_day<>13 ngày từ lúc bắt đầu sự kiện
+source_money_type_63<>- Ngắm Hoa Anh Đào\n- Khuyến mãi sự kiện\n- Cửa hàng sự kiện
+golden_time_blossom_day_drop_info<>Thu thập Hoa Anh Đào để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Hoa Anh Đào mới sau 1 giờ.12 giờ trước khi kết thúc, Hoa Anh Đào sẽ không xuất hiện trong Rương Chiến Dịch.
+blossom_day_wish_name<>Ngắm Hoa Anh Đào
+blossom_day_quest<>Nhiệm Vụ Sự Kiện
+blossom_day_exchange_name<>Đổi Hoa
+event_blossom_day_specialoffer<>Khuyến Mãi Sự Kiện
+blossom_day_shop<>Cửa Hàng Sự Kiện
+event_golden_time_blossom_day_desc<>Hoa Anh Đào trong Rương Chiến Dịch. Vật phẩm trong sự kiện Hội Hoa Anh Đào sẽ biến mất khi kết thúc sự kiện.
+event_golden_time_blossom_day_name<>Cây Ước Nguyện
+event_blossom_day_quest_desc<>Hoàn thành nhiệm vụ và nhận Quạt Hoa
+event_blossom_day_exchange_name<>Đổi Hoa
+event_blossom_day_exchange_desc<>Sử dụng Hoa Anh Đào để đổi lấy vật phẩm
+event_blossom_day_shop_des<>Mua Quạt Hoa và Hoa Anh Đào để sử dụng trong sự kiện
+event_summer_day_shop_des<>Mua Xúc Xắc và Bóng Hơi để sử dụng trong sự kiện
+blossom_day_purchase_1<>Gói Cánh Hoa Anh Đào
+blossom_day_purchase_2<>Gói Cây Hoa Anh Đào
+blossom_day_purchase_3<>Gói Rừng Hoa Anh Đào
+event_qixi_festival<>Lễ Thất tịch
+drop_time_qixi_festival<>13 ngày từ lúc bắt đầu sự kiện
+source_money_type_87<>- Chúc Phúc Tình Yêu\n- Khuyến Mãi Ngày Lễ\n- Cửa Hàng Ngày Lễ
+golden_time_qixi_festival_drop_info<>Thu thập Khăn Tay để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Khăn Tay mới sau 1 giờ.12 giờ trước khi kết thúc, Khăn Tay sẽ không xuất hiện trong Rương Chiến Dịch.
+event_qixi_festival_wish_name<>Chúc Phúc Tình Yêu
+qixi_festival_quest<>Nhiệm Vụ Sự Kiện
+event_qixi_festival_exchange_name<>Đổi Thưởng Sự Kiện
+event_qixi_festival_specialoffer<>Khuyến Mãi Ngày Lễ
+qixi_festival_shop<>Cửa Hàng Ngày Lễ
+event_golden_time_qixi_festival_desc<>Khăn Tay trong Rương Chiến Dịch. Vật phẩm trong sự kiện Lễ Thất Tịch sẽ biến mất khi kết thúc sự kiện.
+event_golden_time_qixi_festival_name<>Giây Phút Tình Yêu
+event_qixi_festival_quest_desc<>Hoàn thành nhiệm vụ và nhận Sáo Trúc
+event_qixi_festival_exchange_desc<>Sử dụng Khăn Tay để đổi lấy vật phẩm
+event_qixi_festival_shop_des<>Mua Sáo Trúc và Khăn Tay để sử dụng trong sự kiện
+qixi_festival_purchase_1<>Gói Gặp Mặt
+qixi_festival_purchase_2<>Gói Hẹn Hò
+qixi_festival_purchase_3<>Gói Thăng Hoa
+event_golden_time_may_day<>Hoàn thành nhiệm vụ và nhận Gậy Pinata
+event_golden_time_may_day_desc<>Kẹo Pinata trong Rương Chiến Dịch. Vật phẩm trong sự kiện Năm Mới sẽ biến mất khi kết thúc sự kiện.
+drop_time_may_day<>13 ngày từ lúc bắt đầu sự kiện
+golden_time_may_day_drop_info<>Thu thập Kẹo Pinata để đổi phần thưởng. Rương Chiến Dịch sẽ rơi ra 10 Kẹo Pinata mới sau 1 giờ.12 giờ trước khi kết thúc, Kẹo Pinata sẽ không xuất hiện trong Rương Chiến Dịch.
+source_money_type_73<>- Trò Chơi May Mắn\n- Khuyến mãi sự kiện\n- Cửa hàng sự kiện
+event_may_day<>Lễ Hội Mêxico
+event_may_day_bingo_name<>Trò Chơi May Mắn
+may_day_quest<>Nhiệm Vụ Sự Kiện
+event_may_day_exchange_name<>Đổi Thưởng Sự Kiện
+event_may_day_specialoffer<>Khuyến Mãi Sự Kiện
+may_day_shop<>Cửa Hàng Sự Kiện
+event_may_day_quest_desc<>Hoàn thành nhiệm vụ và nhận Gậy Pinata
+event_may_day_exchange_desc<>Sử dụng Thiệp Năm Mới để đổi lấy vật phẩm
+may_day_purchase_1<>Gói Nacho
+may_day_purchase_2<>Gói Tacos
+may_day_purchase_3<>Gói Burrito
+event_may_day_shop_des<>Mua Gậy Pinata và Kẹo Pinata để sử dụng trong sự kiện
+event_golden_time_may_day_name<>Khoảnh Khắc Năm Mới
+bingo_tut_may_day<>Bấm vào rương để mở
+form<>Gửi ý kiến
+confirm_download_asset_bundle<>Xác nhận
+download_asset_bundle_noti<>Nếu bạn không tải xuống các cập nhật mới, bạn sẽ không thể tiếp tục hành trình của mình.\nHãy cập nhật và khám phá thêm nhiều điều thú vị nhé.

@@ -1,0 +1,4 @@
+name,damage,target_position,target_number,heal_percent,heal_duration,heal_target_position,heal_target_number
+Kardoh_Active,0.9,10,2,0.5,1,36,1
+Kardoh_Active,1.1,10,2,0.5,1,36,1
+Kardoh_Active,1.3,10,2,0.5,1,36,1

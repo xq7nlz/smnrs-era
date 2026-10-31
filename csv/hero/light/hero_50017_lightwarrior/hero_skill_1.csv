@@ -1,0 +1,4 @@
+name,damage,damage_target_position,damage_target_number,stat_1,bonus_1,effect_duration
+LightWarrior_Active,1.04,10,2,3,0.2,3
+LightWarrior_Active,1.24,10,2,3,0.25,3
+LightWarrior_Active,1.44,10,2,3,0.3,3

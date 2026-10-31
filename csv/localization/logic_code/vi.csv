@@ -1,0 +1,322 @@
+key<>value
+0<>Hành động này đã được thực hiện mà không phát sinh lỗi
+1<>Đã xảy ra lỗi
+2<>Máy chủ không phản hồi
+4<>Không tìm thấy người chơi
+5<>Dữ liệu đầu vào không hợp lệ
+6<>Không đủ tài nguyên
+10<>Chức năng này không được hỗ trợ
+11<>Bạn đã điều chỉnh thời gian, vui lòng sửa nó.
+12<>Phiên bản này không hợp lệ
+13<>Tên gói không hợp lệ
+14<>Giá trị này không hợp lệ
+15<>Giá trị này không hợp lệ
+16<>Số lượng tập tin CSV không khớp
+17<>Tập tin CSV không khớp
+30<>Xác nhận đã đăng ký
+31<>Tài khoản đã được đăng nhập bởi 1 thiết bị khác
+32<>Tài khoản này bị trùng thông tin đăng nhập
+33<>Đã xảy ra lỗi
+34<>Sai mật khẩu
+35<>Xác nhận người chơi đã bị chặn
+36<>Xác thực ID máy chủ không hợp lệ
+37<>Tài khoản xác thực không có tên người dùng
+38<>Sai mật khẩu
+40<>Giá trị này đã tồn tại
+41<>Mật khẩu xác thực đã được sử dụng
+50<>Định dạng tên người chơi không hợp lệ
+51<>Tên người chơi đã bị cấm
+52<>Tên người dùng đã tồn tại
+53<>Người chơi đã bị chặn
+54<>Người chơi đã được bỏ chặn
+55<>Danh sách chặn người dùng đã đầy
+56<>Id facebook của người chơi đã tồn tại
+57<>Apple ID đã tồn tại
+58<>Tên người dùng không hợp lệ
+65<>Đã có lỗi xảy ra
+70<>Bộ sưu tập Anh hùng đã đầy
+71<>Cấp độ Anh hùng đã đạt giới hạn
+72<>Số Sao Anh hùng đã đạt giới hạn
+73<>Không tìm thấy Anh hùng
+74<>Anh hùng này đã bị khóa
+75<>Nguyên liệu tiến hóa không hợp lệ
+76<>Cần nâng cấp Anh hùng lên cấp độ tối đa
+77<>Không đủ nguyên liệu tiến hóa anh hùng
+78<>Anh hùng đang trong Huấn luyện Tự động
+80<>Đã nhận phần thưởng hàng ngày
+85<>Không thể tháo rời Điện Thờ
+90<>Mảnh anh hùng không đủ
+91<>Không tìm thấy Mảnh anh hùng
+100<>Chuyển đổi thất bại
+101<>Không tìm thấy Anh hùng để chuyển đổi
+110<>Không thể mua cuộn triệu hồi
+120<>Cấp độ vật phẩm không đủ
+121<>Cấp độ vật phẩm đã đạt giới hạn
+122<>Vật phẩm không được trang bị
+123<>Không tìm thấy Vật phẩm
+124<>Vật phẩm không phù hợp
+130<>Lượt mua đã đạt giới hạn
+131<>Không tìm thấy màn chơi Thử Thách
+132<>Cấp độ Thử Thách không đủ
+140<>Anh hùng đã vào Hỏa Ngục
+141<>Anh hùng ở Hỏa Ngục đã chết
+142<>Cần Chọn ít nhất 1 Anh hùng
+143<>Không tìm thấy Thương Nhân Hoả Ngục
+144<>Hỏa Ngục đã đóng
+145<>Tối đa chọn 5 Anh hùng
+146<>Vị trí Anh hùng không hợp lệ
+148<>Không tìm thấy Anh hùng
+149<>Không tìm thấy Dược phẩm
+150<>Màn chơi ở Hỏa Ngục đạt tối ta
+160<>Bảng bổ trợ đã đạt giới hạn
+161<>Bảng bổ trợ đã bị khóa
+162<>Thiết lập lại thất bại
+163<>Đã cài đặt lại Bảng bổ trợ
+170<>Đã chọn Triệu hồi sư
+171<>Không thể chọn Triệu Hồi Sư
+172<>Không thể chọn kỹ năng của Triệu Hồi Sư
+173<>Số sao của Triệu Hồi Sư đã đạt giới hạn
+180<>Không thể mua thêm Đá vận mệnh
+181<>Không thể mua thêm Đá nguyện ước
+190<>Không thể nhận Vàng
+200<>Đã đạt giới hạn mua hàng
+201<>Tháp Rồng đã đạt đến tầng tối đa
+210<>Không có nhiệm vụ để làm mới
+211<>Không thể thay đổi khóa của nhiệm vụ
+212<>Không thể hủy nhiệm vụ
+213<>Không thể bắt đầu nhiệm vụ này
+214<>Không tìm thấy nhiệm vụ
+215<>Anh hùng này đã tham gia một nhiệm vụ khác
+216<>Anh hùng này không đáp ứng yêu cầu nhiệm vụ
+217<>Nhiệm vụ quán rượu không được hoàn thành
+218<>Nhiệm vụ quán rượu đã hoàn thành
+219<>Nhiệm vụ quán rượu đã đạt giới hạn
+220<>Không thể tăng tốc nhiệm vụ quán rượu
+230<>Tính năng bị khóa
+240<>Huấn luyện tự động đã đầy
+241<>Chiến Dịch đã đạt giới hạn
+242<>Không tìm thấy Màn chơi Chiến Dịch
+243<>Màn chơi của Chiến Dịch đang khóa
+244<>Chỉ có thể huấn luyện Anh hùng 1 đến 3 sao
+245<>Vui lòng chọn Anh hùng tham gia Huấn luyện
+246<>Cấp độ Chiến Dịch không đủ
+250<>Bạn bè đã tồn tại
+251<>Đã gửi yêu cầu kết bạn.
+252<>Danh sách bạn bè đầy
+253<>Không tìm thấy bạn bè
+254<>Không tìm thấy yêu cầu kết bạn
+255<>Không thể do thám
+256<>Do thám không thành công
+257<>Boss đã tồn tại
+258<>Không tìm thấy Boss Bạn Bè
+259<>Chênh lệch cấp độ quá lớn
+260<>Số lượt đã hết
+265<>Điểm Bằng Hữu đã đạt giới hạn
+266<>Không có Điểm Bằng Hữu
+270<>Bạn đã đạt đến giới hạn gửi thư
+271<>Không tìm thấy thư
+272<>Không thể xóa thư
+273<>Không thể nhận thưởng trong thư
+274<>Độ dài thư không hợp lệ
+290<>Không tìm thấy đối thủ
+291<>Chưa thiết lập đội hình Đấu Trường
+292<>Lượt mua Vé Đấu Trường đã đạt giới hạn
+300<>Không tìm thấy lịch sử
+310<>Trò chuyện không thành công
+311<>Độ dài đoạn chat không hợp lệ
+312<>Không tìm thấy tin nhắn trò chuyện
+320<>Không tìm thấy video phần thưởng
+321<>Đã đạt giới hạn xem video phần thưởng
+350<>Người chơi đã tham gia một Bang Hội khác
+351<>Không tìm thấy Bang Hội
+352<>Bạn vừa rời khỏi Bang hội, vui lòng thử lại sau %s phút
+353<>Bang Hội đã đầy
+354<>Không tìm thấy thành viên Bang Hội
+355<>Không thể rời Bang Hội
+360<>Tên Bang Hội không hợp lệ
+361<>Tên Bang Hội đã bị cấm
+362<>Tên Bang Hội đã tồn tại
+363<>Mô tả Bang Hội không hợp lệ
+364<>Mô tả Bang Hội đã bị cấm
+370<>Cấp độ Bang Chủ không đủ
+371<>Không thể thực hiện yêu cầu
+372<>Đã đủ Phó bang
+373<>Thành viên đã điểm danh
+374<>Lượt điểm danh trong Bang đã đạt giới hạn
+375<>Quyên góp trong bang đã đạt giới hạn
+376<>Thành viên đã không hoạt động quá lâu
+380<>Danh sách xin gia nhập
+381<>Danh sách xin gia nhập đã đầy
+382<>Không tìm thấy danh sách gia nhập
+390<>Cấp độ công trình Bang Hội đã đạt giới hạn
+391<>Vui lòng chờ tới khi công trình hoàn tất
+392<>Không thể nâng cấp công trình Bang Hội
+393<>Cối xay chưa được xây dựng
+394<>Không thể nhận tài nguyên
+400<>Không tìm thấy Boss Bang Hội
+401<>Đã chiến Boss Bang Hội
+402<>Không thể chiến Boss Bang Hội
+403<>Không thể chọn Boss Bang Hội
+404<>Không tìm thấy thống kê
+410<>Đã tham gia Hỏa Ngục Bang Hội
+411<>Không tìm thấy Hỏa Ngục Bang Hội
+412<>Không tìm thấy chế độ Hỏa Ngục Bang Hội
+413<>Hỏa Ngục Bang Hội đã đóng
+422<>Không tìm thấy đối thủ trong Bang hội Chiến
+423<>Không thể chọn Bang Hội của đối thủ
+424<>Số lượng thành viên không hợp lệ
+425<>Không tìm thấy đối thủ trong Bang hội Chiến
+426<>Đạt đến giới hạn tấn công trong Chiến tranh Bang hội
+427<>Không thể tham gia do chưa đăng ký Bang Hội chiến.
+428<>Không tham gia Bang Hội Chiến
+430<>Kết thúc thời gian đăng ký Bang hội Chiến
+431<>Kết thúc thời gian đăng ký Bang hội Chiến
+450<>Không tìm thấy nhiệm vụ
+451<>Không thể nhận phần thưởng nhiệm vụ
+452<>Mở khóa nhiệm vụ không thành công
+460<>Không tìm thấy vật phẩm trong cửa hàng
+461<>Đã bán hết
+470<>Đội hình không hợp lệ
+480<>Không tìm thấy ảnh đại diện
+481<>Không tìm thấy khung ảnh đại diện
+490<>Không tìm thấy hướng dẫn
+501<>Thư lấy lại mật khẩu đã giới hạn
+502<>Số lần nhập lại mã lấy mật khẩu đạt giới hạn
+503<>Mã lấy lại mật khẩu đã hết hạn
+504<>Mã mật khẩu không khớp
+510<>Đã đạt đến giới hạn gửi thư
+511<>Đạt đến giới hạn nhập mã email
+512<>Mã xác thực email đã hết hạn
+513<>Mã xác thực email không khớp
+514<>Email đã tồn tại
+515<>Email không thể gửi
+516<>Email đã được xác nhận
+517<>Không tìm thấy Email này
+518<>Email này chưa được xác nhận
+600<>Không tìm thấy gói mua này
+601<>Giao dịch mua không hợp lệ
+602<>Hết hạn mua gói lần đầu
+603<>Gói mua này hiện không có sẵn
+604<>Đã bán hết
+605<>Giao dịch mua đã được xử lý
+606<>Giao dịch mua này không được hỗ trợ
+607<>Không tìm thấy giao dịch này
+700<>Chưa mở sự kiện
+701<>Không tìm thấy sự kiện
+740<>Đã nhận phần thưởng đăng nhập sự kiện
+741<>Không tìm thấy phần thưởng đăng nhập sự kiện
+750<>Không tìm thấy phần thưởng trong sự kiện lễ hội
+751<>Đã nhận phần thưởng sự kiện lễ hội
+752<>Không đáp ứng yêu cầu sự kiện lễ hội
+760<>Đổi quà Sự kiện đã đạt giới hạn
+761<>Đổi thất bại
+770<>Không tìm thấy phần thưởng xếp hạng trong Đấu Trường
+771<>Không đáp ứng yêu cầu xếp hạng trong Đấu Trường
+772<>Đã nhận phần thưởng xếp hạng trong Đấu Trường
+780<>Sự kiện Vòng Quay Định Mệnh không thể quay
+781<>Sự kiện Vòng Quay Định Mệnh không thể làm lại
+782<>Đã đạt đến giới hạn làm lại của sự kiện Vòng Quay Định Mệnh
+783<>Sự kiện Vòng Quay Định Mệnh đã hoàn thành
+784<>Sự kiện bánh xe định mệnh không có nhiệm vụ nào được giao
+785<>Sự kiện Vòng Quay Định Mệnh chưa được giao
+786<>Sự kiện Vòng Quay Định Mệnh chưa hoàn thành
+262<>Bạn bè của người chơi đạt giới hạn
+414<>Tiến trình Hoả Ngục đã hoàn thành
+261<>Boss đã bị hạ gục
+60<>Tài khoản google này đã được liên kết
+158<>Buff không thể sử dụng
+420<>Đối thủ không đăng ký tham gia
+421<>Bạn đã đăng ký tham gia
+432<>Kết thúc Bang hội Chiến
+570<>Tính năng sẽ mở sau khi vượt qua màn Khó 5-15 trong Chiến Dịch
+571<>Anh hùng không thể đặt vào Ô tiến cấp
+573<>Anh hùng đang trong Danh sách Tiến cấp
+574<>Anh hùng đang trong nhóm Ngũ Hùng
+79<>Anh hùng đang trong Danh sách Tiến cấp
+102<>Anh hùng đang trong Cây Tiên Tri
+248<>Anh hùng đang trong Danh sách Tiến cấp
+263<>Danh sách bạn bè đạt giới hạn
+294<>Không tìm thấy đối thủ
+356<>Người chơi đã rời Bang hội
+463<>Cấp độ Tiệm tạp hoá đạt giới hạn
+762<>Duplicate hero id
+763<>Anh hùng không phù hợp
+764<>Item is not matched
+765<>Artifact is not matched
+766<>Too many materials
+840<>EVENT_PASS_NOT_BUY
+841<>EVENT_PASS_MILE_STONE_OUT_OF_STOCK
+850<>EVENT_HALLOWEEN_LOGIN_ALREADY_CLAIMED
+851<>EVENT_HALLOWEEN_CLAIM_DAY_INVALID
+852<>EVENT_HALLOWEEN_EXCHANGE_LIMIT_REACHED
+853<>EVENT_HALLOWEEN_EXCHANGE_RECIPE_INVALID
+860<>EVENT_BLACK_FRIDAY_GEM_PACK_INVALID
+861<>EVENT_BLACK_FRIDAY_GEM_PACK_LIMIT_REACHED
+61<>Tài khoản Sungame Id này đã tồn tại
+582<>Anh hùng đang trong Liên kết. Thời gian chờ chưa kết thúc.
+870<>
+871<>Số lượt đổi quà đạt giới hạn
+872<>
+873<>Hãy hoàn thiện đội hình
+874<> Không đủ quả châu của Ignatius
+880<>Số lượt đổi quà đạt giới hạn 
+881<>
+893<>Ai đó trong Bang hội của bạn đã tiêu diệt boss này.
+902<>Bạn đã vượt quá số lần triệu hồi bằng Ngọc.
+912<>Không đủ Ái Tiễn để đánh boss
+918<>
+562<>Máy chủ phản hồi quá lâu. Cần khởi động lại game.
+930<>Bạn đã nhận tất cả phần thưởng.
+650<>
+651<>
+652<>
+653<>Tộc của anh hùng không phù hợp.
+655<>Tên đội không hợp lệ.
+656<>Tên đội đã bị cấm.
+657<>Mô tả đội không hợp lệ.
+658<>Mô tả đội đã bị cấm sử dụng.
+660<>Đã tham gia vào một đội.
+661<>Tổ đội không tìm thấy
+662<>Bạn đang không trong đội nào.
+663<>Không tìm thấy người chơi này.
+664<>
+665<>Đội này đang đánh Bí cảnh.
+666<>Đội đã đầy
+667<>Đội đã bị giải tán.
+668<>Có người chơi chưa Sẵn sàng.
+670<>Người chơi này đã được mời tham gia đội.
+671<>Số lượt mời gia nhập đội đạt giới hạn.
+672<>Lời mời nhập đội đã hết hiệu lực do đội bị giải tán.
+673<>Lời mời nhập đội đã hết hiệu lực do đội bị giải tán.
+675<>Đã gửi đơn xin vào đội này.
+676<>Số lượt xin gia nhập đội đạt giới hạn.
+677<>
+678<>
+679<>
+680<>Bạn bấm Sẵn sàng nhanh quá. Hãy chờ thêm xíu nhé.
+681<>
+682<>
+683<>
+684<>Maximum stage completed.
+685<>Bạn đã hết lượt đánh Bí cảnh.
+669<>Không đủ số lượng thành viên để bắt đầu.
+357<>Bạn chưa tham gia Bang hội.
+690<>Không thể rời đội lúc này.
+151<>Bạn thao tác quá nhanh. Hãy mở lại game nhé.
+654<>Người chơi này chưa lưu đội hình
+686<>Chậm lại chút nào. Bạn đổi Đội Trưởng quá nhanh rồi.
+616<>Bạn chưa chọn Anh hùng hoặc Cổ vật.
+1126<>Bạn đã đạt cấp tối đa nên không cần mua thêm cấp.
+1152<>Bạn không còn lượt quay.
+1151<>Bạn không còn lượt quay.
+1153<>Bạn đã quay tối đa số lượt có thể.
+742<>Không thể nhận phần thưởng này.
+1160<>Bạn cần phải chọn một anh hùng để hoàn thành mua hàng.
+1163<>Bạn cần chọn một vật phẩm để nhận.
+984<>Bạn cần chọn anh hùng trước khi thực hiện đổi phần thưởng.
+994<>Bạn đã nhận tất cả phần thưởng.
+203<>Bạn chưa đủ cấp độ để đánh tầng này
+1251<>Số lần đổi thưởng đạt tối đa
+1253<>Không đủ tài nguyên để nối sao
+1262<>Hoàn thành tất cả yêu cầu để nhận 
+125<>Mở khoá khi anh hùng đạt 14 sao

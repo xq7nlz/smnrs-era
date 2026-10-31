@@ -1,0 +1,4 @@
+id,ios_package_name,android_package_name,res_type,res_id,res_number,res_data,stock,price,is_free
+1,com.fansipan.summoners.era.normal.battle.pass.ss17,com.fansipan.summoners.era.normal.battle.pass.ss17,2,2,750,,1,14.99,FALSE
+2,com.fansipan.summoners.era.premium.battle.pass.ss17,com.fansipan.summoners.era.premium.battle.pass.ss17,2,195,1000,,1,19.99,FALSE
+,,,2,2,1000,,,,

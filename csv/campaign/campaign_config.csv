@@ -1,0 +1,5 @@
+max_idle_time,idle_interval_generate_money,idle_interval_generate_item,auto_train_slot,train_star_max,train_slot_increment_level
+43200,5,30,2,3,70
+,,,,,90
+,,,,,110
+,,,,,150

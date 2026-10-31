@@ -1,0 +1,40 @@
+key<>value
+vip_1<>VIP 1
+vip_2<>VIP 2
+vip_3<>VIP 3
+vip_4<>VIP 4
+vip_5<>VIP 5
+vip_6<>VIP 6
+vip_7<>VIP 7
+vip_8<>VIP 8
+vip_9<>VIP 9
+vip_10<>VIP 10
+vip_11<>VIP 11
+vip_12<>VIP 12
+vip_13<>VIP 13
+vip_point_to_reach<>Cần %s điểm VIP để đạt
+vip_instant<>Đạt cấp độ VIP này để thu thập:
+vip_daily<>Phần thưởng hàng ngày cho thẻ tháng Thống lĩnh và thẻ tháng Tiên tri
+vip_point_required<>Yêu cầu điểm VIP
+campaign_bonus_idle_time_max<>Thời gian Ủy Thác: %s
+campaign_bonus_gold<>Vàng Ủy Thác tăng: %s
+campaign_bonus_magic_potion<>Bình kinh nghiệm Ủy Thác tăng: %s
+campaign_bonus_auto_train_slot<>Số chỗ huấn luyện Anh hùng: %s
+tavern_bonus_quest<>Giới số nhiệm vụ Quán rượu: %s
+raid_bonus_turn_buy<>Số lần mua thêm lượt trong Khai Khoáng: %s
+casino_unlock_multiple_spin<>Mở khóa tính năng quay nhiều lần trong Vòng Quay Nguyện Ước
+casino_unlock_premium_spin<>Mở khóa ngay tính năng Vòng Quay Vận Mệnh
+casino_bonus_turn_buy_basic_chip<>Số lần mua thêm Đá Nguyện Ước: %s
+battle_unlock_speed_up<>Mở khóa ngay tính năng Tăng tốc trận đấu
+battle_unlock_skip<>Mở khóa ngay tính năng Bỏ Qua Trận Đấu
+hand_of_midas_bonus_gold<>Vàng tại Mỏ Vàng: %s
+summon_unlock_accumulate<>Mở khóa ngay Triệu hồi Năng lượng trong Triệu Hồi Cao Cấp
+arena_bonus_ticket_buy<>Số lượt mua Vé Đấu Trường: %s
+campaign_bonus_quick_battle_buy_turn<>Mua thêm lượt tua nhanh: %s
+current_vip<>Cấp VIP hiện tại
+campaign_bonus_exp_summoner<>Thêm %s kinh nghiệm triệu hồi sư trong Chiến Dịch
+dungeon_challenge_increased<>Tăng phần thưởng vượt màn trong Hỏa Ngục %s
+allow_skip_ads<>Mở khóa tính năng bỏ qua xem quảng cáo
+allow_prophet_tree_use_gem<>Cho phép dùng Ngọc để triệu hồi trong Cây Tiên Tri
+battle_unlock_skip_arena<>Mở khoá tính năng Bỏ qua diễn trận trong Đấu Trường
+auto_next_battle<>Mở khoá tính năng Tự chuyển màn chơi

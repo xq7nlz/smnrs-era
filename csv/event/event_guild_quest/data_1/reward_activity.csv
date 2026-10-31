@@ -1,0 +1,7 @@
+quest_id,quest_type,convert_rate,requirement_1,requirement_2,requirement_3,requirement_4,requirement_5,res_type,res_id,res_number,res_data
+1,400,1,1,,,,,2,130,10,
+2,601,1,1,1,,,,2,130,60,
+3,1100,1,1,,,,,2,130,75,
+4,822,1,1,,,,,2,131,125,
+5,801,1,1,,,,,2,131,250,
+6,830,1,1,,,,,2,131,250,
