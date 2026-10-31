@@ -25,11 +25,9 @@ local data = json.decode(contents)
 --------------------------------------------------------------------------------
 local linkingDict = Dictionary()
 
-linkingDict:Add(7, 3)
-linkingDict:Add(14, 3)
-linkingDict:Add(21, 3)
-linkingDict:Add(24, 3)
-linkingDict:Add(25, 3)
+for i = 1, 25 do
+  linkingDict:Add(i, 3)
+end
 
 --------------------------------------------------------------------------------
 function iniTeam(data)

@@ -122,7 +122,7 @@ function BattleMgr:RunVirtualBattle(attackerTeamInfo, defenderTeamInfo, gameMode
     if battleString ~= nil then
         print("Have Battle Log")
     else
-        print("Not Have Battle Log")
+        --print("Not Have Battle Log")
     end
     randomHelper = randomHelper or ClientMathUtils.randomHelper
     zg.sceneMgr.gameMode = gameMode or GameMode.CAMPAIGN
@@ -176,7 +176,7 @@ function BattleMgr:SaveBattleLogTxt(log)
         file:write(log)
         
         file:close()
-        print("File saved successfully.")
+        print("Export battlelog.txt successfully.")
     else
         print("Error: Could not open file for writing.")
     end
@@ -189,7 +189,7 @@ function BattleMgr:SaveBattleLogJson(log)
         file:write(log)
         
         file:close()
-        print("File saved successfully.")
+        print("Export battlelog.json successfully.")
     else
         print("Error: Could not open file for writing.")
     end
